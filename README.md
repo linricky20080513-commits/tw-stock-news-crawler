@@ -10,6 +10,7 @@
 | `cnyes`   | 鉅亨網   | JSON API | 主來源,結構化、含發布時間與相關個股代號 |
 | `cna`     | 中央社   | RSS | 財經新聞 |
 | `ettoday` | ETtoday  | RSS | 財經新聞 |
+| `ltn`     | 自由財經 | RSS | 自由時報財經即時新聞 |
 
 > 原本規劃的 Yahoo 股市 RSS 已被官方擋掉 (HTTP 999),故改用中央社與 ETtoday。
 
@@ -49,7 +50,7 @@ python run.py --data-dir my_data
 
 | 參數 | 預設 | 說明 |
 |------|------|------|
-| `--source`   | `all` | 來源,可多選:`cnyes` `cna` `ettoday` `all` |
+| `--source`   | `all` | 來源,可多選:`cnyes` `cna` `ettoday` `ltn` `all` |
 | `--watch`    | 關閉  | 持續輪詢的即時監控模式 |
 | `--interval` | `60`  | 輪詢間隔秒數 |
 | `--keywords` | 無    | 只保留標題/摘要含這些關鍵字的新聞 |
@@ -63,10 +64,25 @@ python run.py --data-dir my_data
 每則新聞欄位:發布時間、來源、標題、相關個股、網址、摘要。
 跨執行去重:已抓過的網址 (以 MD5 為 `uid`) 不會重複寫入或重複顯示。
 
+## 前端看板
+
+根目錄的 `index.html` 是一個零依賴的單檔視覺化看板,直接讀取 `data/news.json`。
+在專案根目錄起一個本機 HTTP 伺服器再開啟即可 (不要直接雙擊,`file://` 會被瀏覽器擋住 fetch):
+
+```powershell
+python -m http.server 8000
+# 開啟 http://localhost:8000
+```
+
+功能:統計卡片、**來源分布甜甜圈圖 (含則數與百分比)**、熱門個股前 10、
+**來源 × 時間趨勢堆疊柱狀圖**、關鍵字搜尋、來源/個股/時間範圍篩選與排序。
+爬蟲跑完後按看板上的「↻ 重新整理」即可載入最新資料。
+
 ## 專案結構
 
 ```
 tw-stock-news-crawler/
+├─ index.html              # 前端看板 (零依賴,讀 data/news.json)
 ├─ run.py                  # 啟動器 (處理 sys.path / 編碼)
 ├─ requirements.txt
 ├─ crawler/

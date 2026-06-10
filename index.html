@@ -216,6 +216,16 @@ function highlight(text, q) {
   } catch { return t; }
 }
 
+// 每個來源固定一個顏色（依名稱排序，確保跨圖一致）
+const PALETTE = ["#4aa8ff", "#3fb950", "#f0a35e", "#d2a8ff", "#f85149", "#56d4dd", "#e6c54a", "#ff7b9c"];
+let SOURCE_COLORS = {};
+function buildSourceColors() {
+  const sources = [...new Set(ALL.map(n => n.source).filter(Boolean))].sort();
+  SOURCE_COLORS = {};
+  sources.forEach((s, i) => SOURCE_COLORS[s] = PALETTE[i % PALETTE.length]);
+}
+function sourceColor(s) { return SOURCE_COLORS[s] || "#7a8a99"; }
+
 async function load() {
   const meta = document.getElementById("meta");
   meta.textContent = "載入中…";
@@ -234,6 +244,7 @@ async function load() {
   const sources = [...new Set(ALL.map(n => n.source).filter(Boolean))].sort();
   sel.innerHTML = '<option value="">全部來源</option>' + sources.map(s => `<option>${esc(s)}</option>`).join("");
   sel.value = state.source;
+  buildSourceColors();
   renderStats();
   renderCharts();
   render();
@@ -271,10 +282,93 @@ function barChart(el, entries, onClick) {
     row.addEventListener("click", () => onClick(row.dataset.name)));
 }
 
+// 甜甜圈圖 + 含百分比的圖例
+function donutChart(el, entries, onClick) {
+  const total = entries.reduce((s, e) => s + e[1], 0);
+  const size = 132, cx = size / 2, cy = size / 2, R = 52, C = 2 * Math.PI * R;
+  let offset = 0;
+  const segs = entries.map(([name, cnt]) => {
+    const len = total ? cnt / total * C : 0;
+    const seg = `<circle data-name="${esc(name)}" cx="${cx}" cy="${cy}" r="${R}" fill="none"
+      stroke="${sourceColor(name)}" stroke-width="22"
+      stroke-dasharray="${len.toFixed(2)} ${(C - len).toFixed(2)}" stroke-dashoffset="${(-offset).toFixed(2)}"
+      transform="rotate(-90 ${cx} ${cy})" style="cursor:pointer"></circle>`;
+    offset += len;
+    return seg;
+  }).join("");
+  const svg = `<svg class="donut" width="${size}" height="${size}" viewBox="0 0 ${size} ${size}">
+    ${segs}
+    <text class="hole-num" x="${cx}" y="${cy - 1}" text-anchor="middle">${total}</text>
+    <text class="hole-label" x="${cx}" y="${cy + 15}" text-anchor="middle">則新聞</text>
+  </svg>`;
+  const legend = '<div class="legend">' + entries.map(([name, cnt]) => {
+    const pct = total ? (cnt / total * 100).toFixed(1) : "0.0";
+    const dim = state.source && state.source !== name ? " dim" : "";
+    return `<div class="legend-row${dim}" data-name="${esc(name)}">
+      <span class="swatch" style="background:${sourceColor(name)}"></span>
+      <span class="lname" title="${esc(name)}">${esc(name)}</span>
+      <span class="lpct">${cnt} · ${pct}%</span>
+    </div>`;
+  }).join("") + "</div>";
+  el.innerHTML = `<div class="donut-wrap">${svg}${legend}</div>`;
+  el.querySelectorAll("circle[data-name], .legend-row").forEach(node =>
+    node.addEventListener("click", () => onClick(node.dataset.name)));
+}
+
+// 來源 × 時間 堆疊柱狀圖
+function fmtBucket(t, byHour) {
+  const opts = byHour
+    ? { timeZone: TZ, month: "2-digit", day: "2-digit", hour: "2-digit", hour12: false }
+    : { timeZone: TZ, month: "2-digit", day: "2-digit" };
+  return new Date(t).toLocaleString("zh-Hant", opts);
+}
+function renderTrend() {
+  const el = document.getElementById("trendChart");
+  const unitEl = document.getElementById("trendUnit");
+  const times = ALL.map(n => parseTime(n.published_at)?.getTime()).filter(Boolean);
+  if (!times.length) { el.innerHTML = '<div class="meta">無時間資料</div>'; unitEl.textContent = ""; return; }
+
+  const byHour = (Math.max(...times) - Math.min(...times)) <= 48 * 3600 * 1000;
+  const sources = Object.keys(SOURCE_COLORS);
+  const buckets = new Map(); // key -> {label, minT, total, bySource}
+  ALL.forEach(n => {
+    const t = parseTime(n.published_at)?.getTime();
+    if (!t || !n.source) return;
+    const key = fmtBucket(t, byHour);
+    let b = buckets.get(key);
+    if (!b) { b = { label: key, minT: t, total: 0, bySource: {} }; buckets.set(key, b); }
+    b.minT = Math.min(b.minT, t);
+    b.total++;
+    b.bySource[n.source] = (b.bySource[n.source] || 0) + 1;
+  });
+
+  let cols = [...buckets.values()].sort((a, b) => a.minT - b.minT);
+  const CAP = 24, truncated = cols.length > CAP;
+  if (truncated) cols = cols.slice(-CAP);
+  unitEl.textContent = (byHour ? "(每小時" : "(每日") + (truncated ? `・最近 ${CAP} 格)` : ")");
+
+  const maxTotal = Math.max(1, ...cols.map(c => c.total));
+  const H = 150;
+  const labelEvery = Math.ceil(cols.length / 12);
+  const stacks = cols.map(c => {
+    const h = c.total / maxTotal * H;
+    const segs = sources.filter(s => c.bySource[s]).map(s => {
+      const cnt = c.bySource[s];
+      return `<div class="trend-seg" title="${esc(s)} ${c.label}：${cnt} 則"
+        style="height:${(cnt / c.total * h).toFixed(1)}px;background:${sourceColor(s)}"></div>`;
+    }).join("");
+    return `<div class="trend-col"><div class="trend-stack" style="height:${h.toFixed(1)}px"
+      title="${esc(c.label)}：共 ${c.total} 則">${segs}</div></div>`;
+  }).join("");
+  const labels = cols.map((c, i) =>
+    `<span title="${esc(c.label)}">${(i % labelEvery === 0 || i === cols.length - 1) ? esc(c.label) : ""}</span>`).join("");
+  el.innerHTML = `<div class="trend">${stacks}</div><div class="trend-x">${labels}</div>`;
+}
+
 function renderCharts() {
   const bySource = {};
   ALL.forEach(n => { if (n.source) bySource[n.source] = (bySource[n.source] || 0) + 1; });
-  barChart(document.getElementById("sourceChart"),
+  donutChart(document.getElementById("sourceChart"),
     Object.entries(bySource).sort((a, b) => b[1] - a[1]),
     name => { state.source = state.source === name ? "" : name; document.getElementById("sourceSel").value = state.source; render(); });
 
@@ -283,6 +377,8 @@ function renderCharts() {
   barChart(document.getElementById("stockChart"),
     Object.entries(byStock).sort((a, b) => b[1] - a[1]).slice(0, 10),
     name => { state.stock = state.stock === name ? "" : name; render(); });
+
+  renderTrend();
 }
 
 function applyFilters() {
@@ -317,8 +413,14 @@ function renderActiveFilters() {
     el.addEventListener("click", () => { chips[i][1](); render(); }));
 }
 
+function updateLegendDim() {
+  document.querySelectorAll("#sourceChart .legend-row").forEach(row =>
+    row.classList.toggle("dim", !!state.source && row.dataset.name !== state.source));
+}
+
 function render() {
   renderActiveFilters();
+  updateLegendDim();
   const items = applyFilters();
   const list = document.getElementById("list");
   if (!items.length) { list.innerHTML = '<div class="empty">沒有符合條件的新聞。</div>'; return; }
