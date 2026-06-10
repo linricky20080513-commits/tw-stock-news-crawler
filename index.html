@@ -3,249 +3,667 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>台股新聞看板</title>
+<title>台股新聞 · 行情日報</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;900&family=Noto+Sans+TC:wght@500;700;900&family=Share+Tech+Mono&display=swap" rel="stylesheet">
 <style>
+  @property --hue { syntax: "<number>"; inherits: true; initial-value: 0; }
   :root {
-    --bg: #0f1419;
-    --panel: #1a212b;
-    --panel-2: #222c38;
-    --border: #2c3a48;
-    --text: #e6edf3;
-    --muted: #8b98a5;
-    --accent: #4aa8ff;
-    --accent-soft: #1f3b54;
-    --green: #3fb950;
-    --red: #f85149;
-    --chip: #2a3744;
+    --hue: 0;
+    --text: #eafbff;
+    --muted: #7ea6c2;
+    --n1: hsl(var(--hue) 100% 64%);
+    --n2: hsl(calc(var(--hue) + 80) 100% 65%);
+    --n3: hsl(calc(var(--hue) + 180) 100% 66%);
+    --glow: hsl(var(--hue) 100% 55%);
+    --danger: #ff2d6b;
+    --font-head: "Noto Sans TC", sans-serif;
+    --font-latin: "Orbitron", "Noto Sans TC", sans-serif;
+    --font-serif: "Noto Sans TC", sans-serif;
+    --font-mono: "Share Tech Mono", ui-monospace, monospace;
   }
+  body.fx-neon { animation: huecycle 1.5s linear infinite; }
   * { box-sizing: border-box; }
+  html { -webkit-font-smoothing: antialiased; }
   body {
-    margin: 0;
-    font-family: "Segoe UI", "Microsoft JhengHei", system-ui, sans-serif;
-    background: var(--bg);
-    color: var(--text);
-    line-height: 1.5;
+    margin: 0; min-height: 100vh; overflow-x: hidden;
+    background: #05030c; color: var(--text); font-family: var(--font-serif); line-height: 1.55;
   }
-  a { color: var(--accent); text-decoration: none; }
-  a:hover { text-decoration: underline; }
+  ::selection { background: var(--n2); color: #04020a; }
 
-  header {
-    position: sticky; top: 0; z-index: 10;
-    background: linear-gradient(180deg, #131a22, #0f1419);
-    border-bottom: 1px solid var(--border);
-    padding: 16px 24px;
+  /* 背景三層：霓虹光暈、掃描網格、掃描線 */
+  .bg-glow, .bg-grid, .bg-scan { position: fixed; inset: 0; pointer-events: none; }
+  .bg-glow {
+    z-index: -3; filter: blur(55px) saturate(1.5); opacity: .95;
+    background:
+      radial-gradient(40% 48% at 16% 14%, hsl(var(--hue) 100% 55% / 1), transparent 68%),
+      radial-gradient(44% 52% at 86% 18%, hsl(calc(var(--hue) + 110) 100% 55% / .95), transparent 68%),
+      radial-gradient(52% 58% at 50% 104%, hsl(calc(var(--hue) + 220) 100% 55% / .95), transparent 68%);
+    animation: blob 8s ease-in-out infinite, glowflash 1.3s ease-in-out infinite;
   }
-  .header-row { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
-  h1 { font-size: 20px; margin: 0; font-weight: 700; }
-  h1 .dot { color: var(--accent); }
-  .meta { color: var(--muted); font-size: 13px; }
-  .spacer { flex: 1; }
-  button {
-    background: var(--panel-2); color: var(--text);
-    border: 1px solid var(--border); border-radius: 8px;
-    padding: 8px 14px; cursor: pointer; font-size: 13px;
+  .bg-grid {
+    z-index: -2; opacity: .5;
+    background-image:
+      linear-gradient(hsl(var(--hue) 100% 65% / .10) 1px, transparent 1px),
+      linear-gradient(90deg, hsl(var(--hue) 100% 65% / .10) 1px, transparent 1px);
+    background-size: 46px 46px;
+    -webkit-mask-image: radial-gradient(120% 90% at 50% 0%, #000, transparent 85%);
+    mask-image: radial-gradient(120% 90% at 50% 0%, #000, transparent 85%);
+    animation: gridscroll 7s linear infinite;
   }
-  button:hover { border-color: var(--accent); }
-  button.primary { background: var(--accent); color: #06121f; border-color: var(--accent); font-weight: 600; }
-
-  .wrap { padding: 20px 24px 60px; max-width: 1200px; margin: 0 auto; }
-
-  .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 14px; margin-bottom: 20px; }
-  .card {
-    background: var(--panel); border: 1px solid var(--border);
-    border-radius: 12px; padding: 16px 18px;
+  .bg-scan {
+    z-index: 9998; opacity: .35; mix-blend-mode: overlay;
+    background: repeating-linear-gradient(0deg, rgba(255,255,255,.07) 0 1px, transparent 1px 3px);
+    animation: scan 8s linear infinite;
   }
-  .card .label { color: var(--muted); font-size: 12px; }
-  .card .value { font-size: 26px; font-weight: 700; margin-top: 4px; }
 
-  .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 20px; }
-  @media (max-width: 760px) { .grid2 { grid-template-columns: 1fr; } }
-  .panel { background: var(--panel); border: 1px solid var(--border); border-radius: 12px; padding: 16px 18px; }
-  .panel h2 { font-size: 14px; margin: 0 0 12px; color: var(--muted); font-weight: 600; }
+  @keyframes huecycle { to { --hue: 360; } }
+  @keyframes blob { 0%,100% { transform: translate(0,0) scale(1); } 50% { transform: translate(3%, 2%) scale(1.08); } }
+  @keyframes gridscroll { to { background-position: 46px 46px; } }
+  @keyframes scan { to { background-position: 0 220px; } }
+  @keyframes rise { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: translateY(0); } }
+  @keyframes ticker { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+  @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+  @keyframes growUp { from { transform: scaleY(0); } to { transform: scaleY(1); } }
+  @keyframes flicker {
+    0%,17%,21%,24%,55%,59%,100% { opacity: 1; }
+    19%,23%,57% { opacity: .45; }
+  }
+  @keyframes dangerPulse {
+    0%,100% { background: rgba(255,45,107,.1); box-shadow: inset 0 0 30px rgba(255,45,107,.25); }
+    50% { background: rgba(255,45,107,.38); box-shadow: inset 0 0 60px rgba(255,45,107,.6); }
+  }
+  @keyframes glowflash { 0%,100% { opacity: .5; } 50% { opacity: 1; } }
+  @keyframes strobe { 0%,42% { opacity: 0; } 43%,100% { opacity: .8; } }
+  @keyframes sweep { to { background-position: -260% 0; } }
+  @keyframes sheetpulse {
+    0%,100% { box-shadow: 0 0 30px var(--n1), 0 0 90px hsl(var(--hue) 100% 50% / .5), inset 0 0 70px hsl(var(--hue) 100% 50% / .12); }
+    50% { box-shadow: 0 0 70px var(--n1), 0 0 180px var(--n2), 0 0 260px var(--n3), inset 0 0 130px hsl(var(--hue) 100% 50% / .3); }
+  }
+  @keyframes numpulse { 0%,100% { filter: brightness(1); } 50% { filter: brightness(1.8); } }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  @keyframes shake { 0%,100% { transform: translate(0,0); } 20% { transform: translate(-3px,2px); } 40% { transform: translate(3px,-2px); } 60% { transform: translate(-2px,-3px); } 80% { transform: translate(2px,3px); } }
+  @keyframes invertflash { 0%,90%,100% { opacity: 0; } 92%,96% { opacity: 1; } }
+  @keyframes glitch {
+    0%,100% { text-shadow: 0 0 10px var(--n1), 0 0 30px var(--n2), 0 0 80px var(--n3); transform: translate(0,0); }
+    20% { text-shadow: -4px 0 #ff003c, 4px 0 #00e6ff, 0 0 50px var(--n2); transform: translate(1px,-1px); }
+    40% { text-shadow: 4px 0 #ff003c, -4px 0 #00e6ff, 0 0 50px var(--n2); transform: translate(-1px,1px); }
+    60% { text-shadow: -3px 0 #ff003c, 3px 0 #00e6ff, 0 0 70px var(--n3); transform: translate(1px,1px); }
+    80% { text-shadow: 3px 0 #ff003c, -3px 0 #00e6ff, 0 0 70px var(--n3); transform: translate(-1px,-1px); }
+  }
 
-  .bar-row { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; font-size: 13px; cursor: pointer; }
-  .bar-row .name { width: 92px; flex-shrink: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-  .bar-track { flex: 1; background: var(--panel-2); border-radius: 6px; height: 18px; overflow: hidden; }
-  .bar-fill { height: 100%; background: linear-gradient(90deg, var(--accent-soft), var(--accent)); border-radius: 6px; }
-  .bar-row .cnt { width: 32px; text-align: right; color: var(--muted); flex-shrink: 0; }
-  .bar-row:hover .name { color: var(--accent); }
+  /* 旋轉彩虹疊光 + 反相爆閃 */
+  .bg-rgb {
+    position: fixed; inset: -50%; pointer-events: none; z-index: 9994; mix-blend-mode: screen; opacity: .38;
+    background: conic-gradient(from 0deg, #ff003c, #ffea00, #00ff66, #00e6ff, #6a00ff, #ff003c);
+    animation: spin 2.4s linear infinite;
+  }
+  .bg-invert {
+    position: fixed; inset: 0; pointer-events: none; z-index: 9999; background: #fff;
+    mix-blend-mode: difference; opacity: 0; animation: invertflash 1.4s steps(1, end) infinite;
+  }
 
-  /* 甜甜圈圖 + 圖例 */
-  .donut-wrap { display: flex; align-items: center; gap: 18px; flex-wrap: wrap; }
-  .donut { flex-shrink: 0; }
-  .donut .hole-num { font-size: 22px; font-weight: 700; fill: var(--text); }
-  .donut .hole-label { font-size: 10px; fill: var(--muted); }
-  .legend { flex: 1; min-width: 140px; }
-  .legend-row { display: flex; align-items: center; gap: 8px; font-size: 13px; padding: 4px 6px; border-radius: 6px; cursor: pointer; }
-  .legend-row:hover { background: var(--panel-2); }
-  .legend-row.dim { opacity: .4; }
-  .legend-row .swatch { width: 11px; height: 11px; border-radius: 3px; flex-shrink: 0; }
-  .legend-row .lname { flex: 1; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-  .legend-row .lpct { color: var(--muted); font-variant-numeric: tabular-nums; }
+  /* 全螢幕頻閃 + 雷射掃光（光害本體） */
+  .bg-flash {
+    position: fixed; inset: 0; pointer-events: none; z-index: 9995; mix-blend-mode: screen;
+    background: radial-gradient(circle at 50% 38%, hsl(var(--hue) 100% 62% / .7), transparent 62%);
+    animation: strobe .2s steps(1, end) infinite;
+  }
+  .bg-laser {
+    position: fixed; inset: 0; pointer-events: none; z-index: 9996; mix-blend-mode: screen;
+    background: linear-gradient(115deg, transparent 42%, hsl(calc(var(--hue) + 60) 100% 72% / .6) 50%, transparent 58%);
+    background-size: 260% 100%; animation: sweep 1.1s linear infinite;
+  }
 
-  /* 來源 × 時間 堆疊柱狀圖 */
-  .trend { display: flex; align-items: flex-end; gap: 6px; height: 160px; padding-top: 6px; }
+  .desk { padding: 30px 18px 80px; }
+  .sheet {
+    max-width: 1180px; margin: 0 auto;
+    background: rgba(9, 6, 20, 0.72);
+    border: 2px solid var(--n1);
+    border-radius: 6px;
+    animation: sheetpulse 1.1s ease-in-out infinite, shake .25s linear infinite;
+  }
+
+  /* ── 報頭 ── */
+  .masthead { padding: 30px 40px 16px; text-align: center; border-bottom: 2px solid hsl(var(--hue) 100% 65% / .5); position: relative; }
+  .kicker { font-family: var(--font-mono); font-size: 11px; letter-spacing: .42em; text-transform: uppercase; color: var(--n2); text-shadow: 0 0 10px var(--n2); padding-left: .42em; }
+  .masthead h1 {
+    font-family: var(--font-head); font-weight: 900; font-size: clamp(40px, 7.5vw, 88px);
+    letter-spacing: .14em; margin: 6px 0 4px; padding-left: .14em; line-height: 1.02; color: #fff;
+    text-shadow: 0 0 10px var(--n1), 0 0 30px var(--n1), 0 0 70px var(--n2), 0 0 110px var(--n3);
+    animation: flicker 1.3s infinite, numpulse 1.1s ease-in-out infinite, glitch .35s steps(2, end) infinite;
+  }
+  .latin { font-family: var(--font-latin); font-weight: 500; color: var(--n3); font-size: clamp(13px, 1.6vw, 18px); letter-spacing: .26em; text-transform: uppercase; text-shadow: 0 0 12px var(--n3); }
+  .dateline {
+    display: flex; justify-content: center; align-items: center; gap: 14px; flex-wrap: wrap;
+    margin-top: 14px; padding-top: 10px; border-top: 1px solid hsl(var(--hue) 100% 65% / .25);
+    font-family: var(--font-mono); font-size: 11.5px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted);
+  }
+  .dateline .sep { color: var(--n2); text-shadow: 0 0 8px var(--n2); }
+  .dateline #meta, .dateline #auto { color: var(--text); }
+
+  /* ── 跑馬燈行情帶 ── */
+  .tape { background: #07041a; overflow: hidden; border-top: 1px solid var(--n1); border-bottom: 1px solid var(--n1); box-shadow: 0 0 22px hsl(var(--hue) 100% 50% / .55); }
+  .tape-track { display: inline-flex; white-space: nowrap; will-change: transform; animation: ticker 46s linear infinite; }
+  .tape:hover .tape-track { animation-play-state: paused; }
+  .tape-item { display: inline-flex; align-items: baseline; gap: 8px; padding: 10px 22px; font-family: var(--font-mono); font-size: 12.5px; letter-spacing: .06em; border-right: 1px solid hsl(var(--hue) 100% 65% / .2); }
+  .tape-item .code { color: var(--text); text-shadow: 0 0 8px var(--n1); }
+  .tape-item .nm { color: var(--muted); }
+  .tape-item .mult { color: var(--n3); text-shadow: 0 0 8px var(--n3); }
+  .tape-empty { padding: 10px 22px; font-family: var(--font-mono); font-size: 12px; color: var(--muted); }
+
+  /* ── 數字 ── */
+  .figures { display: grid; grid-template-columns: repeat(4, 1fr); border-bottom: 1px solid hsl(var(--hue) 100% 65% / .3); }
+  .figure { padding: 22px 22px 20px; border-right: 1px solid hsl(var(--hue) 100% 65% / .22); animation: rise .6s both; }
+  .figures .figure:nth-child(1){ animation-delay: .04s } .figures .figure:nth-child(2){ animation-delay: .1s }
+  .figures .figure:nth-child(3){ animation-delay: .16s } .figures .figure:nth-child(4){ animation-delay: .22s }
+  .figure:last-child { border-right: none; }
+  .figure .num { font-family: var(--font-latin); font-weight: 800; font-size: clamp(30px, 4.6vw, 52px); line-height: 1; color: #fff; font-variant-numeric: tabular-nums; text-shadow: 0 0 8px var(--n1), 0 0 24px var(--n1), 0 0 48px var(--n1); animation: numpulse 1s ease-in-out infinite; }
+  .figure:nth-child(2) .num { text-shadow: 0 0 8px var(--n2), 0 0 24px var(--n2); }
+  .figure:nth-child(3) .num { text-shadow: 0 0 8px var(--n3), 0 0 24px var(--n3); }
+  .figure.accent .num { color: #fff; text-shadow: 0 0 10px var(--danger), 0 0 30px var(--danger); }
+  .figure .cap { font-family: var(--font-mono); font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: var(--muted); margin-top: 10px; }
+  @media (max-width: 640px) { .figures { grid-template-columns: 1fr 1fr; } .figure:nth-child(2){ border-right: none; } }
+
+  /* ── 區塊 ── */
+  .section { padding: 24px 40px; border-bottom: 1px solid hsl(var(--hue) 100% 65% / .22); animation: rise .6s both; }
+  .section-label { display: flex; align-items: center; gap: 14px; font-family: var(--font-mono); font-size: 11px; letter-spacing: .2em; text-transform: uppercase; color: var(--n2); text-shadow: 0 0 10px var(--n2); margin-bottom: 20px; }
+  .section-label::after { content: ""; flex: 1; height: 1px; background: linear-gradient(90deg, var(--n2), transparent); box-shadow: 0 0 8px var(--n2); }
+  .section-label .unit { color: var(--muted); letter-spacing: .1em; text-shadow: none; }
+  .split { display: grid; grid-template-columns: 1fr 1px 1fr; gap: 0 32px; }
+  .split .vrule { background: hsl(var(--hue) 100% 65% / .4); box-shadow: 0 0 10px var(--n1); }
+  @media (max-width: 760px) { .split { grid-template-columns: 1fr; } .split .vrule { display: none; } .split > div:first-child { margin-bottom: 26px; } .masthead, .section { padding-left: 24px; padding-right: 24px; } }
+
+  /* 100% 占比條 + 排行 */
+  .sharebar { display: flex; height: 18px; border: 1px solid hsl(var(--hue) 100% 70% / .6); box-shadow: 0 0 16px hsl(var(--hue) 100% 50% / .5); margin-bottom: 18px; overflow: hidden; transform-origin: left; animation: grow .8s cubic-bezier(.2,.8,.2,1) both; border-radius: 3px; }
+  .sharebar span { height: 100%; cursor: pointer; transition: filter .15s; }
+  .sharebar span:hover { filter: brightness(1.3) saturate(1.2); }
+  .rank-row { display: grid; grid-template-columns: 12px 1fr auto auto; gap: 12px; align-items: baseline; padding: 9px 0; border-bottom: 1px solid hsl(var(--hue) 100% 65% / .15); cursor: pointer; transition: opacity .15s; }
+  .rank-row:last-child { border-bottom: none; }
+  .rank-row.dim { opacity: .3; }
+  .rank-row .swatch { width: 12px; height: 12px; align-self: center; box-shadow: 0 0 10px currentColor; }
+  .rank-row .rname { font-family: var(--font-serif); font-weight: 500; font-size: 15px; }
+  .rank-row:hover .rname { color: var(--n2); text-shadow: 0 0 10px var(--n2); }
+  .rank-row .rcnt { font-family: var(--font-mono); font-size: 12px; color: var(--muted); }
+  .rank-row .rpct { font-family: var(--font-latin); font-weight: 700; font-size: 16px; color: var(--text); font-variant-numeric: tabular-nums; text-shadow: 0 0 10px var(--n2); }
+
+  /* 個股長條 */
+  .bar-row { display: grid; grid-template-columns: 118px 1fr 30px; gap: 12px; align-items: center; padding: 5px 0; cursor: pointer; }
+  .bar-row .name { font-family: var(--font-mono); font-size: 13px; color: var(--text); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .bar-row .bar-name { font-family: var(--font-serif); color: var(--muted); }
+  .bar-row:hover .name { color: var(--n2); text-shadow: 0 0 10px var(--n2); }
+  .bar-track { height: 12px; background: rgba(255,255,255,.05); border: 1px solid hsl(var(--hue) 100% 70% / .3); border-radius: 3px; overflow: hidden; }
+  .bar-fill { height: 100%; background: linear-gradient(90deg, var(--n1), var(--n2)); box-shadow: 0 0 12px var(--glow); transform-origin: left; animation: grow .8s cubic-bezier(.2,.8,.2,1) both; }
+  .bar-row:hover .bar-fill { filter: brightness(1.25); }
+  .bar-row .cnt { font-family: var(--font-mono); font-size: 12px; color: var(--muted); text-align: right; }
+
+  /* 趨勢柱 */
+  .trend { display: flex; align-items: flex-end; gap: 5px; height: 158px; border-bottom: 1px solid hsl(var(--hue) 100% 70% / .5); box-shadow: 0 1px 12px hsl(var(--hue) 100% 50% / .35); }
   .trend-col { flex: 1; display: flex; flex-direction: column; justify-content: flex-end; min-width: 0; }
-  .trend-stack { display: flex; flex-direction: column-reverse; border-radius: 4px 4px 0 0; overflow: hidden; }
+  .trend-stack { display: flex; flex-direction: column-reverse; transform-origin: bottom; animation: growUp .7s cubic-bezier(.2,.8,.2,1) both; filter: drop-shadow(0 0 6px hsl(var(--hue) 100% 50% / .4)); }
+  .trend-col:hover .trend-stack { filter: brightness(1.25) saturate(1.2); }
   .trend-seg { width: 100%; }
-  .trend-x { display: flex; gap: 6px; margin-top: 6px; }
-  .trend-x span { flex: 1; text-align: center; font-size: 10px; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .trend-x { display: flex; gap: 5px; margin-top: 7px; }
+  .trend-x span { flex: 1; text-align: center; font-family: var(--font-mono); font-size: 10px; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 
-  .toolbar { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin-bottom: 16px; }
-  input[type=search], select {
-    background: var(--panel); color: var(--text); border: 1px solid var(--border);
-    border-radius: 8px; padding: 9px 12px; font-size: 13px;
+  /* ── 控制列 ── */
+  .controls { display: flex; gap: 26px; flex-wrap: wrap; align-items: flex-end; padding: 22px 40px; border-bottom: 1px solid hsl(var(--hue) 100% 65% / .22); }
+  @media (max-width: 760px) { .controls { padding: 22px 24px; } }
+  .field { display: flex; flex-direction: column; gap: 7px; }
+  .field.search { flex: 1; min-width: 200px; }
+  .field label { font-family: var(--font-mono); font-size: 10.5px; letter-spacing: .14em; text-transform: uppercase; color: var(--n2); text-shadow: 0 0 8px var(--n2); }
+  .field input, .field select {
+    border: none; border-bottom: 1.5px solid hsl(var(--hue) 100% 70% / .5); background: transparent;
+    font-family: var(--font-serif); font-size: 15px; color: var(--text); padding: 6px 2px;
   }
-  input[type=search] { min-width: 240px; flex: 1; }
-  input[type=search]:focus, select:focus { outline: none; border-color: var(--accent); }
+  .field select { cursor: pointer; }
+  .field select option { background: #0a0720; color: var(--text); }
+  .field input:focus, .field select:focus { outline: none; border-color: var(--n2); box-shadow: 0 6px 16px -10px var(--n2); }
+  .field input::placeholder { color: var(--muted); opacity: .7; }
+  button.refresh {
+    font-family: var(--font-mono); font-size: 11px; letter-spacing: .14em; text-transform: uppercase;
+    border: 1.5px solid var(--n1); background: transparent; color: var(--text);
+    text-shadow: 0 0 8px var(--n1); box-shadow: 0 0 14px hsl(var(--hue) 100% 50% / .4), inset 0 0 14px hsl(var(--hue) 100% 50% / .15);
+    padding: 9px 18px; cursor: pointer; transition: .18s; margin-left: auto; border-radius: 4px;
+  }
+  button.refresh:hover { background: var(--n1); color: #05030c; text-shadow: none; box-shadow: 0 0 26px var(--n1); }
 
-  .active-filters { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 14px; }
-  .filter-chip {
-    background: var(--accent-soft); color: var(--accent); border: 1px solid var(--accent);
-    border-radius: 20px; padding: 4px 12px; font-size: 12px; cursor: pointer;
+  .active-filters { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 18px; }
+  .active-filters:empty { display: none; }
+  .chip {
+    font-family: var(--font-mono); font-size: 12px; letter-spacing: .04em;
+    border: 1px solid var(--n2); color: var(--n2); text-shadow: 0 0 8px var(--n2); box-shadow: 0 0 12px hsl(var(--hue) 100% 50% / .35);
+    padding: 4px 12px; cursor: pointer; transition: .15s; border-radius: 3px;
   }
-  .filter-chip:hover { background: var(--accent); color: #06121f; }
+  .chip:hover { background: var(--n2); color: #05030c; text-shadow: none; }
 
-  .news-item {
-    background: var(--panel); border: 1px solid var(--border);
-    border-radius: 12px; padding: 16px 18px; margin-bottom: 12px;
-    transition: border-color .15s;
+  /* ── 新聞 ── */
+  #list { animation: rise .6s both; }
+  .article {
+    display: grid; grid-template-columns: 128px 1fr; gap: 24px;
+    padding: 18px 20px; margin-bottom: 14px; border-radius: 5px;
+    background: rgba(13, 8, 28, 0.55);
+    border: 1px solid hsl(var(--hue) 100% 72% / .2); border-left: 3px solid var(--n1);
+    box-shadow: 0 0 16px hsl(var(--hue) 100% 50% / .12);
+    transition: transform .2s, box-shadow .25s, border-color .25s; animation: rise .45s both;
   }
-  .news-item:hover { border-color: var(--accent); }
-  .news-top { display: flex; gap: 10px; align-items: baseline; flex-wrap: wrap; margin-bottom: 6px; }
-  .news-source { color: var(--accent); font-size: 12px; font-weight: 600; }
-  .news-time { color: var(--muted); font-size: 12px; }
-  .news-title { font-size: 16px; font-weight: 600; margin: 2px 0 6px; display: block; }
-  .news-summary { color: var(--muted); font-size: 13px; margin: 0 0 10px; }
-  .stocks { display: flex; gap: 6px; flex-wrap: wrap; }
-  .stock-chip {
-    background: var(--chip); border: 1px solid var(--border); border-radius: 6px;
-    padding: 2px 9px; font-size: 12px; cursor: pointer; color: var(--text);
+  .article:hover { transform: translateX(5px); border-color: var(--n2); box-shadow: -8px 0 30px hsl(var(--hue) 100% 55% / .5), 0 0 26px hsl(var(--hue) 100% 50% / .35); }
+  .article .meta-col { display: flex; flex-direction: column; gap: 6px; padding-top: 3px; }
+  .a-source { font-family: var(--font-mono); font-size: 11px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--n1); text-shadow: 0 0 10px var(--n1); }
+  .a-time { font-family: var(--font-mono); font-size: 11px; color: var(--muted); }
+  .a-rel { font-family: var(--font-mono); font-size: 10.5px; color: var(--muted); opacity: .8; }
+  .a-title {
+    font-family: var(--font-head); font-weight: 700; font-size: 20px; line-height: 1.36;
+    color: var(--text); display: inline; background-image: linear-gradient(var(--n2), var(--n2));
+    background-size: 0% 2px; background-position: 0 100%; background-repeat: no-repeat; transition: background-size .3s, color .2s, text-shadow .2s;
   }
-  .stock-chip:hover { border-color: var(--accent); color: var(--accent); }
+  .article a.a-title-link { text-decoration: none; }
+  .article:hover .a-title { color: #fff; text-shadow: 0 0 12px var(--n2); background-size: 100% 2px; }
+  .a-summary { font-family: var(--font-serif); font-size: 14px; color: var(--muted); margin: 8px 0 0; max-width: 68ch; }
+  .a-stocks { display: flex; gap: 7px; flex-wrap: wrap; margin-top: 11px; }
+  .tag {
+    font-family: var(--font-mono); font-size: 11px; letter-spacing: .03em; color: var(--text);
+    border: 1px solid hsl(var(--hue) 100% 70% / .4); padding: 2px 9px; cursor: pointer; transition: .15s; border-radius: 3px;
+  }
+  .tag::before { content: "▸ "; color: var(--n1); }
+  .tag:hover { border-color: var(--n2); color: #fff; box-shadow: 0 0 14px hsl(var(--hue) 100% 50% / .5); text-shadow: 0 0 8px var(--n2); }
+  @media (max-width: 640px) { .article { grid-template-columns: 1fr; gap: 8px; } .article .meta-col { flex-direction: row; gap: 12px; align-items: baseline; flex-wrap: wrap; } }
 
-  .empty { text-align: center; color: var(--muted); padding: 60px 0; }
-  mark { background: rgba(74,168,255,.35); color: inherit; border-radius: 3px; }
+  /* 風險警示個股表格 */
+  .risk-scroll { overflow-x: auto; }
+  .risk-table { width: 100%; border-collapse: collapse; }
+  .risk-table th { font-family: var(--font-mono); font-size: 10.5px; letter-spacing: .12em; text-transform: uppercase; color: var(--n2); text-shadow: 0 0 8px var(--n2); text-align: left; padding: 9px 12px; border-bottom: 1.5px solid hsl(var(--hue) 100% 70% / .5); white-space: nowrap; }
+  .risk-table th.num, .risk-table td.num { text-align: right; }
+  .risk-table td { padding: 11px 12px; border-bottom: 1px solid hsl(var(--hue) 100% 65% / .14); vertical-align: baseline; }
+  .risk-table tbody tr { cursor: pointer; transition: background .15s; animation: rise .45s both; }
+  .risk-table tbody tr:hover { background: hsl(var(--hue) 100% 60% / .1); }
+  .risk-table .idx { font-family: var(--font-mono); font-size: 11px; color: var(--muted); }
+  .risk-table .code { font-family: var(--font-latin); font-weight: 700; font-size: 20px; color: var(--text); font-variant-numeric: tabular-nums; text-shadow: 0 0 10px var(--n1); }
+  .risk-table .code-name { font-family: var(--font-serif); font-size: 13px; color: var(--muted); margin-left: 8px; }
+  .risk-table tr.alert { animation: dangerPulse .7s steps(2, end) infinite; }
+  .risk-table tr.alert .code { color: #fff; text-shadow: 0 0 10px var(--danger), 0 0 24px var(--danger); }
+  .risk-table .cnt { font-family: var(--font-mono); font-size: 14px; color: var(--text); font-variant-numeric: tabular-nums; }
+  .risk-table .badge { font-family: var(--font-mono); font-size: 10px; font-weight: 600; letter-spacing: .06em; color: #fff; background: var(--danger); box-shadow: 0 0 12px var(--danger); padding: 1px 7px; white-space: nowrap; border-radius: 2px; }
+  .risk-table .badge.watch { background: transparent; color: var(--muted); border: 1px solid hsl(var(--hue) 100% 70% / .35); box-shadow: none; font-weight: 400; }
+  .risk-table .kw { font-family: var(--font-mono); font-size: 11px; color: var(--n3); }
+  .risk-empty { font-family: var(--font-serif); color: var(--muted); padding: 6px 0 2px; }
+
+  .a-warn { display: inline-block; width: fit-content; font-family: var(--font-mono); font-size: 10.5px; font-weight: 600; letter-spacing: .06em; color: #fff; background: var(--danger); box-shadow: 0 0 12px var(--danger); padding: 1px 7px; border-radius: 2px; }
+
+  /* 個股彙整 */
+  .stock-group { border: 1px solid hsl(var(--hue) 100% 72% / .22); border-radius: 10px; margin-bottom: 18px; overflow: hidden; animation: rise .45s both; }
+  .sg-head { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; padding: 12px 16px; background: hsl(var(--hue) 100% 60% / .08); border-bottom: 1px solid hsl(var(--hue) 100% 72% / .2); cursor: pointer; transition: background .15s; }
+  .sg-head:hover { background: hsl(var(--hue) 100% 60% / .15); }
+  .sg-code { font-family: var(--font-latin); font-weight: 700; font-size: 22px; color: var(--text); font-variant-numeric: tabular-nums; text-shadow: 0 0 10px var(--n1); }
+  .sg-name { font-family: var(--font-serif); font-size: 15px; color: var(--muted); }
+  .sg-count { font-family: var(--font-mono); font-size: 12px; color: var(--n2); }
+  .sg-srcs { display: flex; gap: 6px; flex-wrap: wrap; margin-left: auto; }
+  .sg-srcs span { font-family: var(--font-mono); font-size: 10.5px; color: var(--muted); border: 1px solid hsl(var(--hue) 100% 70% / .3); padding: 1px 7px; border-radius: 3px; }
+  .sg-items { padding: 4px 16px; }
+  .sg-items .article { background: transparent; border: none; border-bottom: 1px solid hsl(var(--hue) 100% 65% / .12); border-radius: 0; margin: 0; padding: 14px 0; box-shadow: none; animation: none; }
+  .sg-items .article:last-child { border-bottom: none; }
+  .sg-items .article:hover { transform: none; box-shadow: none; border-color: hsl(var(--hue) 100% 65% / .12); }
+
+  /* 分頁 */
+  .pager { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-top: 24px; }
+  .pager:empty { display: none; }
+  .pager button {
+    font-family: var(--font-mono); font-size: 12px; color: var(--text); background: transparent;
+    border: 1px solid hsl(var(--hue) 100% 70% / .4); padding: 7px 12px; cursor: pointer; border-radius: 4px; transition: .15s;
+  }
+  .pager button:hover:not(:disabled) { border-color: var(--n2); color: #fff; box-shadow: 0 0 14px hsl(var(--hue) 100% 50% / .5); text-shadow: 0 0 8px var(--n2); }
+  .pager button.on { background: var(--n2); color: #05030c; border-color: var(--n2); box-shadow: 0 0 18px var(--n2); }
+  .pager button:disabled { opacity: .3; cursor: default; }
+  .pg-gap { color: var(--muted); padding: 0 2px; }
+  .pg-summary { font-family: var(--font-mono); font-size: 11px; color: var(--muted); margin-left: auto; }
+
+  .empty { text-align: center; color: var(--muted); padding: 60px 0; font-family: var(--font-serif); }
+  mark { background: hsl(var(--hue) 100% 60% / .35); color: #fff; text-shadow: 0 0 8px var(--n2); border-radius: 2px; }
+  a { color: var(--n2); }
+
+  ::-webkit-scrollbar { width: 11px; height: 11px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::-webkit-scrollbar-thumb { background: hsl(var(--hue) 100% 60% / .5); border: 2px solid transparent; background-clip: padding-box; border-radius: 8px; }
+  ::-webkit-scrollbar-thumb:hover { background: hsl(var(--hue) 100% 65% / .8); background-clip: padding-box; }
+
+  /* ── 風格切換鈕 ── */
+  .fab { position: fixed; top: 16px; right: 16px; z-index: 10000; display: flex; gap: 10px; }
+  .theme-toggle {
+    font-family: var(--font-mono); font-size: 12px; letter-spacing: .08em; color: #fff;
+    background: rgba(10, 12, 22, .7); border: 1px solid rgba(255,255,255,.4);
+    padding: 9px 15px; border-radius: 999px; cursor: pointer;
+    backdrop-filter: blur(8px); box-shadow: 0 4px 18px rgba(0,0,0,.55); transition: transform .15s, box-shadow .2s;
+  }
+  .theme-toggle:hover { transform: translateY(-1px); box-shadow: 0 7px 24px rgba(0,0,0,.65); }
+  .theme-toggle:active { transform: scale(.96); }
+
+  /* 特效層預設關閉，只有霓虹模式開啟 */
+  .bg-rgb, .bg-glow, .bg-grid, .bg-laser, .bg-flash, .bg-invert, .bg-scan, .bg-sparkle { display: none; }
+  body.fx-neon .bg-rgb, body.fx-neon .bg-glow, body.fx-neon .bg-grid,
+  body.fx-neon .bg-laser, body.fx-neon .bg-flash, body.fx-neon .bg-invert, body.fx-neon .bg-scan { display: block; }
+
+  /* 金光流動 / 閃爍 keyframes */
+  @keyframes goldshine { to { background-position: 200% center; } }
+  @keyframes twinkle { 0%,100% { opacity: .22; } 50% { opacity: 1; } }
+  @keyframes twinkle2 { 0%,100% { opacity: .9; } 50% { opacity: .25; } }
+
+  /* 黃金閃爍粒子層（只在鎏金模式顯示） */
+  body.fx-gold .bg-sparkle { display: block; }
+  .bg-sparkle {
+    position: fixed; inset: 0; pointer-events: none; z-index: 9990; mix-blend-mode: screen;
+  }
+  .bg-sparkle::before, .bg-sparkle::after {
+    content: ""; position: absolute; inset: 0;
+    background-repeat: no-repeat;
+  }
+  .bg-sparkle::before {
+    background-image:
+      radial-gradient(2px 2px at 18% 26%, #fff3c4, transparent 60%),
+      radial-gradient(1.6px 1.6px at 71% 18%, #f6d365, transparent 60%),
+      radial-gradient(2px 2px at 41% 67%, #fffbe6, transparent 60%),
+      radial-gradient(1.6px 1.6px at 86% 58%, #f6d365, transparent 60%),
+      radial-gradient(2px 2px at 56% 41%, #fff3c4, transparent 60%),
+      radial-gradient(1.6px 1.6px at 9% 78%, #f6d365, transparent 60%);
+    animation: twinkle 2.6s ease-in-out infinite;
+  }
+  .bg-sparkle::after {
+    background-image:
+      radial-gradient(2px 2px at 92% 86%, #fffbe6, transparent 60%),
+      radial-gradient(1.6px 1.6px at 33% 9%, #f6d365, transparent 60%),
+      radial-gradient(2px 2px at 64% 82%, #fff3c4, transparent 60%),
+      radial-gradient(1.6px 1.6px at 27% 52%, #f6d365, transparent 60%),
+      radial-gradient(2px 2px at 78% 38%, #fffbe6, transparent 60%),
+      radial-gradient(1.6px 1.6px at 48% 92%, #f6d365, transparent 60%);
+    animation: twinkle2 3.1s ease-in-out infinite;
+  }
+
+  /* ═══════════ 鎏金奢華（黃金 · 閃閃發光）═══════════ */
+  body.fx-gold {
+    --hue: 45;
+    --n1: #f6d365; --n2: #c9971f; --n3: #fff3c4;
+    --text: #f3ead2; --muted: #b6a577;
+    background:
+      radial-gradient(72% 62% at 50% -12%, #2c2413 0%, transparent 60%),
+      radial-gradient(62% 72% at 100% 102%, #241b0b 0%, transparent 55%),
+      #0b0905;
+    background-attachment: fixed;
+  }
+  body.fx-gold .sheet {
+    background: linear-gradient(180deg, rgba(30,24,13,.92), rgba(15,11,6,.95));
+    border: 1px solid rgba(246,211,101,.5);
+    box-shadow: 0 34px 90px -34px rgba(0,0,0,.88), 0 0 46px rgba(201,151,31,.22), inset 0 1px 0 rgba(255,243,196,.16);
+    animation: none;
+  }
+  body.fx-gold .masthead { border-bottom: 1px solid rgba(246,211,101,.4); }
+  body.fx-gold .masthead h1 {
+    animation: goldshine 3.2s linear infinite;
+    background: linear-gradient(100deg, #8a6a14 0%, #f6d365 28%, #fffbe6 50%, #f6d365 72%, #8a6a14 100%);
+    background-size: 200% auto; -webkit-background-clip: text; background-clip: text; color: transparent;
+    text-shadow: none; filter: drop-shadow(0 3px 12px rgba(201,151,31,.5));
+  }
+  body.fx-gold .kicker, body.fx-gold .latin { text-shadow: none; color: var(--n2); }
+  body.fx-gold .tape { background: rgba(255,243,196,.04); border-color: rgba(246,211,101,.35); box-shadow: none; }
+  body.fx-gold .tape-item .code, body.fx-gold .tape-item .mult { text-shadow: none; }
+  body.fx-gold .figures, body.fx-gold .figure, body.fx-gold .section,
+  body.fx-gold .controls { border-color: rgba(246,211,101,.22); }
+  body.fx-gold .figure .num {
+    animation: goldshine 3.2s linear infinite;
+    background: linear-gradient(100deg, #8a6a14, #f6d365 30%, #fffbe6 50%, #f6d365 70%, #8a6a14);
+    background-size: 200% auto; -webkit-background-clip: text; background-clip: text; color: transparent;
+    text-shadow: none;
+  }
+  body.fx-gold .figure.accent .num { filter: drop-shadow(0 0 12px rgba(246,211,101,.6)); }
+  body.fx-gold .section-label, body.fx-gold .field label, body.fx-gold .a-source,
+  body.fx-gold .risk-table th, body.fx-gold .rank-row .rpct { text-shadow: 0 0 10px rgba(201,151,31,.4); }
+  body.fx-gold .section-label::after { box-shadow: 0 0 8px rgba(201,151,31,.4); }
+  body.fx-gold .sharebar { box-shadow: 0 0 16px rgba(201,151,31,.3); }
+  body.fx-gold .trend { box-shadow: 0 1px 12px rgba(201,151,31,.25); }
+  body.fx-gold .bar-fill { box-shadow: 0 0 12px rgba(201,151,31,.4); }
+  body.fx-gold .trend-stack { filter: drop-shadow(0 0 6px rgba(201,151,31,.3)); }
+  body.fx-gold .article {
+    background: linear-gradient(180deg, rgba(255,243,196,.05), rgba(255,243,196,.02));
+    border: 1px solid rgba(246,211,101,.2); border-left: 3px solid #f6d365; box-shadow: none;
+  }
+  body.fx-gold .article:hover { transform: translateY(-2px); border-color: rgba(246,211,101,.6); box-shadow: 0 16px 44px -18px rgba(201,151,31,.55), 0 0 22px rgba(201,151,31,.25); }
+  body.fx-gold .article:hover .a-title { color: #fff7df; text-shadow: 0 0 12px rgba(246,211,101,.6); }
+  body.fx-gold .risk-table tr.alert { animation: none; background: rgba(180,30,40,.16); }
+  body.fx-gold .risk-table tr.alert .code { color: #ff8f7a; text-shadow: 0 0 14px rgba(200,40,40,.6); }
+  body.fx-gold mark { background: rgba(246,211,101,.32); color: #fff; text-shadow: none; }
+  body.fx-gold .theme-toggle { background: rgba(40,30,12,.72); border-color: rgba(246,211,101,.5); color: #ffeec2; }
+
+  @media (prefers-reduced-motion: reduce) { :root, body { animation: none !important; } *, *::before, *::after { animation: none !important; transition: none !important; } }
 </style>
 </head>
-<body>
-<header>
-  <div class="header-row">
-    <h1><span class="dot">●</span> 台股新聞看板</h1>
-    <span class="meta" id="meta">載入中…</span>
-    <span class="spacer"></span>
-    <button class="primary" id="refresh">↻ 重新整理</button>
+<body class="fx-neon">
+<div class="fab">
+  <button id="marketToggle" class="theme-toggle" title="切換 台股 / 美股">🇹🇼 台股</button>
+  <button id="langToggle" class="theme-toggle" title="切換顯示語言 中文 / English">🌐 中文</button>
+  <button id="muteToggle" class="theme-toggle" title="靜音 / 取消靜音">🔊</button>
+  <button id="themeToggle" class="theme-toggle" title="點擊切換介面風格">🔆 霓虹光害</button>
+</div>
+<div class="bg-rgb"></div>
+<div class="bg-glow"></div>
+<div class="bg-grid"></div>
+<div class="bg-laser"></div>
+<div class="bg-flash"></div>
+<div class="bg-invert"></div>
+<div class="bg-scan"></div>
+<div class="bg-sparkle"></div>
+<div class="desk">
+  <div class="sheet">
+    <header class="masthead">
+      <div class="kicker" id="kicker">台股即時新聞 · Taiwan Equities</div>
+      <h1 id="mastheadTitle">行情日報</h1>
+      <div class="latin" id="latin">The Taipei Market Tape</div>
+      <div class="dateline">
+        <span id="today">—</span>
+        <span class="sep">◆</span>
+        <span id="meta">載入中…</span>
+        <span class="sep">◆</span>
+        <span id="auto">每 5 分自動更新</span>
+      </div>
+    </header>
+
+    <div class="tape"><div class="tape-track" id="tape"></div></div>
+
+    <section class="figures" id="cards"></section>
+
+    <section class="section split">
+      <div>
+        <div class="section-label">來源占比</div>
+        <div id="sourceChart"></div>
+      </div>
+      <div class="vrule"></div>
+      <div>
+        <div class="section-label">熱門個股 · 前十</div>
+        <div id="stockChart"></div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-label">來源 × 時間趨勢 <span class="unit" id="trendUnit"></span></div>
+      <div id="trendChart"></div>
+    </section>
+
+    <section class="section">
+      <div class="section-label">風險警示個股 <span class="unit" id="riskUnit"></span></div>
+      <div id="riskChart"></div>
+    </section>
+
+    <section class="controls">
+      <div class="field search">
+        <label for="q">搜尋</label>
+        <input type="search" id="q" placeholder="標題、摘要、個股代號或名稱…">
+      </div>
+      <div class="field">
+        <label for="sourceSel">來源</label>
+        <select id="sourceSel"><option value="">全部</option></select>
+      </div>
+      <div class="field">
+        <label for="rangeSel">時間範圍</label>
+        <select id="rangeSel">
+          <option value="0">全部</option>
+          <option value="1">最近 1 小時</option>
+          <option value="6">最近 6 小時</option>
+          <option value="24">最近 24 小時</option>
+          <option value="72">最近 3 天</option>
+        </select>
+      </div>
+      <div class="field">
+        <label for="sortSel">排序</label>
+        <select id="sortSel">
+          <option value="new">新 → 舊</option>
+          <option value="old">舊 → 新</option>
+        </select>
+      </div>
+      <div class="field">
+        <label for="riskSel">篩選</label>
+        <select id="riskSel">
+          <option value="0">全部新聞</option>
+          <option value="1">僅風險新聞</option>
+        </select>
+      </div>
+      <button class="refresh" id="viewToggle" title="切換為個股彙整">📊 個股彙整</button>
+      <button class="refresh" id="refresh">↺ 重新整理</button>
+    </section>
+
+    <section class="section">
+      <div class="active-filters" id="activeFilters"></div>
+      <div id="list"></div>
+      <div class="pager" id="pager"></div>
+    </section>
   </div>
-</header>
-
-<div class="wrap">
-  <div class="cards" id="cards"></div>
-
-  <div class="grid2">
-    <div class="panel">
-      <h2>來源分布</h2>
-      <div id="sourceChart"></div>
-    </div>
-    <div class="panel">
-      <h2>熱門個股 (前 10)</h2>
-      <div id="stockChart"></div>
-    </div>
-  </div>
-
-  <div class="panel" style="margin-bottom:20px">
-    <h2>來源 × 時間趨勢 <span class="meta" id="trendUnit"></span></h2>
-    <div id="trendChart"></div>
-  </div>
-
-  <div class="toolbar">
-    <input type="search" id="q" placeholder="搜尋標題或摘要…">
-    <select id="sourceSel"><option value="">全部來源</option></select>
-    <select id="rangeSel">
-      <option value="0">全部時間</option>
-      <option value="1">最近 1 小時</option>
-      <option value="6">最近 6 小時</option>
-      <option value="24">最近 24 小時</option>
-      <option value="72">最近 3 天</option>
-    </select>
-    <select id="sortSel">
-      <option value="new">時間：新→舊</option>
-      <option value="old">時間：舊→新</option>
-    </select>
-  </div>
-
-  <div class="active-filters" id="activeFilters"></div>
-  <div id="list"></div>
 </div>
 
 <script>
 const TZ = "Asia/Taipei";
 let ALL = [];
-const state = { q: "", source: "", stock: "", range: 0, sort: "new" };
+const state = { q: "", source: "", stock: "", range: 0, sort: "new", riskOnly: false, page: 1, market: "tw", lang: "zh", view: "list" };
+const PAGE_SIZE = 20; // 每頁新聞數
+let lastFilterKey = "";
 
-// stocks 欄位格式如 "TWS:5534:STOCK" → 取股號 5534
-function stockCode(s) {
-  const parts = String(s).split(":");
-  return parts.length >= 2 ? parts[1] : s;
+// 風險／利空字詞（台股中文）
+const RISK_TW = [
+  "跌停", "暴跌", "重挫", "崩跌", "崩盤", "跳水", "大跌", "急殺", "殺盤", "賣壓",
+  "利空", "違約交割", "違約", "違規", "下市", "全額交割", "處置", "注意股", "警示", "示警",
+  "減資", "虧損", "轉虧", "衰退", "踩雷", "地雷", "爆雷", "掏空", "淘空", "假帳",
+  "訴訟", "起訴", "遭罰", "裁罰", "罰鍰", "違法", "停牌", "下修", "降評", "跌破",
+  "摜破", "失守", "認賠", "套牢", "重整", "倒閉", "破產", "重貶", "財務危機", "跌幅"
+];
+// 風險／利空字詞（美股英文，不分大小寫）
+const RISK_US = [
+  "plunge", "plummet", "crash", "tumble", "slump", "sink", "selloff", "sell-off",
+  "downgrade", "bankruptcy", "bankrupt", "default", "lawsuit", "sued", "fraud",
+  "probe", "investigation", "delist", "warning", "warns", "miss", "slashed",
+  "layoff", "recall", "loss", "losses", "bearish", "slide", "collapse",
+  "plummets", "plunges", "tumbles", "slumps", "sinks", "drops", "falls"
+];
+// 個股至少要有這麼多則風險新聞才列入「風險警示個股」
+const RISK_MIN = 2;
+function riskHits(text) {
+  const us = state.market === "us";
+  const words = us ? RISK_US : RISK_TW;
+  const t = us ? String(text || "").toLowerCase() : String(text || "");
+  return words.filter(k => t.includes(k));
 }
-function parseTime(iso) {
-  if (!iso) return null;
-  const t = new Date(iso);
-  return isNaN(t) ? null : t;
-}
+function newsRisk(n) { return riskHits((n.title || "") + " " + (n.summary || "")); }
+
+// 依目前語言取標題／摘要（沒翻到就退回原文）
+function dispTitle(n) { return n["title_" + state.lang] || n.title || ""; }
+function dispSummary(n) { return n["summary_" + state.lang] || n.summary || ""; }
+
+function stockCode(s) { const p = String(s).split(":"); return p.length >= 2 ? p[1] : s; }
+function parseTime(iso) { if (!iso) return null; const t = new Date(iso); return isNaN(t) ? null : t; }
 function fmtTime(iso) {
-  const t = parseTime(iso);
-  if (!t) return "—";
+  const t = parseTime(iso); if (!t) return "—";
   return t.toLocaleString("zh-Hant", { timeZone: TZ, month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit", hour12: false });
 }
 function relTime(iso) {
-  const t = parseTime(iso);
-  if (!t) return "";
-  const diff = (Date.now() - t.getTime()) / 60000; // 分鐘
-  if (diff < 1) return "剛剛";
-  if (diff < 60) return Math.floor(diff) + " 分鐘前";
-  if (diff < 1440) return Math.floor(diff / 60) + " 小時前";
-  return Math.floor(diff / 1440) + " 天前";
+  const t = parseTime(iso); if (!t) return "";
+  const d = (Date.now() - t.getTime()) / 60000;
+  if (d < 1) return "剛剛"; if (d < 60) return Math.floor(d) + " 分前";
+  if (d < 1440) return Math.floor(d / 60) + " 小時前"; return Math.floor(d / 1440) + " 天前";
 }
 function esc(s) { return String(s ?? "").replace(/[&<>"]/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;" }[c])); }
 function highlight(text, q) {
-  const t = esc(text);
-  if (!q) return t;
-  try {
-    const re = new RegExp("(" + q.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + ")", "gi");
-    return t.replace(re, "<mark>$1</mark>");
-  } catch { return t; }
+  const t = esc(text); if (!q) return t;
+  try { const re = new RegExp("(" + q.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + ")", "gi"); return t.replace(re, "<mark>$1</mark>"); }
+  catch { return t; }
+}
+function countUp(el, to, dur = 850) {
+  if (!isFinite(to)) { el.textContent = to; return; }
+  const start = performance.now();
+  (function tick(now) {
+    const p = Math.min(1, (now - start) / dur);
+    el.textContent = Math.round(to * (1 - Math.pow(1 - p, 3)));
+    if (p < 1) requestAnimationFrame(tick);
+  })(start);
 }
 
-// 每個來源固定一個顏色（依名稱排序，確保跨圖一致）
-const PALETTE = ["#4aa8ff", "#3fb950", "#f0a35e", "#d2a8ff", "#f85149", "#56d4dd", "#e6c54a", "#ff7b9c"];
+// 報紙印刷的低彩度墨色，依來源名稱固定配色
+const PALETTE = ["#b42a18", "#2f6b66", "#a9791f", "#3a4a6b", "#79415e", "#4f6b34", "#9c5a2a", "#555067"];
 let SOURCE_COLORS = {};
 function buildSourceColors() {
   const sources = [...new Set(ALL.map(n => n.source).filter(Boolean))].sort();
   SOURCE_COLORS = {};
   sources.forEach((s, i) => SOURCE_COLORS[s] = PALETTE[i % PALETTE.length]);
 }
-function sourceColor(s) { return SOURCE_COLORS[s] || "#7a8a99"; }
+function sourceColor(s) { return SOURCE_COLORS[s] || "#7a7164"; }
+
+// 全市場代號→名稱對照表（爬蟲從證交所/櫃買抓的 data/stocks.json，權威來源）
+let STOCK_MAP = {};
+// 從新聞文字解析「名稱(股號)」→ 補充對照（stocks.json 沒抓到時的後備）
+let STOCK_NAMES = {};
+function buildStockNames() {
+  STOCK_NAMES = {};
+  ALL.forEach(n => {
+    const text = (n.title || "") + " " + (n.summary || "");
+    (n.stocks || []).forEach(s => {
+      const code = stockCode(s);
+      if (STOCK_NAMES[code]) return;
+      const ec = code.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+      const re = new RegExp("([\\u4e00-\\u9fa5A-Za-z0-9\\*\\-．]{1,14})[（(]\\s*" + ec + "(?:\\s*[-‑]\\s*TW)?\\s*[）)]");
+      const m = text.match(re);
+      if (m) STOCK_NAMES[code] = m[1].trim();
+    });
+  });
+}
+function stockName(code) { return STOCK_MAP[code] || STOCK_NAMES[code] || ""; }
 
 async function load() {
   const meta = document.getElementById("meta");
+  document.getElementById("today").textContent =
+    new Date().toLocaleDateString("zh-Hant", { timeZone: TZ, year: "numeric", month: "long", day: "numeric", weekday: "long" });
   meta.textContent = "載入中…";
+  const newsFile = state.market === "us" ? "data/news_us.json" : "data/news.json";
   try {
-    const res = await fetch("data/news.json?_=" + Date.now());
+    const res = await fetch(newsFile + "?_=" + Date.now());
     if (!res.ok) throw new Error("HTTP " + res.status);
     ALL = await res.json();
   } catch (e) {
-    meta.textContent = "讀取 data/news.json 失敗：" + e.message + "（請以 HTTP 伺服器開啟，見下方說明）";
+    meta.textContent = "讀取失敗：" + e.message;
     document.getElementById("list").innerHTML =
-      '<div class="empty">無法載入資料。<br>請在專案根目錄執行 <code>python -m http.server 8000</code>，<br>再開啟 <a href="http://localhost:8000">http://localhost:8000</a>。</div>';
+      `<div class="empty">無法載入 ${newsFile}。<br>請在專案根目錄執行 <code>python -m http.server 8000</code>，再開啟 <a href="http://localhost:8000">http://localhost:8000</a>。</div>`;
     return;
   }
-  // 補上來源下拉
+  // 台股才載入全市場股號→名稱對照表；美股無此表
+  STOCK_MAP = {};
+  if (state.market === "tw") {
+    try {
+      const sr = await fetch("data/stocks.json?_=" + Date.now());
+      if (sr.ok) STOCK_MAP = await sr.json();
+    } catch (e) { /* 忽略：退回內文解析 */ }
+  }
+
   const sel = document.getElementById("sourceSel");
   const sources = [...new Set(ALL.map(n => n.source).filter(Boolean))].sort();
-  sel.innerHTML = '<option value="">全部來源</option>' + sources.map(s => `<option>${esc(s)}</option>`).join("");
+  sel.innerHTML = '<option value="">全部</option>' + sources.map(s => `<option>${esc(s)}</option>`).join("");
   sel.value = state.source;
   buildSourceColors();
+  buildStockNames();
   renderStats();
+  renderTape();
   renderCharts();
   render();
 }
@@ -258,64 +676,68 @@ function renderStats() {
   const sourceCount = new Set(ALL.map(n => n.source).filter(Boolean)).size;
 
   document.getElementById("meta").textContent =
-    `共 ${ALL.length} 則 · 最後更新 ${latest ? fmtTime(latest.toISOString()) : "—"}`;
+    `收錄 ${ALL.length} 則 · 更新於 ${latest ? fmtTime(latest.toISOString()) : "—"}`;
 
-  const cards = [
-    { label: "新聞總數", value: ALL.length },
-    { label: "新聞來源", value: sourceCount },
-    { label: "提及個股", value: stockSet.size },
-    { label: "最新一則", value: latest ? relTime(latest.toISOString()) : "—" },
+  const figures = [
+    { num: ALL.length, cap: "新聞則數", accent: true },
+    { num: sourceCount, cap: "新聞來源" },
+    { num: stockSet.size, cap: "提及個股" },
+    { num: latest ? relTime(latest.toISOString()) : "—", cap: "最新一則" },
   ];
-  document.getElementById("cards").innerHTML = cards.map(c =>
-    `<div class="card"><div class="label">${c.label}</div><div class="value">${c.value}</div></div>`).join("");
-}
-
-function barChart(el, entries, onClick) {
-  const max = Math.max(1, ...entries.map(e => e[1]));
-  el.innerHTML = entries.map(([name, cnt]) =>
-    `<div class="bar-row" data-name="${esc(name)}">
-       <span class="name" title="${esc(name)}">${esc(name)}</span>
-       <span class="bar-track"><span class="bar-fill" style="width:${(cnt / max * 100).toFixed(1)}%"></span></span>
-       <span class="cnt">${cnt}</span>
-     </div>`).join("") || '<div class="meta">無資料</div>';
-  el.querySelectorAll(".bar-row").forEach(row =>
-    row.addEventListener("click", () => onClick(row.dataset.name)));
-}
-
-// 甜甜圈圖 + 含百分比的圖例
-function donutChart(el, entries, onClick) {
-  const total = entries.reduce((s, e) => s + e[1], 0);
-  const size = 132, cx = size / 2, cy = size / 2, R = 52, C = 2 * Math.PI * R;
-  let offset = 0;
-  const segs = entries.map(([name, cnt]) => {
-    const len = total ? cnt / total * C : 0;
-    const seg = `<circle data-name="${esc(name)}" cx="${cx}" cy="${cy}" r="${R}" fill="none"
-      stroke="${sourceColor(name)}" stroke-width="22"
-      stroke-dasharray="${len.toFixed(2)} ${(C - len).toFixed(2)}" stroke-dashoffset="${(-offset).toFixed(2)}"
-      transform="rotate(-90 ${cx} ${cy})" style="cursor:pointer"></circle>`;
-    offset += len;
-    return seg;
+  const box = document.getElementById("cards");
+  box.innerHTML = figures.map(f => {
+    const isNum = typeof f.num === "number";
+    const v = isNum ? `<div class="num" data-to="${f.num}">0</div>` : `<div class="num">${esc(f.num)}</div>`;
+    return `<div class="figure${f.accent ? " accent" : ""}">${v}<div class="cap">${f.cap}</div></div>`;
   }).join("");
-  const svg = `<svg class="donut" width="${size}" height="${size}" viewBox="0 0 ${size} ${size}">
-    ${segs}
-    <text class="hole-num" x="${cx}" y="${cy - 1}" text-anchor="middle">${total}</text>
-    <text class="hole-label" x="${cx}" y="${cy + 15}" text-anchor="middle">則新聞</text>
-  </svg>`;
-  const legend = '<div class="legend">' + entries.map(([name, cnt]) => {
-    const pct = total ? (cnt / total * 100).toFixed(1) : "0.0";
-    const dim = state.source && state.source !== name ? " dim" : "";
-    return `<div class="legend-row${dim}" data-name="${esc(name)}">
-      <span class="swatch" style="background:${sourceColor(name)}"></span>
-      <span class="lname" title="${esc(name)}">${esc(name)}</span>
-      <span class="lpct">${cnt} · ${pct}%</span>
-    </div>`;
-  }).join("") + "</div>";
-  el.innerHTML = `<div class="donut-wrap">${svg}${legend}</div>`;
-  el.querySelectorAll("circle[data-name], .legend-row").forEach(node =>
-    node.addEventListener("click", () => onClick(node.dataset.name)));
+  box.querySelectorAll(".num[data-to]").forEach(el => countUp(el, +el.dataset.to));
 }
 
-// 來源 × 時間 堆疊柱狀圖
+// 跑馬燈行情帶：個股代號 × 提及次數
+function renderTape() {
+  const byStock = {};
+  ALL.forEach(n => (n.stocks || []).forEach(s => { const c = stockCode(s); byStock[c] = (byStock[c] || 0) + 1; }));
+  const entries = Object.entries(byStock).sort((a, b) => b[1] - a[1]).slice(0, 22);
+  const el = document.getElementById("tape");
+  if (!entries.length) { el.innerHTML = '<span class="tape-empty">尚無個股資料</span>'; return; }
+  const run = entries.map(([code, cnt]) => {
+    const nm = stockName(code);
+    return `<span class="tape-item"><span class="code">${esc(code)}</span>${nm ? `<span class="nm">${esc(nm)}</span>` : ""}<span class="mult">×${cnt}</span></span>`;
+  }).join("");
+  el.innerHTML = run + run; // 重複一份以無縫循環
+}
+
+function shareBar(el, entries, onClick) {
+  const total = entries.reduce((s, e) => s + e[1], 0) || 1;
+  const bar = entries.map(([name, cnt]) =>
+    `<span data-name="${esc(name)}" title="${esc(name)} ${cnt} 則" style="width:${(cnt / total * 100).toFixed(2)}%;background:${sourceColor(name)}"></span>`).join("");
+  const rows = entries.map(([name, cnt]) => {
+    const pct = (cnt / total * 100).toFixed(1);
+    const dim = state.source && state.source !== name ? " dim" : "";
+    return `<div class="rank-row${dim}" data-name="${esc(name)}">
+      <span class="swatch" style="background:${sourceColor(name)}"></span>
+      <span class="rname">${esc(name)}</span>
+      <span class="rcnt">${cnt} 則</span>
+      <span class="rpct">${pct}%</span>
+    </div>`;
+  }).join("");
+  el.innerHTML = `<div class="sharebar">${bar}</div><div class="rank">${rows}</div>`;
+  el.querySelectorAll(".sharebar span, .rank-row").forEach(n =>
+    n.addEventListener("click", () => onClick(n.dataset.name)));
+}
+
+function barChart(el, entries, onClick, labelFn) {
+  const label = labelFn || (x => esc(x));
+  const max = Math.max(1, ...entries.map(e => e[1]));
+  el.innerHTML = entries.map(([name, cnt], i) =>
+    `<div class="bar-row" data-name="${esc(name)}">
+       <span class="name" title="${esc(name)}">${label(name)}</span>
+       <span class="bar-track"><span class="bar-fill" style="width:${(cnt / max * 100).toFixed(1)}%;animation-delay:${i * 55}ms"></span></span>
+       <span class="cnt">${cnt}</span>
+     </div>`).join("") || '<div class="empty">無資料</div>';
+  el.querySelectorAll(".bar-row").forEach(row => row.addEventListener("click", () => onClick(row.dataset.name)));
+}
+
 function fmtBucket(t, byHour) {
   const opts = byHour
     ? { timeZone: TZ, month: "2-digit", day: "2-digit", hour: "2-digit", hour12: false }
@@ -326,49 +748,93 @@ function renderTrend() {
   const el = document.getElementById("trendChart");
   const unitEl = document.getElementById("trendUnit");
   const times = ALL.map(n => parseTime(n.published_at)?.getTime()).filter(Boolean);
-  if (!times.length) { el.innerHTML = '<div class="meta">無時間資料</div>'; unitEl.textContent = ""; return; }
+  if (!times.length) { el.innerHTML = '<div class="empty">無時間資料</div>'; unitEl.textContent = ""; return; }
 
   const byHour = (Math.max(...times) - Math.min(...times)) <= 48 * 3600 * 1000;
   const sources = Object.keys(SOURCE_COLORS);
-  const buckets = new Map(); // key -> {label, minT, total, bySource}
+  const buckets = new Map();
   ALL.forEach(n => {
     const t = parseTime(n.published_at)?.getTime();
     if (!t || !n.source) return;
     const key = fmtBucket(t, byHour);
     let b = buckets.get(key);
     if (!b) { b = { label: key, minT: t, total: 0, bySource: {} }; buckets.set(key, b); }
-    b.minT = Math.min(b.minT, t);
-    b.total++;
+    b.minT = Math.min(b.minT, t); b.total++;
     b.bySource[n.source] = (b.bySource[n.source] || 0) + 1;
   });
 
   let cols = [...buckets.values()].sort((a, b) => a.minT - b.minT);
   const CAP = 24, truncated = cols.length > CAP;
   if (truncated) cols = cols.slice(-CAP);
-  unitEl.textContent = (byHour ? "(每小時" : "(每日") + (truncated ? `・最近 ${CAP} 格)` : ")");
+  unitEl.textContent = (byHour ? "每小時" : "每日") + (truncated ? `・近 ${CAP} 格` : "");
 
-  const maxTotal = Math.max(1, ...cols.map(c => c.total));
-  const H = 150;
+  const maxTotal = Math.max(1, ...cols.map(c => c.total)), H = 150;
   const labelEvery = Math.ceil(cols.length / 12);
-  const stacks = cols.map(c => {
+  const stacks = cols.map((c, i) => {
     const h = c.total / maxTotal * H;
-    const segs = sources.filter(s => c.bySource[s]).map(s => {
-      const cnt = c.bySource[s];
-      return `<div class="trend-seg" title="${esc(s)} ${c.label}：${cnt} 則"
-        style="height:${(cnt / c.total * h).toFixed(1)}px;background:${sourceColor(s)}"></div>`;
-    }).join("");
-    return `<div class="trend-col"><div class="trend-stack" style="height:${h.toFixed(1)}px"
-      title="${esc(c.label)}：共 ${c.total} 則">${segs}</div></div>`;
+    const segs = sources.filter(s => c.bySource[s]).map(s =>
+      `<div class="trend-seg" title="${esc(s)} ${c.label}：${c.bySource[s]} 則" style="height:${(c.bySource[s] / c.total * h).toFixed(1)}px;background:${sourceColor(s)}"></div>`).join("");
+    return `<div class="trend-col"><div class="trend-stack" style="height:${h.toFixed(1)}px;animation-delay:${i * 32}ms" title="${esc(c.label)}：共 ${c.total} 則">${segs}</div></div>`;
   }).join("");
   const labels = cols.map((c, i) =>
     `<span title="${esc(c.label)}">${(i % labelEvery === 0 || i === cols.length - 1) ? esc(c.label) : ""}</span>`).join("");
   el.innerHTML = `<div class="trend">${stacks}</div><div class="trend-x">${labels}</div>`;
 }
 
+// 統整風險新聞，找出被點名的個股股號
+function computeRiskStocks() {
+  const map = new Map(); // code -> {code, count, kw:Set}
+  ALL.forEach(n => {
+    const hits = newsRisk(n);
+    if (!hits.length) return;
+    (n.stocks || []).forEach(s => {
+      const c = stockCode(s);
+      let r = map.get(c);
+      if (!r) { r = { code: c, count: 0, kw: new Set() }; map.set(c, r); }
+      r.count++; hits.forEach(h => r.kw.add(h));
+    });
+  });
+  return [...map.values()].sort((a, b) => b.count - a.count || b.kw.size - a.kw.size);
+}
+function renderRisk() {
+  const el = document.getElementById("riskChart");
+  const unit = document.getElementById("riskUnit");
+  const risks = computeRiskStocks(); // 全部被點名的危險個股
+  RISK_COUNT = risks.length;
+  ALERT_COUNT = risks.filter(r => r.count >= RISK_MIN).length; // 達門檻 → 尖叫封頂
+  if (!risks.length) {
+    unit.textContent = "";
+    el.innerHTML = '<div class="risk-empty">目前未偵測到含風險字詞且標註個股的新聞。</div>';
+    return;
+  }
+  const alerts = risks.filter(r => r.count >= RISK_MIN).length;
+  unit.textContent = `共 ${risks.length} 檔 · ${alerts} 檔達警示門檻 (≥ ${RISK_MIN} 則)`;
+  const rows = risks.map((r, i) => {
+    const kw = [...r.kw];
+    const kwText = kw.slice(0, 6).join("、") + (kw.length > 6 ? ` +${kw.length - 6}` : "");
+    const alert = r.count >= RISK_MIN;
+    const badge = alert ? '<span class="badge">⚠ 警示</span>' : '<span class="badge watch">觀察</span>';
+    return `<tr class="${alert ? "alert" : ""}" data-stock="${esc(r.code)}" style="animation-delay:${Math.min(i, 20) * 18}ms" title="點擊：篩選 ${esc(r.code)} 的新聞">
+      <td class="idx">${i + 1}</td>
+      <td><span class="code">${esc(r.code)}</span>${stockName(r.code) ? `<span class="code-name">${esc(stockName(r.code))}</span>` : ""}</td>
+      <td class="num cnt">${r.count}</td>
+      <td>${badge}</td>
+      <td class="kw">${esc(kwText)}</td>
+    </tr>`;
+  }).join("");
+  el.innerHTML = `<div class="risk-scroll"><table class="risk-table">
+    <thead><tr><th>#</th><th>股號</th><th class="num">風險新聞</th><th>狀態</th><th>命中關鍵字</th></tr></thead>
+    <tbody>${rows}</tbody></table></div>`;
+  el.querySelectorAll("tbody tr").forEach(tr => tr.addEventListener("click", () => {
+    state.stock = tr.dataset.stock; render();
+    document.getElementById("list").scrollIntoView({ behavior: "smooth", block: "start" });
+  }));
+}
+
 function renderCharts() {
   const bySource = {};
   ALL.forEach(n => { if (n.source) bySource[n.source] = (bySource[n.source] || 0) + 1; });
-  donutChart(document.getElementById("sourceChart"),
+  shareBar(document.getElementById("sourceChart"),
     Object.entries(bySource).sort((a, b) => b[1] - a[1]),
     name => { state.source = state.source === name ? "" : name; document.getElementById("sourceSel").value = state.source; render(); });
 
@@ -376,9 +842,11 @@ function renderCharts() {
   ALL.forEach(n => (n.stocks || []).forEach(s => { const c = stockCode(s); byStock[c] = (byStock[c] || 0) + 1; }));
   barChart(document.getElementById("stockChart"),
     Object.entries(byStock).sort((a, b) => b[1] - a[1]).slice(0, 10),
-    name => { state.stock = state.stock === name ? "" : name; render(); });
+    name => { state.stock = state.stock === name ? "" : name; render(); },
+    code => { const nm = stockName(code); return esc(code) + (nm ? ` <span class="bar-name">${esc(nm)}</span>` : ""); });
 
   renderTrend();
+  renderRisk();
 }
 
 function applyFilters() {
@@ -388,15 +856,19 @@ function applyFilters() {
     if (state.source && n.source !== state.source) return false;
     if (state.stock && !(n.stocks || []).some(s => stockCode(s) === state.stock)) return false;
     if (cutoff) { const t = parseTime(n.published_at); if (!t || t.getTime() < cutoff) return false; }
+    if (state.riskOnly && !newsRisk(n).length) return false;
     if (q) {
-      const hay = (n.title + " " + (n.summary || "")).toLowerCase();
-      if (!hay.includes(q)) return false;
+      // 比對原文＋雙語翻譯（中英都能搜）
+      const hay = [n.title, n.summary, n.title_zh, n.title_en, n.summary_zh, n.summary_en]
+        .filter(Boolean).join(" ").toLowerCase();
+      // 也比對相關個股的代號與名稱（例如搜「台積電」可找到只標 2330 的新聞）
+      const stockHay = (n.stocks || []).map(s => { const c = stockCode(s); return c + " " + stockName(c); }).join(" ").toLowerCase();
+      if (!hay.includes(q) && !stockHay.includes(q)) return false;
     }
     return true;
   });
   out.sort((a, b) => {
-    const ta = parseTime(a.published_at)?.getTime() || 0;
-    const tb = parseTime(b.published_at)?.getTime() || 0;
+    const ta = parseTime(a.published_at)?.getTime() || 0, tb = parseTime(b.published_at)?.getTime() || 0;
     return state.sort === "old" ? ta - tb : tb - ta;
   });
   return out;
@@ -406,51 +878,340 @@ function renderActiveFilters() {
   const chips = [];
   if (state.source) chips.push(["來源：" + state.source, () => { state.source = ""; document.getElementById("sourceSel").value = ""; }]);
   if (state.stock) chips.push(["個股：" + state.stock, () => { state.stock = ""; }]);
-  if (state.q) chips.push(['搜尋：' + state.q, () => { state.q = ""; document.getElementById("q").value = ""; }]);
+  if (state.q) chips.push(["搜尋：" + state.q, () => { state.q = ""; document.getElementById("q").value = ""; }]);
+  if (state.riskOnly) chips.push(["僅風險新聞", () => { state.riskOnly = false; document.getElementById("riskSel").value = "0"; }]);
   const box = document.getElementById("activeFilters");
-  box.innerHTML = chips.map((c, i) => `<span class="filter-chip" data-i="${i}">${esc(c[0])} ✕</span>`).join("");
-  box.querySelectorAll(".filter-chip").forEach((el, i) =>
-    el.addEventListener("click", () => { chips[i][1](); render(); }));
+  box.innerHTML = chips.map((c, i) => `<span class="chip" data-i="${i}">${esc(c[0])} ✕</span>`).join("");
+  box.querySelectorAll(".chip").forEach((el, i) => el.addEventListener("click", () => { chips[i][1](); render(); }));
 }
 
-function updateLegendDim() {
-  document.querySelectorAll("#sourceChart .legend-row").forEach(row =>
+function updateRankDim() {
+  document.querySelectorAll("#sourceChart .rank-row").forEach(row =>
     row.classList.toggle("dim", !!state.source && row.dataset.name !== state.source));
+}
+
+function pageNumbers(cur, pages) {
+  const want = new Set([1, pages, cur, cur - 1, cur + 1]);
+  const arr = [...want].filter(p => p >= 1 && p <= pages).sort((a, b) => a - b);
+  const res = []; let prev = 0;
+  for (const p of arr) { if (p - prev > 1) res.push("…"); res.push(p); prev = p; }
+  return res;
+}
+function renderPager(total, pages, startI, shown, unit = "則") {
+  const pager = document.getElementById("pager");
+  if (pages <= 1) {
+    pager.innerHTML = total ? `<span class="pg-summary">共 ${total} ${unit}</span>` : "";
+    return;
+  }
+  const btns = pageNumbers(state.page, pages).map(p => p === "…"
+    ? '<span class="pg-gap">…</span>'
+    : `<button class="pg-num${p === state.page ? " on" : ""}" data-p="${p}">${p}</button>`).join("");
+  pager.innerHTML =
+    `<button class="pg-nav" data-p="${state.page - 1}" ${state.page <= 1 ? "disabled" : ""}>‹ 上一頁</button>` +
+    btns +
+    `<button class="pg-nav" data-p="${state.page + 1}" ${state.page >= pages ? "disabled" : ""}>下一頁 ›</button>` +
+    `<span class="pg-summary">第 ${startI + 1}–${startI + shown} ${unit} · 共 ${total} ${unit}</span>`;
+  pager.querySelectorAll("button[data-p]").forEach(b => b.addEventListener("click", () => {
+    if (b.disabled) return;
+    state.page = +b.dataset.p; render();
+    document.getElementById("list").scrollIntoView({ behavior: "smooth", block: "start" });
+  }));
+}
+
+// 單則新聞的 HTML（列表與個股彙整共用）
+function articleHTML(n, i) {
+  const stocks = (n.stocks || []).map(s => { const c = stockCode(s); const nm = stockName(c); return `<span class="tag" data-stock="${esc(c)}">${esc(c)}${nm ? ` ${esc(nm)}` : ""}</span>`; }).join("");
+  const warn = newsRisk(n);
+  const dt = dispTitle(n), ds = dispSummary(n);
+  const delay = Math.min(i, 14) * 22;
+  return `<article class="article" style="animation-delay:${delay}ms">
+      <div class="meta-col">
+        <span class="a-source">${esc(n.source || "未知")}</span>
+        <span class="a-time">${fmtTime(n.published_at)}</span>
+        <span class="a-rel">${relTime(n.published_at)}</span>
+        ${warn.length ? `<span class="a-warn" title="命中風險字詞：${esc(warn.join("、"))}">⚠ 風險</span>` : ""}
+      </div>
+      <div>
+        <a class="a-title-link" href="${esc(n.url)}" target="_blank" rel="noopener"><span class="a-title">${highlight(dt, state.q)}</span></a>
+        ${ds ? `<p class="a-summary">${highlight(ds, state.q)}</p>` : ""}
+        ${stocks ? `<div class="a-stocks">${stocks}</div>` : ""}
+      </div>
+    </article>`;
+}
+function wireTags(root) {
+  root.querySelectorAll(".tag").forEach(el => el.addEventListener("click", e => {
+    e.stopPropagation(); state.stock = el.dataset.stock; render();
+    document.getElementById("list").scrollIntoView({ behavior: "smooth", block: "start" });
+  }));
+}
+
+// 個股彙整：把不同來源、講到同一支股票的新聞集中列出
+const GROUP_PAGE_SIZE = 6;
+function renderByStock(items, list, pager) {
+  const groups = new Map();
+  items.forEach(n => (n.stocks || []).forEach(s => {
+    const c = stockCode(s);
+    let g = groups.get(c);
+    if (!g) { g = { code: c, items: [] }; groups.set(c, g); }
+    g.items.push(n);
+  }));
+  const arr = [...groups.values()].sort((a, b) => b.items.length - a.items.length || a.code.localeCompare(b.code));
+  if (!arr.length) {
+    list.innerHTML = '<div class="empty">目前篩選結果裡沒有標註個股的新聞。</div>';
+    pager.innerHTML = ""; return;
+  }
+  const pages = Math.max(1, Math.ceil(arr.length / GROUP_PAGE_SIZE));
+  state.page = Math.min(Math.max(1, state.page), pages);
+  const startI = (state.page - 1) * GROUP_PAGE_SIZE;
+  const slice = arr.slice(startI, startI + GROUP_PAGE_SIZE);
+
+  list.innerHTML = slice.map(g => {
+    const nm = stockName(g.code);
+    const its = g.items.slice().sort((a, b) => {
+      const ta = parseTime(a.published_at)?.getTime() || 0, tb = parseTime(b.published_at)?.getTime() || 0;
+      return state.sort === "old" ? ta - tb : tb - ta;
+    });
+    const srcs = [...new Set(its.map(it => it.source).filter(Boolean))];
+    const articles = its.map((n, i) => articleHTML(n, i)).join("");
+    return `<div class="stock-group">
+      <div class="sg-head" data-stock="${esc(g.code)}" title="只看 ${esc(g.code)} 的新聞列表">
+        <span class="sg-code">${esc(g.code)}</span>
+        ${nm ? `<span class="sg-name">${esc(nm)}</span>` : ""}
+        <span class="sg-count">${g.items.length} 則 · ${srcs.length} 來源</span>
+        <span class="sg-srcs">${srcs.map(s => `<span>${esc(s)}</span>`).join("")}</span>
+      </div>
+      <div class="sg-items">${articles}</div>
+    </div>`;
+  }).join("");
+
+  wireTags(list);
+  list.querySelectorAll(".sg-head").forEach(h => h.addEventListener("click", () => {
+    state.stock = h.dataset.stock; state.view = "list"; applyViewChrome(); render();
+    document.getElementById("list").scrollIntoView({ behavior: "smooth", block: "start" });
+  }));
+  renderPager(arr.length, pages, startI, slice.length, "檔");
 }
 
 function render() {
   renderActiveFilters();
-  updateLegendDim();
+  updateRankDim();
   const items = applyFilters();
+  // 篩選條件 / 檢視模式改變時回到第 1 頁（換頁本身不會觸發）
+  const key = JSON.stringify([state.q, state.source, state.stock, state.range, state.sort, state.riskOnly, state.view, state.market]);
+  if (key !== lastFilterKey) { state.page = 1; lastFilterKey = key; }
+
   const list = document.getElementById("list");
-  if (!items.length) { list.innerHTML = '<div class="empty">沒有符合條件的新聞。</div>'; return; }
-  list.innerHTML = items.map(n => {
-    const stocks = (n.stocks || []).map(s => {
-      const c = stockCode(s);
-      return `<span class="stock-chip" data-stock="${esc(c)}">${esc(c)}</span>`;
-    }).join("");
-    return `<div class="news-item">
-      <div class="news-top">
-        <span class="news-source">${esc(n.source || "未知來源")}</span>
-        <span class="news-time">${fmtTime(n.published_at)} · ${relTime(n.published_at)}</span>
-      </div>
-      <a class="news-title" href="${esc(n.url)}" target="_blank" rel="noopener">${highlight(n.title, state.q)}</a>
-      ${n.summary ? `<p class="news-summary">${highlight(n.summary, state.q)}</p>` : ""}
-      ${stocks ? `<div class="stocks">${stocks}</div>` : ""}
-    </div>`;
-  }).join("");
-  list.querySelectorAll(".stock-chip").forEach(el =>
-    el.addEventListener("click", () => { state.stock = el.dataset.stock; render(); }));
+  const pager = document.getElementById("pager");
+  if (!items.length) { list.innerHTML = '<div class="empty">沒有符合條件的新聞。</div>'; pager.innerHTML = ""; return; }
+
+  if (state.view === "byStock") { renderByStock(items, list, pager); return; }
+
+  const pages = Math.max(1, Math.ceil(items.length / PAGE_SIZE));
+  state.page = Math.min(Math.max(1, state.page), pages);
+  const startI = (state.page - 1) * PAGE_SIZE;
+  const pageItems = items.slice(startI, startI + PAGE_SIZE);
+  list.innerHTML = pageItems.map((n, i) => articleHTML(n, i)).join("");
+  wireTags(list);
+  renderPager(items.length, pages, startI, pageItems.length);
 }
 
-// 事件繫結
 document.getElementById("q").addEventListener("input", e => { state.q = e.target.value; render(); });
 document.getElementById("sourceSel").addEventListener("change", e => { state.source = e.target.value; render(); });
 document.getElementById("rangeSel").addEventListener("change", e => { state.range = +e.target.value; render(); });
 document.getElementById("sortSel").addEventListener("change", e => { state.sort = e.target.value; render(); });
+document.getElementById("riskSel").addEventListener("change", e => { state.riskOnly = e.target.value === "1"; render(); });
 document.getElementById("refresh").addEventListener("click", load);
 
+// ── 風格切換（霓虹光害 ⇄ 極光玻璃）──
+const THEMES = ["fx-neon", "fx-gold"];
+const THEME_LABEL = { "fx-neon": "🔆 霓虹光害", "fx-gold": "👑 鎏金奢華" };
+
+// 切到霓虹風格時的合成尖叫（Web Audio，無外部音檔）
+let _audioCtx = null;
+let _muted = false;
+let RISK_COUNT = 0;  // 目前有風險的股票檔數（由 renderRisk 更新）
+let ALERT_COUNT = 0; // 達警示門檻 (≥ RISK_MIN 則) 的股票檔數
+// 只要有任一檔達警示門檻 → 強度直接封頂 (1)；否則用較低基準
+function screamIntensity() { return ALERT_COUNT > 0 ? 1 : Math.min(0.5, RISK_COUNT / 20); }
+function playScream() {
+  if (_muted) return;
+  try {
+    _audioCtx = _audioCtx || new (window.AudioContext || window.webkitAudioContext)();
+    const ctx = _audioCtx;
+    if (ctx.state === "suspended") ctx.resume();
+    const now = ctx.currentTime, dur = 1.2;
+    const k = screamIntensity();          // 風險越多 → 越接近 1
+    const peak = 0.5 + 0.5 * k;           // 達警示門檻時音量封頂
+
+    // 壓縮器：把所有訊號轟到最大響度
+    const comp = ctx.createDynamicsCompressor();
+    comp.threshold.value = -30; comp.ratio.value = 20; comp.attack.value = 0.001; comp.release.value = 0.12;
+
+    const master = ctx.createGain();
+    master.gain.setValueAtTime(0.0001, now);
+    master.gain.exponentialRampToValueAtTime(peak, now + 0.02);
+    master.gain.setValueAtTime(peak * 0.92, now + dur - 0.3);
+    master.gain.exponentialRampToValueAtTime(0.0001, now + dur);
+
+    // 更狠的硬削波撕裂失真
+    const shaper = ctx.createWaveShaper();
+    const curve = new Float32Array(1024);
+    for (let i = 0; i < 1024; i++) { const x = i / 512 - 1; curve[i] = Math.tanh(x * 10); }
+    shaper.curve = curve; shaper.oversample = "4x";
+    const bp = ctx.createBiquadFilter(); bp.type = "bandpass"; bp.frequency.value = 3200; bp.Q.value = 10;
+    const hp = ctx.createBiquadFilter(); hp.type = "highpass"; hp.frequency.value = 1100;
+    // 金屬回授延遲尾音
+    const delay = ctx.createDelay(); delay.delayTime.value = 0.07;
+    const fb = ctx.createGain(); fb.gain.value = 0.55;
+    shaper.connect(bp); bp.connect(hp);
+    hp.connect(master);
+    hp.connect(delay); delay.connect(fb); fb.connect(delay); delay.connect(master);
+    master.connect(comp); comp.connect(ctx.destination);
+
+    // 快速深抖音
+    const lfo = ctx.createOscillator(), lfoGain = ctx.createGain();
+    lfo.frequency.value = 60; lfoGain.gain.value = 260; lfo.connect(lfoGain);
+
+    // 隨機基頻 + 一堆不和諧音（低八度/三全音/五度/八度…）→ 混亂音牆
+    const base = 1100 + Math.random() * 600;
+    const allMults = [0.5, 1, 1.414, 1.5, 1.888, 2.0, 2.667, 3.0, 3.78, 4.5];
+    const nVoices = 3 + Math.round(k * (allMults.length - 3)); // 風險越多 → 音層越多
+    allMults.slice(0, nVoices).forEach(mult => {
+      const f = base * mult;
+      const o = ctx.createOscillator();
+      o.type = "sawtooth";
+      o.detune.value = (Math.random() * 2 - 1) * 30;
+      o.frequency.setValueAtTime(f, now);
+      o.frequency.exponentialRampToValueAtTime(f * 2.2, now + 0.14);
+      o.frequency.exponentialRampToValueAtTime(f * 0.8, now + dur);
+      lfoGain.connect(o.frequency);
+      const g = ctx.createGain(); g.gain.value = 0.32;
+      o.connect(g); g.connect(shaper);
+      o.start(now); o.stop(now + dur);
+    });
+
+    // 雙層白噪（高頻嘶吼 + 中頻轟鳴）
+    [3500, 700].forEach(hz => {
+      const buf = ctx.createBuffer(1, Math.floor(ctx.sampleRate * dur), ctx.sampleRate);
+      const d = buf.getChannelData(0);
+      for (let j = 0; j < d.length; j++) d[j] = Math.random() * 2 - 1;
+      const noise = ctx.createBufferSource(); noise.buffer = buf;
+      const nf = ctx.createBiquadFilter(); nf.type = "highpass"; nf.frequency.value = hz;
+      const ng = ctx.createGain(); ng.gain.value = 0.2 + 0.25 * k;
+      noise.connect(nf); nf.connect(ng); ng.connect(shaper);
+      noise.start(now); noise.stop(now + dur);
+    });
+
+    lfo.start(now); lfo.stop(now + dur);
+  } catch (e) { /* 忽略：不支援或被靜音 */ }
+}
+// 連續尖叫：每段約 1 秒，略為重疊以避免空檔
+let _screamTimer = null;
+function screamInterval() { return Math.round(820 - 520 * screamIntensity()); } // 達門檻時最密集（~300ms）
+function startScreaming() {
+  if (_muted || _screamTimer) return;
+  const tick = () => { playScream(); _screamTimer = setTimeout(tick, screamInterval()); };
+  tick();
+}
+function stopScreaming() {
+  if (_screamTimer) { clearTimeout(_screamTimer); _screamTimer = null; }
+}
+function setMuted(m) {
+  _muted = m;
+  try { localStorage.setItem("dashMuted", m ? "1" : "0"); } catch (e) {}
+  const b = document.getElementById("muteToggle");
+  b.textContent = m ? "🔇" : "🔊";
+  b.title = m ? "已靜音（點擊開啟聲音）" : "靜音";
+  if (m) stopScreaming();
+  else if (document.body.classList.contains("fx-neon")) startScreaming();
+}
+
+// ── 市場切換（台股 ⇄ 美股）──
+function applyMarketChrome() {
+  const us = state.market === "us";
+  document.getElementById("marketToggle").textContent = us ? "🇺🇸 美股" : "🇹🇼 台股";
+  document.getElementById("kicker").textContent = us ? "美股即時新聞 · US Equities" : "台股即時新聞 · Taiwan Equities";
+  document.getElementById("mastheadTitle").textContent = us ? "美股快訊" : "行情日報";
+  document.getElementById("latin").textContent = us ? "The Wall Street Tape" : "The Taipei Market Tape";
+  document.getElementById("q").placeholder = us ? "Search headline / summary / ticker…" : "標題、摘要、個股代號或名稱…";
+}
+function setMarket(m) {
+  state.market = m;
+  try { localStorage.setItem("dashMarket", m); } catch (e) {}
+  // 跨市場時清掉殘留的篩選
+  state.q = ""; state.source = ""; state.stock = ""; state.riskOnly = false; state.page = 1;
+  lastFilterKey = "";
+  const q = document.getElementById("q"); if (q) q.value = "";
+  const rs = document.getElementById("riskSel"); if (rs) rs.value = "0";
+  applyMarketChrome();
+  load();
+}
+
+// ── 語言切換（中文 ⇄ English）──
+function applyLangChrome() {
+  document.getElementById("langToggle").textContent = state.lang === "en" ? "🌐 EN" : "🌐 中文";
+}
+function setLang(l) {
+  state.lang = l;
+  try { localStorage.setItem("dashLang", l); } catch (e) {}
+  applyLangChrome();
+  render();
+}
+
+// ── 檢視切換（新聞列表 ⇄ 個股彙整）──
+function applyViewChrome() {
+  const g = state.view === "byStock";
+  const b = document.getElementById("viewToggle");
+  b.textContent = g ? "📰 新聞列表" : "📊 個股彙整";
+  b.title = g ? "切換為新聞列表" : "切換為個股彙整（同一支股票跨來源集中）";
+}
+function setView(v) {
+  state.view = v;
+  try { localStorage.setItem("dashView", v); } catch (e) {}
+  applyViewChrome();
+  render();
+}
+
+function applyTheme(t) {
+  if (!THEMES.includes(t)) t = "fx-neon";
+  document.body.classList.remove(...THEMES);
+  document.body.classList.add(t);
+  document.getElementById("themeToggle").textContent = THEME_LABEL[t];
+  try { localStorage.setItem("dashTheme", t); } catch (e) {}
+}
+try { _muted = localStorage.getItem("dashMuted") === "1"; } catch (e) {}
+const _muteBtn = document.getElementById("muteToggle");
+_muteBtn.textContent = _muted ? "🔇" : "🔊";
+_muteBtn.addEventListener("click", () => setMuted(!_muted));
+
+let savedTheme = "fx-neon";
+try { savedTheme = localStorage.getItem("dashTheme") || "fx-neon"; } catch (e) {}
+applyTheme(savedTheme);
+document.getElementById("themeToggle").addEventListener("click", () => {
+  const cur = THEMES.find(t => document.body.classList.contains(t)) || "fx-neon";
+  const next = cur === "fx-neon" ? "fx-gold" : "fx-neon";
+  applyTheme(next);
+  if (next === "fx-neon") startScreaming(); // 切到霓虹 → 持續尖叫
+  else stopScreaming();                     // 切走 → 停止
+});
+
+// 市場初始化（讀取上次選擇）
+try { state.market = localStorage.getItem("dashMarket") === "us" ? "us" : "tw"; } catch (e) {}
+applyMarketChrome();
+document.getElementById("marketToggle").addEventListener("click", () => setMarket(state.market === "tw" ? "us" : "tw"));
+
+try { state.lang = localStorage.getItem("dashLang") === "en" ? "en" : "zh"; } catch (e) {}
+applyLangChrome();
+document.getElementById("langToggle").addEventListener("click", () => setLang(state.lang === "zh" ? "en" : "zh"));
+
+try { state.view = localStorage.getItem("dashView") === "byStock" ? "byStock" : "list"; } catch (e) {}
+applyViewChrome();
+document.getElementById("viewToggle").addEventListener("click", () => setView(state.view === "list" ? "byStock" : "list"));
+
+// 每 5 分鐘自動重新載入新聞（與背景爬蟲同步）
+const AUTO_REFRESH_MS = 5 * 60 * 1000;
 load();
+setInterval(load, AUTO_REFRESH_MS);
 </script>
 </body>
 </html>

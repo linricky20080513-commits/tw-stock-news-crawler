@@ -12,11 +12,11 @@ from .models import NewsItem
 class Store:
     """負責把新聞落地，並記錄已看過的 uid 以避免重複。"""
 
-    def __init__(self, data_dir: str | Path = "data"):
+    def __init__(self, data_dir: str | Path = "data", name: str = "news"):
         self.data_dir = Path(data_dir)
         self.data_dir.mkdir(parents=True, exist_ok=True)
-        self.json_path = self.data_dir / "news.json"
-        self.csv_path = self.data_dir / "news.csv"
+        self.json_path = self.data_dir / f"{name}.json"
+        self.csv_path = self.data_dir / f"{name}.csv"
         self._seen: set[str] = set()
         self._items: list[NewsItem] = []
         self._load()

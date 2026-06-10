@@ -23,14 +23,37 @@ import time
 from datetime import datetime
 
 from .models import NewsItem, TZ_TAIPEI
-from .sources import CnyesSource, CnaSource, EttodaySource, LtnSource
+from .sources import (
+    CnyesSource, CnaSource, EttodaySource, LtnSource, UdnMoneySource, TechNewsSource,
+    CnbcMarketsSource, CnbcFinanceSource, MarketWatchSource,
+    YahooFinanceSource, InvestingSource, NytBusinessSource, WsjMarketsSource,
+    CnbcTopSource, CnbcTechSource, BusinessInsiderSource, MotleyFoolSource,
+)
+from .stocks import update_stock_map
 from .storage import Store
+from .translate import translate_file
 
 SOURCE_MAP = {
     "cnyes": CnyesSource,
     "cna": CnaSource,
     "ettoday": EttodaySource,
     "ltn": LtnSource,
+    "udn": UdnMoneySource,
+    "technews": TechNewsSource,
+}
+# 美股來源 (--market us 時使用)
+US_SOURCE_MAP = {
+    "cnbc_markets": CnbcMarketsSource,
+    "cnbc_finance": CnbcFinanceSource,
+    "marketwatch": MarketWatchSource,
+    "yahoo": YahooFinanceSource,
+    "investing": InvestingSource,
+    "nyt": NytBusinessSource,
+    "wsj": WsjMarketsSource,
+    "cnbc_top": CnbcTopSource,
+    "cnbc_tech": CnbcTechSource,
+    "businessinsider": BusinessInsiderSource,
+    "fool": MotleyFoolSource,
 }
 
 
@@ -76,7 +99,14 @@ def print_item(item: NewsItem) -> None:
     print(f"  {item.url}")
 
 
-def run_once(sources, store: Store, keywords: list[str]) -> int:
+def run_once(sources, store: Store, keywords: list[str],
+             refresh_stocks: bool = False, lang: str = "zh") -> int:
+    # 台股才更新股號→名稱對照表 (自帶 12 小時節流,不會每次都抓)
+    if refresh_stocks:
+        n_stocks = update_stock_map(store.data_dir)
+        if n_stocks > 0:
+            print(f"  [stocks] 更新對照表 {n_stocks} 檔 -> {store.data_dir / 'stocks.json'}", file=sys.stderr)
+
     raw = collect(sources)
     fresh = [it for it in store.filter_new(raw) if match_keywords(it, keywords)]
     # 依發布時間舊到新排序;沒有時間的排在最前面 (用最小時間當預設值)
@@ -86,6 +116,9 @@ def run_once(sources, store: Store, keywords: list[str]) -> int:
         print_item(item)
     store.add(fresh)
     store.flush()
+
+    # 補上中英雙語欄位 (每次最多翻譯 25 則尚缺者,逐步補齊既有資料)
+    translate_file(store.json_path, source_lang=lang, max_items=25)
     return len(fresh)
 
 
@@ -93,8 +126,13 @@ def main(argv: list[str] | None = None) -> int:
     _force_utf8_console()
     parser = argparse.ArgumentParser(description="台股即時新聞爬蟲")
     parser.add_argument(
+        "--market", default="tw", choices=["tw", "us"],
+        help="市場:tw 台股 (預設) / us 美股",
+    )
+    parser.add_argument(
         "--source", nargs="+", default=["all"],
-        choices=["all", "cnyes", "cna", "ettoday", "ltn"], help="新聞來源 (預設全部)",
+        choices=["all", "cnyes", "cna", "ettoday", "ltn", "udn", "technews"],
+        help="台股新聞來源 (預設全部)",
     )
     parser.add_argument("--watch", action="store_true", help="持續輪詢監控模式")
     parser.add_argument("--interval", type=int, default=60, help="輪詢間隔秒數 (預設 60)")
@@ -102,20 +140,29 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--data-dir", default="data", help="輸出目錄 (預設 data/)")
     args = parser.parse_args(argv)
 
-    sources = build_sources(args.source)
-    store = Store(args.data_dir)
+    is_us = args.market == "us"
+    if is_us:
+        sources = [cls() for cls in US_SOURCE_MAP.values()]
+        store = Store(args.data_dir, name="news_us")
+        label = "美股"
+    else:
+        sources = build_sources(args.source)
+        store = Store(args.data_dir, name="news")
+        label = "台股"
+
+    lang = "en" if is_us else "zh"
 
     if not args.watch:
-        print("=== 單次抓取台股新聞 ===", file=sys.stderr)
-        n = run_once(sources, store, args.keywords)
+        print(f"=== 單次抓取{label}新聞 ===", file=sys.stderr)
+        n = run_once(sources, store, args.keywords, refresh_stocks=not is_us, lang=lang)
         print(f"\n本次新增 {n} 則，已存檔至 {store.json_path} / {store.csv_path}",
               file=sys.stderr)
         return 0
 
-    print(f"=== 即時監控模式 (每 {args.interval} 秒)，Ctrl+C 結束 ===", file=sys.stderr)
+    print(f"=== {label}即時監控模式 (每 {args.interval} 秒)，Ctrl+C 結束 ===", file=sys.stderr)
     try:
         while True:
-            n = run_once(sources, store, args.keywords)
+            n = run_once(sources, store, args.keywords, refresh_stocks=not is_us, lang=lang)
             if n:
                 print(f"  -> 新增 {n} 則", file=sys.stderr)
             time.sleep(args.interval)

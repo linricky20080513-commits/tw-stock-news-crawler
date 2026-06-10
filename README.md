@@ -11,6 +11,9 @@
 | `cna`     | 中央社   | RSS | 財經新聞 |
 | `ettoday` | ETtoday  | RSS | 財經新聞 |
 | `ltn`     | 自由財經 | RSS | 自由時報財經即時新聞 |
+| `udn`     | 經濟日報 | RSS | 財經新聞 |
+| `technews`| 科技新報 | RSS | 科技/產業新聞 |
+| **美股** (`--market us`) | CNBC(市場/財經/頭條/科技)、MarketWatch、Yahoo Finance、Investing.com、NYT Business、WSJ Markets、Business Insider、Motley Fool | RSS | 共 11 個來源,輸出到 `news_us.json` |
 
 > 原本規劃的 Yahoo 股市 RSS 已被官方擋掉 (HTTP 999),故改用中央社與 ETtoday。
 
@@ -42,6 +45,9 @@ python run.py --watch --keywords 台積電 AI 聯發科
 # 只用鉅亨網來源
 python run.py --source cnyes
 
+# 抓美股新聞 (CNBC / MarketWatch)，存到 data/news_us.json
+python run.py --market us
+
 # 指定輸出目錄
 python run.py --data-dir my_data
 ```
@@ -50,7 +56,7 @@ python run.py --data-dir my_data
 
 | 參數 | 預設 | 說明 |
 |------|------|------|
-| `--source`   | `all` | 來源,可多選:`cnyes` `cna` `ettoday` `ltn` `all` |
+| `--source`   | `all` | 台股來源,可多選:`cnyes` `cna` `ettoday` `ltn` `udn` `technews` `all` |
 | `--watch`    | 關閉  | 持續輪詢的即時監控模式 |
 | `--interval` | `60`  | 輪詢間隔秒數 |
 | `--keywords` | 無    | 只保留標題/摘要含這些關鍵字的新聞 |
@@ -60,6 +66,9 @@ python run.py --data-dir my_data
 
 - `data/news.json` — 完整結構化資料 (UTF-8),每次執行**累積合併**並依時間新到舊排序。
 - `data/news.csv` — 同內容的試算表 (UTF-8 BOM,可直接用 Excel 開)。
+- `data/stocks.json` — 全市場**股號→名稱**對照表 (上市+上櫃),供看板把股號旁顯示股票名稱。
+  由 `crawler/stocks.py` 從證交所/櫃買 OpenAPI 抓取,**每 12 小時**才更新一次 (自帶節流)。
+- `data/news_us.json` / `news_us.csv` — **美股**新聞 (`--market us`),格式同台股。看板右上角可一鍵切換台股/美股。
 
 每則新聞欄位:發布時間、來源、標題、相關個股、網址、摘要。
 跨執行去重:已抓過的網址 (以 MD5 為 `uid`) 不會重複寫入或重複顯示。
@@ -88,6 +97,7 @@ tw-stock-news-crawler/
 ├─ crawler/
 │  ├─ main.py              # CLI 進入點:單次 / 監控、關鍵字過濾
 │  ├─ models.py            # NewsItem 資料模型 (含去重 uid、台北時區)
+│  ├─ stocks.py            # 股號→名稱對照表 (證交所/櫃買 OpenAPI → data/stocks.json)
 │  ├─ storage.py           # JSON/CSV 落地 + 去重狀態
 │  └─ sources/
 │     ├─ cnyes.py          # 鉅亨網 JSON API
