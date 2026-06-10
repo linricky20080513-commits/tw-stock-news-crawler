@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>台股新聞看板</title>
+<style>
+  :root {
+    --bg: #0f1419;
+    --panel: #1a212b;
+    --panel-2: #222c38;
+    --border: #2c3a48;
+    --text: #e6edf3;
+    --muted: #8b98a5;
+    --accent: #4aa8ff;
+    --accent-soft: #1f3b54;
+    --green: #3fb950;
+    --red: #f85149;
+    --chip: #2a3744;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: "Segoe UI", "Microsoft JhengHei", system-ui, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.5;
+  }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+
+  header {
+    position: sticky; top: 0; z-index: 10;
+    background: linear-gradient(180deg, #131a22, #0f1419);
+    border-bottom: 1px solid var(--border);
+    padding: 16px 24px;
+  }
+  .header-row { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
+  h1 { font-size: 20px; margin: 0; font-weight: 700; }
+  h1 .dot { color: var(--accent); }
+  .meta { color: var(--muted); font-size: 13px; }
+  .spacer { flex: 1; }
+  button {
+    background: var(--panel-2); color: var(--text);
+    border: 1px solid var(--border); border-radius: 8px;
+    padding: 8px 14px; cursor: pointer; font-size: 13px;
+  }
+  button:hover { border-color: var(--accent); }
+  button.primary { background: var(--accent); color: #06121f; border-color: var(--accent); font-weight: 600; }
+
+  .wrap { padding: 20px 24px 60px; max-width: 1200px; margin: 0 auto; }
+
+  .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 14px; margin-bottom: 20px; }
+  .card {
+    background: var(--panel); border: 1px solid var(--border);
+    border-radius: 12px; padding: 16px 18px;
+  }
+  .card .label { color: var(--muted); font-size: 12px; }
+  .card .value { font-size: 26px; font-weight: 700; margin-top: 4px; }
+
+  .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 20px; }
+  @media (max-width: 760px) { .grid2 { grid-template-columns: 1fr; } }
+  .panel { background: var(--panel); border: 1px solid var(--border); border-radius: 12px; padding: 16px 18px; }
+  .panel h2 { font-size: 14px; margin: 0 0 12px; color: var(--muted); font-weight: 600; }
+
+  .bar-row { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; font-size: 13px; cursor: pointer; }
+  .bar-row .name { width: 92px; flex-shrink: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .bar-track { flex: 1; background: var(--panel-2); border-radius: 6px; height: 18px; overflow: hidden; }
+  .bar-fill { height: 100%; background: linear-gradient(90deg, var(--accent-soft), var(--accent)); border-radius: 6px; }
+  .bar-row .cnt { width: 32px; text-align: right; color: var(--muted); flex-shrink: 0; }
+  .bar-row:hover .name { color: var(--accent); }
+
+  /* 甜甜圈圖 + 圖例 */
+  .donut-wrap { display: flex; align-items: center; gap: 18px; flex-wrap: wrap; }
+  .donut { flex-shrink: 0; }
+  .donut .hole-num { font-size: 22px; font-weight: 700; fill: var(--text); }
+  .donut .hole-label { font-size: 10px; fill: var(--muted); }
+  .legend { flex: 1; min-width: 140px; }
+  .legend-row { display: flex; align-items: center; gap: 8px; font-size: 13px; padding: 4px 6px; border-radius: 6px; cursor: pointer; }
+  .legend-row:hover { background: var(--panel-2); }
+  .legend-row.dim { opacity: .4; }
+  .legend-row .swatch { width: 11px; height: 11px; border-radius: 3px; flex-shrink: 0; }
+  .legend-row .lname { flex: 1; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .legend-row .lpct { color: var(--muted); font-variant-numeric: tabular-nums; }
+
+  /* 來源 × 時間 堆疊柱狀圖 */
+  .trend { display: flex; align-items: flex-end; gap: 6px; height: 160px; padding-top: 6px; }
+  .trend-col { flex: 1; display: flex; flex-direction: column; justify-content: flex-end; min-width: 0; }
+  .trend-stack { display: flex; flex-direction: column-reverse; border-radius: 4px 4px 0 0; overflow: hidden; }
+  .trend-seg { width: 100%; }
+  .trend-x { display: flex; gap: 6px; margin-top: 6px; }
+  .trend-x span { flex: 1; text-align: center; font-size: 10px; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+  .toolbar { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin-bottom: 16px; }
+  input[type=search], select {
+    background: var(--panel); color: var(--text); border: 1px solid var(--border);
+    border-radius: 8px; padding: 9px 12px; font-size: 13px;
+  }
+  input[type=search] { min-width: 240px; flex: 1; }
+  input[type=search]:focus, select:focus { outline: none; border-color: var(--accent); }
+
+  .active-filters { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 14px; }
+  .filter-chip {
+    background: var(--accent-soft); color: var(--accent); border: 1px solid var(--accent);
+    border-radius: 20px; padding: 4px 12px; font-size: 12px; cursor: pointer;
+  }
+  .filter-chip:hover { background: var(--accent); color: #06121f; }
+
+  .news-item {
+    background: var(--panel); border: 1px solid var(--border);
+    border-radius: 12px; padding: 16px 18px; margin-bottom: 12px;
+    transition: border-color .15s;
+  }
+  .news-item:hover { border-color: var(--accent); }
+  .news-top { display: flex; gap: 10px; align-items: baseline; flex-wrap: wrap; margin-bottom: 6px; }
+  .news-source { color: var(--accent); font-size: 12px; font-weight: 600; }
+  .news-time { color: var(--muted); font-size: 12px; }
+  .news-title { font-size: 16px; font-weight: 600; margin: 2px 0 6px; display: block; }
+  .news-summary { color: var(--muted); font-size: 13px; margin: 0 0 10px; }
+  .stocks { display: flex; gap: 6px; flex-wrap: wrap; }
+  .stock-chip {
+    background: var(--chip); border: 1px solid var(--border); border-radius: 6px;
+    padding: 2px 9px; font-size: 12px; cursor: pointer; color: var(--text);
+  }
+  .stock-chip:hover { border-color: var(--accent); color: var(--accent); }
+
+  .empty { text-align: center; color: var(--muted); padding: 60px 0; }
+  mark { background: rgba(74,168,255,.35); color: inherit; border-radius: 3px; }
+</style>
+</head>
+<body>
+<header>
+  <div class="header-row">
+    <h1><span class="dot">●</span> 台股新聞看板</h1>
+    <span class="meta" id="meta">載入中…</span>
+    <span class="spacer"></span>
+    <button class="primary" id="refresh">↻ 重新整理</button>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="cards" id="cards"></div>
+
+  <div class="grid2">
+    <div class="panel">
+      <h2>來源分布</h2>
+      <div id="sourceChart"></div>
+    </div>
+    <div class="panel">
+      <h2>熱門個股 (前 10)</h2>
+      <div id="stockChart"></div>
+    </div>
+  </div>
+
+  <div class="panel" style="margin-bottom:20px">
+    <h2>來源 × 時間趨勢 <span class="meta" id="trendUnit"></span></h2>
+    <div id="trendChart"></div>
+  </div>
+
+  <div class="toolbar">
+    <input type="search" id="q" placeholder="搜尋標題或摘要…">
+    <select id="sourceSel"><option value="">全部來源</option></select>
+    <select id="rangeSel">
+      <option value="0">全部時間</option>
+      <option value="1">最近 1 小時</option>
+      <option value="6">最近 6 小時</option>
+      <option value="24">最近 24 小時</option>
+      <option value="72">最近 3 天</option>
+    </select>
+    <select id="sortSel">
+      <option value="new">時間：新→舊</option>
+      <option value="old">時間：舊→新</option>
+    </select>
+  </div>
+
+  <div class="active-filters" id="activeFilters"></div>
+  <div id="list"></div>
+</div>
+
+<script>
+const TZ = "Asia/Taipei";
+let ALL = [];
+const state = { q: "", source: "", stock: "", range: 0, sort: "new" };
+
+// stocks 欄位格式如 "TWS:5534:STOCK" → 取股號 5534
+function stockCode(s) {
+  const parts = String(s).split(":");
+  return parts.length >= 2 ? parts[1] : s;
+}
+function parseTime(iso) {
+  if (!iso) return null;
+  const t = new Date(iso);
+  return isNaN(t) ? null : t;
+}
+function fmtTime(iso) {
+  const t = parseTime(iso);
+  if (!t) return "—";
+  return t.toLocaleString("zh-Hant", { timeZone: TZ, month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit", hour12: false });
+}
+function relTime(iso) {
+  const t = parseTime(iso);
+  if (!t) return "";
+  const diff = (Date.now() - t.getTime()) / 60000; // 分鐘
+  if (diff < 1) return "剛剛";
+  if (diff < 60) return Math.floor(diff) + " 分鐘前";
+  if (diff < 1440) return Math.floor(diff / 60) + " 小時前";
+  return Math.floor(diff / 1440) + " 天前";
+}
+function esc(s) { return String(s ?? "").replace(/[&<>"]/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;" }[c])); }
+function highlight(text, q) {
+  const t = esc(text);
+  if (!q) return t;
+  try {
+    const re = new RegExp("(" + q.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + ")", "gi");
+    return t.replace(re, "<mark>$1</mark>");
+  } catch { return t; }
+}
+
+async function load() {
+  const meta = document.getElementById("meta");
+  meta.textContent = "載入中…";
+  try {
+    const res = await fetch("data/news.json?_=" + Date.now());
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    ALL = await res.json();
+  } catch (e) {
+    meta.textContent = "讀取 data/news.json 失敗：" + e.message + "（請以 HTTP 伺服器開啟，見下方說明）";
+    document.getElementById("list").innerHTML =
+      '<div class="empty">無法載入資料。<br>請在專案根目錄執行 <code>python -m http.server 8000</code>，<br>再開啟 <a href="http://localhost:8000">http://localhost:8000</a>。</div>';
+    return;
+  }
+  // 補上來源下拉
+  const sel = document.getElementById("sourceSel");
+  const sources = [...new Set(ALL.map(n => n.source).filter(Boolean))].sort();
+  sel.innerHTML = '<option value="">全部來源</option>' + sources.map(s => `<option>${esc(s)}</option>`).join("");
+  sel.value = state.source;
+  renderStats();
+  renderCharts();
+  render();
+}
+
+function renderStats() {
+  const times = ALL.map(n => parseTime(n.published_at)).filter(Boolean);
+  const latest = times.length ? new Date(Math.max(...times.map(t => t.getTime()))) : null;
+  const stockSet = new Set();
+  ALL.forEach(n => (n.stocks || []).forEach(s => stockSet.add(stockCode(s))));
+  const sourceCount = new Set(ALL.map(n => n.source).filter(Boolean)).size;
+
+  document.getElementById("meta").textContent =
+    `共 ${ALL.length} 則 · 最後更新 ${latest ? fmtTime(latest.toISOString()) : "—"}`;
+
+  const cards = [
+    { label: "新聞總數", value: ALL.length },
+    { label: "新聞來源", value: sourceCount },
+    { label: "提及個股", value: stockSet.size },
+    { label: "最新一則", value: latest ? relTime(latest.toISOString()) : "—" },
+  ];
+  document.getElementById("cards").innerHTML = cards.map(c =>
+    `<div class="card"><div class="label">${c.label}</div><div class="value">${c.value}</div></div>`).join("");
+}
+
+function barChart(el, entries, onClick) {
+  const max = Math.max(1, ...entries.map(e => e[1]));
+  el.innerHTML = entries.map(([name, cnt]) =>
+    `<div class="bar-row" data-name="${esc(name)}">
+       <span class="name" title="${esc(name)}">${esc(name)}</span>
+       <span class="bar-track"><span class="bar-fill" style="width:${(cnt / max * 100).toFixed(1)}%"></span></span>
+       <span class="cnt">${cnt}</span>
+     </div>`).join("") || '<div class="meta">無資料</div>';
+  el.querySelectorAll(".bar-row").forEach(row =>
+    row.addEventListener("click", () => onClick(row.dataset.name)));
+}
+
+function renderCharts() {
+  const bySource = {};
+  ALL.forEach(n => { if (n.source) bySource[n.source] = (bySource[n.source] || 0) + 1; });
+  barChart(document.getElementById("sourceChart"),
+    Object.entries(bySource).sort((a, b) => b[1] - a[1]),
+    name => { state.source = state.source === name ? "" : name; document.getElementById("sourceSel").value = state.source; render(); });
+
+  const byStock = {};
+  ALL.forEach(n => (n.stocks || []).forEach(s => { const c = stockCode(s); byStock[c] = (byStock[c] || 0) + 1; }));
+  barChart(document.getElementById("stockChart"),
+    Object.entries(byStock).sort((a, b) => b[1] - a[1]).slice(0, 10),
+    name => { state.stock = state.stock === name ? "" : name; render(); });
+}
+
+function applyFilters() {
+  const q = state.q.trim().toLowerCase();
+  const cutoff = state.range ? Date.now() - state.range * 3600 * 1000 : 0;
+  let out = ALL.filter(n => {
+    if (state.source && n.source !== state.source) return false;
+    if (state.stock && !(n.stocks || []).some(s => stockCode(s) === state.stock)) return false;
+    if (cutoff) { const t = parseTime(n.published_at); if (!t || t.getTime() < cutoff) return false; }
+    if (q) {
+      const hay = (n.title + " " + (n.summary || "")).toLowerCase();
+      if (!hay.includes(q)) return false;
+    }
+    return true;
+  });
+  out.sort((a, b) => {
+    const ta = parseTime(a.published_at)?.getTime() || 0;
+    const tb = parseTime(b.published_at)?.getTime() || 0;
+    return state.sort === "old" ? ta - tb : tb - ta;
+  });
+  return out;
+}
+
+function renderActiveFilters() {
+  const chips = [];
+  if (state.source) chips.push(["來源：" + state.source, () => { state.source = ""; document.getElementById("sourceSel").value = ""; }]);
+  if (state.stock) chips.push(["個股：" + state.stock, () => { state.stock = ""; }]);
+  if (state.q) chips.push(['搜尋：' + state.q, () => { state.q = ""; document.getElementById("q").value = ""; }]);
+  const box = document.getElementById("activeFilters");
+  box.innerHTML = chips.map((c, i) => `<span class="filter-chip" data-i="${i}">${esc(c[0])} ✕</span>`).join("");
+  box.querySelectorAll(".filter-chip").forEach((el, i) =>
+    el.addEventListener("click", () => { chips[i][1](); render(); }));
+}
+
+function render() {
+  renderActiveFilters();
+  const items = applyFilters();
+  const list = document.getElementById("list");
+  if (!items.length) { list.innerHTML = '<div class="empty">沒有符合條件的新聞。</div>'; return; }
+  list.innerHTML = items.map(n => {
+    const stocks = (n.stocks || []).map(s => {
+      const c = stockCode(s);
+      return `<span class="stock-chip" data-stock="${esc(c)}">${esc(c)}</span>`;
+    }).join("");
+    return `<div class="news-item">
+      <div class="news-top">
+        <span class="news-source">${esc(n.source || "未知來源")}</span>
+        <span class="news-time">${fmtTime(n.published_at)} · ${relTime(n.published_at)}</span>
+      </div>
+      <a class="news-title" href="${esc(n.url)}" target="_blank" rel="noopener">${highlight(n.title, state.q)}</a>
+      ${n.summary ? `<p class="news-summary">${highlight(n.summary, state.q)}</p>` : ""}
+      ${stocks ? `<div class="stocks">${stocks}</div>` : ""}
+    </div>`;
+  }).join("");
+  list.querySelectorAll(".stock-chip").forEach(el =>
+    el.addEventListener("click", () => { state.stock = el.dataset.stock; render(); }));
+}
+
+// 事件繫結
+document.getElementById("q").addEventListener("input", e => { state.q = e.target.value; render(); });
+document.getElementById("sourceSel").addEventListener("change", e => { state.source = e.target.value; render(); });
+document.getElementById("rangeSel").addEventListener("change", e => { state.range = +e.target.value; render(); });
+document.getElementById("sortSel").addEventListener("change", e => { state.sort = e.target.value; render(); });
+document.getElementById("refresh").addEventListener("click", load);
+
+load();
+</script>
+</body>
+</html>
