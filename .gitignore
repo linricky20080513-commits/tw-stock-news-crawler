@@ -16,10 +16,12 @@ ENV/
 # Crawler output data
 data/*.csv
 data/*.json
-# 但看板需要這三個 JSON 要發佈到 GitHub Pages,故例外納入版控
+# 但看板需要這幾個 JSON 要發佈到 GitHub Pages,故例外納入版控
 !data/news.json
 !data/news_us.json
 !data/stocks.json
+!data/watchlist.json
+!data/summary.json
 
 # IDE / editor
 .vscode/

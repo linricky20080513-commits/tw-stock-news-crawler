@@ -16,9 +16,6 @@
 | **美股** (`--market us`) | CNBC(市場/財經/頭條/科技)、MarketWatch、Yahoo Finance、Investing.com、NYT Business、WSJ Markets、Business Insider、Motley Fool | RSS | 共 11 個來源,輸出到 `news_us.json` |
 
 > 原本規劃的 Yahoo 股市 RSS 已被官方擋掉 (HTTP 999),故改用中央社與 ETtoday。
-
-
-
 ## 安裝
 
 需要 Python 3.10+。
@@ -87,6 +84,30 @@ python -m http.server 8000
 **來源 × 時間趨勢堆疊柱狀圖**、關鍵字搜尋、來源/個股/時間範圍篩選與排序。
 爬蟲跑完後按看板上的「↻ 重新整理」即可載入最新資料。
 
+### 自選股清單
+
+看板可只顯示你關注的股票的新聞:
+
+- **`★ 只看自選`**:切換只看自選股相關新聞(與其他篩選 AND 疊加)。
+- **`⚙ 自選股`**:開啟管理面板,輸入**股號或名稱**(例如 `2330` 或 `台積電`,可空白/逗號一次多筆)按 Enter 加入;也可還原預設或清空。
+- 每則新聞的個股標籤旁有 **☆/★** 可快速加入/移出。
+- 清單來源:`data/watchlist.json`(股號陣列,進版控當**預設種子**)+ **瀏覽器 localStorage**(你在看板上的增刪會覆蓋預設)。
+
+### 新聞重點整理
+
+**`🧾 重點整理`** 切換一個面板,依**目前篩選結果**自動歸納(所以「只看自選 + 重點整理」= 你關注股票的重點):總覽、個股重點表(則數/最新標題連回原文/來源/風險關鍵字)、熱門關鍵字、風險提示。**原文完全保留**,重點只是附加視圖。
+
+規則式重點是純前端、零依賴、免費即時。若要**AI 生成式**的自然語句重點(選用):
+
+1. 在 GitHub repo 設 secret `ANTHROPIC_API_KEY`(Settings → Secrets and variables → Actions)。
+2. 每日 Action 會跑 `crawler/summarize.py`,用 Claude 產生重點寫入 `data/summary.json`,看板自動於面板頂端顯示。
+3. 想省錢可在 repo variables 設 `SUMMARY_MODEL=claude-haiku-4-5`(預設 `claude-opus-4-8`)。
+4. **未設金鑰時一切照常**——AI 區塊不出現,看板只顯示規則式重點,不會壞。會產生 API 費用。
+
+## 每日自動更新 (GitHub Actions)
+
+`.github/workflows/crawl.yml` 每天 **09:00 UTC(台北 17:00)** 自動抓台股+美股、更新 `data/*.json` 並 push,觸發 GitHub Pages 重建。也可到 Actions 頁面「Run workflow」手動觸發。改時間就編輯 `cron` 那行(UTC)。
+
 ## 專案結構
 
 ```
@@ -99,10 +120,15 @@ tw-stock-news-crawler/
 │  ├─ models.py            # NewsItem 資料模型 (含去重 uid、台北時區)
 │  ├─ stocks.py            # 股號→名稱對照表 (證交所/櫃買 OpenAPI → data/stocks.json)
 │  ├─ storage.py           # JSON/CSV 落地 + 去重狀態
+│  ├─ summarize.py         # AI 重點整理 (選用,需 ANTHROPIC_API_KEY → data/summary.json)
 │  └─ sources/
 │     ├─ cnyes.py          # 鉅亨網 JSON API
 │     └─ rss.py            # 通用 RSS (中央社、ETtoday)
-└─ data/                   # 輸出 (執行後產生)
+├─ data/                   # 輸出 (執行後產生)
+│  ├─ watchlist.json       # 自選股種子 (股號陣列)
+│  └─ summary.json         # AI 重點 (選用,summarize.py 產生)
+└─ .github/workflows/
+   └─ crawl.yml            # 每日自動抓取 + 發佈 GitHub Pages
 ```
 
 ## 擴充新來源
