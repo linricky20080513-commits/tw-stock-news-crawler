@@ -17,6 +17,8 @@
 
 > 原本規劃的 Yahoo 股市 RSS 已被官方擋掉 (HTTP 999),故改用中央社與 ETtoday。
 
+
+
 ## 安裝
 
 需要 Python 3.10+。
@@ -54,8 +56,6 @@ python run.py --data-dir my_data
 
 ### 參數
 
-| 參數 | 預設 | 說明 |
-|------|------|------|
 | `--source`   | `all` | 台股來源,可多選:`cnyes` `cna` `ettoday` `ltn` `udn` `technews` `all` |
 | `--watch`    | 關閉  | 持續輪詢的即時監控模式 |
 | `--interval` | `60`  | 輪詢間隔秒數 |
