@@ -104,14 +104,38 @@ class Handler(SimpleHTTPRequestHandler):
         pass
 
 
+class _Server(ThreadingHTTPServer):
+    # 獨占綁定:埠已被別的行程佔用時要真正失敗(Windows 預設會允許重複綁),
+    # 這樣下方的自動跳埠才會生效。
+    allow_reuse_address = False
+
+
+def _make_server() -> _Server:
+    """綁定 PORT;若被佔用則自動往後找可用埠(最多 20 個)。"""
+    last_err = None
+    for port in range(PORT, PORT + 20):
+        try:
+            srv = _Server(("", port), Handler)
+            srv._chosen_port = port  # type: ignore[attr-defined]
+            if port != PORT:
+                print(f"⚠ 埠 {PORT} 已被佔用,改用 {port}。")
+            return srv
+        except OSError as exc:
+            last_err = exc
+            continue
+    raise SystemExit(f"找不到可用埠({PORT}~{PORT + 19} 都被佔用):{last_err}")
+
+
 def main() -> int:
     _force_utf8_console()
     os.chdir(os.path.dirname(os.path.abspath(__file__)))
-    print(f"看板 + HSG 搜尋 API 已啟動 → http://localhost:{PORT}")
+    srv = _make_server()
+    port = srv._chosen_port  # type: ignore[attr-defined]
+    print(f"看板 + HSG 搜尋 API 已啟動 → http://localhost:{port}")
     print(f"HSG_PATH = {HSG_PATH}")
     print("Ctrl+C 結束")
     try:
-        ThreadingHTTPServer(("", PORT), Handler).serve_forever()
+        srv.serve_forever()
     except KeyboardInterrupt:
         print("\n已停止。")
     return 0
