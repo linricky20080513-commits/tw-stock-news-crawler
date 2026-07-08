@@ -297,6 +297,39 @@
   table.dg-table .dg-warn { color: #ff7a92; }
   table.dg-table .num { text-align: right; font-family: var(--font-mono); }
 
+  /* 重點整理:分組切換(總覽/依個股/依事件) */
+  .dg-seg { display: inline-flex; gap: 0; border: 1px solid hsl(var(--hue) 100% 72% / .3); border-radius: 6px; overflow: hidden; margin-bottom: 14px; }
+  .dg-seg button {
+    font-family: var(--font-mono); font-size: 11px; letter-spacing: .06em; background: transparent;
+    border: none; border-right: 1px solid hsl(var(--hue) 100% 72% / .2); color: var(--muted);
+    padding: 7px 16px; cursor: pointer; transition: .15s;
+  }
+  .dg-seg button:last-child { border-right: none; }
+  .dg-seg button:hover { color: var(--text); }
+  .dg-seg button.on { background: hsl(var(--hue) 100% 60% / .18); color: var(--n1); text-shadow: 0 0 8px var(--n1); }
+
+  /* 分組卡片(個股 / 事件) */
+  .dg-group { border: 1px solid hsl(var(--hue) 100% 72% / .22); border-radius: 10px; margin-bottom: 14px; overflow: hidden; animation: rise .4s both; }
+  .dg-group-head { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; padding: 11px 15px; background: hsl(var(--hue) 60% 12% / .5); border-bottom: 1px solid hsl(var(--hue) 100% 72% / .16); }
+  .dg-group-head .g-code { font-family: var(--font-mono); font-size: 15px; color: var(--n1); text-shadow: 0 0 8px var(--n1); }
+  .dg-group-head .g-name { color: var(--text); }
+  .dg-group-head .g-title { font-size: 15px; color: var(--text); font-weight: 600; }
+  .dg-group-head .g-meta { font-family: var(--font-mono); font-size: 11px; color: var(--muted); margin-left: auto; }
+  .dg-group-head .g-warn { color: #ff7a92; font-size: 11px; }
+  .dg-ai-points { padding: 12px 15px; font-size: 13px; line-height: 1.7; border-bottom: 1px dashed hsl(var(--hue) 100% 72% / .18); background: rgba(246,211,101,.06); }
+  .dg-ai-points .tag-ai { font-family: var(--font-mono); font-size: 9.5px; letter-spacing: .12em; color: #f6d365; margin-right: 8px; text-transform: uppercase; }
+  .dg-hlist { list-style: none; margin: 0; padding: 8px 15px 12px; }
+  .dg-hlist li { padding: 5px 0; border-bottom: 1px solid hsl(var(--hue) 100% 72% / .1); font-size: 12.5px; line-height: 1.5; }
+  .dg-hlist li:last-child { border-bottom: none; }
+  .dg-hlist a { color: var(--text); text-decoration: none; }
+  .dg-hlist a:hover { color: var(--n1); text-decoration: underline; }
+  .dg-hlist .h-meta { font-family: var(--font-mono); font-size: 10.5px; color: var(--muted); margin-right: 8px; }
+  .dg-hlist .h-warn { color: #ff7a92; margin-left: 6px; }
+  .dg-hlist .h-dup { color: var(--n2); font-family: var(--font-mono); font-size: 10.5px; margin-left: 8px; opacity: .85; }
+  .dg-ev-stocks { display: flex; gap: 6px; flex-wrap: wrap; padding: 0 15px 12px; }
+  .dg-ev-stocks .evs { font-family: var(--font-mono); font-size: 11.5px; border: 1px solid hsl(var(--hue) 100% 72% / .3); border-radius: 3px; padding: 2px 8px; cursor: pointer; transition: .15s; }
+  .dg-ev-stocks .evs:hover { border-color: var(--n1); color: var(--n1); }
+
   .active-filters { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 18px; }
   .active-filters:empty { display: none; }
   .chip {
@@ -612,6 +645,11 @@
     </section>
 
     <section class="dg-panel" id="dgPanel" hidden>
+      <div class="dg-seg" id="dgSeg">
+        <button data-g="overview">總覽</button>
+        <button data-g="byStock">依個股</button>
+        <button data-g="byEvent">依事件</button>
+      </div>
       <div class="dg-note" id="dgNote"></div>
       <div id="dgBody"></div>
     </section>
@@ -627,7 +665,7 @@
 <script>
 const TZ = "Asia/Taipei";
 let ALL = [];
-const state = { q: "", source: "", stock: "", range: 0, sort: "new", riskOnly: false, watchOnly: false, digest: false, page: 1, market: "tw", lang: "zh", view: "list" };
+const state = { q: "", source: "", stock: "", range: 0, sort: "new", riskOnly: false, watchOnly: false, digest: false, digestGroup: "overview", page: 1, market: "tw", lang: "zh", view: "list" };
 const PAGE_SIZE = 20; // 每頁新聞數
 let lastFilterKey = "";
 
@@ -1231,11 +1269,17 @@ function renderDigest(items) {
   if (!panel) return;
   panel.hidden = !state.digest;
   if (!state.digest) return;
+  document.querySelectorAll("#dgSeg button").forEach(b => b.classList.toggle("on", b.dataset.g === state.digestGroup));
   const note = document.getElementById("dgNote");
   const body = document.getElementById("dgBody");
-  note.textContent = "依目前篩選結果自動歸納" + (state.watchOnly ? "（只看自選）" : "") + "，原文與所有功能不受影響。";
-
+  const g = state.digestGroup;
+  note.textContent = (g === "byStock" ? "把每支股票的所有相關新聞彙整成重點"
+      : g === "byEvent" ? "把講同一件事的新聞聚成事件並摘要"
+      : "依目前篩選結果自動歸納")
+    + (state.watchOnly ? "（只看自選）" : "") + "，原文與所有功能不受影響。";
   if (!items.length) { body.innerHTML = '<div class="empty">目前篩選結果沒有新聞可整理。</div>'; return; }
+  if (g === "byStock") { renderDigestByStock(items, body); return; }
+  if (g === "byEvent") { renderDigestByEvent(items, body); return; }
   const d = computeDigest(items);
 
   // AI 重點（若 summary.json 有對應市場內容）
@@ -1289,6 +1333,185 @@ function setDigest(v) {
   state.digest = v;
   try { localStorage.setItem("dashDigest", v ? "1" : "0"); } catch (e) {}
   applyDigestChrome(); render();
+}
+function setDigestGroup(g) {
+  state.digestGroup = g;
+  try { localStorage.setItem("dashDigestGroup", g); } catch (e) {}
+  render();
+}
+
+// AI 每股重點:summary.json.stocks 陣列 → code→重點文字
+function aiStockPoints() {
+  const ai = AI_SUMMARY && AI_SUMMARY[state.market];
+  const map = {};
+  if (ai && Array.isArray(ai.stocks)) ai.stocks.forEach(s => { if (s && s.code) map[normCode(s.code)] = s.points || s.summary || ""; });
+  return map;
+}
+
+// ── 依個股:把一支股票的所有新聞彙整成重點 ──
+function renderDigestByStock(items, body) {
+  const groups = new Map();
+  items.forEach(n => (n.stocks || []).forEach(s => {
+    const c = stockCode(s);
+    let g = groups.get(c);
+    if (!g) { g = { code: c, items: [] }; groups.set(c, g); }
+    g.items.push(n);
+  }));
+  let arr = [...groups.values()];
+  if (state.watchOnly) arr = arr.filter(g => inWatch(g.code)); // 只看自選時聚焦自選股
+  arr.sort((a, b) => b.items.length - a.items.length || a.code.localeCompare(b.code));
+  if (!arr.length) { body.innerHTML = '<div class="dg-note">目前篩選結果裡沒有標註個股的新聞。</div>'; return; }
+
+  const aiMap = aiStockPoints();
+  const CAP = 30, HEAD = 8;
+  body.innerHTML = arr.slice(0, CAP).map(g => {
+    const nm = stockName(g.code);
+    const its = g.items.slice().sort((a, b) => (parseTime(b.published_at)?.getTime() || 0) - (parseTime(a.published_at)?.getTime() || 0));
+    const kw = new Set(); its.forEach(n => newsRisk(n).forEach(k => kw.add(k)));
+    const srcs = [...new Set(its.map(i => i.source).filter(Boolean))];
+    const ai = aiMap[normCode(g.code)];
+    const aiBlock = ai ? `<div class="dg-ai-points"><span class="tag-ai">✦ AI 重點</span>${esc(ai)}</div>` : "";
+    const dedup = dedupeNews(its); // 近似標題去重(同一件事多家報導折成一則)
+    const lis = dedup.slice(0, HEAD).map(r => {
+      const n = r.n;
+      const warn = newsRisk(n).length ? '<span class="h-warn" title="含風險字詞">⚠</span>' : "";
+      return `<li><span class="h-meta">${fmtTime(n.published_at)} · ${esc(n.source || "")}</span><a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(dispTitle(n))}</a>${dupBadge(r)}${warn}</li>`;
+    }).join("");
+    const more = dedup.length > HEAD ? `<li class="dg-note">…還有 ${dedup.length - HEAD} 則(點股號標籤可看完整列表)</li>` : "";
+    const warnHead = kw.size ? `<span class="g-warn" title="${esc([...kw].join("、"))}">⚠ ${[...kw].slice(0, 3).join("、")}</span>` : "";
+    const dupNote = dedup.length < g.items.length ? `(去重 ${dedup.length})` : "";
+    return `<div class="dg-group">
+      <div class="dg-group-head">
+        <span class="g-code evs" data-evstock="${esc(g.code)}">${esc(g.code)}</span>${nm ? `<span class="g-name">${esc(nm)}</span>` : ""}
+        ${warnHead}
+        <span class="g-meta">${g.items.length} 則${dupNote} · ${srcs.length} 來源</span>
+      </div>
+      ${aiBlock}
+      <ul class="dg-hlist">${lis}${more}</ul>
+    </div>`;
+  }).join("");
+  if (arr.length > CAP) body.innerHTML += `<div class="dg-note">僅顯示前 ${CAP} 檔(共 ${arr.length} 檔),用篩選縮小範圍看更多。</div>`;
+  wireEvStocks(body);
+}
+
+// ── 依事件:AI 聚類優先,否則規則式關鍵詞聚類 ──
+function renderDigestByEvent(items, body) {
+  const ai = AI_SUMMARY && AI_SUMMARY[state.market];
+  if (ai && Array.isArray(ai.events) && ai.events.length) {
+    body.innerHTML = '<div class="dg-note" style="color:#f6d365">✦ AI 事件聚類</div>' + ai.events.map(ev => {
+      const stocks = (ev.stocks || []).map(c => { const cc = normCode(c); const nm = stockName(cc); return `<span class="evs" data-evstock="${esc(cc)}">${esc(c)}${nm ? ` ${esc(nm)}` : ""}</span>`; }).join("");
+      return `<div class="dg-group">
+        <div class="dg-group-head"><span class="g-title">${esc(ev.title || "事件")}</span></div>
+        <div class="dg-ai-points">${esc(ev.summary || "")}</div>
+        ${stocks ? `<div class="dg-ev-stocks">${stocks}</div>` : ""}
+      </div>`;
+    }).join("");
+    wireEvStocks(body);
+    return;
+  }
+  const clusters = computeEventClustersRule(items);
+  if (!clusters.length) { body.innerHTML = '<div class="dg-note">目前資料不足以歸納事件主題。設定 ANTHROPIC_API_KEY 後可由 AI 產生更佳的事件聚類。</div>'; return; }
+  body.innerHTML = '<div class="dg-note">規則式主題聚類(依標題關鍵詞、已去重);設 ANTHROPIC_API_KEY 可換成 AI 事件聚類。</div>' + clusters.map(c => {
+    const dedup = dedupeNews(c.items); // 事件內近似去重
+    const its = dedup.slice(0, 6);
+    const lis = its.map(r => { const n = r.n; return `<li><span class="h-meta">${fmtTime(n.published_at)} · ${esc(n.source || "")}</span><a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(dispTitle(n))}</a>${dupBadge(r)}</li>`; }).join("");
+    const stocks = [...c.stocks].slice(0, 12).map(code => { const nm = stockName(code); return `<span class="evs" data-evstock="${esc(code)}">${esc(code)}${nm ? ` ${esc(nm)}` : ""}</span>`; }).join("");
+    const dupNote = dedup.length < c.items.length ? `(去重 ${dedup.length})` : "";
+    return `<div class="dg-group">
+      <div class="dg-group-head"><span class="g-title">${esc(c.term)}</span><span class="g-meta">${c.items.length} 則${dupNote}</span></div>
+      <ul class="dg-hlist">${lis}${dedup.length > 6 ? `<li class="dg-note">…還有 ${dedup.length - 6} 則</li>` : ""}</ul>
+      ${stocks ? `<div class="dg-ev-stocks">${stocks}</div>` : ""}
+    </div>`;
+  }).join("");
+  wireEvStocks(body);
+}
+function wireEvStocks(root) {
+  root.querySelectorAll(".evs[data-evstock]").forEach(el => el.addEventListener("click", () => {
+    state.stock = el.dataset.evstock; render();
+    document.getElementById("list").scrollIntoView({ behavior: "smooth", block: "start" });
+  }));
+}
+
+// ── 重點整理內的近似去重:同一件事被多家報導、標題幾乎相同 → 折成一則 ──
+function normTitle(t) {
+  return String(t || "").toLowerCase()
+    .replace(/^(快訊|獨家|盤中速報|盤後速報|即時|影音|直播|更新|nbsp|【[^】]*】)+/g, "")
+    .replace(/[\s　]+/g, "")
+    .replace(/[【】\[\]()（）〔〕「」『』:：,，。.、!！?？~～\-—–_｜|/／#*"'’“”]/g, "");
+}
+// 回傳去重後的代表新聞陣列:每筆 {n:代表新聞, srcs:來源集合, count:合併則數},依時間新到舊
+function dedupeNews(list) {
+  const reps = [];
+  const bySig = new Map();
+  const arr = list.slice().sort((a, b) => (parseTime(b.published_at)?.getTime() || 0) - (parseTime(a.published_at)?.getTime() || 0));
+  for (const n of arr) {
+    const sig = normTitle(dispTitle(n));
+    if (!sig) { reps.push({ n, srcs: new Set([n.source].filter(Boolean)), count: 1, sig: "" }); continue; }
+    let hit = bySig.get(sig);
+    if (!hit) hit = reps.find(r => r.sig && (r.sig.includes(sig) || sig.includes(r.sig)) && Math.min(r.sig.length, sig.length) >= 8);
+    if (hit) { hit.count++; if (n.source) hit.srcs.add(n.source); }
+    else { const r = { n, srcs: new Set([n.source].filter(Boolean)), count: 1, sig }; reps.push(r); bySig.set(sig, r); }
+  }
+  return reps;
+}
+function dupBadge(r) {
+  return r.count > 1 ? `<span class="h-dup" title="${esc([...r.srcs].join("、"))}">· ${r.srcs.size || r.count} 來源</span>` : "";
+}
+
+// 規則式事件聚類:從標題抽取關鍵詞(中文 2~4 字窗 + 英文詞),依共現聚成主題
+const EVENT_STOP = new Set([
+  "台股","美股","公司","今日","今天","昨天","盤中","早盤","午盤","尾盤","開盤","收盤","盤後","盤前",
+  "分析","報導","新聞","消息","快訊","速報","市場","法人","投資","股價","大盤","指數","表現","持續",
+  "可能","表示","指出","一度","上漲","下跌","走高","走低","成長","衰退","營收","月營收","財報","獲利","宣布",
+  "第一","第二","第三","第四","億元","萬元","衝擊","影響","相關","概念","族群","類股","漲停","跌停",
+  "年增","月增","年減","月減","季增","季減","新高","新低","歷史","創新","刷新","締新","焦點","焦點股",
+  "上半年","下半年","全年","單季","累計","亮燈","抱團","反彈","回檔","續漲","續跌","收漲","收跌","大漲","大跌",
+  "個股","買超","賣超","外資","投信","自營","三大","法說","除息","除權","填息","股利","配息",
+  "the","and","for","with","that","this","from","says","will","new","after","amid","stocks","market",
+  "report","update","today","week","year","amid","says","stock","shares","earnings","results"
+]);
+function eventTerms(title) {
+  const terms = new Set();
+  (title.match(/[一-龥]{2,}/g) || []).forEach(run => {
+    for (let len = 4; len >= 2; len--)
+      for (let i = 0; i + len <= run.length; i++) {
+        const t = run.slice(i, i + len);
+        if (!EVENT_STOP.has(t)) terms.add(t);
+      }
+  });
+  (title.match(/[A-Za-z][A-Za-z0-9]{2,}/g) || []).forEach(w => { const lw = w.toLowerCase(); if (!EVENT_STOP.has(lw)) terms.add(lw); });
+  return terms;
+}
+function computeEventClustersRule(items) {
+  const arr = items.slice(0, 1500); // 限制掃描量
+  const df = new Map(); // term -> Set(index)
+  arr.forEach((n, i) => eventTerms(dispTitle(n) || "").forEach(term => {
+    let s = df.get(term); if (!s) { s = new Set(); df.set(term, s); } s.add(i);
+  }));
+  const STOP_ARR = [...EVENT_STOP];
+  const common2 = Math.max(3, arr.length * 0.12); // 2 字詞若太常見多半是泛用詞,略過
+  const cands = [...df.entries()]
+    .filter(([term, s]) => s.size >= 2
+      && !(term.length === 2 && s.size > common2)               // 過於常見的 2 字詞
+      && !STOP_ARR.some(sw => term.includes(sw) || sw.includes(term))) // 含停用詞或為其片段 → 略過,偏向專有名詞
+    .map(([term, idx]) => ({ term, idx, score: idx.size * term.length }))
+    .sort((a, b) => b.score - a.score);
+  const chosen = [];
+  for (const c of cands) {
+    if (chosen.length >= 8) break;
+    let dup = false;
+    for (const ch of chosen) {
+      const inter = [...c.idx].filter(i => ch.idx.has(i)).length;
+      const uni = new Set([...c.idx, ...ch.idx]).size;
+      if ((uni && inter / uni > 0.6) || (inter >= c.idx.size * 0.9 && c.idx.size <= ch.idx.size)) { dup = true; break; }
+    }
+    if (!dup) chosen.push(c);
+  }
+  return chosen.map(c => {
+    const its = [...c.idx].map(i => arr[i]).sort((a, b) => (parseTime(b.published_at)?.getTime() || 0) - (parseTime(a.published_at)?.getTime() || 0));
+    const stocks = new Set(); its.forEach(n => (n.stocks || []).forEach(s => stocks.add(stockCode(s))));
+    return { term: c.term, items: its, stocks };
+  });
 }
 
 document.getElementById("q").addEventListener("input", e => { state.q = e.target.value; render(); });
@@ -1502,8 +1725,10 @@ try { state.watchOnly = localStorage.getItem("dashWatchOnly") === "1"; } catch (
 try { state.digest = localStorage.getItem("dashDigest") === "1"; } catch (e) {}
 applyWatchChrome();
 applyDigestChrome();
+try { const dg = localStorage.getItem("dashDigestGroup"); if (["overview", "byStock", "byEvent"].includes(dg)) state.digestGroup = dg; } catch (e) {}
 document.getElementById("watchToggle").addEventListener("click", () => setWatchOnly(!state.watchOnly));
 document.getElementById("digestToggle").addEventListener("click", () => setDigest(!state.digest));
+document.querySelectorAll("#dgSeg button").forEach(b => b.addEventListener("click", () => setDigestGroup(b.dataset.g)));
 document.getElementById("watchManage").addEventListener("click", () => {
   const p = document.getElementById("wlPanel"); p.hidden = !p.hidden;
   document.getElementById("watchManage").classList.toggle("on", !p.hidden);

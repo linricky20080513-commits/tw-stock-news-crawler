@@ -55,22 +55,65 @@ def _compact(items: list[dict]) -> str:
     return "\n".join(lines)
 
 
+# 結構化輸出 schema:整體重點 + 每股重點 + 事件聚類
+_SCHEMA = {
+    "type": "object",
+    "additionalProperties": False,
+    "properties": {
+        "overall": {"type": "string"},
+        "stocks": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "additionalProperties": False,
+                "properties": {
+                    "code": {"type": "string"},
+                    "points": {"type": "string"},
+                },
+                "required": ["code", "points"],
+            },
+        },
+        "events": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "additionalProperties": False,
+                "properties": {
+                    "title": {"type": "string"},
+                    "summary": {"type": "string"},
+                    "stocks": {"type": "array", "items": {"type": "string"}},
+                },
+                "required": ["title", "summary", "stocks"],
+            },
+        },
+    },
+    "required": ["overall", "stocks", "events"],
+}
+
+
 def _prompt(market: str, compact: str) -> str:
     if market == "tw":
         return (
-            "你是台股新聞分析助理。以下是近期台股新聞清單(時間、來源、相關個股、標題):\n\n"
+            "你是台股新聞分析助理。以下是近期台股新聞清單(時間、來源、相關個股股號、標題):\n\n"
             f"{compact}\n\n"
-            "請用繁體中文寫一段 120~200 字的『今日重點整理』,涵蓋:市場焦點與主軸、"
-            "被最多提及或最受關注的個股、以及需留意的風險提示。"
-            "用通順的段落敘述,不要條列、不要開場白、不要免責聲明,直接給重點。"
+            "請用繁體中文,依 JSON schema 輸出三部分:\n"
+            "1. overall:一段 120~200 字的今日市場重點(焦點主軸、最受關注個股、風險提示;通順段落,不條列、不開場白、不免責聲明)。\n"
+            "2. stocks:最多 10 檔被最多提及或最重要的個股,每檔 code 用清單中出現的『股號』(如 2330),"
+            "points 用 1~2 句話彙整該股所有相關新聞的重點。\n"
+            "3. events:把講同一件事的新聞聚成最多 6 個事件/主題,每個 title 簡短、summary 用 1~2 句話說明,"
+            "stocks 列出相關股號。"
         )
     return (
         "You are a US-equities news analyst. Below is a list of recent US market news "
         "(time, source, related tickers, headline):\n\n"
         f"{compact}\n\n"
-        "Write a 120-200 word 'key takeaways' summary in English covering: the main market "
-        "themes, the most-mentioned or most notable tickers, and any risks to watch. "
-        "Write flowing prose, no bullet points, no preamble, no disclaimer — just the takeaways."
+        "Output three parts per the JSON schema, in English:\n"
+        "1. overall: a 120-200 word market summary (main themes, most notable tickers, risks; "
+        "flowing prose, no bullets, no preamble, no disclaimer).\n"
+        "2. stocks: up to 10 most-mentioned or most important tickers; code is the ticker as it "
+        "appears in the list, points is a 1-2 sentence synthesis of that ticker's news.\n"
+        "3. events: cluster the news into up to 6 distinct events/themes; each with a short title, "
+        "a 1-2 sentence summary, and the related tickers in stocks."
     )
 
 
@@ -80,17 +123,25 @@ def summarize_market(client, model: str, market: str, items: list[dict]) -> dict
     compact = _compact(items)
     resp = client.messages.create(
         model=model,
-        max_tokens=1024,
-        output_config={"effort": "low"},
+        max_tokens=4096,
+        output_config={"effort": "low", "format": {"type": "json_schema", "schema": _SCHEMA}},
         messages=[{"role": "user", "content": _prompt(market, compact)}],
     )
     text = "".join(b.text for b in resp.content if b.type == "text").strip()
     if not text:
         return None
+    try:
+        data = json.loads(text)  # output_config.format 保證是合法 JSON
+    except json.JSONDecodeError:
+        return None
+    if not data.get("overall"):
+        return None
     return {
         "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%MZ"),
         "model": model,
-        "overall": text,
+        "overall": data.get("overall", ""),
+        "stocks": data.get("stocks", []),
+        "events": data.get("events", []),
     }
 
 
