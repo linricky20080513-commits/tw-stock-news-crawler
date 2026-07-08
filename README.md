@@ -106,7 +106,8 @@ python -m http.server 8000
 規則式重點是純前端、零依賴、免費即時。若要**AI 生成式**的自然語句重點(選用):
 
 1. 在 GitHub repo 設 secret `ANTHROPIC_API_KEY`(Settings → Secrets and variables → Actions)。
-2. 每日 Action 會跑 `crawler/summarize.py`,用 Claude 產生 `data/summary.json`——含整體重點 `overall`、**每股重點 `stocks[]`**、**事件聚類 `events[]`**,看板自動顯示(依個股卡片頂端顯示 AI 每股重點;依事件顯示 AI 事件聚類)。
+2. 每日 Action 會跑 `crawler/summarize.py`,把新聞**內容**(不只標題)餵給 Claude,**融合同一股號/同一事件的跨來源新聞、去除重複資訊、濾掉套語與贅詞(記者署名、外電來源、免責聲明、「據悉/值得注意的是」等),只保留具體事實與數字**,產生 `data/summary.json`——含整體重點 `overall`、**每股精華重點 `stocks[]`**、**事件精華重點 `events[]`**。看板自動顯示(依個股卡片頂端「✦ AI 精華重點」;依事件「✦ AI 事件精華重點」)。
+   > `summarize.py` 也會在送出前先輕量去除記者署名等套語以節省 token;每個市場預設取最新 40 則(`SUMMARY_MAX_ITEMS` 可調)。
 3. 想省錢可在 repo variables 設 `SUMMARY_MODEL=claude-haiku-4-5`(預設 `claude-opus-4-8`)。
 4. **未設金鑰時一切照常**——AI 區塊不出現,看板只顯示規則式重點,不會壞。會產生 API 費用。
 

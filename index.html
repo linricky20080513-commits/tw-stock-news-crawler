@@ -1370,7 +1370,7 @@ function renderDigestByStock(items, body) {
     const kw = new Set(); its.forEach(n => newsRisk(n).forEach(k => kw.add(k)));
     const srcs = [...new Set(its.map(i => i.source).filter(Boolean))];
     const ai = aiMap[normCode(g.code)];
-    const aiBlock = ai ? `<div class="dg-ai-points"><span class="tag-ai">✦ AI 重點</span>${esc(ai)}</div>` : "";
+    const aiBlock = ai ? `<div class="dg-ai-points"><span class="tag-ai">✦ AI 精華重點</span>${esc(ai)}</div>` : "";
     const dedup = dedupeNews(its); // 近似標題去重(同一件事多家報導折成一則)
     const lis = dedup.slice(0, HEAD).map(r => {
       const n = r.n;
@@ -1398,7 +1398,7 @@ function renderDigestByStock(items, body) {
 function renderDigestByEvent(items, body) {
   const ai = AI_SUMMARY && AI_SUMMARY[state.market];
   if (ai && Array.isArray(ai.events) && ai.events.length) {
-    body.innerHTML = '<div class="dg-note" style="color:#f6d365">✦ AI 事件聚類</div>' + ai.events.map(ev => {
+    body.innerHTML = '<div class="dg-note" style="color:#f6d365">✦ AI 事件精華重點(跨來源融合·去重·去廢話)</div>' + ai.events.map(ev => {
       const stocks = (ev.stocks || []).map(c => { const cc = normCode(c); const nm = stockName(cc); return `<span class="evs" data-evstock="${esc(cc)}">${esc(c)}${nm ? ` ${esc(nm)}` : ""}</span>`; }).join("");
       return `<div class="dg-group">
         <div class="dg-group-head"><span class="g-title">${esc(ev.title || "事件")}</span></div>
