@@ -80,6 +80,9 @@ python -m http.server 8000
 # 開啟 http://localhost:8000
 ```
 
+> 想在看板上用**網路搜尋 (HSG)** 功能,請改用 `python serve.py`(見下方「網路搜尋」),
+> 它同時提供看板與 HSG 搜尋 API;純看看板則 `http.server` 即可。
+
 功能:統計卡片、**來源分布甜甜圈圖 (含則數與百分比)**、熱門個股前 10、
 **來源 × 時間趨勢堆疊柱狀圖**、關鍵字搜尋、來源/個股/時間範圍篩選與排序。
 爬蟲跑完後按看板上的「↻ 重新整理」即可載入最新資料。
@@ -111,6 +114,25 @@ python -m http.server 8000
 3. 想省錢可在 repo variables 設 `SUMMARY_MODEL=claude-haiku-4-5`(預設 `claude-opus-4-8`)。
 4. **未設金鑰時一切照常**——AI 區塊不出現,看板只顯示規則式重點,不會壞。會產生 API 費用。
 
+### 網路搜尋 (HSG)
+
+看板上的 **`🔎 網路搜尋`** 面板可即時搜網路(HSG / DuckDuckGo,免金鑰),每筆結果可按「📄 爬正文」把該頁內容抽出來看。
+
+因為看板是靜態頁、瀏覽器不能直接呼叫 Python,這個功能需要一個本機小後端:
+
+```powershell
+# 用 serve.py 取代 http.server(同時提供看板 + HSG API)
+python serve.py
+# 開啟 http://localhost:8000,點「🔎 網路搜尋」
+
+# HSG 不在預設路徑時,用環境變數指定:
+set HSG_PATH=D:/path/to/HSG && python serve.py
+```
+
+- 需先安裝 HSG 依賴:`python -m pip install ddgs httpx beautifulsoup4 lxml`。
+- API:`GET /api/hsg/search?q=關鍵字&n=10`、`GET /api/hsg/fetch?url=...`。
+- **僅本機可用**:公開的 GitHub Pages 沒有後端,面板會顯示提示、不影響其他功能。
+
 ## 每日自動更新 (GitHub Actions)
 
 `.github/workflows/crawl.yml` 每天 **09:00 UTC(台北 17:00)** 自動抓台股+美股、更新 `data/*.json` 並 push,觸發 GitHub Pages 重建。也可到 Actions 頁面「Run workflow」手動觸發。改時間就編輯 `cron` 那行(UTC)。
@@ -120,6 +142,7 @@ python -m http.server 8000
 ```
 tw-stock-news-crawler/
 ├─ index.html              # 前端看板 (零依賴,讀 data/news.json)
+├─ serve.py                # 本機看板伺服器 + HSG 網路搜尋 API (網路搜尋功能用)
 ├─ run.py                  # 啟動器 (處理 sys.path / 編碼)
 ├─ requirements.txt
 ├─ crawler/

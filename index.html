@@ -330,6 +330,30 @@
   .dg-ev-stocks .evs { font-family: var(--font-mono); font-size: 11.5px; border: 1px solid hsl(var(--hue) 100% 72% / .3); border-radius: 3px; padding: 2px 8px; cursor: pointer; transition: .15s; }
   .dg-ev-stocks .evs:hover { border-color: var(--n1); color: var(--n1); }
 
+  /* 網路搜尋 (HSG) 面板 */
+  .net-panel { border: 1px solid hsl(var(--hue) 100% 72% / .28); border-radius: 10px; padding: 16px 18px; margin-bottom: 18px; background: hsl(var(--hue) 60% 10% / .3); animation: rise .4s both; }
+  .net-panel[hidden] { display: none; }
+  .net-row { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+  .net-row input {
+    flex: 1 1 260px; min-width: 200px; font-family: var(--font-mono); font-size: 13px;
+    background: rgba(0,0,0,.35); border: 1px solid hsl(var(--hue) 100% 72% / .35); color: var(--text);
+    padding: 9px 12px; border-radius: 5px;
+  }
+  .net-note { font-size: 11.5px; color: var(--muted); margin-top: 10px; line-height: 1.6; }
+  .net-note code { font-family: var(--font-mono); color: var(--n1); background: rgba(0,0,0,.35); padding: 1px 6px; border-radius: 3px; }
+  .net-results { margin-top: 14px; display: flex; flex-direction: column; gap: 12px; }
+  .net-item { border: 1px solid hsl(var(--hue) 100% 72% / .18); border-radius: 8px; padding: 11px 14px; animation: rise .35s both; }
+  .net-item .n-title { font-size: 14px; }
+  .net-item .n-title a { color: var(--text); text-decoration: none; }
+  .net-item .n-title a:hover { color: var(--n1); text-decoration: underline; }
+  .net-item .n-url { font-family: var(--font-mono); font-size: 10.5px; color: var(--muted); word-break: break-all; margin: 3px 0 6px; }
+  .net-item .n-snip { font-size: 12.5px; line-height: 1.6; color: var(--text); }
+  .net-item .n-crawl { margin-top: 9px; }
+  .net-item .n-crawl button { font-family: var(--font-mono); font-size: 11px; background: transparent; border: 1px solid hsl(var(--hue) 100% 72% / .35); color: var(--muted); padding: 5px 12px; border-radius: 4px; cursor: pointer; transition: .15s; }
+  .net-item .n-crawl button:hover { color: var(--n1); border-color: var(--n1); }
+  .net-item .n-body { margin-top: 10px; padding: 10px 12px; border-top: 1px dashed hsl(var(--hue) 100% 72% / .2); font-size: 12.5px; line-height: 1.75; white-space: pre-wrap; max-height: 340px; overflow-y: auto; color: var(--text); }
+  .net-item .n-body.err { color: #ff7a92; }
+
   .active-filters { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 18px; }
   .active-filters:empty { display: none; }
   .chip {
@@ -628,6 +652,7 @@
       <button class="tbtn" id="watchToggle" title="只顯示自選股相關新聞">★ 只看自選</button>
       <button class="tbtn" id="watchManage" title="管理自選股清單">⚙ 自選股</button>
       <button class="tbtn" id="digestToggle" title="顯示 / 隱藏新聞重點整理">🧾 重點整理</button>
+      <button class="tbtn" id="netToggle" title="用 HSG 搜尋引擎搜網路 / 爬正文(需本機 serve.py)">🔎 網路搜尋</button>
       <button class="refresh" id="viewToggle" title="切換為個股彙整">📊 個股彙整</button>
       <button class="refresh" id="refresh">↺ 重新整理</button>
     </section>
@@ -654,6 +679,15 @@
       <div id="dgBody"></div>
     </section>
 
+    <section class="net-panel" id="netPanel" hidden>
+      <div class="net-row">
+        <input type="search" id="netInput" placeholder="搜尋網路(HSG / DuckDuckGo)…例如 台積電 法說會、輝達 供應鏈">
+        <button class="wl-mini" id="netSearch">🔎 搜尋</button>
+      </div>
+      <div class="net-note" id="netNote">用 HSG 搜尋引擎即時搜網路,每筆可「爬正文」把該頁內容抽出來看。此功能需在本機以 <code>python serve.py</code> 啟動(公開的 GitHub Pages 無後端,不會有此功能)。</div>
+      <div class="net-results" id="netResults"></div>
+    </section>
+
     <section class="section">
       <div class="active-filters" id="activeFilters"></div>
       <div id="list"></div>
@@ -665,7 +699,7 @@
 <script>
 const TZ = "Asia/Taipei";
 let ALL = [];
-const state = { q: "", source: "", stock: "", range: 0, sort: "new", riskOnly: false, watchOnly: false, digest: false, digestGroup: "overview", page: 1, market: "tw", lang: "zh", view: "list" };
+const state = { q: "", source: "", stock: "", range: 0, sort: "new", riskOnly: false, watchOnly: false, digest: false, digestGroup: "overview", net: false, page: 1, market: "tw", lang: "zh", view: "list" };
 const PAGE_SIZE = 20; // 每頁新聞數
 let lastFilterKey = "";
 
@@ -1514,6 +1548,58 @@ function computeEventClustersRule(items) {
   });
 }
 
+// ── 網路搜尋 (HSG):需本機 serve.py 提供 /api/hsg/* ──
+let _netBusy = false;
+function applyNetChrome() { const b = document.getElementById("netToggle"); if (b) b.classList.toggle("on", state.net); }
+function setNet(v) {
+  state.net = v;
+  try { localStorage.setItem("dashNet", v ? "1" : "0"); } catch (e) {}
+  const p = document.getElementById("netPanel"); if (p) p.hidden = !v;
+  applyNetChrome();
+  if (v) { const i = document.getElementById("netInput"); if (i) i.focus(); }
+}
+async function hsgSearch() {
+  if (_netBusy) return;
+  const inp = document.getElementById("netInput");
+  const box = document.getElementById("netResults");
+  const q = (inp.value || "").trim();
+  if (!q) { box.innerHTML = ""; return; }
+  _netBusy = true; box.innerHTML = '<div class="net-note">搜尋中…</div>';
+  try {
+    const r = await fetch("api/hsg/search?q=" + encodeURIComponent(q) + "&n=10");
+    const d = await r.json();
+    if (d.error) { box.innerHTML = `<div class="net-note" style="color:#ff7a92">${esc(d.error)}</div>`; return; }
+    const items = d.results || [];
+    if (!items.length) { box.innerHTML = '<div class="net-note">沒有結果。</div>'; return; }
+    box.innerHTML = items.map(it => `<div class="net-item">
+      <div class="n-title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title || it.url)}</a></div>
+      <div class="n-url">${esc(it.url)}</div>
+      ${it.snippet ? `<div class="n-snip">${esc(it.snippet)}</div>` : ""}
+      <div class="n-crawl"><button data-url="${esc(it.url)}">📄 爬正文</button></div>
+    </div>`).join("");
+    box.querySelectorAll(".n-crawl button").forEach(btn => btn.addEventListener("click", () => hsgFetch(btn)));
+  } catch (e) {
+    box.innerHTML = '<div class="net-note" style="color:#ff7a92">無法連到本機 HSG 後端。請在專案根目錄執行 <code>python serve.py</code>,再從 http://localhost:8000 開啟看板(GitHub Pages 無此功能)。</div>';
+  } finally { _netBusy = false; }
+}
+async function hsgFetch(btn) {
+  const url = btn.dataset.url;
+  const item = btn.closest(".net-item");
+  const existing = item.querySelector(".n-body");
+  if (existing) { existing.remove(); return; } // 再按一次收合
+  const body = document.createElement("div");
+  body.className = "n-body"; body.textContent = "爬取中…"; item.appendChild(body);
+  btn.disabled = true;
+  try {
+    const r = await fetch("api/hsg/fetch?url=" + encodeURIComponent(url) + "&max_chars=6000");
+    const d = await r.json();
+    if (d.error) { body.className = "n-body err"; body.textContent = d.error; }
+    else { body.className = "n-body"; body.textContent = d.text || "(無正文)"; }
+  } catch (e) {
+    body.className = "n-body err"; body.textContent = "爬取失敗:無法連到本機 HSG 後端(需 python serve.py)。";
+  } finally { btn.disabled = false; }
+}
+
 document.getElementById("q").addEventListener("input", e => { state.q = e.target.value; render(); });
 document.getElementById("sourceSel").addEventListener("change", e => { state.source = e.target.value; render(); });
 document.getElementById("rangeSel").addEventListener("change", e => { state.range = +e.target.value; render(); });
@@ -1729,6 +1815,13 @@ try { const dg = localStorage.getItem("dashDigestGroup"); if (["overview", "bySt
 document.getElementById("watchToggle").addEventListener("click", () => setWatchOnly(!state.watchOnly));
 document.getElementById("digestToggle").addEventListener("click", () => setDigest(!state.digest));
 document.querySelectorAll("#dgSeg button").forEach(b => b.addEventListener("click", () => setDigestGroup(b.dataset.g)));
+
+try { state.net = localStorage.getItem("dashNet") === "1"; } catch (e) {}
+document.getElementById("netPanel").hidden = !state.net;
+applyNetChrome();
+document.getElementById("netToggle").addEventListener("click", () => setNet(!state.net));
+document.getElementById("netSearch").addEventListener("click", hsgSearch);
+document.getElementById("netInput").addEventListener("keydown", e => { if (e.key === "Enter") { e.preventDefault(); hsgSearch(); } });
 document.getElementById("watchManage").addEventListener("click", () => {
   const p = document.getElementById("wlPanel"); p.hidden = !p.hidden;
   document.getElementById("watchManage").classList.toggle("on", !p.hidden);
