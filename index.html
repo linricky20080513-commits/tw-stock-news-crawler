@@ -318,6 +318,7 @@
   .dg-group-head .g-warn { color: #ff7a92; font-size: 11px; }
   .dg-ai-points { padding: 12px 15px; font-size: 13px; line-height: 1.7; border-bottom: 1px dashed hsl(var(--hue) 100% 72% / .18); background: rgba(246,211,101,.06); }
   .dg-ai-points .tag-ai { font-family: var(--font-mono); font-size: 9.5px; letter-spacing: .12em; color: #f6d365; margin-right: 8px; text-transform: uppercase; }
+  .dg-ai-points .tag-kp { font-family: var(--font-mono); font-size: 9.5px; letter-spacing: .12em; color: var(--n2); margin-right: 8px; text-transform: uppercase; }
   .dg-hlist { list-style: none; margin: 0; padding: 8px 15px 12px; }
   .dg-hlist li { padding: 5px 0; border-bottom: 1px solid hsl(var(--hue) 100% 72% / .1); font-size: 12.5px; line-height: 1.5; }
   .dg-hlist li:last-child { border-bottom: none; }
@@ -1452,9 +1453,15 @@ function renderDigestByStock(items, body) {
     const daysHTML = dayKeys.map(k => {
       const dayItems = byDay.get(k);
       const label = k === todayKey ? "今天" : k === yesterdayKey ? "昨天" : k;
-      // 該日的 AI 一段重點(簡短但詳細);只有一天時相容舊的整體 points
+      // 該日重點:有 AI(手寫或金鑰產生)優先;否則用規則式抽取,確保每支股票都有重點
       const aiText = aiDays[k] || (dayKeys.length === 1 ? aiDays._overall : "");
-      const aiBlock = aiText ? `<div class="dg-ai-points"><span class="tag-ai">✦ AI 重點</span>${esc(aiText)}</div>` : "";
+      let aiBlock = "";
+      if (aiText) {
+        aiBlock = `<div class="dg-ai-points"><span class="tag-ai">✦ AI 重點</span>${esc(aiText)}</div>`;
+      } else {
+        const kp = extractKeyPoints(dayItems, g.code, nm);
+        if (kp) aiBlock = `<div class="dg-ai-points"><span class="tag-kp">📝 重點</span>${esc(kp)}</div>`;
+      }
       const dd = dedupeNews(dayItems); // 當日近似去重
       const lis = dd.slice(0, PER_DAY).map(r => {
         const n = r.n;
@@ -1544,6 +1551,51 @@ function dedupeNews(list) {
 }
 function dupBadge(r) {
   return r.count > 1 ? `<span class="h-dup" title="${esc([...r.srcs].join("、"))}">· ${r.srcs.size || r.count} 來源</span>` : "";
+}
+
+// ── 規則式每股重點:把一支股票的新聞內容去套語、抽關鍵句、去重,濃縮成一小段 ──
+function stripBoiler(t) {
+  return String(t || "")
+    .replace(/[（(]\s*中央社[^）)]*[）)]/g, "")
+    .replace(/[（(]\s*[^）)]{0,14}[／/][^）)]{0,10}報導\s*[）)]/g, "")
+    .replace(/(綜合外電報導|綜合報導|編譯[^，。]{0,6}報導|路透社?|彭博資訊?|法新社|美聯社|中央社)/g, "")
+    .replace(/(本文|以上)?(內容|資訊)?不構成(任何)?投資(建議|參考)[^。]*。?/g, "")
+    .replace(/更多[^。]{0,20}(請見|詳見|內容)[^。]*。?/g, "")
+    .replace(/\|\s*Anue[^。]*$/g, "")
+    .trim();
+}
+function splitSentences(t) {
+  return String(t || "").split(/[。！？\n;；]+/).map(s => s.trim()).filter(s => s.length >= 8);
+}
+const _KP_NUM = /[0-9０-９]|％|%|元|億|萬|張|點|漲停|跌停|漲|跌|填息|除息|除權|營收|年增|季增|月增|獲利|虧損|EPS|目標價|評等|法說|配息|股利|創新高|新高|新低/i;
+// dayItems: 該股某日新聞;回傳一小段濃縮重點(最多 3 句)。
+// 只抽「有提到該股名稱或代號」的句子 → 真的有個股專屬內容才給重點,否則回傳空(改顯示標題)。
+function extractKeyPoints(dayItems, code, name) {
+  const dd = dedupeNews(dayItems);
+  const cand = [], seen = new Set();
+  dd.forEach(r => {
+    const n = r.n;
+    // 標題與摘要都納入來源(標題常是最精華的一句)
+    const text = stripBoiler(dispTitle(n)) + "。" + stripBoiler(dispSummary(n));
+    splitSentences(text).forEach(s => {
+      const mentions = (name && name.length >= 2 && s.includes(name)) || (code && s.includes(code));
+      if (!mentions) return; // 沒點到本股 → 不是個股專屬重點,略過
+      const key = s.replace(/\s+/g, "").slice(0, 30);
+      if (seen.has(key)) return; seen.add(key);
+      let score = 1;
+      if (_KP_NUM.test(s)) score += 2;
+      if (s.length >= 14 && s.length <= 90) score += 1;
+      cand.push({ s, score });
+    });
+  });
+  cand.sort((a, b) => b.score - a.score);
+  const picked = [];
+  for (const c of cand) {
+    if (picked.length >= 3) break;
+    if (picked.some(p => p.slice(0, 12) === c.s.slice(0, 12))) continue; // 去掉開頭雷同的重複句
+    picked.push(c.s);
+  }
+  return picked.length ? picked.join("。") + "。" : "";
 }
 
 // 規則式事件聚類:從標題抽取關鍵詞(中文 2~4 字窗 + 英文詞),依共現聚成主題
