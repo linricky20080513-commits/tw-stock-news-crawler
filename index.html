@@ -1822,14 +1822,68 @@ function startScreaming() {
 function stopScreaming() {
   if (_screamTimer) { clearTimeout(_screamTimer); _screamTimer = null; }
 }
+
+// ── 鎏金奢華：合成「很吵又熱鬧」的電音循環（Web Audio,零依賴,無外部音檔）──
+let _musicTimer = null, _musicStep = 0, _musicNext = 0;
+let _mGain = null, _mComp = null, _noiseBuf = null;
+const _BPM = 124, _STEP = 60 / 124 / 4; // 16 分音符秒數
+function _mf(m) { return 440 * Math.pow(2, (m - 69) / 12); } // MIDI→Hz
+// 4 小節和弦進行（Am–F–C–G):root 低音 + 高音琶音三音
+const _CHORDS = [
+  { root: 45, arp: [69, 72, 76] }, // Am
+  { root: 41, arp: [65, 69, 72] }, // F
+  { root: 48, arp: [72, 76, 79] }, // C
+  { root: 43, arp: [67, 71, 74] }, // G
+];
+function _musicGraph(ctx) {
+  if (_mComp) return;
+  _mComp = ctx.createDynamicsCompressor();
+  _mComp.threshold.value = -16; _mComp.ratio.value = 8; _mComp.attack.value = 0.003; _mComp.release.value = 0.15;
+  _mGain = ctx.createGain(); _mGain.gain.value = 0.9; // 大聲
+  _mGain.connect(_mComp); _mComp.connect(ctx.destination);
+  const n = Math.floor(ctx.sampleRate * 0.5); _noiseBuf = ctx.createBuffer(1, n, ctx.sampleRate);
+  const d = _noiseBuf.getChannelData(0); for (let i = 0; i < n; i++) d[i] = Math.random() * 2 - 1;
+}
+function _kick(ctx, t) { const o = ctx.createOscillator(), g = ctx.createGain(); o.type = "sine"; o.frequency.setValueAtTime(135, t); o.frequency.exponentialRampToValueAtTime(45, t + 0.12); g.gain.setValueAtTime(1.1, t); g.gain.exponentialRampToValueAtTime(0.001, t + 0.24); o.connect(g); g.connect(_mGain); o.start(t); o.stop(t + 0.26); }
+function _hat(ctx, t) { const s = ctx.createBufferSource(); s.buffer = _noiseBuf; const hp = ctx.createBiquadFilter(); hp.type = "highpass"; hp.frequency.value = 7500; const g = ctx.createGain(); g.gain.setValueAtTime(0.32, t); g.gain.exponentialRampToValueAtTime(0.001, t + 0.045); s.connect(hp); hp.connect(g); g.connect(_mGain); s.start(t); s.stop(t + 0.06); }
+function _clap(ctx, t) { const s = ctx.createBufferSource(); s.buffer = _noiseBuf; const bp = ctx.createBiquadFilter(); bp.type = "bandpass"; bp.frequency.value = 1700; bp.Q.value = 0.7; const g = ctx.createGain(); g.gain.setValueAtTime(0.7, t); g.gain.exponentialRampToValueAtTime(0.001, t + 0.18); s.connect(bp); bp.connect(g); g.connect(_mGain); s.start(t); s.stop(t + 0.2); }
+function _bass(ctx, t, freq, dur) { const o = ctx.createOscillator(), g = ctx.createGain(), f = ctx.createBiquadFilter(); o.type = "sawtooth"; o.frequency.value = freq; f.type = "lowpass"; f.frequency.value = 700; g.gain.setValueAtTime(0.0001, t); g.gain.linearRampToValueAtTime(0.55, t + 0.008); g.gain.exponentialRampToValueAtTime(0.001, t + dur); o.connect(f); f.connect(g); g.connect(_mGain); o.start(t); o.stop(t + dur + 0.02); }
+function _lead(ctx, t, freq) { const o = ctx.createOscillator(), o2 = ctx.createOscillator(), g = ctx.createGain(), f = ctx.createBiquadFilter(); o.type = "square"; o2.type = "sawtooth"; o.frequency.value = freq; o2.frequency.value = freq; o2.detune.value = 9; f.type = "lowpass"; f.frequency.value = 3800; g.gain.setValueAtTime(0.0001, t); g.gain.linearRampToValueAtTime(0.26, t + 0.005); g.gain.exponentialRampToValueAtTime(0.001, t + 0.15); o.connect(f); o2.connect(f); f.connect(g); g.connect(_mGain); o.start(t); o2.start(t); o.stop(t + 0.17); o2.stop(t + 0.17); }
+function _scheduleStep(ctx, step, t) {
+  const bar = Math.floor(step / 16) % 4, s = step % 16, ch = _CHORDS[bar];
+  if (s % 4 === 0) _kick(ctx, t);              // 四拍到底大鼓
+  if (s === 4 || s === 12) _clap(ctx, t);       // 第 2、4 拍拍手
+  if (s % 2 === 0) _hat(ctx, t);                // 密集 hi-hat
+  if (s === 0 || s === 3 || s === 6 || s === 8 || s === 11 || s === 14) _bass(ctx, t, _mf(ch.root), _STEP * 1.6);
+  const note = ch.arp[s % 3] + (s >= 8 ? 12 : 0); // 後半小節升八度更亮
+  _lead(ctx, t, _mf(note));                      // 每 16 分音符快速琶音
+}
+function _musicLoop() {
+  const ctx = _audioCtx; if (!ctx) return;
+  while (_musicNext < ctx.currentTime + 0.12) { _scheduleStep(ctx, _musicStep, _musicNext); _musicStep++; _musicNext += _STEP; }
+  _musicTimer = setTimeout(_musicLoop, 30);
+}
+function startGoldMusic() {
+  if (_muted || _musicTimer) return;
+  try {
+    _audioCtx = _audioCtx || new (window.AudioContext || window.webkitAudioContext)();
+    const ctx = _audioCtx; if (ctx.state === "suspended") ctx.resume();
+    _musicGraph(ctx);
+    _musicStep = 0; _musicNext = ctx.currentTime + 0.06;
+    _musicLoop();
+  } catch (e) { /* 不支援就算了 */ }
+}
+function stopGoldMusic() { if (_musicTimer) { clearTimeout(_musicTimer); _musicTimer = null; } }
+
 function setMuted(m) {
   _muted = m;
   try { localStorage.setItem("dashMuted", m ? "1" : "0"); } catch (e) {}
   const b = document.getElementById("muteToggle");
   b.textContent = m ? "🔇" : "🔊";
   b.title = m ? "已靜音（點擊開啟聲音）" : "靜音";
-  if (m) { stopScreaming(); try { window.speechSynthesis && speechSynthesis.cancel(); } catch (e) {} }
+  if (m) { stopScreaming(); stopGoldMusic(); try { window.speechSynthesis && speechSynthesis.cancel(); } catch (e) {} }
   else if (document.body.classList.contains("fx-neon")) startScreaming();
+  else if (document.body.classList.contains("fx-gold")) startGoldMusic();
 }
 
 // ── 市場切換（台股 ⇄ 美股）──
@@ -1910,9 +1964,17 @@ document.getElementById("themeToggle").addEventListener("click", () => {
   const cur = THEMES.find(t => document.body.classList.contains(t)) || "fx-neon";
   const next = cur === "fx-neon" ? "fx-gold" : "fx-neon";
   applyTheme(next);
-  if (next === "fx-neon") startScreaming(); // 切到霓虹 → 持續尖叫
-  else stopScreaming();                     // 切走 → 停止
+  if (next === "fx-neon") { stopGoldMusic(); startScreaming(); }   // 霓虹 → 尖叫
+  else { stopScreaming(); startGoldMusic(); }                       // 鎏金 → 熱鬧電音
 });
+// 首次互動時,若目前是鎏金且未靜音 → 啟動電音(繞過瀏覽器自動播放限制)
+function _goldMusicOnGesture() {
+  if (!_muted && document.body.classList.contains("fx-gold")) startGoldMusic();
+  window.removeEventListener("pointerdown", _goldMusicOnGesture);
+  window.removeEventListener("keydown", _goldMusicOnGesture);
+}
+window.addEventListener("pointerdown", _goldMusicOnGesture);
+window.addEventListener("keydown", _goldMusicOnGesture);
 
 // 市場初始化（讀取上次選擇）
 try { state.market = localStorage.getItem("dashMarket") === "us" ? "us" : "tw"; } catch (e) {}
