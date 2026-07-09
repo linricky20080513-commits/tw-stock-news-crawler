@@ -354,6 +354,21 @@
   .net-item .n-body { margin-top: 10px; padding: 10px 12px; border-top: 1px dashed hsl(var(--hue) 100% 72% / .2); font-size: 12.5px; line-height: 1.75; white-space: pre-wrap; max-height: 340px; overflow-y: auto; color: var(--text); }
   .net-item .n-body.err { color: #ff7a92; }
 
+  /* 圖表分析摺疊區(預設關閉,移到最下面,減少一開場的資訊量) */
+  .analytics { margin-top: 6px; }
+  .analytics-toggle {
+    width: 100%; text-align: left; display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap;
+    font-family: var(--font-mono); font-size: 12px; letter-spacing: .1em;
+    background: hsl(var(--hue) 60% 10% / .3); border: 1px solid hsl(var(--hue) 100% 72% / .22);
+    color: var(--text); padding: 13px 16px; border-radius: 8px; cursor: pointer; transition: .15s;
+  }
+  .analytics-toggle:hover { border-color: var(--n1); color: var(--n1); }
+  .analytics-toggle .caret { display: inline-block; transition: transform .2s; color: var(--n1); }
+  .analytics-toggle.open .caret { transform: rotate(90deg); }
+  .analytics-toggle .at-sub { color: var(--muted); font-size: 11px; letter-spacing: .04em; }
+  .analytics-body { margin-top: 4px; }
+  .analytics-body[hidden] { display: none; }
+
   .active-filters { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 18px; }
   .active-filters:empty { display: none; }
   .chip {
@@ -594,28 +609,6 @@
 
     <section class="figures" id="cards"></section>
 
-    <section class="section split">
-      <div>
-        <div class="section-label">來源占比</div>
-        <div id="sourceChart"></div>
-      </div>
-      <div class="vrule"></div>
-      <div>
-        <div class="section-label">熱門個股 · 前十</div>
-        <div id="stockChart"></div>
-      </div>
-    </section>
-
-    <section class="section">
-      <div class="section-label">來源 × 時間趨勢 <span class="unit" id="trendUnit"></span></div>
-      <div id="trendChart"></div>
-    </section>
-
-    <section class="section">
-      <div class="section-label">風險警示個股 <span class="unit" id="riskUnit"></span></div>
-      <div id="riskChart"></div>
-    </section>
-
     <section class="controls">
       <div class="field search">
         <label for="q">搜尋</label>
@@ -693,13 +686,43 @@
       <div id="list"></div>
       <div class="pager" id="pager"></div>
     </section>
+
+    <section class="analytics" id="analyticsWrap">
+      <button class="analytics-toggle" id="analyticsToggle" aria-expanded="false" aria-controls="analyticsBody">
+        <span class="caret">▸</span> 📊 圖表分析
+        <span class="at-sub">來源占比 · 熱門個股 · 時間趨勢 · 風險警示</span>
+      </button>
+      <div class="analytics-body" id="analyticsBody" hidden>
+        <section class="section split">
+          <div>
+            <div class="section-label">來源占比</div>
+            <div id="sourceChart"></div>
+          </div>
+          <div class="vrule"></div>
+          <div>
+            <div class="section-label">熱門個股 · 前十</div>
+            <div id="stockChart"></div>
+          </div>
+        </section>
+
+        <section class="section">
+          <div class="section-label">來源 × 時間趨勢 <span class="unit" id="trendUnit"></span></div>
+          <div id="trendChart"></div>
+        </section>
+
+        <section class="section">
+          <div class="section-label">風險警示個股 <span class="unit" id="riskUnit"></span></div>
+          <div id="riskChart"></div>
+        </section>
+      </div>
+    </section>
   </div>
 </div>
 
 <script>
 const TZ = "Asia/Taipei";
 let ALL = [];
-const state = { q: "", source: "", stock: "", range: 0, sort: "new", riskOnly: false, watchOnly: false, digest: false, digestGroup: "overview", net: false, page: 1, market: "tw", lang: "zh", view: "list" };
+const state = { q: "", source: "", stock: "", range: 0, sort: "new", riskOnly: false, watchOnly: false, digest: false, digestGroup: "overview", net: false, analytics: false, page: 1, market: "tw", lang: "zh", view: "list" };
 const PAGE_SIZE = 20; // 每頁新聞數
 let lastFilterKey = "";
 
@@ -1600,6 +1623,21 @@ async function hsgFetch(btn) {
   } finally { btn.disabled = false; }
 }
 
+// ── 圖表分析摺疊區(預設關閉,減少一開場的資訊量) ──
+function applyAnalyticsChrome() {
+  const b = document.getElementById("analyticsToggle");
+  const body = document.getElementById("analyticsBody");
+  if (!b || !body) return;
+  b.classList.toggle("open", state.analytics);
+  b.setAttribute("aria-expanded", state.analytics ? "true" : "false");
+  body.hidden = !state.analytics;
+}
+function setAnalytics(v) {
+  state.analytics = v;
+  try { localStorage.setItem("dashAnalytics", v ? "1" : "0"); } catch (e) {}
+  applyAnalyticsChrome();
+}
+
 document.getElementById("q").addEventListener("input", e => { state.q = e.target.value; render(); });
 document.getElementById("sourceSel").addEventListener("change", e => { state.source = e.target.value; render(); });
 document.getElementById("rangeSel").addEventListener("change", e => { state.range = +e.target.value; render(); });
@@ -1815,6 +1853,10 @@ try { const dg = localStorage.getItem("dashDigestGroup"); if (["overview", "bySt
 document.getElementById("watchToggle").addEventListener("click", () => setWatchOnly(!state.watchOnly));
 document.getElementById("digestToggle").addEventListener("click", () => setDigest(!state.digest));
 document.querySelectorAll("#dgSeg button").forEach(b => b.addEventListener("click", () => setDigestGroup(b.dataset.g)));
+
+try { state.analytics = localStorage.getItem("dashAnalytics") === "1"; } catch (e) {}
+applyAnalyticsChrome();
+document.getElementById("analyticsToggle").addEventListener("click", () => setAnalytics(!state.analytics));
 
 try { state.net = localStorage.getItem("dashNet") === "1"; } catch (e) {}
 document.getElementById("netPanel").hidden = !state.net;
