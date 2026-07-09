@@ -21,8 +21,10 @@ from __future__ import annotations
 
 import json
 import os
+import ssl
 import sys
 import urllib.parse
+import urllib.request
 from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 
 # HSG 專案位置(可用環境變數 HSG_PATH 覆蓋)
@@ -60,6 +62,44 @@ def _load_hsg():
         raise RuntimeError(_HSG_ERR)
 
 
+def _fetch_quotes(codes: list[str]) -> dict:
+    """用證交所 MIS 即時報價 API 取每檔的漲跌幅%。上市(tse)/上櫃(otc)都試。"""
+    result: dict = {}
+    hdr = {"User-Agent": "Mozilla/5.0", "Referer": "https://mis.twse.com.tw/stock/index.jsp"}
+    # 證交所憑證缺 Subject Key Identifier,Python 嚴格驗證會拒;此為唯讀公開報價,關閉驗證
+    sslctx = ssl.create_default_context()
+    sslctx.check_hostname = False
+    sslctx.verify_mode = ssl.CERT_NONE
+
+    def _num(x):
+        try:
+            return float(x)
+        except (TypeError, ValueError):
+            return None
+
+    for i in range(0, len(codes), 40):
+        chunk = codes[i:i + 40]
+        ex = "|".join(f"tse_{c}.tw" for c in chunk) + "|" + "|".join(f"otc_{c}.tw" for c in chunk)
+        url = "https://mis.twse.com.tw/stock/api/getStockInfo.jsp?json=1&delay=0&ex_ch=" + urllib.parse.quote(ex, safe="|_.")
+        try:
+            req = urllib.request.Request(url, headers=hdr)
+            with urllib.request.urlopen(req, timeout=8, context=sslctx) as r:
+                data = json.loads(r.read().decode("utf-8"))
+        except Exception:  # noqa: BLE001 — 單批失敗不影響其他
+            continue
+        for m in data.get("msgArray", []):
+            c = m.get("c")
+            if not c or c in result:
+                continue
+            z = _num(m.get("z"))                        # 現價(無成交為 "-")
+            if z is None:
+                z = _num(m.get("o")) or _num(m.get("b"))  # 退開盤/買價
+            y = _num(m.get("y"))                        # 昨收
+            pct = round((z - y) / y * 100, 2) if (z is not None and y) else None
+            result[c] = {"name": m.get("n", ""), "price": z, "prev": y, "pct": pct, "time": m.get("t", "")}
+    return result
+
+
 class Handler(SimpleHTTPRequestHandler):
     def _json(self, obj, code: int = 200) -> None:
         body = json.dumps(obj, ensure_ascii=False).encode("utf-8")
@@ -73,9 +113,22 @@ class Handler(SimpleHTTPRequestHandler):
 
     def do_GET(self):  # noqa: N802
         parsed = urllib.parse.urlparse(self.path)
+        if parsed.path == "/api/quote":
+            return self._handle_quote(parsed)
         if parsed.path.startswith("/api/hsg/"):
             return self._handle_api(parsed)
         return super().do_GET()
+
+    def _handle_quote(self, parsed) -> None:
+        qs = urllib.parse.parse_qs(parsed.query)
+        raw = (qs.get("codes") or [""])[0]
+        codes = [c.strip() for c in raw.split(",") if c.strip().isdigit()][:200]
+        if not codes:
+            return self._json({"error": "缺少股號 codes"}, 200)
+        try:
+            return self._json(_fetch_quotes(codes))
+        except Exception as exc:  # noqa: BLE001
+            return self._json({"error": f"報價失敗:{exc}"}, 200)
 
     def _handle_api(self, parsed) -> None:
         qs = urllib.parse.parse_qs(parsed.query)

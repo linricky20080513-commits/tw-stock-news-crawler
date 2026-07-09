@@ -38,6 +38,7 @@
   .trend { font-size: 12.5px; font-weight: 700; padding: 1px 9px; border-radius: 5px; font-family: ui-monospace, monospace; }
   .trend.up { color: #ff6b5e; background: rgba(255,107,94,.14); }     /* 台股慣例:紅=漲 */
   .trend.down { color: #4fd08a; background: rgba(79,208,138,.14); }   /* 綠=跌 */
+  .trend.flat { color: var(--muted); background: rgba(166,138,102,.14); }
   .keypoint { padding: 11px 15px; font-size: 14px; line-height: 1.7; border-bottom: 1px dashed var(--line); }
   .keypoint .tag { font-size: 10px; letter-spacing: .1em; color: var(--gold); margin-right: 8px; text-transform: uppercase; }
   .keypoint .kp-list { margin: 6px 0 0; padding-left: 20px; }
@@ -93,6 +94,7 @@ let WATCH = new Set();
 let page = 1;                       // 分頁:目前頁
 const PER_PAGE = 8, NEWS_SHOWN = 5; // 每頁幾檔、每檔預設幾則
 const expanded = new Set();         // 已展開全部新聞的股票
+let QUOTES = {};                    // 即時報價(serve.py /api/quote):code -> {pct,price,...}
 
 // —— 工具 ——
 function esc(s){ return String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
@@ -228,6 +230,7 @@ function addFromInput(){
   v.split(/[\s,、，]+/).filter(Boolean).forEach(tok=>{ const c=resolveToCode(tok); if(c) WATCH.add(c); });
   document.getElementById("input").value="";
   page=1; saveWatch(); renderChips(); render();
+  loadQuotes().then(render);   // 新增後抓一次報價
 }
 function renderChips(){
   const box=document.getElementById("chips");
@@ -251,10 +254,22 @@ async function load(){
   let seed=[];
   try{ const w=await fetch("data/watchlist.json?_="+Date.now()); if(w.ok){ const j=await w.json(); if(Array.isArray(j)) seed=j; } }catch(e){}
   loadWatch(seed);
+  await loadQuotes();
   const t=ALL.map(n=>parseTime(n.published_at)).filter(Boolean);
   const latest=t.length? new Date(Math.max(...t.map(x=>x.getTime()))) : null;
   meta.textContent = `${ALL.length} 則 · 更新 ${latest?fmtTime(latest.toISOString()):"—"}`;
   renderChips(); render();
+}
+
+// —— 即時報價(需本機 serve.py;公開站無後端則自動退回從新聞判斷)——
+async function loadQuotes(){
+  const codes = market==="tw" ? [...WATCH].filter(c=>/^\d{3,6}$/.test(c)) : [];
+  if(!codes.length){ QUOTES={}; return; }
+  try{
+    const r = await fetch("api/quote?codes="+codes.join(","));
+    if(r.ok){ const j = await r.json(); QUOTES = (j && !j.error) ? j : {}; }
+    else QUOTES = {};
+  }catch(e){ QUOTES = {}; }
 }
 
 // —— 渲染:只看自選股,分頁 + 每檔可展開 ——
@@ -273,8 +288,17 @@ function render(){
     const dd=dedupe(g.items);
     const kw = stockRisk(g.code, nm, g.items);
     const warn = kw.size? `<span class="warn" title="${esc([...kw].join("、"))}">⚠ ${[...kw].slice(0,2).join("、")}</span>`:"";
-    const tr = stockTrend(g.code, nm, g.items);
-    const trend = tr? `<span class="trend ${tr.dir}">${tr.dir==="up"?"▲":"▼"} ${esc(tr.label)}</span>`:"";
+    const q = QUOTES[g.code];
+    let trend = "";
+    if(q && typeof q.pct==="number"){                 // 即時報價:每檔都有漲跌幅%
+      const dir = q.pct>0?"up":(q.pct<0?"down":"flat");
+      const arrow = q.pct>0?"▲":(q.pct<0?"▼":"—");
+      const sign = q.pct>0?"+":"";
+      trend = `<span class="trend ${dir}" title="現價 ${q.price??"—"} / 昨收 ${q.prev??"—"}">${arrow} ${sign}${q.pct.toFixed(2)}%</span>`;
+    } else {                                           // 退回:從新聞文字判斷
+      const tr = stockTrend(g.code, nm, g.items);
+      trend = tr? `<span class="trend ${tr.dir}">${tr.dir==="up"?"▲":"▼"} ${esc(tr.label)}</span>`:"";
+    }
     const kp = keyPoints(g.code, nm, g.items);
     let kpHTML="";
     if(kp && kp.ai){
@@ -321,4 +345,5 @@ document.getElementById("mkt").addEventListener("click", ()=>{ market = market==
 
 load();
 setInterval(load, 5*60*1000);
+setInterval(()=>{ loadQuotes().then(render); }, 60*1000); // 每分鐘刷新即時漲跌幅
 </script>
