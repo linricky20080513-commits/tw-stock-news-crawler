@@ -1,5 +1,482 @@
 [
   {
+    "title": "〈台股開盤〉南亞科漲停加溫法說行情 漲逾200點攻克月線重上4萬6",
+    "url": "https://news.cnyes.com/news/id/6528270",
+    "source": "鉅亨網",
+    "summary": "雖然美國與伊朗戰爭重啟，也可能重現封鎖荷姆茲海峽的態勢，但美股科技類股指數今晨逆勢收高，亞洲區域股市日、韓股跟隨上漲，台股今 (9) 日早盤雖然台積電 (2330-TW) 開盤下跌，但大盤指數以紅盤開出。",
+    "published_at": "2026-07-09T09:47:55+08:00",
+    "stocks": [
+      "TWS:2330:STOCK",
+      "TWS:7788:STOCK",
+      "TWS:3211:STOCK",
+      "TWS:2308:STOCK",
+      "TWS:8046:STOCK",
+      "TWS:4958:STOCK",
+      "TWS:3037:STOCK",
+      "TWS:3189:STOCK",
+      "TWS:3008:STOCK",
+      "TWS:2317:STOCK",
+      "TWS:8383:STOCK",
+      "TWS:2408:STOCK",
+      "USS:TSM:STOCK",
+      "USS:NVDA:STOCK"
+    ],
+    "uid": "a74d33977516dfe6deeb083e6457552e",
+    "title_zh": "〈台股開盤〉南亞科漲停加溫法說行情 漲逾200點攻克月線重上4萬6",
+    "summary_zh": "雖然美國與伊朗戰爭重啟，也可能重現封鎖荷姆茲海峽的態勢，但美股科技類股指數今晨逆勢收高，亞洲區域股市日、韓股跟隨上漲，台股今 (9) 日早盤雖然台積電 (2330-TW) 開盤下跌，但大盤指數以紅盤開出。",
+    "title_en": "<Taiwan Stock Market Opens> Nanya's daily limit increased and Fashuo market increased, rising more than 200 points to overcome the monthly line and regain 46,000",
+    "summary_en": ""
+  },
+  {
+    "title": "營收速報  - 欣高(9931)6月營收1.56億元年增率高達36.1％",
+    "url": "https://news.cnyes.com/news/id/6528263",
+    "source": "鉅亨網",
+    "summary": "2026年6月欣高(9931-TW) 營收年增成長36.1% , 盤後股價為33.3元",
+    "published_at": "2026-07-09T09:20:13+08:00",
+    "stocks": [
+      "TWS:9931:STOCK"
+    ],
+    "uid": "5e2785f14a5ee276bc652ceb50778321"
+  },
+  {
+    "title": "0709台股盤前｜大盤 800 點神龍擺尾止穩，ABF 載板、矽晶圓、光通訊三強彈升",
+    "url": "https://news.cnyes.com/news/id/6528188",
+    "source": "鉅亨網",
+    "summary": "",
+    "published_at": "2026-07-09T08:50:20+08:00",
+    "stocks": [],
+    "uid": "3ea72329cf0656bd6e976f3c5ec002e6"
+  },
+  {
+    "title": "台股大跌別被洗出場　專家只看「寶塔線」：翻紅就買",
+    "url": "https://finance.ettoday.net/news/3197855",
+    "source": "ETtoday",
+    "summary": "<img alt=\"台股大跌別被洗出場　專家只看「寶塔線」：翻紅就買\" src=\"https://cdn2.ettoday.net/images/8822/c8822349.jpg\" /><br /> 散戶常因1、2天的大跌而恐慌出清，結果隔天股價反轉回彈，只能捶心肝。投資達人莊文宗教戰，善用工具過濾市場雜訊，他用主圖「布林線」搭配副圖「寶塔線」（Tower Indicator），主要原因是寶塔線只專注「收盤價」，能洗掉盤中震盪的干擾，「我只在乎寶塔線有沒有變臉？」當寶塔線「由黑翻紅」，代表空方力道轉弱，該進場了；反之，只要寶塔線尚未翻黑，就持續抱股。 <a href=\"https://finance.ettoday.net/news/3197855\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-07-09T08:45:00+08:00",
+    "stocks": [],
+    "uid": "1c5d8feee01f6eff4566b5375199e045"
+  },
+  {
+    "title": "台積電今發6元股息　估注台股1556億資金活水",
+    "url": "https://finance.ettoday.net/news/3197850",
+    "source": "ETtoday",
+    "summary": "<img alt=\"台積電今發6元股息　估注台股1556億資金活水\" src=\"https://cdn2.ettoday.net/images/8666/c8666140.jpg\" /><br /> 台積電（2330）今（9）日發放去年第4季現金股利，每股配息6元，總計釋出約1556億元資金，不僅替台股注入活水，外資與國發基金管理會也將同步大進補，市場關注後續資金動向。 <a href=\"https://finance.ettoday.net/news/3197850\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-07-09T08:30:00+08:00",
+    "stocks": [],
+    "uid": "afc899e329977e1ef1ca0b64d61775af"
+  },
+  {
+    "title": "想月領1萬元股息！股魚試算00929約81萬可達標　比0056、00878、00919組合少花近30萬本金",
+    "url": "https://finance.ettoday.net/news/3197648",
+    "source": "ETtoday",
+    "summary": "<img alt=\"想月領1萬元股息！股魚試算00929約81萬可達標　比0056、00878、00919組合少花近30萬本金\" src=\"https://cdn2.ettoday.net/images/8821/c8821982.jpg\" /><br /> 高股息ETF近年成為投資人打造被動收入的重要工具，投資達人股魚近日發文指出，若以「每月領取1萬元股息」為目標，透過0056、00878、00919三檔季配息ETF搭配成月月領息組合，約需準備110萬元本金。 <a href=\"https://finance.ettoday.net/news/3197648\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-07-09T08:30:00+08:00",
+    "stocks": [],
+    "uid": "f98b37bb1d4597767f6c3d70d47ab245"
+  },
+  {
+    "title": "營收速報  - 環宇-KY(4991)6月營收3.26億元年增率高達55.06％",
+    "url": "https://news.cnyes.com/news/id/6528184",
+    "source": "鉅亨網",
+    "summary": "2026年6月環宇-KY(4991-TW) 營收年增成長55.06% , 盤後股價為482元",
+    "published_at": "2026-07-09T08:20:20+08:00",
+    "stocks": [
+      "TWS:4991:STOCK"
+    ],
+    "uid": "d34ee6e4e8ce7bde1f944481271065f1"
+  },
+  {
+    "title": "鉅亨速報 - Factset 最新調查：弘塑(3131-TW)EPS預估下修至65.02元，預估目標價為4183.5元",
+    "url": "https://news.cnyes.com/news/id/6528179",
+    "source": "鉅亨網",
+    "summary": "FactSet 最新調查：弘塑(3131-TW)EPS預估下修，預估EPS、預估營收、目標價、歷史獲利表現、即時新聞資訊。",
+    "published_at": "2026-07-09T08:10:30+08:00",
+    "stocks": [
+      "TWS:3131:STOCK"
+    ],
+    "uid": "91824e4f52817a67bdcd78f71bcf80ed"
+  },
+  {
+    "title": "營收速報 - 2026年7月9日台股中小型公司6月營收一覽（新增458家）",
+    "url": "https://news.cnyes.com/news/id/6528170",
+    "source": "鉅亨網",
+    "summary": "6月台股營收公布，2026年7月針對中小型公司前一日公布458家營收。截至目前6月營收公布共計988家，其中營收年增大於+25％有408家，年增小於-20％有105家。| Anue鉅亨 - 台股營收",
+    "published_at": "2026-07-09T07:55:17+08:00",
+    "stocks": [
+      "TWS:5529:STOCK",
+      "TWS:4416:STOCK",
+      "TWS:6535:STOCK",
+      "TWS:6934:STOCK",
+      "TWS:6026:STOCK",
+      "TWS:5345:STOCK",
+      "TWG:6917:STOCK",
+      "TWG:3473:STOCK"
+    ],
+    "uid": "bd329288bb9f556ac92fd831fe556c2b"
+  },
+  {
+    "title": "營收速報 - 2026年7月9日台股大型公司6月營收一覽（新增43家）",
+    "url": "https://news.cnyes.com/news/id/6528169",
+    "source": "鉅亨網",
+    "summary": "6月台股營收公布，2026年7月針對大型公司前一日公布43家營收。截至目前6月營收公布共計90家，其中營收年增大於+25％有38家，年增小於-20％有7家。| Anue鉅亨- 台股營收",
+    "published_at": "2026-07-09T07:55:15+08:00",
+    "stocks": [
+      "TWS:8926:STOCK",
+      "TWS:2101:STOCK",
+      "TWS:2547:STOCK",
+      "TWG:6550:STOCK",
+      "TWS:2540:STOCK",
+      "TWS:6901:STOCK",
+      "TWS:2408:STOCK",
+      "TWS:2337:STOCK",
+      "TWS:2511:STOCK",
+      "TWS:2354:STOCK"
+    ],
+    "uid": "ce2ea3b9b043e3d0c1dec806ee30de22"
+  },
+  {
+    "title": "美伊停火生變！美股收黑576點　台指期夜盤翻紅震盪逾1400點",
+    "url": "https://finance.ettoday.net/news/3197805",
+    "source": "ETtoday",
+    "summary": "<img alt=\"美伊停火生變！美股收黑576點　台指期夜盤翻紅震盪逾1400點\" src=\"https://cdn2.ettoday.net/images/8046/c8046766.jpg\" /><br /> 美國總統川普公開表示伊朗停火臨時協議「已經結束」，讓美股3大指數直接走跌，道瓊重挫576點，台積電ADR（TSM）反漲4.02美元或0.93％、收436.59美元。台指期夜盤震盪超過1400點，9日45458點開出，盤中一度重挫超過900點，不過隨後受到美國晶片股激勵翻紅、最終漲164點或0.36％、收45727點；台積電期貨夜盤跌3元或0.12％、收2462元。 <a href=\"https://finance.ettoday.net/news/3197805\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-07-09T05:48:00+08:00",
+    "stocks": [],
+    "uid": "bcb8e35f79048200a0807fb5a629083a"
+  },
+  {
+    "title": "〈台股盤前要聞〉測4萬5後月線攻防、延長交易確定喊卡、零現股同步開盤年底前上路",
+    "url": "https://news.cnyes.com/news/id/6528065",
+    "source": "鉅亨網",
+    "summary": "台股盤前要聞",
+    "published_at": "2026-07-09T05:10:03+08:00",
+    "stocks": [],
+    "uid": "fe1b9ce03a2e166f30652abd15f9b69f"
+  },
+  {
+    "title": "Meta 加拿大首座 1 GW 資料中心動工，天然氣供電成主力",
+    "url": "https://technews.tw/2026/07/09/meta-canada-1gw-gas-powered/",
+    "source": "科技新報",
+    "summary": "Meta 宣布將投資超過 130 億加幣（約 92 億美元），在加拿大亞伯達省 Sturgeon County [&#8230;]",
+    "published_at": "2026-07-09T01:51:35+08:00",
+    "stocks": [],
+    "uid": "ed284ee9faac593b6d1a1d05d279cfc4"
+  },
+  {
+    "title": "住房成本飆升，美國年輕人與爸媽同住比例創新高",
+    "url": "https://technews.tw/2026/07/09/gen-zs-new-roommates-mom-and-dad/",
+    "source": "科技新報",
+    "summary": "美國一項調查顯示，在 25 至 34 歲的族群中，約有五分之一的人與父母或祖父母同住，比例創下歷史新高。這主要 [&#8230;]",
+    "published_at": "2026-07-09T01:50:44+08:00",
+    "stocks": [],
+    "uid": "713847b921b0beaf9edbca4571f3a4f3"
+  },
+  {
+    "title": "焦點股》友訊：9月出貨SpaceX 亮燈漲停",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5499025",
+    "source": "自由財經",
+    "summary": "網通品牌廠友訊（2332）受到打入 SpaceX 的關鍵供應鏈，預計自9月起正式啟動出貨，預估1年出貨量將達2萬台的激勵，繼昨日漲停後，今日再跳空漲停24.05元，創20...…",
+    "published_at": "2026-07-09T01:46:06+08:00",
+    "stocks": [],
+    "uid": "f119ac2e472d208c836280ad8bf95ee5"
+  },
+  {
+    "title": "焦點股》欣興：6月營收飆新高  下半年ABF載板再調漲",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5499015",
+    "source": "自由財經",
+    "summary": "IC載板廠欣興（3037）在ABF載板漲價及出貨強勁帶動下，連續四個月營收創新高，6月合併營收再飆歷史新高，6月合併營收148.97億元，月增5.95%，年增36.31%...…",
+    "published_at": "2026-07-09T01:44:44+08:00",
+    "stocks": [],
+    "uid": "fc8b3d210e69bf283ec175417a203862"
+  },
+  {
+    "title": "焦點股》國巨*：AI拉貨旺營收續創新高 收復900元關卡",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5499022",
+    "source": "自由財經",
+    "summary": "受惠於AI應用拉貨持續暢旺，被動元件龍頭國巨*（2327）6月營收續創單月歷史新高，今日開盤後帶量上攻站回900元之上，截至9:22分為止，股價上漲35元、暫報926元，...…",
+    "published_at": "2026-07-09T01:43:00+08:00",
+    "stocks": [],
+    "uid": "a15ff602f900943e6a0fadadbfd59d82"
+  },
+  {
+    "title": "除權息也代表行情結束？藥華藥連續上漲兩個月、股價翻倍 今陷入貼息",
+    "url": "https://money.udn.com/money/story/5710/9616679",
+    "source": "經濟日報",
+    "summary": "生技股王藥華藥（6446）9日除權息，每股配發現金股利1.49元，股票股利1.09元，合計股利2.58元。參考價為1,377.93元，以1,400元開出，但為今日最高點，股價隨即走跌，一度下跌至1,290元，盤中下跌逾5%。藥華藥除權息行情失色，也拖累上市生技指數下跌逾2%，為各類股中跌幅最重。",
+    "published_at": "2026-07-09T01:42:28+08:00",
+    "stocks": [],
+    "uid": "6ca65f48af691ca12b5717910ad7234b"
+  },
+  {
+    "title": "可跑48萬公里！老技師點名8款「耐操平價」神車",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5498930",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕買豪華車真的比較划算、比較耐操嗎？汽車專家打破大眾迷思指出，高昂的價格並不等於高耐用度，並欽點本田Accord、豐田Camry等8款價格親民的經濟型轎車，憑藉著成熟的動力系...…",
+    "published_at": "2026-07-09T01:41:18+08:00",
+    "stocks": [],
+    "uid": "7d22e735be2548f7202e50f541d1d3f3"
+  },
+  {
+    "title": "飛捷第二季營收 18.8 億創歷史次高！AI 軟體小金雞上半年業績狂翻 3 倍",
+    "url": "https://finance.technews.tw/2026/07/09/inefi/",
+    "source": "科技新報",
+    "summary": "飛捷科技公告 6 月合併營收達 6.1 億元，年增 26%；第二季合併營收 18.82 億元，季增 25%，年 [&#8230;]",
+    "published_at": "2026-07-09T01:40:57+08:00",
+    "stocks": [],
+    "uid": "0fb77c0a7f0e611108ee599566472ce9"
+  },
+  {
+    "title": "PC 市場轉弱，蘋果 Mac 逆勢成長背後仍有漲價隱憂",
+    "url": "https://finance.technews.tw/2026/07/09/2q26-mac-pc-market-shipment/",
+    "source": "科技新報",
+    "summary": "全球 PC 市場在 2026 年第二季再度轉弱，但蘋果 Mac 卻成為主要品牌中少數逆勢成長的亮點。據調研機構 [&#8230;]",
+    "published_at": "2026-07-09T01:34:48+08:00",
+    "stocks": [],
+    "uid": "d0fc7e263f132febdb2e694a93540b16"
+  },
+  {
+    "title": "Fed 對通膨警戒升高，會議紀錄：若物價續漲將考慮升息",
+    "url": "https://finance.technews.tw/2026/07/09/fed-policymakers-inflation-concerns-grew-at-june-meeting-minutes-show/",
+    "source": "科技新報",
+    "summary": "美國聯邦準備理事會（Fed）上個月召開會議時，與會官員對高通膨的憂慮加深，儘管對物價上漲趨勢擴大可能需要升息因 [&#8230;]",
+    "published_at": "2026-07-09T01:30:38+08:00",
+    "stocks": [],
+    "uid": "a45467bb0439d637a86e8e596e224edb"
+  },
+  {
+    "title": "益航回歸航運類股後業績進入正向發展　昨日股價漲停、本月內漲逾38%",
+    "url": "https://finance.ettoday.net/news/3197791",
+    "source": "ETtoday",
+    "summary": "<img alt=\"益航回歸航運類股後業績進入正向發展　昨日股價漲停、本月內漲逾38%\" src=\"https://cdn2.ettoday.net/images/8742/c8742833.jpg\" /><br /> 益航(2601)在今年6月1日自貿易百貨類股回歸航運類股，當日股價漲停板，收盤價5.76元，本月6日與昨(8)日再創下漲停紀錄，昨日收盤價7.55元。因為7日遭證交所列為注意股，昨公布5月單月歸屬母公司淨利800萬元，EPS0.01元，年增167.26%，進入正向發展。 <a href=\"https://finance.ettoday.net/news/3197791\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-07-09T01:26:00+08:00",
+    "stocks": [],
+    "uid": "a830f4ec17ef27da27aeb5a9459f3cc8"
+  },
+  {
+    "title": "黃金繼續跌！壞消息又來 華爾街大行突大砍「目標價」",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5498995",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕週三（8日）黃金價格下跌，美國總統川普與伊朗之間的臨時停戰協議已經結束之後，油價大漲，通膨升溫疑慮再起，同時，美國銀行週二把2026年金價預測下修14%至每盎司4360美元...…",
+    "published_at": "2026-07-09T01:25:00+08:00",
+    "stocks": [],
+    "uid": "6d181a340daa7270a5c846355ff59288"
+  },
+  {
+    "title": "台積電回測5日線！記憶體回神救援 台股開高翻黑、英業達爆量閃紅燈",
+    "url": "https://money.udn.com/money/story/5607/9616618",
+    "source": "經濟日報",
+    "summary": "美股那指與費半指數昨夜同步反彈，台積電（2330）ADR收漲1.02%，帶動台指期夜盤上揚164點。台股9日台指期開盤率先大漲445點、報46,008點，集中市場隨後開高71.21點、報45,805.62點。不過，台積電開低回測5日線，聯發科（2454）、聯電（2303）同步走弱，拖累大盤由紅翻黑；所幸日月光投控（3711）、鴻勁（7769）、智邦（2345）等個股逆勢走強，南亞科（2408）領軍記憶體族群回神，英業達（2356）更爆量快閃漲停，鈍化空頭攻勢，多空於平盤上下激戰。盤面上，群創（3481）、英業達、合晶（6182）交投最為熱絡。",
+    "published_at": "2026-07-09T01:21:12+08:00",
+    "stocks": [],
+    "uid": "84780c3c5ba64417a697b5b038a9b32f"
+  },
+  {
+    "title": "蘋果喊停平價版 Vision Pro  三星面板開發告吹",
+    "url": "https://technews.tw/2026/07/09/apple-halts-development-of-affordable-xr-display-for-vision-pro-successor/",
+    "source": "科技新報",
+    "summary": "蘋果（Apple）傳出調整 XR 產品策略，已取消原本規劃的平價版 XR 裝置上市計畫，轉而將資源投入 AI  [&#8230;]",
+    "published_at": "2026-07-09T01:20:26+08:00",
+    "stocks": [],
+    "uid": "39c00b780cbbeb43fdfe179cc3d75ceb"
+  },
+  {
+    "title": "台積電下跌20元　台股開盤震盪多空交戰",
+    "url": "https://www.cna.com.tw/news/afe/202607090034.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者曾仁凱台北9日電）美國總統川普8日表示與伊朗之間的停火協議「已經結束」，中東緊張情勢再起，引發國際股市賣壓，不過近期回檔修正的半導體股逆揚，台股面臨多空交戰，今天開盤在平盤上下遊走。",
+    "published_at": "2026-07-09T01:18:29+08:00",
+    "stocks": [],
+    "uid": "799a67c33c2479489fac4dd67bfb59cd"
+  },
+  {
+    "title": "金價利空還沒完？美銀大砍金價目標14％ 後市目標價「坦白說」",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5498946",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕近期金價跌勢不止，加上升息預期升溫、通膨疑慮未解、美元走強與油價上漲等因素接連衝擊市場，多家華爾街投行陸續下修短期金價預測，主要券商對中長期走勢仍未完全轉空，黃金短線面臨壓...…",
+    "published_at": "2026-07-09T01:16:09+08:00",
+    "stocks": [],
+    "uid": "d7740bc2febf1df7b5801abdbbb18405"
+  },
+  {
+    "title": "富強鑫上半年營收22.55億元 訂單能見度達明年Q1",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5498987",
+    "source": "自由財經",
+    "summary": "富強鑫（6603）公告2026年6月合併營收為新台幣4.02億元，月增1％、年增22.71％，受惠於全球AI基礎建設與ICT產業升級，加上海外布局有成，帶動客戶拉貨力道增...…",
+    "published_at": "2026-07-09T01:15:00+08:00",
+    "stocks": [],
+    "uid": "af0f958c51ff3297d9e650a80beb2745"
+  },
+  {
+    "title": "台股開盤》被動元件、記憶體點火 指數漲逾百點",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5498990",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕受美伊停火生變，美股週三漲跌互見，然費半在技科股反彈下，終場大漲2.23%，受此激勵，亞股週四全面大復活，韓股漲逾4%，而日股也同步走高，大漲1494點，台股在記憶體、AB...…",
+    "published_at": "2026-07-09T01:13:34+08:00",
+    "stocks": [],
+    "uid": "e335d1134e4306f21a03672a8dfe5b41"
+  },
+  {
+    "title": "營收好旺！啓碁亮燈漲停",
+    "url": "https://money.udn.com/money/story/5607/9616602",
+    "source": "經濟日報",
+    "summary": "網通大廠啓碁（6285）6月營收創歷史新高，月增達三成，帶動買盤湧入，跳空登上漲停鎖住，股價來到276.5元",
+    "published_at": "2026-07-09T01:10:46+08:00",
+    "stocks": [],
+    "uid": "17131ae2d4cff34c5d6ba566aa7f0d77"
+  },
+  {
+    "title": "美媒：美監管機構未盡責，數千高階晶片恐流向北京",
+    "url": "https://technews.tw/2026/07/09/china-hardliners-take-aim-at-commerce-department-official/",
+    "source": "科技新報",
+    "summary": "美國政治網站 Politico 今天報導，商務部旗下的工業暨安全局未善盡職責，可能讓北京取得數千個美國高階晶片 [&#8230;]",
+    "published_at": "2026-07-09T01:10:11+08:00",
+    "stocks": [],
+    "uid": "5429372ab8748516793fd12c0309f4f1"
+  },
+  {
+    "title": "財富自由》長線潛力股",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5498988",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕自由時報電子報新推出《財富自由》頻道，提供最全面的證券財經新聞，精選【長線潛力股】，讓您投資理財更輕鬆！\n\n\n\n…",
+    "published_at": "2026-07-09T01:08:55+08:00",
+    "stocks": [],
+    "uid": "1009e07a2a5fa6d31f119141a3313e40"
+  },
+  {
+    "title": "台股開盤漲71.21點",
+    "url": "https://www.cna.com.tw/news/afe/202607090031.aspx",
+    "source": "中央社",
+    "summary": "（中央社台北9日電）台北股市今天開盤漲71.21點，加權股價指數為45805.62點，成交金額新台幣98.9億元。1150709",
+    "published_at": "2026-07-09T01:05:22+08:00",
+    "stocks": [],
+    "uid": "d84f3ae8598ad88328984a596ca4b6f2"
+  },
+  {
+    "title": "新台幣開盤貶0.8分　為32.04元",
+    "url": "https://www.cna.com.tw/news/afe/202607090030.aspx",
+    "source": "中央社",
+    "summary": "（中央社台北9日電）台北外匯市場新台幣兌美元匯率今天以32.04元開盤，貶0.8分。",
+    "published_at": "2026-07-09T01:04:20+08:00",
+    "stocks": [],
+    "uid": "3c2daab6cdd46ae0256fdf581cefe367"
+  },
+  {
+    "title": "輝達超便宜？CPO 需求夯、H200 傳喜訊  P/E 再探底",
+    "url": "https://finance.technews.tw/2026/07/09/nvidia-cheap-cpo-demand-h200-news-p-e-new-lows/",
+    "source": "科技新報",
+    "summary": "市場傳出，中國打算允許國內頂尖 AI 公司採購有限數量的 H200 晶片，消息傳來激勵輝達（Nvidia Co [&#8230;]",
+    "published_at": "2026-07-09T01:00:16+08:00",
+    "stocks": [],
+    "uid": "c08bdbfcba4621728c842d04957fc9b5"
+  },
+  {
+    "title": "亞股大復活！韓股飆逾4％ 日股強彈近1500點",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5498956",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕受美伊停火生變，美股週三漲跌互見，然費半在技科股反彈下，終場大漲2.23%，受此激勵，亞股週四全面大復活，在SK海力士飆逾9%帶動，韓股漲逾4%，而日股也同步走高，大漲14...…",
+    "published_at": "2026-07-09T00:58:06+08:00",
+    "stocks": [],
+    "uid": "44c84cb56087c7acf17350c968d03231"
+  },
+  {
+    "title": "IMF再下修全球成長預測　美伊又爆戰火待觀察",
+    "url": "https://www.cna.com.tw/news/aopl/202607090029.aspx",
+    "source": "中央社",
+    "summary": "（中央社華盛頓8日綜合外電報導）國際貨幣基金（IMF）今天再次下調2026年全球經濟成長預測，並表示如今美國與伊朗再爆衝突，全球經濟展望更面臨「不確定性與風險」。",
+    "published_at": "2026-07-09T00:52:18+08:00",
+    "stocks": [],
+    "uid": "7f5ed0fa4dddc38cc45e53a82967debe"
+  },
+  {
+    "title": "台股高檔震盪資金轉進 ETF 撐場！公股法人狂敲「這幾檔」一次看",
+    "url": "https://finance.technews.tw/2026/07/09/publicly-owned-legal-entities/",
+    "source": "科技新報",
+    "summary": "台股高檔震盪加劇，受到類股輪動與國際變數，資金轉向以 ETF 做為布局主軸，台股買盤承接力道仍在，反映投資人對 [&#8230;]",
+    "published_at": "2026-07-09T00:51:09+08:00",
+    "stocks": [],
+    "uid": "3c3e8bd9f49e66177b4e24ae95a93c77"
+  },
+  {
+    "title": "派拉蒙收購華納恐受阻 傳美國各州將提訴訟",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5498932",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕知情人士表示，美國各州擔心派拉蒙天舞（Paramount Skydance）收購華納兄弟探索（Warner Bros. Discovery）恐損害市場競爭，最快可能在下週向...…",
+    "published_at": "2026-07-09T00:49:14+08:00",
+    "stocks": [],
+    "uid": "22438787f27b85065b1c27905f65055d"
+  },
+  {
+    "title": "中東戰事再起波瀾　法人看台股類股輪動加速",
+    "url": "https://www.cna.com.tw/news/afe/202607090025.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者曾仁凱台北9日電）美國總統川普8日表示，與伊朗之間的停火協議「已經結束」，中東戰事再起波瀾，美股賣壓湧現，不過半導體類股逆勢上揚。法人預料台股短線將維持高檔震盪，類股輪動加速。",
+    "published_at": "2026-07-09T00:32:09+08:00",
+    "stocks": [],
+    "uid": "504146c3bf773d84f56d6c04ba116bc3"
+  },
+  {
+    "title": "7月9日盤前／美伊紛爭推升油價 惟輝達傳好消息 指數月線附近整理",
+    "url": "https://money.udn.com/money/story/5607/9616545",
+    "source": "經濟日報",
+    "summary": "昨日盤勢\n受美股走弱影響，加上主計總處公布6 月CPI年增率2.6%，創下 2025 年 2 月以來新高。此外，荷姆茲海峽傳出一連串油輪遇襲事件，推升國際原油報價重返七字頭。在多空交錯下，台股開盤以 45,524 點紅盤開出，盤中一度下探至 45,036 點。所幸護國神山台積電在尾盤展現神龍擺尾之姿，終場拉抬指數翻紅收在45,734 點，小漲 255 點，指數仍未站回月線；惟盤面上AI指標題材股轉強，包括聯亞、南亞、景碩及順達等，亮燈漲停。\n權值股方面，台積電上漲1.02%，鴻海上漲0.21%，聯發科下跌0.86%，廣達上漲1.07%，台達電下跌0.26%。盤面強勢股，研華、禾伸堂、合晶、鑽石投資、麗臺、南亞、雷虎、精材、聯亞、景碩等漲停；GIS-KY、威宏-KY、聯電、台勝科、南電、上詮、昇達科等漲幅6%以上；盤面弱勢股，志聖、捷敏-KY、宏旭-KY、聖暉*等跌停；三晃、來億-KY、遠傳、富世達、奇鋐、大亞、大毅、致茂、華新科等跌幅5%以上。\n終場台灣加權指數上漲 255.3 點，以45734.41點作收，成交量為9583.46億元。觀察盤面變化，三大類股全面上漲，電子上漲0.44%",
+    "published_at": "2026-07-09T00:31:19+08:00",
+    "stocks": [],
+    "uid": "456275ab9cc196b611a9d4a9d0165fc3"
+  },
+  {
+    "title": "日本進口服裝中國占比跌破 5 成，31 年來首次",
+    "url": "https://technews.tw/2026/07/09/japans-clothing-imports-from-china-hit-31-year-low-in-southeast-asia-shift/",
+    "source": "科技新報",
+    "summary": "受中國薪資上漲及地緣政治風險加劇影響，日本服裝產業正加速擺脫對中國的依賴，2025 年日本進口的服裝和紡織品中 [&#8230;]",
+    "published_at": "2026-07-09T00:30:14+08:00",
+    "stocks": [],
+    "uid": "1b1a81d8f065b6323e2fa66dbde478c5"
+  },
+  {
+    "title": "Fed對通膨警戒升高　會議紀錄：若物價續漲將考慮升息",
+    "url": "https://www.cna.com.tw/news/aopl/202607090023.aspx",
+    "source": "中央社",
+    "summary": "（中央社華盛頓8日綜合外電報導）美國聯邦準備理事會（Fed）上個月召開會議時，與會官員對高通膨的憂慮加深，儘管對物價上漲趨勢擴大可能需要升息因應而感到憂心，仍跟隨主席華許（Kevin Warsh）發表更精簡的政策聲明。",
+    "published_at": "2026-07-09T00:26:05+08:00",
+    "stocks": [],
+    "uid": "0007198450e497312886188f615a98a9"
+  },
+  {
+    "title": "2025 年美國新藥價格下降，主因高價新基因治療減少",
+    "url": "https://technews.tw/2026/07/09/us-new-drug-prices-fall-in-2025-on-fewer-gene-therapies/",
+    "source": "科技新報",
+    "summary": "美國醫藥價格持續高速飆漲，成為重要政治議題，更使得川普直接施壓關切各大藥廠，其中，新藥價格不斷創新高，是拉升整 [&#8230;]",
+    "published_at": "2026-07-09T00:20:52+08:00",
+    "stocks": [],
+    "uid": "3779cf5536b0a51cb33f0b01cb1541bc"
+  },
+  {
+    "title": "AI 吞噬全球記憶體產能，低階平價手機市場陷史上最大萎縮",
+    "url": "https://ccc.technews.tw/2026/07/09/budget-smartphone-ai-memory-shortage/",
+    "source": "科技新報",
+    "summary": "AI 正到處吸走全球記憶體產能，而平價低階智慧型手機因毛利最薄、成本結構最脆弱，也開始成為這場記憶體荒犧牲者。 [&#8230;]",
+    "published_at": "2026-07-09T00:17:54+08:00",
+    "stocks": [],
+    "uid": "c2c1a9b0266b31acba43cf6ee523e27d"
+  },
+  {
+    "title": "懂名詞卻不懂你的真實人生，聽起來越專業的 AI 理財建議可能越危險",
+    "url": "https://finance.technews.tw/2026/07/09/ai-financial-advisor/",
+    "source": "科技新報",
+    "summary": "生成式人工智慧（AI）快速走入日常生活，越來越多人把聊天機器人當成理財資訊來源。但最新觀點指出，這類工具對金錢 [&#8230;]",
+    "published_at": "2026-07-09T00:10:28+08:00",
+    "stocks": [],
+    "uid": "4e65ffbe657a32f23bde72c0a0ff950e"
+  },
+  {
+    "title": "日本車廠反擊軟體定義汽車！本田、日產與三菱聯手推動核心零組件標準化",
+    "url": "https://technews.tw/2026/07/09/honda-nissan-and-mitsubishi-join-forces-on-ecu-standardization/",
+    "source": "科技新報",
+    "summary": "面對全球汽車產業加速邁向軟體定義汽車（SDV）新賽局，日本三大車廠本田（Honda）、日產（Nissan）與三 [&#8230;]",
+    "published_at": "2026-07-09T00:00:45+08:00",
+    "stocks": [],
+    "uid": "70237087530bd0664f8f378b00d804be"
+  },
+  {
     "title": "Meta、谷歌挺過三世代…芒果股誕生！MANGOS科技新帝國帶來什麼投資機會？",
     "url": "https://money.udn.com/money/story/5607/9616015",
     "source": "經濟日報",
@@ -39,6 +516,33 @@
     "summary_en": "Reuters reported that \"The Information\" disclosed on the 8th that China plans to let some top artificial intelligence (AI) companies purchase Huida H200 chips in limited quantities.\n\n\"The Information\" quoted two people familiar with the matter as saying..."
   },
   {
+    "title": "馬斯克不做「類 iPhone」裝置，但他想讓這台像手機的東東幫你賺錢",
+    "url": "https://technews.tw/2026/07/09/elon-musk-not-iphone-wants-phones-earn-money/",
+    "source": "科技新報",
+    "summary": "那個遭戲稱「網友慫恿買了 Twitter」的男人，馬斯克總能不斷冒出新花樣，還一直持續到如今 SpaceX 和 [&#8230;]",
+    "published_at": "2026-07-08T23:50:04+08:00",
+    "stocks": [],
+    "uid": "cb8db9313f8c24ac7715e5818151d0cb"
+  },
+  {
+    "title": "熱門 AI 瀏覽器爆重大資安漏洞，專家授三招自保",
+    "url": "https://infosecu.technews.tw/2026/07/09/security-vulnerabilities-popular-ai-browsers/",
+    "source": "科技新報",
+    "summary": "AI 瀏覽器近年來被視為下一代網路應用的重大突破，主打能夠自動摘要網頁、預訂行程，甚至能代替用戶完成線上購物。 [&#8230;]",
+    "published_at": "2026-07-08T23:40:24+08:00",
+    "stocks": [],
+    "uid": "0d6b797eab242bba7263b7e623aa7ca5"
+  },
+  {
+    "title": "馬來西亞巴生港每只貨櫃背後  牽動全球供應鏈重組",
+    "url": "https://www.cna.com.tw/news/aopl/202607090020.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者黃自強巴生9日專電）伴隨低沉鳴笛聲，一艘艘貨輪緩緩駛入馬來西亞巴生港。岸邊橋式起重機不停裝卸貨櫃，轉運全球貨物，隨著荷莫茲海峽局勢升溫，接連衝擊國際航運，這些看似平凡的貨櫃背後，也讓馬六甲海峽成為全球供應鏈與地緣政治的交會點。",
+    "published_at": "2026-07-08T23:36:58+08:00",
+    "stocks": [],
+    "uid": "6d49d5f9e71612fc457cd04134495b02"
+  },
+  {
     "title": "第五屆集保盃射箭聯誼賽登場 集保長期扎根偏鄉體育培育射箭新秀",
     "url": "https://money.udn.com/money/story/5607/9616245",
     "source": "經濟日報",
@@ -65,6 +569,51 @@
     "summary_en": "In the first half of this year, the Russian stock market fell by 15%, ranking second in decline. What is more surprising is that the Hang Seng Index in Hong Kong fell by 2,749% in the first half of the year. Forty-eight, a drop of ten. 72%, and the state-owned enterprise index also fell by 15%. 2%, compared with the Shenzhen Component Index which rose by 19% this year. 8%, the Shanghai Composite Index rose slightly by 3. 18%, the significant decline of Hong Kong stocks is worthy of discussion. The share prices of GigaDevice, Biren, Zhipu, and Xiyu Technology listed in Hong Kong this year have all soared. Zhipu has gone from 116. As soon as it rose to HK$2,980, it became the most eye-catching AI application company. However, BYD, Xiaomi, Alibaba, Meituan, Baidu, JD.com, Kuaishou, and Bilibili, which were all-powerful in the past, are regarded as old technology stocks, and their stock price performance this year has been tragic. The stock price of Want Want China, which everyone is familiar with, once fell to 3. ○5 Hong Kong dollars, the stock prices of Master Kong and Uni-President China have also hit new lows frequently, and Sun Art Retail, which Yin Yanliang sold to Alibaba, has increased from 14. Three dropped to ○. HK$89. This phenomenon also shows that even in the markets where A-shares and H-shares are dominated by China, they have taken a completely different direction."
   },
   {
+    "title": "日本首創導管注射，嘗試以 iPS 細胞讓受損心臟重獲「心」生",
+    "url": "https://technews.tw/2026/07/09/japan-first-catheter-injection-ips-cells-regenerate-damaged-hearts/",
+    "source": "科技新報",
+    "summary": "心臟一旦受損，幾乎無法自行再生心肌細胞，因此嚴重心衰竭患者往往只能依靠藥物控制病情，甚至需要接受心臟移植。最近 [&#8230;]",
+    "published_at": "2026-07-08T23:31:43+08:00",
+    "stocks": [],
+    "uid": "5d8d5d027bdd7d066df430c151351254"
+  },
+  {
+    "title": "非紅供應鏈效益發酵！友訊打入 SpaceX 供應鏈預計 9 月開始出貨",
+    "url": "https://technews.tw/2026/07/09/d-link-enters-spacexs-supply-chain-shipments-expected-to-begin-in-september/",
+    "source": "科技新報",
+    "summary": "國內網通大廠友訊科技 (D-Link) 宣布，面對全球地緣政治與供應鏈資安防護需求升溫，公司成功憑藉「強韌、安 [&#8230;]",
+    "published_at": "2026-07-08T23:30:58+08:00",
+    "stocks": [],
+    "uid": "977726aed3fd84ea01be21557ec2df83"
+  },
+  {
+    "title": "中國擬有條件放寬輝達 AI 晶片採購禁令，實際數量可能不及市場需求一半",
+    "url": "https://technews.tw/2026/07/09/china-plans-to-conditionally-ease-the-ban-on-nvidias-ai-chip-procurement/",
+    "source": "科技新報",
+    "summary": "在中美地緣政治持續緊張的局勢下，全球人工智慧（AI）晶片市場的板塊正發生微妙變化。根據 The Informa [&#8230;]",
+    "published_at": "2026-07-08T23:30:57+08:00",
+    "stocks": [],
+    "uid": "93f0504ddf9ec7fd162f49fd3e66c046"
+  },
+  {
+    "title": "自益信託變更受益人  小心贈與稅找上門",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5498312",
+    "source": "自由財經",
+    "summary": "財政部台北國稅局表示，民眾運用信託制度管理財產與銀行簽訂自益信託契約，後因財務規劃需要變更信託契約「受益人」時，因屬信託利益權利移轉，涉及贈與行為，應依「遺贈稅法」規定申...…",
+    "published_at": "2026-07-08T23:30:00+08:00",
+    "stocks": [],
+    "uid": "33cf5e299e906a5a5f807f0df5239517"
+  },
+  {
+    "title": "「iPod 之父」預言 AI 助理是勝負關鍵：掌握「裝置聯邦」者將主宰未來",
+    "url": "https://technews.tw/2026/07/09/our-choice-of-ai-assistant-really-matters-says-tony-fadell/",
+    "source": "科技新報",
+    "summary": "被譽為「iPod 之父」的托尼·法戴爾（Tony Fadell）近日撰寫長篇專欄指出，人們選擇哪種 AI 助理 [&#8230;]",
+    "published_at": "2026-07-08T23:20:00+08:00",
+    "stocks": [],
+    "uid": "923a271784509c5727c0992c1b18fbb6"
+  },
+  {
     "title": "中國信託證券F1級「極速挑戰賽」 天天登入遊戲抽600亮點",
     "url": "https://money.udn.com/money/story/5607/9616180",
     "source": "經濟日報",
@@ -76,6 +625,15 @@
     "summary_zh": "歡慶中國信託60周年，中國信託證券推出中國信託閃耀60 極速挑戰賽系列活動，如同F1爭取領先仰賴的不只是速度，更是精準資訊與穩定性能，中信亮點APP正是協助投資人快速精準掌握行情的重要工具。這次活動中國信託證券即以賽車精神為主軸，推出多項互動遊戲，用戶天天參與挑戰，有機會抽中60亮點、600亮點及F1賽車樂高組等好禮。",
     "title_en": "China Trust Securities F1 \"Speed ​​Challenge\" Log in to the game every day to draw 600 highlights",
     "summary_en": "To celebrate the 60th anniversary of China Trust, China Trust Securities launched the China Trust Shining 60 Speed ​​Challenge series of events. Just like F1, striving for the lead relies not only on speed, but also on accurate information and stable performance. CITIC Highlights APP is an important tool to help investors quickly and accurately grasp the market. In this event, China Trust Securities took the spirit of racing as the main theme and launched a number of interactive games. Users participated in challenges every day and had the opportunity to win 60 highlights, 600 highlights and F1 racing Lego sets and other gifts."
+  },
+  {
+    "title": "用第一人稱視角影片訓練 AI ，全面加速機器取代人類員工",
+    "url": "https://technews.tw/2026/07/09/the-humans-training-their-ai-replacements/",
+    "source": "科技新報",
+    "summary": "如今人們對於 AI 系統會從網際網路大量擷取資料，藉此進行訓練、提升能力並持續更新的現象早已司空見慣。但隨著先 [&#8230;]",
+    "published_at": "2026-07-08T23:10:48+08:00",
+    "stocks": [],
+    "uid": "9763bfa3482f242284e763e525f40d41"
   },
   {
     "title": "群益金鼎證券進駐高雄啤酒音樂節 實踐普惠金融與在地共榮",
@@ -115,6 +673,69 @@
     "summary_zh": "兆豐證券與子公司兆豐期貨近日第三度攜手刑事警察局舉辦員工反詐座談會，持續強化第一線服務人員識詐阻詐能力。隨著詐騙手法不斷翻新，兆豐證券同步強化教育訓練與科技防詐，近期更成功攔阻高達千萬元詐騙案件，展現阻詐行動的具體成效。",
     "title_en": "Mega Securities and Mega Futures held the third anti-fraud symposium to expand corporate anti-fraud capabilities",
     "summary_en": "Mega Securities and its subsidiary Mega Futures recently joined hands with the Criminal Police Department to hold an employee anti-fraud symposium for the third time to continue to strengthen the ability of front-line service personnel to identify and prevent fraud. As fraud techniques continue to be updated, Mega Securities has simultaneously strengthened education and training and technological fraud prevention. Recently, it has successfully blocked fraud cases worth tens of millions of dollars, demonstrating the specific effectiveness of anti-fraud operations."
+  },
+  {
+    "title": "蘋果與博通達成 300 億美元規模協議，市場關注蘋果首款自研 AI 伺服器晶片",
+    "url": "https://technews.tw/2026/07/09/apple-and-broadcom-reach-30-billion-agreement/",
+    "source": "科技新報",
+    "summary": "蘋果正式宣布擴大與晶片製造商博通（Broadcom）的合作關係，雙方達成一項預計總值超過 300 億美元的多年 [&#8230;]",
+    "published_at": "2026-07-08T23:00:51+08:00",
+    "stocks": [],
+    "uid": "e3ea80e49b400e44d5bcc0320982a784"
+  },
+  {
+    "title": "B-52 疲於奔命，美新世代空射核武平台 LRSO 測試面臨延宕",
+    "url": "https://technews.tw/2026/07/09/usafs-tests-on-lrso-is-delaying-due-to-b-52s-capabilities-are-reaching-the-limit/",
+    "source": "科技新報",
+    "summary": "美國國會審計處（GAO）最新年度報告指出，美軍新一代空射核武主力 AGM-181A「長程防區外飛彈」（LRSO [&#8230;]",
+    "published_at": "2026-07-08T23:00:46+08:00",
+    "stocks": [],
+    "uid": "2822574af055a15831faaafc0d579ae9"
+  },
+  {
+    "title": "記憶體三大原廠鬆口氣？中國長鑫存儲搶攻 HBM 市場傳聞可能不如預期",
+    "url": "https://technews.tw/2026/07/09/rumors-of-chinas-changxin-memorys-aggressive-push-into-the-hbm-market-may-not-be-as-strong-as-expected/",
+    "source": "科技新報",
+    "summary": "根據朝鮮日報的報導，中國最大 DRAM 製造商長鑫存儲（CXMT）為在上海科創板上市所提出的證券申報書中，並未 [&#8230;]",
+    "published_at": "2026-07-08T23:00:39+08:00",
+    "stocks": [],
+    "uid": "38d325ad5522b24d49688f179efeae91"
+  },
+  {
+    "title": "從 EV 到 ESS，本田攜手 LG 打造新能源跨界戰略",
+    "url": "https://technews.tw/2026/07/09/honda-lg-new-energy-crossover-strategy-ev-ess/",
+    "source": "科技新報",
+    "summary": "北美純電車市場需求放緩，傳統汽車巨頭正全面調整電動化戰略。面臨產能過剩的鋰電池工廠，車廠將原定的 EV（Ele [&#8230;]",
+    "published_at": "2026-07-08T23:00:13+08:00",
+    "stocks": [],
+    "uid": "c1a78c868bf1384a22aba0a197505a9c"
+  },
+  {
+    "title": "台積電發放6元股息 1556億元資金活水來了",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5498800",
+    "source": "自由財經",
+    "summary": "晶圓代工龍頭台積電（2330）今（9）日將發放去年第4季現金股利，每股配發6元，將為台股挹注約1556億元的資金活水；最大股東國家發展基金管理會可領到約99.22億元現金...…",
+    "published_at": "2026-07-08T23:00:00+08:00",
+    "stocks": [],
+    "uid": "fa98a70f2ac3c10243dfb3db7e9b01c4"
+  },
+  {
+    "title": "LTN經濟通》眾多散戶追捧 成就馬斯克財富騙局？",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5490016",
+    "source": "自由財經",
+    "summary": "馬斯克的商業模式 遭質疑是龐氏騙局\n\n\n〔財經頻道／綜合報導〕美國億萬富豪馬斯克的SpaceX（太空探索公司）在6月12日正式登上那斯達克市場，成為史上最大規模企業IPO（首次公開募股），首日交...…",
+    "published_at": "2026-07-08T23:00:00+08:00",
+    "stocks": [],
+    "uid": "02aebdb9991a3d51af8c24be77c21077"
+  },
+  {
+    "title": "7月9日重要財經行事曆",
+    "url": "https://money.udn.com/money/story/5607/9616472",
+    "source": "經濟日報",
+    "summary": "台灣\n行政院會\n財政部公布6月進出口統計\n中研院院士會議記者會\n除權息：主動國泰動能高息、元大台灣價值高息、東泥、中興電、億泰、中碳、中華電、凌群、大毅、漢平、華新科、揚博、寒舍、憶聲、健鼎、台灣大、銘異、精確、大量、奇鈦科、類比科、jpp-KY、華懋、佶優、瀚宇博、德昌、皇鼎、鎰勝、凌華、信昌電、精成科、旺矽、台表科、藥華藥、精測、帝寶、AES-KY、意德士、華東、正淩、精星、富鼎、羅昇\n法人說明會：大立光、凌陽創新\n\n國際\n馬來西亞央行利率決策\n美國上周初領失業金人數、6月成屋銷售\n\n中國大陸\n大陸統計局公布6月CPI、PPI\n大陸人行公布6月貨幣供應、新增人民幣貸款、社會融資數據",
+    "published_at": "2026-07-08T22:55:51+08:00",
+    "stocks": [],
+    "uid": "65b7e767c69dbfa1d59f48fe247f78c5"
   },
   {
     "title": "國泰證7月投資觀點：AI 行情撐美股、日股四大產業升溫",
@@ -247,6 +868,15 @@
     "summary_en": "<img alt=\"The Port Authority has fully launched the Typhoon Preparation Plan. Chairman Zhou Yonghui personally presided over the contingency preparation meeting\" src=\"https://cdn2.ettoday.net/images/8822/c8822212.jpg\" /><br /> In response to the approach of Typhoon Bawei, the Taiwan Port Authority held the \"1st Typhoon Preparation Preparation Meeting\" in advance today (8). The meeting was personally presided over by Chairman Zhou Yonghui. General Manager Wang Jinrong led relevant port managers and colleagues to participate in the meeting via video conference to gain real-time access to the operating status and preparation progress of all commercial ports in Taiwan, and to comprehensively strengthen flood prevention and typhoon prevention contingency measures. <a href=\"https://finance.ettoday.net/news/3197766\" target=\"_blank\">\"Full text...\"</a>"
   },
   {
+    "title": "美股收盤》美伊停火生變 美股漲跌互見 台積電ADR漲1.02％",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5498907",
+    "source": "自由財經",
+    "summary": "由於美國總統川普稱旨在結束與伊朗戰爭的臨時協議已經「結束」，週三美股3大指數多收黑走跌，道瓊重挫576點，不過在輝達（NVDA-US）與博通（AVGO-US）領漲下，支撐那斯達克...…",
+    "published_at": "2026-07-08T22:12:58+08:00",
+    "stocks": [],
+    "uid": "d1520bca8dd783939ec029a25e589970"
+  },
+  {
     "title": "元大證券2026永續生活節 攜手員工與眷屬共創綠色未來",
     "url": "https://money.udn.com/money/story/5607/9616019",
     "source": "經濟日報",
@@ -334,6 +964,15 @@
     "uid": "ab90b2a7f0294fb9c43bc5d72c51d03b"
   },
   {
+    "title": "市場擔憂美國再襲伊朗　國際油價大幅上漲",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5498905",
+    "source": "自由財經",
+    "summary": "在美國重啟攻擊伊朗的行動後，市場對中東重要產油地區原油供應是否順暢的憂慮增加，使國際油價今天攀升至兩週高點。\n\n紐約商品交易所西德州中級原油8月結算價上漲3.08美元或4.37%，收報每桶7...…",
+    "published_at": "2026-07-08T21:45:04+08:00",
+    "stocks": [],
+    "uid": "e70a99273ef23b7a4fb7c2b003ba2f1f"
+  },
+  {
     "title": "傳蘋果測試長鑫DRAM  中國記憶體快速擴張恐重蹈電動車覆轍",
     "url": "https://ec.ltn.com.tw/article/breakingnews/5498787",
     "source": "自由財經",
@@ -352,6 +991,105 @@
     "uid": "7f6a7e7a7fc9ccac8611bce138f87f4f"
   },
   {
+    "title": "市場擔憂美國再襲伊朗　國際油價大幅上漲",
+    "url": "https://www.cna.com.tw/news/afe/202607090014.aspx",
+    "source": "中央社",
+    "summary": "（中央社紐約8日綜合外電報導）在美國重啟攻擊伊朗的行動後，市場對中東重要產油地區原油供應是否順暢的憂慮增加，使國際油價今天攀升至兩週高點。",
+    "published_at": "2026-07-08T21:36:41+08:00",
+    "stocks": [],
+    "uid": "6cf8e1e4e4692dba7449003f213afb08"
+  },
+  {
+    "title": "美伊協議生變　美股3大指數多收黑",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5498902",
+    "source": "自由財經",
+    "summary": "美國總統川普稱旨在結束伊朗戰爭的臨時協議「已經結束」，美股3大指數今天多收黑，但博通（Broadcom）帶動近期遭重創的晶片股走高。\n\n道瓊工業指數下挫576.76點或1.09%，收報523...…",
+    "published_at": "2026-07-08T21:30:04+08:00",
+    "stocks": [],
+    "uid": "d49a3f82bba5c3096abaf8408d134f9e"
+  },
+  {
+    "title": "反制中國輪胎傾銷 歐盟祭45.3％重稅",
+    "url": "https://ec.ltn.com.tw/article/paper/1761905",
+    "source": "自由財經",
+    "summary": "〔編譯盧永山／綜合報導〕香港《南華早報》報導，歐盟將自八日起，對中國產的汽車與輕型貨車輪胎課徵高達四十五．三％的最終反傾銷稅，理由是存在明顯的傾銷差價（dumping margins），且對歐盟當地的輪胎產業造成了實質損害。\n歐盟執委會表示：「多數損害指標，例如銷售量、市占率、就業、獲利能力和生產…",
+    "published_at": "2026-07-08T21:30:00+08:00",
+    "stocks": [],
+    "uid": "f7cca778b3938730d025803d3ee05201"
+  },
+  {
+    "title": "熱門股》上半年營收大增 新盛力帶量漲停",
+    "url": "https://ec.ltn.com.tw/article/paper/1761899",
+    "source": "自由財經",
+    "summary": "受惠資料中心需求帶動BBU（電池備援電力模組）出貨，電池模組廠新盛力（4931）上半年營收大增7成，挹注昨日股價帶量強攻漲停，儘管盤中一度漲停打開，但在買盤湧入下，終場仍收漲停價272元、上漲24.5元，成交量達1.6萬張。\n新盛力近年持續耕耘BBU商機、營收比重持續提升，該公司並看好是未來數年有…",
+    "published_at": "2026-07-08T21:30:00+08:00",
+    "stocks": [],
+    "uid": "4c2762546923f4b9e5c2a37a2b698b65"
+  },
+  {
+    "title": "漲價擴產不歇》銅箔基板廠 下半年營運更旺",
+    "url": "https://ec.ltn.com.tw/article/paper/1761896",
+    "source": "自由財經",
+    "summary": "到Q4至少漲10% 調價延續到明年\n\n〔記者卓怡君／台北報導〕中國銅箔基板（CCL）龍頭建滔今年已6度調漲價格，台灣銅箔基板3雄台光電（2383）、台燿（6274）、聯茂（6213）以及騰輝-KY（6672）亦陸續進行價格調漲，帶動4家公司6月合併營收皆創下歷史新高；銅箔基板廠預計第3、第4季繼…",
+    "published_at": "2026-07-08T21:30:00+08:00",
+    "stocks": [],
+    "uid": "d30f82fe6e5447648e9ed28c768e6b52"
+  },
+  {
+    "title": "中國低價AI模型入侵 美眾院要查",
+    "url": "https://ec.ltn.com.tw/article/paper/1761904",
+    "source": "自由財經",
+    "summary": "靠偷竊崛起、價格更便宜 恐藉此滲透北京論述、審查言論\n\n〔編譯盧永山／綜合報導〕美國財經媒體《CNBC》報導，隨著人工智慧（AI）推廣帶來的地緣政治緊張加劇，美國國會議員正在考慮如何遏制越來越多本土企業採用中國AI模型，包括聯邦眾議院兩個委員會進行中的調查；中國AI模型逐漸受到美國企業的青睞，因…",
+    "published_at": "2026-07-08T21:30:00+08:00",
+    "stocks": [],
+    "uid": "62c3d2e92fd9f0650e153642a07a9961"
+  },
+  {
+    "title": "開放證券2.0上線 集保e手掌握期貨資料",
+    "url": "https://ec.ltn.com.tw/article/paper/1761902",
+    "source": "自由財經",
+    "summary": "〔記者高嘉和／台北報導〕為響應金管會「開放證券2.0」政策，持續促進金融科技生態圈發展，集保結算所攜手期交所、證券商公會及證券業者，共同打造「集保e手掌握App連結期貨資料查詢」及「線上傳遞財力資料」等2項應用服務，昨於集保結算所舉行發表會，宣告開放證券2.0正式上線。\n集保結算所董事長林丙輝表示…",
+    "published_at": "2026-07-08T21:30:00+08:00",
+    "stocks": [],
+    "uid": "aa612f349b46679adb5f8a4e25a79e44"
+  },
+  {
+    "title": "盤勢分析》資金出走 量不足兆元",
+    "url": "https://ec.ltn.com.tw/article/paper/1761897",
+    "source": "自由財經",
+    "summary": "近期韓股震盪、波及亞股，台股走勢也不穩，昨日加權指數持續震盪，開高後一度大跌442點，高低震盪達800點，終場上漲255.3點，收在4萬5734.41點，成交量縮減至約9583億元，創下4月底以來新低量。\n昨日電子權值股股價漲跌互見，權值王台積電（2330）在平盤上下震盪，不過終場買盤湧入，收在昨…",
+    "published_at": "2026-07-08T21:30:00+08:00",
+    "stocks": [],
+    "uid": "8e9abda21a3059d55c9982cf54397f99"
+  },
+  {
+    "title": "台新新光金控「運動培力計畫」 許孩童富足健康",
+    "url": "https://ec.ltn.com.tw/article/paper/1761900",
+    "source": "自由財經",
+    "summary": "〔記者高嘉和／台北報導〕台新新光金控昨宣布啟動「運動培力計畫」，將整合資源深化支持體育發展與運動員培育。今年，台新新光金控擴大支持多項運動選手，除原有的高爾夫球、空手道及籃球外，新增對霹靂舞、跆拳道及電競3項目選手的支持，盼打造更多元的運動人才培育版圖。\n「運動培力計畫」也包括「小小培力營」，由所…",
+    "published_at": "2026-07-08T21:30:00+08:00",
+    "stocks": [],
+    "uid": "fdab963479f6131834e94dee9db31ba5"
+  },
+  {
+    "title": "全國59.9萬人囤房 1043大戶擁逾10戶",
+    "url": "https://ec.ltn.com.tw/article/paper/1761908",
+    "source": "自由財經",
+    "summary": "〔記者鄭琪芳／台北報導〕財政部昨公布全國非自住房屋歸戶統計，二〇二五年全國有五十九．九萬人持有「非自住之其他住家用房屋」，即排除出租、繼承共有及建商餘屋等，未作有效使用的「空閒置房屋」；其中，持有二戶以下有五十五．八萬人、占九成三最多，持有十戶以上的囤房大戶則有一〇四三人、占〇．一七％。\n財政部賦…",
+    "published_at": "2026-07-08T21:30:00+08:00",
+    "stocks": [],
+    "uid": "9b4c55642c028b348733b607667d5e38"
+  },
+  {
+    "title": "三星、海力士續挫 韓股墜熊市",
+    "url": "https://ec.ltn.com.tw/article/paper/1761906",
+    "source": "自由財經",
+    "summary": "〔編譯魏國金／綜合報導〕三星電子與SK海力士昨股價續跌，拖累韓國綜合股價指數（Kospi）收跌五．三五％，並使該指數從六月二十二日近期最高點跌逾二十％，落入熊市，期間僅十二個交易日；分析師也以記憶體價格成長恐放緩為由，將三星目標價調降九％。\n\n路透報導，隨著投資人對人工智慧（AI）前景的不確定性…",
+    "published_at": "2026-07-08T21:30:00+08:00",
+    "stocks": [],
+    "uid": "0f14416293208a230362bf746d47da52"
+  },
+  {
     "title": "昇達科6月營收年增89%　看好上半年獲利優於去年全年",
     "url": "https://www.cna.com.tw/news/afe/202607080380.aspx",
     "source": "中央社",
@@ -368,6 +1106,15 @@
     "published_at": "2026-07-08T21:23:20+08:00",
     "stocks": [],
     "uid": "a305a704e32554ddf6627674db81be03"
+  },
+  {
+    "title": "美伊協議生變　美股3大指數多收黑",
+    "url": "https://www.cna.com.tw/news/afe/202607090013.aspx",
+    "source": "中央社",
+    "summary": "（中央社紐約8日綜合外電報導）美國總統川普稱旨在結束伊朗戰爭的臨時協議「已經結束」，美股3大指數今天多收黑，但博通（Broadcom）帶動近期遭重創的晶片股走高。",
+    "published_at": "2026-07-08T21:18:38+08:00",
+    "stocks": [],
+    "uid": "bfda440f0c7185c9607681c7b5df8c3c"
   },
   {
     "title": "吸引逾750企業申請 勞動部托育補助申請期限延至9月30日",
@@ -636,6 +1383,15 @@
     "published_at": "2026-07-08T19:54:26+08:00",
     "stocks": [],
     "uid": "5fd9ddcb3700dae7f1c1cef687dc7b0c"
+  },
+  {
+    "title": "7月9日 五件財經大事搶先看",
+    "url": "https://money.udn.com/money/story/5607/9616368",
+    "source": "經濟日報",
+    "summary": "經濟日報整理五件不可不知的財經大事，讓讀者在每天清晨能快速掌握最重要的財經大事。\n\n一、個人理財周轉金近11月大增1.74兆元 央行緊盯股市信用擴張\n全民瘋台股，中央銀行總裁楊金龍緊盯股市相關信用擴張、市場槓桿攀升，強調未來將持續關注股市融資槓桿變化...more\n\n\n二、千金股交易變革改1元一跳 零股提早至9時開盤 撮合時間縮至1秒\n台股高價股交易體制迎來重大變革。為落實普惠金融、降低投資門檻並減少買賣價差，臺灣證券交易所與券商公會最新研議方向出爐...more\n\n\n三、輝達奪 CPU 大單 帶旺台積電先進製程業績持續熱轉\n輝達新切入CPU市場報捷。AI新創公司Perplexity周二證實，將採用輝達最新Vera CPU...more\n\n\n四、青安3.0房屋總價分級設限 個人年所得逾200萬不得申貸\n青安3.0新制預計兩周內拍板，據指出，房屋總價上限將採三級制，超過上限不得申貸...more\n\n\n五、機器狗國家隊拚打世界盃 打造智慧巡檢、救災應用產品\n經濟部產業技術司昨（8）日發表「四足機器人國產研發平台」成果，該平台由工研院主導、並串聯本土業者...more",
+    "published_at": "2026-07-08T19:45:28+08:00",
+    "stocks": [],
+    "uid": "bd6000c87f7d0daa2ead3ec2b5cf18d5"
   },
   {
     "title": "緯創6月營收寫單月次高　英業達首破千億元創新高",
@@ -1170,6 +1926,15 @@
     "uid": "fdbe63644ea97c588e96b5e639ca10a3"
   },
   {
+    "title": "世芯、中光電 認購夯",
+    "url": "https://money.udn.com/money/story/5739/9616051",
+    "source": "經濟日報",
+    "summary": "台股昨（8）日震盪收小紅，盤面題材股各自發揮，世芯-KY（3661）、中光電（5371）等兩檔電子股同步收高，預料後市仍有輪動機會，發行券商建議，偏多投資人可透過權證的槓桿效果，擴大獲利空間。",
+    "published_at": "2026-07-08T18:01:55+08:00",
+    "stocks": [],
+    "uid": "09883c0c8fe8b1cbb1b6797a60fb63cf"
+  },
+  {
     "title": "打破晶片孤島！法國 AI 新創 ZML 推出跨平台推論伺服器，挑戰硬體供應商壟斷",
     "url": "https://technews.tw/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
     "source": "科技新報",
@@ -1177,6 +1942,24 @@
     "published_at": "2026-07-08T18:00:57+08:00",
     "stocks": [],
     "uid": "7c4a298f8057f975a5ac795e1cbcbf14"
+  },
+  {
+    "title": "台塑、南亞 四檔活跳跳",
+    "url": "https://money.udn.com/money/story/5739/9616054",
+    "source": "經濟日報",
+    "summary": "台股高檔震盪，電子權值股承壓，資金輪動到低基期的傳產族群，台塑四寶有不錯的殖利率表現，也獲資金青睞。其中，台塑（1301）受惠於美伊衝突，推升原油及石化原料價格，使得產品報價回升與產品利差改善，帶動第2季獲利表現；南亞（1303）成功轉型，受惠CCL中高階材料供不應求，推動股價上揚。",
+    "published_at": "2026-07-08T18:00:33+08:00",
+    "stocks": [],
+    "uid": "9ebe9c20da5e170a0cf47780ccf09463"
+  },
+  {
+    "title": "長榮、陽明 聚焦長天期",
+    "url": "https://money.udn.com/money/story/5739/9616056",
+    "source": "經濟日報",
+    "summary": "反映國際海運市場運價動向的上海集裝箱出口運價指數（SCFI），已連十漲，旺季需求有望延續，市場看好長榮（2603）、陽明（2609）等海運股營運表現，權證券商建議，可利用認購權證參與相關個股走勢。",
+    "published_at": "2026-07-08T18:00:15+08:00",
+    "stocks": [],
+    "uid": "6e1860ad9c04f2230b7e7fef20a281e1"
   },
   {
     "title": "DRAM 漲勢旺至 2027 年！大和看好南亞科，目標價一口氣喊上 650 元",
@@ -1195,6 +1978,51 @@
     "published_at": "2026-07-08T17:59:00+08:00",
     "stocks": [],
     "uid": "fcfb2984cff0ae9d71fdb33c3618eb50"
+  },
+  {
+    "title": "順達 挑價內外20%",
+    "url": "https://money.udn.com/money/story/5739/9616064",
+    "source": "經濟日報",
+    "summary": "順達（3211）6月營收12.68億元，月增9.0%，創近三個月新高，帶動第2季營收呈現季增，在產品價格調整，以及BBU產品放量下，預估毛利率也將季增。順達昨（8）日亮燈漲停，相關權證也受矚目。",
+    "published_at": "2026-07-08T17:58:14+08:00",
+    "stocks": [],
+    "uid": "6f164a4fb3f697e7707f826c208df240"
+  },
+  {
+    "title": "臻鼎 押注逾200天",
+    "url": "https://money.udn.com/money/story/5739/9616074",
+    "source": "經濟日報",
+    "summary": "臻鼎-KY（4958）受惠客戶需求強勁，上修2026年資本支出，法人預期，隨1.6T光模組、ABF載板及AI伺服器等占比攀升，營運結構由消費性電子轉向AI領域，有利獲利創高。",
+    "published_at": "2026-07-08T17:58:00+08:00",
+    "stocks": [],
+    "uid": "baea5d972754ff254726f80aed08a2bf"
+  },
+  {
+    "title": "0708 權傾多空",
+    "url": "https://money.udn.com/money/story/5739/9616338",
+    "source": "經濟日報",
+    "summary": "",
+    "published_at": "2026-07-08T17:57:42+08:00",
+    "stocks": [],
+    "uid": "e76bbacbcae6b7ba3e907275d66816ce"
+  },
+  {
+    "title": "長興 二檔閃金光",
+    "url": "https://money.udn.com/money/story/5739/9616081",
+    "source": "經濟日報",
+    "summary": "長興（1717）掌握粉體含浸製程與介面強化技術，提供SFT短纖、LFT長纖及超薄UD連續纖維等解決方案，LFT與UD主打生產周期短、可回收及具備「以塑代金」的強度優勢。長興的模壓底填膠（MUF）是將封裝模塑料EMC與底填膠Underfill功能二合一的半導體封裝材料，原本占比不到1%，在今年將大幅放量，第1季穩定供貨後，第2季產量爬坡，下半年預估月營收貢獻度將升至4%至5%。由於該產品技術門檻高且競爭者少，毛利率顯著高於公司平均，將是2026年獲利回升的核心引擎。",
+    "published_at": "2026-07-08T17:56:59+08:00",
+    "stocks": [],
+    "uid": "6901c26c2feffa14475d6839ba392506"
+  },
+  {
+    "title": "最牛一輪／力積電有戲 中信5B 俏",
+    "url": "https://money.udn.com/money/story/5739/9616084",
+    "source": "經濟日報",
+    "summary": "力積電（6770）以約3.95億新股參與海外存託憑證發行，加上員工認股，合計發行4.2億普通股，共籌資8.86億美元，將投入資源優化邏輯與記憶體技術整合，並加速推進3D AI代工業務，有效掌握AI商機。",
+    "published_at": "2026-07-08T17:55:55+08:00",
+    "stocks": [],
+    "uid": "f35866da973cfb138687662c7526898c"
   },
   {
     "title": "囤房稅2.0發威！逾318萬自住戶降稅至1% 逾千人擁10戶以上「剉咧等」",
@@ -1270,6 +2098,51 @@
     "uid": "a59be19f0b583b1d8166bcabdf36bc45"
   },
   {
+    "title": "英業達6月、第2季營收雙高 下半年成長動能更強",
+    "url": "https://money.udn.com/money/story/5710/9615782",
+    "source": "經濟日報",
+    "summary": "英業達（2356）昨（8）日公告6月合併營收1,022.62億元，創單月新高，推動第2季營收衝上2,698.57億元，改寫新猷。法人指出，英業達下半年將可望有L10、L11的AI伺服器產品營收挹注，代表下半年業績成長動能將更暢旺。",
+    "published_at": "2026-07-08T17:45:55+08:00",
+    "stocks": [],
+    "uid": "2c3a54b86d863f0798003778815d21dc"
+  },
+  {
+    "title": "載板三強目標價 上調",
+    "url": "https://money.udn.com/money/story/5607/9615793",
+    "source": "經濟日報",
+    "summary": "摩根士丹利（大摩）證券釋出ABF載板產業報告指出，漲價正加速中，漲價周期更強勁也比預期來得早，預期獲利有上揚空間，上調欣興（3037）、南電及臻鼎-KY目標價，分別調高到1,465元、1,550元、690元，都維持「優於大盤」評等。",
+    "published_at": "2026-07-08T17:45:50+08:00",
+    "stocks": [],
+    "uid": "0ea2f2c28ecadabff80a3f00b207dbe5"
+  },
+  {
+    "title": "千金股交易變革改1元一跳 零股提早至9時開盤 撮合時間縮至1秒",
+    "url": "https://money.udn.com/money/story/5607/9616176",
+    "source": "經濟日報",
+    "summary": "台股高價股交易體制迎來重大變革。為落實普惠金融、降低投資門檻並減少買賣價差，臺灣證券交易所與券商公會最新研議方向出爐，規劃於明(2027)年7月推動現貨新制。",
+    "published_at": "2026-07-08T17:45:23+08:00",
+    "stocks": [],
+    "uid": "3ca1e8a8fee091704b8a8a8d094e0cc6"
+  },
+  {
+    "title": "蘋果與博通達300億美元協議　響應川普本土製造政策",
+    "url": "https://www.cna.com.tw/news/aopl/202607090007.aspx",
+    "source": "中央社",
+    "summary": "（中央社舊金山8日綜合外電報導）蘋果公司（Apple）今天宣布，已與晶片公司博通（Broadcom）達成金額超過300億美元（約新台幣9630億元）的多年期協議，將在美國設計及生產晶片。",
+    "published_at": "2026-07-08T17:44:22+08:00",
+    "stocks": [],
+    "uid": "d49cbbe1910dd4cdc5cbf1ec4ade54ca"
+  },
+  {
+    "title": "台股高價股將迎來每檔「1元一跳」的全新時代 市場壓力測試...借鏡美股",
+    "url": "https://money.udn.com/money/story/5607/9616179",
+    "source": "經濟日報",
+    "summary": "台股高價股即將迎來每檔「1元一跳」的全新時代，這項制度變革不僅是交易習慣的改變，更是對整體市場生態系的一場極限壓力測試。當前市場正反聲浪交鋒，如何在這場歷史性改制中取得平衡，考驗著主管機關與券商的智慧。",
+    "published_at": "2026-07-08T17:44:09+08:00",
+    "stocks": [],
+    "uid": "b883558f05af48c7a2cf1589586acab7"
+  },
+  {
     "title": "集保e手掌握增2大新功能　8大券商首波上線",
     "url": "https://finance.ettoday.net/news/3197673",
     "source": "ETtoday",
@@ -1277,6 +2150,15 @@
     "published_at": "2026-07-08T17:44:00+08:00",
     "stocks": [],
     "uid": "7e9fb5c089da61e1ea8453b9115df676"
+  },
+  {
+    "title": "欣興6月營收創新高",
+    "url": "https://money.udn.com/money/story/5710/9616332",
+    "source": "經濟日報",
+    "summary": "載板龍頭PCB大廠欣興（3037）昨（8）日公布6月營收148.97億元，續創新高，月增6%，年增36.31%。外界看好，欣興受惠高階載板出貨價量齊揚與PCB步入傳統旺季，下半年營運可望逐季走高。",
+    "published_at": "2026-07-08T17:41:28+08:00",
+    "stocks": [],
+    "uid": "afbb873335a6e291909a4523da03c931"
   },
   {
     "title": "中聯油脂案下架名單增至 401 項，卜蜂雞胸肉、味王泡麵、超商快煮餐入列",
@@ -1385,6 +2267,15 @@
     "published_at": "2026-07-08T16:55:00+08:00",
     "stocks": [],
     "uid": "28f42939f890776b007f41196e5ec58a"
+  },
+  {
+    "title": "美媒：中國擬允許頂尖AI公司　採購少量輝達H200晶片",
+    "url": "https://www.cna.com.tw/news/aopl/202607090005.aspx",
+    "source": "中央社",
+    "summary": "（中央社北京8日綜合外電報導）美國科技新聞網站The Information今天引述兩名知情人士報導，中國計畫允許國內頂尖人工智慧（AI）公司購買數量有限的輝達（NVIDIA）H200晶片。",
+    "published_at": "2026-07-08T16:52:17+08:00",
+    "stocks": [],
+    "uid": "f37ae3428b32d4f0d44b9d6ef9bf8f66"
   },
   {
     "title": "元太6月營收月增23.2%",
@@ -1529,6 +2420,15 @@
     "published_at": "2026-07-08T16:23:57+08:00",
     "stocks": [],
     "uid": "e90994374032034f8cf7b904e4fcd99e"
+  },
+  {
+    "title": "中東戰火再起　歐股收跌油價升",
+    "url": "https://www.cna.com.tw/news/afe/202607090004.aspx",
+    "source": "中央社",
+    "summary": "（中央社倫敦8日綜合外電報導）中東再度燃起戰火，美國總統川普稱與伊朗的停火協議已經結束，歐洲主要股市今天收跌，國際油價飆升。",
+    "published_at": "2026-07-08T16:21:14+08:00",
+    "stocks": [],
+    "uid": "18c92525d7bf934248f11047bbe7a36f"
   },
   {
     "title": "永豐金H1稅後淨利245億元、年增率94％　EPS 1.69元",
