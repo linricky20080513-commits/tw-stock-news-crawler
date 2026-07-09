@@ -35,3 +35,6 @@ Thumbs.db
 # Logs / env
 *.log
 .env
+
+# 本機專用媒體(版權音檔,不上傳)
+media/

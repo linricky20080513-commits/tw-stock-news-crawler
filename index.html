@@ -643,6 +643,7 @@
 </style>
 </head>
 <body class="fx-neon">
+<audio id="goldAudio" src="media/gold.mp3" loop preload="none"></audio>
 <div class="fab">
   <button id="marketToggle" class="theme-toggle" title="切換 台股 / 美股">🇹🇼 台股</button>
   <button id="langToggle" class="theme-toggle" title="切換顯示語言 中文 / English">🌐 中文</button>
@@ -1965,7 +1966,7 @@ function _musicLoop() {
   while (_musicNext < ctx.currentTime + 0.12) { _scheduleStep(ctx, _musicStep, _musicNext); _musicStep++; _musicNext += _STEP; }
   _musicTimer = setTimeout(_musicLoop, 30);
 }
-function startGoldMusic() {
+function startGoldSynth() {
   if (_muted || _musicTimer) return;
   try {
     _audioCtx = _audioCtx || new (window.AudioContext || window.webkitAudioContext)();
@@ -1975,7 +1976,31 @@ function startGoldMusic() {
     _musicLoop();
   } catch (e) { /* 不支援就算了 */ }
 }
-function stopGoldMusic() { if (_musicTimer) { clearTimeout(_musicTimer); _musicTimer = null; } }
+function stopGoldSynth() { if (_musicTimer) { clearTimeout(_musicTimer); _musicTimer = null; } }
+// 鎏金背景樂:優先播放本機 MP3(media/gold.mp3);檔案缺失(如公開站)則退回合成電音
+let _goldAudioBad = false;
+function startGoldMusic() {
+  if (_muted) return;
+  const a = document.getElementById("goldAudio");
+  if (a && !_goldAudioBad) {
+    stopGoldSynth();
+    a.volume = 1;
+    const p = a.play();
+    if (p && p.catch) p.catch(() => { if (a.error) { _goldAudioBad = true; startGoldSynth(); } });
+    return;
+  }
+  startGoldSynth();
+}
+function stopGoldMusic() {
+  const a = document.getElementById("goldAudio");
+  if (a) { try { a.pause(); } catch (e) {} }
+  stopGoldSynth();
+}
+// MP3 載入失敗(公開站無此檔)→ 標記並退回合成電音
+(function () {
+  const a = document.getElementById("goldAudio");
+  if (a) a.addEventListener("error", () => { _goldAudioBad = true; if (!_muted && document.body.classList.contains("fx-gold")) startGoldSynth(); });
+})();
 
 // ── 中國風：合成古風背景樂（五聲音階古琴 + 迴音,Web Audio,零依賴)──
 let _cnTimer = null, _cnStep = 0, _cnNext = 0, _cnGain = null, _cnNoise = null, _cnSmash = null;
