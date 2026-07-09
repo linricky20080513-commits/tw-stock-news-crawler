@@ -1,0 +1,234 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>自選股新聞精華</title>
+<style>
+  :root {
+    --bg: #0d0a06; --surface: #17110a; --line: rgba(217,164,65,.22);
+    --gold: #e0b84f; --red: #c8635a; --text: #ece0c8; --muted: #a68a66;
+    --font: "Noto Sans TC", system-ui, sans-serif;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: radial-gradient(80% 60% at 50% -10%, #241a0c 0%, transparent 60%), var(--bg); color: var(--text); font-family: var(--font); line-height: 1.55; }
+  .wrap { max-width: 820px; margin: 0 auto; padding: 22px 16px 60px; }
+  header { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; border-bottom: 1px solid var(--line); padding-bottom: 14px; margin-bottom: 18px; }
+  header h1 { font-size: 22px; margin: 0; color: var(--gold); letter-spacing: .04em; }
+  header .meta { color: var(--muted); font-size: 12.5px; }
+  header .spacer { flex: 1; }
+  .btn { font-size: 12.5px; background: transparent; border: 1px solid var(--line); color: var(--text); padding: 7px 13px; border-radius: 6px; cursor: pointer; text-decoration: none; transition: .15s; }
+  .btn:hover { border-color: var(--gold); color: var(--gold); }
+  .btn.on { background: rgba(224,184,79,.16); border-color: var(--gold); color: var(--gold); }
+
+  .panel { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 15px 16px; margin-bottom: 18px; }
+  .panel h2 { font-size: 13px; margin: 0 0 10px; color: var(--muted); font-weight: 600; letter-spacing: .05em; }
+  textarea { width: 100%; min-height: 64px; resize: vertical; background: rgba(0,0,0,.35); border: 1px solid var(--line); color: var(--text); border-radius: 8px; padding: 10px 12px; font-family: ui-monospace, monospace; font-size: 13px; }
+  .row { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin-top: 10px; }
+  .chips { display: flex; gap: 7px; flex-wrap: wrap; margin-top: 12px; }
+  .chip { display: inline-flex; align-items: center; gap: 6px; font-size: 12.5px; border: 1px solid var(--line); border-radius: 5px; padding: 3px 9px; background: rgba(224,184,79,.08); }
+  .chip .x { cursor: pointer; color: var(--muted); }
+  .chip .x:hover { color: var(--red); }
+  .chip .nm { color: var(--muted); }
+  .hint { color: var(--muted); font-size: 12px; margin-top: 8px; }
+
+  .stock { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; margin-bottom: 14px; overflow: hidden; }
+  .stock-head { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; padding: 12px 15px; background: rgba(224,184,79,.06); border-bottom: 1px solid var(--line); }
+  .stock-head .code { font-size: 17px; color: var(--gold); font-weight: 700; font-family: ui-monospace, monospace; }
+  .stock-head .name { color: var(--text); }
+  .stock-head .cnt { color: var(--muted); font-size: 12px; margin-left: auto; }
+  .stock-head .warn { color: #ff8f7a; font-size: 12px; }
+  .keypoint { padding: 11px 15px; font-size: 14px; line-height: 1.7; border-bottom: 1px dashed var(--line); }
+  .keypoint .tag { font-size: 10px; letter-spacing: .1em; color: var(--gold); margin-right: 8px; text-transform: uppercase; }
+  ul.news { list-style: none; margin: 0; padding: 8px 15px 12px; }
+  ul.news li { padding: 5px 0; font-size: 13.5px; line-height: 1.5; border-bottom: 1px solid rgba(217,164,65,.1); }
+  ul.news li:last-child { border-bottom: none; }
+  ul.news .t { color: var(--muted); font-family: ui-monospace, monospace; font-size: 11px; margin-right: 8px; }
+  ul.news a { color: var(--text); text-decoration: none; }
+  ul.news a:hover { color: var(--gold); text-decoration: underline; }
+  .empty { color: var(--muted); text-align: center; padding: 40px 10px; }
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>★ 自選股新聞精華</h1>
+    <span class="meta" id="meta">載入中…</span>
+    <span class="spacer"></span>
+    <button class="btn" id="mkt">🇹🇼 台股</button>
+    <a class="btn" href="index.html">📊 完整看板</a>
+  </header>
+
+  <div class="panel">
+    <h2>我的自選股（與完整看板共用,存在瀏覽器)</h2>
+    <textarea id="input" placeholder="貼上股號或名稱,可用空白 / 逗號 / 換行分隔,例如：&#10;2330 2454 2317 台達電 聯發科"></textarea>
+    <div class="row">
+      <button class="btn on" id="add">＋ 加入清單</button>
+      <button class="btn" id="clear">✕ 全部清空</button>
+      <span class="hint" id="wcount"></span>
+    </div>
+    <div class="chips" id="chips"></div>
+  </div>
+
+  <div id="results"></div>
+</div>
+
+<script>
+const TZ = "Asia/Taipei";
+const WATCH_KEY = "dashWatch";
+let ALL = [], STOCK_MAP = {}, AI = null, market = "tw";
+let WATCH = new Set();
+
+// —— 工具 ——
+function esc(s){ return String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
+function stockCode(s){ const p = String(s).split(":"); return p.length >= 2 ? p[1] : s; }
+function normCode(x){ return String(x||"").trim().toUpperCase(); }
+function parseTime(iso){ if(!iso) return null; const t = new Date(iso); return isNaN(t) ? null : t; }
+function fmtTime(iso){ const t = parseTime(iso); if(!t) return "—"; return t.toLocaleString("zh-Hant",{timeZone:TZ,month:"2-digit",day:"2-digit",hour:"2-digit",minute:"2-digit",hour12:false}); }
+function stockName(c){ return STOCK_MAP[c] || ""; }
+function dispTitle(n){ return n["title_"+(market==="us"?"en":"zh")] || n.title || ""; }
+function dispSummary(n){ return n["summary_"+(market==="us"?"en":"zh")] || n.summary || ""; }
+
+const RISK_TW = ["跌停","暴跌","重挫","崩跌","崩盤","大跌","利空","違約","下市","警示","減資","虧損","踩雷","掏空","訴訟","起訴","裁罰","停牌","下修","破產"];
+function newsRisk(n){ const t=(n.title||"")+" "+(n.summary||""); return RISK_TW.filter(k=>t.includes(k)); }
+
+// 去套語
+function stripBoiler(t){
+  return String(t||"")
+    .replace(/[（(]\s*中央社[^）)]*[）)]/g,"")
+    .replace(/[（(]\s*[^）)]{0,14}[／/][^）)]{0,10}報導\s*[）)]/g,"")
+    .replace(/(綜合外電報導|綜合報導|路透社?|彭博資訊?|法新社|美聯社|中央社)/g,"")
+    .replace(/(本文|以上)?(內容|資訊)?不構成(任何)?投資(建議|參考)[^。]*。?/g,"")
+    .replace(/\|\s*Anue[^。]*$/g,"").trim();
+}
+function splitSentences(t){ return String(t||"").split(/[。！？\n;；]+/).map(s=>s.trim()).filter(s=>s.length>=8); }
+const KP_NUM = /[0-9０-９]|％|%|元|億|萬|張|點|漲停|跌停|漲|跌|填息|除息|營收|年增|季增|獲利|EPS|目標價|評等|法說|股利|新高|新低/i;
+
+// 近似標題去重
+function normTitle(t){ return String(t||"").toLowerCase().replace(/^(快訊|獨家|即時|更新|【[^】]*】)+/g,"").replace(/[\s　【】\[\]()（）「」『』:：,，。.、!！?？~～\-—–_｜|/／#*"'’“”]/g,""); }
+function dedupe(items){
+  const reps=[], bySig=new Map();
+  const arr=items.slice().sort((a,b)=>(parseTime(b.published_at)?.getTime()||0)-(parseTime(a.published_at)?.getTime()||0));
+  for(const n of arr){
+    const sig=normTitle(dispTitle(n));
+    if(!sig){ reps.push(n); continue; }
+    let hit=bySig.get(sig) || reps.find(r=>{const rs=normTitle(dispTitle(r)); return rs && (rs.includes(sig)||sig.includes(rs)) && Math.min(rs.length,sig.length)>=8;});
+    if(hit) continue;
+    reps.push(n); bySig.set(sig,n);
+  }
+  return reps;
+}
+
+// 每股一句重點:AI 優先 → 規則式抽句(只取提到本股的句子)→ 退回最新標題
+function keyPoint(code, name, items){
+  // AI(summary.json.stocks[].days[] 取最新一天)
+  if(AI && Array.isArray(AI.stocks)){
+    const s = AI.stocks.find(x=>x && normCode(x.code)===normCode(code));
+    if(s){
+      if(Array.isArray(s.days) && s.days.length){ const d=[...s.days].sort((a,b)=>(b.date||"").localeCompare(a.date||""))[0]; if(d && d.summary) return {ai:true, text:d.summary}; }
+      if(s.points) return {ai:true, text:s.points};
+    }
+  }
+  // 規則式:抽「有提到本股名稱/代號、含數字」的最佳一句
+  const cand=[];
+  dedupe(items).forEach(n=>{
+    const text = stripBoiler(dispTitle(n))+"。"+stripBoiler(dispSummary(n));
+    splitSentences(text).forEach(s=>{
+      const mention = (name && name.length>=2 && s.includes(name)) || s.includes(code);
+      if(!mention) return;
+      let score=1; if(KP_NUM.test(s)) score+=2; if(s.length>=14 && s.length<=70) score+=1;
+      cand.push({s,score});
+    });
+  });
+  cand.sort((a,b)=>b.score-a.score);
+  if(cand.length) return {ai:false, text:cand.slice(0,2).map(c=>c.s).join("。")+"。"};
+  return null;
+}
+
+// —— 自選清單(localStorage,與主看板共用)——
+function loadWatch(seed){
+  let stored=null;
+  try{ const raw=localStorage.getItem(WATCH_KEY); if(raw) stored=JSON.parse(raw); }catch(e){}
+  const list = Array.isArray(stored)? stored : (seed||[]);
+  WATCH = new Set(list.map(normCode).filter(Boolean));
+}
+function saveWatch(){ try{ localStorage.setItem(WATCH_KEY, JSON.stringify([...WATCH])); }catch(e){} }
+function resolveToCode(input){
+  const s=String(input||"").trim(); if(!s) return null;
+  const up=s.toUpperCase();
+  if(STOCK_MAP[s]||STOCK_MAP[up]) return up;
+  if(/^[0-9A-Z.\-]{1,8}$/.test(up)) return up;
+  for(const [c,nm] of Object.entries(STOCK_MAP)) if(nm===s) return normCode(c);
+  return up;
+}
+function addFromInput(){
+  const v=document.getElementById("input").value.trim();
+  if(!v) return;
+  v.split(/[\s,、，]+/).filter(Boolean).forEach(tok=>{ const c=resolveToCode(tok); if(c) WATCH.add(c); });
+  document.getElementById("input").value="";
+  saveWatch(); renderChips(); render();
+}
+function renderChips(){
+  const box=document.getElementById("chips");
+  const codes=[...WATCH].sort();
+  box.innerHTML = codes.map(c=>{ const nm=stockName(c); return `<span class="chip"><b>${esc(c)}</b>${nm?`<span class="nm">${esc(nm)}</span>`:""}<span class="x" data-c="${esc(c)}">✕</span></span>`; }).join("");
+  box.querySelectorAll(".x").forEach(x=>x.addEventListener("click",()=>{ WATCH.delete(x.dataset.c); saveWatch(); renderChips(); render(); }));
+  document.getElementById("wcount").textContent = codes.length ? `共 ${codes.length} 檔` : "尚未加入任何自選股";
+}
+
+// —— 載入資料 ——
+async function load(){
+  const meta=document.getElementById("meta");
+  meta.textContent="載入中…";
+  const newsFile = market==="us" ? "data/news_us.json" : "data/news.json";
+  try{ const r=await fetch(newsFile+"?_="+Date.now()); ALL = r.ok ? await r.json() : []; }
+  catch(e){ ALL=[]; }
+  STOCK_MAP={};
+  if(market==="tw"){ try{ const s=await fetch("data/stocks.json?_="+Date.now()); if(s.ok) STOCK_MAP=await s.json(); }catch(e){} }
+  AI=null;
+  try{ const a=await fetch("data/summary.json?_="+Date.now()); if(a.ok){ const j=await a.json(); AI = j[market]||null; } }catch(e){}
+  let seed=[];
+  try{ const w=await fetch("data/watchlist.json?_="+Date.now()); if(w.ok){ const j=await w.json(); if(Array.isArray(j)) seed=j; } }catch(e){}
+  loadWatch(seed);
+  const t=ALL.map(n=>parseTime(n.published_at)).filter(Boolean);
+  const latest=t.length? new Date(Math.max(...t.map(x=>x.getTime()))) : null;
+  meta.textContent = `${ALL.length} 則 · 更新 ${latest?fmtTime(latest.toISOString()):"—"}`;
+  renderChips(); render();
+}
+
+// —— 渲染:只看自選股,精簡抓重點 ——
+function render(){
+  const box=document.getElementById("results");
+  if(!WATCH.size){ box.innerHTML='<div class="empty">請在上方加入您的自選股,這裡就會只顯示這些股票的新聞精華。</div>'; return; }
+  const groups=new Map();
+  ALL.forEach(n=>(n.stocks||[]).forEach(s=>{ const c=stockCode(s); if(!WATCH.has(normCode(c))) return; let g=groups.get(c); if(!g){g={code:c,items:[]};groups.set(c,g);} g.items.push(n); }));
+  const arr=[...groups.values()].sort((a,b)=>b.items.length-a.items.length || a.code.localeCompare(b.code));
+  if(!arr.length){ box.innerHTML='<div class="empty">您的自選股目前沒有相關新聞。</div>'; return; }
+  box.innerHTML = arr.map(g=>{
+    const nm=stockName(g.code);
+    const dd=dedupe(g.items);
+    const kw=new Set(); g.items.forEach(n=>newsRisk(n).forEach(k=>kw.add(k)));
+    const warn = kw.size? `<span class="warn" title="${esc([...kw].join("、"))}">⚠ ${[...kw].slice(0,2).join("、")}</span>`:"";
+    const kp=keyPoint(g.code, nm, g.items);
+    const kpHTML = kp? `<div class="keypoint"><span class="tag">${kp.ai?"✦ AI 重點":"📝 重點"}</span>${esc(kp.text)}</div>`:"";
+    const lis = dd.slice(0,3).map(n=>{
+      let t=dispTitle(n); if(t.length>42) t=t.slice(0,42)+"…";
+      return `<li><span class="t">${fmtTime(n.published_at)}</span><a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(t)}</a></li>`;
+    }).join("");
+    const more = dd.length>3? `<li class="hint">…還有 ${dd.length-3} 則</li>`:"";
+    return `<div class="stock">
+      <div class="stock-head"><span class="code">${esc(g.code)}</span>${nm?`<span class="name">${esc(nm)}</span>`:""}${warn}<span class="cnt">${g.items.length} 則</span></div>
+      ${kpHTML}
+      <ul class="news">${lis}${more}</ul>
+    </div>`;
+  }).join("");
+}
+
+// —— 事件 ——
+document.getElementById("add").addEventListener("click", addFromInput);
+document.getElementById("input").addEventListener("keydown", e=>{ if(e.key==="Enter" && (e.ctrlKey||e.metaKey)){ e.preventDefault(); addFromInput(); } });
+document.getElementById("clear").addEventListener("click", ()=>{ WATCH=new Set(); saveWatch(); renderChips(); render(); });
+try{ market = localStorage.getItem("dashMarket")==="us"?"us":"tw"; }catch(e){}
+function applyMkt(){ document.getElementById("mkt").textContent = market==="us"?"🇺🇸 美股":"🇹🇼 台股"; }
+applyMkt();
+document.getElementById("mkt").addEventListener("click", ()=>{ market = market==="tw"?"us":"tw"; try{localStorage.setItem("dashMarket",market);}catch(e){} applyMkt(); load(); });
+
+load();
+setInterval(load, 5*60*1000);
+</script>
