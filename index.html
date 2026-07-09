@@ -1825,8 +1825,14 @@ function stopScreaming() {
 
 // ── 鎏金奢華：合成「很吵又熱鬧」的電音循環（Web Audio,零依賴,無外部音檔）──
 let _musicTimer = null, _musicStep = 0, _musicNext = 0;
-let _mGain = null, _mComp = null, _noiseBuf = null;
+let _mGain = null, _mComp = null, _noiseBuf = null, _mShaper = null, _mOut = null;
 const _BPM = 124, _STEP = 60 / 124 / 4; // 16 分音符秒數
+// 失真曲線:amount 越大越兇
+function _distCurve(amount) {
+  const n = 2048, c = new Float32Array(n), k = amount;
+  for (let i = 0; i < n; i++) { const x = i * 2 / n - 1; c[i] = (3 + k) * x * 20 * Math.PI / 180 / (Math.PI + k * Math.abs(x)); }
+  return c;
+}
 function _mf(m) { return 440 * Math.pow(2, (m - 69) / 12); } // MIDI→Hz
 // 4 小節和弦進行（Am–F–C–G):root 低音 + 高音琶音三音
 const _CHORDS = [
@@ -1837,18 +1843,21 @@ const _CHORDS = [
 ];
 function _musicGraph(ctx) {
   if (_mComp) return;
+  // 訊號鏈:voices → _mGain(過載驅動) → _mShaper(失真) → _mComp(轟大聲) → _mOut → 喇叭
+  _mGain = ctx.createGain(); _mGain.gain.value = 3.0;          // 過載驅動:推爆失真 → 更兇
+  _mShaper = ctx.createWaveShaper(); _mShaper.curve = _distCurve(600); _mShaper.oversample = "4x"; // 重失真
   _mComp = ctx.createDynamicsCompressor();
-  _mComp.threshold.value = -16; _mComp.ratio.value = 8; _mComp.attack.value = 0.003; _mComp.release.value = 0.15;
-  _mGain = ctx.createGain(); _mGain.gain.value = 0.9; // 大聲
-  _mGain.connect(_mComp); _mComp.connect(ctx.destination);
+  _mComp.threshold.value = -26; _mComp.ratio.value = 14; _mComp.attack.value = 0.001; _mComp.release.value = 0.1; // 磚牆式壓縮 → 非常吵
+  _mOut = ctx.createGain(); _mOut.gain.value = 1.1;
+  _mGain.connect(_mShaper); _mShaper.connect(_mComp); _mComp.connect(_mOut); _mOut.connect(ctx.destination);
   const n = Math.floor(ctx.sampleRate * 0.5); _noiseBuf = ctx.createBuffer(1, n, ctx.sampleRate);
   const d = _noiseBuf.getChannelData(0); for (let i = 0; i < n; i++) d[i] = Math.random() * 2 - 1;
 }
 function _kick(ctx, t) { const o = ctx.createOscillator(), g = ctx.createGain(); o.type = "sine"; o.frequency.setValueAtTime(135, t); o.frequency.exponentialRampToValueAtTime(45, t + 0.12); g.gain.setValueAtTime(1.1, t); g.gain.exponentialRampToValueAtTime(0.001, t + 0.24); o.connect(g); g.connect(_mGain); o.start(t); o.stop(t + 0.26); }
 function _hat(ctx, t) { const s = ctx.createBufferSource(); s.buffer = _noiseBuf; const hp = ctx.createBiquadFilter(); hp.type = "highpass"; hp.frequency.value = 7500; const g = ctx.createGain(); g.gain.setValueAtTime(0.32, t); g.gain.exponentialRampToValueAtTime(0.001, t + 0.045); s.connect(hp); hp.connect(g); g.connect(_mGain); s.start(t); s.stop(t + 0.06); }
 function _clap(ctx, t) { const s = ctx.createBufferSource(); s.buffer = _noiseBuf; const bp = ctx.createBiquadFilter(); bp.type = "bandpass"; bp.frequency.value = 1700; bp.Q.value = 0.7; const g = ctx.createGain(); g.gain.setValueAtTime(0.7, t); g.gain.exponentialRampToValueAtTime(0.001, t + 0.18); s.connect(bp); bp.connect(g); g.connect(_mGain); s.start(t); s.stop(t + 0.2); }
-function _bass(ctx, t, freq, dur) { const o = ctx.createOscillator(), g = ctx.createGain(), f = ctx.createBiquadFilter(); o.type = "sawtooth"; o.frequency.value = freq; f.type = "lowpass"; f.frequency.value = 700; g.gain.setValueAtTime(0.0001, t); g.gain.linearRampToValueAtTime(0.55, t + 0.008); g.gain.exponentialRampToValueAtTime(0.001, t + dur); o.connect(f); f.connect(g); g.connect(_mGain); o.start(t); o.stop(t + dur + 0.02); }
-function _lead(ctx, t, freq) { const o = ctx.createOscillator(), o2 = ctx.createOscillator(), g = ctx.createGain(), f = ctx.createBiquadFilter(); o.type = "square"; o2.type = "sawtooth"; o.frequency.value = freq; o2.frequency.value = freq; o2.detune.value = 9; f.type = "lowpass"; f.frequency.value = 3800; g.gain.setValueAtTime(0.0001, t); g.gain.linearRampToValueAtTime(0.26, t + 0.005); g.gain.exponentialRampToValueAtTime(0.001, t + 0.15); o.connect(f); o2.connect(f); f.connect(g); g.connect(_mGain); o.start(t); o2.start(t); o.stop(t + 0.17); o2.stop(t + 0.17); }
+function _bass(ctx, t, freq, dur) { const o = ctx.createOscillator(), o2 = ctx.createOscillator(), g = ctx.createGain(), f = ctx.createBiquadFilter(); o.type = "sawtooth"; o2.type = "sawtooth"; o.frequency.value = freq; o2.frequency.value = freq; o2.detune.value = 18; f.type = "lowpass"; f.frequency.value = 1200; f.Q.value = 6; g.gain.setValueAtTime(0.0001, t); g.gain.linearRampToValueAtTime(0.72, t + 0.006); g.gain.exponentialRampToValueAtTime(0.001, t + dur); o.connect(f); o2.connect(f); f.connect(g); g.connect(_mGain); o.start(t); o2.start(t); o.stop(t + dur + 0.02); o2.stop(t + dur + 0.02); }
+function _lead(ctx, t, freq) { const o = ctx.createOscillator(), o2 = ctx.createOscillator(), g = ctx.createGain(), f = ctx.createBiquadFilter(); o.type = "sawtooth"; o2.type = "square"; o.frequency.value = freq; o2.frequency.value = freq; o2.detune.value = 14; f.type = "lowpass"; f.frequency.value = 5200; f.Q.value = 3; g.gain.setValueAtTime(0.0001, t); g.gain.linearRampToValueAtTime(0.34, t + 0.004); g.gain.exponentialRampToValueAtTime(0.001, t + 0.15); o.connect(f); o2.connect(f); f.connect(g); g.connect(_mGain); o.start(t); o2.start(t); o.stop(t + 0.17); o2.stop(t + 0.17); }
 function _scheduleStep(ctx, step, t) {
   const bar = Math.floor(step / 16) % 4, s = step % 16, ch = _CHORDS[bar];
   if (s % 4 === 0) _kick(ctx, t);              // 四拍到底大鼓
