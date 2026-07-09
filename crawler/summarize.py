@@ -92,9 +92,20 @@ _SCHEMA = {
                 "additionalProperties": False,
                 "properties": {
                     "code": {"type": "string"},
-                    "points": {"type": "string"},
+                    "days": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "additionalProperties": False,
+                            "properties": {
+                                "date": {"type": "string"},
+                                "summary": {"type": "string"},
+                            },
+                            "required": ["date", "summary"],
+                        },
+                    },
                 },
-                "required": ["code", "points"],
+                "required": ["code", "days"],
             },
         },
         "events": {
@@ -128,7 +139,9 @@ def _prompt(market: str, compact: str) -> str:
             "• 用精煉、資訊密度高的句子,不要開場白、不要條列符號。\n\n"
             "1. overall:120~200 字的今日市場重點(焦點主軸、最受關注個股、風險提示)。\n"
             "2. stocks:最多 10 檔最重要的個股。code 用清單中的『股號』(如 2330);"
-            "points 用 1~2 句融合該股所有新聞內容後的精華重點(去重、去廢話,含關鍵數字)。\n"
+            "days 把該股新聞**依日期分組**(date 用 YYYY-MM-DD),"
+            "每一天寫一段 summary——**簡短但詳細**(約 2~4 句、一段通順文字),"
+            "融合該股『當天』所有新聞內容、去重、去廢話,保留關鍵數字與具體事實(漲跌、營收、法說、法人動向等)。\n"
             "3. events:把講同一件事的新聞聚成最多 6 個事件。title 簡短;"
             "summary 用 1~2 句融合該事件所有新聞內容的精華(去重、去廢話);stocks 列出相關股號。"
         )
@@ -145,8 +158,10 @@ def _prompt(market: str, compact: str) -> str:
         "causes and effects.\n"
         "• Use tight, information-dense sentences; no preamble, no bullet characters.\n\n"
         "1. overall: a 120-200 word market summary (themes, notable tickers, risks).\n"
-        "2. stocks: up to 10 most important tickers. code = the ticker as shown; points = 1-2 "
-        "sentences of deduped, fluff-free key points synthesizing that ticker's news (keep numbers).\n"
+        "2. stocks: up to 10 most important tickers. code = the ticker as shown; days = group that "
+        "ticker's news **by date** (date as YYYY-MM-DD), and for each day write one summary that is "
+        "**short but detailed** (about 2-4 sentences, one coherent paragraph) merging that day's news, "
+        "deduped, fluff-free, keeping key numbers and concrete facts (moves, earnings, guidance, flows).\n"
         "3. events: cluster the news into up to 6 events. Short title; summary = 1-2 sentences "
         "merging that event's news (deduped, fluff-free); stocks = related tickers."
     )
@@ -158,7 +173,7 @@ def summarize_market(client, model: str, market: str, items: list[dict]) -> dict
     compact = _compact(items)
     resp = client.messages.create(
         model=model,
-        max_tokens=4096,
+        max_tokens=8000,
         output_config={"effort": "low", "format": {"type": "json_schema", "schema": _SCHEMA}},
         messages=[{"role": "user", "content": _prompt(market, compact)}],
     )

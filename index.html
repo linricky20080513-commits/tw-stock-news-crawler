@@ -326,6 +326,13 @@
   .dg-hlist .h-meta { font-family: var(--font-mono); font-size: 10.5px; color: var(--muted); margin-right: 8px; }
   .dg-hlist .h-warn { color: #ff7a92; margin-left: 6px; }
   .dg-hlist .h-dup { color: var(--n2); font-family: var(--font-mono); font-size: 10.5px; margin-left: 8px; opacity: .85; }
+  /* 依個股卡片內的每日分段 */
+  .dg-day { padding: 10px 15px 6px; border-top: 1px dashed hsl(var(--hue) 100% 72% / .16); }
+  .dg-day:first-of-type { border-top: none; padding-top: 12px; }
+  .dg-day-head { font-family: var(--font-mono); font-size: 11.5px; letter-spacing: .06em; color: var(--n1); text-shadow: 0 0 6px hsl(var(--hue) 100% 50% / .3); margin-bottom: 7px; }
+  .dg-day-head .dg-day-cnt { color: var(--muted); margin-left: 8px; text-shadow: none; }
+  .dg-day .dg-ai-points { margin-bottom: 8px; }
+  .dg-day .dg-hlist { padding: 0; }
   .dg-ev-stocks { display: flex; gap: 6px; flex-wrap: wrap; padding: 0 15px 12px; }
   .dg-ev-stocks .evs { font-family: var(--font-mono); font-size: 11.5px; border: 1px solid hsl(var(--hue) 100% 72% / .3); border-radius: 3px; padding: 2px 8px; cursor: pointer; transition: .15s; }
   .dg-ev-stocks .evs:hover { border-color: var(--n1); color: var(--n1); }
@@ -1330,7 +1337,7 @@ function renderDigest(items) {
   const note = document.getElementById("dgNote");
   const body = document.getElementById("dgBody");
   const g = state.digestGroup;
-  note.textContent = (g === "byStock" ? "把每支股票的所有相關新聞彙整成重點"
+  note.textContent = (g === "byStock" ? "把每支股票的新聞依『日』彙整;有 AI 時每天一段簡短但詳細的重點,下方為當日新聞"
       : g === "byEvent" ? "把講同一件事的新聞聚成事件並摘要"
       : "依目前篩選結果自動歸納")
     + (state.watchOnly ? "（只看自選）" : "") + "，原文與所有功能不受影響。";
@@ -1397,11 +1404,19 @@ function setDigestGroup(g) {
   render();
 }
 
-// AI 每股重點:summary.json.stocks 陣列 → code→重點文字
-function aiStockPoints() {
+// 該則新聞所屬「日」的 key(台北時區 YYYY-MM-DD)
+function dayKey(n) { const t = parseTime(n.published_at); return t ? t.toLocaleDateString("en-CA", { timeZone: TZ }) : "—"; }
+// AI 每股每日重點:summary.json.stocks → code → { date → summary }(相容舊的 points 格式)
+function aiStockDays() {
   const ai = AI_SUMMARY && AI_SUMMARY[state.market];
   const map = {};
-  if (ai && Array.isArray(ai.stocks)) ai.stocks.forEach(s => { if (s && s.code) map[normCode(s.code)] = s.points || s.summary || ""; });
+  if (ai && Array.isArray(ai.stocks)) ai.stocks.forEach(s => {
+    if (!s || !s.code) return;
+    const dm = {};
+    (s.days || []).forEach(d => { if (d && d.date) dm[d.date] = d.summary || ""; });
+    if (!Object.keys(dm).length && s.points) dm._overall = s.points; // 舊格式後備
+    map[normCode(s.code)] = dm;
+  });
   return map;
 }
 
@@ -1419,32 +1434,48 @@ function renderDigestByStock(items, body) {
   arr.sort((a, b) => b.items.length - a.items.length || a.code.localeCompare(b.code));
   if (!arr.length) { body.innerHTML = '<div class="dg-note">目前篩選結果裡沒有標註個股的新聞。</div>'; return; }
 
-  const aiMap = aiStockPoints();
-  const CAP = 30, HEAD = 8;
+  const aiMap = aiStockDays();
+  const now = new Date();
+  const todayKey = now.toLocaleDateString("en-CA", { timeZone: TZ });
+  const yesterdayKey = new Date(now.getTime() - 86400000).toLocaleDateString("en-CA", { timeZone: TZ });
+  const CAP = 30, MAX_DAYS = 4, PER_DAY = 6;
   body.innerHTML = arr.slice(0, CAP).map(g => {
     const nm = stockName(g.code);
-    const its = g.items.slice().sort((a, b) => (parseTime(b.published_at)?.getTime() || 0) - (parseTime(a.published_at)?.getTime() || 0));
-    const kw = new Set(); its.forEach(n => newsRisk(n).forEach(k => kw.add(k)));
-    const srcs = [...new Set(its.map(i => i.source).filter(Boolean))];
-    const ai = aiMap[normCode(g.code)];
-    const aiBlock = ai ? `<div class="dg-ai-points"><span class="tag-ai">✦ AI 精華重點</span>${esc(ai)}</div>` : "";
-    const dedup = dedupeNews(its); // 近似標題去重(同一件事多家報導折成一則)
-    const lis = dedup.slice(0, HEAD).map(r => {
-      const n = r.n;
-      const warn = newsRisk(n).length ? '<span class="h-warn" title="含風險字詞">⚠</span>' : "";
-      return `<li><span class="h-meta">${fmtTime(n.published_at)} · ${esc(n.source || "")}</span><a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(dispTitle(n))}</a>${dupBadge(r)}${warn}</li>`;
+    const kwAll = new Set(); g.items.forEach(n => newsRisk(n).forEach(k => kwAll.add(k)));
+    const warnHead = kwAll.size ? `<span class="g-warn" title="${esc([...kwAll].join("、"))}">⚠ ${[...kwAll].slice(0, 3).join("、")}</span>` : "";
+    const srcs = new Set(); g.items.forEach(i => { if (i.source) srcs.add(i.source); });
+    // 依「日」分組(新到舊)
+    const byDay = new Map();
+    g.items.forEach(n => { const k = dayKey(n); let d = byDay.get(k); if (!d) { d = []; byDay.set(k, d); } d.push(n); });
+    const dayKeys = [...byDay.keys()].sort().reverse().slice(0, MAX_DAYS);
+    const aiDays = aiMap[normCode(g.code)] || {};
+    const daysHTML = dayKeys.map(k => {
+      const dayItems = byDay.get(k);
+      const label = k === todayKey ? "今天" : k === yesterdayKey ? "昨天" : k;
+      // 該日的 AI 一段重點(簡短但詳細);只有一天時相容舊的整體 points
+      const aiText = aiDays[k] || (dayKeys.length === 1 ? aiDays._overall : "");
+      const aiBlock = aiText ? `<div class="dg-ai-points"><span class="tag-ai">✦ AI 重點</span>${esc(aiText)}</div>` : "";
+      const dd = dedupeNews(dayItems); // 當日近似去重
+      const lis = dd.slice(0, PER_DAY).map(r => {
+        const n = r.n;
+        const warn = newsRisk(n).length ? '<span class="h-warn" title="含風險字詞">⚠</span>' : "";
+        return `<li><span class="h-meta">${fmtTime(n.published_at)} · ${esc(n.source || "")}</span><a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(dispTitle(n))}</a>${dupBadge(r)}${warn}</li>`;
+      }).join("");
+      const more = dd.length > PER_DAY ? `<li class="dg-note">…當日還有 ${dd.length - PER_DAY} 則</li>` : "";
+      const dupNote = dd.length < dayItems.length ? `(去重 ${dd.length})` : "";
+      return `<div class="dg-day">
+        <div class="dg-day-head">${esc(label)}<span class="dg-day-cnt">${dayItems.length} 則${dupNote}</span></div>
+        ${aiBlock}
+        <ul class="dg-hlist">${lis}${more}</ul>
+      </div>`;
     }).join("");
-    const more = dedup.length > HEAD ? `<li class="dg-note">…還有 ${dedup.length - HEAD} 則(點股號標籤可看完整列表)</li>` : "";
-    const warnHead = kw.size ? `<span class="g-warn" title="${esc([...kw].join("、"))}">⚠ ${[...kw].slice(0, 3).join("、")}</span>` : "";
-    const dupNote = dedup.length < g.items.length ? `(去重 ${dedup.length})` : "";
     return `<div class="dg-group">
       <div class="dg-group-head">
         <span class="g-code evs" data-evstock="${esc(g.code)}">${esc(g.code)}</span>${nm ? `<span class="g-name">${esc(nm)}</span>` : ""}
         ${warnHead}
-        <span class="g-meta">${g.items.length} 則${dupNote} · ${srcs.length} 來源</span>
+        <span class="g-meta">${g.items.length} 則 · ${srcs.size} 來源</span>
       </div>
-      ${aiBlock}
-      <ul class="dg-hlist">${lis}${more}</ul>
+      ${daysHTML}
     </div>`;
   }).join("");
   if (arr.length > CAP) body.innerHTML += `<div class="dg-note">僅顯示前 ${CAP} 檔(共 ${arr.length} 檔),用篩選縮小範圍看更多。</div>`;
