@@ -51,6 +51,15 @@
   ul.news a { color: var(--text); text-decoration: none; }
   ul.news a:hover { color: var(--gold); text-decoration: underline; }
   .empty { color: var(--muted); text-align: center; padding: 40px 10px; }
+  .expand { margin: 0 15px 12px; font-size: 12px; background: transparent; border: 1px solid var(--line); color: var(--muted); padding: 5px 12px; border-radius: 6px; cursor: pointer; }
+  .expand:hover { color: var(--gold); border-color: var(--gold); }
+  .pager { display: flex; gap: 6px; justify-content: center; align-items: center; flex-wrap: wrap; margin: 22px 0 4px; }
+  .pager .pg { font-size: 13px; background: transparent; border: 1px solid var(--line); color: var(--text); padding: 6px 11px; border-radius: 6px; cursor: pointer; }
+  .pager .pg:hover:not([disabled]) { border-color: var(--gold); color: var(--gold); }
+  .pager .pg.on { background: rgba(224,184,79,.16); border-color: var(--gold); color: var(--gold); }
+  .pager .pg[disabled] { opacity: .4; cursor: default; }
+  .pager .pg-info { color: var(--muted); font-size: 12px; margin-left: 8px; }
+  .pager .gap { color: var(--muted); }
 </style>
 
 <div class="wrap">
@@ -81,6 +90,9 @@ const TZ = "Asia/Taipei";
 const WATCH_KEY = "dashWatch";
 let ALL = [], STOCK_MAP = {}, AI = null, market = "tw";
 let WATCH = new Set();
+let page = 1;                       // 分頁:目前頁
+const PER_PAGE = 8, NEWS_SHOWN = 5; // 每頁幾檔、每檔預設幾則
+const expanded = new Set();         // 已展開全部新聞的股票
 
 // —— 工具 ——
 function esc(s){ return String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
@@ -121,10 +133,10 @@ function stockTrend(code, name, items){
     for(const s of splitSentences(text)){
       const mention = (name && name.length>=2 && s.includes(name)) || s.includes(code);
       if(!mention) continue;
-      if(/跌停/.test(s)) return {dir:"down", label:"跌停"};
-      if(/漲停/.test(s)) return {dir:"up", label:"漲停"};
-      const pctUp = s.match(/漲(?:幅)?[^0-9]{0,4}([0-9]+(?:\.[0-9]+)?)\s*[%％]/);
-      const pctDn = s.match(/跌(?:幅)?[^0-9]{0,4}([0-9]+(?:\.[0-9]+)?)\s*[%％]/);
+      if(/跌停/.test(s)) return {dir:"down", label:"跌停 −10%"};   // 台股跌停 ≈ −10%
+      if(/漲停/.test(s)) return {dir:"up", label:"漲停 +10%"};      // 漲停 ≈ +10%
+      const pctUp = s.match(/(?:漲|上漲|漲幅|勁揚|大漲|飆漲|噴出)[^0-9]{0,5}([0-9]+(?:\.[0-9]+)?)\s*[%％]/);
+      const pctDn = s.match(/(?:跌|下跌|跌幅|重挫|大跌|摜)[^0-9]{0,5}([0-9]+(?:\.[0-9]+)?)\s*[%％]/);
       if(pctUp && !pctDn) return {dir:"up", label:`漲 ${pctUp[1]}%`};
       if(pctDn && !pctUp) return {dir:"down", label:`跌 ${pctDn[1]}%`};
       const up = STRONG_UP.test(s), dn = STRONG_DN.test(s);
@@ -175,21 +187,22 @@ function keyPoints(code, name, items){
       if(s.points) return {ai:true, days:[{text:s.points}]};
     }
   }
-  // 規則式:抽多句「有提到本股、且有資訊」的句子,做成多項重點(最多 6 項)
+  // 規則式:標題就是這支股票的文章→取其內容;其他文章→取有提到本股的句子;最多 10 項,更詳細
   const cand=[], seen=new Set();
   dedupe(items).forEach(n=>{
+    const titleAbout = (name && name.length>=2 && (n.title||"").includes(name)) || (n.title||"").includes(code);
     const text = stripBoiler(dispTitle(n))+"。"+stripBoiler(dispSummary(n));
     splitSentences(text).forEach(s=>{
-      const mention = (name && name.length>=2 && s.includes(name)) || s.includes(code);
+      const mention = titleAbout || (name && name.length>=2 && s.includes(name)) || s.includes(code);
       if(!mention) return;
-      const key=s.replace(/\s+/g,"").slice(0,24); if(seen.has(key)) return; seen.add(key);
-      let score=1; if(KP_NUM.test(s)) score+=2; if(s.length>=14 && s.length<=100) score+=1;
+      const key=s.replace(/\s+/g,"").slice(0,22); if(seen.has(key)) return; seen.add(key);
+      let score=1; if(KP_NUM.test(s)) score+=2; if(titleAbout) score+=1; if(s.length>=14 && s.length<=120) score+=1;
       cand.push({s,score});
     });
   });
   cand.sort((a,b)=>b.score-a.score);
   const pts=[];
-  for(const c of cand){ if(pts.length>=6) break; if(pts.some(p=>p.slice(0,10)===c.s.slice(0,10))) continue; pts.push(c.s); }
+  for(const c of cand){ if(pts.length>=10) break; if(pts.some(p=>p.slice(0,10)===c.s.slice(0,10))) continue; pts.push(c.s); }
   return pts.length? {ai:false, points:pts} : null;
 }
 
@@ -214,13 +227,13 @@ function addFromInput(){
   if(!v) return;
   v.split(/[\s,、，]+/).filter(Boolean).forEach(tok=>{ const c=resolveToCode(tok); if(c) WATCH.add(c); });
   document.getElementById("input").value="";
-  saveWatch(); renderChips(); render();
+  page=1; saveWatch(); renderChips(); render();
 }
 function renderChips(){
   const box=document.getElementById("chips");
   const codes=[...WATCH].sort();
   box.innerHTML = codes.map(c=>{ const nm=stockName(c); return `<span class="chip"><b>${esc(c)}</b>${nm?`<span class="nm">${esc(nm)}</span>`:""}<span class="x" data-c="${esc(c)}">✕</span></span>`; }).join("");
-  box.querySelectorAll(".x").forEach(x=>x.addEventListener("click",()=>{ WATCH.delete(x.dataset.c); saveWatch(); renderChips(); render(); }));
+  box.querySelectorAll(".x").forEach(x=>x.addEventListener("click",()=>{ WATCH.delete(x.dataset.c); page=1; saveWatch(); renderChips(); render(); }));
   document.getElementById("wcount").textContent = codes.length ? `共 ${codes.length} 檔` : "尚未加入任何自選股";
 }
 
@@ -244,7 +257,7 @@ async function load(){
   renderChips(); render();
 }
 
-// —— 渲染:只看自選股,精簡抓重點 ——
+// —— 渲染:只看自選股,分頁 + 每檔可展開 ——
 function render(){
   const box=document.getElementById("results");
   if(!WATCH.size){ box.innerHTML='<div class="empty">請在上方加入您的自選股,這裡就會只顯示這些股票的新聞精華。</div>'; return; }
@@ -252,7 +265,10 @@ function render(){
   ALL.forEach(n=>(n.stocks||[]).forEach(s=>{ const c=stockCode(s); if(!WATCH.has(normCode(c))) return; let g=groups.get(c); if(!g){g={code:c,items:[]};groups.set(c,g);} g.items.push(n); }));
   const arr=[...groups.values()].sort((a,b)=>b.items.length-a.items.length || a.code.localeCompare(b.code));
   if(!arr.length){ box.innerHTML='<div class="empty">您的自選股目前沒有相關新聞。</div>'; return; }
-  box.innerHTML = arr.map(g=>{
+  const pages = Math.max(1, Math.ceil(arr.length/PER_PAGE));
+  page = Math.min(Math.max(1,page), pages);
+  const slice = arr.slice((page-1)*PER_PAGE, page*PER_PAGE);
+  box.innerHTML = slice.map(g=>{
     const nm=stockName(g.code);
     const dd=dedupe(g.items);
     const kw = stockRisk(g.code, nm, g.items);
@@ -266,20 +282,38 @@ function render(){
     } else if(kp){
       kpHTML = `<div class="keypoint"><span class="tag">📝 重點</span><ul class="kp-list">` + kp.points.map(p=>`<li>${esc(p)}</li>`).join("") + `</ul></div>`;
     }
-    // 顯示全部(去重後)新聞
-    const lis = dd.map(n=>`<li><span class="t">${fmtTime(n.published_at)}</span><a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(dispTitle(n))}</a></li>`).join("");
+    const isExp = expanded.has(g.code);
+    const shownNews = isExp? dd : dd.slice(0, NEWS_SHOWN);
+    const lis = shownNews.map(n=>`<li><span class="t">${fmtTime(n.published_at)}</span><a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(dispTitle(n))}</a></li>`).join("");
+    const expandBtn = dd.length>NEWS_SHOWN ? `<button class="expand" data-c="${esc(g.code)}">${isExp?"收合 ▴":`展開全部 ${dd.length} 則 ▾`}</button>` : "";
     return `<div class="stock">
       <div class="stock-head"><span class="code">${esc(g.code)}</span>${nm?`<span class="name">${esc(nm)}</span>`:""}${trend}${warn}<span class="cnt">${g.items.length} 則${dd.length<g.items.length?`(去重 ${dd.length})`:""}</span></div>
       ${kpHTML}
       <ul class="news">${lis}</ul>
+      ${expandBtn}
     </div>`;
-  }).join("");
+  }).join("") + pagerHTML(pages, arr.length);
+  box.querySelectorAll(".expand").forEach(b=>b.addEventListener("click",()=>{ const c=b.dataset.c; if(expanded.has(c)) expanded.delete(c); else expanded.add(c); render(); }));
+  box.querySelectorAll(".pg[data-p]").forEach(b=>b.addEventListener("click",()=>{ if(b.disabled) return; page=+b.dataset.p; render(); window.scrollTo({top:0,behavior:"smooth"}); }));
+}
+function pagerHTML(pages, total){
+  if(pages<=1) return `<div class="pager"><span class="pg-info">共 ${total} 檔</span></div>`;
+  const want=new Set([1,pages,page,page-1,page+1]);
+  const list=[...want].filter(p=>p>=1&&p<=pages).sort((a,b)=>a-b);
+  let prev=0, cells="";
+  for(const p of list){ if(p-prev>1) cells+='<span class="gap">…</span>'; cells+=`<button class="pg${p===page?" on":""}" data-p="${p}">${p}</button>`; prev=p; }
+  return `<div class="pager">
+    <button class="pg" data-p="${page-1}" ${page<=1?"disabled":""}>‹</button>
+    ${cells}
+    <button class="pg" data-p="${page+1}" ${page>=pages?"disabled":""}>›</button>
+    <span class="pg-info">共 ${total} 檔 · 第 ${page}/${pages} 頁</span>
+  </div>`;
 }
 
 // —— 事件 ——
 document.getElementById("add").addEventListener("click", addFromInput);
 document.getElementById("input").addEventListener("keydown", e=>{ if(e.key==="Enter" && (e.ctrlKey||e.metaKey)){ e.preventDefault(); addFromInput(); } });
-document.getElementById("clear").addEventListener("click", ()=>{ WATCH=new Set(); saveWatch(); renderChips(); render(); });
+document.getElementById("clear").addEventListener("click", ()=>{ WATCH=new Set(); page=1; expanded.clear(); saveWatch(); renderChips(); render(); });
 try{ market = localStorage.getItem("dashMarket")==="us"?"us":"tw"; }catch(e){}
 function applyMkt(){ document.getElementById("mkt").textContent = market==="us"?"🇺🇸 美股":"🇹🇼 台股"; }
 applyMkt();
