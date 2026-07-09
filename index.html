@@ -1940,7 +1940,7 @@ function stopGoldMusic() { if (_musicTimer) { clearTimeout(_musicTimer); _musicT
 
 // ── 中國風：合成古風背景樂（五聲音階古琴 + 迴音,Web Audio,零依賴)──
 let _cnTimer = null, _cnStep = 0, _cnNext = 0, _cnGain = null, _cnNoise = null;
-const _CN_STEP = 60 / 66 / 2; // 66 BPM 的 8 分音符
+const _CN_STEP = 60 / 96 / 2; // 96 BPM 的 8 分音符(熱鬧)
 // C 大調五聲音階(宮商角徵羽)旋律,MIDI
 const _CN_MEL = [
   69, 67, 64, 67, 72, 69, 67, 64, 62, 64, 67, 69, 67, 64, 62, 60,
@@ -1948,14 +1948,28 @@ const _CN_MEL = [
 ];
 function _cnGraph(ctx) {
   if (_cnGain) return;
-  _cnGain = ctx.createGain(); _cnGain.gain.value = 0.6;
-  const dl = ctx.createDelay(); dl.delayTime.value = 0.34;
-  const fb = ctx.createGain(); fb.gain.value = 0.3;
-  const wet = ctx.createGain(); wet.gain.value = 0.5;
-  _cnGain.connect(ctx.destination);
-  _cnGain.connect(dl); dl.connect(fb); fb.connect(dl); dl.connect(wet); wet.connect(ctx.destination);
+  _cnGain = ctx.createGain(); _cnGain.gain.value = 1.5;        // 推大聲
+  const comp = ctx.createDynamicsCompressor();                 // 壓縮 → 很吵
+  comp.threshold.value = -22; comp.ratio.value = 12; comp.attack.value = 0.002; comp.release.value = 0.12;
+  const out = ctx.createGain(); out.gain.value = 1.3;
+  const dl = ctx.createDelay(); dl.delayTime.value = 0.26;
+  const fb = ctx.createGain(); fb.gain.value = 0.22;
+  const wet = ctx.createGain(); wet.gain.value = 0.3;
+  _cnGain.connect(comp); comp.connect(out); out.connect(ctx.destination);
+  _cnGain.connect(dl); dl.connect(fb); fb.connect(dl); dl.connect(wet); wet.connect(comp);
   const n = Math.floor(ctx.sampleRate * 0.6); _cnNoise = ctx.createBuffer(1, n, ctx.sampleRate);
   const d = _cnNoise.getChannelData(0); for (let i = 0; i < n; i++) d[i] = Math.random() * 2 - 1;
+}
+// 鑼:金屬泛音 + 沙沙餘韻,句首敲一記
+function _gong(ctx, t) {
+  const g = ctx.createGain(); g.gain.setValueAtTime(1.0, t); g.gain.exponentialRampToValueAtTime(0.001, t + 1.6); g.connect(_cnGain);
+  [1, 1.48, 1.97, 2.44, 3.15].forEach((r, i) => { const o = ctx.createOscillator(); o.type = "sine"; o.frequency.value = 175 * r; const og = ctx.createGain(); og.gain.value = 0.5 / (i + 1); o.connect(og); og.connect(g); o.start(t); o.stop(t + 1.7); });
+  if (_cnNoise) { const nb = ctx.createBufferSource(); nb.buffer = _cnNoise; const bp = ctx.createBiquadFilter(); bp.type = "bandpass"; bp.frequency.value = 1300; bp.Q.value = 0.5; const ng = ctx.createGain(); ng.gain.setValueAtTime(0.45, t); ng.gain.exponentialRampToValueAtTime(0.001, t + 1.1); nb.connect(bp); bp.connect(ng); ng.connect(g); nb.start(t); nb.stop(t + 1.2); }
+}
+// 鈸(鑔):明亮金屬碎裂,反拍敲
+function _bo(ctx, t) {
+  if (!_cnNoise) return;
+  const nb = ctx.createBufferSource(); nb.buffer = _cnNoise; const hp = ctx.createBiquadFilter(); hp.type = "highpass"; hp.frequency.value = 4200; const g = ctx.createGain(); g.gain.setValueAtTime(0.5, t); g.gain.exponentialRampToValueAtTime(0.001, t + 0.32); nb.connect(hp); hp.connect(g); g.connect(_cnGain); nb.start(t); nb.stop(t + 0.36);
 }
 // 古箏:明亮快撥弦
 function _guzheng(ctx, t, freq) {
@@ -2000,17 +2014,20 @@ function _guqin(ctx, t, freq) {
 }
 function _cnDrum(ctx, t) {
   const o = ctx.createOscillator(), g = ctx.createGain();
-  o.type = "sine"; o.frequency.setValueAtTime(92, t); o.frequency.exponentialRampToValueAtTime(48, t + 0.15);
-  g.gain.setValueAtTime(0.6, t); g.gain.exponentialRampToValueAtTime(0.001, t + 0.4);
-  o.connect(g); g.connect(_cnGain); o.start(t); o.stop(t + 0.42);
+  o.type = "sine"; o.frequency.setValueAtTime(150, t); o.frequency.exponentialRampToValueAtTime(46, t + 0.14);
+  g.gain.setValueAtTime(1.1, t); g.gain.exponentialRampToValueAtTime(0.001, t + 0.42);
+  o.connect(g); g.connect(_cnGain); o.start(t); o.stop(t + 0.44);
 }
 function _cnSchedule(ctx, step, t) {
   const i = step % _CN_MEL.length, n = _CN_MEL[i];
-  if (n) _guzheng(ctx, t, _mf(n));                                  // 古箏:主旋律(每 8 分音符)
-  if (n && i % 4 === 0) _erhu(ctx, t, _mf(n - 12), _CN_STEP * 4 * 0.95); // 二胡:低八度長音鋪底
-  if (n && i % 8 === 4) _xiao(ctx, t, _mf(n + 12), _CN_STEP * 3);   // 簫:高八度點綴
-  if (n && i % 16 === 12) _suona(ctx, t, _mf(n), _CN_STEP * 3);     // 嗩吶:句尾響亮點題
-  if (i % 8 === 0) _cnDrum(ctx, t);                                 // 低鼓
+  // 喧天合奏(全中國樂器):嗩吶主奏 + 古箏 + 二胡 + 鑼鼓鈸
+  if (n) _suona(ctx, t, _mf(n), _CN_STEP * 1.4);                    // 嗩吶:高亢主旋律
+  if (n) _guzheng(ctx, t, _mf(n + 12));                             // 古箏:高八度快撥呼應
+  if (n && i % 4 === 0) _erhu(ctx, t, _mf(n - 12), _CN_STEP * 4 * 0.9); // 二胡:長音鋪底
+  if (n && i % 8 === 6) _xiao(ctx, t, _mf(n + 12), _CN_STEP * 2);   // 簫:偶爾點綴
+  if (i % 2 === 0) _cnDrum(ctx, t);                                 // 大鼓:密集
+  if (i % 16 === 0) _gong(ctx, t);                                  // 鑼:每句起
+  if (i % 4 === 2) _bo(ctx, t);                                     // 鈸:反拍
 }
 function _cnLoop() {
   const ctx = _audioCtx; if (!ctx) return;
