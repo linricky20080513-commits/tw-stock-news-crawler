@@ -86,7 +86,22 @@ function dispTitle(n){ return n["title_"+(market==="us"?"en":"zh")] || n.title |
 function dispSummary(n){ return n["summary_"+(market==="us"?"en":"zh")] || n.summary || ""; }
 
 const RISK_TW = ["跌停","暴跌","重挫","崩跌","崩盤","大跌","利空","違約","下市","警示","減資","虧損","踩雷","掏空","訴訟","起訴","裁罰","停牌","下修","破產"];
-function newsRisk(n){ const t=(n.title||"")+" "+(n.summary||""); return RISK_TW.filter(k=>t.includes(k)); }
+// 上漲字詞:句子在講上漲就不算風險(避免漲停股被誤標大跌)
+const UP_WORDS = /漲停|亮燈|大漲|飆|填息|創新高|新高|勁揚|走高|收紅|翻紅|漲逾|反彈|強漲|攻頂|收漲/;
+// 個股風險:只計入「有提到本股、且非在講上漲」的句子裡的風險字
+function stockRisk(code, name, items){
+  const kw = new Set();
+  items.forEach(n=>{
+    const text = stripBoiler(dispTitle(n)) + "。" + stripBoiler(dispSummary(n));
+    splitSentences(text).forEach(s=>{
+      const mention = (name && name.length>=2 && s.includes(name)) || s.includes(code);
+      if(!mention) return;
+      if(UP_WORDS.test(s)) return;               // 這句在講上漲 → 不算風險
+      RISK_TW.forEach(w=>{ if(s.includes(w)) kw.add(w); });
+    });
+  });
+  return kw;
+}
 
 // 去套語
 function stripBoiler(t){
@@ -203,7 +218,7 @@ function render(){
   box.innerHTML = arr.map(g=>{
     const nm=stockName(g.code);
     const dd=dedupe(g.items);
-    const kw=new Set(); g.items.forEach(n=>newsRisk(n).forEach(k=>kw.add(k)));
+    const kw = stockRisk(g.code, nm, g.items);
     const warn = kw.size? `<span class="warn" title="${esc([...kw].join("、"))}">⚠ ${[...kw].slice(0,2).join("、")}</span>`:"";
     const kp=keyPoint(g.code, nm, g.items);
     const kpHTML = kp? `<div class="keypoint"><span class="tag">${kp.ai?"✦ AI 重點":"📝 重點"}</span>${esc(kp.text)}</div>`:"";

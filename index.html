@@ -889,6 +889,28 @@ function riskHits(text) {
   return words.filter(k => t.includes(k));
 }
 function newsRisk(n) { return riskHits((n.title || "") + " " + (n.summary || "")); }
+// 上漲字詞:句子在講上漲就不算風險(避免漲停/大漲的股票被誤標大跌)
+const UP_TW = /漲停|亮燈|大漲|飆|填息|創新高|新高|勁揚|走高|收紅|翻紅|漲逾|反彈|強漲|攻頂|收漲|站上|大買/;
+const UP_US = /surge|soar|rally|jump|gain|rise|rose|higher|record high|climb|beat|upgrade|rebound|outperform/i;
+// 個股專屬風險:只計入「有提到本股、且非在講上漲」的句子裡的風險字
+function stockRiskHits(code, name, items) {
+  const us = state.market === "us";
+  const words = us ? RISK_US : RISK_TW;
+  const up = us ? UP_US : UP_TW;
+  const codeL = String(code).toLowerCase();
+  const kw = new Set();
+  items.forEach(n => {
+    const text = stripBoiler(dispTitle(n)) + "。" + stripBoiler(dispSummary(n));
+    splitSentences(text).forEach(s => {
+      const ss = us ? s.toLowerCase() : s;
+      const mention = (name && name.length >= 2 && s.includes(name)) || ss.includes(codeL);
+      if (!mention) return;
+      if (up.test(s)) return;                 // 這句在講上漲 → 不算風險
+      words.forEach(w => { if (ss.includes(us ? w.toLowerCase() : w)) kw.add(w); });
+    });
+  });
+  return kw;
+}
 
 // 依目前語言取標題／摘要（沒翻到就退回原文）
 function dispTitle(n) { return n["title_" + state.lang] || n.title || ""; }
@@ -1121,10 +1143,11 @@ function renderTrend() {
 function computeRiskStocks() {
   const map = new Map(); // code -> {code, count, kw:Set}
   ALL.forEach(n => {
-    const hits = newsRisk(n);
-    if (!hits.length) return;
+    if (!newsRisk(n).length) return; // 快速跳過完全沒風險字的新聞
     (n.stocks || []).forEach(s => {
       const c = stockCode(s);
+      const hits = stockRiskHits(c, stockName(c), [n]); // 只算「這則對這支股票本身」的風險
+      if (!hits.size) return;
       let r = map.get(c);
       if (!r) { r = { code: c, count: 0, kw: new Set() }; map.set(c, r); }
       r.count++; hits.forEach(h => r.kw.add(h));
@@ -1537,7 +1560,7 @@ function renderDigestByStock(items, body) {
   const CAP = 30, MAX_DAYS = 4, PER_DAY = 6;
   body.innerHTML = arr.slice(0, CAP).map(g => {
     const nm = stockName(g.code);
-    const kwAll = new Set(); g.items.forEach(n => newsRisk(n).forEach(k => kwAll.add(k)));
+    const kwAll = stockRiskHits(g.code, nm, g.items); // 個股專屬風險(排除大盤新聞誤標)
     const warnHead = kwAll.size ? `<span class="g-warn" title="${esc([...kwAll].join("、"))}">⚠ ${[...kwAll].slice(0, 3).join("、")}</span>` : "";
     const srcs = new Set(); g.items.forEach(i => { if (i.source) srcs.add(i.source); });
     // 依「日」分組(新到舊)
