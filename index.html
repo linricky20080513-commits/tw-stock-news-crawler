@@ -1979,7 +1979,7 @@ function stopGoldMusic() { if (_musicTimer) { clearTimeout(_musicTimer); _musicT
 
 // ── 中國風：合成古風背景樂（五聲音階古琴 + 迴音,Web Audio,零依賴)──
 let _cnTimer = null, _cnStep = 0, _cnNext = 0, _cnGain = null, _cnNoise = null;
-const _CN_STEP = 60 / 132 / 2; // 132 BPM 的 8 分音符(狂)
+const _CN_STEP = 60 / 264 / 2; // 264 BPM 雙倍速(超級狂)
 // C 大調五聲音階(宮商角徵羽)旋律,MIDI
 const _CN_MEL = [
   69, 67, 64, 67, 72, 69, 67, 64, 62, 64, 67, 69, 67, 64, 62, 60,
@@ -1987,13 +1987,13 @@ const _CN_MEL = [
 ];
 function _cnGraph(ctx) {
   if (_cnGain) return;
-  _cnGain = ctx.createGain(); _cnGain.gain.value = 6.0;        // 爆推過載
-  const shaper = ctx.createWaveShaper(); shaper.curve = _distCurve(1200); shaper.oversample = "4x"; // 超重失真
-  const clip = ctx.createWaveShaper();                          // 硬切 → 破音
-  { const n = 1024, c = new Float32Array(n); for (let k = 0; k < n; k++) { const x = k * 2 / n - 1; c[k] = Math.max(-1, Math.min(1, x * 5)); } clip.curve = c; }
+  _cnGain = ctx.createGain(); _cnGain.gain.value = 8.0;        // 爆推過載
+  const shaper = ctx.createWaveShaper(); shaper.curve = _distCurve(2000); shaper.oversample = "4x"; // 超重失真
+  const clip = ctx.createWaveShaper();                          // 硬切 → 破音(更狠)
+  { const n = 1024, c = new Float32Array(n); for (let k = 0; k < n; k++) { const x = k * 2 / n - 1; c[k] = Math.max(-1, Math.min(1, x * 8)); } clip.curve = c; }
   const comp = ctx.createDynamicsCompressor();                 // 磚牆壓縮 → 音爆
-  comp.threshold.value = -40; comp.ratio.value = 20; comp.attack.value = 0.0003; comp.release.value = 0.07;
-  const out = ctx.createGain(); out.gain.value = 2.0;
+  comp.threshold.value = -46; comp.ratio.value = 20; comp.attack.value = 0.0002; comp.release.value = 0.06;
+  const out = ctx.createGain(); out.gain.value = 2.4;
   const dl = ctx.createDelay(); dl.delayTime.value = 0.24;
   const fb = ctx.createGain(); fb.gain.value = 0.24;
   const wet = ctx.createGain(); wet.gain.value = 0.3;
@@ -2030,6 +2030,8 @@ function _riser(ctx, t, dur) {
   const g = ctx.createGain(); g.gain.setValueAtTime(0.04, t); g.gain.linearRampToValueAtTime(0.6, t + dur); g.gain.linearRampToValueAtTime(0.001, t + dur + 0.04);
   nb.connect(bp); bp.connect(g); g.connect(_cnGain); nb.start(t); nb.stop(t + dur + 0.06);
 }
+// 連環爆:一句砸下三連發
+function _boomChain(ctx, t) { _boom(ctx, t); _boom(ctx, t + _CN_STEP * 0.34); _boom(ctx, t + _CN_STEP * 0.68); }
 // 古箏:明亮快撥弦
 function _guzheng(ctx, t, freq) {
   const o = ctx.createOscillator(), o2 = ctx.createOscillator(), g = ctx.createGain(), f = ctx.createBiquadFilter();
@@ -2079,16 +2081,19 @@ function _cnDrum(ctx, t) {
 }
 function _cnSchedule(ctx, step, t) {
   const i = step % _CN_MEL.length, n = _CN_MEL[i];
-  // 喧天狂奏(全中國樂器 + 破音音爆):嗩吶主奏 + 古箏 + 二胡 + 鑼鼓鈸 + 巨鼓 riser
-  if (n) _suona(ctx, t, _mf(n), _CN_STEP * 1.4);                    // 嗩吶:高亢主旋律
-  if (n) _suona(ctx, t, _mf(n + 12), _CN_STEP * 0.9);              // 嗩吶:疊高八度 → 更尖
+  // 超級狂(全中國樂器 + 破音音爆連環):三嗩吶 + 古箏 + 二胡 + 簫 + 鑼鼓鈸 + 連環巨鼓
+  if (n) _suona(ctx, t, _mf(n), _CN_STEP * 1.4);                    // 嗩吶①
+  if (n) _suona(ctx, t, _mf(n + 12), _CN_STEP * 0.9);             // 嗩吶②:高八度
+  if (n) _suona(ctx, t, _mf(n + 19), _CN_STEP * 0.7);            // 嗩吶③:再高十二度 → 三嗩吶齊鳴
   if (n) _guzheng(ctx, t, _mf(n + 12));                             // 古箏:高八度快撥
   if (n && i % 4 === 0) _erhu(ctx, t, _mf(n - 12), _CN_STEP * 4 * 0.9); // 二胡:長音鋪底
+  if (n && i % 2 === 0) _xiao(ctx, t, _mf(n + 24), _CN_STEP * 1.5); // 簫:加倍、更高
   _cnDrum(ctx, t);                                                  // 大鼓:每步
-  if (i % 4 === 0) _gong(ctx, t);                                   // 鑼:更密
   _bo(ctx, t);                                                      // 鈸:每步狂敲
-  if (i % 8 === 0) _boom(ctx, t);                                   // 音爆:每句砸下
-  if (i % 8 === 5) _riser(ctx, t, _CN_STEP * 3);                    // riser 拉升衝進音爆
+  if (i % 2 === 0) _gong(ctx, t);                                   // 鑼:每拍
+  if (i % 2 === 0) _boom(ctx, t);                                   // 音爆:每拍砸下
+  if (i % 8 === 0) _boomChain(ctx, t);                             // 連環爆:三連發
+  if (i % 8 === 6) _riser(ctx, t, _CN_STEP * 2);                    // riser 衝進音爆
 }
 function _cnLoop() {
   const ctx = _audioCtx; if (!ctx) return;
