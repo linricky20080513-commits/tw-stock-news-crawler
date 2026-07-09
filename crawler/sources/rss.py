@@ -17,6 +17,9 @@ import feedparser
 
 from ..models import NewsItem, TZ_TAIPEI
 
+# 用瀏覽器 UA,部分站台會擋預設的 feedparser UA
+_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+
 
 def _parse_date(entry) -> datetime | None:
     """盡力從 RSS entry 解析出帶時區的發布時間。
@@ -26,7 +29,10 @@ def _parse_date(entry) -> datetime | None:
     """
     tm = getattr(entry, "published_parsed", None) or getattr(entry, "updated_parsed", None)
     if tm:
-        return datetime.fromtimestamp(mktime(tm)).astimezone(TZ_TAIPEI)
+        try:
+            return datetime.fromtimestamp(mktime(tm)).astimezone(TZ_TAIPEI)
+        except (ValueError, OverflowError, OSError):
+            pass  # 時間超出範圍 → 退而用下方字串解析
 
     raw = entry.get("published") or entry.get("updated") or ""
     if not raw:
@@ -49,7 +55,7 @@ class RSSSource:
         self.limit = limit
 
     def fetch(self) -> list[NewsItem]:
-        feed = feedparser.parse(self.url)
+        feed = feedparser.parse(self.url, agent=_UA)
 
         items: list[NewsItem] = []
         for entry in feed.entries[: self.limit]:
@@ -67,39 +73,106 @@ class RSSSource:
         return items
 
 
-class CnaSource(RSSSource):
+# 從台股新聞文字抓股號:名稱（2330）、(2330)、（2330-TW） 等格式
+_TW_CODE_RE = re.compile(
+    r"[一-龥][（(]\s*(\d{4,6})(?:\s*[-‑]?\s*TW)?\s*[）)]"
+    r"|[（(]\s*(\d{4,6})\s*[-‑]\s*TW\s*[）)]"
+)
+
+
+class TWRSSSource(RSSSource):
+    """台股 RSS 來源:沿用通用 RSS,額外從標題/摘要解析台股股號填入 stocks。"""
+
+    def fetch(self) -> list[NewsItem]:
+        items = super().fetch()
+        for it in items:
+            text = f"{it.title} {it.summary}"
+            codes: list[str] = []
+            for m in _TW_CODE_RE.finditer(text):
+                c = m.group(1) or m.group(2)
+                if c and c not in codes:
+                    codes.append(c)
+            it.stocks = codes
+        return items
+
+
+class CnaSource(TWRSSSource):
     """中央社財經新聞。"""
 
     def __init__(self, limit: int = 30):
         super().__init__("中央社", "https://feeds.feedburner.com/rsscna/finance", limit)
 
 
-class EttodaySource(RSSSource):
+class EttodaySource(TWRSSSource):
     """ETtoday 財經新聞。"""
 
     def __init__(self, limit: int = 30):
         super().__init__("ETtoday", "https://feeds.feedburner.com/ettoday/finance", limit)
 
 
-class LtnSource(RSSSource):
+class LtnSource(TWRSSSource):
     """自由財經 (自由時報財經) 新聞。"""
 
     def __init__(self, limit: int = 30):
         super().__init__("自由財經", "https://news.ltn.com.tw/rss/business.xml", limit)
 
 
-class UdnMoneySource(RSSSource):
-    """經濟日報。"""
+class UdnMoneySource(TWRSSSource):
+    """經濟日報 (要聞)。"""
 
     def __init__(self, limit: int = 30):
         super().__init__("經濟日報", "https://money.udn.com/rssfeed/news/1001/5590?ch=money", limit)
 
 
-class TechNewsSource(RSSSource):
+class TechNewsSource(TWRSSSource):
     """科技新報 (科技/產業新聞)。"""
 
     def __init__(self, limit: int = 30):
         super().__init__("科技新報", "https://technews.tw/feed/", limit)
+
+
+# ── 新增台股來源 ─────────────────────────────────────
+
+class MirrorFinanceSource(TWRSSSource):
+    """鏡週刊 財經。"""
+
+    def __init__(self, limit: int = 40):
+        super().__init__("鏡週刊財經", "https://www.mirrormedia.mg/rss/finance.xml", limit)
+
+
+class UdnStockSource(TWRSSSource):
+    """經濟日報 股市。"""
+
+    def __init__(self, limit: int = 30):
+        super().__init__("經濟日報股市", "https://money.udn.com/rssfeed/news/1001/5591?ch=money", limit)
+
+
+class UdnMacroSource(TWRSSSource):
+    """經濟日報 產業‧總經。"""
+
+    def __init__(self, limit: int = 30):
+        super().__init__("經濟日報總經", "https://money.udn.com/rssfeed/news/1001/10846?ch=money", limit)
+
+
+class UdnBizSource(TWRSSSource):
+    """聯合新聞網 財經。"""
+
+    def __init__(self, limit: int = 30):
+        super().__init__("聯合財經", "https://udn.com/rssfeed/news/2/6644?ch=news", limit)
+
+
+class YahooTwSource(TWRSSSource):
+    """Yahoo 奇摩股市 / 財經。"""
+
+    def __init__(self, limit: int = 30):
+        super().__init__("Yahoo股市", "https://tw.news.yahoo.com/rss/finance", limit)
+
+
+class FinanceTechNewsSource(TWRSSSource):
+    """財經新報 (科技新報財經站)。"""
+
+    def __init__(self, limit: int = 40):
+        super().__init__("財經新報", "https://finance.technews.tw/feed/", limit)
 
 
 # ── 美股 ──────────────────────────────────────────────

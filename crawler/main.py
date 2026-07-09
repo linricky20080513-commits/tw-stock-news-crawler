@@ -25,6 +25,8 @@ from datetime import datetime
 from .models import NewsItem, TZ_TAIPEI
 from .sources import (
     CnyesSource, CnaSource, EttodaySource, LtnSource, UdnMoneySource, TechNewsSource,
+    MirrorFinanceSource, UdnStockSource, UdnMacroSource, UdnBizSource,
+    YahooTwSource, FinanceTechNewsSource,
     CnbcMarketsSource, CnbcFinanceSource, MarketWatchSource,
     YahooFinanceSource, InvestingSource, NytBusinessSource, WsjMarketsSource,
     CnbcTopSource, CnbcTechSource, BusinessInsiderSource, MotleyFoolSource,
@@ -40,6 +42,12 @@ SOURCE_MAP = {
     "ltn": LtnSource,
     "udn": UdnMoneySource,
     "technews": TechNewsSource,
+    "mirror": MirrorFinanceSource,
+    "udnstock": UdnStockSource,
+    "udnmacro": UdnMacroSource,
+    "udnbiz": UdnBizSource,
+    "yahootw": YahooTwSource,
+    "financetech": FinanceTechNewsSource,
 }
 # 美股來源 (--market us 時使用)
 US_SOURCE_MAP = {
@@ -131,7 +139,8 @@ def main(argv: list[str] | None = None) -> int:
     )
     parser.add_argument(
         "--source", nargs="+", default=["all"],
-        choices=["all", "cnyes", "cna", "ettoday", "ltn", "udn", "technews"],
+        choices=["all", "cnyes", "cna", "ettoday", "ltn", "udn", "technews",
+                 "mirror", "udnstock", "udnmacro", "udnbiz", "yahootw", "financetech"],
         help="台股新聞來源 (預設全部)",
     )
     parser.add_argument("--watch", action="store_true", help="持續輪詢監控模式")

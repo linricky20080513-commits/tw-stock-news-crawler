@@ -11,11 +11,17 @@
 | `cna`     | 中央社   | RSS | 財經新聞 |
 | `ettoday` | ETtoday  | RSS | 財經新聞 |
 | `ltn`     | 自由財經 | RSS | 自由時報財經即時新聞 |
-| `udn`     | 經濟日報 | RSS | 財經新聞 |
+| `udn`     | 經濟日報 (要聞) | RSS | 財經新聞 |
 | `technews`| 科技新報 | RSS | 科技/產業新聞 |
+| `mirror`  | 鏡週刊財經 | RSS | 財經深度/時事 |
+| `udnstock`| 經濟日報 股市 | RSS | 台股盤勢、個股 |
+| `udnmacro`| 經濟日報 總經 | RSS | 產業‧總體經濟 |
+| `udnbiz`  | 聯合財經 | RSS | 聯合新聞網財經 |
+| `yahootw` | Yahoo 股市 | RSS | Yahoo 奇摩股市/財經 |
+| `financetech`| 財經新報 | RSS | 科技新報財經站 |
 | **美股** (`--market us`) | CNBC(市場/財經/頭條/科技)、MarketWatch、Yahoo Finance、Investing.com、NYT Business、WSJ Markets、Business Insider、Motley Fool | RSS | 共 11 個來源,輸出到 `news_us.json` |
 
-> 原本規劃的 Yahoo 股市 RSS 已被官方擋掉 (HTTP 999),故改用中央社與 ETtoday。
+> 台股 RSS 來源會自動從「名稱(股號)」格式擷取股號(如 台積電(2330));部分只寫公司名的來源不一定有股號。
 ## 安裝
 
 需要 Python 3.10+。
