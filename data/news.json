@@ -1,5 +1,310 @@
 [
   {
+    "title": "台股迎8,176億股息活水 鴻海預計發出逾千億元最多",
+    "url": "https://money.udn.com/money/story/5607/9620516",
+    "source": "經濟日報",
+    "summary": "台股量縮整理，市場觀望氣氛轉濃。專家指出，近期進入除權息旺季，包括鴻海、壽險型金控雙雄等派息大戶在內426家上市櫃公司，預計7月底前發放現金股息，合計將挹注台股約8,176億元資金活水，股息再投入將添增多頭動能。",
+    "published_at": "2026-07-11T02:07:18+08:00",
+    "stocks": [
+      "2317"
+    ],
+    "uid": "572c150f1a1efefc662231f103246b84",
+    "title_zh": "台股迎8,176億股息活水 鴻海預計發出逾千億元最多",
+    "summary_zh": "台股量縮整理，市場觀望氣氛轉濃。專家指出，近期進入除權息旺季，包括鴻海、壽險型金控雙雄等派息大戶在內426家上市櫃公司，預計7月底前發放現金股息，合計將挹注台股約8,176億元資金活水，股息再投入將添增多頭動能。",
+    "title_en": "Taiwan stock market welcomes 817.6 billion yuan in dividends, Hon Hai expects to issue the largest dividend of more than 100 billion yuan",
+    "summary_en": "Taiwan stocks shrank and consolidated, and the wait-and-see atmosphere in the market became stronger. Experts pointed out that the ex-rights dividend season has recently entered, and 426 listed OTC companies, including major dividend payers such as Hon Hai and life insurance financial holding companies, are expected to distribute cash dividends before the end of July, which will inject a total of approximately 817.6 billion yuan of capital into Taiwan stocks. Reinvestment of dividends will increase bullish momentum."
+  },
+  {
+    "title": "SCFI運價指數周跌4.3%",
+    "url": "https://money.udn.com/money/story/5612/9620520",
+    "source": "經濟日報股市",
+    "summary": "最新一期上海出口集裝箱運價指數（SCFI）昨（10）日出爐，美國政府對進口商品課徵10%臨時關稅將於7月24日到期，先前帶動全球供應鏈提前拉貨的「搶運潮」暫告一段落，SCFI在連續十周大漲後首度回檔，指數周跌4.3%，四大主要航線運價同步下滑。",
+    "published_at": "2026-07-11T02:00:45+08:00",
+    "stocks": [],
+    "uid": "3627be734da2b8146edecfd565bfca4b",
+    "title_zh": "SCFI運價指數周跌4.3%",
+    "summary_zh": "最新一期上海出口集裝箱運價指數（SCFI）昨（10）日出爐，美國政府對進口商品課徵10%臨時關稅將於7月24日到期，先前帶動全球供應鏈提前拉貨的「搶運潮」暫告一段落，SCFI在連續十周大漲後首度回檔，指數周跌4.3%，四大主要航線運價同步下滑。",
+    "title_en": "SCFI freight index fell 4.3% on week",
+    "summary_en": "The latest Shanghai Export Container Freight Index (SCFI) was released yesterday (10th). The 10% temporary tariff imposed by the U.S. government on imported goods will expire on July 24. The previous \"rush to ship\" that drove the global supply chain to pull goods in advance has temporarily come to an end. The SCFI has retreated for the first time after rising for ten consecutive weeks. The index fell 4.3% on a weekly basis, and freight rates on the four major routes fell simultaneously."
+  },
+  {
+    "title": "股海自由行／AI三大領域 催動下波成長",
+    "url": "https://money.udn.com/money/story/8543/9620604",
+    "source": "經濟日報",
+    "summary": "近期人工智慧（AI）基礎建設相關族群明顯震盪，從GPU、ASIC、AI伺服器，到散熱、資料中心供應鏈都承受修正壓力。市場擔心的焦點主要集中在三件事：Meta計畫對外出租AI算力、H100租賃價格持續下滑，以及超大型營運商（Hyperscaler）大舉投入AI資本支出，是否已經超前實際需求。",
+    "published_at": "2026-07-11T01:57:10+08:00",
+    "stocks": [],
+    "uid": "b56a8891f314fcb3786fdac8e8ca31ce",
+    "title_zh": "股海自由行／AI三大領域 催動下波成長",
+    "summary_zh": "近期人工智慧（AI）基礎建設相關族群明顯震盪，從GPU、ASIC、AI伺服器，到散熱、資料中心供應鏈都承受修正壓力。市場擔心的焦點主要集中在三件事：Meta計畫對外出租AI算力、H100租賃價格持續下滑，以及超大型營運商（Hyperscaler）大舉投入AI資本支出，是否已經超前實際需求。",
+    "title_en": "Free travel in the stock market/Three major areas of AI to drive the next wave of growth",
+    "summary_en": "Recently, groups related to artificial intelligence (AI) infrastructure have been significantly shaken. From GPUs, ASICs, AI servers, to cooling and data center supply chains, they are all under pressure to correct. The market's concerns are mainly focused on three things: Meta's plan to rent out AI computing power, the continued decline in H100 rental prices, and whether hyperscalers have invested heavily in AI capital expenditures ahead of actual demand."
+  },
+  {
+    "title": "南亞科明年資本支出2,000億 應對先進製程及客製化記憶體需求",
+    "url": "https://money.udn.com/money/story/5612/9620590",
+    "source": "經濟日報股市",
+    "summary": "南亞科看好AI帶動記憶體產業進入新一波成長循環，啟動大規模投資布局。南亞科總經理李培瑛昨（10）日表示，因應新廠建置、先進製程及客製化記憶體需求，今年資本支出預估達500多億元，明年內部初步規劃進一步拉升至逾2,000億元。",
+    "published_at": "2026-07-11T01:56:15+08:00",
+    "stocks": [],
+    "uid": "d3e8fa1100fef49e6493069033dcdf9c",
+    "title_zh": "南亞科明年資本支出2,000億 應對先進製程及客製化記憶體需求",
+    "summary_zh": "南亞科看好AI帶動記憶體產業進入新一波成長循環，啟動大規模投資布局。南亞科總經理李培瑛昨（10）日表示，因應新廠建置、先進製程及客製化記憶體需求，今年資本支出預估達500多億元，明年內部初步規劃進一步拉升至逾2,000億元。",
+    "title_en": "Nanya plans to spend RMB 200 billion in capital expenditure next year to meet demand for advanced manufacturing processes and customized memory",
+    "summary_en": "Nanya is optimistic that AI will drive the memory industry into a new growth cycle and launch a large-scale investment layout. Li Peiying, general manager of Nanya, said yesterday (10th) that in response to the demand for new factory construction, advanced processes and customized memory, capital expenditures this year are estimated to reach more than 50 billion yuan, and preliminary internal plans for next year will further increase to more than 200 billion yuan."
+  },
+  {
+    "title": "南亞科Q2毛利率79% EPS 14.66元",
+    "url": "https://money.udn.com/money/story/5612/9620595",
+    "source": "經濟日報股市",
+    "summary": "DRAM大廠南亞科昨（10）日公告今年第2季財報，受惠記憶體產業價量齊揚、DRAM平均售價季增逾60%，單季毛利率一舉衝上79.5%，創新高，較首季大增11.6個百分點，稅後純益501.92億元，季增92.6%，並較去年同期轉盈，改寫新猷，每股純益（EPS）14.66元。",
+    "published_at": "2026-07-11T01:54:04+08:00",
+    "stocks": [],
+    "uid": "476160a0d062d0f3fac7093db310f28f",
+    "title_zh": "南亞科Q2毛利率79% EPS 14.66元",
+    "summary_zh": "DRAM大廠南亞科昨（10）日公告今年第2季財報，受惠記憶體產業價量齊揚、DRAM平均售價季增逾60%，單季毛利率一舉衝上79.5%，創新高，較首季大增11.6個百分點，稅後純益501.92億元，季增92.6%，並較去年同期轉盈，改寫新猷，每股純益（EPS）14.66元。",
+    "title_en": "Nanya's Q2 gross profit margin is 79%, EPS is 14.66 yuan",
+    "summary_en": "DRAM giant Nanya announced its second quarter financial results yesterday (10th). Benefiting from the rising prices and volumes of the memory industry, the average selling price of DRAM increased by more than 60% quarter-to-quarter. The single-quarter gross profit margin shot up to 79.5%, a record high. A new high, a significant increase of 11.6 percentage points from the first quarter. Net profit after tax was 50.192 billion yuan, a quarterly increase of 92.6%. It turned profit compared with the same period last year, rewriting the new record, with net profit per share (EPS) of 14.66 yuan."
+  },
+  {
+    "title": "聯發科上季營收 超越高標 智慧邊緣平台成長強勁、手機晶片出貨佳是主因",
+    "url": "https://money.udn.com/money/story/5612/9620612",
+    "source": "經濟日報股市",
+    "summary": "IC設計大廠聯發科昨（10）日公布今年6月合併營收580.12億元，月增22.3%、年增2.8%，推升第2季合併營收達1,521.83億元，季增2.03%、年增1.21%，不僅優於公司原先預估，更突破財測高標，為五季來最佳。",
+    "published_at": "2026-07-11T01:53:20+08:00",
+    "stocks": [
+      "2454"
+    ],
+    "uid": "cbfa015c435d25fef7b49c084f21183d",
+    "title_zh": "聯發科上季營收 超越高標 智慧邊緣平台成長強勁、手機晶片出貨佳是主因",
+    "summary_zh": "IC設計大廠聯發科昨（10）日公布今年6月合併營收580.12億元，月增22.3%、年增2.8%，推升第2季合併營收達1,521.83億元，季增2.03%、年增1.21%，不僅優於公司原先預估，更突破財測高標，為五季來最佳。",
+    "title_en": "MediaTek's revenue in the last quarter exceeded high targets, mainly due to strong growth in smart edge platforms and good mobile phone chip shipments",
+    "summary_en": "MediaTek, a major IC design company, announced yesterday (10th) that its consolidated revenue in June this year was 58.012 billion yuan, a monthly increase of 22.3% and an annual increase of 2.8%. It pushed the consolidated revenue in the second quarter to 152.183 billion yuan, a quarterly increase of 2.03% and an annual increase of 1.21%. It was not only better than the company's original forecast, but also exceeded the high financial forecast, which was the best in five quarters."
+  },
+  {
+    "title": "聯發科傳延攬晶圓一哥前主管",
+    "url": "https://money.udn.com/money/story/5612/9620608",
+    "source": "經濟日報股市",
+    "summary": "台積電高階主管異動。先進封裝研發大將的資深處長侯上勇6月30日退休， 傳將加入聯發科經營團隊，延續推進台灣在矽光子及共同封裝光學（CPO）光電整合邁向商業化新里程碑。",
+    "published_at": "2026-07-11T01:51:30+08:00",
+    "stocks": [],
+    "uid": "4dcdac657c04dc046bf984f0d1b82d47",
+    "title_zh": "聯發科傳延攬晶圓一哥前主管",
+    "summary_zh": "台積電高階主管異動。先進封裝研發大將的資深處長侯上勇6月30日退休， 傳將加入聯發科經營團隊，延續推進台灣在矽光子及共同封裝光學（CPO）光電整合邁向商業化新里程碑。",
+    "title_en": "MediaTek is rumored to recruit the former director of the No. 1 wafer company",
+    "summary_en": "TSMC’s senior executives have made changes. Hou Shang-yong, senior director of advanced packaging R&D, retired on June 30. It is said that he will join MediaTek's management team to continue to promote Taiwan's silicon photonics and co-packaged optics (CPO) optoelectronics integration to reach a new commercial milestone."
+  },
+  {
+    "title": "台積中科1.4奈米 進度超前",
+    "url": "https://money.udn.com/money/story/5612/9620599",
+    "source": "經濟日報股市",
+    "summary": "中科管理局昨（10）日表示，備受矚目的台積電中科1.4奈米製程新廠建廠進度超前，廠房（FAB）工程陸續完成發包，第一座廠房有望趕在明年4月前完工。供應鏈評估，最快明年第3季初進行試產作業，有機會趕在2028年中實現量產。",
+    "published_at": "2026-07-11T01:51:17+08:00",
+    "stocks": [],
+    "uid": "c774bf26405fc1502eea204fea5d1a7e",
+    "title_zh": "台積中科1.4奈米 進度超前",
+    "summary_zh": "中科管理局昨（10）日表示，備受矚目的台積電中科1.4奈米製程新廠建廠進度超前，廠房（FAB）工程陸續完成發包，第一座廠房有望趕在明年4月前完工。供應鏈評估，最快明年第3季初進行試產作業，有機會趕在2028年中實現量產。",
+    "title_en": "TSMC's 1.4nm technology is ahead of schedule",
+    "summary_en": "The China Science and Technology Management Bureau stated yesterday (10th) that the construction of the much-anticipated TSMC China Science and Technology 1.4nm process new plant is ahead of schedule, and the factory building (FAB) projects have been completed and contracted. The first factory building is expected to be completed by April next year. According to the supply chain assessment, trial production operations will be carried out at the beginning of the third quarter of next year at the earliest, and there is a chance to achieve mass production in mid-2028."
+  },
+  {
+    "title": "統一6月、上半年營收雙高 統一超表現備受期待",
+    "url": "https://money.udn.com/money/story/5612/9620643",
+    "source": "經濟日報股市",
+    "summary": "統一集團營收報喜，受惠旗下轉投資統一中控、統一超及萬家福等流通事業銷售挹注，推升統一企業6月、上半年營收雙創同期新高。統一昨（10）日公布6月合併營收583億元、年增4.6％；上半年累計營收3,499.7億元、年增3.2％。",
+    "published_at": "2026-07-11T01:49:27+08:00",
+    "stocks": [
+      "2912"
+    ],
+    "uid": "72385cd73079582356bf9d79cae5aff1",
+    "title_zh": "統一6月、上半年營收雙高 統一超表現備受期待",
+    "summary_zh": "統一集團營收報喜，受惠旗下轉投資統一中控、統一超及萬家福等流通事業銷售挹注，推升統一企業6月、上半年營收雙創同期新高。統一昨（10）日公布6月合併營收583億元、年增4.6％；上半年累計營收3,499.7億元、年增3.2％。",
+    "title_en": "Uni-President’s revenue in June and the first half of the year was both high, and Uni-President’s super performance is highly anticipated",
+    "summary_en": "Uni-President Group reported good revenue, benefiting from the sales injection from its distribution businesses such as Uni-President Central Control, Uni-President Supermarket and Wanjiafu, which pushed Uni-President's revenue in June and the first half of the year to new highs in the same period. Uni-President announced yesterday (10th) that consolidated revenue in June was 58.3 billion yuan, an annual increase of 4.6%; cumulative revenue in the first half of the year was 349.97 billion yuan, an annual increase of 3.2%."
+  },
+  {
+    "title": "華航高飛 業績年增28%",
+    "url": "https://money.udn.com/money/story/5612/9620644",
+    "source": "經濟日報股市",
+    "summary": "華航昨（10）日公布6月份合併營收，單月表現為217.61億元，較去年同期年增28.8%，持續創下歷年單月新高。其中，客運收入118.19億元，較去年同期成長14.8%；貨運收入80.85億元，較去年同期成長 51.6%。華航第2季合併營收638.45億元，上半年合併營收1,208.03億元，同樣刷新歷年新高。",
+    "published_at": "2026-07-11T01:45:54+08:00",
+    "stocks": [],
+    "uid": "b241474793dc9766ee74182fbe05e627",
+    "title_zh": "華航高飛 業績年增28%",
+    "summary_zh": "華航昨（10）日公布6月份合併營收，單月表現為217.61億元，較去年同期年增28.8%，持續創下歷年單月新高。其中，客運收入118.19億元，較去年同期成長14.8%；貨運收入80.85億元，較去年同期成長 51.6%。華航第2季合併營收638.45億元，上半年合併營收1,208.03億元，同樣刷新歷年新高。",
+    "title_en": "China Airlines flies high, performance increases by 28% year-on-year",
+    "summary_en": "China Airlines announced yesterday (10th) that its consolidated revenue for June was 21.761 billion yuan, an annual increase of 28.8% over the same period last year, continuing to set new monthly highs in the past. Among them, passenger transport revenue was 11.819 billion yuan, an increase of 14.8% over the same period last year; freight revenue was 8.085 billion yuan, an increase of 51.6% over the same period last year. China Airlines' consolidated revenue in the second quarter was 63.845 billion yuan, and consolidated revenue in the first half of the year was 120.803 billion yuan, which also set a new high."
+  },
+  {
+    "title": "中聯風暴擴大 遭無限期停工 食藥署要求還沒改善前不得恢復生產",
+    "url": "https://money.udn.com/money/story/5612/9620646",
+    "source": "經濟日報股市",
+    "summary": "中聯油脂致癌物苯駢芘超標風暴擴大，衛福部食藥署署長姜至剛昨（10）日說明，疑慮油品項從原先的二批號、2,600公噸，再增加一批號，為前一日接獲南僑通報，使用中聯油脂批號315-1150510大豆油，檢出苯駢芘每公斤2.9微克，超過法定上限的2微克。相關下游產品已於昨日中午全數下架，該署要求中聯公司無限期停工。",
+    "published_at": "2026-07-11T01:45:29+08:00",
+    "stocks": [],
+    "uid": "6e1b3a3f10129839adf570c1c1952a16",
+    "title_zh": "中聯風暴擴大 遭無限期停工 食藥署要求還沒改善前不得恢復生產",
+    "summary_zh": "中聯油脂致癌物苯駢芘超標風暴擴大，衛福部食藥署署長姜至剛昨（10）日說明，疑慮油品項從原先的二批號、2,600公噸，再增加一批號，為前一日接獲南僑通報，使用中聯油脂批號315-1150510大豆油，檢出苯駢芘每公斤2.9微克，超過法定上限的2微克。相關下游產品已於昨日中午全數下架，該署要求中聯公司無限期停工。",
+    "title_en": "Zoomlion's storm expands and production is suspended indefinitely. The Food and Drug Administration requires that production not be resumed until improvements are made.",
+    "summary_en": "The storm over the excessive levels of the carcinogen benzene pyrene in Zoomlion Oils and Fats has expanded. Jiang Zhigang, director of the Food and Drug Administration of the Ministry of Health and Welfare, stated yesterday (10th) that the suspected oil item has been increased from the original second batch number of 2,600 metric tons to an additional batch number. This is due to the notification received from Nanqiao the previous day that the soybean oil with batch number 315-1150510 of Zoomlion Oils and Fats was detected. 2.9 micrograms of benzene pyrene per kilogram, exceeding the legal limit of 2 micrograms. All relevant downstream products were removed from the shelves at noon yesterday, and the agency asked China United to suspend operations indefinitely."
+  },
+  {
+    "title": "中聯總座聲押 董座2,000萬交保",
+    "url": "https://money.udn.com/money/story/5612/9620647",
+    "source": "經濟日報股市",
+    "summary": "中聯油脂公司1,300公噸大豆沙拉油驗出一級致癌物「苯駢芘」超標四倍，影響全台食安問題嚴重。台中地檢署昨動員13名檢察官大搜索、漏夜複訊，認定中聯等四間公司涉嫌違反食品安全衛生法、有延遲通報，聲押中聯總經理余凌沖、董事長蔡清松2,000萬元交保。",
+    "published_at": "2026-07-11T01:44:38+08:00",
+    "stocks": [],
+    "uid": "24ff6dae87305e0b3e3c8f454c13047d",
+    "title_zh": "中聯總座聲押 董座2,000萬交保",
+    "summary_zh": "中聯油脂公司1,300公噸大豆沙拉油驗出一級致癌物「苯駢芘」超標四倍，影響全台食安問題嚴重。台中地檢署昨動員13名檢察官大搜索、漏夜複訊，認定中聯等四間公司涉嫌違反食品安全衛生法、有延遲通報，聲押中聯總經理余凌沖、董事長蔡清松2,000萬元交保。",
+    "title_en": "China United Federation of Trade Unions declares that the chairman of the board of directors posted a bail of RMB 20 million",
+    "summary_en": "1,300 metric tons of soybean salad oil from China United Oil Company were found to be four times higher than the level of the first-level carcinogen \"benzopyrene\", causing serious food safety problems across Taiwan. The Taichung District Prosecutor's Office yesterday mobilized 13 prosecutors to search and hold late-night retrials. They determined that four companies, including Zoomlion, were suspected of violating the Food Safety and Hygiene Law and delaying notifications. They ordered Zoomlion's general manager Yu Lingchong and chairman Cai Qingsong to post bail of NT$20 million."
+  },
+  {
+    "title": "人口年減10萬人 連30月下滑",
+    "url": "https://money.udn.com/money/story/7307/9620648",
+    "source": "經濟日報總經",
+    "summary": "內政部昨（10）日公布最新戶籍統計顯示，台灣人口已連續30個月呈現負成長，截至今年6月底總人口為2,324萬3,565人，較去年同期減少10萬3,176人。除了人口持續下滑，今年上半年新生兒更比去年同期少了9,031人，少子化趨勢持續加劇，也使人口自然減少情況難以改善。",
+    "published_at": "2026-07-11T01:43:09+08:00",
+    "stocks": [],
+    "uid": "16711507f9792afe4cd4389c2bc18b27",
+    "title_zh": "人口年減10萬人 連30月下滑",
+    "summary_zh": "內政部昨（10）日公布最新戶籍統計顯示，台灣人口已連續30個月呈現負成長，截至今年6月底總人口為2,324萬3,565人，較去年同期減少10萬3,176人。除了人口持續下滑，今年上半年新生兒更比去年同期少了9,031人，少子化趨勢持續加劇，也使人口自然減少情況難以改善。",
+    "title_en": "Population decreases by 100,000 annually, declining for 30 consecutive months",
+    "summary_en": "The latest household registration statistics released by the Ministry of Interior yesterday (10th) show that Taiwan's population has shown negative growth for 30 consecutive months. As of the end of June this year, the total population was 23,243,565 people, a decrease of 103,176 people compared with the same period last year. In addition to the continued decline in population, there were 9,031 fewer newborns in the first half of this year than in the same period last year. The trend of low birthrate continues to intensify, making it difficult to improve the natural population decline."
+  },
+  {
+    "title": "前五月實質薪資 六年最佳 主計總處：AI紅利發酵",
+    "url": "https://money.udn.com/money/story/10869/9620649",
+    "source": "經濟日報總經",
+    "summary": "主計總處昨（10）日公布最新薪資統計，前五月全體受僱員工經常性薪資平均數為48,907元，年增2.81%，創下近27年來同月次高；扣除物價因素後，實質經常性薪資平均為44,128元，年增1.27%，也是近六年同期新高，顯示勞工薪資持續穩健成長。",
+    "published_at": "2026-07-11T01:42:56+08:00",
+    "stocks": [],
+    "uid": "ad4f7aad26e78bb1196c8504af71c3bc",
+    "title_zh": "前五月實質薪資 六年最佳 主計總處：AI紅利發酵",
+    "summary_zh": "主計總處昨（10）日公布最新薪資統計，前五月全體受僱員工經常性薪資平均數為48,907元，年增2.81%，創下近27年來同月次高；扣除物價因素後，實質經常性薪資平均為44,128元，年增1.27%，也是近六年同期新高，顯示勞工薪資持續穩健成長。",
+    "title_en": "Real salary in the first five months is the best in six years. Accounting General Office: AI dividend fermentation",
+    "summary_en": "The Accounting and Accounting Office announced the latest salary statistics yesterday (10th). The average regular salary of all employees in the first five months was 48,907 yuan, an annual increase of 2.81%, the second highest in the same month in the past 27 years. After deducting price factors, the real regular salary averaged 44,128 yuan, an annual increase of 1.27%, which was also a new high for the same period in the past six years, indicating that labor wages continued to grow steadily."
+  },
+  {
+    "title": "電子業加班工時上揚",
+    "url": "https://money.udn.com/money/story/10869/9620650",
+    "source": "經濟日報總經",
+    "summary": "AI需求持續挹注製造業生產動能，帶動加班工時維持高檔。主計總處最新統計顯示，5月製造業平均加班工時18.2小時，雖較4月的18.5小時略減，仍寫下近16年來同月新高，也是2010年8月以來單月次高，電子零組件業加班工時更寫下近46年來同月新高，反映製造業接單與生產需求依舊熱絡。",
+    "published_at": "2026-07-11T01:41:34+08:00",
+    "stocks": [],
+    "uid": "6d6dc462074caa122aa3fb6b68328a29",
+    "title_zh": "電子業加班工時上揚",
+    "summary_zh": "AI需求持續挹注製造業生產動能，帶動加班工時維持高檔。主計總處最新統計顯示，5月製造業平均加班工時18.2小時，雖較4月的18.5小時略減，仍寫下近16年來同月新高，也是2010年8月以來單月次高，電子零組件業加班工時更寫下近46年來同月新高，反映製造業接單與生產需求依舊熱絡。",
+    "title_en": "Electronics industry overtime hours increase",
+    "summary_en": "AI demand continues to drive production momentum in the manufacturing industry, driving overtime hours to remain high. The latest statistics from the General Accounting Office show that the average overtime hours in the manufacturing industry in May was 18.2 hours. Although it was slightly lower than the 18.5 hours in April, it still set a new high for the same month in the past 16 years. It was also the second highest in a single month since August 2010. The overtime hours of the electronic components industry set a new high for the same month in the past 46 years, reflecting that the manufacturing industry still has strong demand for orders and production."
+  },
+  {
+    "title": "i18 Pro Max採高容量記憶體 新旗艦iPhone成本估增萬元",
+    "url": "https://money.udn.com/money/story/11162/9620593",
+    "source": "經濟日報股市",
+    "summary": "研究機構出具最新報告，分析指出iPhone 18 Pro Max物料成本（BOM）預估增近300美元（約新台幣9,600元），成本增加主要來自高容量記憶體，以及採用2奈米SoC與先進封裝技術。",
+    "published_at": "2026-07-11T00:53:37+08:00",
+    "stocks": [],
+    "uid": "b6dd03c9de9885d82c6d3244f53916dd",
+    "title_zh": "i18 Pro Max採高容量記憶體 新旗艦iPhone成本估增萬元",
+    "summary_zh": "研究機構出具最新報告，分析指出iPhone 18 Pro Max物料成本（BOM）預估增近300美元（約新台幣9,600元），成本增加主要來自高容量記憶體，以及採用2奈米SoC與先進封裝技術。",
+    "title_en": "i18 Pro Max adopts high-capacity memory, the cost of new flagship iPhone is estimated to increase by 10,000 yuan",
+    "summary_en": "According to a latest report issued by a research institute, the material cost (BOM) of the iPhone 18 Pro Max is expected to increase by nearly US$300 (approximately NT$9,600). The cost increase mainly comes from high-capacity memory, as well as the use of 2nm SoC and advanced packaging technology."
+  },
+  {
+    "title": "緯穎擴產 擬貸款15億美元",
+    "url": "https://money.udn.com/money/story/5612/9620601",
+    "source": "經濟日報股市",
+    "summary": "彭博資訊引述知情人士說法報導，伺服器大廠緯穎目前正與銀行洽談一筆15億美元（約新台幣487億元）的新增貸款。業界猜測，該筆貸款可能是用擴產所用。依據緯穎先前規劃，將在美國增加至少三座新廠，全力衝刺雲端服務大廠（CSP）訂單。",
+    "published_at": "2026-07-11T00:52:17+08:00",
+    "stocks": [],
+    "uid": "c3dafa2bdd6eca5aaf201721195d9614",
+    "title_zh": "緯穎擴產 擬貸款15億美元",
+    "summary_zh": "彭博資訊引述知情人士說法報導，伺服器大廠緯穎目前正與銀行洽談一筆15億美元（約新台幣487億元）的新增貸款。業界猜測，該筆貸款可能是用擴產所用。依據緯穎先前規劃，將在美國增加至少三座新廠，全力衝刺雲端服務大廠（CSP）訂單。",
+    "title_en": "Wiwynn plans to borrow US$1.5 billion to expand production",
+    "summary_en": "Bloomberg News reported, citing people familiar with the matter, that server giant Weiying is currently negotiating with banks for a new loan of US$1.5 billion (approximately NT$48.7 billion). The industry speculates that the loan may be used to expand production. According to Wiwynn's previous plan, it will add at least three new factories in the United States to fully strive for orders from major cloud service providers (CSPs)."
+  },
+  {
+    "title": "機械出口連17月成長",
+    "url": "https://money.udn.com/money/story/5612/9620607",
+    "source": "經濟日報股市",
+    "summary": "台灣機械公會理事長莊大立昨（10）日表示，台灣機械設備6月出口值達31.88億美元（約新台幣1,024.7億元）、年增16.6%，且已連續17個月呈現正成長，樂觀預期全年出口可望超越2022年出口347.8億美元（約新台幣1.1兆元）的歷史最高紀錄，再締新猷。",
+    "published_at": "2026-07-11T00:51:55+08:00",
+    "stocks": [],
+    "uid": "d710142247b5fbb2d14bfeb8e0621e7c",
+    "title_zh": "機械出口連17月成長",
+    "summary_zh": "台灣機械公會理事長莊大立昨（10）日表示，台灣機械設備6月出口值達31.88億美元（約新台幣1,024.7億元）、年增16.6%，且已連續17個月呈現正成長，樂觀預期全年出口可望超越2022年出口347.8億美元（約新台幣1.1兆元）的歷史最高紀錄，再締新猷。",
+    "title_en": "Machinery exports grow for 17th consecutive month",
+    "summary_en": "Zhuang Dali, chairman of the Taiwan Machinery Association, said yesterday (10th) that the export value of Taiwan's machinery and equipment in June reached US$3.188 billion (approximately NT$102.47 billion), an annual increase of 16.6%, and has shown positive growth for 17 consecutive months. It is optimistic that the full-year exports are expected to exceed the historical high of US$34.78 billion (approximately NT$1.1 trillion) in 2022, setting a new record."
+  },
+  {
+    "title": "淡江大橋晚間封閉 來往車輛可改行關渡大橋",
+    "url": "https://money.udn.com/money/story/5648/9620728",
+    "source": "經濟日報總經",
+    "summary": "因應颱風巴威來襲，淡江大橋10日晚間也預警性封閉，往來淡水及八里間車輛，可改行關渡大橋",
+    "published_at": "2026-07-11T00:48:24+08:00",
+    "stocks": [],
+    "uid": "2607a9f38a124444be51d43828889d3c",
+    "title_zh": "淡江大橋晚間封閉 來往車輛可改行關渡大橋",
+    "summary_zh": "因應颱風巴威來襲，淡江大橋10日晚間也預警性封閉，往來淡水及八里間車輛，可改行關渡大橋",
+    "title_en": "Tamjiang Bridge is closed at night. Traffic can be diverted to Guandu Bridge",
+    "summary_en": "In response to the approach of Typhoon Bavi, the Tamkang Bridge was also closed on the evening of the 10th as a warning. Vehicles traveling between Tamsui and Bali can be diverted to the Guandu Bridge."
+  },
+  {
+    "title": "企業生日快樂／凌群跨國AI協作 迎新動能",
+    "url": "https://money.udn.com/money/story/5612/9620654",
+    "source": "經濟日報股市",
+    "summary": "凌群電腦1975年成立，至今屹立超過50年。從最早期代理印表機、繪圖機業務，再歷經電腦系統整合業發展，凌群一路掌握金融證券、電信、醫療及警政等大客戶訂單；AI時代來臨，更將營運延伸到跨國企業市場，在AI、機器人等相關新應用布局逐步開花結果，迎來全新AI成長動能。",
+    "published_at": "2026-07-11T00:46:30+08:00",
+    "stocks": [],
+    "uid": "9a88195b29ce3ddff440136003817349",
+    "title_zh": "企業生日快樂／凌群跨國AI協作 迎新動能",
+    "summary_zh": "凌群電腦1975年成立，至今屹立超過50年。從最早期代理印表機、繪圖機業務，再歷經電腦系統整合業發展，凌群一路掌握金融證券、電信、醫療及警政等大客戶訂單；AI時代來臨，更將營運延伸到跨國企業市場，在AI、機器人等相關新應用布局逐步開花結果，迎來全新AI成長動能。",
+    "title_en": "Happy corporate birthday/Lingqun’s cross-border AI collaboration welcomes new momentum",
+    "summary_en": "Lingqun Computer was established in 1975 and has been standing for more than 50 years. From the earliest days of being an agent for printers and plotters, and then through the development of the computer system integration industry, Lingqun has mastered orders from major customers such as financial securities, telecommunications, medical and police services. With the advent of the AI ​​era, Lingqun has extended its operations to the multinational corporate market, and has gradually blossomed in the layout of new applications related to AI, robots, etc., ushering in new AI growth momentum."
+  },
+  {
+    "title": "企業生日快樂／凌群累積研發經驗值 組團打進世界盃",
+    "url": "https://money.udn.com/money/story/5612/9620655",
+    "source": "經濟日報股市",
+    "summary": "凌群電腦經歷全球科技產業數次重大變革，現在也累積好AI研發能量，準備好進軍AI新市場商機，以下是凌群電腦總經理劉瑞隆的訪談紀要：",
+    "published_at": "2026-07-11T00:44:53+08:00",
+    "stocks": [],
+    "uid": "fad44969cd80622dbecc33c1bc86cc9e",
+    "title_zh": "企業生日快樂／凌群累積研發經驗值 組團打進世界盃",
+    "summary_zh": "凌群電腦經歷全球科技產業數次重大變革，現在也累積好AI研發能量，準備好進軍AI新市場商機，以下是凌群電腦總經理劉瑞隆的訪談紀要：",
+    "title_en": "Happy corporate birthday/Lingqun accumulates R&D experience points and forms a team to enter the World Cup",
+    "summary_en": "Lingqun Computer has experienced several major changes in the global technology industry, and now it has accumulated AI R&D energy and is ready to enter new AI market opportunities. The following is an interview summary with Liu Ruilong, General Manager of Lingqun Computer:"
+  },
+  {
+    "title": "企業生日快樂／凌群總座領軍 機器人攻日",
+    "url": "https://money.udn.com/money/story/5612/9620656",
+    "source": "經濟日報股市",
+    "summary": "凌群電腦今年正式跨入成立51周年，重要領航舵手之一是總經理劉瑞隆，他也是公司推動持續轉型的關鍵人物，面對AI應用時代全面到來，劉瑞隆也規畫未來藍圖，讓凌群在AI藍海擁商機。",
+    "published_at": "2026-07-11T00:44:47+08:00",
+    "stocks": [],
+    "uid": "7bc52bde754584e4c0ae267c551337b5",
+    "title_zh": "企業生日快樂／凌群總座領軍 機器人攻日",
+    "summary_zh": "凌群電腦今年正式跨入成立51周年，重要領航舵手之一是總經理劉瑞隆，他也是公司推動持續轉型的關鍵人物，面對AI應用時代全面到來，劉瑞隆也規畫未來藍圖，讓凌群在AI藍海擁商機。",
+    "title_en": "Happy birthday to the company/Lingqun leads the robot attack on the sun",
+    "summary_en": "Lingqun Computer officially enters its 51st anniversary this year. One of the important leaders is General Manager Liu Ruilong. He is also a key figure in promoting the company's continuous transformation. Facing the advent of the AI ​​application era, Liu Ruilong also plans a future blueprint for Lingqun to have business opportunities in the AI ​​blue ocean."
+  },
+  {
+    "title": "颱風巴威速度穩定往西北移動　外圍環流帶來雨勢",
+    "url": "https://money.udn.com/money/story/5648/9620722",
+    "source": "經濟日報總經",
+    "summary": "颱風巴威襲台，氣象署表示，巴威速度穩定朝西北方向移動，目前外圍環流已經為苗栗以北地區帶來間歇性雨勢，預計11日凌晨暴風圈...",
+    "published_at": "2026-07-11T00:39:23+08:00",
+    "stocks": [],
+    "uid": "6bc71df51435a4db61d00aef6ed83459",
+    "title_zh": "颱風巴威速度穩定往西北移動　外圍環流帶來雨勢",
+    "summary_zh": "颱風巴威襲台，氣象署表示，巴威速度穩定朝西北方向移動，目前外圍環流已經為苗栗以北地區帶來間歇性雨勢，預計11日凌晨暴風圈...",
+    "title_en": "Typhoon Bavi moves steadily to the northwest, and the outer circulation brings rain",
+    "summary_en": "Typhoon Bavi hits the typhoon. The Meteorological Administration said that Bavi is moving steadily towards the northwest. The current peripheral circulation has brought intermittent rain to the north of Miaoli. The storm circle is expected to be in the early morning of the 11th..."
+  },
+  {
     "title": "449億！京元電赴美設廠 同步設立孫公司",
     "url": "https://money.udn.com/money/story/5710/9620341",
     "source": "經濟日報",
@@ -377,7 +682,11 @@
     "stocks": [
       "2317"
     ],
-    "uid": "d13477c872d977e8446d85e25dc40165"
+    "uid": "d13477c872d977e8446d85e25dc40165",
+    "title_zh": "鴻海突發重訊！劉憶如辭任法人董事　公司親曝原因",
+    "summary_zh": "<p>鴻海（2317）10日晚間發布重大訊息公告，法人董事代表人劉憶如辭任董事職務。公司表示，此次人事調整並非營運因素，而是配合董事會整體規劃，目的在維持「獨立董事過半」的公司治理制度。</p>",
+    "title_en": "Breaking news from Hon Hai! Liu Yiru resigned as corporate director; the company revealed the reasons",
+    "summary_en": "<p>Hon Hai (2317) issued a major news announcement on the evening of the 10th. Liu Yiru, the legal person director representative, resigned as a director. The company stated that this personnel adjustment is not due to operational factors, but is in line with the overall planning of the board of directors, with the purpose of maintaining the corporate governance system of \"more than half of independent directors\". </p>"
   },
   {
     "title": "北市颱風假惹議　柯文哲：相信制度不要相信個人",
@@ -386,7 +695,11 @@
     "summary": "颱風巴威逼近，台北市府決定今天停班停課，引發質疑。前台北市長柯文哲今天表示，「要相信制度，不要相信個人」，遵守SOP、願...",
     "published_at": "2026-07-10T22:45:25+08:00",
     "stocks": [],
-    "uid": "68b01e09dba0d36b6681d9c4a20d433a"
+    "uid": "68b01e09dba0d36b6681d9c4a20d433a",
+    "title_zh": "北市颱風假惹議　柯文哲：相信制度不要相信個人",
+    "summary_zh": "颱風巴威逼近，台北市府決定今天停班停課，引發質疑。前台北市長柯文哲今天表示，「要相信制度，不要相信個人」，遵守SOP、願...",
+    "title_en": "Bei City typhoon fake stirs up controversy Ke Wenzhe: Believe in the system rather than individuals",
+    "summary_en": "As Typhoon Bavi approaches, the Taipei City Government's decision to suspend classes today has raised questions. Former Taipei Mayor Ko Wenzhe said today, \"Believe in the system, not individuals.\" He will abide by the SOP and be willing to..."
   },
   {
     "title": "台糖：沙拉油檢驗合格　配合政策預防性下架",
@@ -1664,6 +1977,15 @@
     "uid": "9bff263ceab14d4e7c0fdb86862f6b57"
   },
   {
+    "title": "這檔精選30只金融創新股！虛擬資產法規元年　小資急卡位",
+    "url": "https://tw.news.yahoo.com/%E9%80%99%E6%AA%94%E7%B2%BE%E9%81%B830%E5%8F%AA%E9%87%91%E8%9E%8D%E5%89%B5%E6%96%B0%E8%82%A1-%E8%99%9B%E6%93%AC%E8%B3%87%E7%94%A2%E6%B3%95%E8%A6%8F%E5%85%83%E5%B9%B4-%E5%B0%8F%E8%B3%87%E6%80%A5%E5%8D%A1%E4%BD%8D-174500455.html",
+    "source": "Yahoo股市",
+    "summary": "隨著各國監理制度逐步完善，穩定幣正從加密貨幣市場走向主流金融應用，成為全球金融創新的重要發展方向。立法院6月30日三讀通過《虛擬資產服務法》，正式建立我國虛擬資產服務及穩定幣發行管理制度，象徵台灣數位金融監理邁入新里程碑，也宣告台灣正式邁向虛擬資產法規元年。",
+    "published_at": "2026-07-10T17:45:00+08:00",
+    "stocks": [],
+    "uid": "40e649b9a91aa2375dc7e6693529dfdd"
+  },
+  {
     "title": "不斷更新／巴威颱風來襲！11日這些縣市停班停課 全台颱風假資訊一次看",
     "url": "https://money.udn.com/money/story/122328/9620149",
     "source": "經濟日報總經",
@@ -1736,6 +2058,17 @@
     "published_at": "2026-07-10T17:33:25+08:00",
     "stocks": [],
     "uid": "8737acdcccc0d957d1ede4cd5a26d1b3"
+  },
+  {
+    "title": "AI全面擴散太瘋　這6檔今年來全數翻倍！",
+    "url": "https://tw.news.yahoo.com/ai%E5%85%A8%E9%9D%A2%E6%93%B4%E6%95%A3%E5%A4%AA%E7%98%8B-%E9%80%996%E6%AA%94%E4%BB%8A%E5%B9%B4%E4%BE%86%E5%85%A8%E6%95%B8%E7%BF%BB%E5%80%8D-172700371.html",
+    "source": "Yahoo股市",
+    "summary": "國內半導體ETF今年以來含息報酬率檔檔破百，漲幅翻倍增。投信法人表示，台半導體股強勢翻身，晶圓代工供需緊俏、成熟製程漲聲響起，IC設計業漲價訊號浮現，凸顯半導體資金行情仍未退潮，建議投資人宜掌握半導體ETF，透過一籃子持股完整囊括上中下游利基題材行情。",
+    "published_at": "2026-07-10T17:27:00+08:00",
+    "stocks": [
+      "5425"
+    ],
+    "uid": "c1c863595e4dd3d37926a5849a2d1ded"
   },
   {
     "title": "實質經常性薪資前5月年增1.27%　創6年最大漲幅",
@@ -1960,6 +2293,17 @@
     "uid": "109c7f013c9b2fefb65859857ef18d02"
   },
   {
+    "title": "快訊／晶片股疲軟！Meta逆勢飆漲6%　台積電ADR、美光皆跌",
+    "url": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E6%99%B6%E7%89%87%E8%82%A1%E7%96%B2%E8%BB%9F-meta%E9%80%86%E5%8B%A2%E9%A3%86%E6%BC%B26-%E5%8F%B0%E7%A9%8D%E9%9B%BBadr-%E7%BE%8E%E5%85%89%E7%9A%86%E8%B7%8C-164400185.html",
+    "source": "Yahoo股市",
+    "summary": "市場正關注SK海力士的那斯達克上市，加上中東局勢現轉機，美股週五四大指數表現平穩，美光科技股價下跌超過2%，Meta股價逆勢大漲6%，截稿前，四指暫小漲，台指期夜盤則飆漲600點。",
+    "published_at": "2026-07-10T16:44:00+08:00",
+    "stocks": [
+      "2330"
+    ],
+    "uid": "7a939e6a97849496555de30dd6b405b2"
+  },
+  {
     "title": "中科23週年慶 今年拚營業額挑戰1.2兆創新高",
     "url": "https://ec.ltn.com.tw/article/breakingnews/5500888",
     "source": "自由財經",
@@ -1987,6 +2331,17 @@
       "7738"
     ],
     "uid": "1f7ec0310aa7c37eb4e55e8c376eaca2"
+  },
+  {
+    "title": "鴻海董事會再異動 劉憶如辭任法人董事",
+    "url": "https://tw.news.yahoo.com/%E9%B4%BB%E6%B5%B7%E8%91%A3%E4%BA%8B%E6%9C%83%E5%86%8D%E7%95%B0%E5%8B%95-%E5%8A%89%E6%86%B6%E5%A6%82%E8%BE%AD%E4%BB%BB%E6%B3%95%E4%BA%BA%E8%91%A3%E4%BA%8B-163121066.html",
+    "source": "Yahoo股市",
+    "summary": "鴻海（2317）董事會再現人事異動。鴻海10日晚間公告，法人董事鴻景國際因「整體規劃考量」，辭任由劉憶如擔任法人代表人的董事職務。不過，鴻景國際投資仍保留另一席董事席次，由原法人代表人繼續擔任，因此法人董事資格並未退出董事會。",
+    "published_at": "2026-07-10T16:31:21+08:00",
+    "stocks": [
+      "2317"
+    ],
+    "uid": "6890551f42d0d803f12b675bfca06bf2"
   },
   {
     "title": "低密度+高綠覆　奇岩重劃區磁吸2大族群搶進",
