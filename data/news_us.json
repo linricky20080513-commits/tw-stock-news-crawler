@@ -1,5 +1,609 @@
 [
   {
+    "title": "The Work of Helping A.I. Destroy Work",
+    "url": "https://www.nytimes.com/2026/07/10/business/ai-white-collar-jobs.html",
+    "source": "NYT Business",
+    "summary": "Start-ups are paying white-collar professionals to teach their jobs to artificial intelligence models. It’s a bonanza. It’s bleak. Where will it end?",
+    "published_at": "2026-07-10T22:00:10+08:00",
+    "stocks": [],
+    "uid": "974c8aaf1c3df7b8b4938c0c4e07ff84",
+    "title_en": "The Work of Helping A.I. Destroy Work",
+    "summary_en": "Start-ups are paying white-collar professionals to teach their jobs to artificial intelligence models. It’s a bonanza. It’s bleak. Where will it end?",
+    "title_zh": "幫助人工智慧的工作破壞工作",
+    "summary_zh": ""
+  },
+  {
+    "title": "Should you lock in a 4% CD rate now? Here’s how to decide on the next move for your cash.",
+    "url": "https://www.marketwatch.com/story/should-you-lock-in-a-4-cd-rate-now-heres-how-to-decide-on-the-next-move-for-your-cash-41a7ef4c?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "CD rates are at a standstill, but that could change after the next Fed meeting, or the one after that.",
+    "published_at": "2026-07-10T22:00:00+08:00",
+    "stocks": [],
+    "uid": "289981b61b8480982373674879157ffc",
+    "title_en": "Should you lock in a 4% CD rate now? Here’s how to decide on the next move for your cash.",
+    "summary_en": "CD rates are at a standstill, but that could change after the next Fed meeting, or the one after that.",
+    "title_zh": "現在應該鎖定 4% 的 CD 利率嗎？以下是如何決定現金的下一步。",
+    "summary_zh": "CD利率處於停滯狀態，但這種情況可能會在下一次聯準會會議或之後的會議後發生變化。"
+  },
+  {
+    "title": "Stablecoin issuer Circle just got the greenlight to operate as a bank. The shares are up 7%",
+    "url": "https://www.cnbc.com/2026/07/10/circle-gets-an-occ-bank-charter-as-stablecoin-competition-heats-up-shares-surge-14percent.html",
+    "source": "CNBC Top",
+    "summary": "Stablecoin issuer Circle surged in premarket trading after the U.S. Office of the Comptroller of the Currency granted it approval to operate as a trust bank.",
+    "published_at": "2026-07-10T21:57:59+08:00",
+    "stocks": [],
+    "uid": "cfd1ef5f618c105a1203fb5b995e3184",
+    "title_en": "Stablecoin issuer Circle just got the greenlight to operate as a bank. The shares are up 7%",
+    "summary_en": "Stablecoin issuer Circle surged in premarket trading after the U.S. Office of the Comptroller of the Currency granted it approval to operate as a trust bank.",
+    "title_zh": "穩定幣發行人 Circle 剛剛獲得銀行營運許可。股價上漲7%",
+    "summary_zh": "在美國貨幣監理署批准其作為信託銀行運營後，穩定幣發行商 Circle 在盤前交易中飆升。"
+  },
+  {
+    "title": "Why is Unity Software stock rallying today?",
+    "url": "https://www.investing.com/news/stock-market-news/why-is-unity-software-stock-rallying-today-93CH-4786325",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-10T21:57:25+08:00",
+    "stocks": [],
+    "uid": "0bf6b1cb942492d6cc970f6e51160961",
+    "title_en": "Why is Unity Software stock rallying today?",
+    "summary_en": "",
+    "title_zh": "為什麼 Unity Software 股票今天會上漲？",
+    "summary_zh": ""
+  },
+  {
+    "title": "Is it better to spend my savings so I can delay taking Social Security? How do I choose?",
+    "url": "https://www.marketwatch.com/story/my-retirement-savings-will-suffer-if-i-delay-social-security-how-do-i-choose-between-the-two-a85273e3?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "“By claiming earlier, I could preserve more of my portfolio and allow those assets to continue compounding.”",
+    "published_at": "2026-07-10T21:57:00+08:00",
+    "stocks": [],
+    "uid": "6d68d5056a876e263f21efda272700fa",
+    "title_en": "Is it better to spend my savings so I can delay taking Social Security? How do I choose?",
+    "summary_en": "“By claiming earlier, I could preserve more of my portfolio and allow those assets to continue compounding.”",
+    "title_zh": "花掉我的積蓄以便延後領取社會安全是否更好？我該如何選擇？",
+    "summary_zh": "“通過提前索賠，我可以保留更多的投資組合，並讓這些資產繼續複利。”"
+  },
+  {
+    "title": "CVS Health declares quarterly dividend of $0.665 per share",
+    "url": "https://www.investing.com/news/company-news/cvs-health-declares-quarterly-dividend-of-0665-per-share-93CH-4786324",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-10T21:56:49+08:00",
+    "stocks": [],
+    "uid": "a13140e591ebe2c37828a409dde6bf99",
+    "title_en": "CVS Health declares quarterly dividend of $0.665 per share",
+    "summary_en": "",
+    "title_zh": "CVS Health 宣布季度股息為每股 0.665 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "These are America's 10 cheapest states for 2026, where you can still beat inflation",
+    "url": "https://www.cnbc.com/2026/07/10/americas-10-cheapest-places-to-live-top-states-for-business.html",
+    "source": "CNBC Top",
+    "summary": "These are America's cheapest states to live in for 2026, where residents can still beat inflation.",
+    "published_at": "2026-07-10T21:56:48+08:00",
+    "stocks": [],
+    "uid": "1c5d80eb84e2f69366025ad4460b945a"
+  },
+  {
+    "title": "These are America's 10 most expensive states for 2026, where inflation is punishing residents",
+    "url": "https://www.cnbc.com/2026/07/10/10-most-expensive-places-to-live-america-top-states-for-business.html",
+    "source": "CNBC Top",
+    "summary": "These 10 U.S. states are the most expensive places to live in America in 2026, with inflation punishing residents to an extreme degree.",
+    "published_at": "2026-07-10T21:56:43+08:00",
+    "stocks": [],
+    "uid": "249afcb9d092252c8d9e613985f9bbf2",
+    "title_en": "These are America's 10 most expensive states for 2026, where inflation is punishing residents",
+    "summary_en": "These 10 U.S. states are the most expensive places to live in America in 2026, with inflation punishing residents to an extreme degree.",
+    "title_zh": "2026 年美國生活成本最高的 10 個州，通貨膨脹正在懲罰居民",
+    "summary_zh": "美國這10個州是2026年美國生活成本最高的地方，通貨膨脹對居民的懲罰達到了極限。"
+  },
+  {
+    "title": "Crocs stock hits 52-week high at 129.99 USD",
+    "url": "https://www.investing.com/news/company-news/crocs-stock-hits-52week-high-at-12999-usd-93CH-4786323",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-10T21:56:11+08:00",
+    "stocks": [],
+    "uid": "f643b7d6736dff0969d71eec79a0b624",
+    "title_en": "Crocs stock hits 52-week high at 129.99 USD",
+    "summary_en": "",
+    "title_zh": "Crocs 股價觸及 52 週高點 129.99 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Extreme Networks stock hits 52-week high at 33.11 USD",
+    "url": "https://www.investing.com/news/company-news/extreme-networks-stock-hits-52week-high-at-3311-usd-93CH-4786322",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-10T21:55:35+08:00",
+    "stocks": [],
+    "uid": "83f80a395b3641ea54a10c7dc88460f7",
+    "title_en": "Extreme Networks stock hits 52-week high at 33.11 USD",
+    "summary_en": "",
+    "title_zh": "Extreme Networks股價觸及52週新至33.11美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Chemed Corp stock hits 52-week high at 492.42 USD",
+    "url": "https://www.investing.com/news/company-news/chemed-corp-stock-hits-52week-high-at-49242-usd-93CH-4786321",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-10T21:55:31+08:00",
+    "stocks": [],
+    "uid": "8adb06120c3be4b8ce7f55b7a875dfb5",
+    "title_en": "Chemed Corp stock hits 52-week high at 492.42 USD",
+    "summary_en": "",
+    "title_zh": "Chemed Corp 股價觸及 52 週新至 492.42 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Cheesecake Factory stock hits all-time high at 80.95 USD",
+    "url": "https://www.investing.com/news/company-news/cheesecake-factory-stock-hits-alltime-high-at-8095-usd-93CH-4786320",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-10T21:55:28+08:00",
+    "stocks": [],
+    "uid": "48ccc0a4e801b47c61c11145300544df",
+    "title_en": "Cheesecake Factory stock hits all-time high at 80.95 USD",
+    "summary_en": "",
+    "title_zh": "Cheesecake Factory 股價創歷史新高至 80.95 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Earnings call transcript: Tokyo Lifestyle posts 77.6% revenue jump in H2 2026",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-tokyo-lifestyle-posts-776-revenue-jump-in-h2-2026-93CH-4786319",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-10T21:55:14+08:00",
+    "stocks": [],
+    "uid": "072fb8d62a66950b379f918f5d99f0ed",
+    "title_en": "Earnings call transcript: Tokyo Lifestyle posts 77.6% revenue jump in H2 2026",
+    "summary_en": "",
+    "title_zh": "財報電話會議紀錄：Tokyo Lifestyle 2026 年下半年營收成長 77.6%",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why is Brookdale Senior Living stock sliding today?",
+    "url": "https://www.investing.com/news/stock-market-news/why-is-brookdale-senior-living-stock-sliding-today-93CH-4786318",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-10T21:54:57+08:00",
+    "stocks": [],
+    "uid": "ea5a53b38f5933d8dd3fa402ec9ad582",
+    "title_en": "Why is Brookdale Senior Living stock sliding today?",
+    "summary_en": "",
+    "title_zh": "為什麼布魯克代爾高級生活股票今天下跌？",
+    "summary_zh": ""
+  },
+  {
+    "title": "Truist cuts APA stock price target on model update to $38",
+    "url": "https://www.investing.com/news/analyst-ratings/truist-cuts-apa-stock-price-target-on-model-update-to-38-93CH-4786317",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-10T21:54:46+08:00",
+    "stocks": [],
+    "uid": "e6151306cba86b1455027c69b5a2d71f",
+    "title_en": "Truist cuts APA stock price target on model update to $38",
+    "summary_en": "",
+    "title_zh": "Truist 將模型更新後 APA 股價目標下調至 38 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Truist raises Nurix stock price target to $34 on Roche deal",
+    "url": "https://www.investing.com/news/analyst-ratings/truist-raises-nurix-stock-price-target-to-34-on-roche-deal-93CH-4786315",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-10T21:54:42+08:00",
+    "stocks": [],
+    "uid": "049672a8e9c74ede0cf147b2fbea61ba",
+    "title_en": "Truist raises Nurix stock price target to $34 on Roche deal",
+    "summary_en": "",
+    "title_zh": "Truist 在羅氏交易中將 Nurix 股價目標提高至 34 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Trump says he won't sign housing bill, which would become law automatically",
+    "url": "https://www.cnbc.com/2026/07/10/trump-housing-bill-save-act-law.html",
+    "source": "CNBC Top",
+    "summary": "Congress passed the bill that aims to address the costs of homes and rein in institutional investors with strong bipartisan support in June.",
+    "published_at": "2026-07-10T21:54:01+08:00",
+    "stocks": [],
+    "uid": "53571a465e96bd7798a8db1345e8129b",
+    "title_en": "Trump says he won't sign housing bill, which would become law automatically",
+    "summary_en": "Congress passed the bill that aims to address the costs of homes and rein in institutional investors with strong bipartisan support in June.",
+    "title_zh": "川普表示他不會簽署住房法案，該法案將自動成為法律",
+    "summary_zh": "國會於六月通過了一項法案，旨在解決住房成本問題並在兩黨的大力支持下控制機構投資者。"
+  },
+  {
+    "title": "Inside Wealth: Private chef salaries reach $300,000 as the rich seek their own Michelin stars",
+    "url": "https://www.cnbc.com/2026/07/10/private-chef-salaries.html",
+    "source": "CNBC Top",
+    "summary": "Demand for chefs, personal assistants, butlers, nannies, housekeepers, chauffeurs and estate managers have reached records, according to Morgan & Mallet.",
+    "published_at": "2026-07-10T21:52:59+08:00",
+    "stocks": [],
+    "uid": "6ebc547626dd83a4f5dbe22ab6a2fdfd",
+    "title_en": "Inside Wealth: Private chef salaries reach $300,000 as the rich seek their own Michelin stars",
+    "summary_en": "Demand for chefs, personal assistants, butlers, nannies, housekeepers, chauffeurs and estate managers have reached records, according to Morgan & Mallet.",
+    "title_zh": "財富內部：隨著富人尋求自己的米其林星級，私人廚師的薪水達到30萬美元",
+    "summary_zh": "摩根馬利特 (Morgan & Mallet) 的數據顯示，對廚師、私人助理、管家、保姆、管家、司機和房地產經理的需求已達到創紀錄水平。"
+  },
+  {
+    "title": "I found a simple way to save money on frozen pizza. What’s your best money-saving trick?",
+    "url": "https://www.marketwatch.com/story/i-make-my-own-pizza-whats-the-best-way-youve-found-to-save-money-25412399?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "“I changed my approach to cooking.”",
+    "published_at": "2026-07-10T21:45:00+08:00",
+    "stocks": [],
+    "uid": "06e275277acf00da0170c782cb9e6612"
+  },
+  {
+    "title": "48-year-old worked at a garden center for $17/hour to make ends meet: 'It's one of the best jobs I've ever had'",
+    "url": "https://www.cnbc.com/2026/07/10/48-year-old-worked-at-a-garden-center-to-make-ends-meet-one-of-best-jobs-ever-had.html",
+    "source": "CNBC Top",
+    "summary": "\"Without a job, I felt invisible. With a job, I felt seen, useful, and purposeful again,\" says Leslie Friday, who sold plants and flowers while job searching after a layoff. \"I loved every minute.\"",
+    "published_at": "2026-07-10T21:42:01+08:00",
+    "stocks": [],
+    "uid": "cd1b114cd4ad54139d5f29556f297bca",
+    "title_en": "48-year-old worked at a garden center for $17/hour to make ends meet: 'It's one of the best jobs I've ever had'",
+    "summary_en": "\"Without a job, I felt invisible. With a job, I felt seen, useful, and purposeful again,\" says Leslie Friday, who sold plants and flowers while job searching after a layoff. \"I loved every minute.\"",
+    "title_zh": "48 歲的她在花園中心工作，每小時 17 美元，以維持收支平衡：“這是我做過的最好的工作之一”",
+    "summary_zh": "「沒有工作，我感覺自己被忽視了。有了工作，我又感覺自己被看見了，變得有用了，而且又有了目標。」萊斯利·星期五（Leslie Friday）說，她在裁員後一邊找工作一邊賣植物和花卉。 “我喜歡每一分鐘。”"
+  },
+  {
+    "title": "‘Can’t buy bonds, can’t sell stocks.’ Bank of America tells investors what they can do.",
+    "url": "https://www.marketwatch.com/story/cant-buy-bonds-cant-sell-stocks-bank-of-america-tells-investors-what-they-can-do-12ea7a84?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Real 30-year interest rates are at a high since November 2008, financial conditions are tight and Michael Hartnett tells investors to prepare for a chilly summer.",
+    "published_at": "2026-07-10T21:34:00+08:00",
+    "stocks": [],
+    "uid": "53049ec4f93a202da706821db35d3e47",
+    "title_en": "‘Can’t buy bonds, can’t sell stocks.’ Bank of America tells investors what they can do.",
+    "summary_en": "Real 30-year interest rates are at a high since November 2008, financial conditions are tight and Michael Hartnett tells investors to prepare for a chilly summer.",
+    "title_zh": "「不能買債券，不能賣股票。」美國銀行告訴投資人他們可以做什麼。",
+    "summary_zh": "自 2008 年 11 月以來，30 年期實際利率處於高位，財務狀況緊張，Michael Hartnett 告訴投資者要為寒冷的夏天做好準備。"
+  },
+  {
+    "title": "A Once-in-a-Decade Opportunity: 3 Magnificent S&P 500 Stocks Down 29% to 42% Buy Right Now",
+    "url": "https://www.fool.com/investing/2026/07/10/once-in-a-decade-opportunity-3-magnificent-sp-500/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Technology and AI stocks are stealing most of the market's attention, but these three \"boring\" stocks offer outperformance potential.",
+    "published_at": "2026-07-10T21:30:00+08:00",
+    "stocks": [],
+    "uid": "eef53382fb9aa04756a47371efd9c1e5",
+    "title_en": "A Once-in-a-Decade Opportunity: 3 Magnificent S&P 500 Stocks Down 29% to 42% Buy Right Now",
+    "summary_en": "Technology and AI stocks are stealing most of the market's attention, but these three \"boring\" stocks offer outperformance potential.",
+    "title_zh": "十年一遇的機會：3檔標普 500 指數成分股下跌 29% 至 42% 立即買入",
+    "summary_zh": "科技和人工智慧股票吸引了市場的大部分注意力，但這三隻「無聊」的股票提供了跑贏大盤的潛力。"
+  },
+  {
+    "title": "IREN Is Entering a New Growth Phase. Here's Why It Matters.",
+    "url": "https://www.fool.com/investing/2026/07/10/iren-is-entering-a-new-growth-phase-heres-why-it-m/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "IREN's AI pivot could reshape its future, but the stock's biggest opportunity also comes with a major execution test.",
+    "published_at": "2026-07-10T21:30:00+08:00",
+    "stocks": [],
+    "uid": "e3b62383a86488dc281996519b308e06",
+    "title_en": "IREN Is Entering a New Growth Phase. Here's Why It Matters.",
+    "summary_en": "IREN's AI pivot could reshape its future, but the stock's biggest opportunity also comes with a major execution test.",
+    "title_zh": "IREN 正進入新的成長階段。這就是為什麼它很重要。",
+    "summary_zh": "IREN 的人工智慧轉型可能會重塑其未來，但該股最大的機會也來自於重大的執行測試。"
+  },
+  {
+    "title": "Should You Buy Rigetti Computing Stock While It's Under $20?",
+    "url": "https://www.fool.com/investing/2026/07/10/should-you-buy-rigetti-computing-stock-while-its/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Before you buy for less than $20, there are a few things to consider.",
+    "published_at": "2026-07-10T21:15:00+08:00",
+    "stocks": [],
+    "uid": "c4753671e7b1a2d4b50cffff912033bf",
+    "title_en": "Should You Buy Rigetti Computing Stock While It's Under $20?",
+    "summary_en": "Before you buy for less than $20, there are a few things to consider.",
+    "title_zh": "當 Rigetti 計算股票價格低於 20 美元時，您應該購買它嗎？",
+    "summary_zh": "在以低於 20 美元的價格購買之前，需要考慮一些事情。"
+  },
+  {
+    "title": "Kevin Warsh wants fewer press conferences. Why that’s bad for the economy and your money.",
+    "url": "https://www.marketwatch.com/story/kevin-warsh-wants-fewer-press-conferences-why-thats-bad-for-the-economy-and-your-money-e9b0bd55?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The Fed chair is testifying before Congress this week. Lawmakers should ask him about transparency.",
+    "published_at": "2026-07-10T21:06:00+08:00",
+    "stocks": [],
+    "uid": "33909d4b19d9c693ca197f8e95a80a0a",
+    "title_en": "Kevin Warsh wants fewer press conferences. Why that’s bad for the economy and your money.",
+    "summary_en": "The Fed chair is testifying before Congress this week. Lawmakers should ask him about transparency.",
+    "title_zh": "凱文沃什希望減少記者會的次數。為什麼這對經濟和你的錢不利。",
+    "summary_zh": "聯準會主席本週將在國會作證。立法者應該向他詢問透明度問題。"
+  },
+  {
+    "title": "Goldman Sachs Reports Earnings on July 14. Can Its Investment Banking Surge Keep Going?",
+    "url": "https://www.fool.com/investing/2026/07/10/goldman-sachs-reports-earnings-july-14-bank/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Goldman Sachs is poised for a strong Q2.",
+    "published_at": "2026-07-10T21:05:00+08:00",
+    "stocks": [],
+    "uid": "b7704e2fe48f89b5612a469a9f1670c5"
+  },
+  {
+    "title": "United Community Banks, Inc. and Peach State Bancshares, Inc. Announce Election Deadline for Peach State Shareholders to Elect Form of Merger Consideration and Expected Closing Date",
+    "url": "https://markets.businessinsider.com/news/stocks/united-community-banks-inc-and-peach-state-bancshares-inc-announce-election-deadline-for-peach-state-shareholders-to-elect-form-of-merger-consideration-and-expected-closing-date-1036314371",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;justify&quot;&gt;GREENVILLE, S.C., July  10, 2026  (GLOBE NEWSWIRE) -- United Community Banks, Inc. (NYSE: UCB) (&quot;United&quot;) and Peach State Bancshares, Inc. (&quot;Peach State&quot;) announced today the election deadline by which Peach State shareholders of...",
+    "published_at": "2026-07-10T21:01:00+08:00",
+    "stocks": [],
+    "uid": "0860405f97e92ff1bb934dbf34846677",
+    "title_en": "United Community Banks, Inc. and Peach State Bancshares, Inc. Announce Election Deadline for Peach State Shareholders to Elect Form of Merger Consideration and Expected Closing Date",
+    "summary_en": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;justify&quot;&gt;GREENVILLE, S.C., July  10, 2026  (GLOBE NEWSWIRE) -- United Community Banks, Inc. (NYSE: UCB) (&quot;United&quot;) and Peach State Bancshares, Inc. (&quot;Peach State&quot;) announced today the election deadline by which Peach State shareholders of...",
+    "title_zh": "United Community Banks, Inc. 和 Peach State Bancshares, Inc. 宣布 Peach State 股東選擇合併考慮形式和預計完成日期的選舉截止日期",
+    "summary_zh": ""
+  },
+  {
+    "title": "EQS-News: KAP AG: ANNUAL GENERAL MEETING APPROVES ALL PROPOSED RESOLUTIONS BY A CLEAR MAJORITY",
+    "url": "https://markets.businessinsider.com/news/stocks/eqs-news-kap-ag-annual-general-meeting-approves-all-proposed-resolutions-by-a-clear-majority-1036314375",
+    "source": "Business Insider",
+    "summary": "&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;\n\n\nEQS-News: KAP AG\n\n\n / Key word(s): AGM/EGM\n\n\n&lt;br/&gt;\n\n\nKAP AG: ANNUAL GENERAL MEETING APPROVES ALL PROPOSED RESOLUTIONS BY A CLEAR MAJORITY &lt;br/&gt;&lt;br/&gt;\n\n\n\n\n\n\n10.07.2026 / 15:00 CET/CEST&lt;br/&gt;\n\n\n\nThe issuer is solely responsible for the content of this announcement.&lt;br/&gt;&lt;br/&gt;&lt;!-- sh_cad_1 --&gt;\n\n&lt;hr/&gt;&lt;div&gt;&lt;b&gt;KAP...",
+    "published_at": "2026-07-10T21:00:53+08:00",
+    "stocks": [],
+    "uid": "e26ddb841c4f6c7b2edddec8fe795980",
+    "title_en": "EQS-News: KAP AG: ANNUAL GENERAL MEETING APPROVES ALL PROPOSED RESOLUTIONS BY A CLEAR MAJORITY",
+    "summary_en": "&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;\n\n\nEQS-News: KAP AG\n\n\n / Key word(s): AGM/EGM\n\n\n&lt;br/&gt;\n\n\nKAP AG: ANNUAL GENERAL MEETING APPROVES ALL PROPOSED RESOLUTIONS BY A CLEAR MAJORITY &lt;br/&gt;&lt;br/&gt;\n\n\n\n\n\n\n10.07.2026 / 15:00 CET/CEST&lt;br/&gt;\n\n\n\nThe issuer is solely responsible for the content of this announcement.&lt;br/&gt;&lt;br/&gt;&lt;!-- sh_cad_1 --&gt;\n\n&lt;hr/&gt;&lt;div&gt;&lt;b&gt;KAP...",
+    "title_zh": "EQS-新聞：KAP AG：年度股東大會以絕對多數批准了所有擬議決議",
+    "summary_zh": "<表邊框=“0”><tr><td>\n\n\nEQS-新聞：KAP AG\n\n\n / 關鍵字：年度股東大會/臨時股東大會\n\n\n<br/>\n\n\nKAP AG：年度股東大會以絕對多數票批准了所有擬議決議<br/><br/>\n\n\n\n\n\n\n2026 年 7 月 10 日 / 15:00 CET/CEST<br/>\n\n\n\n發行人對本公告的內容負完全責任。 <br/><br/><!-- sh_cad_1 -->\n\n<hr/><div><b>KAP..."
+  },
+  {
+    "title": "Study Results of Orelabrutinib in Patients with SLE Published in the Journal of Autoimmunity",
+    "url": "https://markets.businessinsider.com/news/stocks/study-results-of-orelabrutinib-in-patients-with-sle-published-in-the-journal-of-autoimmunity-1036314364",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;BEIJING, July  10, 2026  (GLOBE NEWSWIRE) -- InnoCare Pharma (HKEX: 09969; SSE: 688428), today announced that the Journal of Autoimmunity has published results from a clinical study evaluating orelabrutinib, a BTK (Bruton’s tyrosine kinase)...",
+    "published_at": "2026-07-10T21:00:00+08:00",
+    "stocks": [],
+    "uid": "b5af0eaf2b9fc69ec6d17dd45f6c4b1e"
+  },
+  {
+    "title": "Remittix Enters Perps Market As Hyperliquid, Lighter And Aster Drive Trading Demand",
+    "url": "https://markets.businessinsider.com/news/stocks/remittix-enters-perps-market-as-hyperliquid-lighter-and-aster-drive-trading-demand-1036314365",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;MAJURO, Marshall Islands, July  10, 2026  (GLOBE NEWSWIRE) -- Remittix has announced the upcoming launch of Remittix Markets, a new perpetual futures trading platform designed to expand the RTX ecosystem beyond payments and into one of the...",
+    "published_at": "2026-07-10T21:00:00+08:00",
+    "stocks": [],
+    "uid": "1359a1dd1ae4dc52c9b4b14a3f786d47"
+  },
+  {
+    "title": "PatchMD Adds a Topical Berberine Patch to Its Lineup",
+    "url": "https://markets.businessinsider.com/news/stocks/patchmd-adds-a-topical-berberine-patch-to-its-lineup-1036314367",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;LAS VEGAS, NV, July  10, 2026  (GLOBE NEWSWIRE) -- &lt;img alt=&quot;&quot; height=&quot;253&quot; src=&quot;https://ml.globenewswire.com/Resource/Download/d7e88bbe-0280-4902-855e-f9b94a62ff16/patchmd-berberine-pr.png&quot; width=&quot;450&quot; data-dpi=&quot;96&quot;...",
+    "published_at": "2026-07-10T21:00:00+08:00",
+    "stocks": [],
+    "uid": "cfe781cd62154b732bb542ca2ecd8b65"
+  },
+  {
+    "title": "Palisade Bio to Participate in the Leerink Partners Therapeutics Forum",
+    "url": "https://markets.businessinsider.com/news/stocks/palisade-bio-to-participate-in-the-leerink-partners-therapeutics-forum-1036314360",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;center&quot;&gt;&lt;i&gt;Management to participate in investor meetings on July 14-15 in Boston&lt;/i&gt;&lt;p align=&quot;justify&quot;&gt;Denver, CO, July  10, 2026  (GLOBE NEWSWIRE) --  Palisade Bio, Inc. (Nasdaq: PALI) (&quot;Palisade&quot; or the &quot;Company&quot;), a clinical-stage...",
+    "published_at": "2026-07-10T21:00:00+08:00",
+    "stocks": [],
+    "uid": "99f01b3baf75ed82ef21d8045fb374b5"
+  },
+  {
+    "title": "Thousands of eXp Realty Agents Recognized in 2026 RealTrends City Rankings",
+    "url": "https://markets.businessinsider.com/news/stocks/thousands-of-exp-realty-agents-recognized-in-2026-realtrends-city-rankings-1036314368",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;center&quot;&gt;&lt;img alt=&quot;eXp Realty&quot; height=&quot;315&quot; src=&quot;https://ml.globenewswire.com/Resource/Download/6e2b3a63-451d-4e9a-94ea-5b43cc0158df/nahrep-2026-press-release-graphic-option-01-1200x630-1-.png&quot; width=&quot;600&quot; data-dpi=&quot;96&quot; data-caption=&quot;With...",
+    "published_at": "2026-07-10T21:00:00+08:00",
+    "stocks": [],
+    "uid": "99c87fcb37fdc4d11511c8e610868b3a"
+  },
+  {
+    "title": "Beamr's ML-Safe Video Data Technology Now Available on the RTMaps AI Store",
+    "url": "https://markets.businessinsider.com/news/stocks/beamr-s-ml-safe-video-data-technology-now-available-on-the-rtmaps-ai-store-1036314361",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;Beamr partners with Intempora, a dSPACE company, bringing its compression to the RTMaps middleware - the autonomous-driving development platform used by OEMs and Tier 1 suppliers worldwideHerzliya, Israel, July  10, 2026  (GLOBE NEWSWIRE) --  Beamr...",
+    "published_at": "2026-07-10T21:00:00+08:00",
+    "stocks": [],
+    "uid": "638cd52b9389577cb20d7908594655ca"
+  },
+  {
+    "title": "T3 Defense Acquires Majority Stake in Project35, Accelerating Leadership in the Drone and Counter-UAV Market",
+    "url": "https://markets.businessinsider.com/news/stocks/t3-defense-acquires-majority-stake-in-project35-accelerating-leadership-in-the-drone-and-counter-uav-market-1036314366",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;NEW YORK and NETANYA, Israel, July  10, 2026  (GLOBE NEWSWIRE) -- T3 Defense Inc. (Nasdaq: DFNS) (&quot;T3 Defense&quot;), a defense company that acquires and operates mission-critical defense businesses, today announced the acquisition of a 60% stake in...",
+    "published_at": "2026-07-10T21:00:00+08:00",
+    "stocks": [],
+    "uid": "c9c88d5c635e121dd8a8ef3e84ce1059"
+  },
+  {
+    "title": "One Day Left: The Bullski Priority List Closes Into Friday's 5pm UTC Launch",
+    "url": "https://markets.businessinsider.com/news/stocks/one-day-left-the-bullski-priority-list-closes-into-friday-s-5pm-utc-launch-1036314369",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;Key Takeaways &lt;ul type=&quot;disc&quot;&gt;&lt;li style=&quot;margin-top:10pt; margin-bottom:10pt;&quot;&gt;The free Bullski priority list closes when stage one opens at 5pm UTC Today.&lt;/li&gt;&lt;li style=&quot;margin-top:10pt; margin-bottom:10pt;&quot;&gt;Priority holders enter stage one first,...",
+    "published_at": "2026-07-10T21:00:00+08:00",
+    "stocks": [],
+    "uid": "402465b8cb3e552a0aea1e5d14e3ce92"
+  },
+  {
+    "title": "Should You Buy Micron Stock Under $1,000?",
+    "url": "https://www.fool.com/investing/2026/07/10/should-you-buy-micron-stock-under-1000/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Micron stock has been cratering since the company reported earnings in late June.",
+    "published_at": "2026-07-10T20:54:00+08:00",
+    "stocks": [],
+    "uid": "bab11876c22993ff8b3686f49cd02089"
+  },
+  {
+    "title": "Chip rally, Fed task forces, Delta earnings and more in Morning Squawk",
+    "url": "https://www.cnbc.com/2026/07/10/5-things-to-know-before-the-stock-market-opens.html",
+    "source": "CNBC Tech",
+    "summary": "Here are five key things investors need to know to start the trading day.",
+    "published_at": "2026-07-10T20:46:38+08:00",
+    "stocks": [],
+    "uid": "3c49da9d3fa37d2dc777ce20ebe09cd5"
+  },
+  {
+    "title": "Landon Donovan says there’s ‘zero chance’ he could’ve afforded to play youth soccer in America if he was a kid today",
+    "url": "https://www.marketwatch.com/story/landon-donovan-says-theres-zero-chance-he-could-have-afforded-to-play-youth-soccer-if-he-was-a-kid-today-e32e905f?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The U.S. men’s soccer team once again didn’t make it past the Round of 16 in the World Cup — and some say the high cost to play youth soccer in America could be a key reason.",
+    "published_at": "2026-07-10T20:41:00+08:00",
+    "stocks": [],
+    "uid": "3bb2b8ce2173d178fc8906d5694909b4"
+  },
+  {
+    "title": "Planning to Retire in 2031? Here Are 5 Things You Must Do Before the End of the Year.",
+    "url": "https://www.fool.com/retirement/2026/07/10/planning-to-retire-in-2031-here-are-5-things-you-m/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "It's time to check some key tasks off your list.",
+    "published_at": "2026-07-10T20:36:00+08:00",
+    "stocks": [],
+    "uid": "46843bc3921fb9bc9ace2ce8845bf990"
+  },
+  {
+    "title": "Where Will Micron Stock Be in 5 Years?",
+    "url": "https://www.fool.com/investing/2026/07/10/where-will-micron-stock-be-in-5-years/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "AI memory demand could reshape Micron's future, but one familiar risk still shadows the stock. Here's what investors should watch next.",
+    "published_at": "2026-07-10T20:30:00+08:00",
+    "stocks": [],
+    "uid": "aced593a8b5c59c3af9670621891e52b"
+  },
+  {
+    "title": "Rivian Automotive vs. Tesla: What Their Revenue Trends Tell Investors",
+    "url": "https://www.fool.com/coverage/charts/2026/07/10/rivian-automotive-vs-tesla-what-their-revenue-trends-tell-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Tesla's revenue towers over Rivian's, but one company shows steadier growth while the other fluctuates.",
+    "published_at": "2026-07-10T20:29:01+08:00",
+    "stocks": [],
+    "uid": "d2a0dfe481710851f04be1172e2f9cdd"
+  },
+  {
+    "title": "What Keeps Warren Buffett Up at Night? Hint: It's Not What You Think.",
+    "url": "https://www.fool.com/investing/2026/07/10/what-keeps-warren-buffett-up-at-night-more-than/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Warren Buffett isn't only worried about the stock market.",
+    "published_at": "2026-07-10T20:27:00+08:00",
+    "stocks": [],
+    "uid": "be54dc583476869767c8955f97d13712"
+  },
+  {
+    "title": "Nervous About AI Spending? Buy the Stocks of These 3 Tech Giants.",
+    "url": "https://www.fool.com/investing/2026/07/10/nervous-about-ai-spending-buy-the-stocks-of-these/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "These AI stocks sell for low valuations relative to their growth rates.",
+    "published_at": "2026-07-10T20:25:00+08:00",
+    "stocks": [],
+    "uid": "5348cbea27e816f91cbf1e43ff40d48e"
+  },
+  {
+    "title": "Why the stock market and economy may seem out of sync",
+    "url": "https://www.cnbc.com/2026/07/10/stock-market-and-economy-out-of-sync.html",
+    "source": "CNBC Top",
+    "summary": "The stock market has boomed on AI euphoria, while the trajectory of the U.S. economy has been more tepid, economists said.",
+    "published_at": "2026-07-10T20:15:02+08:00",
+    "stocks": [],
+    "uid": "c3a790e23740b8c2d2388effb65adaf5"
+  },
+  {
+    "title": "GE Aerospace vs. StandardAero: Which Industrials Stock Is a Better Buy in 2026?",
+    "url": "https://www.fool.com/coverage/better-buy/2026/07/10/ge-aerospace-vs-standardaero-which-industrials-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "One operates engines; the other fixes them. Both ride aerospace tailwinds, but their balance sheets and valuations tell very different stories.",
+    "published_at": "2026-07-10T20:10:01+08:00",
+    "stocks": [],
+    "uid": "f39add5706a0d0e5f4752cb88a4fafcb"
+  },
+  {
+    "title": "Could Coca-Cola Issue a Stock Split If It Hits $100 Per Share?",
+    "url": "https://www.fool.com/investing/2026/07/10/could-coca-cola-issue-a-stock-split-if-it-hits-100/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Coke's stock price just crossed an important level that coincided with its last stock split 14 years ago.",
+    "published_at": "2026-07-10T20:05:00+08:00",
+    "stocks": [],
+    "uid": "855c9b77efc506a346964d15c6f8e903"
+  },
+  {
+    "title": "GE Vernova vs. Vistra: One AI Power Stock Has Absolutely Crushed the Other, And Could Continue Doing So",
+    "url": "https://www.fool.com/coverage/better-buy/2026/07/10/ge-vernova-vs-vistra-one-ai-power-stock-has-absolutely-crushed-the-other-and-could-continue-doing-so/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "GE Vernova and Vistra are top-tier bets on the massive AI power boom, but their business models are making all the difference to shareholder returns.",
+    "published_at": "2026-07-10T20:02:10+08:00",
+    "stocks": [],
+    "uid": "97638de2d4432d61c0476050ca54e079"
+  },
+  {
+    "title": "Vanguard Bond ETFs Compared: Should You Buy VCIT's Yield or VGIT's Stability in This Economic Environment?",
+    "url": "https://www.fool.com/coverage/etfs/2026/07/10/vanguard-bond-etfs-compared-should-you-buy-vcit-s-yield-or-vgit-s-stability-in-this-economic-environment/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Explore how these two popular funds fit different portfolio goals and why their holdings set them apart for income and stability seekers.",
+    "published_at": "2026-07-10T19:45:01+08:00",
+    "stocks": [],
+    "uid": "bb0cbd457c31c91659ebb4970601c5a7"
+  },
+  {
+    "title": "Why Salesforce Plunged Over 40% in the First Half of 2026",
+    "url": "https://www.fool.com/investing/2026/07/10/why-salesforce-plunged-over-40-in-the-first-half-o/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The \"SaaS-pocalypse\" came for Salesforce, even amid solid earnings numbers and a massive share repurchase.",
+    "published_at": "2026-07-10T19:45:00+08:00",
+    "stocks": [],
+    "uid": "3156b3ace10be248178bf4de73d18aa7"
+  },
+  {
+    "title": "Here's Why Shares in Novo Nordisk Rival, Agios Pharmaceutical, Soared This Week",
+    "url": "https://www.fool.com/investing/2026/07/10/heres-why-shares-in-novo-nordisk-rival-agios-pharm/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "An accelerated approval for Agios' key drug to treat sickle cell disease appears to be on the cards.",
+    "published_at": "2026-07-10T19:35:00+08:00",
+    "stocks": [],
+    "uid": "b6b262341e24fa56da2e601178216998"
+  },
+  {
+    "title": "Wall St. Sets Limits on Prediction Market Trading",
+    "url": "https://www.nytimes.com/2026/07/10/business/dealbook/goldman-prediction-markets-wall-street.html",
+    "source": "NYT Business",
+    "summary": "Goldman Sachs is the latest firm to restrict how employees use the popular betting platforms.",
+    "published_at": "2026-07-10T19:30:06+08:00",
+    "stocks": [],
+    "uid": "f33a2db347e59f087ff8365d118a1607"
+  },
+  {
+    "title": "AMD vs. Qualcomm: Which AI PC Stock Has the Better Long-Term Setup?",
+    "url": "https://www.fool.com/investing/2026/07/10/amd-vs-qualcomm-which-ai-pc-stock-has-the-better-l/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "AI PCs could restart laptop demand, but AMD and Qualcomm are taking very different paths. Here's what investors should watch next.",
+    "published_at": "2026-07-10T19:30:00+08:00",
+    "stocks": [],
+    "uid": "7b210b8125068d78d63900b8fd33e76e"
+  },
+  {
+    "title": "If the Fed Raises Rates This Year, I'm Loading Up on This 1 ETF",
+    "url": "https://www.fool.com/investing/2026/07/10/if-fed-raises-rates-2026-loading-up-kbwb-etf/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This exchange-traded fund would definitely benefit from an interest rate hike.",
+    "published_at": "2026-07-10T19:30:00+08:00",
+    "stocks": [],
+    "uid": "b8c03ce8554a66b69119ac5a514b9ac3"
+  },
+  {
+    "title": "Here's Why Shares in Venture Global Soared This Week (Hint: It's Iran-Related)",
+    "url": "https://www.fool.com/investing/2026/07/10/heres-why-shares-in-venture-global-soared-this-wee/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The market continues to act in a short-term manner, but there are likely to be more long-term consequences from recent hostilities.",
+    "published_at": "2026-07-10T19:26:09+08:00",
+    "stocks": [],
+    "uid": "be2db8cb55f6c552fe3c9876610a229f"
+  },
+  {
+    "title": "Technical Assessment: Bullish in the Intermediate-Term",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_47576_TechnicalAnalysis_1783682695000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-10T19:24:55+08:00",
+    "stocks": [],
+    "uid": "08a26cb0c4d561f75a217e1245e96fea"
+  },
+  {
     "title": "Volkswagen to slash model lineup and shrink capacity — but no word on job cuts",
     "url": "https://www.cnbc.com/2026/07/10/volkswagen-vw-autos-job-cuts-germany.html",
     "source": "CNBC Top",
@@ -26,6 +630,33 @@
     "summary_zh": "無人機襲擊是烏克蘭旨在切斷進出克里米亞的供應和運輸路線的行動的一部分。"
   },
   {
+    "title": "Should You Buy McDonald's Largest Franchisee, or All of Domino's Pizza?",
+    "url": "https://www.fool.com/coverage/better-buy/2026/07/10/should-you-buy-mcdonald-s-largest-franchisee-or-all-of-domino-s-pizza/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "One trades at a steep discount on valuation metrics; the other commands a premium for its digital-first model and cash generation.",
+    "published_at": "2026-07-10T19:16:01+08:00",
+    "stocks": [],
+    "uid": "8696badecb0f5f63636341a1c9e1b79f"
+  },
+  {
+    "title": "This $9 Nuclear Energy Stock Could Be Worth $100 by 2030",
+    "url": "https://www.fool.com/investing/2026/07/10/nuclear-energy-stock-could-be-worth-100-smr/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Nuclear energy is a multi-decade growth opportunity.",
+    "published_at": "2026-07-10T19:15:00+08:00",
+    "stocks": [],
+    "uid": "79433180c6adac27e741fd7bd9b384e7"
+  },
+  {
+    "title": "Analyst Report: CarMax Inc",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_4095_AnalystReport_1783682046000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-10T19:14:06+08:00",
+    "stocks": [],
+    "uid": "63ffd0be500853ced35997a440868cbd"
+  },
+  {
     "title": "As SK Hynix lands in the U.S., here’s why investors should be wary of the chip sector’s ‘bubble-like’ volatility",
     "url": "https://www.marketwatch.com/story/as-sk-hynix-lands-in-the-u-s-heres-why-investors-should-be-wary-of-the-chip-sectors-bubble-like-volatility-3db579c6?mod=mw_rss_topstories",
     "source": "MarketWatch",
@@ -50,6 +681,15 @@
     "summary_en": "Delta Air Lines’ stock was set to gain despite the company saying that profit fell — but beat expectations — even after the air carrier absorbed the highest quarterly fuel expense in its history.",
     "title_zh": "達美航空公佈創紀錄的收入和利潤，儘管燃油成本飆升",
     "summary_zh": "儘管達美航空表示利潤下降，但超出了預期，儘管該公司吸收了其歷史上最高的季度燃油費用，但該公司的股價仍將上漲。"
+  },
+  {
+    "title": "NextEra Energy vs. Duke Energy: A $67 Billion Deal Could Change the Revenue Script",
+    "url": "https://www.fool.com/coverage/charts/2026/07/10/nextera-energy-vs-duke-energy-the-usd67-billion-deal-could-change-the-revenue-script/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Duke Energy maintains consistently higher sales, while NextEra Energy's revenue shows sharper seasonal swings across recent quarters.",
+    "published_at": "2026-07-10T19:10:02+08:00",
+    "stocks": [],
+    "uid": "660ce761daf2020ebe4fb082700013eb"
   },
   {
     "title": "UK to regulate cloud service providers Microsoft, Google and others to protect financial stability",
@@ -89,6 +729,15 @@
     "summary_en": "",
     "title_zh": "韓國億萬富翁的冒險賭注獲得回報，SK 海力士在紐約首次亮相",
     "summary_zh": ""
+  },
+  {
+    "title": "Uh-Oh! The Fed Just Singled Out a New Inflationary Pressure, and It's Awful News for Wall Street.",
+    "url": "https://www.fool.com/investing/2026/07/10/uh-oh-fed-single-out-new-inflation-awful-wall-st/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The stock market's biggest catalyst may bring about its own demise.",
+    "published_at": "2026-07-10T19:06:00+08:00",
+    "stocks": [],
+    "uid": "a981f0fe5b69595835b81d3af9fec5b8"
   },
   {
     "title": "United Bank Limited schedules board meeting for July 22",
@@ -167,6 +816,17 @@
     "summary_en": "",
     "title_zh": "Seed Capital Solutions 收購因監管問題終止",
     "summary_zh": ""
+  },
+  {
+    "title": "3 Top Stocks to Double Up on Right Now -- Including Broadcom (AVGO) Stock",
+    "url": "https://www.fool.com/investing/2026/07/10/3-top-stocks-to-double-up-on-avgo-broadcom/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "One of these stocks is up 683% over the past year and may still be worth buying today.",
+    "published_at": "2026-07-10T19:02:00+08:00",
+    "stocks": [
+      "AVGO"
+    ],
+    "uid": "4b925828e131984813013fc10f05f3e6"
   },
   {
     "title": "BingX Launches the BingX Visa Debit Card, Bridging Digital Assets and Everyday Payments",
@@ -355,6 +1015,24 @@
     "uid": "fc476bbaad3bc9ff5a523983119c28d7"
   },
   {
+    "title": "Market Digest: HAS, KMX, MSFT",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_47574_MarketSummary_1783681146000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-10T18:59:06+08:00",
+    "stocks": [],
+    "uid": "6c53baa8be8ac7d11faa33cb2665be29"
+  },
+  {
+    "title": "This Vanguard ETF Owns Stocks Nobody Is Talking About -- and That's Why It's Worth a Look",
+    "url": "https://www.fool.com/investing/2026/07/10/this-vanguard-etf-owns-stocks-nobody-is-talking-ab/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Small-cap stocks have outperformed in 2026 so far, but it could be just the beginning.",
+    "published_at": "2026-07-10T18:54:21+08:00",
+    "stocks": [],
+    "uid": "80dfbb336878b3a16b9830ada8a9a2c9"
+  },
+  {
     "title": "Delta expects higher airfare to last, bringing 2026 profit goal in reach, CEO says",
     "url": "https://www.cnbc.com/2026/07/10/delta-air-lines-dal-q2-2026-earnings.html",
     "source": "CNBC Markets",
@@ -416,6 +1094,24 @@
     "published_at": "2026-07-10T18:30:00+08:00",
     "stocks": [],
     "uid": "2fa2560d5ba5daba228a373d220b31eb"
+  },
+  {
+    "title": "Daily – Vickers Top Insider Picks for 07/10/2026",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_47572_InsiderActivity_1783679393000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-10T18:29:53+08:00",
+    "stocks": [],
+    "uid": "04e67b24523e6f27996b22bc2073da6b"
+  },
+  {
+    "title": "Daily – Vickers Top Buyers & Sellers for 07/10/2026",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_47573_TopBottomInsiderActivity_1783679393000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-10T18:29:53+08:00",
+    "stocks": [],
+    "uid": "d6c8c3866e5fc0d492e51d2726fb2c58"
   },
   {
     "title": "Meta Ordered by E.U. to Alter ‘Addictive Design’ of Instagram and Facebook",
@@ -2555,6 +3251,51 @@
     "uid": "2b70679672c45ed095d2812c32fb46d8"
   },
   {
+    "title": "Asian investors eye firms benefiting from but resilient to AI",
+    "url": "https://finance.yahoo.com/technology/ai/articles/asian-investors-eye-firms-benefiting-073350723.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-09T15:33:50+08:00",
+    "stocks": [],
+    "uid": "ce383946f4fbe5c58d52fdfd9a32f336"
+  },
+  {
+    "title": "Binance maintains commitment to EU, seeking more licences in Asia",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/binance-maintains-commitment-eu-seeking-071908437.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-09T15:19:08+08:00",
+    "stocks": [],
+    "uid": "bcdac597bc5cfc943169074defd672e2"
+  },
+  {
+    "title": "Earnings Preview: What To Expect From IDEX Corporation’s Report",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-idex-corporation-071221381.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-09T15:12:21+08:00",
+    "stocks": [],
+    "uid": "a850268d792f8760f33a3a78297b209d"
+  },
+  {
+    "title": "I'm 68 and Paying $600 a Month for Long-Term Care Insurance. Is It Worth It?",
+    "url": "https://finance.yahoo.com/sectors/healthcare/articles/im-68-long-term-care-123000272.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-09T15:00:00+08:00",
+    "stocks": [],
+    "uid": "410e296cf036b7cca652d96d85452651"
+  },
+  {
+    "title": "What to Expect From Align Technology’s Next Quarterly Earnings Report",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/expect-align-technology-next-quarterly-065937919.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-09T14:59:37+08:00",
+    "stocks": [],
+    "uid": "15db4fd4138115eecb5f349e46a57ec4"
+  },
+  {
     "title": "India's Dr Reddy's on track for worst day in 3 years as semaglutide supplies hit",
     "url": "https://finance.yahoo.com/healthcare/articles/dr-reddys-delays-semaglutide-supply-045431594.html",
     "source": "Yahoo Finance",
@@ -2670,6 +3411,33 @@
     "published_at": "2026-07-09T11:43:19+08:00",
     "stocks": [],
     "uid": "0ecc6c980738026b1774fcd5544fe583"
+  },
+  {
+    "title": "China's Xiaomi unveils SUV series dubbed Sky Nomad",
+    "url": "https://finance.yahoo.com/technology/articles/chinas-xiaomi-unveils-suv-series-034319134.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-09T11:43:19+08:00",
+    "stocks": [],
+    "uid": "a9d4608b06d823a04ff10814719b3134"
+  },
+  {
+    "title": "Cathie Wood Sold $8 Million of AMD Stock in a Single Day",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sold-8-million-022000685.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-09T10:20:00+08:00",
+    "stocks": [],
+    "uid": "d97e7fa8a440a3d8b695c10d91cf5bb1"
+  },
+  {
+    "title": "Broadcom gets $30 billion Apple boost as valuation debate grows",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-gets-30-billion-apple-020300320.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-09T10:03:00+08:00",
+    "stocks": [],
+    "uid": "e9687097f95572273dfb09bc03095dfe"
   },
   {
     "title": "SK Hynix raises $26.5 billion in US offering after pricing ADRs at $149",
