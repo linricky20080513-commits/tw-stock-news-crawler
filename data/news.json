@@ -1,5 +1,406 @@
 [
   {
+    "title": "〈熱門股〉瑞祺電6月營收暴衝 周漲近2成創17個月高價",
+    "url": "https://news.cnyes.com/news/id/6531215",
+    "source": "鉅亨網",
+    "summary": "〈熱門股〉瑞祺電 6 月營收暴衝 周漲近 2 成創 17 個月高價",
+    "published_at": "2026-07-11T15:07:16+08:00",
+    "stocks": [
+      "TWS:6414:STOCK",
+      "TWS:6416:STOCK"
+    ],
+    "uid": "0f23d9c8b025b13136476d545f5f334d",
+    "title_zh": "〈熱門股〉瑞祺電6月營收暴衝 周漲近2成創17個月高價",
+    "summary_zh": "〈熱門股〉瑞祺電 6 月營收暴衝 周漲近 2 成創 17 個月高價",
+    "title_en": "<Popular Stocks> Ruiqi Electric's June revenue surged, rising nearly 20% for the week and hitting a 17-month high",
+    "summary_en": "<Popular Stock> Ruiqi Electronics' June revenue surged, rising nearly 20% for the week and hitting a 17-month high"
+  },
+  {
+    "title": "英特爾大秀 EMIB-T 先進封裝技術，挑戰台積電 CoWoS 先進封裝技術",
+    "url": "https://finance.technews.tw/2026/07/11/intel-showcases-its-advanced-emib-t-packaging-technology/",
+    "source": "科技新報",
+    "summary": "隨著人工智慧與高效能運算的需求暴增，半導體先進封裝技術成為推動算力進步的關鍵。半導體大廠英特爾 (Intel) [&#8230;]",
+    "published_at": "2026-07-11T15:00:02+08:00",
+    "stocks": [],
+    "uid": "896231fd56c15129149912a71a584907",
+    "title_zh": "英特爾大秀 EMIB-T 先進封裝技術，挑戰台積電 CoWoS 先進封裝技術",
+    "summary_zh": "隨著人工智慧與高效能運算的需求暴增，半導體先進封裝技術成為推動算力進步的關鍵。半導體大廠英特爾 (Intel) [&#8230;]",
+    "title_en": "Intel shows off EMIB-T advanced packaging technology to challenge TSMC's CoWoS advanced packaging technology",
+    "summary_en": "As the demand for artificial intelligence and high-performance computing surges, advanced semiconductor packaging technology has become the key to promoting the advancement of computing power. Semiconductor giant Intel […]"
+  },
+  {
+    "title": "基層出頭天！60歲阿北做了40年Costco收銀員 滾出3200萬身家超狂",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5501768",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕一輩子做基層也能累積優渥身家嗎？答案是肯定的。今年60歲的巴扎爾爾（Tony Barzar）在Costco當了近40年收銀員，他婉拒擔任主管，靠著在同一家公司努力打拼，加上...…",
+    "published_at": "2026-07-11T14:54:48+08:00",
+    "stocks": [],
+    "uid": "6c29f77a027c33a465bc4241ff248a7e",
+    "title_zh": "基層出頭天！60歲阿北做了40年Costco收銀員 滾出3200萬身家超狂",
+    "summary_zh": "〔財經頻道／綜合報導〕一輩子做基層也能累積優渥身家嗎？答案是肯定的。今年60歲的巴扎爾爾（Tony Barzar）在Costco當了近40年收銀員，他婉拒擔任主管，靠著在同一家公司努力打拼，加上...…",
+    "title_en": "The grassroots are in their prime! 60-year-old Abei has been a Costco cashier for 40 years and has a net worth of RMB 32 million.",
+    "summary_en": "[Financial Channel/Comprehensive Report] Can you accumulate a generous net worth by working at the grassroots level all your life? The answer is yes. Tony Barzar, 60, has been working as a cashier at Costco for nearly 40 years. He declined to be a supervisor and relied on working hard in the same company, plus..."
+  },
+  {
+    "title": "颱風巴威全台停電　台電：逾8成9修復仍逾萬戶未復電",
+    "url": "https://money.udn.com/money/story/11162/9621522",
+    "source": "經濟日報股市",
+    "summary": "颱風巴威傍晚前風雨最劇烈，根據台電最新統計，截至今天下午2時，全台曾停電戶數17萬7485戶，其中15萬8631戶已修復...",
+    "published_at": "2026-07-11T14:54:38+08:00",
+    "stocks": [],
+    "uid": "02f1486e78a39ff0779a0dc934084069",
+    "title_zh": "颱風巴威全台停電　台電：逾8成9修復仍逾萬戶未復電",
+    "summary_zh": "颱風巴威傍晚前風雨最劇烈，根據台電最新統計，截至今天下午2時，全台曾停電戶數17萬7485戶，其中15萬8631戶已修復...",
+    "title_en": "Typhoon Bavi causes power outage across Taiwan. Taipower: More than 89% have been repaired but more than 10,000 households are still without power.",
+    "summary_en": "The wind and rain were the most severe before Typhoon Bavi in ​​the evening. According to Taipower's latest statistics, as of 2 p.m. today, 177,485 households in Taiwan had experienced power outages, of which 158,631 households had been repaired..."
+  },
+  {
+    "title": "颱風來車主不必急出門加油！下周國內油價不調漲",
+    "url": "https://money.udn.com/money/story/10871/9621512",
+    "source": "經濟日報股市",
+    "summary": "國際油價出現反彈，國內油價在連續3周調降後首度「踩煞車」。中油11日宣布，自13日凌晨零時起至19日午夜12時止，汽、柴油價格皆不調整，分別為92無鉛汽油每公升29.8 元、95無鉛汽油每公升31.3 元、98無鉛汽油每公升33.3元、超級柴油每公升28.8元。",
+    "published_at": "2026-07-11T14:46:24+08:00",
+    "stocks": [],
+    "uid": "0d111e9099bb208031678ae6b3a301b1",
+    "title_zh": "颱風來車主不必急出門加油！下周國內油價不調漲",
+    "summary_zh": "國際油價出現反彈，國內油價在連續3周調降後首度「踩煞車」。中油11日宣布，自13日凌晨零時起至19日午夜12時止，汽、柴油價格皆不調整，分別為92無鉛汽油每公升29.8 元、95無鉛汽油每公升31.3 元、98無鉛汽油每公升33.3元、超級柴油每公升28.8元。",
+    "title_en": "Car owners don’t have to rush out to refuel when a typhoon hits! Domestic oil prices will not increase next week",
+    "summary_en": "International oil prices rebounded, and domestic oil prices \"pressed on the brakes\" for the first time after falling for three consecutive weeks. PetroChina announced on the 11th that from 0:00 a.m. on the 13th to 12:00 midnight on the 19th, the prices of gasoline and diesel will not be adjusted. They are 29.8 yuan per liter of 92 unleaded gasoline, 31.3 yuan per liter of 95 unleaded gasoline, 33.3 yuan per liter of 98 unleaded gasoline, and 28.8 yuan per liter of super diesel."
+  },
+  {
+    "title": "「Academic Humanizer」問世，抹除 AI 寫作痕跡引發學界爭議",
+    "url": "https://technews.tw/2026/07/11/ai-papers-tool-academic-humanizer/",
+    "source": "科技新報",
+    "summary": "人工智慧（AI）在學術領域的應用日益普及，如何辨識與規範 AI 生成內容已成為熱門議題。近日新創公司 Morp [&#8230;]",
+    "published_at": "2026-07-11T14:38:51+08:00",
+    "stocks": [],
+    "uid": "30cb760a31355b0eb37e18b6406a2917",
+    "title_zh": "「Academic Humanizer」問世，抹除 AI 寫作痕跡引發學界爭議",
+    "summary_zh": "人工智慧（AI）在學術領域的應用日益普及，如何辨識與規範 AI 生成內容已成為熱門議題。近日新創公司 Morp [&#8230;]",
+    "title_en": "\"Academic Humanizer\" comes out, erasing traces of AI writing and triggering academic controversy",
+    "summary_en": "The application of artificial intelligence (AI) in the academic field is becoming increasingly popular, and how to identify and standardize AI-generated content has become a hot topic. Recently, the new startup Morp […]"
+  },
+  {
+    "title": "遇 25 年最大危機，維基百科力抗 AI 掠奪、政治砲火與威權打壓",
+    "url": "https://technews.tw/2026/07/11/wikipedia-fights-for-survival/",
+    "source": "科技新報",
+    "summary": "走過 25 年歲月的維基百科（Wikipedia），正面臨近年來罕見的多重生存壓力。在全球對可信資訊信任度下滑 [&#8230;]",
+    "published_at": "2026-07-11T14:35:06+08:00",
+    "stocks": [],
+    "uid": "fb9627004bceac2edeb2759d2ac9bdbc",
+    "title_zh": "遇 25 年最大危機，維基百科力抗 AI 掠奪、政治砲火與威權打壓",
+    "summary_zh": "走過 25 年歲月的維基百科（Wikipedia），正面臨近年來罕見的多重生存壓力。在全球對可信資訊信任度下滑 [&#8230;]",
+    "title_en": "Facing the biggest crisis in 25 years, Wikipedia resists AI plunder, political fire and authoritarian suppression",
+    "summary_en": "Wikipedia, which has gone through 25 years, is facing multiple survival pressures that have been rare in recent years. Trust in trustworthy information is declining globally […]"
+  },
+  {
+    "title": "中油：13日起汽柴油價格不調整",
+    "url": "https://money.udn.com/money/story/7307/9621499",
+    "source": "經濟日報總經",
+    "summary": "台灣中油公司今天宣布，自13日凌晨零時起至7月19日晚上12時止，汽、柴油價格皆不調整。中油於2月28日至7月12日執行...",
+    "published_at": "2026-07-11T14:30:25+08:00",
+    "stocks": [],
+    "uid": "6d794391d9375f785d4f64b735ebd0e8",
+    "title_zh": "中油：13日起汽柴油價格不調整",
+    "summary_zh": "台灣中油公司今天宣布，自13日凌晨零時起至7月19日晚上12時止，汽、柴油價格皆不調整。中油於2月28日至7月12日執行...",
+    "title_en": "PetroChina: There will be no adjustment to gasoline and diesel prices starting from the 13th",
+    "summary_en": "China Petroleum Corporation of Taiwan announced today that there will be no adjustment in gasoline and diesel prices from 0:00 a.m. on the 13th to 12:00 p.m. on July 19. CNPC will implement it from February 28th to July 12th..."
+  },
+  {
+    "title": "他退休做「1兼職」付出慘痛代價！1400萬竟消失不見",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5501778",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕香港1名退休銀行高階主管誤信Instagram上的「點擊評分」兼職廣告，短短2個月內遭詐騙近350萬港元（約新台幣1433萬元）。香港警方則表示，過去一週已接獲近30起相似...…",
+    "published_at": "2026-07-11T14:30:00+08:00",
+    "stocks": [],
+    "uid": "5a6fcfa3f472369123fd1cc6b41432e0",
+    "title_zh": "他退休做「1兼職」付出慘痛代價！1400萬竟消失不見",
+    "summary_zh": "〔財經頻道／綜合報導〕香港1名退休銀行高階主管誤信Instagram上的「點擊評分」兼職廣告，短短2個月內遭詐騙近350萬港元（約新台幣1433萬元）。香港警方則表示，過去一週已接獲近30起相似...…",
+    "title_en": "He retired and worked as a \"part-time job\" and paid a heavy price! 14 million disappeared",
+    "summary_en": "[Financial Channel/Comprehensive Report] A retired bank executive in Hong Kong mistakenly believed in a \"click rating\" part-time job advertisement on Instagram and was defrauded of nearly HK$3.5 million (approximately NT$14.33 million) in just 2 months. Hong Kong police said that they had received nearly 30 similar cases in the past week..."
+  },
+  {
+    "title": "國內油價終止連3降！中油宣布下週汽、柴油不調整",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5501783",
+    "source": "自由財經",
+    "summary": "國內油價終止連三降!美伊再爆軍事衝突，中東原油供應受影響，中油今（11）日宣布，自下週一起汽油、柴油價格皆不調整，中油自中東戰爭後，累積吸收金額達160.7億元。\n\n\n中...…",
+    "published_at": "2026-07-11T14:25:21+08:00",
+    "stocks": [],
+    "uid": "82fcb7ab9de1aa33c37cd6cb7bd5cf7f",
+    "title_zh": "國內油價終止連3降！中油宣布下週汽、柴油不調整",
+    "summary_zh": "國內油價終止連三降!美伊再爆軍事衝突，中東原油供應受影響，中油今（11）日宣布，自下週一起汽油、柴油價格皆不調整，中油自中東戰爭後，累積吸收金額達160.7億元。\n\n\n中...…",
+    "title_en": "Domestic oil prices stop falling for three consecutive times! CNPC announced that there will be no adjustments to gasoline and diesel prices next week",
+    "summary_en": "Domestic oil prices have stopped falling for three consecutive times! Military conflicts between the United States and Iran have erupted again, and crude oil supply in the Middle East has been affected. China National Petroleum Corporation announced today (11th) that there will be no adjustments to gasoline and diesel prices starting from next Monday. Since the Middle East war, China National Petroleum Corporation has absorbed a cumulative amount of 16.07 billion yuan.\n\n\nmiddle...…"
+  },
+  {
+    "title": "本周 ETF 成交前十大竟然沒有0050！這檔分割後日均量飆65.1萬張最高",
+    "url": "https://money.udn.com/money/story/5607/9621495",
+    "source": "經濟日報",
+    "summary": "上周台股下跌3.0%，不過ETF成交依然熱絡。日均量最高的是「1拆24」、7月7日才恢復交易的群益臺灣加權正2（00685L），分割後變身最便宜的台股正2ETF，日均量飆到65.1萬張。其次是主動統一升級50（00403A），有26.6萬張。第三名是元大台灣50正2（00631L），有25.5萬張，",
+    "published_at": "2026-07-11T14:23:26+08:00",
+    "stocks": [],
+    "uid": "b8fbc1f4a306557232099353371dfccd",
+    "title_zh": "本周 ETF 成交前十大竟然沒有0050！這檔分割後日均量飆65.1萬張最高",
+    "summary_zh": "上周台股下跌3.0%，不過ETF成交依然熱絡。日均量最高的是「1拆24」、7月7日才恢復交易的群益臺灣加權正2（00685L），分割後變身最便宜的台股正2ETF，日均量飆到65.1萬張。其次是主動統一升級50（00403A），有26.6萬張。第三名是元大台灣50正2（00631L），有25.5萬張，",
+    "title_en": "There is no 0050 in the top ten ETF transactions this week! After the split, the daily average volume soared to 651,000, the highest level",
+    "summary_en": "Taiwan stocks fell 3.0% last week, but ETF transactions were still brisk. The one with the highest average daily volume is Qunyi Taiwan Weighted Plus 2 (00685L), which \"split 1 for 24\" and only resumed trading on July 7. After the split, it became the cheapest Taiwan stock Plus 2 ETF, with the average daily volume soaring to 651,000. Followed by the proactive unified upgrade 50 (00403A), with 266,000 copies. The third place is Yuanta Taiwan 50 Positive 2 (00631L), with 255,000 tickets."
+  },
+  {
+    "title": "油價凍漲！中油：下周汽、柴油價格不調整 維持亞鄰最低價",
+    "url": "https://money.udn.com/money/story/122328/9621474",
+    "source": "經濟日報總經",
+    "summary": "中油11日宣布，自7月13日凌晨零時起，至7月19日晚上12時止，汽、柴油價格皆不調整。分別為：92無鉛汽油每公升29.8元、95無鉛汽油每公升31.3元、98無鉛汽油每公升33.3元、超級柴油每公升28.8元。",
+    "published_at": "2026-07-11T14:11:02+08:00",
+    "stocks": [],
+    "uid": "85eafe8b88ee82c5f9cae4e4b81ff3fe",
+    "title_zh": "油價凍漲！中油：下周汽、柴油價格不調整 維持亞鄰最低價",
+    "summary_zh": "中油11日宣布，自7月13日凌晨零時起，至7月19日晚上12時止，汽、柴油價格皆不調整。分別為：92無鉛汽油每公升29.8元、95無鉛汽油每公升31.3元、98無鉛汽油每公升33.3元、超級柴油每公升28.8元。",
+    "title_en": "Oil prices freeze and rise! PetroChina: There will be no adjustment to gasoline and diesel prices next week, maintaining the lowest prices in Asia",
+    "summary_en": "PetroChina announced on the 11th that there will be no adjustment in gasoline and diesel prices from 0:00 a.m. on July 13 to 12:00 p.m. on July 19. They are: 92 unleaded gasoline 29.8 yuan per liter, 95 unleaded gasoline 31.3 yuan per liter, 98 unleaded gasoline 33.3 yuan per liter, and super diesel 28.8 yuan per liter."
+  },
+  {
+    "title": "雄三飛彈空射成功，台灣反艦戰力邁向多層次打擊體系",
+    "url": "https://technews.tw/2026/07/11/taiwan-hsiung-feng-iii-missile-air-launch-success-anti-ship-multi-layered-strike-system/",
+    "source": "科技新報",
+    "summary": "國軍又有一款新彈藥曝光！台灣自研自製、過去只能由陸地、軍艦發射的雄風三型反艦飛彈，克服微型化挑戰，近日正式掛載 [&#8230;]",
+    "published_at": "2026-07-11T14:05:32+08:00",
+    "stocks": [],
+    "uid": "85d3299c8f7fa70f2d7717270d4c04ef",
+    "title_zh": "雄三飛彈空射成功，台灣反艦戰力邁向多層次打擊體系",
+    "summary_zh": "國軍又有一款新彈藥曝光！台灣自研自製、過去只能由陸地、軍艦發射的雄風三型反艦飛彈，克服微型化挑戰，近日正式掛載 [&#8230;]",
+    "title_en": "The Xiongsan missile was successfully air-launched, and Taiwan's anti-ship combat capabilities moved towards a multi-layered strike system",
+    "summary_en": "The Chinese army has another new ammunition exposed! Taiwan’s self-developed Hsiung Feng III anti-ship missile, which in the past could only be launched from land and warships, has overcome the challenge of miniaturization and has been officially mounted […]"
+  },
+  {
+    "title": "Hyundai Motor 在首次現場比賽環境機器人整合中，將 Atlas 人形機器人帶到 FIFA World Cup 2026",
+    "url": "https://technews.tw/2026/07/11/hyundai-motor-_fifa-2026_boston-dynamics-atlas/",
+    "source": "科技新報",
+    "summary": "Hyundai Motor Company 8 日在紐約紐澤西球場的 FIFA 十六強比賽中，把 Boston [&#8230;]",
+    "published_at": "2026-07-11T14:00:41+08:00",
+    "stocks": [],
+    "uid": "0cf55336959c209c9d3b4b5f08cd5430",
+    "title_zh": "Hyundai Motor 在首次現場比賽環境機器人整合中，將 Atlas 人形機器人帶到 FIFA World Cup 2026",
+    "summary_zh": "Hyundai Motor Company 8 日在紐約紐澤西球場的 FIFA 十六強比賽中，把 Boston [&#8230;]",
+    "title_en": "Hyundai Motor brings Atlas humanoid robot to FIFA World Cup 2026 in first live competition environment robot integration",
+    "summary_en": "Hyundai Motor Company brought the Boston […]"
+  },
+  {
+    "title": "SK 海力士擬推記憶體即服務新模式，市場關注能否解決記憶體短缺",
+    "url": "https://finance.technews.tw/2026/07/11/sk-hynix-plans-to-launch-a-new-memory-as-a-service-model/",
+    "source": "科技新報",
+    "summary": "韓國記憶體大廠SK海力士（SK Hynix）正醞釀一場顛覆業界的商業模式變革。SK集團會長崔泰源近日接受媒體採 [&#8230;]",
+    "published_at": "2026-07-11T14:00:34+08:00",
+    "stocks": [],
+    "uid": "9fc4281068525b08afeaf13007e6326e",
+    "title_zh": "SK 海力士擬推記憶體即服務新模式，市場關注能否解決記憶體短缺",
+    "summary_zh": "韓國記憶體大廠SK海力士（SK Hynix）正醞釀一場顛覆業界的商業模式變革。SK集團會長崔泰源近日接受媒體採 [&#8230;]",
+    "title_en": "SK Hynix plans to launch a new memory-as-a-service model, and the market is concerned about whether it can solve the memory shortage",
+    "summary_en": "South Korean memory giant SK Hynix is ​​brewing a business model change that will subvert the industry. SK Group Chairman Choi Tae-won recently accepted an interview with the media […]"
+  },
+  {
+    "title": "藝術家吳美保86歲創作不輟　展逾百件畫作陶藝",
+    "url": "https://money.udn.com/money/story/7307/9621458",
+    "source": "經濟日報總經",
+    "summary": "藝術家吳美保86歲依然創作不輟，今起在中正紀念堂3樓藝廊舉辦「吳美保畫與陶」特展，逾百件油畫、陶藝等作品，展現美的力量",
+    "published_at": "2026-07-11T14:00:27+08:00",
+    "stocks": [],
+    "uid": "79fdd7808ebf3609c4fedde5e4b623a1",
+    "title_zh": "藝術家吳美保86歲創作不輟　展逾百件畫作陶藝",
+    "summary_zh": "藝術家吳美保86歲依然創作不輟，今起在中正紀念堂3樓藝廊舉辦「吳美保畫與陶」特展，逾百件油畫、陶藝等作品，展現美的力量",
+    "title_en": "Artist Wu Meibo continues to create at the age of 86, exhibiting more than 100 paintings and ceramics",
+    "summary_en": "Artist Wu Meibo is still creating at the age of 86. From today onwards, the special exhibition \"Ng Meibo Painting and Ceramics\" will be held at the gallery on the 3rd floor of the Chiang Kai-shek Memorial Hall. More than 100 oil paintings, ceramics and other works will show the power of beauty."
+  },
+  {
+    "title": "因應颱風巴威　台鐵11日東西幹線對號列車停駛",
+    "url": "https://money.udn.com/money/story/5648/9621433",
+    "source": "經濟日報總經",
+    "summary": "因應颱風巴威，國營台灣鐵路股份有限公司表示，今天晚間6時到12時西部、東部幹線對號列車全面停駛，僅彰化到潮州間、花蓮到台...",
+    "published_at": "2026-07-11T13:45:45+08:00",
+    "stocks": [],
+    "uid": "a0569d09f644bd0fd5871cec71e69160",
+    "title_zh": "因應颱風巴威　台鐵11日東西幹線對號列車停駛",
+    "summary_zh": "因應颱風巴威，國營台灣鐵路股份有限公司表示，今天晚間6時到12時西部、東部幹線對號列車全面停駛，僅彰化到潮州間、花蓮到台...",
+    "title_en": "In response to Typhoon Bavi, the Taiwan Railways suspended scheduled trains on the East-West Main Line on the 11th",
+    "summary_en": "In response to Typhoon Bavi, the state-owned Taiwan Railway Co., Ltd. stated that all trains on the western and eastern main lines will be suspended from 6:00 to 12:00 tonight, except for those between Changhua and Chaozhou and Hualien and Taiwan..."
+  },
+  {
+    "title": "宏碁第2季營收852億元　創13年同期新高",
+    "url": "https://money.udn.com/money/story/5612/9621390",
+    "source": "經濟日報股市",
+    "summary": "電腦品牌廠宏碁公布6月合併營收約新台幣278.18億元，月增6.3%，年減3%；第2季合併營收852.96億元，季增17...",
+    "published_at": "2026-07-11T13:21:43+08:00",
+    "stocks": [
+      "2353"
+    ],
+    "uid": "edceb4ef4314ef45055c5319996c08db",
+    "title_zh": "宏碁第2季營收852億元　創13年同期新高",
+    "summary_zh": "電腦品牌廠宏碁公布6月合併營收約新台幣278.18億元，月增6.3%，年減3%；第2季合併營收852.96億元，季增17...",
+    "title_en": "Acer's second-quarter revenue reached 85.2 billion yuan, a new high for the same period in 13 years",
+    "summary_en": "Computer brand manufacturer Acer announced June consolidated revenue of approximately NT$27.818 billion, a monthly increase of 6.3% and a year-on-year decrease of 3%; second quarter consolidated revenue was NT$85.296 billion, a quarterly increase of NT$1.7..."
+  },
+  {
+    "title": "通訊產品下滑　和碩6月營收月減4.9%",
+    "url": "https://money.udn.com/money/story/5612/9621388",
+    "source": "經濟日報股市",
+    "summary": "代工廠和碩公布6月合併營收新台幣912.96億元，月減4.9%，主要受到通訊產品下滑影響，但年增15.9%；第2季營收2...",
+    "published_at": "2026-07-11T13:21:27+08:00",
+    "stocks": [
+      "4938"
+    ],
+    "uid": "b996cb7d2ff562047bb55e2cd590227c",
+    "title_zh": "通訊產品下滑　和碩6月營收月減4.9%",
+    "summary_zh": "代工廠和碩公布6月合併營收新台幣912.96億元，月減4.9%，主要受到通訊產品下滑影響，但年增15.9%；第2季營收2...",
+    "title_en": "Communication products decline; Pegatron’s June revenue fell 4.9% month-on-month",
+    "summary_en": "Foundry Pegatron announced June consolidated revenue of NT$91.296 billion, a monthly decrease of 4.9%, mainly affected by the decline in communication products, but an annual increase of 15.9%; second quarter revenue of NT$2..."
+  },
+  {
+    "title": "香繼光營收／6月1.42億元、年增11.37% 多品牌暑假攻勢啟動",
+    "url": "https://money.udn.com/money/story/5607/9621384",
+    "source": "經濟日報",
+    "summary": "香繼光（7418）公告6月合併營收1.42億元，年增11.37%；累前六月合併營收8.59億元，年增8.56%。香繼光表示，繼光香香雞為集團最核心品牌，也是營收、展店與海外輸出的主要成長引擎。6月進入夏季消費旺季，外帶炸物具備即食、便利與高分享性的消費特性，尤其在車站、百貨商場、商圈及旅遊動線等高人流場域，受惠端午連假出遊、畢業聚會……等消費需求增溫，帶動門市來客數與客單表現優於去年同期。",
+    "published_at": "2026-07-11T13:17:48+08:00",
+    "stocks": [
+      "7418"
+    ],
+    "uid": "d640ff5323c0a8ae365a8ebc608f0de3",
+    "title_zh": "香繼光營收／6月1.42億元、年增11.37% 多品牌暑假攻勢啟動",
+    "summary_zh": "香繼光（7418）公告6月合併營收1.42億元，年增11.37%；累前六月合併營收8.59億元，年增8.56%。香繼光表示，繼光香香雞為集團最核心品牌，也是營收、展店與海外輸出的主要成長引擎。6月進入夏季消費旺季，外帶炸物具備即食、便利與高分享性的消費特性，尤其在車站、百貨商場、商圈及旅遊動線等高人流場域，受惠端午連假出遊、畢業聚會……等消費需求增溫，帶動門市來客數與客單表現優於去年同期。",
+    "title_en": "Xiangjiguang’s revenue/June was 142 million yuan, an annual increase of 11.37%. The multi-brand summer vacation offensive started",
+    "summary_en": "Xiangjiguang (7418) announced that its consolidated revenue in June was 142 million yuan, an annual increase of 11.37%; its consolidated revenue in the first six months was 859 million yuan, an annual increase of 8.56%. Xiangjiguang said that Jiguang Xiangxiang Chicken is the core brand of the group and the main growth engine for revenue, store openings and overseas exports. June has entered the peak summer consumption season. Take-out fried food has the characteristics of ready-to-eat, convenient and highly shareable consumption, especially in high-traffic areas such as stations, department stores, business districts and tourist routes. Benefiting from the increase in consumer demand such as Dragon Boat Festival holidays and graduation parties, etc., the number of store visitors and customer orders have been better than the same period last year."
+  },
+  {
+    "title": "宏碁第2季營收852億元　創13年同期新高",
+    "url": "https://www.cna.com.tw/news/afe/202607110094.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者吳家豪台北11日電）電腦品牌廠宏碁公布6月合併營收約新台幣278.18億元，月增6.3%，年減3%；第2季合併營收852.96億元，季增17.8%，年增28.2%，創近13年來同期新高；上半年合併營收1577.27億元，年增23.3%。",
+    "published_at": "2026-07-11T13:12:36+08:00",
+    "stocks": [
+      "2353"
+    ],
+    "uid": "66b53b64eb4f8ff8f89439829a758b0b",
+    "title_zh": "宏碁第2季營收852億元　創13年同期新高",
+    "summary_zh": "（中央社記者吳家豪台北11日電）電腦品牌廠宏碁公布6月合併營收約新台幣278.18億元，月增6.3%，年減3%；第2季合併營收852.96億元，季增17.8%，年增28.2%，創近13年來同期新高；上半年合併營收1577.27億元，年增23.3%。",
+    "title_en": "Acer's second-quarter revenue reached 85.2 billion yuan, a new high for the same period in 13 years",
+    "summary_en": "(Central News Agency reporter Wu Jiahao, Taipei, 11th) Computer brand manufacturer Acer announced consolidated revenue of approximately NT$27.818 billion in June, a monthly increase of 6.3%, and an annual decrease of 3%; consolidated revenue in the second quarter was 85.296 billion yuan, a quarterly increase of 17.8%, an annual increase of 28.2%, a record high for the same period in the past 13 years; consolidated revenue in the first half of the year was NT$157.727 billion, an annual increase of 23.3%."
+  },
+  {
+    "title": "巴威襲台！全台曾停電戶數逾15萬戶 台電動員超過1萬6千人次搶修",
+    "url": "https://money.udn.com/money/story/5612/9621373",
+    "source": "經濟日報股市",
+    "summary": "巴威颱風11日清晨觸陸，受颱風及外圍環流影響，全台各地風雨持續增強。截至11日中午12時，全國曾停電戶數超過15萬戶，台電已動員超過1萬6千人次全力搶修，現已復電逾11萬戶。台電表示，目前主要停電區域集中在桃園市、高雄市、台中市及雲林縣等地，在確保安全的前提下，台電已派員積極搶修，部分風雨強勁地區，將視風雨情況滾動調整搶修進度，盡速為民復電。",
+    "published_at": "2026-07-11T13:10:52+08:00",
+    "stocks": [],
+    "uid": "81474322ebc2241ba4b56c5a22313e08",
+    "title_zh": "巴威襲台！全台曾停電戶數逾15萬戶 台電動員超過1萬6千人次搶修",
+    "summary_zh": "巴威颱風11日清晨觸陸，受颱風及外圍環流影響，全台各地風雨持續增強。截至11日中午12時，全國曾停電戶數超過15萬戶，台電已動員超過1萬6千人次全力搶修，現已復電逾11萬戶。台電表示，目前主要停電區域集中在桃園市、高雄市、台中市及雲林縣等地，在確保安全的前提下，台電已派員積極搶修，部分風雨強勁地區，將視風雨情況滾動調整搶修進度，盡速為民復電。",
+    "title_en": "Ba Wei attacks Taiwan! More than 150,000 households in Taiwan experienced power outages, and more than 16,000 Taiwanese electricians made emergency repairs.",
+    "summary_en": "Typhoon Bavi hit land in the early morning of the 11th. Affected by the typhoon and peripheral circulation, wind and rain continued to intensify across Taiwan. As of 12:00 noon on the 11th, more than 150,000 households across the country had experienced power outages. Taipower has mobilized more than 16,000 people to make full efforts to repair the problem, and power has been restored to more than 110,000 households. Taipower stated that the main power outage areas are currently concentrated in Taoyuan City, Kaohsiung City, Taichung City and Yunlin County. On the premise of ensuring safety, Taipower has sent personnel to actively repair the power. In some areas with strong wind and rain, the repair progress will be adjusted on a rolling basis depending on the wind and rain conditions to restore power to the people as soon as possible."
+  },
+  {
+    "title": "Rapidus想靠低價力拚台積電！外媒潑冷水 揭「護國神山」難超越關鍵",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5501545",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕日本半導體新創Rapidus積極挑戰台積電，計畫於2027年量產2奈米晶片，先前更霸氣喊出，代工報價絕對會祭出「定價比台積電更低」的策略，希望以價格優勢爭取客戶，試圖挑戰台...…",
+    "published_at": "2026-07-11T13:10:50+08:00",
+    "stocks": [],
+    "uid": "76ac3a560d6e3d2ef7ae45d6fa28f635",
+    "title_zh": "Rapidus想靠低價力拚台積電！外媒潑冷水 揭「護國神山」難超越關鍵",
+    "summary_zh": "〔財經頻道／綜合報導〕日本半導體新創Rapidus積極挑戰台積電，計畫於2027年量產2奈米晶片，先前更霸氣喊出，代工報價絕對會祭出「定價比台積電更低」的策略，希望以價格優勢爭取客戶，試圖挑戰台...…",
+    "title_en": "Rapidus wants to compete with TSMC at low prices! Foreign media pours cold water on the difficulty of overcoming the \"sacred mountain that protects the country\"",
+    "summary_en": "[Financial Channel/Comprehensive Report] Japanese semiconductor startup Rapidus is actively challenging TSMC and plans to mass-produce 2nm chips in 2027. Previously, it even announced that the foundry quotation will definitely adopt a \"lower pricing than TSMC\" strategy, hoping to win customers with price advantages and try to challenge Taiwan..."
+  },
+  {
+    "title": "通訊產品下滑　和碩6月營收月減4.9%",
+    "url": "https://www.cna.com.tw/news/afe/202607110093.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者吳家豪台北11日電）代工廠和碩公布6月合併營收新台幣912.96億元，月減4.9%，主要受到通訊產品下滑影響，但年增15.9%；第2季營收2744.48億元，季增12.4%，年增2.7%；上半年營收5185.53億元，年減3.9%。",
+    "published_at": "2026-07-11T13:08:34+08:00",
+    "stocks": [
+      "4938"
+    ],
+    "uid": "4f806127858236462429e5bc6869cf69",
+    "title_zh": "通訊產品下滑　和碩6月營收月減4.9%",
+    "summary_zh": "（中央社記者吳家豪台北11日電）代工廠和碩公布6月合併營收新台幣912.96億元，月減4.9%，主要受到通訊產品下滑影響，但年增15.9%；第2季營收2744.48億元，季增12.4%，年增2.7%；上半年營收5185.53億元，年減3.9%。",
+    "title_en": "Communication products decline; Pegatron’s June revenue fell 4.9% month-on-month",
+    "summary_en": "(Central News Agency reporter Wu Jiahao, Taipei, 11th) Foundry Pegatron announced June consolidated revenue of NT$91.296 billion, a monthly decrease of 4.9%, mainly affected by the decline in communication products, but an annual increase of 15.9%; second quarter revenue was 274.448 billion yuan, a quarterly increase of 12.4%, and an annual increase of 2.7%; first half revenue was NT$518.553 billion, an annual decrease of 3.9%."
+  },
+  {
+    "title": "台股4萬6得而復失！周線紅翻黑、月線失守 法人：籌碼進入沉澱期",
+    "url": "https://money.udn.com/money/story/5607/9621370",
+    "source": "經濟日報",
+    "summary": "加權指數9日下跌379點，收在45,354點，成交量9,967.8億元，是4月29日以來，成交量再次跌破1兆元。籌碼面部分，三大法人賣超350.2億元，其中外資現貨賣超472.5億元，期貨淨空單減少538口至80,730口；投信買超199億元，自營商賣超76.7億元。本周下跌1,426點，跌幅3.05%，周線紅翻黑。本周也同時失守月線大關。",
+    "published_at": "2026-07-11T13:07:35+08:00",
+    "stocks": [],
+    "uid": "08f6c89f575129400d970c0a0c35755d",
+    "title_zh": "台股4萬6得而復失！周線紅翻黑、月線失守 法人：籌碼進入沉澱期",
+    "summary_zh": "加權指數9日下跌379點，收在45,354點，成交量9,967.8億元，是4月29日以來，成交量再次跌破1兆元。籌碼面部分，三大法人賣超350.2億元，其中外資現貨賣超472.5億元，期貨淨空單減少538口至80,730口；投信買超199億元，自營商賣超76.7億元。本周下跌1,426點，跌幅3.05%，周線紅翻黑。本周也同時失守月線大關。",
+    "title_en": "Taiwan stocks gained 46,000 and lost again! The weekly line turned red and turned black, and the monthly line fell. Legal person: chips entered the settling period.",
+    "summary_en": "The weighted index fell 379 points on the 9th to close at 45,354 points, with a trading volume of 996.78 billion yuan. This is the first time since April 29 that the trading volume has fallen below 1 trillion yuan. In terms of chips, the three major legal persons sold more than 35.02 billion yuan, of which foreign spot sales exceeded 47.25 billion yuan, futures net short orders decreased by 538 lots to 80,730 lots; trust buying exceeded 19.9 billion yuan, and self-operated traders sold more than 7.67 billion yuan. This week it fell 1,426 points, or 3.05%, and the weekly line turned from red to black. This week it also fell below the monthly line mark."
+  },
+  {
+    "title": "颱風巴威災情　台電全台逾3萬戶未復電桃園高雄最多",
+    "url": "https://money.udn.com/money/story/11162/9621368",
+    "source": "經濟日報股市",
+    "summary": "颱風巴威於今天清晨觸陸，台電最新統計，截至中午12時，全台曾停電戶數達15萬3733戶，目前已復電11萬7237戶，復電...",
+    "published_at": "2026-07-11T13:06:57+08:00",
+    "stocks": [],
+    "uid": "cfe4e4e95dd3b71d113297d4164eac7e"
+  },
+  {
+    "title": "巴威肆虐曾釀全台逾15萬戶停電 桃園、高雄、台中成重災區",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5501716",
+    "source": "自由財經",
+    "summary": "巴威颱風今（11）日清晨觸陸，受颱風及外圍環流影響，全台各地風雨持續增強。台電統計，截至中午12點，全國曾停電戶數超過15萬戶，台電已動員超過1萬6千人次全力搶修，現已復電逾1...…",
+    "published_at": "2026-07-11T13:03:41+08:00",
+    "stocks": [],
+    "uid": "1e9acb01c37241ff215a7b0915467a83"
+  },
+  {
+    "title": "颱風巴威來襲　3縣市29條土石流紅色警戒",
+    "url": "https://money.udn.com/money/story/7307/9621354",
+    "source": "經濟日報總經",
+    "summary": "颱風巴威來襲，農業部農村及水土保持署發布土石流警戒，紅色警戒29條分布於3縣市，黃色警戒230條分布於7縣市，另有大規模...",
+    "published_at": "2026-07-11T13:00:50+08:00",
+    "stocks": [],
+    "uid": "f86a25c5024716341724f6825c6c3e19"
+  },
+  {
+    "title": "三星、英特爾晶圓代工布局新技術發展，台積電以穩健驗證架構面對挑戰",
+    "url": "https://finance.technews.tw/2026/07/11/samsung-and-intel-are-developing-new-technologies-in-their-foundry-business/",
+    "source": "科技新報",
+    "summary": "在當前競爭激烈的先進半導體製程市場中，包括英特爾與三星都正為其下一代先進製程研發新式供電技術，進行差異化的發展 [&#8230;]",
+    "published_at": "2026-07-11T13:00:32+08:00",
+    "stocks": [],
+    "uid": "23bf8f2dfa074a82e8412ce42628938c"
+  },
+  {
+    "title": "颱風巴威災情　台電全台逾3萬戶未復電桃園高雄最多",
+    "url": "https://www.cna.com.tw/news/ahel/202607110092.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者曾筠庭台北11日電）颱風巴威於今天清晨觸陸，台電最新統計，截至中午12時，全台曾停電戶數達15萬3733戶，目前已復電11萬7237戶，復電率逾76%，尚有3萬6496戶未復電，集中在桃園、高雄等地；台電已動員超過1萬6000人次搶修，並調度14個工作班跨區北上支援。",
+    "published_at": "2026-07-11T12:59:32+08:00",
+    "stocks": [],
+    "uid": "75475e90d34f0081cfb0b6aba690d705"
+  },
+  {
+    "title": "從「單純提問」走向「專業轉介」，AI 心理健康生態系的下一步",
+    "url": "https://technews.tw/2026/07/11/mental-health-ai-coexist-general-ai-win-structured-therapy-long-term-tracking/",
+    "source": "科技新報",
+    "summary": "越來越多人將 ChatGPT、Claude、Gemini 等「通用型人工智慧」（GPAI）當成情緒宣洩與心理健 [&#8230;]",
+    "published_at": "2026-07-11T12:58:15+08:00",
+    "stocks": [],
+    "uid": "7542efa2022f57cd99be122b34d8a412"
+  },
+  {
+    "title": "SK海力士：2027年記憶體供應最吃緊",
+    "url": "https://www.cna.com.tw/news/aopl/202607110089.aspx",
+    "source": "中央社",
+    "summary": "（中央社首爾10日綜合外電報導）SK海力士執行長郭魯正表示，全球記憶體產業將在2027年迎來史上最嚴重的供應短缺。他預期，儘管公司積極擴充產能，未來10年記憶體需求仍將持續超越公司的供應能力。",
+    "published_at": "2026-07-11T12:47:25+08:00",
+    "stocks": [],
+    "uid": "19889540e8b79f0e1c4e6913eaf1f015"
+  },
+  {
     "title": "立院3委員會16日聯席　審查政院版、藍白無人機條例",
     "url": "https://money.udn.com/money/story/7307/9621328",
     "source": "經濟日報總經",
@@ -37,6 +438,15 @@
     "summary_zh": "巴威颱風持續為石門水庫挹注水量。經濟部水利署11日表示，截至上午10時，石門水庫集水區累計降雨量已達209毫米，入流總量約1,992萬立方公尺，由於集水區持續降雨、入流量快速增加，北區水資源分署已於上午11時啟動溢洪道放水，以控制水位上升速度；這也是石門水庫繼2024年10月31日康芮颱風後，時隔約618日再次啟動溢洪道放水。",
     "title_en": "Heavy rain in Bawei floods Shimen Reservoir, and spillway water is released again after 618 days",
     "summary_en": "Typhoon Bawei continues to pour water into the Shimen Reservoir. The Water Conservancy Department of the Ministry of Economic Affairs stated on the 11th that as of 10 a.m., the cumulative rainfall in the Shimen Reservoir catchment area had reached 209 millimeters, and the total inflow was approximately 19.92 million cubic meters. Due to continuous rainfall in the catchment area and the rapid increase in inflow, The North District Water Resources Branch has started releasing water from the spillway at 11 a.m. to control the rate of rise in water levels. This is also the first time that Shimen Reservoir has started releasing water from the spillway after Typhoon Kangrui on October 31, 2024."
+  },
+  {
+    "title": "3重壓力齊聚新台幣摜破32元　台積電法說成全村希望",
+    "url": "https://www.cna.com.tw/news/afe/202607110083.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者潘姿羽台北11日電）7月才剛揭開序幕，新台幣就摜破32元整數大關，而且貶勢凌厲，短短不到半個月，累計已跌逾3角。匯銀人士分析，中東緊張局勢升溫、台股修正以及股利發放旺季到來，3重壓力齊聚，短線新台幣難逃貶勢；下週則聚焦台積電法說會，觀察能否提振市場信心、帶動外資回流。",
+    "published_at": "2026-07-11T12:28:10+08:00",
+    "stocks": [],
+    "uid": "2674b659b4aca46c9509f06c7fceef1f"
   },
   {
     "title": "巴威颱風致災！全台近4.5萬戶停電尚未復電 這縣市最嚴重",
@@ -108,6 +518,15 @@
     "summary_en": "7-ELEVEN entrusted Lianhua (1231) Food to produce nearly 80 fresh food items including rice balls, hand rolls, sandwiches, burgers, lunch boxes and other items that also used the suspected batch number of soybean salad oil from China United Oil and Fat. Lianhua Food announced a refund plan today.\n\nWherever..."
   },
   {
+    "title": "SK海力士登美股　會長：不排除追加美國半導體投資",
+    "url": "https://www.cna.com.tw/news/afe/202607110077.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者楊啟芳首爾11日專電）成功在美國那斯達克上市的SK海力士，會長崔泰源今天表示，不排除追加投資美國境內半導體生產設施的可能性；除記憶體工廠之外，也可能會對AI相關技術的合資公司進行投資。",
+    "published_at": "2026-07-11T12:05:57+08:00",
+    "stocks": [],
+    "uid": "47ab63e736cdbc6b242253be8fa317ef"
+  },
+  {
     "title": "颱風天停止外送   外送員團保、責任險最低保額曝光",
     "url": "https://ec.ltn.com.tw/article/breakingnews/5501645",
     "source": "自由財經",
@@ -145,6 +564,15 @@
     "summary_zh": "〔財經頻道／綜合報導〕隨著台積電赴日本熊本設廠，不僅帶動當地半導體產業發展，也吸引大批台灣資金湧入房地產市場。日媒報導，不少台灣投資人將熊本視為兼具增值潛力與避險功能的據點，甚至有人坦言，購屋是...…",
     "title_en": "Taiwanese people are buying real estate in Japan! The Japanese media revealed all the reasons behind it",
     "summary_en": "[Financial Channel/Comprehensive Report] As TSMC sets up a factory in Kumamoto, Japan, it not only drives the development of the local semiconductor industry, but also attracts a large amount of Taiwanese capital to pour into the real estate market. Japanese media reported that many Taiwanese investors regard Kumamoto as a stronghold with both value-added potential and safe-haven functions. Some even admitted frankly that buying a house is..."
+  },
+  {
+    "title": "颱風巴威災情逾13萬戶停電　台電：4.4萬戶待復電",
+    "url": "https://www.cna.com.tw/news/ahel/202607110072.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者曾筠庭台北11日電）颱風巴威影響全台，根據台電最新統計，截至今天上午11時，全台曾停電戶數13萬8951戶，其中9萬4133戶已修復，復電逾6成7，目前尚有4萬4818戶未復電。",
+    "published_at": "2026-07-11T11:54:46+08:00",
+    "stocks": [],
+    "uid": "b53f712af382a90b130bd56a9d3c54f4"
   },
   {
     "title": "把時間還給阿嬤　當科技遇上冰冷走廊靠AI找回醫療溫度",
@@ -1228,6 +1656,65 @@
     "summary_en": "Taiwan stocks are unstoppable, rising more than the U.S. Nasdaq for three consecutive years! Investment industry players said that looking back on the past three years, since the advent of AI applications, the cumulative return rate of Taiwan stocks has reached 178%, which is far more than double the NASDAQ index during the same period; if it were before this year..."
   },
   {
+    "title": "颱風巴威全台停電　台電：逾8成9修復仍逾萬戶未復電",
+    "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E5%B7%B4%E5%A8%81%E5%85%A8%E5%8F%B0%E5%81%9C%E9%9B%BB-%E5%8F%B0%E9%9B%BB-%E9%80%BE8%E6%88%909%E4%BF%AE%E5%BE%A9%E4%BB%8D%E9%80%BE%E8%90%AC%E6%88%B6%E6%9C%AA%E5%BE%A9%E9%9B%BB-064522089.html",
+    "source": "Yahoo股市",
+    "summary": "（中央社記者曾筠庭台北11日電）颱風巴威傍晚前風雨最劇烈，根據台電最新統計，截至今天下午2時，全台曾停電戶數17萬7485戶，其中15萬8631戶已修復，復電逾8成9，目前尚有1萬8854戶未復電。",
+    "published_at": "2026-07-11T06:45:22+08:00",
+    "stocks": [],
+    "uid": "99c8404b5f5985da9d0eeca43509f570"
+  },
+  {
+    "title": "消費需求疲軟拖累 百事公司財測下修股價應聲下滑",
+    "url": "https://tw.stock.yahoo.com/news/%E6%B6%88%E8%B2%BB%E9%9C%80%E6%B1%82%E7%96%B2%E8%BB%9F%E6%8B%96%E7%B4%AF-%E7%99%BE%E4%BA%8B%E5%85%AC%E5%8F%B8%E8%B2%A1%E6%B8%AC%E4%B8%8B%E4%BF%AE%E8%82%A1%E5%83%B9%E6%87%89%E8%81%B2%E4%B8%8B%E6%BB%91-064000671.html",
+    "source": "Yahoo股市",
+    "summary": "圖／本報資料庫商傳媒｜方承業／綜合外電報導全球飲料零食巨擘百事公司（PepsiCo Inc.）的股價於週四晚間走跌，此前該公司在公布會計年度第二季財報後，下修了其盈利預期，並導致多家華爾街券商分析師調降了百事的目標價。 投資者正密切關注消費者需求疲軟的壓力，特別是美國市場的消費動態，這引發了外界對這家零食飲料巨頭未來成長路徑的擔憂。Evercore ISI 將百事公司的目標價從 170 美元下調至 150 美元，但維持「符合市場預期」的評級。Evercore ISI 指出，百事將每股盈餘（EPS，即公司每一股賺多少錢）預期下調至區間下限，雖然符合市場預期，但在財報電話會議後仍影響了投資者情緒。 分析師提到，百事公司將部分業績疲軟歸因於美國消費者支出的減少，尤其是在小額的衝動性消費方面，部分原因來自油價上漲。然而，Evercore ISI 認為這並非導致百事公司面臨挑戰的全部原因。同時，百事公司預計今年下半年原物料及其他投入成本將進一步攀升。 派傑投資公司（Piper Sandler）分析師 Michael Lavery 在審閱百事第二季業績與展望後，將其目標價從 178 美元降至 17",
+    "published_at": "2026-07-11T06:40:00+08:00",
+    "stocks": [],
+    "uid": "4394e887eb74c170a46007b5653236ca"
+  },
+  {
+    "title": "記憶體黑馬爆發！法人喊出2205元目標價",
+    "url": "https://tw.news.yahoo.com/%E8%A8%98%E6%86%B6%E9%AB%94%E9%BB%91%E9%A6%AC%E7%88%86%E7%99%BC-%E6%B3%95%E4%BA%BA%E5%96%8A%E5%87%BA2205%E5%85%83%E7%9B%AE%E6%A8%99%E5%83%B9-063524956.html",
+    "source": "Yahoo股市",
+    "summary": "[NOWNEWS今日新聞]繼群聯之後，記憶體族群再添千金股焦點。工業記憶體大廠宜鼎近年受惠記憶體價格回升及AI應用需求擴大，營運表現持續升溫。宜鼎公布第二季合併營收達224.43億元，季增70.3%、...",
+    "published_at": "2026-07-11T06:35:24+08:00",
+    "stocks": [],
+    "uid": "fb6fd793e05ae3a6a276386ec9f719ef"
+  },
+  {
+    "title": "鴻海法人董事劉憶如辭任！自砍一席董事　維持獨董過半治理標準",
+    "url": "https://tw.stock.yahoo.com/news/%E9%B4%BB%E6%B5%B7%E6%B3%95%E4%BA%BA%E8%91%A3%E4%BA%8B%E5%8A%89%E6%86%B6%E5%A6%82%E8%BE%AD%E4%BB%BB-%E8%87%AA%E7%A0%8D-%E5%B8%AD%E8%91%A3%E4%BA%8B-%E7%B6%AD%E6%8C%81%E7%8D%A8%E8%91%A3%E9%81%8E%E5%8D%8A%E6%B2%BB%E7%90%86%E6%A8%99%E6%BA%96-063200138.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]實習記者盛琳／綜合報導鴻海（2317）昨（10）日公告，法人董事鴻景國際投資及其代表人劉憶如辭任董事職務。鴻海表示，此次調整主要是為維持董事...",
+    "published_at": "2026-07-11T06:32:00+08:00",
+    "stocks": [
+      "2317"
+    ],
+    "uid": "009ca991ce9f2f06306b498b211c3230"
+  },
+  {
+    "title": "4檔記憶體7月準備噴？「這檔」良率飆95%今年EPS達13元　南亞科獲大量3年長約、威剛DRAM Q3再漲30%",
+    "url": "https://tw.stock.yahoo.com/news/4%E6%AA%94%E8%A8%98%E6%86%B6%E9%AB%947%E6%9C%88%E6%BA%96%E5%82%99%E5%99%B4-%E9%80%99%E6%AA%94-%E8%89%AF%E7%8E%87%E9%A3%8695-%E4%BB%8A%E5%B9%B4eps%E9%81%9413%E5%85%83-%E5%8D%97%E4%BA%9E%E7%A7%91%E7%8D%B2%E5%A4%A7%E9%87%8F3%E5%B9%B4%E9%95%B7%E7%B4%84-063000145.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]記者陳献朋／綜合報導由於全球AI伺服器和資料中心需求猛烈，記憶體供給持續吃緊，相關廠商營運爆發，包含顆粒廠首選南亞科（2408）及模組廠指標...",
+    "published_at": "2026-07-11T06:30:00+08:00",
+    "stocks": [
+      "2408",
+      "3260"
+    ],
+    "uid": "14ff83e66a857111dc3bad5ebc9b94b7"
+  },
+  {
+    "title": "聯準會政策轉向利多AI 微軟股價前景看俏",
+    "url": "https://tw.stock.yahoo.com/news/%E8%81%AF%E6%BA%96%E6%9C%83%E6%94%BF%E7%AD%96%E8%BD%89%E5%90%91%E5%88%A9%E5%A4%9Aai-%E5%BE%AE%E8%BB%9F%E8%82%A1%E5%83%B9%E5%89%8D%E6%99%AF%E7%9C%8B%E4%BF%8F-063000794.html",
+    "source": "Yahoo股市",
+    "summary": "圖／本報資料庫商傳媒｜方承業／綜合外電報導隨著美國聯準會（Federal Reserve）的貨幣政策重心逐步轉向支持人工智慧（AI）等新興技術發展，全球科技巨擘微軟（Microsoft）的股票前景備受看好。今日分析指出，微軟憑藉其在雲端服務與AI領域的深厚佈局，在此波趨勢中佔據優勢地位，未來成長潛力豐厚。 微軟作為全球領先的科技公司，業務涵蓋軟體、雲端運算、人工智慧工具以及個人運算產品。其核心業務包括 Microsoft 365 和領英（LinkedIn），以及關鍵的雲端平台 Azure、Windows 作業系統和 Xbox 遊戲主機等，服務遍及全球的消費者和企業客戶。 根據《Simply Wall St》的分析，微軟的市值高達 2.8 兆美元。其營收來源多元，其中「生產力與商業流程」業務貢獻約 1,353 億美元，「智慧雲端」業務約 1,284 億美元，「更多個人運算」則為 546 億美元。營收地域分佈平均，美國地區佔約 1,628 億美元，其他國家則貢獻約 1,554 億美元。 相較之下，其他金融服務業者如高盛（Goldman Sachs）和 BlackRock Income Tr",
+    "published_at": "2026-07-11T06:30:00+08:00",
+    "stocks": [],
+    "uid": "1a6639a7ff1d468a18621f8a176dd7ff"
+  },
+  {
     "title": "高級水果代名詞1／為搶最好水果貸款付現金跟盤商買貨　金控董事長三節必報到",
     "url": "https://www.mirrormedia.mg/story/20260703bus002",
     "source": "鏡週刊財經",
@@ -1267,6 +1754,126 @@
     "summary_en": "<p>The second-generation owner of Meilin Fruit Store, Yuan Shengxiong, underwent knee surgery five years ago. Now he has completely stepped back from the scene, handing over the important responsibility of market purchasing to his son Yuan Mingda, while his two daughters Yuan Jun and Yuan Ziting take care of the store. Yuan Shengxiong and his wife moved to Chiayi to enjoy a retired life full of planting. Only on important holidays, the couple will go north to keep an eye on the business. </p>"
   },
   {
+    "title": "國內油價終止連3降！中油宣布下週汽、柴油不調整",
+    "url": "https://tw.news.yahoo.com/%E5%9C%8B%E5%85%A7%E6%B2%B9%E5%83%B9%E7%B5%82%E6%AD%A2%E9%80%A33%E9%99%8D-%E4%B8%AD%E6%B2%B9%E5%AE%A3%E5%B8%83%E4%B8%8B%E9%80%B1%E6%B1%BD-%E6%9F%B4%E6%B2%B9%E4%B8%8D%E8%AA%BF%E6%95%B4-062521586.html",
+    "source": "Yahoo股市",
+    "summary": "國內油價終止連三降!美伊再爆軍事衝突，中東原油供應受影響，中油今（11）日宣布，自下週一起汽油、柴油價格皆不調整，中油自中東戰爭後，累積吸收金額達160.7億元。中油持續執行油價穩定措施，下週國內92無鉛汽油每公升29.8 元、95 無鉛汽油每公升 31.3 元、98 無鉛汽油每公升 33.3 元、",
+    "published_at": "2026-07-11T06:25:21+08:00",
+    "stocks": [],
+    "uid": "793aaecaabf35f4e73e7d0fdd3dce420"
+  },
+  {
+    "title": "AI帶動用電需求 NextEra擬668億美元併購Dominion Energy",
+    "url": "https://tw.stock.yahoo.com/news/ai%E5%B8%B6%E5%8B%95%E7%94%A8%E9%9B%BB%E9%9C%80%E6%B1%82-nextera%E6%93%AC668%E5%84%84%E7%BE%8E%E5%85%83%E4%BD%B5%E8%B3%BCdominion-energy-062100654.html",
+    "source": "Yahoo股市",
+    "summary": "圖／示意圖商傳媒｜責任編輯／綜合外電報導在人工智慧（AI）快速發展帶動電力需求攀升之際，美國公用事業龍頭 NextEra Energy 宣布，將以約668億美元的全股票交易方式收購 Dominion Energy。根據路透社報導，若交易順利完成，合併後企業價值將達4,200億美元，市值約2,490億美元，成為美國最大的電力供應商之一，並躋身全球大型公用事業公司之列。依照交易內容，NextEra將以每股0.8138股自家股票交換Dominion每股股票，對Dominion的估值約為每股75.97美元，較前一交易日收盤價溢價約23%。消息公布後，Dominion股價走高，NextEra股價則因市場消化併購成本而回落。分析指出，此次交易反映AI資料中心快速擴張，正推升美國電力基礎設施需求，也加速能源產業整併趨勢。 Dominion Energy在美國維吉尼亞州擁有約51GW的資料中心簽約供電容量，涵蓋全球知名的「Data Center Alley」，服務對象包括Alphabet、Amazon、Microsoft、Meta等大型科技企業。NextEra表示，AI時代需要更快速、更具規模的能源建",
+    "published_at": "2026-07-11T06:21:00+08:00",
+    "stocks": [],
+    "uid": "1a324a587a1b2165d54eacfd5de5bf32"
+  },
+  {
+    "title": "颱風過後再加油！　中油下週國內汽柴油價不調整",
+    "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E9%81%8E%E5%BE%8C%E5%86%8D%E5%8A%A0%E6%B2%B9-%E4%B8%AD%E6%B2%B9%E4%B8%8B%E9%80%B1%E5%9C%8B%E5%85%A7%E6%B1%BD%E6%9F%B4%E6%B2%B9%E5%83%B9%E4%B8%8D%E8%AA%BF%E6%95%B4-061536373.html",
+    "source": "Yahoo股市",
+    "summary": "美伊再爆軍事衝突，中東原油供應受影響，國際油價波動上漲。考量日韓等亞鄰國家油價補貼情形，經整體評估，政府擴大貨物稅減徵，汽、柴油分別吸收3.7元及2.1 元，7月13 日至7 月19 日國內汽、柴油價格皆不調整。台灣中油公司表示，該公司2月28日至7月12日執行專案平穩各項措...",
+    "published_at": "2026-07-11T06:15:36+08:00",
+    "stocks": [],
+    "uid": "b0b0a2384b167b76b5e1f280c5dd4a4a"
+  },
+  {
+    "title": "油價不調降了！中東戰火再起　中油：已吸收160.7億",
+    "url": "https://tw.news.yahoo.com/%E6%B2%B9%E5%83%B9%E4%B8%8D%E8%AA%BF%E9%99%8D%E4%BA%86-%E4%B8%AD%E6%9D%B1%E6%88%B0%E7%81%AB%E5%86%8D%E8%B5%B7-%E4%B8%AD%E6%B2%B9-%E5%B7%B2%E5%90%B8%E6%94%B6160-7%E5%84%84-061320265.html",
+    "source": "Yahoo股市",
+    "summary": "台灣中油公司今（7/11）日宣布，自下週一（7/13）凌晨零時起至7月19日晚上12時止，汽、柴油價格皆不調整，分別為 92無鉛汽油每公升29.8 元、95 無鉛汽油每公升 31.3 元、98 無鉛汽油每公升 33.3 元、超級柴油每公升28.8 元。",
+    "published_at": "2026-07-11T06:13:20+08:00",
+    "stocks": [],
+    "uid": "61874df9431d4934908fa0fb7618c097"
+  },
+  {
+    "title": "維持亞鄰最低價及調降貨物稅　中油：7/13-7/19國內汽、柴油價格不調整",
+    "url": "https://tw.news.yahoo.com/%E7%B6%AD%E6%8C%81%E4%BA%9E%E9%84%B0%E6%9C%80%E4%BD%8E%E5%83%B9%E5%8F%8A%E8%AA%BF%E9%99%8D%E8%B2%A8%E7%89%A9%E7%A8%85-%E4%B8%AD%E6%B2%B9-7-13-7-061300453.html",
+    "source": "Yahoo股市",
+    "summary": "台灣中油公司今(11)日宣布，自下週一(13 日)凌晨零時起至 7 月 19 日晚上12 時止，汽、柴油價格皆不調整，分別為 92無鉛汽油每公升29.8 元 、95 無鉛汽油每公升 31.3 元、98 無鉛汽油每公升 33.3 元、超級柴油每公升28.8 元。",
+    "published_at": "2026-07-11T06:13:00+08:00",
+    "stocks": [],
+    "uid": "b44da845bad9ebfdf4f695d1dad9c183"
+  },
+  {
+    "title": "黑水虻創造循環經濟 (圖)",
+    "url": "https://tw.news.yahoo.com/%E9%BB%91%E6%B0%B4%E8%99%BB%E5%89%B5%E9%80%A0%E5%BE%AA%E7%92%B0%E7%B6%93%E6%BF%9F-%E5%9C%96-061148424.html",
+    "source": "Yahoo股市",
+    "summary": "經歷7天、吃飽養大的黑水虻幼蟲會先經高溫殺菁，再清洗、烘乾。",
+    "published_at": "2026-07-11T06:11:48+08:00",
+    "stocks": [],
+    "uid": "8ee4d37c1200af3a22d609076fcad8d7"
+  },
+  {
+    "title": "黑水虻轉化有機飼料 (圖)",
+    "url": "https://tw.news.yahoo.com/%E9%BB%91%E6%B0%B4%E8%99%BB%E8%BD%89%E5%8C%96%E6%9C%89%E6%A9%9F%E9%A3%BC%E6%96%99-%E5%9C%96-061146080.html",
+    "source": "Yahoo股市",
+    "summary": "黑水虻剩餘蟲糞、蟲蛻及未消化植物纖維則被製成有機肥料。",
+    "published_at": "2026-07-11T06:11:46+08:00",
+    "stocks": [],
+    "uid": "7a54446cc296d73575283d184bc38096"
+  },
+  {
+    "title": "黑水虻轉化飼料　天然幾丁質擁優勢 (圖)",
+    "url": "https://tw.news.yahoo.com/%E9%BB%91%E6%B0%B4%E8%99%BB%E8%BD%89%E5%8C%96%E9%A3%BC%E6%96%99-%E5%A4%A9%E7%84%B6%E5%B9%BE%E4%B8%81%E8%B3%AA%E6%93%81%E5%84%AA%E5%8B%A2-%E5%9C%96-061144445.html",
+    "source": "Yahoo股市",
+    "summary": "黑水虻剩餘蟲糞、蟲蛻及未消化植物纖維則被製成有機肥料，最大特色是蟲蛻含有天然的幾丁質，能誘發土壤中的益菌來抑制線蟲等土傳病害。",
+    "published_at": "2026-07-11T06:11:44+08:00",
+    "stocks": [],
+    "uid": "af7b9a0608de41f6294bd12be64e7f8d"
+  },
+  {
+    "title": "洪自亨加入循創生物科技 (圖)",
+    "url": "https://tw.news.yahoo.com/%E6%B4%AA%E8%87%AA%E4%BA%A8%E5%8A%A0%E5%85%A5%E5%BE%AA%E5%89%B5%E7%94%9F%E7%89%A9%E7%A7%91%E6%8A%80-%E5%9C%96-061142443.html",
+    "source": "Yahoo股市",
+    "summary": "循創生物科技經理洪自亨過去在東海大學環工系求學期間接觸循環農業概念，他曾自己創業，一頭栽入黑水虻肥料研發，但很快發現單打獨鬥的困難，最終選擇加入循創團隊，發揮互補專長。",
+    "published_at": "2026-07-11T06:11:42+08:00",
+    "stocks": [],
+    "uid": "d28dab325d9ec11024ddcd0f55836a79"
+  },
+  {
+    "title": "美伊續戰陰影籠罩！中油宣布下週油價持平　汽、柴油各吸收3.7元及2.1元",
+    "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E4%BC%8A%E7%BA%8C%E6%88%B0%E9%99%B0%E5%BD%B1%E7%B1%A0%E7%BD%A9-%E4%B8%AD%E6%B2%B9%E5%AE%A3%E5%B8%83%E4%B8%8B%E9%80%B1%E6%B2%B9%E5%83%B9%E6%8C%81%E5%B9%B3-%E6%B1%BD-%E6%9F%B4%E6%B2%B9%E5%90%84%E5%90%B8%E6%94%B63-7%E5%85%83%E5%8F%8A2-061100462.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]記者張書翰／綜合報導台灣中油公司今（11）日宣布，自下週一(13日)凌晨零時起至7月19日晚上12時止，汽、柴油價格皆不調整，分別為：92無鉛汽油每...",
+    "published_at": "2026-07-11T06:11:00+08:00",
+    "stocks": [],
+    "uid": "11fa7ccfd68dc366ee67ee3d12fd2f27"
+  },
+  {
+    "title": "抽中最多爽賺近6萬！3檔新股下周登場",
+    "url": "https://tw.news.yahoo.com/%E6%8A%BD%E4%B8%AD%E6%9C%80%E5%A4%9A%E7%88%BD%E8%B3%BA%E8%BF%916%E8%90%AC-3%E6%AA%94%E6%96%B0%E8%82%A1%E4%B8%8B%E5%91%A8%E7%99%BB%E5%A0%B4-061056837.html",
+    "source": "Yahoo股市",
+    "summary": "[NOWNEWS今日新聞]近期台股震盪加劇，市場操作難度提高，不少投資人將目光轉向新股申購，希望透過抽籤機會賺取上市價差。根據證券交易所資料，下周共有長興（1717）、華通（2313）及大鵬科（768...",
+    "published_at": "2026-07-11T06:10:56+08:00",
+    "stocks": [
+      "1717",
+      "2313"
+    ],
+    "uid": "aa49bde025e720d59ba3008d5b2e4309"
+  },
+  {
+    "title": "下週汽柴油價格不調整！95每公升31.3元",
+    "url": "https://tw.news.yahoo.com/%E4%B8%8B%E9%80%B1%E6%B1%BD%E6%9F%B4%E6%B2%B9%E5%83%B9%E6%A0%BC%E4%B8%8D%E8%AA%BF%E6%95%B4-95%E6%AF%8F%E5%85%AC%E5%8D%8731-3%E5%85%83-061049599.html",
+    "source": "Yahoo股市",
+    "summary": "[NOWNEWS今日新聞]下週汽柴油價不調整！台灣中油公司宣布，自下週一（13日）凌晨零時起至7月19日晚上12時止，汽、柴油價格皆不調整，分別為92無鉛汽油每公升29.8元、95無鉛汽油每公升31....",
+    "published_at": "2026-07-11T06:10:49+08:00",
+    "stocks": [],
+    "uid": "886c216ee7f85108d6302ddb4e843b50"
+  },
+  {
+    "title": "創辦循創生物科技　錢柏綸瞄準黑水虻商機 (圖)",
+    "url": "https://tw.news.yahoo.com/%E5%89%B5%E8%BE%A6%E5%BE%AA%E5%89%B5%E7%94%9F%E7%89%A9%E7%A7%91%E6%8A%80-%E9%8C%A2%E6%9F%8F%E7%B6%B8%E7%9E%84%E6%BA%96%E9%BB%91%E6%B0%B4%E8%99%BB%E5%95%86%E6%A9%9F-%E5%9C%96-061040410.html",
+    "source": "Yahoo股市",
+    "summary": "循創生物科技創辦人、總經理錢柏綸原本在科技業工作，因看見國外利用黑水虻處理有機廢棄物的案例，決定在台創業。",
+    "published_at": "2026-07-11T06:10:40+08:00",
+    "stocks": [],
+    "uid": "27516c23125ec53c2e782f44be93d2ac"
+  },
+  {
     "title": "美國經濟擴張超過兩年　股債多元布局掌握成長、收益機會",
     "url": "https://finance.ettoday.net/news/3198983",
     "source": "ETtoday",
@@ -1278,6 +1885,26 @@
     "summary_zh": "<img alt=\"美國經濟擴張超過兩年　股債多元布局掌握成長、收益機會\" src=\"https://cdn2.ettoday.net/images/7740/c7740757.jpg\" /><br /> 富蘭克林坦伯頓基金集團美國經濟儀表板追蹤三大類共十二項經濟指標中，6月營建許可等11項指數維持在「擴張」的綠燈，富蘭克林證券投顧表示，美國經濟穩健增長與強勁企業獲利仍有助支撐風險性資產上行格局，核心部位首選美國、新興市場平衡型基金，兼具股市成長及債息收益機會，債券建議側重美國非投資級債及新興市場當地貨幣債券型基金，股票看好科技、生技、公用事業、美國小型股及日本股票型基金。 <a href=\"https://finance.ettoday.net/news/3198983\" target=\"_blank\">《詳全文...》</a>",
     "title_en": "The U.S. economy has expanded for more than two years, with a diversified layout of stocks and bonds to capture growth and income opportunities",
     "summary_en": "<img alt=\"The U.S. economy has expanded for more than two years, and the diversified layout of stocks and bonds grasps growth and income opportunities\" src=\"https://cdn2.ettoday.net/images/7740/c7740757.jpg\" /><br /> Franklin Templeton Fund Group's U.S. Economic Dashboard tracks a total of 12 economic indicators in three major categories, and 11 indexes such as construction permits in June maintained the green light of \"expansion.\" Franklin Securities Investment Consulting said that the solid growth of the U.S. economy and strong corporate profits will still help support the rise of risky assets. According to the industry structure, the core position is the U.S. and emerging market balanced funds, which offer both stock market growth and bond interest income opportunities. Bond recommendations focus on U.S. non-investment grade bonds and emerging market local currency bond funds. Stocks are optimistic about technology, biotechnology, utilities, U.S. small-cap stocks, and Japanese stock funds. <a href=\"https://finance.ettoday.net/news/3198983\" target=\"_blank\">\"Full text...\"</a>"
+  },
+  {
+    "title": "歐洲金雞母神救援！台泥6月營收狂增32%、破133億　能源事業暴增65%成最強外掛",
+    "url": "https://tw.stock.yahoo.com/news/%E6%AD%90%E6%B4%B2%E9%87%91%E9%9B%9E%E6%AF%8D%E7%A5%9E%E6%95%91%E6%8F%B4-%E5%8F%B0%E6%B3%A56%E6%9C%88%E7%87%9F%E6%94%B6%E7%8B%82%E5%A2%9E32-%E7%A0%B4133%E5%84%84-%E8%83%BD%E6%BA%90%E4%BA%8B%E6%A5%AD%E6%9A%B4%E5%A2%9E65-%E6%88%90%E6%9C%80%E5%BC%B7%E5%A4%96%E6%8E%9B-060500599.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]記者蕭廷芬／綜合報導水泥大廠台泥（1101）10日公告6月營收133.8億元，月增6.11%、年增32.4%，帶動上半年累計營收達714.7億元，年增1.54%，營運...",
+    "published_at": "2026-07-11T06:05:00+08:00",
+    "stocks": [
+      "1101"
+    ],
+    "uid": "60772ecd5e77ff2c1bd63e8a4cd82759"
+  },
+  {
+    "title": "Meta自研AI晶片Iris　9月交台積電量產",
+    "url": "https://tw.news.yahoo.com/meta%E8%87%AA%E7%A0%94ai%E6%99%B6%E7%89%87iris-9%E6%9C%88%E4%BA%A4%E5%8F%B0%E7%A9%8D%E9%9B%BB%E9%87%8F%E7%94%A2-060312262.html",
+    "source": "Yahoo股市",
+    "summary": "[NOWNEWS今日新聞]全球科技巨頭AI軍備競賽持續升溫，在微軟、Google、亞馬遜陸續擴大AI基礎建設後，Meta也加速推動自研AI晶片布局。根據《路透》引述Meta內部備忘錄報導，公司計畫自今...",
+    "published_at": "2026-07-11T06:03:12+08:00",
+    "stocks": [],
+    "uid": "b58225ed1eedcdcb701c04ce6ee9c392"
   },
   {
     "title": "美股收盤》SK海力士掛牌大漲13％！道瓊漲149點 台積電ADR下跌",
@@ -1312,6 +1939,24 @@
     "summary_en": "<img alt=\"The most you can earn in the lottery is nearly 60,000! Take a look at the 3 lottery stocks of Taiwan stocks next week\" src=\"https://cdn2.ettoday.net/images/8819/c8819167.jpg\" /><br /> The Taiwan stock market is volatile and the operation is difficult. It is better to participate in the draw of stocks to compare your luck and profit from the price difference. According to the stock exchange website, there are three stocks of Changxing (1717), Huatong (2313) and Dapeng Technology (7689) next week. Among them, the old Netcom company Dapeng Technology has the highest potential profit. If the transaction price of the new stock is estimated at 247 yuan, if you win one lottery, you have the opportunity to earn nearly 60,000 yuan. <a href=\"https://finance.ettoday.net/news/3198750\" target=\"_blank\">\"Full text...\"</a>"
   },
   {
+    "title": "日經指數強勁反彈重回68,000點 美科技股與庫藏股助漲",
+    "url": "https://tw.stock.yahoo.com/news/%E6%97%A5%E7%B6%93%E6%8C%87%E6%95%B8%E5%BC%B7%E5%8B%81%E5%8F%8D%E5%BD%88%E9%87%8D%E5%9B%9E68-000%E9%BB%9E-%E7%BE%8E%E7%A7%91%E6%8A%80%E8%82%A1%E8%88%87%E5%BA%AB%E8%97%8F%E8%82%A1%E5%8A%A9%E6%BC%B2-060000314.html",
+    "source": "Yahoo股市",
+    "summary": "商傳媒｜責任編輯／綜合外電報導東京股市今日強勁反彈，日經指數收復 68,000 點關卡，一甩前一日的大幅下跌。此波漲勢主要受美國科技股飆升、日圓走軟以及企業庫藏股（公司用自己的錢買回自家股票，通常會推升每股盈餘）等多重利多因素推動。 根據《BigGo Finance》報導，日經平均指數今日收盤上漲 924.80 點，來到 67,743.85 點。盤中指數更一度飆漲逾 1,100 點。這與昨日東京市場出現今年以來最大單日跌幅形成鮮明對比，當時日經指數曾重挫 1,437 點。 分析指出，美國長期利率的下降為買入成長型股票創造了安全感，促使資金流入高價科技股，特別是半導體類股。受此帶動，昨日美國主要股指同步走揚，道瓊工業平均指數上漲 139 點，收於 52,487 點；納斯達克綜合指數更上漲 336 點至 26,206 點，連續第二天創下歷史新高。費城半導體指數（Philadelphia Semiconductor Index，衡量半導體產業的指標）昨日也大漲 385 點。 此外，日本企業積極實施庫藏股計畫，加上東京證券交易所持續推動提升企業價值的措施，都為股價提供了堅實支撐。投資者對於日本",
+    "published_at": "2026-07-11T06:00:00+08:00",
+    "stocks": [],
+    "uid": "b6e742749b5c849f5b84c19516646a02"
+  },
+  {
+    "title": "颱風政治假？　謝金河：北市牽動全國股市金融「為何不用AI？要給地方首長那麼大權力」",
+    "url": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E6%94%BF%E6%B2%BB%E5%81%87-%E8%AC%9D%E9%87%91%E6%B2%B3-%E5%8C%97%E5%B8%82%E7%89%BD%E5%8B%95%E5%85%A8%E5%9C%8B%E8%82%A1%E5%B8%82%E9%87%91%E8%9E%8D-%E7%82%BA%E4%BD%95%E4%B8%8D%E7%94%A8ai-%E8%A6%81%E7%B5%A6%E5%9C%B0%E6%96%B9%E9%A6%96%E9%95%B7%E9%82%A3%E9%BA%BC%E5%A4%A7%E6%AC%8A%E5%8A%9B-055808066.html",
+    "source": "Yahoo股市",
+    "summary": "蔣萬安「防颱整備日」放假理由成為這次巴威颱風政治攻防，台股股民平均損失6萬元。財訊傳媒董事長謝金河表示，股市，金融的運作是全國連動，台北市長宣布停班停課，股市，銀行也停止交易，這樣的決定是否合理？城市治理和國家治理，企業治理一樣，進入AI時代，為什麼大家要給地方首長那麼大的權力，決定大家的作息？",
+    "published_at": "2026-07-11T05:58:08+08:00",
+    "stocks": [],
+    "uid": "f03fe0d0ddfd9589e49a1a4208227df8"
+  },
+  {
     "title": "美伊衝突後似將繼續談判　油價拉回",
     "url": "https://ec.ltn.com.tw/article/breakingnews/5501356",
     "source": "自由財經",
@@ -1323,6 +1968,44 @@
     "summary_zh": "美國和伊朗相互攻擊導致中東局勢再度升溫，油輪通行荷莫茲海峽（Strait of Hormuz）受阻，不過雙方似乎仍將繼續談判，油價今天拉回。\n\n紐約市場西德州中級原油的8月期貨價格下跌0.9...…",
     "title_en": "Negotiations appear to continue after US-Iran conflict, oil prices pull back",
     "summary_en": "The mutual attacks between the United States and Iran have caused tensions in the Middle East to rise again, and oil tankers' passage through the Strait of Hormuz has been blocked. However, it seems that the two sides will continue to negotiate, and oil prices pulled back today.\n\nAugust futures prices for West Texas Intermediate crude oil fell 0.9% in New York..."
+  },
+  {
+    "title": "美國銀行考慮發行 10% 利率信用卡 川普推信貸上限引熱議",
+    "url": "https://tw.news.yahoo.com/%E7%BE%8E%E5%9C%8B%E9%8A%80%E8%A1%8C%E8%80%83%E6%85%AE%E7%99%BC%E8%A1%8C-10-%E5%88%A9%E7%8E%87%E4%BF%A1%E7%94%A8%E5%8D%A1-%E5%B7%9D%E6%99%AE%E6%8E%A8%E4%BF%A1%E8%B2%B8%E4%B8%8A%E9%99%90%E5%BC%95%E7%86%B1%E8%AD%B0-055353814.html",
+    "source": "Yahoo股市",
+    "summary": "圖／示意圖 商傳媒｜方承業／綜合外電報導 美國銀行正 […] 這篇文章 美國銀行考慮發行 10% 利率信用卡 川普推信貸上限引熱議 最早出現於 行銷人。",
+    "published_at": "2026-07-11T05:53:53+08:00",
+    "stocks": [],
+    "uid": "7991fcb65187a63b2f20effa68e8f823"
+  },
+  {
+    "title": "台股本週跌逾3% 科技股輪動記憶體、零組件逆勢上漲",
+    "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E6%9C%AC%E9%80%B1%E8%B7%8C%E9%80%BE3-%E7%A7%91%E6%8A%80%E8%82%A1%E8%BC%AA%E5%8B%95%E8%A8%98%E6%86%B6%E9%AB%94-%E9%9B%B6%E7%B5%84%E4%BB%B6%E9%80%86%E5%8B%A2%E4%B8%8A%E6%BC%B2-055100509.html",
+    "source": "Yahoo股市",
+    "summary": "圖／本報資料庫商傳媒｜何映辰／台北報導臺灣股市本週經歷一波下跌，加權指數週四（7月9日）收盤重挫 379.8 點，跌幅 0.83%，最終收在 45,354.61 點。加上颱風巴威來襲，臺北宣布週五停止上班上課，使得臺灣證券交易所今日（10日）休市，本週累計跌幅達 3.05%，共下跌 1,426.01 點。 根據《Taiwan News》報導，週四市場成交金額達新台幣 9,443.4 億元（約 294 億美元），連續第二個交易日未能突破兆元關卡，顯示市場觀望氣氛濃厚。大型權值股普遍承壓，其中晶圓代工龍頭台積電股價下跌 2.03% 至 2,415 元，聯發科下跌 1.75% 至 3,925 元，台達電也小跌 0.27% 至 1,880 元，鴻海則以 237.5 元平盤作收。 不過，投資人將焦點轉向部分科技類股，帶動相關次產業逆勢上揚。記憶體族群在南亞科技財報公布前吸引買盤，國內外券商紛紛調高其目標價，南亞科技股價強勢漲停收在 435.5 元，晶豪科技也拉出漲停板。華邦電子、群聯電子及旺宏電子則均上漲超過 3%。 此外，矽晶圓製造商表現也優於大盤。全球晶圓大廠環球晶圓股價漲停收在 1,350",
+    "published_at": "2026-07-11T05:51:00+08:00",
+    "stocks": [
+      "2308",
+      "2330",
+      "2344",
+      "2408",
+      "2454",
+      "3006",
+      "6488",
+      "1315",
+      "2303",
+      "2337"
+    ],
+    "uid": "033b8c89c393361c5dde11387f23beeb"
+  },
+  {
+    "title": "副業入門指南：新手月賺6000！最簡單工作曝光　每周一次也能達標",
+    "url": "https://tw.stock.yahoo.com/news/%E5%89%AF%E6%A5%AD%E5%85%A5%E9%96%80%E6%8C%87%E5%8D%97-%E6%96%B0%E6%89%8B%E6%9C%88%E8%B3%BA6000-%E6%9C%80%E7%B0%A1%E5%96%AE%E5%B7%A5%E4%BD%9C%E6%9B%9D%E5%85%89-%E6%AF%8F%E5%91%A8-%E6%AC%A1%E4%B9%9F%E8%83%BD%E9%81%94%E6%A8%99-054500229.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]實習記者藍彥欣／綜合報導物價持續攀升，越來越多人尋求副業收入補貼生活，專家指出，對沒有特殊技能的新手而言，每月增加3萬日圓（約新台幣近60...",
+    "published_at": "2026-07-11T05:45:00+08:00",
+    "stocks": [],
+    "uid": "cc894e4da4eb02394c5f96cbc6d5504c"
   },
   {
     "title": "巴威外眼牆恐卡到北台灣 專家估暴風圈明天凌晨才離開 2地區風雨驚人",
@@ -1371,6 +2054,26 @@
     "summary_zh": "中度颱風巴威正逐步逼近，氣象專家林得恩今天在「林老師氣象站」臉書粉專表示，今天清晨至下午黃金20小時，將是巴威颱風最靠近台灣的時刻，也是巴威颱風帶來台灣風雨浪最大的時刻。",
     "title_en": "Entering rock 'n' roll moment, Bawei's largest invasion of Taiwan in the past 25 years, experts reveal three stages of rainfall",
     "summary_en": "Moderate Typhoon Bavi is gradually approaching. Meteorological expert Lin Deen said on the \"Teacher Lin Weather Station\" Facebook fan page today that the golden 20 hours from early morning to afternoon will be the time when Typhoon Bavi is closest to Taiwan, and it is also the time when Typhoon Bavi brings the greatest storms and waves to Taiwan."
+  },
+  {
+    "title": "炸雞熱賣6月營收年增11%！這家多品牌攻勢啟動　全球展店突破400家",
+    "url": "https://tw.news.yahoo.com/%E7%82%B8%E9%9B%9E%E7%86%B1%E8%B3%A36%E6%9C%88%E7%87%9F%E6%94%B6%E5%B9%B4%E5%A2%9E11-%E9%80%99%E5%AE%B6%E5%A4%9A%E5%93%81%E7%89%8C%E6%94%BB%E5%8B%A2%E5%95%9F%E5%8B%95-%E5%85%A8%E7%90%83%E5%B1%95%E5%BA%97%E7%AA%81%E7%A0%B4400%E5%AE%B6-053300490.html",
+    "source": "Yahoo股市",
+    "summary": "受惠端午連假出遊、畢業聚會等消費需求增溫，帶動門市來客數與客單表現優於去年同期，香繼光（7418）公告6月合併營收為新台幣1.42億元，年增11.37%；累計1～6月合併營收8.6億元，年增8.56%。香繼光表示，繼光香香雞為集團最核心品牌，也是營收、展店與海外輸出的主要成長引擎。6月進入夏季消費旺季，外帶炸物具備即食、便利與高分享性的消費特性，尤其在車站、百貨商場、商圈及旅遊動線等高人流場域。",
+    "published_at": "2026-07-11T05:33:00+08:00",
+    "stocks": [
+      "7418"
+    ],
+    "uid": "3366934282a46a6d7d004267eb933cfb"
+  },
+  {
+    "title": "台股雨露均霑多頭行情已過？阮慕驊點名「這類股」跌很重：AI供應鏈資金大遷徙",
+    "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E9%9B%A8%E9%9C%B2%E5%9D%87%E9%9C%91%E5%A4%9A%E9%A0%AD%E8%A1%8C%E6%83%85%E5%B7%B2%E9%81%8E-%E9%98%AE%E6%85%95%E9%A9%8A%E9%BB%9E%E5%90%8D-%E9%80%99%E9%A1%9E%E8%82%A1-%E8%B7%8C%E5%BE%88%E9%87%8D-ai%E4%BE%9B%E6%87%89%E9%8F%88%E8%B3%87%E9%87%91%E5%A4%A7%E9%81%B7%E5%BE%99-053203659.html",
+    "source": "Yahoo股市",
+    "summary": "2026年上半年台股延續多頭走勢，在AI、高效能運算（HPC）、半導體等題材帶動下，加權指數屢創歷史新高；若以2025年底收盤約2萬8890點計算，截至6月底收盤約4萬5000點，上半年累計大漲約56%。財經專家阮慕驊今 （11）日在臉書以「科技股走勢分化，全部上漲的時間過去了」為題提醒，若單從相關報導看，今年上半年的美國股市，簡直是人工智慧（AI）的盛宴，......",
+    "published_at": "2026-07-11T05:32:03+08:00",
+    "stocks": [],
+    "uid": "0bcc09809d80551a4357b76c7eb8bfa8"
   },
   {
     "title": "對護國神山投信任票 台積電高階經理人現贈與節稅潮",
@@ -1453,6 +2156,24 @@
     "summary_zh": "〔編譯魏國金／綜合報導〕中國人力資源和社會保障部最新公布的二〇二六至二〇三〇年「十五五規劃」中僅表示，「在十五五時期，城鎮新增就業人數保持『相當規模』；至於年度目標與計畫指標體系，將依據每年的經濟與社會狀況『靈活設定』」。這是中國至少三十年來首度未設定未來五年城鎮新增就業「具體目標」，凸顯中國在創造…",
     "title_en": "China’s 15th Five-Year Plan does not set an employment target for the first time",
     "summary_en": "[Compiled by Wei Guojin/Comprehensive Report] The latest \"Fifth Five-Year Plan\" released by the Ministry of Human Resources and Social Security of China from 2026 to 2030 only states that \"during the 15th Five-Year Plan period, the number of new urban jobs will remain at a \"considerable scale\"; as for the annual goals and planning indicator system, it will be \"flexibly set\" based on the economic and social conditions each year.\" This is the first time in at least 30 years that China has not set a \"specific target\" for new urban employment in the next five years, highlighting China's progress in creating..."
+  },
+  {
+    "title": "SK海力士掛牌首日飆漲　CEO喊2027恐現最慘缺貨潮　黃仁勳也示警",
+    "url": "https://tw.news.yahoo.com/sk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E6%8E%9B%E7%89%8C%E9%A6%96%E6%97%A5%E9%A3%86%E6%BC%B2-ceo%E5%96%8A2027%E6%81%90%E7%8F%BE%E6%9C%80%E6%85%98%E7%BC%BA%E8%B2%A8%E6%BD%AE-%E9%BB%83%E4%BB%81%E5%8B%B3%E4%B9%9F%E7%A4%BA%E8%AD%A6-052823953.html",
+    "source": "Yahoo股市",
+    "summary": "韓國記憶體大廠SK海力士（SK Hynix）美國時間10日在那斯達克交易所（Nasdaq）掛牌上市，股價首日大漲13%，收在每股168.01美元，這也是外國公司在美國史上第三大首次公開發行案，募資規模達265億美元。 執行長郭魯正接受《路…",
+    "published_at": "2026-07-11T05:28:23+08:00",
+    "stocks": [],
+    "uid": "930290bdf5587d6d4723320dad1b7c14"
+  },
+  {
+    "title": "台灣對美出口首超中國！《彭博》：全球科技供應鏈重心加速轉移",
+    "url": "https://tw.news.yahoo.com/%E5%8F%B0%E7%81%A3%E5%B0%8D%E7%BE%8E%E5%87%BA%E5%8F%A3%E9%A6%96%E8%B6%85%E4%B8%AD%E5%9C%8B-%E5%BD%AD%E5%8D%9A-%E5%85%A8%E7%90%83%E7%A7%91%E6%8A%80%E4%BE%9B%E6%87%89%E9%8F%88%E9%87%8D%E5%BF%83%E5%8A%A0%E9%80%9F%E8%BD%89%E7%A7%BB-052739793.html",
+    "source": "Yahoo股市",
+    "summary": "[Newtalk新聞] 美中貿易緊張局勢持續升溫，美國近年透過提高關稅、出口管制及制裁等措施，推動供應鏈重組，降低對中國製造的依賴。在此趨勢下，台灣憑藉半導體與科技產業優勢，對美出口快速成長。根據《彭博》（Bloomberg）最新報導，今年截至 5 月，台灣對美出口金額首度超越中國，創下自 1992 年有統計以來的新紀錄，凸顯台灣在全球科技供應鏈的重要地位。 《彭博》以專文分析台灣近年的經濟表現，指出台灣雖僅有約 2300 萬人口、經濟規模約 8840 億美元，在全球排名第 21，但近年已躍升為全球重要經濟體。報導指出，台灣 2025 年經濟成長率達 8.8%，市場預估 2026 年可望進一步成長至 9.5%，增速超過全球平均逾 3 倍，與 2023 年僅 1.1% 的成長形成鮮明對比。 報導指出，台灣經濟快速成長的關鍵，在於半導體、電子零組件等產品對美出口大幅增加。受惠於人工智慧（AI）浪潮，美國對高階晶片需求持續攀升，也帶動台灣出口表現。 根據《彭博》引用的統計，今年 1 月至 5 月，台灣對美出口總額達1161億美元，高於中國的1042億美元，使台灣成為美國第三大進口來源，僅次於",
+    "published_at": "2026-07-11T05:27:39+08:00",
+    "stocks": [],
+    "uid": "eaf45cae4a6b959fb3a3356d022d41c7"
   },
   {
     "title": "SK海力士華爾街掛牌首日勁揚13%　美股收高",
