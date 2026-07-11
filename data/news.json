@@ -1,5 +1,111 @@
 [
   {
+    "title": "台積法說 四大議題聚焦",
+    "url": "https://money.udn.com/money/story/5612/9621905",
+    "source": "經濟日報股市",
+    "summary": "台積電將於16日召開實體法說會，法人關注台積電第2季財測與毛利率是否超標、本季美元營收是否將再季成長挑戰新高、是否將二度上修全年展望至美元營收年成長34-36%、海內外擴充3奈米製程布局進度等四大議題，台積電高層談話將成市場風向球。",
+    "published_at": "2026-07-12T01:46:10+08:00",
+    "stocks": [],
+    "uid": "3ab1760eb27202bcea5c55d9ff72be2e",
+    "title_zh": "台積法說 四大議題聚焦",
+    "summary_zh": "台積電將於16日召開實體法說會，法人關注台積電第2季財測與毛利率是否超標、本季美元營收是否將再季成長挑戰新高、是否將二度上修全年展望至美元營收年成長34-36%、海內外擴充3奈米製程布局進度等四大議題，台積電高層談話將成市場風向球。",
+    "title_en": "TSMC’s explanation focuses on four major issues",
+    "summary_en": "TSMC will hold an entity legal meeting on the 16th. Legal persons will pay attention to four major issues, including whether TSMC’s second-quarter financial forecast and gross profit margin exceed standards, whether US dollar revenue will grow again this quarter and challenge new highs, whether the full-year outlook will be revised upward for a second time to annual US dollar revenue growth of 34-36%, and the progress of expanding the 3nm process layout at home and abroad. TSMC’s senior management speeches will become the market trend."
+  },
+  {
+    "title": "亞洲生技大會 三議題吸睛",
+    "url": "https://money.udn.com/money/story/5612/9621906",
+    "source": "經濟日報股市",
+    "summary": "全球生技產業年度盛會「BIO Asia–Taiwan 亞洲生技大會」將於15日至19日登場，今年大會以「亞洲創新，引領全球」為主題，聚焦精準投資、AI x 藥物x 臨床試驗，以及供應鏈三大議題，以打造為亞洲生技產業交流及媒合的第一大平台。",
+    "published_at": "2026-07-12T01:45:24+08:00",
+    "stocks": [],
+    "uid": "cc76743b240c19e3d271ba3c4faa3bc2",
+    "title_zh": "亞洲生技大會 三議題吸睛",
+    "summary_zh": "全球生技產業年度盛會「BIO Asia–Taiwan 亞洲生技大會」將於15日至19日登場，今年大會以「亞洲創新，引領全球」為主題，聚焦精準投資、AI x 藥物x 臨床試驗，以及供應鏈三大議題，以打造為亞洲生技產業交流及媒合的第一大平台。",
+    "title_en": "Three topics attract attention at the Asian Biotechnology Conference",
+    "summary_en": "The global biotechnology industry's annual event \"BIO Asia-Taiwan\" will be held from the 15th to the 19th. This year's conference is themed \"Asia Innovation, Leading the World\" and focuses on three major topics: precision investment, AI"
+  },
+  {
+    "title": "台股擂台／周冠軍「低調黑馬」陳奇琛 本周押南電、揚明光",
+    "url": "https://money.udn.com/money/story/123397/9621825",
+    "source": "經濟日報",
+    "summary": "「低調黑馬」陳奇琛上周報酬率漲0.4%，再次奪下周冠軍寶座。其中，長榮航太（2645）搭上軍工股無人機熱潮，上漲10.8%，表現最為亮眼。英濟則因漲多拉回，下跌6.6%，表現不如預期。",
+    "published_at": "2026-07-12T01:27:57+08:00",
+    "stocks": [
+      "2645",
+      "1806",
+      "3294"
+    ],
+    "uid": "1f27cd5a166353b179cd459471bea23e",
+    "title_zh": "台股擂台／周冠軍「低調黑馬」陳奇琛 本周押南電、揚明光",
+    "summary_zh": "「低調黑馬」陳奇琛上周報酬率漲0.4%，再次奪下周冠軍寶座。其中，長榮航太（2645）搭上軍工股無人機熱潮，上漲10.8%，表現最為亮眼。英濟則因漲多拉回，下跌6.6%，表現不如預期。",
+    "title_en": "Taiwan Stocks Arena/Weekly Champion \"Low-key Dark Horse\" Chen Qichen This week bets on Nandian and Yang Mingguang",
+    "summary_en": "\"Low-key dark horse\" Chen Qichen's return rate increased by 0.4% last week, once again winning the championship next week. Among them, Evergreen Aerospace (2645) rode on the drone boom in military industry stocks and rose 10.8%, the most eye-catching performance. Yingji pulled back due to its gains, falling 6.6%, and its performance was not as good as expected."
+  },
+  {
+    "title": "台股擂台／挑戰者「Q女王」劉良梅 本周挑環球晶、和大",
+    "url": "https://money.udn.com/money/story/123397/9621828",
+    "source": "經濟日報",
+    "summary": "「Q女王」劉良梅上周投資組合報酬率漲0.1%。投資標的中，環球晶（6488）漲7.5%，表現最佳；聯電跌6.9%，表現不如預期。",
+    "published_at": "2026-07-12T01:25:58+08:00",
+    "stocks": [
+      "6488",
+      "2303"
+    ],
+    "uid": "6eebf22a91df051ae87aa5973fc3dbc3",
+    "title_zh": "台股擂台／挑戰者「Q女王」劉良梅 本周挑環球晶、和大",
+    "summary_zh": "「Q女王」劉良梅上周投資組合報酬率漲0.1%。投資標的中，環球晶（6488）漲7.5%，表現最佳；聯電跌6.9%，表現不如預期。",
+    "title_en": "Taiwan Stocks Arena/Challenger \"Q Queen\" Liu Liangmei This week picks Global Crystal, Heda",
+    "summary_en": "\"Q Queen\" Liu Liangmei's portfolio return increased by 0.1% last week. Among the investment targets, Global Crystal (6488) rose 7.5% and was the best performer; UMC fell 6.9% and performed worse than expected."
+  },
+  {
+    "title": "台股擂台／挑戰者「股市獲利王」何文高 本周看好麗臺、精誠",
+    "url": "https://money.udn.com/money/story/123397/9621831",
+    "source": "經濟日報",
+    "summary": "「股市獲利王」何文高上周報酬跌2.2%。其中，所持有的長榮航太（2645）受惠政策利多與籌碼面安定，單周上漲10.8%，表現亮眼。",
+    "published_at": "2026-07-12T01:24:22+08:00",
+    "stocks": [
+      "2645",
+      "2465",
+      "6214"
+    ],
+    "uid": "a181377a90bf19cf86dbb7a527aa1922",
+    "title_zh": "台股擂台／挑戰者「股市獲利王」何文高 本周看好麗臺、精誠",
+    "summary_zh": "「股市獲利王」何文高上周報酬跌2.2%。其中，所持有的長榮航太（2645）受惠政策利多與籌碼面安定，單周上漲10.8%，表現亮眼。",
+    "title_en": "Taiwan stock arena/Challenger He Wengao, the \"stock market profit king\", is optimistic about Litai and Jingcheng this week",
+    "summary_en": "\"King of Stock Market Profitability\" He Wengao's last week's return fell 2.2%. Among them, the holdings of Evergreen Aerospace (2645) benefited from favorable policies and stable bargaining chips, rising 10.8% in a single week, which was an outstanding performance."
+  },
+  {
+    "title": "台股擂台／挑戰者「華冠北極星」劉彥良 本周選南亞科、麗臺",
+    "url": "https://money.udn.com/money/story/123397/9621842",
+    "source": "經濟日報",
+    "summary": "「華冠北極星」劉彥良上周投資組合跌7.9%。由於台股震盪回檔，聯茂（6213）跌2.2%相對最強，主因投信偏多，走勢相對穩健。反之，晶技因外資轉賣、短線震盪回檔，跌19.6%最弱，但後市仍將受惠產品漲價效應，營運動能有望增強。",
+    "published_at": "2026-07-12T01:22:13+08:00",
+    "stocks": [
+      "6213",
+      "3042",
+      "8101"
+    ],
+    "uid": "feb64449e6c4a118f272d8c650490e85",
+    "title_zh": "台股擂台／挑戰者「華冠北極星」劉彥良 本周選南亞科、麗臺",
+    "summary_zh": "「華冠北極星」劉彥良上周投資組合跌7.9%。由於台股震盪回檔，聯茂（6213）跌2.2%相對最強，主因投信偏多，走勢相對穩健。反之，晶技因外資轉賣、短線震盪回檔，跌19.6%最弱，但後市仍將受惠產品漲價效應，營運動能有望增強。",
+    "title_en": "Taiwan Stocks Arena/Challenger \"Huaguan Polaris\" Liu Yanliang chooses Nanya and Leadai this week",
+    "summary_en": "\"Huaguan Polaris\" Liu Yanliang's investment portfolio fell 7.9% last week. As the Taiwan stock market retreated from the shock, Lianmao (6213) fell 2.2% and was relatively the strongest. The main reason was that investment trust was high and the trend was relatively stable. On the contrary, Crystal Technology fell the weakest at 19.6% due to resale by foreign investors and short-term shock retracement. However, the market outlook will still benefit from the effect of product price increases, and its business performance is expected to increase."
+  },
+  {
+    "title": "星座理財／雙魚座 運勢轉好",
+    "url": "https://money.udn.com/money/story/5648/9621849",
+    "source": "經濟日報總經",
+    "summary": "比起上周的混亂，這周羊座更像是在收拾善後，拖延已久的事情終於得面對，工作上容易出現資料重整、流程修正的情況，記得重要事情一定要再確認一次。投資方面別因為短期震盪就懷疑自己的判斷。比起上周的混亂，這周羊座更像是在收拾善後，拖延已久的事情終於得面對，工作上容易出現資料重整、流程修正的情況，記得重要事情一定要再確認一次。投資方面別因為短期震盪就懷疑自己的判斷。",
+    "published_at": "2026-07-12T00:55:04+08:00",
+    "stocks": [],
+    "uid": "ce133899af3010c12428fd4113ce5856",
+    "title_zh": "星座理財／雙魚座 運勢轉好",
+    "summary_zh": "比起上周的混亂，這周羊座更像是在收拾善後，拖延已久的事情終於得面對，工作上容易出現資料重整、流程修正的情況，記得重要事情一定要再確認一次。投資方面別因為短期震盪就懷疑自己的判斷。比起上周的混亂，這周羊座更像是在收拾善後，拖延已久的事情終於得面對，工作上容易出現資料重整、流程修正的情況，記得重要事情一定要再確認一次。投資方面別因為短期震盪就懷疑自己的判斷。",
+    "title_en": "Horoscope financial management/Pisces fortune is getting better",
+    "summary_en": "Compared with last week's chaos, this week Aries are more like cleaning up the aftermath. Things that have been delayed for a long time finally have to be faced. It is easy to reorganize data and modify processes at work. Remember to confirm important things again. When it comes to investing, don’t doubt your judgment just because of short-term fluctuations. Compared with last week's chaos, this week Aries are more like cleaning up the aftermath. Things that have been delayed for a long time finally have to be faced. It is easy to reorganize data and modify processes at work. Remember to confirm important things again. When it comes to investing, don’t doubt your judgment just because of short-term fluctuations."
+  },
+  {
     "title": "生技黃金收成年1／30年長征 台灣生技業的黃金年代來了？",
     "url": "https://money.udn.com/money/story/10871/9622115",
     "source": "經濟日報股市",
@@ -907,6 +1013,19 @@
     "summary_en": "The recent price increase of passive components has pushed up the share price of Yageo* (2327), which has started a surge since May. Although it has pulled back and corrected in response to the market trend recently, the legal person said that Yageo's revenue has continued to hit new highs, and the overall increase in capacitor products will help increase its profit expectations for this year. The pullback is actually a good time to \"buy\"."
   },
   {
+    "title": "不能買債也不能賣股！美銀推演4大情境揭「逆勢操盤術」",
+    "url": "https://tw.news.yahoo.com/%E4%B8%8D%E8%83%BD%E8%B2%B7%E5%82%B5%E4%B9%9F%E4%B8%8D%E8%83%BD%E8%B3%A3%E8%82%A1-%E7%BE%8E%E9%8A%80%E6%8E%A8%E6%BC%944%E5%A4%A7%E6%83%85%E5%A2%83%E6%8F%AD-%E9%80%86%E5%8B%A2%E6%93%8D%E7%9B%A4%E8%A1%93-170500534.html",
+    "source": "Yahoo股市",
+    "summary": "近期金融市場空頭聲音異常稀少，外媒報導，這背後的共識顯而易見，也就是市場普遍不認為經濟會出現「硬著陸」、聯準會（Fed）會在期中選舉前升息、超大規模雲端服務商（hyperscalers）會縮減資本支出，更不認為民主黨能橫掃國會兩院。",
+    "published_at": "2026-07-11T17:05:00+08:00",
+    "stocks": [],
+    "uid": "ff2e4d3f42e58e25046d79bde522e461",
+    "title_zh": "不能買債也不能賣股！美銀推演4大情境揭「逆勢操盤術」",
+    "summary_zh": "近期金融市場空頭聲音異常稀少，外媒報導，這背後的共識顯而易見，也就是市場普遍不認為經濟會出現「硬著陸」、聯準會（Fed）會在期中選舉前升息、超大規模雲端服務商（hyperscalers）會縮減資本支出，更不認為民主黨能橫掃國會兩院。",
+    "title_en": "You can’t buy bonds or sell stocks! Bank of America deduces 4 major scenarios to reveal \"countertrend trading techniques\"",
+    "summary_en": "Bearish voices in the financial market have been unusually rare recently. According to foreign media reports, the consensus behind this is obvious. That is, the market generally does not believe that the economy will experience a \"hard landing,\" the Federal Reserve (Fed) will raise interest rates before the midterm elections, hyperscalers will reduce capital expenditures, and they do not believe that the Democratic Party can sweep both houses of Congress."
+  },
+  {
     "title": "荷姆茲危機大贏家超意外！「這國」港口吞吐量飆138年新高嗨翻了",
     "url": "https://ec.ltn.com.tw/article/breakingnews/5501900",
     "source": "自由財經",
@@ -1000,6 +1119,21 @@
     "summary_zh": "〔財經頻道／綜合報導〕47歲的健太（化名）連續3年每月匯4萬日圓（約新台幣7946元）生活費給78歲獨居父親，直到父親突然要求停止匯款。原以為父親真的不缺錢，沒想到父親因一場病住院後，健太在整理...…",
     "title_en": "My 78-year-old grandfather was hospitalized due to dehydration! My son was shocked to see a \"scene\" in his hometown and it was so sad",
     "summary_en": "[Financial Channel/Comprehensive Report] 47-year-old Kenta (pseudonym) has been remitting 40,000 yen (approximately NT$7,946) per month for three consecutive years to his 78-year-old father, who lives alone, until his father suddenly asked to stop remittances. I thought my father was really not short of money, but I didn’t expect that after his father was hospitalized due to an illness, Kenta was sorting out..."
+  },
+  {
+    "title": "神山法說多棒非重點、外資這樣想！　外資上半年大舉賣超台積電1.35兆元、反手加碼ADR",
+    "url": "https://tw.news.yahoo.com/%E7%A5%9E%E5%B1%B1%E6%B3%95%E8%AA%AA%E5%A4%9A%E6%A3%92%E9%9D%9E%E9%87%8D%E9%BB%9E-%E5%A4%96%E8%B3%87%E9%80%99%E6%A8%A3%E6%83%B3-%E5%A4%96%E8%B3%87%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%A4%A7%E8%88%89%E8%B3%A3%E8%B6%85%E5%8F%B0%E7%A9%8D%E9%9B%BB1-35%E5%85%86%E5%85%83-%E5%8F%8D%E6%89%8B%E5%8A%A0%E7%A2%BCadr-163000959.html",
+    "source": "Yahoo股市",
+    "summary": "記憶體大廠、南韓市值第二大的SK 海力士 7月10 日那斯達克掛牌首日大漲 12.7%，收在 168.01 美元。SK海力士掛牌大漲，帶動美股三大指數全面收高，也顯現AI產業鏈的高度信心。台積電將在7月16日舉辦法說會，釋出下半年景氣展望，台積電ADR收跌0.65%，台股在颱風連假後靜待神山法說訊息。不過，如以外資持續賣超台積電來趨勢看，外資流出考量或是匯率，透過直接HOLD台積電ADR，加碼台股，已成為外資近期的常態操作策略。",
+    "published_at": "2026-07-11T16:30:00+08:00",
+    "stocks": [
+      "2330"
+    ],
+    "uid": "215a3ecd76536a014158fe4ded1f71f9",
+    "title_zh": "神山法說多棒非重點、外資這樣想！　外資上半年大舉賣超台積電1.35兆元、反手加碼ADR",
+    "summary_zh": "記憶體大廠、南韓市值第二大的SK 海力士 7月10 日那斯達克掛牌首日大漲 12.7%，收在 168.01 美元。SK海力士掛牌大漲，帶動美股三大指數全面收高，也顯現AI產業鏈的高度信心。台積電將在7月16日舉辦法說會，釋出下半年景氣展望，台積電ADR收跌0.65%，台股在颱風連假後靜待神山法說訊息。不過，如以外資持續賣超台積電來趨勢看，外資流出考量或是匯率，透過直接HOLD台積電ADR，加碼台股，已成為外資近期的常態操作策略。",
+    "title_en": "How great the sacred mountain Dharma is is not the point, foreign investors think so! Foreign investors aggressively sold more than TSMC by 1.35 trillion yuan in the first half of the year, and then increased their ADR holdings",
+    "summary_en": "SK Hynix, a major memory manufacturer and South Korea's second largest by market value, surged 12.7% on its first day of trading on Nasdaq on July 10, closing at $168.01. SK Hynix's listing surged, driving all three major U.S. stock indexes to close higher, and also showing a high degree of confidence in the AI ​​industry chain. TSMC will hold a press conference on July 16 to release its business outlook for the second half of the year. TSMC's ADR closed down 0.65%. Taiwanese stocks are waiting for the news from Kamiyama's press conference after the typhoon holiday. However, if foreign capital continues to oversell TSMC, judging from the trend, foreign capital outflows may be due to the exchange rate. Overweighting Taiwan stocks through direct HOLD TSMC ADR has become a normal operating strategy for foreign capital in the near future."
   },
   {
     "title": "華爾街日報：川普扶植英特爾 先進封裝瞄準台積電",
@@ -3019,7 +3153,11 @@
     "summary": "巴威颱風持續影響台灣，各地百貨及購物中心11日持續調整營運，新光三越、遠百、三井與Global Mall等多家商場宣布部分據點暫停營業。多數北部及中部商場配合停班停課措施暫停營業，部分南部及東部據點則維持正常營運或延後開店，以兼顧顧客及員工安全。",
     "published_at": "2026-07-11T10:27:51+08:00",
     "stocks": [],
-    "uid": "4b5a556e3942fdb4678942ab49752af6"
+    "uid": "4b5a556e3942fdb4678942ab49752af6",
+    "title_zh": "續防巴威颱風 新光三越、遠百等各大百貨11日營運安排出爐",
+    "summary_zh": "巴威颱風持續影響台灣，各地百貨及購物中心11日持續調整營運，新光三越、遠百、三井與Global Mall等多家商場宣布部分據點暫停營業。多數北部及中部商場配合停班停課措施暫停營業，部分南部及東部據點則維持正常營運或延後開店，以兼顧顧客及員工安全。",
+    "title_en": "To continue to prepare for Typhoon Bawei, major department stores such as Shin Kong Mitsukoshi and Far Eastern Department Store have released their operating arrangements for the 11th.",
+    "summary_en": "Typhoon Bavi continued to affect Taiwan. Department stores and shopping malls across the country continued to adjust their operations on the 11th. Many shopping malls such as Shin Kong Mitsukoshi, Far Eastern, Mitsui and Global Mall announced that some of their locations would suspend operations. Most shopping malls in the northern and central parts of the country have suspended operations in compliance with the work and class suspension measures, while some southern and eastern locations have maintained normal operations or postponed store openings to take into account the safety of customers and employees."
   },
   {
     "title": "〈中聯油脂食安風暴〉沙拉油合格也沒用？台糖高標準主動全面下架 宣布停售封存",
@@ -3028,7 +3166,11 @@
     "summary": "市面沙拉油食安疑慮擴大，為消除消費者對於中聯油脂相關產品的疑慮，台糖昨 (10) 日宣布配合政府政策，將 4 月至 6 月生產且使用相關原料的沙拉油產品，進行全面預防性下架，台糖強調該批原料進貨前均已通過第三公證單位檢驗且合格，目前",
     "published_at": "2026-07-11T10:27:37+08:00",
     "stocks": [],
-    "uid": "b046e50b35596b7db808bc2622d862cc"
+    "uid": "b046e50b35596b7db808bc2622d862cc",
+    "title_zh": "〈中聯油脂食安風暴〉沙拉油合格也沒用？台糖高標準主動全面下架 宣布停售封存",
+    "summary_zh": "市面沙拉油食安疑慮擴大，為消除消費者對於中聯油脂相關產品的疑慮，台糖昨 (10) 日宣布配合政府政策，將 4 月至 6 月生產且使用相關原料的沙拉油產品，進行全面預防性下架，台糖強調該批原料進貨前均已通過第三公證單位檢驗且合格，目前",
+    "title_en": "<Zhonglian Fat Food Safety Storm> Is it useless if the salad oil is qualified? Taiwan Sugar takes the initiative to remove high standards from shelves and announces suspension of sale and storage",
+    "summary_en": "Concerns about the food safety of salad oil on the market have expanded. In order to eliminate consumers' doubts about Zhonglian Oil-related products, Taiwan Sugar announced yesterday (10th) that in compliance with government policies, salad oil products produced from April to June and using related raw materials will be comprehensively and preventively removed from the shelves. Taiwan Sugar emphasized that these batches of raw materials have been inspected and qualified by a third notary unit before being purchased. Currently,"
   },
   {
     "title": "兩個貨架開始創業  加拿大燈具大廠Matteo榮獲金舶獎",
@@ -3037,7 +3179,11 @@
     "summary": "（中央社記者程愛芬溫哥華10日專電）加拿大燈具大廠Matteo Lighting榮獲今年全國商總「品牌金舶獎」，創辦人台裔企業家余東寰（Denny Yu）說，公司創立初期一度付不出員工薪水，幸虧一年辛苦奠基，獲得客戶信賴，直接下了一筆大單，讓他的公司從2個貨架開始，一路茁壯成為5萬呎廠房的標竿企業。",
     "published_at": "2026-07-11T10:27:29+08:00",
     "stocks": [],
-    "uid": "93ba9f101de9eea974cf197cfbcb2b85"
+    "uid": "93ba9f101de9eea974cf197cfbcb2b85",
+    "title_zh": "兩個貨架開始創業  加拿大燈具大廠Matteo榮獲金舶獎",
+    "summary_zh": "（中央社記者程愛芬溫哥華10日專電）加拿大燈具大廠Matteo Lighting榮獲今年全國商總「品牌金舶獎」，創辦人台裔企業家余東寰（Denny Yu）說，公司創立初期一度付不出員工薪水，幸虧一年辛苦奠基，獲得客戶信賴，直接下了一筆大單，讓他的公司從2個貨架開始，一路茁壯成為5萬呎廠房的標竿企業。",
+    "title_en": "Started business with two shelves, Canadian lighting manufacturer Matteo won the Golden Ship Award",
+    "summary_en": "(Central News Agency reporter Cheng Aifen, Vancouver, 10th) Canadian lighting manufacturer Matteo Lighting won this year's National Chamber of Commerce's \"Brand Gold Award\". Founder Denny Yu, a Taiwanese entrepreneur, said that in the early days of the company's establishment, it was unable to pay employees' salaries. Fortunately, it took a year of hard work to lay the foundation and gained the trust of customers. He directly placed a large order, allowing his company to grow from just two shelves to become a benchmark enterprise with a 50,000-square-foot factory."
   },
   {
     "title": "颱風假少賺一根漲停？專家喊「巴威還錢來」記憶體一哥強攻帶動3檔接棒",
@@ -3048,7 +3194,11 @@
     "stocks": [
       "2408"
     ],
-    "uid": "7e1b991e37ddfe5e81514407ee2e3f43"
+    "uid": "7e1b991e37ddfe5e81514407ee2e3f43",
+    "title_zh": "颱風假少賺一根漲停？專家喊「巴威還錢來」記憶體一哥強攻帶動3檔接棒",
+    "summary_zh": "記憶體大廠南亞科周四（9日）股價率先亮燈漲停，收在435.5元。專家表示，若非颱風假影響交易，南亞科原本有機會在法說會利多激勵下，再拉出第二根漲停板，笑說「巴威還南亞科股東錢來」，目前本土法人已喊出700元目標價，後續若能順利突破505元的前高，有望挑戰700元大關。",
+    "title_en": "Will you earn less than the daily limit during the typhoon holiday? Experts shouted \"Bavi will pay back the money\". The first memory brother stormed to drive the third gear to take over.",
+    "summary_en": "The stock price of Nanya, a major memory manufacturer, was the first to hit the daily limit on Thursday (9th), closing at 435.5 yuan. Experts said that if the typhoon had not affected the transaction, Nanya would have had the opportunity to pull out the second daily limit, encouraged by the positive news. They joked that \"Bawei will return the money to Nanya shareholders.\" At present, the local legal person has shouted out a target price of 700 yuan. If it can successfully break through the previous high of 505 yuan in the future, it is expected to challenge the 700 yuan mark."
   },
   {
     "title": "鴻海董事劉憶如辭任 維持董事會獨董過半制度",
@@ -3059,7 +3209,11 @@
     "stocks": [
       "TWS:2317:STOCK"
     ],
-    "uid": "90744432e697b791af7b821a803ebe73"
+    "uid": "90744432e697b791af7b821a803ebe73",
+    "title_zh": "鴻海董事劉憶如辭任 維持董事會獨董過半制度",
+    "summary_zh": "鴻海董事劉憶如辭任 維持董事會獨董過半制度",
+    "title_en": "Hon Hai director Liu Yiru resigns, maintaining the system of a majority of independent directors on the board of directors",
+    "summary_en": "Hon Hai director Liu Yiru resigns, maintaining the system of a majority of independent directors on the board of directors"
   },
   {
     "title": "巴威颱風襲台！量販、超市營業時間一次看",
@@ -3068,7 +3222,11 @@
     "summary": "〔財經頻道／綜合報導〕巴威颱風來勢洶洶，全台多個縣市都宣布今（11）日停班停課，《自由時報》為您整理7月11日全台賣場營業最新狀況，提醒您外出注意安全。\n\n\n好市多\n\n\n今日全台賣場皆正常營運，...…",
     "published_at": "2026-07-11T10:24:26+08:00",
     "stocks": [],
-    "uid": "d6dd39284ebed3120fe476fc2102fdec"
+    "uid": "d6dd39284ebed3120fe476fc2102fdec",
+    "title_zh": "巴威颱風襲台！量販、超市營業時間一次看",
+    "summary_zh": "〔財經頻道／綜合報導〕巴威颱風來勢洶洶，全台多個縣市都宣布今（11）日停班停課，《自由時報》為您整理7月11日全台賣場營業最新狀況，提醒您外出注意安全。\n\n\n好市多\n\n\n今日全台賣場皆正常營運，...…",
+    "title_en": "Typhoon Bavi hits Taiwan! Check the business hours of mass merchandisers and supermarkets at once",
+    "summary_en": "[Financial Channel/Comprehensive Report] Typhoon Bavi is approaching fiercely, and many counties and cities across Taiwan have announced the suspension of work and classes today (11th). \"Freedom Times\" has compiled for you the latest business conditions of all stores in Taiwan on July 11th, and reminds you to pay attention to safety when going out.\n\n\ncostco\n\n\nAll stores in Taiwan are operating normally today..."
   },
   {
     "title": "巴威襲台！北部百貨幾乎全停 新光三越、遠百、Global Mall南部照常開",
@@ -3077,7 +3235,11 @@
     "summary": "巴威颱風持續帶來強風豪雨，全台20縣市11日停班停課，百貨業也大幅調整營運。其中，北部百貨幾乎全面停業，而新光三越、遠東百貨及Global Mall則採「北停南開」模式，部分中南部據點維持正常營業或中午起恢復營業，並將視風雨狀況滾動調整。",
     "published_at": "2026-07-11T10:24:20+08:00",
     "stocks": [],
-    "uid": "e7c512b49d40895649d04bc988200eab"
+    "uid": "e7c512b49d40895649d04bc988200eab",
+    "title_zh": "巴威襲台！北部百貨幾乎全停 新光三越、遠百、Global Mall南部照常開",
+    "summary_zh": "巴威颱風持續帶來強風豪雨，全台20縣市11日停班停課，百貨業也大幅調整營運。其中，北部百貨幾乎全面停業，而新光三越、遠東百貨及Global Mall則採「北停南開」模式，部分中南部據點維持正常營業或中午起恢復營業，並將視風雨狀況滾動調整。",
+    "title_en": "Bawei attacks Taiwan! Almost all department stores in the northern part are closed, but Shin Kong Mitsukoshi, Far Mart, and Global Mall in the southern part are open as usual.",
+    "summary_en": "Typhoon Bavi continued to bring strong winds and heavy rains. All 20 counties and cities in Taiwan suspended work and classes on the 11th, and the department store industry also significantly adjusted its operations. Among them, the northern department stores are almost completely closed, while Shin Kong Mitsukoshi, Far East Department Store and Global Mall have adopted the \"stop in the north and open in the south\" mode. Some central and southern locations will maintain normal operations or resume operations from noon, and will adjust on a rolling basis depending on wind and rain conditions."
   },
   {
     "title": "颱風災損可申請稅捐減免　彰化稅務局提醒備妥證明30日內申請",
@@ -3086,7 +3248,11 @@
     "summary": "【互傳媒／記者 林明佑／彰化 報導】巴威颱風來襲，彰化縣地方稅務局呼籲民眾多加注意自身安全，若因天災造成房屋損",
     "published_at": "2026-07-11T10:21:52+08:00",
     "stocks": [],
-    "uid": "471943bdecddf544e0649f27b750a1d7"
+    "uid": "471943bdecddf544e0649f27b750a1d7",
+    "title_zh": "颱風災損可申請稅捐減免　彰化稅務局提醒備妥證明30日內申請",
+    "summary_zh": "【互傳媒／記者 林明佑／彰化 報導】巴威颱風來襲，彰化縣地方稅務局呼籲民眾多加注意自身安全，若因天災造成房屋損",
+    "title_en": "Typhoon damage can be applied for tax reduction and exemption. Changhua Taxation Bureau reminds you to prepare proof to apply within 30 days",
+    "summary_en": "[Intermedia/Reporter Lin Mingyou/Changhua Report] As Typhoon Bawei hits, the Changhua County Local Taxation Bureau calls on the public to pay more attention to their own safety. If their houses are damaged due to natural disasters,"
   },
   {
     "title": "巴威颱風影響　新光三越10店遠東SOGO全台11日停業",
@@ -3095,7 +3261,11 @@
     "summary": "受颱風巴威影響，全台多縣市連兩日停班停課，百貨商場也持續調整營業措施，台北101、新光三越、遠東百貨、遠東SOGO、微風...",
     "published_at": "2026-07-11T10:21:25+08:00",
     "stocks": [],
-    "uid": "d0bed255dfa0f01446257ec629d669bb"
+    "uid": "d0bed255dfa0f01446257ec629d669bb",
+    "title_zh": "巴威颱風影響　新光三越10店遠東SOGO全台11日停業",
+    "summary_zh": "受颱風巴威影響，全台多縣市連兩日停班停課，百貨商場也持續調整營業措施，台北101、新光三越、遠東百貨、遠東SOGO、微風...",
+    "title_en": "Affected by Typhoon Bawai, 10 stores of Shin Kong Mitsukoshi and Far East SOGO will be closed on the 11th in Taiwan",
+    "summary_en": "Affected by Typhoon Bavi, many counties and cities across Taiwan have suspended operations and classes for two consecutive days. Department stores have also continued to adjust their business measures. Taipei 101, Shin Kong Mitsukoshi, Far East Department Store, Far East SOGO, Breeze..."
   },
   {
     "title": "京元電拍板赴美設廠！最高投資達14億美元以完善當地封裝測試供應鏈",
@@ -3104,7 +3274,11 @@
     "summary": "半導體測試大廠京元電發布重大訊息宣布，董事會已正式決議通過赴美投資設廠案，預計投資金額上限高達14億美元（約合 [&#8230;]",
     "published_at": "2026-07-11T10:15:59+08:00",
     "stocks": [],
-    "uid": "24abb305c0cb949890ab1a7cfb5e718b"
+    "uid": "24abb305c0cb949890ab1a7cfb5e718b",
+    "title_zh": "京元電拍板赴美設廠！最高投資達14億美元以完善當地封裝測試供應鏈",
+    "summary_zh": "半導體測試大廠京元電發布重大訊息宣布，董事會已正式決議通過赴美投資設廠案，預計投資金額上限高達14億美元（約合 [&#8230;]",
+    "title_en": "KYEC has decided to set up a factory in the United States! Maximum investment of US$1.4 billion to improve local packaging and testing supply chain",
+    "summary_en": "KYEC, a major semiconductor testing company, released major news and announced that its board of directors has formally decided to approve the investment and establishment of a factory in the United States. The investment amount is expected to be capped at US$1.4 billion (approximately […]"
   },
   {
     "title": "96歲祖父留2億遺產！最疼愛長孫竟「一毛沒分」 真相曝光全家沉默",
@@ -3113,7 +3287,11 @@
     "summary": "許多長輩會透過遺囑安排身後財產，希望減少家人紛爭。然而日本一名96歲老翁留下約2億日圓（約新台幣4000萬元）遺產，卻在遺囑中將最疼愛、也是家族眼中的菁英長孫排除在繼承名單之外，引發親友震驚。不過當遺囑最後的附言曝光後，眾人才理解祖父背後的用心。",
     "published_at": "2026-07-11T10:15:00+08:00",
     "stocks": [],
-    "uid": "4077120ab518c8ba3e620346435e6e9a"
+    "uid": "4077120ab518c8ba3e620346435e6e9a",
+    "title_zh": "96歲祖父留2億遺產！最疼愛長孫竟「一毛沒分」 真相曝光全家沉默",
+    "summary_zh": "許多長輩會透過遺囑安排身後財產，希望減少家人紛爭。然而日本一名96歲老翁留下約2億日圓（約新台幣4000萬元）遺產，卻在遺囑中將最疼愛、也是家族眼中的菁英長孫排除在繼承名單之外，引發親友震驚。不過當遺囑最後的附言曝光後，眾人才理解祖父背後的用心。",
+    "title_en": "96-year-old grandfather left an inheritance of 200 million! The eldest grandson whom I love the most is \"not worth a penny\". The truth is revealed and the whole family remains silent.",
+    "summary_en": "Many elders will arrange their property after death through a will, hoping to reduce family disputes. However, a 96-year-old Japanese man left an inheritance of about 200 million yen (approximately NT$40 million), but in his will, he excluded his most beloved grandson, who was also the elite in the family's eyes, from the inheritance list, which shocked his relatives and friends. However, when the last postscript of the will was exposed, everyone understood the intentions behind their grandfather."
   },
   {
     "title": "巴威颱風影響　新光三越10店遠東SOGO全台11日停業",
@@ -3122,7 +3300,11 @@
     "summary": "（中央社記者江明晏台北11日電）受颱風巴威影響，全台多縣市連兩日停班停課，百貨商場也持續調整營業措施，台北101、新光三越、遠東百貨、遠東SOGO、微風、京站及誠品生活等今天宣布部分或全數據點暫停營業，其中北部、中部百貨多數均停業。",
     "published_at": "2026-07-11T10:11:21+08:00",
     "stocks": [],
-    "uid": "afa8dc25649030b62f4686f8ee885849"
+    "uid": "afa8dc25649030b62f4686f8ee885849",
+    "title_zh": "巴威颱風影響　新光三越10店遠東SOGO全台11日停業",
+    "summary_zh": "（中央社記者江明晏台北11日電）受颱風巴威影響，全台多縣市連兩日停班停課，百貨商場也持續調整營業措施，台北101、新光三越、遠東百貨、遠東SOGO、微風、京站及誠品生活等今天宣布部分或全數據點暫停營業，其中北部、中部百貨多數均停業。",
+    "title_en": "Affected by Typhoon Bawai, 10 stores of Shin Kong Mitsukoshi and Far East SOGO will be closed on the 11th in Taiwan",
+    "summary_en": "(Central News Agency reporter Jiang Mingyan, Taipei, 11th) Affected by Typhoon Bavi, many counties and cities across Taiwan have suspended operations and classes for two consecutive days. Department stores have also continued to adjust their business measures. Taipei 101, Shin Kong Mitsukoshi, Far East Department Store, Far East SOGO, Breeze, Jingzhan and Eslite Life today announced the suspension of operations at some or all data points, with most department stores in the northern and central parts of the country closed."
   },
   {
     "title": "鉅亨速報 - Factset 最新調查：南亞科(2408-TW)EPS預估上修至58.67元，預估目標價為555元",
@@ -3133,7 +3315,11 @@
     "stocks": [
       "TWS:2408:STOCK"
     ],
-    "uid": "6dfb9c81292d4d9bed5d4ae471a002d0"
+    "uid": "6dfb9c81292d4d9bed5d4ae471a002d0",
+    "title_zh": "鉅亨速報 - Factset 最新調查：南亞科(2408-TW)EPS預估上修至58.67元，預估目標價為555元",
+    "summary_zh": "FactSet 最新調查：南亞科(2408-TW)EPS預估上修，預估EPS、預估營收、目標價、歷史獲利表現、即時新聞資訊。",
+    "title_en": "Juheng Express - Factset latest survey: Nanya (2408-TW) EPS estimate is revised upward to 58.67 yuan, and the estimated target price is 555 yuan",
+    "summary_en": "FactSet latest survey: Nanya (2408-TW) EPS estimate has been revised upward, estimated EPS, estimated revenue, target price, historical profit performance, and real-time news information."
   },
   {
     "title": "IG生圖功能激怒好萊塢！Meta認了「沒拿捏好分寸」　AI新功能緊急下架",
@@ -3142,7 +3328,11 @@
     "summary": "[FTNN新聞網]實習記者盛琳／綜合報導Meta上週二（7日）推出全新人工智慧模型「MuseImage」，其中一項功能允許使用者在MetaAI中「@提及」公開Instagram帳號，...",
     "published_at": "2026-07-11T10:10:00+08:00",
     "stocks": [],
-    "uid": "cd9df0fdf49512ab13432726b0bd343a"
+    "uid": "cd9df0fdf49512ab13432726b0bd343a",
+    "title_zh": "IG生圖功能激怒好萊塢！Meta認了「沒拿捏好分寸」　AI新功能緊急下架",
+    "summary_zh": "[FTNN新聞網]實習記者盛琳／綜合報導Meta上週二（7日）推出全新人工智慧模型「MuseImage」，其中一項功能允許使用者在MetaAI中「@提及」公開Instagram帳號，...",
+    "title_en": "IG's photo-generating function angers Hollywood! Meta admitted that it \"didn't know how to measure it properly\" and the new AI function was urgently removed from the shelves",
+    "summary_en": "[FTNN News Network] Intern reporter Sheng Lin/Comprehensive Report Meta launched a new artificial intelligence model \"MuseImage\" last Tuesday (7th). One of the functions allows users to make their Instagram accounts public through \"@mentions\" in MetaAI..."
   },
   {
     "title": "SK海力士CEO曝「明年迎史上最嚴重記憶體短缺」　未來10年供不應求",
@@ -3151,7 +3341,11 @@
     "summary": "<img alt=\"SK海力士CEO曝「明年迎史上最嚴重記憶體短缺」　未來10年供不應求　\" src=\"https://cdn2.ettoday.net/images/4675/c4675591.jpg\" /><br /> 南韓記憶體晶片大廠SK海力士（SK Hynix）執行長Kwak Noh-Jung在公司ADR（美國存託憑證）於那斯達克正式掛牌的同一天表示，全球記憶體產業將在 2027 年面臨有史以來最嚴重的供應短缺，並預測儘管公司積極擴張產能，但未來十年內，記憶體需求仍將繼續超過公司的生產能力。 <a href=\"https://finance.ettoday.net/news/3199099\" target=\"_blank\">《詳全文...》</a>",
     "published_at": "2026-07-11T10:03:00+08:00",
     "stocks": [],
-    "uid": "eccbc9fe87be66ad48b4df49bfd031e6"
+    "uid": "eccbc9fe87be66ad48b4df49bfd031e6",
+    "title_zh": "SK海力士CEO曝「明年迎史上最嚴重記憶體短缺」　未來10年供不應求",
+    "summary_zh": "<img alt=\"SK海力士CEO曝「明年迎史上最嚴重記憶體短缺」　未來10年供不應求　\" src=\"https://cdn2.ettoday.net/images/4675/c4675591.jpg\" /><br /> 南韓記憶體晶片大廠SK海力士（SK Hynix）執行長Kwak Noh-Jung在公司ADR（美國存託憑證）於那斯達克正式掛牌的同一天表示，全球記憶體產業將在 2027 年面臨有史以來最嚴重的供應短缺，並預測儘管公司積極擴張產能，但未來十年內，記憶體需求仍將繼續超過公司的生產能力。 <a href=\"https://finance.ettoday.net/news/3199099\" target=\"_blank\">《詳全文...》</a>",
+    "title_en": "SK Hynix CEO reveals that “next year we will face the worst memory shortage in history” and demand will exceed supply in the next 10 years",
+    "summary_en": "<img alt=\"SK Hynix CEO revealed that \"next year will see the worst memory shortage in history\" and supply will exceed demand in the next 10 years\" src=\"https://cdn2.ettoday.net/images/4675/c4675591.jpg\" /><br /> Kwak, CEO of SK Hynix, a major South Korean memory chip manufacturer Noh-Jung said on the same day that the company's ADR (American Depositary Receipts) was officially listed on Nasdaq that the global memory industry will face the most severe supply shortage in history in 2027, and predicted that despite the company's active expansion of production capacity, memory demand will continue to exceed the company's production capacity in the next decade. <a href=\"https://finance.ettoday.net/news/3199099\" target=\"_blank\">\"Full text...\"</a>"
   },
   {
     "title": "SK hynix 登陸納斯達克發行 ADR，市場看好後續表現首日開盤大漲 14%",
@@ -3160,7 +3354,11 @@
     "summary": "韓國記憶體晶片大廠SK海力士（SK hynix）於本月10日，正式在美國納斯達克（NASDAQ）發行美國存託憑 [&#8230;]",
     "published_at": "2026-07-11T10:00:25+08:00",
     "stocks": [],
-    "uid": "702faa6183194b4be6bddd9091c98680"
+    "uid": "702faa6183194b4be6bddd9091c98680",
+    "title_zh": "SK hynix 登陸納斯達克發行 ADR，市場看好後續表現首日開盤大漲 14%",
+    "summary_zh": "韓國記憶體晶片大廠SK海力士（SK hynix）於本月10日，正式在美國納斯達克（NASDAQ）發行美國存託憑 [&#8230;]",
+    "title_en": "SK hynix listed on Nasdaq to issue ADR, the market is optimistic about the follow-up performance, and the opening price surged 14% on the first day",
+    "summary_en": "SK hynix, a major Korean memory chip manufacturer, officially issued American Depositary Receipts on the NASDAQ in the United States on the 10th of this month […]"
   },
   {
     "title": "HBM 之父語出驚人：GPU 閒置率高達 90%，輝達要繼續成長都得靠記憶體",
