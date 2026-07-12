@@ -1,5 +1,370 @@
 [
   {
+    "title": "‘Moana’ Falters at the Box Office, Casting Doubt on Disney’s Formula",
+    "url": "https://www.nytimes.com/2026/07/12/business/media/moana-box-office-disney.html",
+    "source": "NYT Business",
+    "summary": "The live-action remake took in roughly $43 million over the weekend in North America, about 30 percent less than Disney had expected.",
+    "published_at": "2026-07-13T01:39:04+08:00",
+    "stocks": [],
+    "uid": "e7b307cf43effaf05380b87f9d360508",
+    "title_en": "‘Moana’ Falters at the Box Office, Casting Doubt on Disney’s Formula",
+    "summary_en": "The live-action remake took in roughly $43 million over the weekend in North America, about 30 percent less than Disney had expected.",
+    "title_zh": "《摩阿娜》票房不佳，迪士尼模式受到質疑",
+    "summary_zh": "這部真人翻拍版週末在北美票房收入約為 4,300 萬美元，比迪士尼預期低約 30%。"
+  },
+  {
+    "title": "Sam Altman Is Waiting for a $1 Trillion OpenAI Valuation. SoftBank Has a $40 Billion Loan Due March 2027.",
+    "url": "https://www.fool.com/investing/2026/07/12/sam-altman-is-waiting-for-a-1-trillion-openai-valu/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "There's a slight conflict of interest between the two heavyweights.",
+    "published_at": "2026-07-13T01:27:00+08:00",
+    "stocks": [],
+    "uid": "c1bbdfe2cef57c63746fba0f61864212",
+    "title_en": "Sam Altman Is Waiting for a $1 Trillion OpenAI Valuation. SoftBank Has a $40 Billion Loan Due March 2027.",
+    "summary_en": "There's a slight conflict of interest between the two heavyweights.",
+    "title_zh": "Sam Altman 正在等待 OpenAI 1 兆美元的估值。軟銀有一筆 400 億美元的貸款將於 2027 年 3 月到期。",
+    "summary_zh": "兩位重量級人物之間存在輕微的利益衝突。"
+  },
+  {
+    "title": "NVRO Metals Partners with Hecla Mining (HL) for Tailings Processing",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nvro-metals-partners-hecla-mining-075953955.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-13T01:26:53+08:00",
+    "stocks": [
+      "HL"
+    ],
+    "uid": "e0a5457d370350601facfa99e852d8c0",
+    "title_en": "NVRO Metals Partners with Hecla Mining (HL) for Tailings Processing",
+    "summary_en": "",
+    "title_zh": "NVRO Metals 與 Hecla Mining (HL) 合作進行尾礦加工",
+    "summary_zh": ""
+  },
+  {
+    "title": "First Majestic Silver (AG) Receives Construction Permits for Santa Elena Mine Expansion",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/first-majestic-silver-ag-receives-075944774.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-13T01:26:44+08:00",
+    "stocks": [
+      "AG"
+    ],
+    "uid": "933c103d2aa69ef8d12c325806d174ea",
+    "title_en": "First Majestic Silver (AG) Receives Construction Permits for Santa Elena Mine Expansion",
+    "summary_en": "",
+    "title_zh": "第一 Majestic Silver (AG) 取得 Santa Elena 礦場擴建施工許可證",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why Micron Technology (MU) Is Securing Long-Term AI Memory Demand With $22 Billion in Customer Commitments",
+    "url": "https://finance.yahoo.com/technology/ai/articles/why-micron-technology-nasdaq-mu-115645715.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-13T01:25:45+08:00",
+    "stocks": [
+      "MU"
+    ],
+    "uid": "81fedf97ccab54f72693451a89fc465b",
+    "title_en": "Why Micron Technology (MU) Is Securing Long-Term AI Memory Demand With $22 Billion in Customer Commitments",
+    "summary_en": "",
+    "title_zh": "為什麼美光科技 (MU) 透過 220 億美元的客戶承諾來確保長期 AI 記憶體需求",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why Western Digital (WDC) Is Benefiting From AI-Driven Storage Demand and Tight HDD Supply Conditions",
+    "url": "https://finance.yahoo.com/technology/ai/articles/why-western-digital-nasdaq-wdc-123127857.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-13T01:25:27+08:00",
+    "stocks": [
+      "WDC"
+    ],
+    "uid": "f99cd2baee129b724270f2b8121089e9",
+    "title_en": "Why Western Digital (WDC) Is Benefiting From AI-Driven Storage Demand and Tight HDD Supply Conditions",
+    "summary_en": "",
+    "title_zh": "為什麼西部數據 (WDC) 受益於人工智慧驅動的儲存需求和緊張的 HDD 供應狀況",
+    "summary_zh": ""
+  },
+  {
+    "title": "How AppLovin (APP) Is Using AI to Expand Beyond Mobile Gaming Into E-Commerce Advertising",
+    "url": "https://finance.yahoo.com/technology/ai/articles/applovin-nasdaq-app-using-ai-122026029.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-13T01:25:26+08:00",
+    "stocks": [
+      "APP"
+    ],
+    "uid": "ba78023c09544b4248ea445eda4e9d98",
+    "title_en": "How AppLovin (APP) Is Using AI to Expand Beyond Mobile Gaming Into E-Commerce Advertising",
+    "summary_en": "",
+    "title_zh": "AppLovin (APP) 如何利用人工智慧將行動遊戲擴展到電子商務廣告領域",
+    "summary_zh": ""
+  },
+  {
+    "title": "Viavi Solutions (VIAV) Launches Ultra-Compact µPNT GDO-1000 Precision Timing Module",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/viavi-solutions-viav-launches-ultra-080016497.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-13T01:25:16+08:00",
+    "stocks": [
+      "VIAV"
+    ],
+    "uid": "1a0c23bda298da728a3471ac9c25f0dc",
+    "title_en": "Viavi Solutions (VIAV) Launches Ultra-Compact µPNT GDO-1000 Precision Timing Module",
+    "summary_en": "",
+    "title_zh": "Viavi Solutions (VIAV) 推出超緊湊型 µPNT GDO-1000 精密計時模組",
+    "summary_zh": ""
+  },
+  {
+    "title": "Bausch Health’s (BHC) Canadian Subsidiary Lists PrOKEDI Dosages in RAMQ Formulary",
+    "url": "https://finance.yahoo.com/healthcare/articles/bausch-health-bhc-canadian-subsidiary-172132405.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-13T01:21:32+08:00",
+    "stocks": [
+      "BHC"
+    ],
+    "uid": "c91d69172a4a19f6a626a8e9fddd4337",
+    "title_en": "Bausch Health’s (BHC) Canadian Subsidiary Lists PrOKEDI Dosages in RAMQ Formulary",
+    "summary_en": "",
+    "title_zh": "Bausch Health (BHC) 加拿大子公司在 RAMQ 處方中列出了 PrOKEDI 劑量",
+    "summary_zh": ""
+  },
+  {
+    "title": "Clarivate (CLVT) to Sell Life Sciences & Healthcare Business to Altaris For $600 Million",
+    "url": "https://finance.yahoo.com/healthcare/articles/clarivate-clvt-sell-life-sciences-172131857.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-13T01:21:31+08:00",
+    "stocks": [
+      "CLVT"
+    ],
+    "uid": "82881f11ebff6da5f483d5275820c2af",
+    "title_en": "Clarivate (CLVT) to Sell Life Sciences & Healthcare Business to Altaris For $600 Million",
+    "summary_en": "",
+    "title_zh": "Clarivate (CLVT) 將以 6 億美元的價格將生命科學和醫療保健業務出售給 Altaris",
+    "summary_zh": ""
+  },
+  {
+    "title": "Ur-Energy (URG) Achieves Key Regulatory Milestone for Shirley Basin Project",
+    "url": "https://finance.yahoo.com/energy/articles/ur-energy-urg-achieves-key-172129714.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-13T01:21:29+08:00",
+    "stocks": [
+      "URG"
+    ],
+    "uid": "2b33b89288d988f9f6011656e028591d",
+    "title_en": "Ur-Energy (URG) Achieves Key Regulatory Milestone for Shirley Basin Project",
+    "summary_en": "",
+    "title_zh": "Ur-Energy (URG) 實現雪莉盆地計畫的關鍵監管里程碑",
+    "summary_zh": ""
+  },
+  {
+    "title": "Borr Drilling (BORR) Extends Debt Maturity Profile and Lowers Total Outstanding Debt",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/borr-drilling-borr-extends-debt-172128988.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-13T01:21:28+08:00",
+    "stocks": [
+      "BORR"
+    ],
+    "uid": "6baa41e345167685ccd90f254d024c5b",
+    "title_en": "Borr Drilling (BORR) Extends Debt Maturity Profile and Lowers Total Outstanding Debt",
+    "summary_en": "",
+    "title_zh": "Borr Drilling (BORR) 延長債務期限並降低未償債務總額",
+    "summary_zh": ""
+  },
+  {
+    "title": "SITE Centers (SITC) Divests Stake in The Pike Outlets for $50 Million",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/centers-sitc-divests-stake-pike-172126561.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-13T01:21:26+08:00",
+    "stocks": [
+      "SITC"
+    ],
+    "uid": "a88c646afcdc4a6072d5be79ac24c3f4",
+    "title_en": "SITE Centers (SITC) Divests Stake in The Pike Outlets for $50 Million",
+    "summary_en": "",
+    "title_zh": "SITE Centers (SITC) 以 5000 萬美元剝離派克奧特萊斯 (The Pike Outlets) 股份",
+    "summary_zh": ""
+  },
+  {
+    "title": "Dakota Gold (DC) Reveals Encouraging Data for Richmond Hill Oxide Heap Leach Gold Project",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/dakota-gold-dc-reveals-encouraging-172125301.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-13T01:21:25+08:00",
+    "stocks": [
+      "DC"
+    ],
+    "uid": "c67b94364fafa23b8933fdb042af85b3",
+    "title_en": "Dakota Gold (DC) Reveals Encouraging Data for Richmond Hill Oxide Heap Leach Gold Project",
+    "summary_en": "",
+    "title_zh": "達科他黃金公司 (DC) 公佈列治文山氧化堆浸金計畫令人鼓舞的數據",
+    "summary_zh": ""
+  },
+  {
+    "title": "Here Is Why Gerdau (GGB) Is One Of The Top NYSE Penny Stocks According To Hedge Funds",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-gerdau-ggb-one-top-172123444.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-13T01:21:23+08:00",
+    "stocks": [
+      "GGB"
+    ],
+    "uid": "300fa98afd1e2ef81f5fa9e6bacecc51",
+    "title_en": "Here Is Why Gerdau (GGB) Is One Of The Top NYSE Penny Stocks According To Hedge Funds",
+    "summary_en": "",
+    "title_zh": "這就是為什麼根據對沖基金的說法，Gerdau (GGB) 是紐約證券交易所頂級細價股之一",
+    "summary_zh": ""
+  },
+  {
+    "title": "Comstock (LODE) Announces Delivery and Assembly of Unit Operations For Industry-Scale Facility",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/comstock-lode-announces-delivery-assembly-172122840.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-13T01:21:22+08:00",
+    "stocks": [
+      "LODE"
+    ],
+    "uid": "59e4a3a8a16ed4687a01dc7d61efad50",
+    "title_en": "Comstock (LODE) Announces Delivery and Assembly of Unit Operations For Industry-Scale Facility",
+    "summary_en": "",
+    "title_zh": "康斯托克 (LODE) 宣布交付和組裝工業規模設施的單元操作",
+    "summary_zh": ""
+  },
+  {
+    "title": "AMC Entertainment (AMC) to Sell 95.25 Million Shares to Institutional Investors For $200 Million",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/amc-entertainment-amc-sell-95-172120469.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-13T01:21:20+08:00",
+    "stocks": [
+      "AMC"
+    ],
+    "uid": "7a5166692e92e345244e56ae8352ea6f",
+    "title_en": "AMC Entertainment (AMC) to Sell 95.25 Million Shares to Institutional Investors For $200 Million",
+    "summary_en": "",
+    "title_zh": "AMC Entertainment (AMC) 將以 2 億美元的價格向機構投資者出售 9,525 萬股股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Gray Media (GTN) To Acquire 6 TV Stations From American Spirit For $50 Million Consideration",
+    "url": "https://finance.yahoo.com/media-advertising/articles/gray-media-gtn-acquire-6-172118849.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-13T01:21:18+08:00",
+    "stocks": [
+      "GTN"
+    ],
+    "uid": "f5e97010e10ac9863b7129ff5a1ef373",
+    "title_en": "Gray Media (GTN) To Acquire 6 TV Stations From American Spirit For $50 Million Consideration",
+    "summary_en": "",
+    "title_zh": "Gray Media (GTN) 將以 5,000 萬美元收購 American Spirit 的 6 家電視台",
+    "summary_zh": ""
+  },
+  {
+    "title": "Accendra Health (ACH) is One of The 15 Best NYSE Penny Stocks According to Hedge Funds",
+    "url": "https://finance.yahoo.com/healthcare/articles/accendra-health-ach-one-15-172115150.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-13T01:21:15+08:00",
+    "stocks": [
+      "ACH"
+    ],
+    "uid": "177ffc72095b578ff75943ecee371c4a",
+    "title_en": "Accendra Health (ACH) is One of The 15 Best NYSE Penny Stocks According to Hedge Funds",
+    "summary_en": "",
+    "title_zh": "根據對沖基金的數據，Accendra Health (ACH) 是紐約證券交易所 15 支最佳細價股之一",
+    "summary_zh": ""
+  },
+  {
+    "title": "Integra Resources (ITRG) Reveals Encouraging Technical Report For Florida Canyon Mine",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/integra-resources-itrg-reveals-encouraging-172114080.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-13T01:21:14+08:00",
+    "stocks": [
+      "ITRG"
+    ],
+    "uid": "05df3fc3bb8627d605df0d2800f54bc1",
+    "title_en": "Integra Resources (ITRG) Reveals Encouraging Technical Report For Florida Canyon Mine",
+    "summary_en": "",
+    "title_zh": "Integra Resources (ITRG) 公佈了佛羅裡達峽谷礦山令人鼓舞的技術報告",
+    "summary_zh": ""
+  },
+  {
+    "title": "GCT Semiconductor (GCTS) Shares Strategic Commitment Towards Global AI Infrastructure Buildout",
+    "url": "https://finance.yahoo.com/technology/ai/articles/gct-semiconductor-gcts-shares-strategic-172112787.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-13T01:21:12+08:00",
+    "stocks": [
+      "GCTS"
+    ],
+    "uid": "0b6504a5d58c4b64d326b47ab70cefbd",
+    "title_en": "GCT Semiconductor (GCTS) Shares Strategic Commitment Towards Global AI Infrastructure Buildout",
+    "summary_en": "",
+    "title_zh": "GCT Semiconductor (GCTS) 分享對全球人工智慧基礎設施建設的策略承諾",
+    "summary_zh": ""
+  },
+  {
+    "title": "What Makes Baytex Energy (BTE) One of the Most Favored NYSE Penny Stocks According to Hedge Funds",
+    "url": "https://finance.yahoo.com/energy/articles/makes-baytex-energy-bte-one-172110997.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-13T01:21:10+08:00",
+    "stocks": [
+      "BTE"
+    ],
+    "uid": "8731a4c122f970fe986f4f03fcba1dff",
+    "title_en": "What Makes Baytex Energy (BTE) One of the Most Favored NYSE Penny Stocks According to Hedge Funds",
+    "summary_en": "",
+    "title_zh": "對沖基金稱，是什麼讓 Baytex Energy (BTE) 成為紐約證券交易所最受青睞的細價股之一",
+    "summary_zh": ""
+  },
+  {
+    "title": "SpaceX Has Officially Joined the Nasdaq-100. Here Are 3 Better Nasdaq-100 Stocks to Buy in July.",
+    "url": "https://www.fool.com/investing/2026/07/12/spacex-has-officially-joined-the-nasdaq-100-here-a/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "These overlooked consumer stocks could offer investors more dependable paths to long-term returns than the newly public megacap.",
+    "published_at": "2026-07-13T01:12:00+08:00",
+    "stocks": [],
+    "uid": "75cff9abd74b2ba68c71382b71e44b09",
+    "title_en": "SpaceX Has Officially Joined the Nasdaq-100. Here Are 3 Better Nasdaq-100 Stocks to Buy in July.",
+    "summary_en": "These overlooked consumer stocks could offer investors more dependable paths to long-term returns than the newly public megacap.",
+    "title_zh": "SpaceX 已正式加入納斯達克 100 指數。以下是 7 月值得買入的 3 隻更好的納斯達克 100 股票。",
+    "summary_zh": "這些被忽視的消費股可以為投資者提供比新上市的巨型股更可靠的長期回報途徑。"
+  },
+  {
+    "title": "The 1 AI Stock I'd Buy and Hold for the Next Decade",
+    "url": "https://www.fool.com/investing/2026/07/12/the-1-ai-stock-id-buy-and-hold-for-the-next-decade/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "My pick isn't the market's hottest AI name -- and that's the point.",
+    "published_at": "2026-07-13T01:03:00+08:00",
+    "stocks": [],
+    "uid": "d9ae03df39304734a7e64f030ec0fe9a",
+    "title_en": "The 1 AI Stock I'd Buy and Hold for the Next Decade",
+    "summary_en": "My pick isn't the market's hottest AI name -- and that's the point.",
+    "title_zh": "未來十年我會買下並持有的第一隻人工智慧股票",
+    "summary_zh": "我的選擇不是市場上最熱門的人工智慧名稱——這就是重點。"
+  },
+  {
+    "title": "Wall Street Is Bullish on 1 of These Chip Stocks and Bearish on the Other",
+    "url": "https://www.fool.com/investing/2026/07/12/wall-street-bullish-on-one-chip-stock-and-bearish/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Wall Street's biggest banks are split on two AI chip stocks. Here's why they're backing Marvell Technology while remaining cautious on Intel.",
+    "published_at": "2026-07-13T00:58:00+08:00",
+    "stocks": [],
+    "uid": "3785760da7d01bf936219c959b245d42",
+    "title_en": "Wall Street Is Bullish on 1 of These Chip Stocks and Bearish on the Other",
+    "summary_en": "Wall Street's biggest banks are split on two AI chip stocks. Here's why they're backing Marvell Technology while remaining cautious on Intel.",
+    "title_zh": "華爾街看好其中一種晶片股，看跌另一種",
+    "summary_zh": "華爾街最大的銀行在兩隻人工智慧晶片股票上存在分歧。這就是他們支持 Marvell Technology 同時對英特爾保持謹慎態度的原因。"
+  },
+  {
     "title": "US conducts strikes on Iran missile systems around Strait of Hormuz, Axios reports",
     "url": "https://www.investing.com/news/commodities-news/us-conducts-strikes-on-iran-missile-systems-around-strait-of-hormuz-axios-reports-4787369",
     "source": "Investing.com",
@@ -11,6 +376,68 @@
     "summary_en": "",
     "title_zh": "Axios報道稱，美國對霍爾木茲海峽周圍的伊朗飛彈系統進行了打擊",
     "summary_zh": ""
+  },
+  {
+    "title": "Here’s Why NVIDIA (NVDA) is One of the Best Quality Stocks to Buy According to Wall Street Analysts",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-nvidia-nvda-one-best-124242223.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-13T00:47:42+08:00",
+    "stocks": [
+      "NVDA"
+    ],
+    "uid": "34111c40044e3288ec1815d6ea385aea"
+  },
+  {
+    "title": "ExlService Holdings (EXLS) Achieves Gold Tier Status in Databricks Partner Program",
+    "url": "https://finance.yahoo.com/technology/ai/articles/exlservice-holdings-exls-achieves-gold-124235090.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-13T00:47:35+08:00",
+    "stocks": [
+      "EXLS"
+    ],
+    "uid": "cd8cebcd6125ce6a0da6565c9e1f6ddf"
+  },
+  {
+    "title": "Weatherford International (WFRD) to Acquire NCS Multistage in Stock and Cash Transaction",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/weatherford-international-wfrd-acquire-ncs-124253761.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-13T00:46:53+08:00",
+    "stocks": [
+      "WFRD"
+    ],
+    "uid": "e39e7b4b70ed42d8dc1da9ad749f7fd7"
+  },
+  {
+    "title": "Cirrus Logic (CRUS) Introduces New Family of High-Performance Audio Converters for Professional Markets",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cirrus-logic-crus-introduces-family-124302281.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-13T00:44:02+08:00",
+    "stocks": [
+      "CRUS"
+    ],
+    "uid": "41f901f0e6437b8a58183a7a743b7725"
+  },
+  {
+    "title": "3 AI Infrastructure Stocks That Could Double by 2027",
+    "url": "https://www.fool.com/investing/2026/07/12/3-ai-infrastructure-stocks-that-could-double-by-20/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Low valuations and rapid revenue growth leave room for these stocks to double.",
+    "published_at": "2026-07-13T00:40:00+08:00",
+    "stocks": [],
+    "uid": "50b5b9cb94bb5ac1fd128f575d9db75e"
+  },
+  {
+    "title": "What Is the State Street SPDR Portfolio Developed World ex-US ETF, and Who Should Buy It?",
+    "url": "https://www.fool.com/investing/2026/07/12/what-is-the-state-street-spdr-portfolio-developed/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Want to diversify beyond U.S. stocks? This international ETF has low costs, impressive diversification, and a strong recent track record.",
+    "published_at": "2026-07-13T00:37:00+08:00",
+    "stocks": [],
+    "uid": "4d4f53f5e6d92112e09084d637e8af2b"
   },
   {
     "title": "Your Retirement Plan Needs to Beat Inflation. Here's How.",
