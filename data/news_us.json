@@ -1,5 +1,876 @@
 [
   {
+    "title": "Oil volatility is creating a 'win-win' trade strategy",
+    "url": "https://www.cnbc.com/2026/07/13/oil-volatility-is-creating-a-win-win-trade-strategy.html",
+    "source": "CNBC Top",
+    "summary": "The United States Oil Fund (USO), the ETF that best tracks oil prices, offers equity options traders a liquid, accessible alternative to the complexities of the futures market.",
+    "published_at": "2026-07-14T01:02:10+08:00",
+    "stocks": [
+      "USO"
+    ],
+    "uid": "16b78aa07033d01049dd9cad11cbedeb",
+    "title_en": "Oil volatility is creating a 'win-win' trade strategy",
+    "summary_en": "The United States Oil Fund (USO), the ETF that best tracks oil prices, offers equity options traders a liquid, accessible alternative to the complexities of the futures market.",
+    "title_zh": "石油波動正在創造「雙贏」的交易策略",
+    "summary_zh": "美國石油基金 (USO) 是最能追蹤油價的 ETF，它為股票選擇權交易者提供了一種流動性強、易於取得的替代方案，以取代複雜的期貨市場。"
+  },
+  {
+    "title": "Trump calls for Congress to pass Clarity Act crypto bill to honor Lindsey Graham",
+    "url": "https://www.cnbc.com/2026/07/13/trump-congress-clarity-act-crypto-bill-lindsey-graham.html",
+    "source": "CNBC Top",
+    "summary": "The Senate Banking Committee approved the bill 15-9 in May, with two Democrats joining Republicans to advance the legislation.",
+    "published_at": "2026-07-14T00:52:08+08:00",
+    "stocks": [],
+    "uid": "c8f5d9f1b0bbbce0d3e734b5a549a3e3",
+    "title_en": "Trump calls for Congress to pass Clarity Act crypto bill to honor Lindsey Graham",
+    "summary_en": "The Senate Banking Committee approved the bill 15-9 in May, with two Democrats joining Republicans to advance the legislation.",
+    "title_zh": "川普呼籲國會通過《清晰法案》加密法案以紀念林賽·格雷厄姆",
+    "summary_zh": "參議院銀行委員會於 5 月以 15 比 9 的投票結果批准了該法案，兩名民主黨人與共和黨人一起推進該立法。"
+  },
+  {
+    "title": "Meet the International ETF Quietly Beating the S&P 500 in 2026",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/meet-international-etf-quietly-beating-165000019.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T00:50:00+08:00",
+    "stocks": [],
+    "uid": "9d6288c56b1f7817a0961e76e7af7ff0",
+    "title_en": "Meet the International ETF Quietly Beating the S&P 500 in 2026",
+    "summary_en": "",
+    "title_zh": "2026 年國際 ETF 悄悄擊敗標普 500 指數",
+    "summary_zh": ""
+  },
+  {
+    "title": "Judge says Trump sued IRS for 'improper purpose'; refers his lawyer to bar",
+    "url": "https://www.cnbc.com/2026/07/13/trump-irs-doj-lawsuit-blanche.html",
+    "source": "CNBC Top",
+    "summary": "Trump's lawsuit against the IRS was settled by the Justice Department with an agreement to create a $1.8 billion \"lawfare' fund that has since been scrapped.",
+    "published_at": "2026-07-14T00:49:42+08:00",
+    "stocks": [],
+    "uid": "e9d78975cca4d00a5226d6db642c2bf9",
+    "title_en": "Judge says Trump sued IRS for 'improper purpose'; refers his lawyer to bar",
+    "summary_en": "Trump's lawsuit against the IRS was settled by the Justice Department with an agreement to create a $1.8 billion \"lawfare' fund that has since been scrapped.",
+    "title_zh": "法官稱川普以「不當目的」起訴國稅局；將他的律師轉介給律師事務所",
+    "summary_zh": "川普對國稅局的訴訟由司法部和解，司法部同意設立一個 18 億美元的「法律福利」基金，但該基金後來被廢棄。"
+  },
+  {
+    "title": "US appeals court revives private lawsuits linking Tylenol to autism",
+    "url": "https://www.investing.com/news/stock-market-news/us-appeals-court-revives-private-lawsuits-linking-tylenol-to-autism-adhd-4788881",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-14T00:49:34+08:00",
+    "stocks": [],
+    "uid": "c81468f40a0ff13e3b963531d5b3574e",
+    "title_en": "US appeals court revives private lawsuits linking Tylenol to autism",
+    "summary_en": "",
+    "title_zh": "美國上訴法院恢復將泰諾與自閉症聯繫起來的私人訴訟",
+    "summary_zh": ""
+  },
+  {
+    "title": "SpaceX vs Nvidia: Which Stock Will Be Worth More in 5 Years?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-vs-nvidia-stock-worth-164925705.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T00:49:25+08:00",
+    "stocks": [],
+    "uid": "f0a34a4276ad476f1cd7c098492209ed",
+    "title_en": "SpaceX vs Nvidia: Which Stock Will Be Worth More in 5 Years?",
+    "summary_en": "",
+    "title_zh": "SpaceX vs Nvidia：哪一支股票在 5 年內會更值錢？",
+    "summary_zh": ""
+  },
+  {
+    "title": "AI Costs Keep Rising As Morgan Stanley Ups CapEx Estimates For Amazon, Meta",
+    "url": "https://www.investors.com/news/technology/meta-stock-amazon-stock-ai-costs-morgan-stanley/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T00:49:19+08:00",
+    "stocks": [],
+    "uid": "c077459f935f1ead4b440f33782a1c3b",
+    "title_en": "AI Costs Keep Rising As Morgan Stanley Ups CapEx Estimates For Amazon, Meta",
+    "summary_en": "",
+    "title_zh": "摩根士丹利上調亞馬遜、Meta 的資本支出預估，人工智慧成本持續上升",
+    "summary_zh": ""
+  },
+  {
+    "title": "California, 11 states suing to block Paramount’s $110 billion Warner Bros deal",
+    "url": "https://www.investing.com/news/stock-market-news/california-11-states-suing-to-block-paramounts-110-billion-warner-bros-deal-4788951",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-14T00:49:18+08:00",
+    "stocks": [],
+    "uid": "310cb4f6d95385e864f9d4ed3b128a86",
+    "title_en": "California, 11 states suing to block Paramount’s $110 billion Warner Bros deal",
+    "summary_en": "",
+    "title_zh": "加州和 11 個州提起訴訟，阻止派拉蒙 1100 億美元的華納兄弟交易",
+    "summary_zh": ""
+  },
+  {
+    "title": "California offering $3,500 EV rebates to first-time buyers",
+    "url": "https://www.investing.com/news/stock-market-news/california-offering-3500-ev-rebates-to-firsttime-buyers-4788871",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-14T00:48:59+08:00",
+    "stocks": [],
+    "uid": "ecc4b293b756ea379adbb947a66c71b9",
+    "title_en": "California offering $3,500 EV rebates to first-time buyers",
+    "summary_en": "",
+    "title_zh": "加州向首次購買者提供 3,500 美元的電動車折扣",
+    "summary_zh": ""
+  },
+  {
+    "title": "SpaceX clears Starship mishap probe before next test flight this week",
+    "url": "https://www.investing.com/news/stock-market-news/faa-closes-starship-review-ahead-of-spacexs-next-test-flight-this-week-4788794",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-14T00:48:42+08:00",
+    "stocks": [],
+    "uid": "286a9a2ad90cd388ab6b58b92479119e",
+    "title_en": "SpaceX clears Starship mishap probe before next test flight this week",
+    "summary_en": "",
+    "title_zh": "SpaceX 在本週下一次試飛前清除了 Starship 事故調查",
+    "summary_zh": ""
+  },
+  {
+    "title": "Stock Market Today, July 13: SK Hynix Tumbles 15% in South Korea, Leading Semiconductor Drop at Midday",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-july-13-164818266.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T00:48:18+08:00",
+    "stocks": [],
+    "uid": "7c82f2498e299427d57266c15bd99627",
+    "title_en": "Stock Market Today, July 13: SK Hynix Tumbles 15% in South Korea, Leading Semiconductor Drop at Midday",
+    "summary_en": "",
+    "title_zh": "今日股市，7 月 13 日：SK 海力士在韓國股市暴跌 15%，午盤領跌半導體股",
+    "summary_zh": ""
+  },
+  {
+    "title": "Traders are betting on a comeback quarter for Netflix",
+    "url": "https://www.cnbc.com/2026/07/13/traders-are-betting-on-a-comeback-quarter-for-netflix.html",
+    "source": "CNBC Top",
+    "summary": "Options traders are striking a decidedly bullish tone heading into the streaming giant's earnings on Thursday.",
+    "published_at": "2026-07-14T00:46:51+08:00",
+    "stocks": [],
+    "uid": "f3cfbabf4b2b414a8a43b30de2dd4544",
+    "title_en": "Traders are betting on a comeback quarter for Netflix",
+    "summary_en": "Options traders are striking a decidedly bullish tone heading into the streaming giant's earnings on Thursday.",
+    "title_zh": "交易員押注 Netflix 將在本季捲土重來",
+    "summary_zh": "週四，期權交易員對這家串流媒體巨頭的財報表現出了明顯的看漲基調。"
+  },
+  {
+    "title": "California-led coalition sues to block $110 billion Warner Bros.-Paramount merger",
+    "url": "https://www.investing.com/news/stock-market-news/californialed-coalition-sues-to-block-110-billion-warner-brosparamount-merger-4789014",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-14T00:45:27+08:00",
+    "stocks": [],
+    "uid": "d153bbfee7e46c7aecf22bda72302f0d",
+    "title_en": "California-led coalition sues to block $110 billion Warner Bros.-Paramount merger",
+    "summary_en": "",
+    "title_zh": "加州領導的聯盟提起訴訟，阻止華納兄弟與派拉蒙 1100 億美元的合併",
+    "summary_zh": ""
+  },
+  {
+    "title": "The Fed’s Christopher Waller Warns of Higher Rates if Inflation Stays High",
+    "url": "https://www.nytimes.com/2026/07/13/business/federal-reserve-inflation-data-rates.html",
+    "source": "NYT Business",
+    "summary": "Christopher J. Waller, a governor at the Federal Reserve, said he needs to see several months of lower inflation data to feel confident about the outlook.",
+    "published_at": "2026-07-14T00:45:12+08:00",
+    "stocks": [],
+    "uid": "59449d352d59ca54c5eb5c56214fe019",
+    "title_en": "The Fed’s Christopher Waller Warns of Higher Rates if Inflation Stays High",
+    "summary_en": "Christopher J. Waller, a governor at the Federal Reserve, said he needs to see several months of lower inflation data to feel confident about the outlook.",
+    "title_zh": "聯準會克里斯托弗沃勒警告稱，如果通膨居高不下，聯準會將升息",
+    "summary_zh": "聯準會(Federal Reserve)理事克里斯多福‧沃勒(Christopher J. Waller)表示，他需要看到幾個月的較低通膨數據才能對前景充滿信心。"
+  },
+  {
+    "title": "SK Hynix Raises $26.5 Billion in the Second-Biggest Share Sale Ever",
+    "url": "https://www.fool.com/investing/2026/07/13/sk-hynix-in-the-second-biggest-share-sale-ever/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "SK Hynix's record-breaking Nasdaq debut gives U.S. investors a new way to play the AI boom, but the timing also serves as a reminder that even the hottest semiconductor stocks remain deeply cyclical.",
+    "published_at": "2026-07-14T00:45:00+08:00",
+    "stocks": [],
+    "uid": "19979400526f209d284b6c1ee2aeb6fb",
+    "title_en": "SK Hynix Raises $26.5 Billion in the Second-Biggest Share Sale Ever",
+    "summary_en": "SK Hynix's record-breaking Nasdaq debut gives U.S. investors a new way to play the AI boom, but the timing also serves as a reminder that even the hottest semiconductor stocks remain deeply cyclical.",
+    "title_zh": "SK 海力士募集 265 億美元，史上第二大股票出售",
+    "summary_zh": "SK 海力士在納斯達克創紀錄的首次亮相為美國投資者提供了一種利用人工智慧熱潮的新方式，但這個時機也提醒人們，即使是最熱門的半導體股票也仍然具有很強的周期性。"
+  },
+  {
+    "title": "Nvidia, AMD, Microsoft Partnerships — And These Clues — Fuel Dell Stock",
+    "url": "https://www.investors.com/research/how-to-find-the-best-stocks-to-buy/dell-stock-nvidia-amd-microsoft-partnerships-ai-data-centers-fuel-demand/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T00:44:24+08:00",
+    "stocks": [],
+    "uid": "7d02d2184588fc07fc5e1d47d50f8408",
+    "title_en": "Nvidia, AMD, Microsoft Partnerships — And These Clues — Fuel Dell Stock",
+    "summary_en": "",
+    "title_zh": "Nvidia、AMD、微軟的合作關係——以及這些線索——推動戴爾股價上漲",
+    "summary_zh": ""
+  },
+  {
+    "title": "Wildfire rages near Paris as heatwave scorches Europe",
+    "url": "https://www.investing.com/news/world-news/france-sends-water-bombers-to-tackle-wildfire-outside-paris-4787656",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-14T00:43:34+08:00",
+    "stocks": [],
+    "uid": "2ce09fb67ba53a572f84f039a1ee432f",
+    "title_en": "Wildfire rages near Paris as heatwave scorches Europe",
+    "summary_en": "",
+    "title_zh": "熱浪灼燒歐洲，巴黎附近野火肆虐",
+    "summary_zh": ""
+  },
+  {
+    "title": "Wall Street banks ramp up digital assistants in bid to win productivity race",
+    "url": "https://www.investing.com/news/stock-market-news/wall-street-banks-ramp-up-digital-assistants-in-bid-towin-productivity-race-4787686",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-14T00:43:00+08:00",
+    "stocks": [],
+    "uid": "8162027e18da3b5b8c4a199d341e4ba4",
+    "title_en": "Wall Street banks ramp up digital assistants in bid to win productivity race",
+    "summary_en": "",
+    "title_zh": "華爾街銀行加強數位助理以贏得生產力競賽",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why is Deckers Outdoor stock gaining today?",
+    "url": "https://www.investing.com/news/stock-market-news/why-is-deckers-outdoor-stock-gaining-today-93CH-4789013",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-14T00:41:19+08:00",
+    "stocks": [],
+    "uid": "199fbe3cb0f2fa102f105c1365bf4cf8",
+    "title_en": "Why is Deckers Outdoor stock gaining today?",
+    "summary_en": "",
+    "title_zh": "為什麼 Deckers Outdoor 股票今天上漲？",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why is Klaviyo stock rallying today?",
+    "url": "https://www.investing.com/news/stock-market-news/why-is-klaviyo-stock-rallying-today-93CH-4789012",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-14T00:41:14+08:00",
+    "stocks": [],
+    "uid": "b4ace0564ea8e42ddecc81b012500782",
+    "title_en": "Why is Klaviyo stock rallying today?",
+    "summary_en": "",
+    "title_zh": "為什麼 Klaviyo 股票今天上漲？",
+    "summary_zh": ""
+  },
+  {
+    "title": "Here's Why This Hidden AI Stock Rose 155% in the First Half of 2026",
+    "url": "https://www.fool.com/investing/2026/07/13/heres-why-this-hidden-ai-stock-rose-155-in-the-fir/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "There are many ways to play the investment boom in electrification coming out of the AI data center and \"electrification of everything\" trends, and this stock is one of the best of them.",
+    "published_at": "2026-07-14T00:41:13+08:00",
+    "stocks": [],
+    "uid": "0ae1bbb646dd1e28298aa443ddebd085",
+    "title_en": "Here's Why This Hidden AI Stock Rose 155% in the First Half of 2026",
+    "summary_en": "There are many ways to play the investment boom in electrification coming out of the AI data center and \"electrification of everything\" trends, and this stock is one of the best of them.",
+    "title_zh": "這就是為什麼這只隱藏的人工智慧股票在 2026 年上半年上漲了 155%",
+    "summary_zh": "有很多方法可以利用人工智慧資料中心帶來的電氣化投資熱潮和「一切電氣化」趨勢，而這隻股票就是其中最好的之一。"
+  },
+  {
+    "title": "Billionaires are loading up on these superior stocks. Why it pays to follow their money.",
+    "url": "https://www.marketwatch.com/story/billionaires-are-loading-up-on-these-superior-stocks-why-it-pays-to-follow-their-money-9120c242?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The second quarter was a six-year best for U.S. stocks — here are the three sectors poised to lead the next leg higher.",
+    "published_at": "2026-07-14T00:40:00+08:00",
+    "stocks": [],
+    "uid": "f971650e28973c3bf7e67439eda98738",
+    "title_en": "Billionaires are loading up on these superior stocks. Why it pays to follow their money.",
+    "summary_en": "The second quarter was a six-year best for U.S. stocks — here are the three sectors poised to lead the next leg higher.",
+    "title_zh": "億萬富翁正在買入這些優質股票。為什麼追隨他們的錢是值得的。",
+    "summary_zh": "第二季是美國股市六年來最好的季度——以下三個板塊預計將引領下一波上漲。"
+  },
+  {
+    "title": "Borr Drilling vs. ProPetro: Which Energy Stock Profits From Higher Prices in 2026?",
+    "url": "https://www.fool.com/coverage/better-buy/2026/07/13/borr-drilling-vs-propetro-which-energy-stock-profits-from-higher-prices-in-2026/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Offshore rigs or land-based completion services? One carries higher leverage; the other faces customer concentration risk.",
+    "published_at": "2026-07-14T00:39:27+08:00",
+    "stocks": [],
+    "uid": "a78748a6236d27dd8cc5b3a23e58eff0",
+    "title_en": "Borr Drilling vs. ProPetro: Which Energy Stock Profits From Higher Prices in 2026?",
+    "summary_en": "Offshore rigs or land-based completion services? One carries higher leverage; the other faces customer concentration risk.",
+    "title_zh": "Borr Drilling 與 ProPetro：哪隻能源股會從 2026 年價格上漲中獲利？",
+    "summary_zh": "海上鑽井平台還是陸上完井服務？一者槓桿率較高；一是面臨顧客集中度風險。"
+  },
+  {
+    "title": "Fed’s Waller says higher rates possibly needed in ’near term’",
+    "url": "https://www.investing.com/news/economy-news/feds-waller-says-higher-rates-possibly-needed-in-near-term-4789011",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-14T00:37:22+08:00",
+    "stocks": [],
+    "uid": "2b0dbb562057a62faa5befe78f9197ff",
+    "title_en": "Fed’s Waller says higher rates possibly needed in ’near term’",
+    "summary_en": "",
+    "title_zh": "聯準會沃勒表示「短期內」可能需要升息",
+    "summary_zh": ""
+  },
+  {
+    "title": "Will Oil Prices Rise as the US-Iran Truce Frays? The Answer Lies With China.",
+    "url": "https://www.nytimes.com/2026/07/13/business/energy-environment/oil-prices-iran-china.html",
+    "source": "NYT Business",
+    "summary": "For decades, OPEC influenced the market by how much oil it produced. But China, the largest importer, is demonstrating its remarkable power over prices.",
+    "published_at": "2026-07-14T00:34:34+08:00",
+    "stocks": [],
+    "uid": "29effb2860a594051af566f90481d99e",
+    "title_en": "Will Oil Prices Rise as the US-Iran Truce Frays? The Answer Lies With China.",
+    "summary_en": "For decades, OPEC influenced the market by how much oil it produced. But China, the largest importer, is demonstrating its remarkable power over prices.",
+    "title_zh": "美伊停戰協議破裂，油價會漲嗎？答案在於中國。",
+    "summary_zh": "幾十年來，歐佩克透過其石油產量影響著市場。但作為最大進口國的中國正在展示其非凡的價格影響力。"
+  },
+  {
+    "title": "Waller says Fed shouldn't 'fight the last war' on inflation but warns hikes still possible",
+    "url": "https://www.cnbc.com/2026/07/13/waller-says-fed-shouldnt-fight-the-last-war-on-inflation-but-warns-hikes-still-possible.html",
+    "source": "CNBC Finance",
+    "summary": "The Fed governor said inflation has expanded beyond the often-cited drivers such as the energy price spike in tariffs.",
+    "published_at": "2026-07-14T00:33:49+08:00",
+    "stocks": [],
+    "uid": "c5c5c7558bc8b63dd28fac30464d94e4"
+  },
+  {
+    "title": "A hot inflation reading this week could mean a rate hike soon, Fed’s Waller says",
+    "url": "https://www.marketwatch.com/story/a-hot-inflation-reading-this-week-could-mean-a-rate-hike-soon-feds-waller-says-15acf7a2?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Fed officials are divided over whether the Fed will need to raise rates.",
+    "published_at": "2026-07-14T00:32:00+08:00",
+    "stocks": [],
+    "uid": "75268aed7f5a37b45af6f680df638107"
+  },
+  {
+    "title": "Here are the 6 levels of wealth for retirement-age Americans — are you at the top or bottom of the pyramida",
+    "url": "https://finance.yahoo.com/markets/articles/6-levels-wealth-retirement-age-163000494.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T00:30:00+08:00",
+    "stocks": [],
+    "uid": "d2af63bcfb1bf0462fd66209eace1a3c"
+  },
+  {
+    "title": "Citadel Securities says AI will enhance America's 'hustle culture' as new business applications hit 5.6 million",
+    "url": "https://finance.yahoo.com/small-business/articles/citadel-securities-says-ai-enhance-163000796.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T00:30:00+08:00",
+    "stocks": [],
+    "uid": "99e321ffff1e3dab0ab2e1762a94d95a"
+  },
+  {
+    "title": "Meet the International ETF Quietly Beating the S&P 500 in 2026",
+    "url": "https://www.fool.com/investing/2026/07/13/meet-the-international-etf-quietly-beating-the-sp/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "It sports a much higher dividend yield and it features growing powerhouses outside U.S. borders.",
+    "published_at": "2026-07-14T00:30:00+08:00",
+    "stocks": [],
+    "uid": "f1a63f789159989ddcf46a9b4e37e81c"
+  },
+  {
+    "title": "SpaceX vs Nvidia: Which Stock Will Be Worth More in 5 Years?",
+    "url": "https://www.fool.com/investing/2026/07/13/spacex-vs-nvidia-which-stock-will-be-worth-more-in/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The success of both of these stocks hinges significantly on their opportunities related to artificial intelligence.",
+    "published_at": "2026-07-14T00:29:25+08:00",
+    "stocks": [],
+    "uid": "c274c51d63ce5d2270c11775238eda5b"
+  },
+  {
+    "title": "Stock Market Today, July 13: SK Hynix Tumbles 15% in South Korea, Leading Semiconductor Drop at Midday",
+    "url": "https://www.fool.com/coverage/stock-market-today/2026/07/13/stock-market-today-july-13-sk-hynix-tumbles-15-in-south-korea-leading-semiconductor-drop-at-midday/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "A global chip sector's retreat dragged the Nasdaq lower this morning, as oil surged today, July 13, 2026.",
+    "published_at": "2026-07-14T00:28:18+08:00",
+    "stocks": [],
+    "uid": "6e69ef8d1aaa86af847062386887d990"
+  },
+  {
+    "title": "Why Direxion Daily Semiconductor Bull 3X ETF Dropped",
+    "url": "https://www.fool.com/investing/2026/07/13/why-direxion-daily-semiconductor-bull-3x-etf-dropp/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The SOXL ETF is magnifying semiconductor stock losses again today.",
+    "published_at": "2026-07-14T00:25:21+08:00",
+    "stocks": [],
+    "uid": "249d4e9ee234b1ced33d384353a8a5c9"
+  },
+  {
+    "title": "Retail investors are cashing out of Apple, Tesla, and chip stocks: Chart of the Day",
+    "url": "https://finance.yahoo.com/markets/article/retail-investors-are-cashing-out-of-apple-tesla-and-chip-stocks-chart-of-the-day-162404788.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T00:24:04+08:00",
+    "stocks": [],
+    "uid": "1d67f9cbade53ec1c178475df26f1026"
+  },
+  {
+    "title": "Stock Indexes Split as Chip Stocks Fall, Oil Surges",
+    "url": "https://www.fool.com/investing/2026/07/13/stock-indexes-split-as-chip-stocks-fall-oil-surges/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Why are chip stocks collapsing while the Dow barely budges? Korean markets just had their worst day since the 2008 financial crisis, and the fallout is hitting semiconductors hard.",
+    "published_at": "2026-07-14T00:23:17+08:00",
+    "stocks": [],
+    "uid": "3c6553e502e44340447d41b88da14d6c"
+  },
+  {
+    "title": "Samsung Stock Fell Despite a 19x Profit Jump. Here's What That Means for Micron Investors",
+    "url": "https://www.fool.com/investing/2026/07/13/samsung-stock-fell-despite-a-19x-profit-jump-heres/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The market is expecting bigger earnings beats from memory manufacturers, but it isn't rewarding them with a justified valuation representing their exponential growth.",
+    "published_at": "2026-07-14T00:23:00+08:00",
+    "stocks": [],
+    "uid": "a367c1649482383c9357b6a7142f5874"
+  },
+  {
+    "title": "This Bear Call Spread Can Collect If Netflix Continues To Disappoint",
+    "url": "https://www.investors.com/research/options/netflix-nflx-stock-bear-call-spread-options-2/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T00:21:02+08:00",
+    "stocks": [],
+    "uid": "01fefc8678a910e3190a6fe236cfe70d"
+  },
+  {
+    "title": "Class is in session: Howie Mandel turned 2 acres of dirt into his 'best investment' besides showbiz. Here's how",
+    "url": "https://finance.yahoo.com/real-estate/articles/class-session-howie-mandel-turned-162000119.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T00:20:00+08:00",
+    "stocks": [],
+    "uid": "2639ef8fdab21f9a46850d91b892633f"
+  },
+  {
+    "title": "Trump recommends Lindsey Graham's sister serve as interim senator for South Carolina",
+    "url": "https://www.cnbc.com/2026/07/13/trump-lindsey-graham-darline-south-carolina-senator.html",
+    "source": "CNBC Top",
+    "summary": "The death of Sen. Lindsey Graham ignited a scramble among South Carolina Republicans to prepare for a special primary election to replace him on the GOP ticket.",
+    "published_at": "2026-07-14T00:18:49+08:00",
+    "stocks": [],
+    "uid": "0ed760685ba567acb0a8ad886a21ded5"
+  },
+  {
+    "title": "Stocks slip, oil rallies and bond yields rise as Gulf conflict escalates",
+    "url": "https://finance.yahoo.com/markets/articles/shares-slip-asia-oil-jumps-002452563.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T00:18:42+08:00",
+    "stocks": [],
+    "uid": "25f80a99aafcb48b5cb00e4d155f9c1b"
+  },
+  {
+    "title": "3 Dividend Stocks Built for Long-Term Buy-and-Hold Investors",
+    "url": "https://www.fool.com/investing/2026/07/13/3-dividend-stocks-built-for-long-term-buy-and-hold/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "You need to look beyond the tech sector to find great dividend stocks for the long term.",
+    "published_at": "2026-07-14T00:15:00+08:00",
+    "stocks": [],
+    "uid": "44a6c3f7aa897c7e30d7d525e7c25e6d"
+  },
+  {
+    "title": "Stock Market Today, July 13: Energy Stocks Cushion Dow as Tech Slides on Geopolitical Tensions",
+    "url": "https://www.fool.com/coverage/stock-market-today/2026/07/13/stock-market-today-july-13-energy-stocks-cushion-dow-as-tech-slides-on-geopolitical-tensions/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Energy names help cushion the Dow as oil jumps on U.S.–Iran tensions and investors brace for key earnings and inflation data, today, July 13, 2026.",
+    "published_at": "2026-07-14T00:14:50+08:00",
+    "stocks": [],
+    "uid": "d43598c78b54a50d833774adf77d4fd9"
+  },
+  {
+    "title": "SpaceX stock sinks for a second-straight day, nearing $135 IPO price",
+    "url": "https://www.cnbc.com/2026/07/13/spacex-spcx-stock-ipo-price.html",
+    "source": "CNBC Top",
+    "summary": "SpaceX went public a month ago in a record IPO. Elon Musk's space and AI company was added to the Nasdaq-100 last week.",
+    "published_at": "2026-07-14T00:14:03+08:00",
+    "stocks": [],
+    "uid": "42a1b2a70f1111223cd118dfe6df4261"
+  },
+  {
+    "title": "Paramount-Warner Bros. Merger Is Challenged in Court by California and 11 Other States",
+    "url": "https://www.nytimes.com/2026/07/13/business/paramount-warner-bros-lawsuit.html",
+    "source": "NYT Business",
+    "summary": "The lawsuit, filed by California and 11 other states, argues that the deal would harm movie theaters and damage America’s entertainment industry.",
+    "published_at": "2026-07-14T00:13:18+08:00",
+    "stocks": [],
+    "uid": "f04268a4bdd323a74b57c5df1ec29404"
+  },
+  {
+    "title": "Should You Sign Up for Social Security and Medicare at the Same Time? 3 Things You Should Know",
+    "url": "https://www.fool.com/retirement/2026/07/13/should-you-sign-up-for-social-security-medicare/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Making the wrong move here could prove costly in the long run.",
+    "published_at": "2026-07-14T00:00:00+08:00",
+    "stocks": [],
+    "uid": "1a109cf797f8107057fea5b9f1b8f430"
+  },
+  {
+    "title": "Why Intel Stock Dropped Today",
+    "url": "https://www.fool.com/investing/2026/07/13/why-intel-stock-dropped-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "If Intel wants to produce computer memory, it will have to do battle with a stronger SK Hynix.",
+    "published_at": "2026-07-13T23:57:18+08:00",
+    "stocks": [],
+    "uid": "22e5c1b01643b74c4913b44a11dd7e34"
+  },
+  {
+    "title": "This tech stock just got another Wall Street boost. Why we're on the same page",
+    "url": "https://www.cnbc.com/2026/07/13/this-tech-giant-just-got-another-street-boost-were-on-the-same-page.html",
+    "source": "CNBC Top",
+    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+    "published_at": "2026-07-13T23:52:16+08:00",
+    "stocks": [],
+    "uid": "d9344632833b235085dbb9d77be2d15d"
+  },
+  {
+    "title": "Cathie Wood Bought $54 Million Worth Of SpaceX Stock Last Week",
+    "url": "https://www.investors.com/news/cathie-wood-ark-invest-spacex-stock-meta-amd-eli-lilly/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-13T23:50:02+08:00",
+    "stocks": [],
+    "uid": "a4758d7107ce30f3f6668a80d5ba63a4"
+  },
+  {
+    "title": "EQS-Adhoc: Shelly Group reports preliminary group revenue for the first half of 2026",
+    "url": "https://markets.businessinsider.com/news/stocks/eqs-adhoc-shelly-group-reports-preliminary-group-revenue-for-the-first-half-of-2026-1036319223",
+    "source": "Business Insider",
+    "summary": "&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;\nEQS-Ad-hoc: Shelly Group SE / Key word(s): Results / Quarter&lt;br/&gt;\n\nShelly Group reports preliminary group revenue for the first half of 2026 &lt;br/&gt;&lt;br/&gt;\n13-Jul-2026 / 17:46 CET/CEST&lt;br/&gt;\n\nDisclosure of an inside information acc. to Article 17 MAR of the Regulation (EU) No 596/2014, transmitted by &lt;a...",
+    "published_at": "2026-07-13T23:46:43+08:00",
+    "stocks": [],
+    "uid": "fa314a738ec7cc81356084959949151d"
+  },
+  {
+    "title": "Arm And Marvell Tumble As Chip Stocks Sell Off",
+    "url": "https://www.investors.com/news/technology/chip-stocks-sox-arm-marvell-sell-off/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-13T23:46:18+08:00",
+    "stocks": [],
+    "uid": "cc82197c2cb7b9c566333b03ae0b97e9"
+  },
+  {
+    "title": "What Does Rocket Lab's $8 Billion Iridium Acquisition Signal for the New Space Stock Era?",
+    "url": "https://www.fool.com/investing/2026/07/13/what-rocket-labs-8-billion-iridium-acquisition/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Rocket Lab is a pure-play space stock with businesses spanning the entire space value chain.",
+    "published_at": "2026-07-13T23:45:00+08:00",
+    "stocks": [],
+    "uid": "4260cf9b3316068ccdd46b80a850e82e"
+  },
+  {
+    "title": "Facing Digital Threats, MGM Resorts Trades Higher On Reported Takeover Talks With Barry Diller's People Inc.",
+    "url": "https://www.investors.com/news/mgm-resorts-digital-threats-takeover-talks-barry-diller-people-inc/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-13T23:44:54+08:00",
+    "stocks": [],
+    "uid": "58e949758bef924e74a9a43691f26ce0"
+  },
+  {
+    "title": "More Americans are struggling to repay credit card bills for groceries as costs rise",
+    "url": "https://finance.yahoo.com/economy/article/more-americans-are-struggling-to-repay-credit-card-bills-for-groceries-as-costs-rise-154319450.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-13T23:43:19+08:00",
+    "stocks": [],
+    "uid": "1f13cb7ce8da04cfd52b87184e5aba57"
+  },
+  {
+    "title": "StubHub vs. Build-A-Bear Workshop: Which Technology Stock Is a Better Buy in 2026?",
+    "url": "https://www.fool.com/coverage/better-buy/2026/07/13/stubhub-vs-build-a-bear-workshop-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "One operates a dominant ticketing platform with recent losses; the other is a profitable specialty retailer trading at a fraction of the valuation.",
+    "published_at": "2026-07-13T23:42:33+08:00",
+    "stocks": [],
+    "uid": "4c6990f8a5937b8d90734372cb6e27ee"
+  },
+  {
+    "title": "The Ultimate AI Bet: Why Eaton and nVent Electric Are Top Stocks to Buy in 2026",
+    "url": "https://www.fool.com/coverage/better-buy/2026/07/13/the-ultimate-ai-bet-why-eaton-and-nvent-electric-are-top-stocks-to-buy-in-2026/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Eaton and nVent capture a major portion of the AI data center infrastructure and are growing rapidly.",
+    "published_at": "2026-07-13T23:40:41+08:00",
+    "stocks": [],
+    "uid": "77231d0ddace482dba773ec2e79db1ce"
+  },
+  {
+    "title": "Alterra IOS Secures $400 Million Industrial Outdoor Storage Refinancing From Truist and KeyBank",
+    "url": "https://markets.businessinsider.com/news/stocks/alterra-ios-secures-400-million-industrial-outdoor-storage-refinancing-from-truist-and-keybank-1036319186",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;ul&gt;&lt;li&gt;&lt;em&gt;Transaction utilizes pledge of equity structure in place of traditional property mortgages, enabling portfolio-level financing across 99 properties in 27 states&lt;/em&gt;&lt;/li&gt;&lt;li&gt;&lt;em&gt;New financing increases total debt commitments across...",
+    "published_at": "2026-07-13T23:35:11+08:00",
+    "stocks": [],
+    "uid": "ee2e571390a97548ca1f11eadc096d1b"
+  },
+  {
+    "title": "Why Micron Stock Dropped Today",
+    "url": "https://www.fool.com/investing/2026/07/13/10-template/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Micron's larger competitor threatens to upset the market for DRAM supply.",
+    "published_at": "2026-07-13T23:34:35+08:00",
+    "stocks": [],
+    "uid": "567cf2bbcb022eef71b4c4604d19f7d2"
+  },
+  {
+    "title": "Bosch begins sample production at its first US semiconductor plant",
+    "url": "https://finance.yahoo.com/technology/articles/bosch-begins-sample-production-first-153203233.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-13T23:32:03+08:00",
+    "stocks": [],
+    "uid": "56dc253f7cd4fce634f391c0a742a108"
+  },
+  {
+    "title": "If You Invest $1,000 in the Vanguard Total Stock Market ETF Right Now, Here's What History Says It Could Be Worth in 20 Years",
+    "url": "https://www.fool.com/investing/2026/07/13/if-you-invest-1000-in-the-vanguard-total-stock-mar/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This fund has been a solid long-term performer, and its future looks bright, too.",
+    "published_at": "2026-07-13T23:32:00+08:00",
+    "stocks": [],
+    "uid": "a365fca36766fc6c700836adde4a07d8"
+  },
+  {
+    "title": "Why Did Nio Stock Jump Today?",
+    "url": "https://www.fool.com/investing/2026/07/13/why-did-nio-stock-jump-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "One Wall Street firm sees more than 45% upside for Nio stock.",
+    "published_at": "2026-07-13T23:30:16+08:00",
+    "stocks": [],
+    "uid": "9e2b3c694f97d24e6467598f1c434b59"
+  },
+  {
+    "title": "Johnson Cosumnes Mitigation Bank Approved in Sacramento County, California",
+    "url": "https://markets.businessinsider.com/news/stocks/johnson-cosumnes-mitigation-bank-approved-in-sacramento-county-california-1036319180",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;GALT, Calif., July  13, 2026  (GLOBE NEWSWIRE) -- Westervelt Ecological Services (WES) announces the approval of the Johnson Cosumnes Mitigation Bank, a 217-acre floodplain restoration project in Sacramento County, California. The bank was approved...",
+    "published_at": "2026-07-13T23:30:00+08:00",
+    "stocks": [
+      "WES"
+    ],
+    "uid": "5ed1b33d1f17f83c4e824cbcdcf35c27"
+  },
+  {
+    "title": "Bosch announces $225 million direct funding agreement with the U.S. Department of Commerce as part of a $2 billion investment in Roseville, Calif.",
+    "url": "https://markets.businessinsider.com/news/stocks/bosch-announces-225-million-direct-funding-agreement-with-the-u-s-department-of-commerce-as-part-of-a-2-billion-investment-in-roseville-calif-1036319181",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;Roseville, California, July  13, 2026  (GLOBE NEWSWIRE) -- &lt;ul&gt;&lt;li style=&quot;margin-top:0in; margin-bottom:0in;&quot;&gt;Silicon carbide chips production in the U.S. supports supply chain resiliency and local sourcing for automotive manufacturers and...",
+    "published_at": "2026-07-13T23:29:00+08:00",
+    "stocks": [],
+    "uid": "bc02fe28c507bfc8cb34bffd7f6ed504"
+  },
+  {
+    "title": "Dollar mostly flat amid escalating US-Iran tension, yen slides on pension doubts",
+    "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-jumps-renewed-middle-east-004051619.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-13T23:27:39+08:00",
+    "stocks": [],
+    "uid": "08c33c734b8c094b36de0c78998d3ddb"
+  },
+  {
+    "title": "Jim Cramer Explains the Repeating Chart Pattern for National HealthCare Corporation",
+    "url": "https://finance.yahoo.com/healthcare/articles/jim-cramer-explains-repeating-chart-152614804.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-13T23:26:14+08:00",
+    "stocks": [],
+    "uid": "97e9f8ac6e2d9191e9a0d52450b2b731"
+  },
+  {
+    "title": "Jim Cramer Outlines Why Pennant Group Stock Can Sail to $55",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-outlines-why-pennant-152612396.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-13T23:26:12+08:00",
+    "stocks": [],
+    "uid": "d7d6f11807287f840f6970fb0e6881c3"
+  },
+  {
+    "title": "Jim Cramer Highlights the Strong Institutional Support for Welltower Stock",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-strong-institutional-152610408.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-13T23:26:10+08:00",
+    "stocks": [],
+    "uid": "4e2fc85029ccc012901d1d433920aac8"
+  },
+  {
+    "title": "Micron and other chip stocks feel the pain of imported volatility — blame SK Hynix",
+    "url": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-feel-the-pain-of-imported-volatility-blame-sk-hynix-f705a0fd?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The SOX chip index was suffering a unanimous selloff, after SK Hynix’s stock had its worst day in 18 years in South Korea trading.",
+    "published_at": "2026-07-13T23:26:00+08:00",
+    "stocks": [],
+    "uid": "3eb11f9d7ac37beb14b7e5b222283709"
+  },
+  {
+    "title": "Helium Is Not Just for Balloons: Global Supply Shocks Put Strategic Helium Producers in the Spotlight",
+    "url": "https://markets.businessinsider.com/news/stocks/helium-is-not-just-for-balloons-global-supply-shocks-put-strategic-helium-producers-in-the-spotlight-1036319129",
+    "source": "Business Insider",
+    "summary": "&lt;i&gt;NewsOut Highlights Why Investors Are Paying Attention to the Global Helium Market as Supply Tightens&lt;/i&gt; &lt;strong id=&quot;dateline&quot;&gt;NEW YORK CITY, NY / &lt;a href='https://www.accessnewswire.com/' rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot;&gt;ACCESS Newswire&lt;/a&gt; / July 13, 2026 / Helium has become one of the world's most strategically important industrial...",
+    "published_at": "2026-07-13T23:25:00+08:00",
+    "stocks": [],
+    "uid": "786ef6befc6f0174eed91d613de0cae2"
+  },
+  {
+    "title": "Here's What a $5,000 Investment in SpaceX Could Be Worth by 2028",
+    "url": "https://www.fool.com/investing/2026/07/13/heres-what-a-5000-investment-in-spacex-could-be-wo/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The analyst community is optimistic about SpaceX, but retail investors should look at more than just their price targets when making investment decisions.",
+    "published_at": "2026-07-13T23:24:00+08:00",
+    "stocks": [],
+    "uid": "081e46a1954a69ffb98311bc19554499"
+  },
+  {
+    "title": "Great News for IBM Stock Investors!",
+    "url": "https://www.fool.com/investing/2026/07/13/great-news-for-ibm-stock-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "IBM may be changing faster than investors think. Here's why its quantum push could reshape the stock's long-term story.",
+    "published_at": "2026-07-13T23:15:00+08:00",
+    "stocks": [],
+    "uid": "6769bcc5a994fd7a466e2dfdd63690e4"
+  },
+  {
+    "title": "Starbucks Wants to Cut $400 Million in Software Costs. Toast Investors Should Pay Attention.",
+    "url": "https://www.fool.com/investing/2026/07/13/starbucks-wants-to-cut-400-million-software-costs/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Starbucks is ditching legacy software vendors for homegrown AI tools. Here's why that could eventually benefit companies like Toast.",
+    "published_at": "2026-07-13T23:13:00+08:00",
+    "stocks": [],
+    "uid": "63686edd9b483c08cedc6179070122ef"
+  },
+  {
+    "title": "DEEP Robotics Quadruped Robots Deployed at Leibstadt Nuclear Power Plant to Support Digital Maintenance",
+    "url": "https://markets.businessinsider.com/news/stocks/deep-robotics-quadruped-robots-deployed-at-leibstadt-nuclear-power-plant-to-support-digital-maintenance-1036319130",
+    "source": "Business Insider",
+    "summary": "&lt;strong id=&quot;dateline&quot;&gt;LEIBSTADT, CH / &lt;a href='https://www.accessnewswire.com/' rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot;&gt;ACCESS Newswire&lt;/a&gt; / July 13, 2026 / Leibstadt Nuclear Power Plant (KKL), one of Switzerland's largest and highest-output nuclear power stations, generates enough electricity to meet approximately one-seventh of the country's...",
+    "published_at": "2026-07-13T23:12:00+08:00",
+    "stocks": [
+      "KKL"
+    ],
+    "uid": "25d652153b34cc75c1fd7d52eb389ec9"
+  },
+  {
+    "title": "'Gambling no matter what anyone calls it': 'Big Short' investor Michael Burry bashes prediction markets",
+    "url": "https://www.businessinsider.com/michael-burry-prediction-markets-gambling-kalshi-polymarket-betting-retail-traders-2026-7",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-07-13T23:08:00+08:00",
+    "stocks": [],
+    "uid": "a89490d5618742b84dcef8ef5875fcf8"
+  },
+  {
+    "title": "The Dip Is Here for Bloom Energy. Here's Whether to Buy It or Walk Away.",
+    "url": "https://www.fool.com/investing/2026/07/13/the-dip-is-here-for-bloom-heres-whether-to-buy-it/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Bloom Energy is trading about 30% lower than its 52-week high. Is this your buying window?",
+    "published_at": "2026-07-13T23:07:00+08:00",
+    "stocks": [],
+    "uid": "236f0472ec4fe66814a06ff23045a398"
+  },
+  {
+    "title": "Michael Burry's grim warnings are a 'godsend,' star tech investor says",
+    "url": "https://www.businessinsider.com/big-short-michael-burry-substack-ai-tech-stocks-gavin-baker-2026-7",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-07-13T23:06:00+08:00",
+    "stocks": [],
+    "uid": "020e74eb13053cdfe099b0a225b0d2a2"
+  },
+  {
+    "title": "EQS-PVR: Nagarro SE: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
+    "url": "https://markets.businessinsider.com/news/stocks/eqs-pvr-nagarro-se-release-according-to-article-40-section-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution-1036319092",
+    "source": "Business Insider",
+    "summary": "&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;\n\n\nEQS Voting Rights Announcement: Nagarro SE\n\n\n\n&lt;br/&gt;\n\n\nNagarro SE: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution &lt;br/&gt;&lt;br/&gt;\n\n\n\n\n\n\n13.07.2026 / 17:01 CET/CEST&lt;br/&gt;\n\n\nDissemination of a Voting Rights Announcement...",
+    "published_at": "2026-07-13T23:01:04+08:00",
+    "stocks": [],
+    "uid": "5374bc2eece3ef90288c7ae053abee88"
+  },
+  {
+    "title": "AI Education Strategist and Product Systems Leader Barry Li Advances Judgment-Centered Learning in Silicon Valley",
+    "url": "https://markets.businessinsider.com/news/stocks/ai-education-strategist-and-product-systems-leader-barry-li-advances-judgment-centered-learning-in-silicon-valley-1036319119",
+    "source": "Business Insider",
+    "summary": "&lt;i&gt;A nonprofit, zero-equity accelerator introduces an AI-native, judgment-centered framework to support first-time founders. Combining structured education, mentorship, and community networks, the program expands entrepreneurial access beyond traditional gatekeepers while exploring new models for founder development, decision-making,...",
+    "published_at": "2026-07-13T23:00:55+08:00",
+    "stocks": [],
+    "uid": "bfeab484ffbe99fef78d292e3a1a7008"
+  },
+  {
+    "title": "U.S. Electric Vehicle Sales are Down but E.V. Chargers are Booming",
+    "url": "https://www.nytimes.com/2026/07/13/business/electric-vehicles-charging-stations.html",
+    "source": "NYT Business",
+    "summary": "Electric vehicle chargers are proliferating in Southern states as fast food restaurants, stores and other businesses try to lure customers.",
+    "published_at": "2026-07-13T23:00:31+08:00",
+    "stocks": [],
+    "uid": "6759885fecccf00f0bb47d744f66bb4a"
+  },
+  {
+    "title": "2 Stocks So Cheap It's Like Christmas in July",
+    "url": "https://www.fool.com/investing/2026/07/13/2-stocks-so-cheap-its-like-christmas-in-july/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "There are still bargains to be had these days. The first name will surprise you.",
+    "published_at": "2026-07-13T22:57:00+08:00",
+    "stocks": [],
+    "uid": "47dfcba440a8c091edb2a54de53e3a05"
+  },
+  {
+    "title": "ASML Holding's Next Earnings Report on July 15 Could Send the Stock Soaring. Here's Why.",
+    "url": "https://www.fool.com/investing/2026/07/13/asml-holdings-next-earnings-report-on-july-15-coul/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The earnings report could be significant for the entire industry.",
+    "published_at": "2026-07-13T22:55:48+08:00",
+    "stocks": [],
+    "uid": "cd72c43b8a384bd0a2d7e3d7044651c4"
+  },
+  {
+    "title": "PBJ vs. FTXG: How Have These Two Food & Beverage ETFs Stacked Up Against One Another (And the S&P 500?)",
+    "url": "https://www.fool.com/coverage/etfs/2026/07/13/pbj-vs-ftxg-how-have-these-two-food-and-beverage-etfs-stacked-up-against-one-another-and-the-s-and-p-500/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "PBJ offers greater liquidity and lower drawdown, while FTXG appeals to income investors with its 2.60% dividend yield.",
+    "published_at": "2026-07-13T22:50:01+08:00",
+    "stocks": [],
+    "uid": "7938c046d7b8d96162bef6c21cd38538"
+  },
+  {
+    "title": "There Are Plenty of Reasons to Buy Netflix Stock. This Is the One Investors Shouldn't Overlook.",
+    "url": "https://www.fool.com/investing/2026/07/13/there-are-plenty-of-reasons-to-buy-netflix-stock/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Itʻs been four years since Netflix stock has been this cheap.",
+    "published_at": "2026-07-13T22:45:00+08:00",
+    "stocks": [],
+    "uid": "d1c5c065b6a5b0485f40e0677b5b7bec"
+  },
+  {
+    "title": "Mortgage Rates Are Heading Higher. Here's What It Means for Homebuilder Stocks.",
+    "url": "https://www.fool.com/investing/2026/07/13/mortgage-rates-are-heading-higher-heres-what-it/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Homes continue to become less affordable, which is bad news for builders.",
+    "published_at": "2026-07-13T22:32:00+08:00",
+    "stocks": [],
+    "uid": "639fcda6c0d8dbb2fa40150c7e50fd70"
+  },
+  {
+    "title": "The Latest Inflation Data Will Drop on July 14. Here's Why It's a Big Deal for the Stock Market",
+    "url": "https://www.fool.com/investing/2026/07/13/the-latest-inflation-data-will-drop-on-july-14-here-s-why-it-s-a-big-deal-for-the-stock-market/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The June reading of the Consumer Price Index will be released at 8:30 a.m. ET on July 14.",
+    "published_at": "2026-07-13T22:18:01+08:00",
+    "stocks": [],
+    "uid": "be3d3117d47cef92a8819e71aeae54d5"
+  },
+  {
+    "title": "After a Stock Split, Is Now the Right Time to Buy CrowdStrike Stock?",
+    "url": "https://www.fool.com/investing/2026/07/13/crowdstrike-faces-a-stock-split-is-now-the-time/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "CrowdStrike's stock has been strong, helped by accelerating ARR growth and a stock split.",
+    "published_at": "2026-07-13T22:17:00+08:00",
+    "stocks": [],
+    "uid": "3e8054d6411d45d1c3d5f8903427d7d8"
+  },
+  {
     "title": "I’m a bartender, yoga teacher and freelance consultant. How can I budget with such an unpredictable income?",
     "url": "https://www.marketwatch.com/story/im-a-bartender-yoga-teacher-and-freelance-consultant-how-can-i-budget-with-such-an-unpredictable-income-d5dce383?mod=mw_rss_topstories",
     "source": "MarketWatch",
@@ -4041,6 +4912,15 @@
     "summary_en": "Multiple signs point to possible trouble ahead for the stock market.",
     "title_zh": "股市調整可能即將到來。這是所有投資者現在應該採取的一舉措。",
     "summary_zh": "多種跡象顯示股市未來可能會遇到麻煩。"
+  },
+  {
+    "title": "This is how rich SpaceX workers are after the IPO",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/rich-spacex-workers-ipo-143700468.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-12T22:37:00+08:00",
+    "stocks": [],
+    "uid": "c428ff1dc29cc49522185532f1ee4801"
   },
   {
     "title": "If I Could Tell Every Investor 1 Thing About the Next 12 Months in the Stock Market, It's This",
@@ -33336,6 +34216,15 @@
     "summary_zh": "聯邦快遞週二公佈了強勁的第四季財報，該公司最後一個季度的利潤包括分拆前的貨運業務。"
   },
   {
+    "title": "SpaceX stock drops. Here's what to do next.",
+    "url": "https://finance.yahoo.com/personal-finance/investing/article/spacex-stock-drops-heres-what-to-do-next-141704338.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-06-17T22:17:04+08:00",
+    "stocks": [],
+    "uid": "0c14d4fec3246ad569e768d127b92e78"
+  },
+  {
     "title": "Databricks sales growth tops 80%, but margin are shrinking from swarm of AI agents",
     "url": "https://www.cnbc.com/2026/06/16/databricks-revenue-growth-tops-80percent-to-6point9-billion-annualized.html",
     "source": "CNBC Markets",
@@ -49231,6 +50120,15 @@
     "uid": "eb6ebd9e9adeab68e51e81f49ef2369b"
   },
   {
+    "title": "Gold forecast and tracker: Where will prices land in 2026?",
+    "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-forecast-and-tracker-where-will-prices-land-in-2026-130000340.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-04-15T21:00:00+08:00",
+    "stocks": [],
+    "uid": "06b56005bb73f53f48d98fdb61db1fa5"
+  },
+  {
     "title": "When will gas prices go down? What to know as you plan your summer road trip.",
     "url": "https://finance.yahoo.com/personal-finance/banking/article/when-will-gas-prices-go-down-what-to-know-as-you-plan-your-summer-road-trip-154506731.html",
     "source": "Yahoo Finance",
@@ -49318,6 +50216,15 @@
     "published_at": "2025-11-05T00:20:52+08:00",
     "stocks": [],
     "uid": "5504f2c3c40fd18ccfcc8983a5ce7cfd"
+  },
+  {
+    "title": "Weekly survey of mortgage lenders with the lowest rates: Rates bubble higher",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/weekly-survey-mortgage-lenders-with-the-best-lowest-rates-july-13-170834159.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2025-11-04T01:08:34+08:00",
+    "stocks": [],
+    "uid": "ac94b05ca948a03dd31b655009b7db7d"
   },
   {
     "title": "Weekly survey of mortgage lenders with the lowest rates: Leaders price in the low 6% range",
