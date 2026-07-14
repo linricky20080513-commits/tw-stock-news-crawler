@@ -1,5 +1,791 @@
 [
   {
+    "title": "Consumer prices fall for first time since early days of COVID pandemic, but war against high inflation isn’t won",
+    "url": "https://www.marketwatch.com/story/consumer-prices-fall-for-first-time-since-2020-pandemic-but-fight-vs-high-inflation-isnt-over-1544566d?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Plunge in gas prices during recent Iran cease-fire brought some relief. Renewed conflict poses fresh threat.",
+    "published_at": "2026-07-14T21:11:00+08:00",
+    "stocks": [],
+    "uid": "fc83b3236c2e59acb8961941634ac404",
+    "title_en": "Consumer prices fall for first time since early days of COVID pandemic, but war against high inflation isn’t won",
+    "summary_en": "Plunge in gas prices during recent Iran cease-fire brought some relief. Renewed conflict poses fresh threat.",
+    "title_zh": "消費者物價自新冠疫情大流行初期以來首次下跌，但對抗高通膨的戰爭並未獲勝",
+    "summary_zh": "最近伊朗停火期間天然氣價格暴跌帶來了一些緩解。新的衝突帶來了新的威脅。"
+  },
+  {
+    "title": "Consumer prices rose 3.5% annually in June, less than expected as energy prices eased",
+    "url": "https://www.cnbc.com/2026/07/14/consumer-price-index-inflation-report-june-2026.html",
+    "source": "CNBC Top",
+    "summary": "The consumer price index in June was expected to increase 3.8% from a year ago.",
+    "published_at": "2026-07-14T21:09:53+08:00",
+    "stocks": [],
+    "uid": "bbccdc588fcc89948120faf42d24acf2",
+    "title_en": "Consumer prices rose 3.5% annually in June, less than expected as energy prices eased",
+    "summary_en": "The consumer price index in June was expected to increase 3.8% from a year ago.",
+    "title_zh": "由於能源價格回落，6 月消費者物價年增 3.5%，低於預期",
+    "summary_zh": "6月居民消費物價指數預計將年增3.8%。"
+  },
+  {
+    "title": "Evotec H1 2026 slides: guidance cut as revenue shifts to 2027",
+    "url": "https://www.investing.com/news/company-news/evotec-h1-2026-slides-guidance-cut-as-revenue-shifts-to-2027-93CH-4790980",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-14T21:09:25+08:00",
+    "stocks": [],
+    "uid": "4b32b33790848fb6cc9a47f72ef364d6",
+    "title_en": "Evotec H1 2026 slides: guidance cut as revenue shifts to 2027",
+    "summary_en": "",
+    "title_zh": "Evotec 2026 年上半年業績下滑：隨著營收轉向 2027 年，指引下調",
+    "summary_zh": ""
+  },
+  {
+    "title": "AngioDynamics Q4 FY2026 slides: Med Tech growth drives profitability",
+    "url": "https://www.investing.com/news/company-news/angiodynamics-q4-fy2026-slides-med-tech-growth-drives-profitability-93CH-4790979",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-14T21:09:15+08:00",
+    "stocks": [],
+    "uid": "abaabcd0c54f1451edb239075b34c792",
+    "title_en": "AngioDynamics Q4 FY2026 slides: Med Tech growth drives profitability",
+    "summary_en": "",
+    "title_zh": "AngioDynamics 2026 財年第四季投影片：醫療科技成長推動獲利",
+    "summary_zh": ""
+  },
+  {
+    "title": "Goldman Sachs reiterates JPMorgan stock rating on stronger NII outlook",
+    "url": "https://www.investing.com/news/analyst-ratings/goldman-sachs-reiterates-jpmorgan-stock-rating-on-stronger-nii-outlook-93CH-4790977",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-14T21:09:05+08:00",
+    "stocks": [],
+    "uid": "096da3d8d1a2d24df13e939b7d4f353a"
+  },
+  {
+    "title": "Varonis extends AI security coverage to Claude Code and Cowork",
+    "url": "https://www.investing.com/news/company-news/varonis-extends-ai-security-coverage-to-claude-code-and-cowork-93CH-4790976",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-14T21:08:59+08:00",
+    "stocks": [],
+    "uid": "2c363b668f60a302f63d7907c55bf9ce",
+    "title_en": "Varonis extends AI security coverage to Claude Code and Cowork",
+    "summary_en": "",
+    "title_zh": "Varonis 將人工智慧安全覆蓋範圍擴展到 Claude Code 和 Cowork",
+    "summary_zh": ""
+  },
+  {
+    "title": "Ligand completes $739M acquisition of XOMA Royalty Corporation",
+    "url": "https://www.investing.com/news/company-news/ligand-completes-739m-acquisition-of-xoma-royalty-corporation-93CH-4790975",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-14T21:08:58+08:00",
+    "stocks": [],
+    "uid": "9be7e1b9d76af2b0f353cec7b238949d",
+    "title_en": "Ligand completes $739M acquisition of XOMA Royalty Corporation",
+    "summary_en": "",
+    "title_zh": "Ligand 完成 7.39 億美元收購 XOMA 皇室公司",
+    "summary_zh": ""
+  },
+  {
+    "title": "NextNRG reports 26% revenue growth in June 2026",
+    "url": "https://www.investing.com/news/company-news/nextnrg-reports-26-revenue-growth-in-june-2026-93CH-4790974",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-14T21:08:58+08:00",
+    "stocks": [],
+    "uid": "c3e4025eddd0033de20254214d2a94db",
+    "title_en": "NextNRG reports 26% revenue growth in June 2026",
+    "summary_en": "",
+    "title_zh": "NextNRG 報告 2026 年 6 月營收成長 26%",
+    "summary_zh": ""
+  },
+  {
+    "title": "Helios units partner with Briggs & Stratton on equipment tech",
+    "url": "https://www.investing.com/news/company-news/helios-units-partner-with-briggs--stratton-on-equipment-tech-93CH-4790973",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-14T21:08:58+08:00",
+    "stocks": [],
+    "uid": "e2a0a1da51dccd6f9df418f5a84a35ec",
+    "title_en": "Helios units partner with Briggs & Stratton on equipment tech",
+    "summary_en": "",
+    "title_zh": "Helios 裝置與 Briggs & Stratton 合作開發設備技術",
+    "summary_zh": ""
+  },
+  {
+    "title": "Zoetis to acquire veterinary teleradiology platform VitalRADS",
+    "url": "https://www.investing.com/news/company-news/zoetis-to-acquire-veterinary-teleradiology-platform-vitalrads-93CH-4790972",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-14T21:08:57+08:00",
+    "stocks": [],
+    "uid": "88678a1f91e922017d46f917cad165b7",
+    "title_en": "Zoetis to acquire veterinary teleradiology platform VitalRADS",
+    "summary_en": "",
+    "title_zh": "Zoetis 收購獸醫遠距放射學平台 VitalRADS",
+    "summary_zh": ""
+  },
+  {
+    "title": "Visa launches AI financial assistant for U.S. banks",
+    "url": "https://www.investing.com/news/company-news/visa-launches-ai-financial-assistant-for-us-banks-93CH-4790971",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-14T21:08:56+08:00",
+    "stocks": [],
+    "uid": "fff57907448bad710568c717ecf120ff",
+    "title_en": "Visa launches AI financial assistant for U.S. banks",
+    "summary_en": "",
+    "title_zh": "Visa為美國銀行推出人工智慧財務助手",
+    "summary_zh": ""
+  },
+  {
+    "title": "Navigator Gas to sell eight vessels and JV stake for $183 million",
+    "url": "https://www.investing.com/news/company-news/navigator-gas-to-sell-eight-vessels-and-jv-stake-for-183-million-93CH-4790970",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-14T21:08:56+08:00",
+    "stocks": [],
+    "uid": "ac9327cd8d832893d71691e2ee1e5f4b",
+    "title_en": "Navigator Gas to sell eight vessels and JV stake for $183 million",
+    "summary_en": "",
+    "title_zh": "Navigator Gas將以1.83億美元出售八艘船舶和合資公司股權",
+    "summary_zh": ""
+  },
+  {
+    "title": "'Dirty Jobs' host Mike Rowe: Gen Z electricians are making up to $280,000 at AI data centers",
+    "url": "https://finance.yahoo.com/markets/article/dirty-jobs-host-mike-rowe-gen-z-electricians-are-making-up-to-280000-at-ai-data-centers-130758268.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T21:07:58+08:00",
+    "stocks": [],
+    "uid": "ad9e9fcedd53f6a20e7a55d452d3452b",
+    "title_en": "'Dirty Jobs' host Mike Rowe: Gen Z electricians are making up to $280,000 at AI data centers",
+    "summary_en": "",
+    "title_zh": "《骯髒的工作》主持人 Mike Rowe：Z 世代電工在 AI 資料中心的年薪高達 28 萬美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Cranswick invests in UK pork firm The Jolly Hog",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cranswick-invests-uk-pork-firm-130758964.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T21:07:58+08:00",
+    "stocks": [],
+    "uid": "6bd07440b6533e1371fa0f214d00a75f",
+    "title_en": "Cranswick invests in UK pork firm The Jolly Hog",
+    "summary_en": "",
+    "title_zh": "Cranswick 投資英國豬肉公司 The Jolly Hog",
+    "summary_zh": ""
+  },
+  {
+    "title": "Chai Discovery, an A.I. Drug Start-Up, Raises $400 Million",
+    "url": "https://www.nytimes.com/2026/07/14/business/dealbook/chai-discovery-ai-drug-development.html",
+    "source": "NYT Business",
+    "summary": "The fund-raising values the company at $3.8 billion and underscores investor interest in using artificial intelligence to tackle problems like drug discovery.",
+    "published_at": "2026-07-14T21:02:16+08:00",
+    "stocks": [],
+    "uid": "57c60b374269ba9d39ae93cc3708f8d6",
+    "title_en": "Chai Discovery, an A.I. Drug Start-Up, Raises $400 Million",
+    "summary_en": "The fund-raising values the company at $3.8 billion and underscores investor interest in using artificial intelligence to tackle problems like drug discovery.",
+    "title_zh": "Chai Discovery，人工智慧藥品新創公司籌集 4 億美元",
+    "summary_zh": "此次融資使該公司估值達到 38 億美元，突顯了投資者對利用人工智慧解決藥物發現等問題的興趣。"
+  },
+  {
+    "title": "Frontier Airlines to debut in-flight Wi-Fi in 2027 with SpaceX's Starlink",
+    "url": "https://www.cnbc.com/2026/07/14/frontier-airlines-wifi-spacex-starlink.html",
+    "source": "CNBC Top",
+    "summary": "Frontier is signing with Starlink for in-flight Wi-Fi, with service debuting as early as next year.",
+    "published_at": "2026-07-14T21:00:01+08:00",
+    "stocks": [],
+    "uid": "11559192f03cd48469494395c8cb403f",
+    "title_en": "Frontier Airlines to debut in-flight Wi-Fi in 2027 with SpaceX's Starlink",
+    "summary_en": "Frontier is signing with Starlink for in-flight Wi-Fi, with service debuting as early as next year.",
+    "title_zh": "Frontier Airlines 將於 2027 年透過 SpaceX 的 Starlink 首次推出機上 Wi-Fi",
+    "summary_zh": "Frontier 與 Starlink 簽署了機上 Wi-Fi 協議，該服務最早將於明年推出。"
+  },
+  {
+    "title": "SpaceX alumni building remote-controlled construction equipment land $115 million fund round",
+    "url": "https://www.cnbc.com/2026/07/14/terrafirma-construction-tech-spacex.html",
+    "source": "CNBC Tech",
+    "summary": "TerraFirma on Tuesday said it raised $115 to support new hires and the building of a new factory and mission control center.",
+    "published_at": "2026-07-14T21:00:01+08:00",
+    "stocks": [],
+    "uid": "4a9b722c04f73b22ada88c3b39ec05e8",
+    "title_en": "SpaceX alumni building remote-controlled construction equipment land $115 million fund round",
+    "summary_en": "TerraFirma on Tuesday said it raised $115 to support new hires and the building of a new factory and mission control center.",
+    "title_zh": "SpaceX 校友建造遙控建築設備獲得 1.15 億美元融資",
+    "summary_zh": "TerraFirma 週二表示，它籌集了 115 美元，用於支持新員工以及新工廠和任務控制中心的建設。"
+  },
+  {
+    "title": "Visa is launching an AI Financial Assistant for banking apps: What cardholders should know",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/visa-is-launching-an-ai-financial-assistant-for-banking-apps-what-cardholders-should-know-130000385.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T21:00:00+08:00",
+    "stocks": [],
+    "uid": "57c8a6982ce11d71a32113e1394a6668",
+    "title_en": "Visa is launching an AI Financial Assistant for banking apps: What cardholders should know",
+    "summary_en": "",
+    "title_zh": "Visa 正在為銀行應用程式推出人工智慧財務助理：持卡人應該知道什麼",
+    "summary_zh": ""
+  },
+  {
+    "title": "Citigroup Beats Second-Quarter Estimates as Trading and Investment Banking Drive Profit Growth (C)",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/citigroup-beats-second-quarter-estimates-125908511.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T20:59:08+08:00",
+    "stocks": [
+      "C"
+    ],
+    "uid": "03a158d57b358562a0b7a1c288e0d841",
+    "title_en": "Citigroup Beats Second-Quarter Estimates as Trading and Investment Banking Drive Profit Growth (C)",
+    "summary_en": "",
+    "title_zh": "花旗集團第二季業績超乎預期，交易和投資銀行業務推動獲利成長 (C)",
+    "summary_zh": ""
+  },
+  {
+    "title": "Bank of America Beats Second-Quarter Forecasts as Profit and Revenue Climb (BAC)",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-beats-second-quarter-125801343.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T20:58:01+08:00",
+    "stocks": [
+      "BAC"
+    ],
+    "uid": "b4993ba6da7778f4e98e535fd269c1bb",
+    "title_en": "Bank of America Beats Second-Quarter Forecasts as Profit and Revenue Climb (BAC)",
+    "summary_en": "",
+    "title_zh": "美國銀行第二季獲利與營收攀升（BAC），超乎預期",
+    "summary_zh": ""
+  },
+  {
+    "title": "Warsh to Reiterate Fed’s Pledge to Get Inflation Down",
+    "url": "https://www.nytimes.com/2026/07/14/business/economy/warsh-fed-cpi-inflation.html",
+    "source": "NYT Business",
+    "summary": "Kevin M. Warsh, since becoming chairman of the Federal Reserve, has declined to say whether he supports higher interest rates to tame price pressures.",
+    "published_at": "2026-07-14T20:57:15+08:00",
+    "stocks": [],
+    "uid": "20f8b47df8f25133b5548a10fa8fb144",
+    "title_en": "Warsh to Reiterate Fed’s Pledge to Get Inflation Down",
+    "summary_en": "Kevin M. Warsh, since becoming chairman of the Federal Reserve, has declined to say whether he supports higher interest rates to tame price pressures.",
+    "title_zh": "沃什重申聯準會降低通膨的承諾",
+    "summary_zh": "凱文·M·沃什(Kevin M. Warsh)自擔任聯準會主席以來一直拒絕透露是否支持提高利率以緩解物價壓力。"
+  },
+  {
+    "title": "Trump says everyone in America is ‘profiting’ from his presidency — claims your 401(k) is up 85%. How to get your share",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/trump-says-everyone-america-profiting-125500977.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T20:55:00+08:00",
+    "stocks": [],
+    "uid": "19faf3963e489646cf2a49beb8c7259d",
+    "title_en": "Trump says everyone in America is ‘profiting’ from his presidency — claims your 401(k) is up 85%. How to get your share",
+    "summary_en": "",
+    "title_zh": "川普表示，美國的每個人都從他的總統任期中「受益」——聲稱你的 401(k) 福利增加了 85%。如何獲得您的份額",
+    "summary_zh": ""
+  },
+  {
+    "title": "CPI Shockingly Cool, Curbing Fed Rate-Hike Odds; Warsh Ahead (Live Coverage)",
+    "url": "https://www.investors.com/news/cpi-inflation-june-federal-reserve-warsh-testimony-oil-prices-sp-500/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T20:53:08+08:00",
+    "stocks": [],
+    "uid": "6954f9eaff94f1d8108a6be835166256",
+    "title_en": "CPI Shockingly Cool, Curbing Fed Rate-Hike Odds; Warsh Ahead (Live Coverage)",
+    "summary_en": "",
+    "title_zh": "CPI出乎意料地降溫，抑制了聯準會升息的可能性； Warsh Ahead（現場報告）",
+    "summary_zh": ""
+  },
+  {
+    "title": "Tesla and Meta Are Worth Almost the Same. Which Stock Is the Better Buy?",
+    "url": "https://www.fool.com/investing/2026/07/14/tesla-and-meta-are-worth-almost-the-same-which-sto/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "One stock has a very high ceiling, while the other has a much higher floor.",
+    "published_at": "2026-07-14T20:49:00+08:00",
+    "stocks": [],
+    "uid": "9a15535074355e4b3b78879378c3430f",
+    "title_en": "Tesla and Meta Are Worth Almost the Same. Which Stock Is the Better Buy?",
+    "summary_en": "One stock has a very high ceiling, while the other has a much higher floor.",
+    "title_zh": "特斯拉和 Meta 的價值幾乎相同。哪檔股票更值得買進？",
+    "summary_zh": "一隻股票的上限非常高，而另一隻股票的下限則高得多。"
+  },
+  {
+    "title": "Stock Market Today: S&P Climbs On Surprise CPI Inflation Report; IBM Plunges 23% On Earnings (Live Coverage)",
+    "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-june-cpi-inflation-ibm-stock/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T20:48:31+08:00",
+    "stocks": [],
+    "uid": "c407c67de82500615fc176305e9252b5",
+    "title_en": "Stock Market Today: S&P Climbs On Surprise CPI Inflation Report; IBM Plunges 23% On Earnings (Live Coverage)",
+    "summary_en": "",
+    "title_zh": "今日股市：消費者物價指數通膨報告令人意外，標準普爾指數上漲； IBM 獲利暴跌 23%（現場通報）",
+    "summary_zh": ""
+  },
+  {
+    "title": "IBM Craters 20% On 'Disappointing' Results. Big Blue Hit By AI CapEx Shift.",
+    "url": "https://www.investors.com/news/technology/ibm-stock-q2-2026-results/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T20:45:24+08:00",
+    "stocks": [],
+    "uid": "60d011da6476b4d8a607d8aac05af73a",
+    "title_en": "IBM Craters 20% On 'Disappointing' Results. Big Blue Hit By AI CapEx Shift.",
+    "summary_en": "",
+    "title_zh": "IBM Craters 20% 認為結果「令人失望」。藍色巨人受到人工智慧資本支出轉變的打擊。",
+    "summary_zh": ""
+  },
+  {
+    "title": "Warren Buffett excludes Gates Foundation from his annual donations of Berkshire stock",
+    "url": "https://www.cnbc.com/2026/07/14/warren-buffett-excludes-gates-foundation-from-his-annual-donations-of-berkshire-stock.html",
+    "source": "CNBC Finance",
+    "summary": "Warren Buffett omitted the Gates Foundation from his annual charitable stock gifts.",
+    "published_at": "2026-07-14T20:41:13+08:00",
+    "stocks": [],
+    "uid": "00b96bbb7768626e6f86353e3d1a4579"
+  },
+  {
+    "title": "Dow Jones' Two Biggest Banks Report Earnings. This One Rises.",
+    "url": "https://www.investors.com/news/jpmorgan-chase-goldman-sachs-bank-earnings-q2-2026-dow-jones-jpm-stock-gs-stock/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T20:41:01+08:00",
+    "stocks": [],
+    "uid": "17dbdc66d4247c1622fb625f373dd6bd"
+  },
+  {
+    "title": "US consumer inflation slows more than expected in June",
+    "url": "https://finance.yahoo.com/economy/policy/articles/us-consumer-inflation-slows-more-124053419.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T20:40:53+08:00",
+    "stocks": [],
+    "uid": "6ea3fc53ed31cf1d38cfc2766481c350"
+  },
+  {
+    "title": "Goldman Sachs and Wells Fargo Cut Fiserv (FISV) Price Targets",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-wells-fargo-cut-124013199.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T20:40:13+08:00",
+    "stocks": [
+      "FISV"
+    ],
+    "uid": "bf0452e62dd3535ed120d9a5d2491f51"
+  },
+  {
+    "title": "Mizuho Keeps Outperform Rating on Block (XYZ), Backs Neighborhoods",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/mizuho-keeps-outperform-rating-block-124003518.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T20:40:03+08:00",
+    "stocks": [
+      "XYZ"
+    ],
+    "uid": "304bb53a9181c22bd53900f2512af194"
+  },
+  {
+    "title": "US Tiger Securities Upgrades Coinbase (COIN) to Buy",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/us-tiger-securities-upgrades-coinbase-123951713.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T20:39:51+08:00",
+    "stocks": [
+      "COIN"
+    ],
+    "uid": "3afe5cb231b26f53bd292a9bda2628c8"
+  },
+  {
+    "title": "Goldman Sachs Raises PayPal (PYPL) Price Target",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-raises-paypal-pypl-123942015.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T20:39:42+08:00",
+    "stocks": [
+      "PYPL"
+    ],
+    "uid": "bb3603385049c435a8140cb52c951709"
+  },
+  {
+    "title": "Compass Point Raises Robinhood (HOOD) Price Target, Keeps Buy Rating",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/compass-point-raises-robinhood-hood-123932570.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T20:39:32+08:00",
+    "stocks": [
+      "HOOD"
+    ],
+    "uid": "4d7ba77fcee19978a8c2f807ac5f6661"
+  },
+  {
+    "title": "Shopify (SHOP): Ranks Among the Most Promising Stocks in the Fintech Industry",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/shopify-shop-ranks-among-most-123920835.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T20:39:20+08:00",
+    "stocks": [
+      "SHOP"
+    ],
+    "uid": "9960b9a52a3070097dfaf7dea591877e"
+  },
+  {
+    "title": "Is MercadoLibre (MELI) One of the Most Promising Fintech Stocks to Buy?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/mercadolibre-meli-one-most-promising-123901356.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T20:39:01+08:00",
+    "stocks": [
+      "MELI"
+    ],
+    "uid": "f3341e283839f8c75b72e652fb7c8269"
+  },
+  {
+    "title": "President Donald Trump Just Declared the Ceasefire Is Over. Here's What That Means for Oil Stocks.",
+    "url": "https://www.fool.com/investing/2026/07/14/president-donald-trump-just-declared-the-ceasefire/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The resumption of hostilities in the Persian Gulf is reopening the debate over the direction of the price of oil and oil stocks this year.",
+    "published_at": "2026-07-14T20:38:00+08:00",
+    "stocks": [],
+    "uid": "727dec83303d99a177870653c3016cd6"
+  },
+  {
+    "title": "Bank earnings, Warsh heads to the Hill, Chipotle's Mexico push and more in Morning Squawk",
+    "url": "https://www.cnbc.com/2026/07/14/5-things-to-know-before-the-market-opens.html",
+    "source": "CNBC Tech",
+    "summary": "Here are five key things investors need to know to start the trading day.",
+    "published_at": "2026-07-14T20:33:04+08:00",
+    "stocks": [],
+    "uid": "5d2d332a53af2bc9bc0ad47792bd8593"
+  },
+  {
+    "title": "What's Wrong With Oklo's Stock?",
+    "url": "https://www.fool.com/investing/2026/07/14/whats-wrong-with-oklos-stock/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Oklo's stock has been in a tailspin for much of the year and is trading around its 52-week low.",
+    "published_at": "2026-07-14T20:30:38+08:00",
+    "stocks": [],
+    "uid": "465b6542a5b60763bab8c2af62c91a45"
+  },
+  {
+    "title": "Bitcoin and ethereum prices today, Tuesday, July 14, 2026:",
+    "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-14-2026-123022806.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T20:30:22+08:00",
+    "stocks": [],
+    "uid": "40e403ea83ad75825e295e9bc5c4cac2"
+  },
+  {
+    "title": "Warsh promises inflation will be a 'thing of the past,' cites benefits of AI investment boom",
+    "url": "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html",
+    "source": "CNBC Finance",
+    "summary": "Warsh pledged Tuesday to \"get monetary policy right\" and defeat the inflation that has bedeviled the central bank for the past five years.",
+    "published_at": "2026-07-14T20:30:21+08:00",
+    "stocks": [],
+    "uid": "063a73a8c9fb9247bbebb456f6c378ac"
+  },
+  {
+    "title": "Warsh's statement to Congress: Fed has 'no tolerance for persistently elevated inflation'",
+    "url": "https://finance.yahoo.com/economy/policy/article/warshs-statement-to-congress-fed-has-no-tolerance-for-persistently-elevated-inflation-123000475.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T20:30:00+08:00",
+    "stocks": [],
+    "uid": "a7c59e1f63d8b3d65412bab8dae15124"
+  },
+  {
+    "title": "Rupert Murdoch's estranged son is set to make more from his SpaceX investment than he gained from his father's empire",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/rupert-murdochs-estranged-son-set-123000472.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T20:30:00+08:00",
+    "stocks": [],
+    "uid": "737edfaa8c5474f020b5f2ae2d5a8fc6"
+  },
+  {
+    "title": "Starlink Mobile Service Could Be Coming to the U.S. Market Soon. Are Top Telecom Stocks in Trouble?",
+    "url": "https://www.fool.com/investing/2026/07/14/starlinks-mobile-service-could-be-coming-to-the-us/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Telecom stocks have been sinking recently on worries that Starlink could pose a threat to their businesses.",
+    "published_at": "2026-07-14T20:30:00+08:00",
+    "stocks": [],
+    "uid": "4b5be92c16518b281ed4044486e45ed4"
+  },
+  {
+    "title": "Want to Buy SK Hynix? These 3 ETFs Let You Own It and Thousands of Other Stocks.",
+    "url": "https://www.fool.com/investing/2026/07/14/want-to-buy-sk-hynix-these-3-etfs-let-you-own-it/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "You can buy SK Hynix as part of these U.S.-based international ETFs.",
+    "published_at": "2026-07-14T20:30:00+08:00",
+    "stocks": [],
+    "uid": "793758a605ecbde19072654ad2bee879"
+  },
+  {
+    "title": "Paramount vs. the States",
+    "url": "https://www.nytimes.com/2026/07/14/business/dealbook/paramount-states-antitrust.html",
+    "source": "NYT Business",
+    "summary": "An effort to block media giant’s planned takeover of Warner Bros. Discovery underscores how states are taking a more active role in antitrust regulation.",
+    "published_at": "2026-07-14T20:23:49+08:00",
+    "stocks": [],
+    "uid": "a0dca73f0e615d6289aa3a7928e640df"
+  },
+  {
+    "title": "Silver prices today, Tuesday, July 14, 2026: Prices fall to Dec. '25 levels as Iran conflict intensifies",
+    "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-july-14-2026-prices-fall-to-dec-25-levels-as-iran-conflict-intensifies-121947723.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T20:19:47+08:00",
+    "stocks": [],
+    "uid": "a7cc1b6d2b2644bf530be6388c87cf69"
+  },
+  {
+    "title": "After a Hot Start to the Year, the Schwab U.S. Dividend Equity ETF (SCHD) Has Gone Practically Nowhere for 5 Months. Is It a Buying Opportunity for Value Investors?",
+    "url": "https://www.fool.com/investing/2026/07/14/after-a-hot-start-to-the-year-the-schwab-us-divide/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The Schwab U.S. Dividend Equity ETF is a well-diversified fund for generating passive income from stocks.",
+    "published_at": "2026-07-14T20:19:00+08:00",
+    "stocks": [
+      "SCHD"
+    ],
+    "uid": "cf1dbd9e9a236cec12a5c32114f62598"
+  },
+  {
+    "title": "Best Buy vs. GameStop: What Their Revenue Trends Tell Investors About These Specialty Retailers",
+    "url": "https://www.fool.com/coverage/charts/2026/07/14/best-buy-vs-gamestop-what-their-revenue-trends-tell-investors-about-these-specialty-retailers/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Best Buy dominates in absolute scale, but GameStop's profit margins tell a starkly different story.",
+    "published_at": "2026-07-14T20:18:01+08:00",
+    "stocks": [],
+    "uid": "489f83d10b10cf9b6db2b5ac08ea7fea"
+  },
+  {
+    "title": "Is SentinelOne the Next CrowdStrike?",
+    "url": "https://www.fool.com/investing/2026/07/14/is-sentinelone-the-next-crowdstrike/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "In the seven years since it went public, CrowdStrike has delivered remarkable returns. SentinelOne aims to do the same.",
+    "published_at": "2026-07-14T20:18:00+08:00",
+    "stocks": [],
+    "uid": "26c7754483335f7611cafe4f6a6d9aeb"
+  },
+  {
+    "title": "A 'Healthy' U.S. Economy Spurs Bank of America, Wells Fargo Earnings Beat",
+    "url": "https://www.investors.com/news/bank-of-america-wells-fargo-stock-wall-street/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T20:15:33+08:00",
+    "stocks": [],
+    "uid": "55bf25aa5f171564e746aa4c6276b72e"
+  },
+  {
+    "title": "Consumers turn to buy now, pay later for essential expenses — with growing risks",
+    "url": "https://www.cnbc.com/2026/07/14/buy-now-pay-later-bnpl-finance-groceries-rent-and-bills.html",
+    "source": "CNBC Top",
+    "summary": "Some consumers are using buy now, pay later for essential expenses like groceries, rent and utility bills. But more BNPL users have recently had a late payment.",
+    "published_at": "2026-07-14T20:15:01+08:00",
+    "stocks": [],
+    "uid": "c33f83b80bff6c33a216a5ba7c9c40b6"
+  },
+  {
+    "title": "I’m 45 and want to buy an apartment. How can I turn $1,000 into $250,000?",
+    "url": "https://www.marketwatch.com/story/im-45-and-want-to-buy-an-apartment-how-can-i-turn-1-000-into-250-000-2fd4b324?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "“I just opened a brokerage account for the first time.”",
+    "published_at": "2026-07-14T20:15:00+08:00",
+    "stocks": [],
+    "uid": "348871accc43e74693732c75f8ba4eb4"
+  },
+  {
+    "title": "Americans are getting better at paying off their $1.25 trillion credit-card debt burden",
+    "url": "https://www.marketwatch.com/story/americans-are-getting-better-at-paying-off-their-1-25-trillion-credit-card-debt-burden-a83bea87?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Despite some encouraging signs, millions of Americans are still struggling with credit-card debt — sometimes to pay for the most basic needs.",
+    "published_at": "2026-07-14T20:15:00+08:00",
+    "stocks": [],
+    "uid": "d8d595bc58350954c841f2ec385444c0"
+  },
+  {
+    "title": "Apple's lawsuit shows the importance of AI devices for the iPhone maker's future: Analyst",
+    "url": "https://finance.yahoo.com/technology/article/apples-lawsuit-shows-the-importance-of-ai-devices-for-the-iphone-makers-future-analyst-121457529.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T20:14:57+08:00",
+    "stocks": [],
+    "uid": "743ad65ba4c2258bfb000d7dbb249917"
+  },
+  {
+    "title": "Big Banks Smash Earnings Records, but ‘Tectonic’ Risks Loom",
+    "url": "https://www.nytimes.com/2026/07/14/business/jpmorgan-goldman-bofa-wells-fargo-bank-earnings.html",
+    "source": "NYT Business",
+    "summary": "The largest banks in the United States collectively raked in tens of billions of profits in the second quarter, despite the war in Iran and persistent inflation.",
+    "published_at": "2026-07-14T20:13:14+08:00",
+    "stocks": [],
+    "uid": "32ef0b9fd2d2266587b3e4699374ab1a"
+  },
+  {
+    "title": "Jeff Bezos' Blue Origin Scrapped Its Destroyed Launchpad and Plans to Return to Flight by December 2026 Using a New Hybrid Launch System.",
+    "url": "https://www.fool.com/investing/2026/07/14/jeff-bezos-blue-origin-scrapped-its-destroyed-laun/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Blue Origin has a new plan for New Glenn after a major launchpad setback, but investors should look closely at what still needs to go right.",
+    "published_at": "2026-07-14T20:05:00+08:00",
+    "stocks": [],
+    "uid": "74383fbf4536d2b70cf1c2f394c10e6e"
+  },
+  {
+    "title": "TikTok policy chief defends safety measures amid EU push to limit children's social media access",
+    "url": "https://www.cnbc.com/2026/07/14/tiktok-social-media-safety-measures-teens-bans-eu.html",
+    "source": "CNBC Top",
+    "summary": "TikTok's policy chief defended the platform's safety measures as the European Union pushes ahead with restricting children's access to social media.",
+    "published_at": "2026-07-14T20:01:32+08:00",
+    "stocks": [],
+    "uid": "69b546a123642e7a9a17116cded3f6c4"
+  },
+  {
+    "title": "AI vs. robo advisers: How they stack up against each other —and human financial advisers",
+    "url": "https://www.marketwatch.com/story/ai-vs-robo-advisers-how-they-stack-up-against-each-other-and-human-financial-advisers-3132bb3d?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Robo advisers are getting smarter as AI capabilities increase — but how much control are investors willing to hand over?",
+    "published_at": "2026-07-14T20:00:00+08:00",
+    "stocks": [],
+    "uid": "2161ac08b21e885cbbd0e1af0c1619c6"
+  },
+  {
+    "title": "The Stock Market Just Sent Its Most Confusing Signal in Years -- but History Is Clear on What Happens Next",
+    "url": "https://www.fool.com/investing/2026/07/14/the-stock-market-just-sent-its-most-confusing-sign/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The short term could be volatile, but history has promising news for investors.",
+    "published_at": "2026-07-14T20:00:00+08:00",
+    "stocks": [],
+    "uid": "2954eff78e785de8399ab541189e7300"
+  },
+  {
+    "title": "Here's Why Vertex Was Willing to Pay a Premium of More Than 100% for Crinetics Pharmaceuticals",
+    "url": "https://www.fool.com/investing/2026/07/14/heres-why-vertex-was-willing-to-pay-a-premium-of-m/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Vertex's $10 billion acquisition may have spooked investors, given how rich it appeared to be.",
+    "published_at": "2026-07-14T20:00:00+08:00",
+    "stocks": [],
+    "uid": "ea6adff6ee59ae8920d911e93877b962"
+  },
+  {
+    "title": "Could This \"Magnificent Seven\" Stock End Up Being Nvidia's Biggest Rival?",
+    "url": "https://www.fool.com/investing/2026/07/14/could-this-magnificent-seven-stock-end-up-being-nv/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Amazon is reportedly considering selling its Trainium chip to external companies.",
+    "published_at": "2026-07-14T20:00:00+08:00",
+    "stocks": [],
+    "uid": "7c4a6edc50d4219d5c176006bfbd8cf4"
+  },
+  {
+    "title": "Prediction: Oracle Stock Could Hit This Price by 2027",
+    "url": "https://www.fool.com/investing/2026/07/14/prediction-oracle-stock-could-hit-this-price-by-20/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This AI infrastructure giant can step on the gas once again and deliver phenomenal gains to investors.",
+    "published_at": "2026-07-14T19:59:00+08:00",
+    "stocks": [],
+    "uid": "2e29f083a1ae7b56d380c2ed275d9738"
+  },
+  {
+    "title": "Will Sandisk Stock Soar After August 5?",
+    "url": "https://www.fool.com/investing/2026/07/14/will-sandisk-stock-soar-after-august-5/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The company is set to report its fourth-quarter results early next month.",
+    "published_at": "2026-07-14T19:50:48+08:00",
+    "stocks": [],
+    "uid": "f70395b30249d07667f39d0da601c8cf"
+  },
+  {
+    "title": "IBM’s stock dives toward worst day in nearly 40 years after the surprise release of an earnings miss",
+    "url": "https://www.marketwatch.com/story/ibms-stock-dives-toward-worst-day-in-nearly-40-years-after-the-surprise-release-of-an-earnings-miss-8519741e?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "IBM’s stock plunges after a preliminary release of profit and revenue that were well below expectations.",
+    "published_at": "2026-07-14T19:50:00+08:00",
+    "stocks": [],
+    "uid": "278906af654dc70e993744c1c5518400"
+  },
+  {
+    "title": "IBM shares skid more than 20% after company warns second-quarter earnings fell short of expectations",
+    "url": "https://www.cnbc.com/2026/07/14/ibm-warns-second-quarter-earnings-fell-short-of-expectations.html",
+    "source": "CNBC Top",
+    "summary": "CEO blamed the shortfall on weakness in the software and infrastructure business because clients shifted money toward hardware purchases.",
+    "published_at": "2026-07-14T19:49:43+08:00",
+    "stocks": [],
+    "uid": "cf9d3b268c8e31fef761d66ed7e839be"
+  },
+  {
+    "title": "I Made These Retirement Savings Mistakes in My 20s So You Don't Have To",
+    "url": "https://www.fool.com/retirement/2026/07/14/i-made-these-retirement-savings-mistakes-in-my-20s/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Do yourself a favor and do not follow my lead.",
+    "published_at": "2026-07-14T19:48:00+08:00",
+    "stocks": [],
+    "uid": "93b482dfb48b03527b1cbc2935f94cd5"
+  },
+  {
+    "title": "World Cup's biggest spenders show up late as semifinals drive host city travel boom",
+    "url": "https://www.cnbc.com/2026/07/14/world-cups-semifinals-travel-to-host-cities-rises.html",
+    "source": "CNBC Top",
+    "summary": "World Cup travel demand to U.S. host cities is spiking as the tournament reaches the semifinal stage.",
+    "published_at": "2026-07-14T19:45:28+08:00",
+    "stocks": [],
+    "uid": "d6ed580fba89f8e3362e729e06fc2225"
+  },
+  {
+    "title": "IBM stock crashes after major warning",
+    "url": "https://finance.yahoo.com/markets/stocks/article/ibm-stock-crashes-after-major-warning-114235587.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T19:42:35+08:00",
+    "stocks": [],
+    "uid": "9ec84e64882fec5ca27b8b27e910ddf9"
+  },
+  {
+    "title": "Another warning sign is flashing for tech stocks — and this one comes from outside the U.S.",
+    "url": "https://www.marketwatch.com/story/another-warning-sign-is-flashing-for-tech-stocks-and-this-one-comes-from-outside-the-u-s-d51d6bfd?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "What the link between the Japanese yen and U.S. stocks means for your portfolio.",
+    "published_at": "2026-07-14T19:40:00+08:00",
+    "stocks": [],
+    "uid": "b9123749c338cbdf0d9d00c25ef3fdec"
+  },
+  {
+    "title": "Planet Labs CEO Sells Company Shares Worth $5.2 Million. Here's What That Means for Investors.",
+    "url": "https://www.fool.com/coverage/filings/2026/07/14/planet-labs-ceo-sells-company-shares-worth-usd5-2-million-here-s-what-that-means-for-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The disposition follows a 295% surge in the stock price over the past year.",
+    "published_at": "2026-07-14T19:30:01+08:00",
+    "stocks": [],
+    "uid": "40da4c444a987efcca8c83ded6b865f4"
+  },
+  {
+    "title": "The SEC Is Developing New Rules for Crypto. Here's Why Crypto Investors Should Pay Attention",
+    "url": "https://www.fool.com/investing/2026/07/14/the-sec-is-developing-new-rules-for-crypto-heres-w/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The regulatory landscape is shifting rapidly, and likely for the better.",
+    "published_at": "2026-07-14T19:30:00+08:00",
+    "stocks": [],
+    "uid": "8673e0c3fe77aa877543c9a5ea62e02b"
+  },
+  {
+    "title": "How Much Higher Can the S&P 500 Climb From Here? Wall Street Analysts Share a Resounding Answer.",
+    "url": "https://www.fool.com/investing/2026/07/14/how-much-higher-can-the-sp-500-climb-from-here-wal/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Analysts are extremely bullish on the largest companies in the U.S. market right now.",
+    "published_at": "2026-07-14T19:27:00+08:00",
+    "stocks": [],
+    "uid": "e8e6d946fb0408172de8633fffa58e89"
+  },
+  {
+    "title": "A Director Sold Almost 2 Million Shares of This Oilfield Services Company After a Big Run. Should Investors Follow?",
+    "url": "https://www.fool.com/coverage/filings/2026/07/14/a-director-sold-almost-2-million-shares-of-this-oilfield-services-company-after-a-big-run-should-investors-follow/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Oilfield services company NESR, with a strong presence in the Middle East and Asia Pacific, disclosed significant insider selling in recent filings.",
+    "published_at": "2026-07-14T19:22:01+08:00",
+    "stocks": [],
+    "uid": "d3047d6a908a765d3ef4ac3f31a460a3"
+  },
+  {
     "title": "Bank of America stock falls despite earnings beat",
     "url": "https://www.marketwatch.com/story/bank-of-america-stock-falls-despite-earnings-beat-3d4db2b4?mod=mw_rss_topstories",
     "source": "MarketWatch",
@@ -37,6 +823,24 @@
     "summary_en": "Tesla and SpaceX may be winners in the next evolution of value investing, says the president and chief investment officer of Tsai Capital, Christopher Tsai.",
     "title_zh": "這位基金經理人表示，為什麼 SpaceX 和特斯拉是「價值」股票",
     "summary_zh": "蔡資本 (Tsai Capital) 總裁兼首席投資長克里斯托弗·蔡 (Christopher Tsai) 表示，特斯拉和 SpaceX 可能是下一輪價值投資的贏家。"
+  },
+  {
+    "title": "How to Spot a Stock Market Bubble 101: Raymond James Just Placed an $800 Price Target on SpaceX, Valuing Elon Musk's Company at $10.5 Trillion",
+    "url": "https://www.fool.com/investing/2026/07/14/stock-market-bubble-101-800-price-target-spcx-musk/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "SpaceX spotlights everything that's currently amiss on Wall Street.",
+    "published_at": "2026-07-14T19:06:00+08:00",
+    "stocks": [],
+    "uid": "c47bd76fdb72f80ba8953b779e204d37"
+  },
+  {
+    "title": "3 Artificial Intelligence (AI) Stocks I'd Buy to Take Advantage of a Golden Opportunity",
+    "url": "https://www.fool.com/investing/2026/07/14/3-artificial-intelligence-ai-stocks-id-buy-to-take/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The market is handing investors a gift with the latest sell-off.",
+    "published_at": "2026-07-14T19:05:00+08:00",
+    "stocks": [],
+    "uid": "f859ac19af8f78b9fabbc187582bd3a3"
   },
   {
     "title": "IDBI stake sale advances with revised bids from Fairfax, Emirates NBD",
@@ -154,6 +958,24 @@
     "summary_en": "",
     "title_zh": "川普推廣「自由燃料」加油站引發雙重標準指控",
     "summary_zh": ""
+  },
+  {
+    "title": "Here's How Big Wall Street Expects SpaceX's Business to Get in 5 Years",
+    "url": "https://www.fool.com/investing/2026/07/14/heres-how-big-wall-street-expects-spacexs-business/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "If analysts are right, SpaceX could be on the cusp of some tremendous revenue growth.",
+    "published_at": "2026-07-14T19:00:00+08:00",
+    "stocks": [],
+    "uid": "f79f13f62dfc2a99544609512dbe3f7d"
+  },
+  {
+    "title": "Investors Wanted $7 Billion More of SK Hynix Than It Offered",
+    "url": "https://www.fool.com/investing/2026/07/14/investors-wanted-7-billion-more-of-sk-hynix-than-i/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "SK Hynix's blockbuster U.S. debut drew billions from top investors -- even as memory stocks slumped -- revealing what Wall Street may be betting on next.",
+    "published_at": "2026-07-14T19:00:00+08:00",
+    "stocks": [],
+    "uid": "b9df8899f22bec1d0bf0ba3debcd14fc"
   },
   {
     "title": "TD Cowen raises Delta Air Lines stock price target on strong results",
@@ -1747,6 +2569,15 @@
     "summary_en": "The memory boom may last longer than you think.",
     "title_zh": "Sandisk 股票今天暴跌。分析師表示逢低買進。",
     "summary_zh": "記憶繁榮的持續時間可能比你想像的還要長。"
+  },
+  {
+    "title": "BMW's U.S. business is delivering when it matters most",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bmws-u-business-delivering-matters-033300819.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T11:33:00+08:00",
+    "stocks": [],
+    "uid": "9feb406372e9d5ceec76ba2c20a7afca"
   },
   {
     "title": "Voyager Technologies Completes Astrobotic Acquisition And Was Just Awarded a $298 Million Contract From NASA",
