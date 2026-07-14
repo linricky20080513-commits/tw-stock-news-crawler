@@ -1,5 +1,705 @@
 [
   {
+    "title": "Bank of America stock falls despite earnings beat",
+    "url": "https://www.marketwatch.com/story/bank-of-america-stock-falls-despite-earnings-beat-3d4db2b4?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Shares in Bank of America declined in pre-market trading after the banking giant posted a 15% jump in revenue year-on-year.",
+    "published_at": "2026-07-14T19:15:00+08:00",
+    "stocks": [],
+    "uid": "0d80fef43307ff5977e4a73bc7ded322",
+    "title_en": "Bank of America stock falls despite earnings beat",
+    "summary_en": "Shares in Bank of America declined in pre-market trading after the banking giant posted a 15% jump in revenue year-on-year.",
+    "title_zh": "儘管獲利超出預期，美國銀行股價仍下跌",
+    "summary_zh": "美國銀行(Bank of America)的營收年增15%，該銀行股價在盤前交易中下跌。"
+  },
+  {
+    "title": "Kraken rolls out Mastercard crypto debit card in UK and Europe",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/kraken-rolls-mastercard-crypto-debit-110817522.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T19:08:17+08:00",
+    "stocks": [],
+    "uid": "97594bb78f58dbe38e87eac58cf66d38",
+    "title_en": "Kraken rolls out Mastercard crypto debit card in UK and Europe",
+    "summary_en": "",
+    "title_zh": "Kraken 在英國和歐洲推出萬事達加密金融卡",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why SpaceX and Tesla are ‘value’ stocks, according to this fund manager",
+    "url": "https://www.marketwatch.com/story/why-spacex-and-tesla-are-value-stocks-according-to-this-fund-manager-5f59ff86?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Tesla and SpaceX may be winners in the next evolution of value investing, says the president and chief investment officer of Tsai Capital, Christopher Tsai.",
+    "published_at": "2026-07-14T19:08:00+08:00",
+    "stocks": [],
+    "uid": "c7d5f51f88887b4c407bfbb48778cc3d",
+    "title_en": "Why SpaceX and Tesla are ‘value’ stocks, according to this fund manager",
+    "summary_en": "Tesla and SpaceX may be winners in the next evolution of value investing, says the president and chief investment officer of Tsai Capital, Christopher Tsai.",
+    "title_zh": "這位基金經理人表示，為什麼 SpaceX 和特斯拉是「價值」股票",
+    "summary_zh": "蔡資本 (Tsai Capital) 總裁兼首席投資長克里斯托弗·蔡 (Christopher Tsai) 表示，特斯拉和 SpaceX 可能是下一輪價值投資的贏家。"
+  },
+  {
+    "title": "IDBI stake sale advances with revised bids from Fairfax, Emirates NBD",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/idbi-stake-sale-advances-revised-110409646.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T19:04:09+08:00",
+    "stocks": [],
+    "uid": "847341242686d4593e2f0cd3612947b0",
+    "title_en": "IDBI stake sale advances with revised bids from Fairfax, Emirates NBD",
+    "summary_en": "",
+    "title_zh": "IDBI 股權出售因 Fairfax、Emirates NBD 修改後的出價而取得進展",
+    "summary_zh": ""
+  },
+  {
+    "title": "JPMorgan beats profit expectations by the most in five years, as equity-markets revenue surges",
+    "url": "https://www.marketwatch.com/story/jpmorgan-beats-profit-expectations-by-the-most-in-five-years-as-equity-markets-revenue-surges-9a0d8805?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "JPMorgan’s stock falls, even after a big profit beat, record revenue and a raised outlook for net interest income.",
+    "published_at": "2026-07-14T19:04:00+08:00",
+    "stocks": [],
+    "uid": "4d26a31160af2381f07da03f74452a45",
+    "title_en": "JPMorgan beats profit expectations by the most in five years, as equity-markets revenue surges",
+    "summary_en": "JPMorgan’s stock falls, even after a big profit beat, record revenue and a raised outlook for net interest income.",
+    "title_zh": "隨著股市收入激增，摩根大通利潤超出五年來最大增幅",
+    "summary_zh": "即使在利潤大幅增長、收入創紀錄並且淨利息收入前景上調之後，摩根大通的股價仍然下跌。"
+  },
+  {
+    "title": "Lappí boosts Iberian footprint with Alempack acquisition",
+    "url": "https://finance.yahoo.com/small-business/articles/lapp-boosts-iberian-footprint-alempack-110301745.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T19:03:01+08:00",
+    "stocks": [],
+    "uid": "ebcafb83b923f7f80acefcd7dc185bd3",
+    "title_en": "Lappí boosts Iberian footprint with Alempack acquisition",
+    "summary_en": "",
+    "title_zh": "Lappí 透過收購 Alempack 擴大伊比利亞足跡",
+    "summary_zh": ""
+  },
+  {
+    "title": "Retail-trader 'bottleneck bros' eyeing AI supply chain can't wait for SK Hynix options",
+    "url": "https://www.cnbc.com/2026/07/14/retail-trader-bottleneck-bros-eyeing-ai-supply-chain-cant-wait-for-sk-hynix-options.html",
+    "source": "CNBC Top",
+    "summary": "For many of those retail tech traders, SK Hynix's memory business reminds them of Micron – the paragon of the supply-chain bottleneck thesis.",
+    "published_at": "2026-07-14T19:01:50+08:00",
+    "stocks": [],
+    "uid": "00776f179474cb2363eda279726aa2f1",
+    "title_en": "Retail-trader 'bottleneck bros' eyeing AI supply chain can't wait for SK Hynix options",
+    "summary_en": "For many of those retail tech traders, SK Hynix's memory business reminds them of Micron – the paragon of the supply-chain bottleneck thesis.",
+    "title_zh": "關注人工智慧供應鏈的零售貿易商「瓶頸兄弟」迫不及待地等待 SK 海力士的選擇",
+    "summary_zh": "對許多零售科技貿易商來說，SK 海力士的記憶體業務讓他們想起了美光科技——供應鏈瓶頸論的典範。"
+  },
+  {
+    "title": "JPMorgan notches the highest quarterly profit in US banking history",
+    "url": "https://finance.yahoo.com/markets/article/jpmorgan-notches-the-highest-quarterly-profit-in-us-banking-history-110031854.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T19:00:31+08:00",
+    "stocks": [],
+    "uid": "85755d501b74572f69bfbbe4241889ee",
+    "title_en": "JPMorgan notches the highest quarterly profit in US banking history",
+    "summary_en": "",
+    "title_zh": "摩根大通創下美國銀行業歷史最高季度利潤",
+    "summary_zh": ""
+  },
+  {
+    "title": "Oil extends gains as U.S.-Iran tensions, Hormuz toll fears keep markets on edge",
+    "url": "https://www.investing.com/news/commodities-news/oil-prices-extend-surge-after-trump-reinstates-iran-shipping-blockade-4789645",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-14T19:00:24+08:00",
+    "stocks": [],
+    "uid": "19da086408bfe10a15bf733299c56914",
+    "title_en": "Oil extends gains as U.S.-Iran tensions, Hormuz toll fears keep markets on edge",
+    "summary_en": "",
+    "title_zh": "美伊緊張局勢、霍爾木茲海峽死亡人數擔憂令市場緊張，油價持續漲勢",
+    "summary_zh": ""
+  },
+  {
+    "title": "These are the toughest places in America to sell a home right now",
+    "url": "https://www.marketwatch.com/story/these-are-the-toughest-places-in-america-to-sell-a-home-right-now-724bff2a?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "From Miami to Seattle, homeowners are seeing their homes sit on the market for longer before getting an offer.",
+    "published_at": "2026-07-14T19:00:00+08:00",
+    "stocks": [],
+    "uid": "29a18ea52bcfe3fc770d055137a36b54",
+    "title_en": "These are the toughest places in America to sell a home right now",
+    "summary_en": "From Miami to Seattle, homeowners are seeing their homes sit on the market for longer before getting an offer.",
+    "title_zh": "這些是美國目前最難賣房的地方",
+    "summary_zh": "從邁阿密到西雅圖，房主發現自己的房屋在收到報價之前在市場上停留的時間更長。"
+  },
+  {
+    "title": "My husband and I are retired. Our financial adviser, who is in his 30s, called us ‘you guyses.’ Is that unprofessional?",
+    "url": "https://www.marketwatch.com/story/my-husband-and-i-are-retired-our-financial-adviser-who-is-in-his-30s-called-us-you-guyses-is-that-unprofessional-ccddaa9f?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "“I’m wondering whether I should ask to work with someone closer to our generation.”",
+    "published_at": "2026-07-14T19:00:00+08:00",
+    "stocks": [],
+    "uid": "3b8bf30d1e127e6100414cfd0b0a7867",
+    "title_en": "My husband and I are retired. Our financial adviser, who is in his 30s, called us ‘you guyses.’ Is that unprofessional?",
+    "summary_en": "“I’m wondering whether I should ask to work with someone closer to our generation.”",
+    "title_zh": "我和我先生都退休了。我們30多歲的財務顧問稱我們為「你們這些傢伙」。這不專業嗎？",
+    "summary_zh": "“我在想是否應該要求與我們這一代人更親近的人一起工作。”"
+  },
+  {
+    "title": "Trump's promotion of 'Freedom Fuel' gas stations sparks accusations of a double standard",
+    "url": "https://finance.yahoo.com/energy/articles/trumps-promotion-freedom-fuel-gas-110000934.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T19:00:00+08:00",
+    "stocks": [],
+    "uid": "59552d86232b161edecf73574d95bdaa",
+    "title_en": "Trump's promotion of 'Freedom Fuel' gas stations sparks accusations of a double standard",
+    "summary_en": "",
+    "title_zh": "川普推廣「自由燃料」加油站引發雙重標準指控",
+    "summary_zh": ""
+  },
+  {
+    "title": "TD Cowen raises Delta Air Lines stock price target on strong results",
+    "url": "https://www.investing.com/news/analyst-ratings/td-cowen-raises-delta-air-lines-stock-price-target-on-strong-results-93CH-4790425",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-14T18:58:52+08:00",
+    "stocks": [],
+    "uid": "cf5730811ced0337f17d5c3a6c2dbc77",
+    "title_en": "TD Cowen raises Delta Air Lines stock price target on strong results",
+    "summary_en": "",
+    "title_zh": "TD Cowen 因強勁業績而上調達美航空股價目標",
+    "summary_zh": ""
+  },
+  {
+    "title": "TD Cowen raises UnitedHealth stock price target to $430 on MA trends",
+    "url": "https://www.investing.com/news/analyst-ratings/td-cowen-raises-unitedhealth-stock-price-target-to-430-on-ma-trends-93CH-4790424",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-14T18:58:51+08:00",
+    "stocks": [],
+    "uid": "1afa1621b8203fb3a1cdb7e64ef8fa8f",
+    "title_en": "TD Cowen raises UnitedHealth stock price target to $430 on MA trends",
+    "summary_en": "",
+    "title_zh": "TD Cowen 根據 MA 趨勢將 UnitedHealth 股價目標提高至 430 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Lululemon stock rating held at Neutral by BTIG amid brand concerns",
+    "url": "https://www.investing.com/news/analyst-ratings/lululemon-stock-rating-held-at-neutral-by-btig-amid-brand-concerns-93CH-4790423",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-14T18:58:50+08:00",
+    "stocks": [],
+    "uid": "b749225153a305e4a2c09ba7f1453bcf",
+    "title_en": "Lululemon stock rating held at Neutral by BTIG amid brand concerns",
+    "summary_en": "",
+    "title_zh": "由於品牌擔憂，BTIG 將 Lululemon 股票評級維持在中性",
+    "summary_zh": ""
+  },
+  {
+    "title": "KeyBanc raises Nvidia stock price target to $330 on strong demand",
+    "url": "https://www.investing.com/news/analyst-ratings/keybanc-raises-nvidia-stock-price-target-to-330-on-strong-demand-93CH-4790422",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-14T18:58:50+08:00",
+    "stocks": [],
+    "uid": "3af42023d416aaa28b0cd7d772d58c30",
+    "title_en": "KeyBanc raises Nvidia stock price target to $330 on strong demand",
+    "summary_en": "",
+    "title_zh": "由於需求強勁，KeyBanc 將 Nvidia 股價目標提高至 330 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Evercore ISI cuts Salesforce stock price target on Tableau headwinds",
+    "url": "https://www.investing.com/news/analyst-ratings/evercore-isi-cuts-salesforce-stock-price-target-on-tableau-headwinds-93CH-4790421",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-14T18:58:48+08:00",
+    "stocks": [],
+    "uid": "4ae0c6712240a63bd1337de774417b4f",
+    "title_en": "Evercore ISI cuts Salesforce stock price target on Tableau headwinds",
+    "summary_en": "",
+    "title_zh": "Evercore ISI 因 Tableau 不利因素下調 Salesforce 股價目標",
+    "summary_zh": ""
+  },
+  {
+    "title": "TD Cowen raises FirstService stock price target on roofing growth",
+    "url": "https://www.investing.com/news/analyst-ratings/td-cowen-raises-firstservice-stock-price-target-on-roofing-growth-93CH-4790420",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-14T18:58:47+08:00",
+    "stocks": [],
+    "uid": "b02c5f380b99d7321675943cd2c577fd",
+    "title_en": "TD Cowen raises FirstService stock price target on roofing growth",
+    "summary_en": "",
+    "title_zh": "TD Cowen 因屋頂成長而上調 FirstService 股價目標",
+    "summary_zh": ""
+  },
+  {
+    "title": "Jefferies raises NextEra Energy stock price target on data center growth",
+    "url": "https://www.investing.com/news/analyst-ratings/jefferies-raises-nextera-energy-stock-price-target-on-data-center-growth-93CH-4790419",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-14T18:58:46+08:00",
+    "stocks": [],
+    "uid": "79cc52cae3668b25070cee6dd7fe5302",
+    "title_en": "Jefferies raises NextEra Energy stock price target on data center growth",
+    "summary_en": "",
+    "title_zh": "傑富瑞 (Jefferies) 因資料中心成長而上調 NextEra Energy 股價目標",
+    "summary_zh": ""
+  },
+  {
+    "title": "Barclays raises First Solar stock price target to $279 on tariffs",
+    "url": "https://www.investing.com/news/analyst-ratings/barclays-raises-first-solar-stock-price-target-to-279-on-tariffs-93CH-4790418",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-14T18:58:44+08:00",
+    "stocks": [],
+    "uid": "76b566b8dac298a057b29bbbd0b5039f"
+  },
+  {
+    "title": "What to know about the report.",
+    "url": "https://www.nytimes.com/live/2026/07/14/business/cpi-inflation-warsh-fed/inflation-cpi",
+    "source": "NYT Business",
+    "summary": "",
+    "published_at": "2026-07-14T18:56:17+08:00",
+    "stocks": [],
+    "uid": "c9ae68680c031f29b63097c4a691335d",
+    "title_en": "What to know about the report.",
+    "summary_en": "",
+    "title_zh": "關於該報告需要了解什麼。",
+    "summary_zh": ""
+  },
+  {
+    "title": "European biotech chases record VC funding",
+    "url": "https://finance.yahoo.com/healthcare/articles/european-biotech-chases-record-vc-105336852.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T18:53:36+08:00",
+    "stocks": [],
+    "uid": "a942e0ab682df5675ce4099c8c927fac",
+    "title_en": "European biotech chases record VC funding",
+    "summary_en": "",
+    "title_zh": "歐洲生技追逐創紀錄的創投",
+    "summary_zh": ""
+  },
+  {
+    "title": "Investing $300 Per Month Could Eventually Build an Annual Dividend Income of $30,000 or More",
+    "url": "https://www.fool.com/investing/2026/07/14/investing-300-per-month-could-build-an-annual-divi/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Slow and steady wins the race, even with seemingly modest contributions.",
+    "published_at": "2026-07-14T18:48:00+08:00",
+    "stocks": [],
+    "uid": "3b2bf392ab6750aaf61e048d3adfdf33",
+    "title_en": "Investing $300 Per Month Could Eventually Build an Annual Dividend Income of $30,000 or More",
+    "summary_en": "Slow and steady wins the race, even with seemingly modest contributions.",
+    "title_zh": "每月投資 300 美元最終可以獲得 30,000 美元或更多的年度股息收入",
+    "summary_zh": "即使貢獻看似不大，但緩慢而穩定地贏得了比賽。"
+  },
+  {
+    "title": "Global shipping industry sounds the alarm over Trump’s Hormuz toll plan",
+    "url": "https://www.cnbc.com/2026/07/14/shipping-industry-trump-hormuz-toll-backfire.html",
+    "source": "CNBC Top",
+    "summary": "For shipping giant Hapag-Lloyd, it is \"fundamentally wrong\" to charge tolls for passage through international waters, regardless of the country in charge.",
+    "published_at": "2026-07-14T18:40:44+08:00",
+    "stocks": [],
+    "uid": "3f0a1ea0602ef273f26c98fb0ab18692",
+    "title_en": "Global shipping industry sounds the alarm over Trump’s Hormuz toll plan",
+    "summary_en": "For shipping giant Hapag-Lloyd, it is \"fundamentally wrong\" to charge tolls for passage through international waters, regardless of the country in charge.",
+    "title_zh": "全球航運業對川普的霍爾木茲收費計畫敲響警鐘",
+    "summary_zh": "對於航運巨頭赫伯羅特來說，無論由哪個國家負責，對國際水域的通行費收取通行費是「根本錯誤的」。"
+  },
+  {
+    "title": "Why Sirius XM Holdings Rallied Nearly 50% in the First Half of 2026",
+    "url": "https://www.fool.com/investing/2026/07/14/why-sirius-xm-holdings-rallied-in-the-first-half/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Sirius XM rallied on the back of a big YouTube partnership, inflecting revenue, and speculation over its wireless spectrum assets in light of the SpaceX IPO.",
+    "published_at": "2026-07-14T18:40:00+08:00",
+    "stocks": [],
+    "uid": "84e9ed5de808c48b0decab587c04ea8f",
+    "title_en": "Why Sirius XM Holdings Rallied Nearly 50% in the First Half of 2026",
+    "summary_en": "Sirius XM rallied on the back of a big YouTube partnership, inflecting revenue, and speculation over its wireless spectrum assets in light of the SpaceX IPO.",
+    "title_zh": "為什麼Sirius XM Holdings在2026年上半年上漲了近50%",
+    "summary_zh": "Sirius XM 的股價上漲得益於與 YouTube 的大型合作，影響了營收，以及 SpaceX IPO 對其無線頻譜資產的猜測。"
+  },
+  {
+    "title": "Visa (V): Among the Most Promising Fintech Stocks to Invest In",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/visa-v-among-most-promising-103905153.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T18:39:05+08:00",
+    "stocks": [
+      "V"
+    ],
+    "uid": "b567c955486f8ba7df5c00609665d401",
+    "title_en": "Visa (V): Among the Most Promising Fintech Stocks to Invest In",
+    "summary_en": "",
+    "title_zh": "Visa (V)：最具投資前景的金融科技股票之一",
+    "summary_zh": ""
+  },
+  {
+    "title": "Prediction: This ETF Will Be the Best Way to Invest in the S&P 500 to Finish 2026",
+    "url": "https://www.fool.com/investing/2026/07/14/prediction-this-etf-will-be-the-best-way-to-invest/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This different approach could be your means to outperform the market.",
+    "published_at": "2026-07-14T18:35:00+08:00",
+    "stocks": [],
+    "uid": "ae0b71fec50eb47cc3f39d5d39efc51f"
+  },
+  {
+    "title": "Morning Bid: Oil boils",
+    "url": "https://finance.yahoo.com/news/morning-bid-oil-boils-103443653.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T18:34:43+08:00",
+    "stocks": [],
+    "uid": "09521a96517f8a812445245b7a92dba8"
+  },
+  {
+    "title": "Is PowerFleet (AIOT) the Fastest Growing Tech Penny Stocks to Buy?",
+    "url": "https://finance.yahoo.com/technology/ai/articles/powerfleet-aiot-fastest-growing-tech-103408814.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T18:34:08+08:00",
+    "stocks": [
+      "AIOT"
+    ],
+    "uid": "2e5529ee7c178fb014da5838956b4b64"
+  },
+  {
+    "title": "Geron (GERN) Grants Inducement Stock Options to New Employees",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/geron-gern-grants-inducement-stock-103402930.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T18:34:02+08:00",
+    "stocks": [
+      "GERN"
+    ],
+    "uid": "6936ae999ef0c074027e8643632746b9"
+  },
+  {
+    "title": "Nano Dimension (NNDM) Issues Update on Infinite Epigenetics Combination",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nano-dimension-nndm-issues-infinite-103355317.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T18:33:55+08:00",
+    "stocks": [
+      "NNDM"
+    ],
+    "uid": "8441dfe6de3861c663d4417db4854ce7"
+  },
+  {
+    "title": "Century Therapeutics (IPSC) to Present CNTY-813 Data at Scientific Congresses",
+    "url": "https://finance.yahoo.com/healthcare/articles/century-therapeutics-ipsc-present-cnty-103348607.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T18:33:48+08:00",
+    "stocks": [
+      "IPSC"
+    ],
+    "uid": "27e69bb02ad00356d74e3b535a781041"
+  },
+  {
+    "title": "Here’s Why TON Strategy (TONX) is Among the 10 Fastest Growing Tech Penny Stocks to Buy",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-ton-strategy-tonx-among-103341074.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T18:33:41+08:00",
+    "stocks": [
+      "TONX"
+    ],
+    "uid": "2cf765310c5dfffda3acda352b019ad7"
+  },
+  {
+    "title": "Gloo Holdings (GLOO) Prices Secondary Offering at $3.25",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/gloo-holdings-gloo-prices-secondary-103331047.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T18:33:31+08:00",
+    "stocks": [
+      "GLOO"
+    ],
+    "uid": "883088619b2b4d8e66d15990626df7e6"
+  },
+  {
+    "title": "Autolus Therapeutics (AUTL) Grants Inducement Awards to New Employees",
+    "url": "https://finance.yahoo.com/healthcare/articles/autolus-therapeutics-autl-grants-inducement-103319136.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T18:33:19+08:00",
+    "stocks": [
+      "AUTL"
+    ],
+    "uid": "5f5f1d5787cde63f92de698ad14931db"
+  },
+  {
+    "title": "Ovid Therapeutics (OVID) Appoints Kevin Norrett as Chief Business Officer",
+    "url": "https://finance.yahoo.com/healthcare/articles/ovid-therapeutics-ovid-appoints-kevin-103313866.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T18:33:13+08:00",
+    "stocks": [
+      "OVID"
+    ],
+    "uid": "a3b94e253136d52c1435ea1acc2a3a24"
+  },
+  {
+    "title": "Cibus (CBUS) Welcomes Landmark EU Crop Breeding Decision",
+    "url": "https://finance.yahoo.com/healthcare/articles/cibus-cbus-welcomes-landmark-eu-103305040.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T18:33:05+08:00",
+    "stocks": [
+      "CBUS"
+    ],
+    "uid": "e7a9bc75cfa632cb90f03c77cffedde0"
+  },
+  {
+    "title": "Datavault AI (DVLT): The Fastest Growing Tech Penny Stocks to Buy",
+    "url": "https://finance.yahoo.com/technology/ai/articles/datavault-ai-dvlt-fastest-growing-103258084.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T18:32:58+08:00",
+    "stocks": [
+      "DVLT"
+    ],
+    "uid": "2478655ee74ca805984a0eaac483eeef"
+  },
+  {
+    "title": "IAT vs. IYF: Which iShares Financial ETF Is the Better Buy?",
+    "url": "https://www.fool.com/coverage/etfs/2026/07/14/iat-vs-iyf-which-ishares-financial-etf-is-the-better-buy/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "One fund offers a higher dividend yield, while the other provides broader diversification with lower volatility.",
+    "published_at": "2026-07-14T18:24:12+08:00",
+    "stocks": [],
+    "uid": "9b460fdbde0ba29d19087fd3e6e8ab62"
+  },
+  {
+    "title": "China Purges Top Official Over Corruption and Sex Charges",
+    "url": "https://www.nytimes.com/2026/07/14/world/asia/china-expels-politburo-official-sex-corruption.html",
+    "source": "NYT Business",
+    "summary": "Ma Xingrui is the third member of the Politburo to be purged since 2022. He once led the Xinjiang region and was previously head of China’s space program.",
+    "published_at": "2026-07-14T18:23:29+08:00",
+    "stocks": [],
+    "uid": "91fdc493bbb13004a7f7eef3b7869017"
+  },
+  {
+    "title": "Main Street Capital Just Raised Its Monthly Dividend Again. Is the 8% Yield Safe as Earnings Soften?",
+    "url": "https://www.fool.com/investing/2026/07/14/main-street-capital-just-raised-its-monthly-divide/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Main Street Capital's combined dividend payments current exceeds its quarterly distributable net investment income.",
+    "published_at": "2026-07-14T18:20:00+08:00",
+    "stocks": [],
+    "uid": "96fb9dbe75fb2b82710f6ed77431a9e3"
+  },
+  {
+    "title": "Ericsson ends up on the wrong side of memory-chip price spike. The stock slumps.",
+    "url": "https://www.marketwatch.com/story/ericsson-ends-up-on-the-wrong-side-of-memory-chip-price-spike-the-stock-slumps-b1aa5eda?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Ericsson shares on Tuesday saw their worst reaction to earnings in nearly three years after the telecom-equipment maker revealed that rising component costs were eating away at margins — likely the huge surge in memory-chip prices.",
+    "published_at": "2026-07-14T18:19:00+08:00",
+    "stocks": [],
+    "uid": "1e904f2c0617263bfc2078a16652f657"
+  },
+  {
+    "title": "Is your advisor scaring you into buying an annuity after saving for retirement? Here’s where you should tell them to go",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/advisor-scaring-buying-annuity-saving-101500752.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T18:15:00+08:00",
+    "stocks": [],
+    "uid": "b1672eef3f539c6eb8b7533106c39e62"
+  },
+  {
+    "title": "Got $1,000? 2 Magnificent Artificial Intelligence (AI) Stocks Down Over 15% to Buy Hand Over Fist",
+    "url": "https://www.fool.com/investing/2026/07/14/got-1000-2-magnificent-artificial-intelligence-ai/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Micron and Broadcom may be on sale now, but they will hit new all-time highs before investors know it.",
+    "published_at": "2026-07-14T18:15:00+08:00",
+    "stocks": [],
+    "uid": "45c7a5c107a9d9cbc23ecfbf3b1c4170"
+  },
+  {
+    "title": "Tower Semiconductor to invest $3 billion in Japan, backed by government grants",
+    "url": "https://finance.yahoo.com/technology/articles/tower-semiconductor-invest-3-billion-101006912.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T18:10:06+08:00",
+    "stocks": [],
+    "uid": "ff1e4892405cf038542387c04377507a"
+  },
+  {
+    "title": "NAS Investment Solutions Delivers 41% Effective Rate of Return to Investors in Full-Cycle Office Property Investment",
+    "url": "https://markets.businessinsider.com/news/stocks/nas-investment-solutions-delivers-41-effective-rate-of-return-to-investors-in-full-cycle-office-property-investment-1036322406",
+    "source": "Business Insider",
+    "summary": "&lt;strong id=&quot;dateline&quot;&gt;BENTONVILLE, AR / &lt;a href='https://www.accessnewswire.com/' rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot;&gt;ACCESS Newswire&lt;/a&gt; / July 14, 2026 / NAS Investment Solutions announces the successful full-cycle completion of a single-tenant office investment located in Bentonville, Arkansas.The property consists of approximately 30,829...",
+    "published_at": "2026-07-14T18:10:00+08:00",
+    "stocks": [],
+    "uid": "b7439435be74682c888044456474b457"
+  },
+  {
+    "title": "Is This Disturbing Trend Bad News for Eli Lilly in the Billion-Dollar Obesity Drug Market?",
+    "url": "https://www.fool.com/investing/2026/07/14/is-this-disturbing-trend-bad-news-for-eli-lilly-in/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Eyes are on the rollout of Lilly's new weight loss pill.",
+    "published_at": "2026-07-14T18:10:00+08:00",
+    "stocks": [],
+    "uid": "c675bbbd7fbb8b5acccbe2bdfa8bfab7"
+  },
+  {
+    "title": "Treasury yields rise as Fed rate hike expectations grow ahead of June inflation print",
+    "url": "https://www.cnbc.com/2026/07/14/treasury-yields-rise-as-fed-rate-hike-expectations-grow.html",
+    "source": "CNBC Top",
+    "summary": "Treasury yields increased Tuesday as expectations for more Federal Reserve interest rate hikes grow.",
+    "published_at": "2026-07-14T18:04:39+08:00",
+    "stocks": [],
+    "uid": "2bb465fa09d6744ec3c931775e80251f"
+  },
+  {
+    "title": "Spero Therapeutics Announces $105 Million Non-Recourse Non-Dilutive Financing Backed by a Portion of Utebzi Milestones & Royalties",
+    "url": "https://markets.businessinsider.com/news/stocks/spero-therapeutics-announces-105-million-non-recourse-non-dilutive-financing-backed-by-a-portion-of-utebzi-milestones-royalties-1036322397",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;ul&gt;&lt;li&gt;&lt;em&gt;Financing supports Phase 2 development of SP001, Spero’s first immunology drug candidate, in-licensed from Innovent Biologics &lt;/em&gt;&lt;/li&gt;&lt;li&gt;&lt;em&gt;Transaction unlocks immediate value from future Utebzi (tebipenem pivoxil) milestones and...",
+    "published_at": "2026-07-14T18:02:00+08:00",
+    "stocks": [],
+    "uid": "483947a30b097161733d66e9bb51caec"
+  },
+  {
+    "title": "Micron and Nvidia are powering a $700 billion chip profit boom: Chart of the Day",
+    "url": "https://finance.yahoo.com/markets/article/micron-and-nvidia-are-powering-a-700-billion-chip-profit-boom-chart-of-the-day-100000068.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T18:00:00+08:00",
+    "stocks": [],
+    "uid": "264387ff0f443deda987759dbb2cf771"
+  },
+  {
+    "title": "Mortgage & refinance interest rates today, Tuesday, July 14, 2026: Rates mixed this morning",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage--refinance-interest-rates-today-tuesday-july-14-2026-rates-mixed-this-morning-100000024.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T18:00:00+08:00",
+    "stocks": [],
+    "uid": "d4d90c2af57e88e8ffcb30b72a10d981"
+  },
+  {
+    "title": "Welcome to the Tokenpocalypse: Companies rapidly backtrack after encouraging workers to spend with abandon on AI",
+    "url": "https://finance.yahoo.com/technology/ai/articles/welcome-tokenpocalypse-companies-rapidly-backtrack-100000461.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T18:00:00+08:00",
+    "stocks": [],
+    "uid": "8cb8a8d28837153762e8b6e37603af71"
+  },
+  {
+    "title": "Best CD rates today, Tuesday, July 14, 2026: Lock in up to 4.10% APY today",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-july-14-2026-lock-in-up-to-410-apy-today-100000616.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T18:00:00+08:00",
+    "stocks": [],
+    "uid": "83dfe098c2b363701fa6ab4f644a4773"
+  },
+  {
+    "title": "The Courtyard by Marriott Carolina Beach Oceanfront, North Carolina Completes a Major Renovation",
+    "url": "https://markets.businessinsider.com/news/stocks/the-courtyard-by-marriott-carolina-beach-oceanfront-north-carolina-completes-a-major-renovation-1036322380",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;justify&quot;&gt;FAIRFAX, Va. and CAROLINA BEACH, N.C., July  14, 2026  (GLOBE NEWSWIRE) -- &lt;a...",
+    "published_at": "2026-07-14T18:00:00+08:00",
+    "stocks": [],
+    "uid": "d711af2613666e4e357dae14e7f111da"
+  },
+  {
+    "title": "Unity Bancorp Reports Quarterly Earnings of $14.5 Million",
+    "url": "https://markets.businessinsider.com/news/stocks/unity-bancorp-reports-quarterly-earnings-of-14-5-million-1036322381",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;justify&quot;&gt;CLINTON, N.J., July  14, 2026  (GLOBE NEWSWIRE) -- Unity Bancorp, Inc. (NASDAQ: UNTY), parent company of Unity Bank, reported net income of $14.5 million, or $1.42 per diluted share, for the quarter ended June 30, 2026, compared...",
+    "published_at": "2026-07-14T18:00:00+08:00",
+    "stocks": [],
+    "uid": "7f201b79b73564ad4617c1a15462f17e"
+  },
+  {
+    "title": "Xebia Axis Now Available: An Agentic Data Foundation That Prepares Enterprise Data for AI",
+    "url": "https://markets.businessinsider.com/news/stocks/xebia-axis-now-available-an-agentic-data-foundation-that-prepares-enterprise-data-for-ai-1036322382",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;ATLANTA, July  14, 2026  (GLOBE NEWSWIRE) -- Xebia, a global AI-first, digital transformation, and engineering leader, announced Xebia Axis: Agentic Data Foundation , a solution that gets enterprise data ready for AI with the speed of automation and...",
+    "published_at": "2026-07-14T18:00:00+08:00",
+    "stocks": [],
+    "uid": "b8e2b5617d5eafb069e4403e37974c24"
+  },
+  {
+    "title": "KBR’s Mission Technology Solutions Selected for Multiple-Award Advisory Contract for National Air and Space Intelligence Center",
+    "url": "https://markets.businessinsider.com/news/stocks/kbr-s-mission-technology-solutions-selected-for-multiple-award-advisory-contract-for-national-air-and-space-intelligence-center-1036322383",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;HOUSTON, July  14, 2026  (GLOBE NEWSWIRE) -- KBR (NYSE: KBR) announced its Mission Technology Solutions business has been selected for a new multiple-award, Indefinite Delivery/Indefinite Quantity (IDIQ) contract by the National Air and Space...",
+    "published_at": "2026-07-14T18:00:00+08:00",
+    "stocks": [
+      "IDIQ"
+    ],
+    "uid": "e839c81b8bd68815004aa95bdd8cf8ab"
+  },
+  {
+    "title": "K92 Mining Announces 2026 Second Quarter Financial Results Conference Call Details",
+    "url": "https://markets.businessinsider.com/news/stocks/k92-mining-announces-2026-second-quarter-financial-results-conference-call-details-1036322385",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;justify&quot;&gt;VANCOUVER, British Columbia, July  14, 2026  (GLOBE NEWSWIRE) -- K92 Mining Inc. (&quot;K92 &quot; or the &quot;Company &quot;) (TSX: KNT;  OTCQX: KNTNF)  announces that it will release its 2026 second quarter financial results before the North...",
+    "published_at": "2026-07-14T18:00:00+08:00",
+    "stocks": [],
+    "uid": "1c8765f70f84ec540b1c7d52ce37b11a"
+  },
+  {
+    "title": "Beam Global Announces Preliminary Second Quarter 2026 Revenue Up More Than 170% From Q1 And More Than 20% Year-Over-Year",
+    "url": "https://markets.businessinsider.com/news/stocks/beam-global-announces-preliminary-second-quarter-2026-revenue-up-more-than-170-from-q1-and-more-than-20-year-over-year-1036322386",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;SAN DIEGO, July  14, 2026  (GLOBE NEWSWIRE) -- &lt;a href=&quot;https://www.globenewswire.com/Tracker?data=YC759dHHuiDEMicAnQqWY8nhUHvXu8t2C285YHjGBGuIUivbieScpwPN3TKmX2ThnlDxyWYy3yHyPA3wNFMTkw==&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;Beam Global&lt;/a&gt;, (Nasdaq:",
+    "published_at": "2026-07-14T18:00:00+08:00",
+    "stocks": [],
+    "uid": "d96615465c4c8a3321747e750abef723"
+  },
+  {
+    "title": "First Atlantic Nickel & Cobalt Added to NASDAQ Sprott Nickel Miners™ Index, Tracked by the Sprott Nickel Miners ETF (NASDAQ: NIKL)",
+    "url": "https://markets.businessinsider.com/news/stocks/first-atlantic-nickel-cobalt-added-to-nasdaq-sprott-nickel-miners-index-tracked-by-the-sprott-nickel-miners-etf-nasdaq-nikl-1036322387",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;justify&quot;&gt;GRAND FALLS-WINDSOR, Newfoundland and Labrador, July  14, 2026  (GLOBE NEWSWIRE) -- First Atlantic Nickel  Cobalt Corp. (TSXV: FAN) (OTCQB: FANCF) (FSE: P210) (&quot;First Atlantic&quot; or the &quot;Company&quot;) is pleased to announce that it has...",
+    "published_at": "2026-07-14T18:00:00+08:00",
+    "stocks": [],
+    "uid": "4cf46c55280ea9be638988fa61125c04"
+  },
+  {
+    "title": "NextCure and Avere Therapeutics Announce Merger to Advance Once-Weekly Oral IL-23 Therapy",
+    "url": "https://markets.businessinsider.com/news/stocks/nextcure-and-avere-therapeutics-announce-merger-to-advance-once-weekly-oral-il-23-therapy-1036322388",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;center&quot;&gt;&lt;em&gt;Avere Therapeutics’ lead program, AVR-001, is a differentiated oral peptide interleukin-23 (IL-23) receptor antagonist, with Phase 1b psoriasis data supporting its potential to be rapidly developed as a convenient, once-weekly...",
+    "published_at": "2026-07-14T18:00:00+08:00",
+    "stocks": [],
+    "uid": "177d4c1afc2c7f6f2e123ba4d2c6b6d2"
+  },
+  {
+    "title": "Here's How Many Shares of Nike You'd Need for $10,000 in Yearly Dividends",
+    "url": "https://www.fool.com/investing/2026/07/14/shares-of-nike-youd-need-for-10000-dividend/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Nike's dividend yield has never looked more tempting than now.",
+    "published_at": "2026-07-14T18:00:00+08:00",
+    "stocks": [],
+    "uid": "810120d05979a63802fb628acbae6d4e"
+  },
+  {
+    "title": "UnitedHealth Is Investing $1.5 Billion in AI and Targeting a 2-to-1 Return. Here Is What That Means for the Bull Case.",
+    "url": "https://www.fool.com/investing/2026/07/14/unitedhealth-is-investing-billion-in-ai-and-target/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "UnitedHealth is betting $1.5 billion on AI to fuel its turnaround -- but can the technology deliver the profits management is promising?",
+    "published_at": "2026-07-14T17:51:00+08:00",
+    "stocks": [],
+    "uid": "3e9c44b23b10ff1502c5b2a185e7f371"
+  },
+  {
+    "title": "Which Stock Is a Better Buy? Visa or Mastercard?",
+    "url": "https://www.fool.com/investing/2026/07/14/better-buy-visa-vs-mastercard/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Both payment networks are elite compounders trading at nearly the same valuation. But one still edges out the other as the better buy.",
+    "published_at": "2026-07-14T17:41:00+08:00",
+    "stocks": [],
+    "uid": "e4274a932eeb04f72d1fb755a7ddc38c"
+  },
+  {
     "title": "Volex reduces share buyback program to £20 million",
     "url": "https://www.investing.com/news/company-news/volex-reduces-share-buyback-program-to-20-million-93CH-4790084",
     "source": "Investing.com",
@@ -24,6 +724,17 @@
     "summary_en": "",
     "title_zh": "TC Group 任命 Jennie Brown 為稅務諮詢主管",
     "summary_zh": ""
+  },
+  {
+    "title": "Prediction: Lisa Su Will Deliver Great News for Advanced Micro Devices (AMD) Investors on Aug. 4",
+    "url": "https://www.fool.com/investing/2026/07/14/prediction-lisa-su-deliver-great-news-amd-on-aug-4/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "AMD stock has soared by a whopping 280% over the past year alone.",
+    "published_at": "2026-07-14T17:35:00+08:00",
+    "stocks": [
+      "AMD"
+    ],
+    "uid": "463061af9e81691c009ca63ab331695d"
   },
   {
     "title": "Why is Peab stock surging today?",
@@ -104,6 +815,15 @@
     "summary_zh": ""
   },
   {
+    "title": "Better Vertically Integrated Space Stock: SpaceX or Rocket Lab?",
+    "url": "https://www.fool.com/investing/2026/07/14/better-vertically-integrated-space-stock-spacex-or/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Rocket Lab is following SpaceX's vertically integrated playbook.",
+    "published_at": "2026-07-14T17:30:00+08:00",
+    "stocks": [],
+    "uid": "5c0bbd0a58e5210dbc75fac0dd16392d"
+  },
+  {
     "title": "Why is Obrascon Huarte Lain stock sliding today?",
     "url": "https://www.investing.com/news/stock-market-news/why-is-obrascon-huarte-lain-stock-sliding-today-93CH-4790076",
     "source": "Investing.com",
@@ -115,6 +835,15 @@
     "summary_en": "",
     "title_zh": "為什麼 Obrascon Huarte Lain 股票今天會下跌？",
     "summary_zh": ""
+  },
+  {
+    "title": "2 Reasons Why Higher Oil Prices Are Good for Banks and 1 Reason They Are a Problem",
+    "url": "https://www.fool.com/investing/2026/07/14/2-reasons-why-higher-oil-prices-are-good-for-banks-and-1-reason-they-are-a-problem/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The conflict in the Middle East is flaring again, leading to rising oil prices and an increased likelihood of higher interest rates.",
+    "published_at": "2026-07-14T17:28:51+08:00",
+    "stocks": [],
+    "uid": "4c5ca5d4c72c795631302bf7a357c6f8"
   },
   {
     "title": "Dometic Q2 2026 slides: margins narrow as costs rise, restructuring expands",
@@ -180,6 +909,15 @@
     "summary_en": "",
     "title_zh": "谷歌母公司 Alphabet 放棄了 3,460 億美元的投資——歷史表明這一決定好壞參半",
     "summary_zh": ""
+  },
+  {
+    "title": "Michael Saylor's Strategy Has a New Approach to Buying and Selling Bitcoin. Here's the Most Likely Scenario for How It Works Out",
+    "url": "https://www.fool.com/investing/2026/07/14/saylor-strategy-new-approach-buy-sell-bitcoin/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "In the past several weeks, the business sold $218 million worth of Bitcoin, a surprise development for investors.",
+    "published_at": "2026-07-14T17:26:00+08:00",
+    "stocks": [],
+    "uid": "7eca6221da0e24bccb89729ffbbdfa3b"
   },
   {
     "title": "This AI Giant Has Climbed 900% Over the Past Five Years. Now Wall Street Expects the Stock to Jump Another 40%.",
@@ -297,6 +1035,15 @@
     "summary_en": "This company is about to tackle another valuable AI market.",
     "title_zh": "這家人工智慧巨頭在過去五年成長了 900%。現在華爾街預計該股將再上漲 40%。",
     "summary_zh": "該公司即將進軍另一個有價值的人工智慧市場。"
+  },
+  {
+    "title": "Massive AI spending has unexpected effect on U.S. inflation",
+    "url": "https://finance.yahoo.com/economy/articles/massive-ai-spending-unexpected-effect-090300525.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T17:03:00+08:00",
+    "stocks": [],
+    "uid": "ab9fbd96332f860e9f3318a326550921"
   },
   {
     "title": "‘Impeccably designed’: You can rent Orlando Bloom’s former Beverly Hills estate for just $31,000 a month",
@@ -2197,6 +2944,15 @@
     "published_at": "2026-07-14T04:15:01+08:00",
     "stocks": [],
     "uid": "8bc3a3ee48f134038fb19159360427b9"
+  },
+  {
+    "title": "Target's problems aren't what you think they are",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/targets-problems-arent-think-201058966.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T04:10:58+08:00",
+    "stocks": [],
+    "uid": "47ab30f13aef6c7a3e22092a6de25f52"
   },
   {
     "title": "Chipotle is opening its first restaurant in Mexico",
@@ -5384,6 +6140,24 @@
     "published_at": "2026-07-13T18:00:00+08:00",
     "stocks": [],
     "uid": "bfc29fbb693fa1db6c0baba983298465"
+  },
+  {
+    "title": "Best high-yield savings interest rates today, Tuesday, July 14, 2026: Earn up to 4.10% APY with multiple banks",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-tuesday-july-14-2026-earn-up-to-410-apy-with-multiple-banks-100000572.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-13T18:00:00+08:00",
+    "stocks": [],
+    "uid": "698de8ecfcd91faba334d6efa332ec88"
+  },
+  {
+    "title": "HELOC and home equity loan rates today, Tuesday, July 14, 2026: Besides rates, how to choose between a HELOC or HEL",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-tuesday-july-14-2026-besides-rates-how-to-choose-between-a-heloc-or-hel-100000072.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-13T18:00:00+08:00",
+    "stocks": [],
+    "uid": "b2c6ca4786ad7bc1e96bdbe0294e318e"
   },
   {
     "title": "Should You Buy EquipmentShare.com (EQPT) at All-Time Lows",
