@@ -1,5 +1,226 @@
 [
   {
+    "title": "China’s Economy Grows at Slowest Pace in Years",
+    "url": "https://www.nytimes.com/2026/07/15/business/china-economy-gdp-growth.html",
+    "source": "NYT Business",
+    "summary": "Economic growth of 4.3 percent in the second quarter, versus the same period last year, reflected a broad slump outside of the country’s export-oriented manufacturing might.",
+    "published_at": "2026-07-15T12:41:25+08:00",
+    "stocks": [],
+    "uid": "cf8a1df0481be208f580b26fb783d5b2",
+    "title_en": "China’s Economy Grows at Slowest Pace in Years",
+    "summary_en": "Economic growth of 4.3 percent in the second quarter, versus the same period last year, reflected a broad slump outside of the country’s export-oriented manufacturing might.",
+    "title_zh": "中國經濟成長率為多年來最慢",
+    "summary_zh": "第二季經濟較去年同期成長 4.3%，反映出該國出口導向製造業以外的經濟普遍下滑。"
+  },
+  {
+    "title": "Oil rises after another round of U.S. strikes against Iran, naval blockade of the country's ports",
+    "url": "https://www.cnbc.com/2026/07/15/oil-prices-today-brent-wti-hormuz-blockade.html",
+    "source": "CNBC Top",
+    "summary": "Oil prices rose Wednesday after U.S. forces struck Tehran and Washington reinstated its naval blockade of Iranian ports near the Strait of Hormuz.",
+    "published_at": "2026-07-15T12:40:58+08:00",
+    "stocks": [],
+    "uid": "e05aebf8f4fb0ed969a86c525ecaee25",
+    "title_en": "Oil rises after another round of U.S. strikes against Iran, naval blockade of the country's ports",
+    "summary_en": "Oil prices rose Wednesday after U.S. forces struck Tehran and Washington reinstated its naval blockade of Iranian ports near the Strait of Hormuz.",
+    "title_zh": "美國對伊朗進行新一輪打擊並對該國港口實施海上封鎖後油價上漲",
+    "summary_zh": "在美軍襲擊德黑蘭和華盛頓恢復對霍爾木茲海峽附近伊朗港口的海上封鎖後，油價週三上漲。"
+  },
+  {
+    "title": "China posts slowest quarterly growth since 2022 as investment slumps, fanning stimulus calls",
+    "url": "https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html",
+    "source": "CNBC Top",
+    "summary": "That second-quarter growth came below Beijing's full-year growth target range of 4.5% to 5%, the least ambitious goal in decades.",
+    "published_at": "2026-07-15T12:37:57+08:00",
+    "stocks": [],
+    "uid": "23f5c3b4d5b6b05f1b1399ddf00966a1",
+    "title_en": "China posts slowest quarterly growth since 2022 as investment slumps, fanning stimulus calls",
+    "summary_en": "That second-quarter growth came below Beijing's full-year growth target range of 4.5% to 5%, the least ambitious goal in decades.",
+    "title_zh": "由於投資下滑，刺激呼聲高漲，中國季度經濟成長為2022年以來最慢",
+    "summary_zh": "第二季的成長低於北京4.5%至5%的全年成長目標範圍，這是幾十年來最不雄心勃勃的目標。"
+  },
+  {
+    "title": "Fender escalates Stratocaster copyright fight, taking aim at Yamaha",
+    "url": "https://www.investing.com/news/stock-market-news/fender-escalates-stratocaster-copyright-fight-taking-aim-at-yamaha-4791413",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-15T12:18:26+08:00",
+    "stocks": [],
+    "uid": "0db48bbf781874e6b85637894f6995e4",
+    "title_en": "Fender escalates Stratocaster copyright fight, taking aim at Yamaha",
+    "summary_en": "",
+    "title_zh": "Fender 升級 Stratocaster 版權糾紛，瞄準雅馬哈",
+    "summary_zh": ""
+  },
+  {
+    "title": "Goldman Sachs Says the Crowd Is Wrong on This Beaten-Down Medical Robotics Giant",
+    "url": "https://www.fool.com/investing/2026/07/15/goldman-sachs-says-the-crowd-is-wrong-on-this-beat/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "And Goldman Sachs may be right.",
+    "published_at": "2026-07-15T12:15:00+08:00",
+    "stocks": [],
+    "uid": "9bd7025aad5d65777d85e1688fbe77c7",
+    "title_en": "Goldman Sachs Says the Crowd Is Wrong on This Beaten-Down Medical Robotics Giant",
+    "summary_en": "And Goldman Sachs may be right.",
+    "title_zh": "高盛表示，大眾對這家遭受重創的醫療機器人巨頭的看法是錯誤的",
+    "summary_zh": "高盛也許是對的。"
+  },
+  {
+    "title": "Fantastic News for SpaceX Stock Investors!",
+    "url": "https://www.fool.com/investing/2026/07/15/fantastic-news-for-spacex-stock-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "It does come with several caveats.",
+    "published_at": "2026-07-15T12:05:00+08:00",
+    "stocks": [],
+    "uid": "7588678736657729865fc6df0eb02151",
+    "title_en": "Fantastic News for SpaceX Stock Investors!",
+    "summary_en": "It does come with several caveats.",
+    "title_zh": "SpaceX 股票投資者的好消息！",
+    "summary_zh": "它確實有幾個警告。"
+  },
+  {
+    "title": "Tech Investors and Longevity Influencers Back Neko Health’s Mega Round",
+    "url": "https://www.nytimes.com/2026/07/15/business/dealbook/neko-health-ek-funding.html",
+    "source": "NYT Business",
+    "summary": "The health tech start-up co-founded by Spotify’s Daniel Ek is worth billions more after a new $700 million funding round.",
+    "published_at": "2026-07-15T12:00:06+08:00",
+    "stocks": [],
+    "uid": "7f1479ed8496928a53530d9da5259c19",
+    "title_en": "Tech Investors and Longevity Influencers Back Neko Health’s Mega Round",
+    "summary_en": "The health tech start-up co-founded by Spotify’s Daniel Ek is worth billions more after a new $700 million funding round.",
+    "title_zh": "科技投資者和長壽影響者支持 Neko Health 的大型融資",
+    "summary_zh": "這家由 Spotify 的 Daniel Ek 共同創立的健康科技新創公司在新一輪 7 億美元融資後，市值增加了數十億美元。"
+  },
+  {
+    "title": "Exclusive-Stripe, Advent offer to buy PayPal for more than $53 billion, sources say",
+    "url": "https://www.investing.com/news/stock-market-news/exclusivestripe-advent-offer-to-buy-paypal-for-more-than-53-billion-sources-say-4792134",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-15T11:55:09+08:00",
+    "stocks": [],
+    "uid": "034379a58ab586e64fc0fa39989d9b62",
+    "title_en": "Exclusive-Stripe, Advent offer to buy PayPal for more than $53 billion, sources say",
+    "summary_en": "",
+    "title_zh": "消息人士稱，Stripe 和 Advent 提出以超過 530 億美元收購 PayPal",
+    "summary_zh": ""
+  },
+  {
+    "title": "China’s Q2 GDP growth cools to 3-1/2-year low, structural imbalances complicate policy",
+    "url": "https://www.investing.com/news/economy-news/chinas-q2-gdp-growth-slows-to-43-yy-misses-market-forecast-4792122",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-15T11:54:30+08:00",
+    "stocks": [],
+    "uid": "6992d52052f1a40820d0e9dc897d2f0b",
+    "title_en": "China’s Q2 GDP growth cools to 3-1/2-year low, structural imbalances complicate policy",
+    "summary_en": "",
+    "title_zh": "中國第二季GDP成長率降至3-1/2年低點，結構性失衡令政策複雜化",
+    "summary_zh": ""
+  },
+  {
+    "title": "Stripe, Advent offer to buy PayPal for over $53 bln- Reuters",
+    "url": "https://www.investing.com/news/stock-market-news/stripe-advent-offer-to-buy-paypal-for-over-53-bln-reuters-4792137",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-15T11:43:32+08:00",
+    "stocks": [],
+    "uid": "fe4b08276891ff651474621f4ebbedfd",
+    "title_en": "Stripe, Advent offer to buy PayPal for over $53 bln- Reuters",
+    "summary_en": "",
+    "title_zh": "Stripe 和 Advent 出價超過 530 億美元收購 PayPal - 路透社中文網",
+    "summary_zh": ""
+  },
+  {
+    "title": "Asia FX subdued as markets parse soft China GDP, M.East tensions",
+    "url": "https://www.investing.com/news/stock-market-news/asian-fx-mixed-as-yuan-outperforms-after-china-data-yen-steadies-near-40year-low-4792136",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-15T11:39:51+08:00",
+    "stocks": [],
+    "uid": "29ef8ee495fa8ad7688fd731e3fef2bc",
+    "title_en": "Asia FX subdued as markets parse soft China GDP, M.East tensions",
+    "summary_en": "",
+    "title_zh": "由於市場分析中國GDP疲軟和中東緊張局勢，亞洲外匯走低",
+    "summary_zh": ""
+  },
+  {
+    "title": "Taiwan’s premium mangoes wing their way to Europe for the first time",
+    "url": "https://www.investing.com/news/commodities-news/taiwans-premium-mangoes-wing-their-way-to-europe-for-the-first-time-4792121",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-15T11:36:47+08:00",
+    "stocks": [],
+    "uid": "f2f7f94c3409b9f29b7c7b9f73d4538b",
+    "title_en": "Taiwan’s premium mangoes wing their way to Europe for the first time",
+    "summary_en": "",
+    "title_zh": "台灣高品質芒果首次登陸歐洲",
+    "summary_zh": ""
+  },
+  {
+    "title": "Asia stocks rise on soft US CPI; traders weigh Iran tensions, China GDP miss",
+    "url": "https://www.investing.com/news/stock-market-news/asia-stocks-rise-on-soft-us-cpi-traders-weigh-iran-tensions-china-gdp-miss-4792135",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-15T11:36:08+08:00",
+    "stocks": [],
+    "uid": "e48fbc90afe9a6091c4c791282a1ae3c",
+    "title_en": "Asia stocks rise on soft US CPI; traders weigh Iran tensions, China GDP miss",
+    "summary_en": "",
+    "title_zh": "亞洲股市因美國消費物價指數疲軟而上漲；交易員權衡伊朗緊張局勢和中國GDP未達預期",
+    "summary_zh": ""
+  },
+  {
+    "title": "Is JPMorgan Chase a Buy After Its Latest Earnings Report?",
+    "url": "https://www.fool.com/investing/2026/07/14/is-jpmorgan-chase-a-buy-after-its-latest-earnings/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The monster bank absolutely obliterated analyst estimates.",
+    "published_at": "2026-07-15T11:32:47+08:00",
+    "stocks": [],
+    "uid": "147af9d4205b1a93f7534da77ba4e854",
+    "title_en": "Is JPMorgan Chase a Buy After Its Latest Earnings Report?",
+    "summary_en": "The monster bank absolutely obliterated analyst estimates.",
+    "title_zh": "摩根大通在最新財報發布後是否會買進？",
+    "summary_zh": "這家龐大的銀行完全打破了分析師的預期。"
+  },
+  {
+    "title": "Iran-linked vessels pass through Hormuz ahead of US blockade",
+    "url": "https://www.investing.com/news/commodities-news/iranlinked-vessels-pass-through-hormuz-ahead-of-us-blockade-4792133",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-15T11:24:29+08:00",
+    "stocks": [],
+    "uid": "23a1130588c7ce07621225ef2caf0660",
+    "title_en": "Iran-linked vessels pass through Hormuz ahead of US blockade",
+    "summary_en": "",
+    "title_zh": "在美國封鎖之前，與伊朗有關的船隻通過霍爾木茲海峽",
+    "summary_zh": ""
+  },
+  {
+    "title": "Appeals court ends US oversight of Louisiana school system related to desegregation mandate",
+    "url": "https://www.investing.com/news/politics-news/appeals-court-ends-us-oversight-of-louisiana-school-system-related-to-desegregation-mandate-4792132",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-15T11:12:35+08:00",
+    "stocks": [],
+    "uid": "69c9ae432990d65bd0cc60fe69ab544f",
+    "title_en": "Appeals court ends US oversight of Louisiana school system related to desegregation mandate",
+    "summary_en": "",
+    "title_zh": "上訴法院終止美國對路易斯安那州學校系統與廢除種族隔離命令相關的監督",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why Goldman Sachs Stock Jumped Today",
+    "url": "https://www.fool.com/investing/2026/07/14/why-goldman-sachs-stock-is-up-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Corporate dealmaking is booming.",
+    "published_at": "2026-07-15T11:00:02+08:00",
+    "stocks": [],
+    "uid": "3015f265389cf86b7ab663ab44ff3fdb",
+    "title_en": "Why Goldman Sachs Stock Jumped Today",
+    "summary_en": "Corporate dealmaking is booming.",
+    "title_zh": "為什麼高盛股價今天上漲",
+    "summary_zh": "企業交易正在蓬勃發展。"
+  },
+  {
     "title": "Gold steadies after CPI-led rally as Warsh tempers Fed rate cut optimism",
     "url": "https://www.investing.com/news/stock-market-news/gold-steadies-after-cpiled-rally-as-warsh-tempers-fed-rate-cut-optimism-4792087",
     "source": "Investing.com",
@@ -154,6 +375,19 @@
     "summary_en": "It was a brutal day for Big Blue's shareholders.",
     "title_zh": "為什麼 IBM 股票今天暴跌",
     "summary_zh": "對於藍色巨人的股東來說，這是殘酷的一天。"
+  },
+  {
+    "title": "Data Centers to Add Billions in Power Costs in 13 States",
+    "url": "https://www.nytimes.com/2026/07/14/business/energy-environment/pjm-electricity-prices-data-centers.html",
+    "source": "NYT Business",
+    "summary": "A power auction conducted by a giant grid operator is expected to add $6.3 billion in additional charges to consumers and businesses because of electricity needs of data centers.",
+    "published_at": "2026-07-15T08:39:01+08:00",
+    "stocks": [],
+    "uid": "2eb381d85fece938adce8fa4323e920f",
+    "title_en": "Data Centers to Add Billions in Power Costs in 13 States",
+    "summary_en": "A power auction conducted by a giant grid operator is expected to add $6.3 billion in additional charges to consumers and businesses because of electricity needs of data centers.",
+    "title_zh": "13 個州的資料中心將增加數十億美元的電力成本",
+    "summary_zh": "由於資料中心的電力需求，大型電網營運商進行的電力拍賣預計將為消費者和企業增加 63 億美元的額外費用。"
   },
   {
     "title": "Brace for $4 gas again: How U.S.-Iran tensions are threatening to end the price break at the pump",
@@ -1241,6 +1475,19 @@
     "summary_zh": "該股在過去一年中飆升了 295%，為預先安排的交易計劃下的結構化內部流動性提供了有利的窗口。"
   },
   {
+    "title": "Public Health Groups Sue F.D.A. Over Flavored E-Cigarette Policy",
+    "url": "https://www.nytimes.com/2026/07/14/health/flavored-vapes-fda.html",
+    "source": "NYT Business",
+    "summary": "Executives unhappy with the agency donated and lobbied President Trump directly. Major companies have already begun to prepare and ship new products.",
+    "published_at": "2026-07-15T04:28:16+08:00",
+    "stocks": [],
+    "uid": "3922e6488c033f97f7826b089452d24c",
+    "title_en": "Public Health Groups Sue F.D.A. Over Flavored E-Cigarette Policy",
+    "summary_en": "Executives unhappy with the agency donated and lobbied President Trump directly. Major companies have already begun to prepare and ship new products.",
+    "title_zh": "公共衛生組織起訴 FDA口味過重的電子煙政策",
+    "summary_zh": "對該機構不滿意的高層直接捐款並遊說川普總統。各大公司已經開始準備並出貨新產品。"
+  },
+  {
     "title": "RH Director Sells $412,000 in Stock After CEO's Big Sale — Here's What Investors Should Know",
     "url": "https://www.fool.com/coverage/filings/2026/07/14/rh-director-sells-usd412-000-in-stock-after-ceo-s-big-sale-here-s-what-investors-should-know/?source=iedfolrf0000001",
     "source": "Motley Fool",
@@ -1637,7 +1884,11 @@
     "summary": "The knee-jerk selling of Wells Fargo shares after a largely strong second-quarter earnings report made no sense.",
     "published_at": "2026-07-15T03:03:15+08:00",
     "stocks": [],
-    "uid": "4d643462d07d43349da339da4c377501"
+    "uid": "4d643462d07d43349da339da4c377501",
+    "title_en": "Wells Fargo did enough to remain in our portfolio. What we liked about earnings",
+    "summary_en": "The knee-jerk selling of Wells Fargo shares after a largely strong second-quarter earnings report made no sense.",
+    "title_zh": "富國銀行做了足夠多的事情來留在我們的投資組合中。我們喜歡收益的哪些方面",
+    "summary_zh": "在第二季財報基本上強勁後，富國銀行股的下意識拋售毫無意義。"
   },
   {
     "title": "OpenAI and Anthropic Are Developing Their Own Custom AI Chips: Here Are the Stocks That Could Benefit The Most",
@@ -1646,7 +1897,11 @@
     "summary": "The leading AI labs face a severe compute shortage, and custom silicon could help solve it.",
     "published_at": "2026-07-15T03:00:00+08:00",
     "stocks": [],
-    "uid": "a71d1be955dea20a2fe14c8249532394"
+    "uid": "a71d1be955dea20a2fe14c8249532394",
+    "title_en": "OpenAI and Anthropic Are Developing Their Own Custom AI Chips: Here Are the Stocks That Could Benefit The Most",
+    "summary_en": "The leading AI labs face a severe compute shortage, and custom silicon could help solve it.",
+    "title_zh": "OpenAI 和 Anthropic 正在開發自己的客製化人工智慧晶片：以下是受益最大的股票",
+    "summary_zh": "領先的人工智慧實驗室面臨嚴重的運算短缺，客製化晶片可以幫助解決這個問題。"
   },
   {
     "title": "2 Magnificent ETFs for Retirees That Pay More Than 3%",
@@ -1655,7 +1910,11 @@
     "summary": "These funds hold around 100 stocks each and have been outperforming the market this year.",
     "published_at": "2026-07-15T02:59:16+08:00",
     "stocks": [],
-    "uid": "42a0095f56c2f12c919ff7e528a30c5f"
+    "uid": "42a0095f56c2f12c919ff7e528a30c5f",
+    "title_en": "2 Magnificent ETFs for Retirees That Pay More Than 3%",
+    "summary_en": "These funds hold around 100 stocks each and have been outperforming the market this year.",
+    "title_zh": "2 只適合退休人員的 ETF，年利率超過 3%",
+    "summary_zh": "這些基金各自持有約 100 隻股票，今年的表現一直優於大盤。"
   },
   {
     "title": "US Treasury yields drop as June inflation slows more than expected",
@@ -1703,7 +1962,11 @@
     "summary": "Ford disposed of shares to cover tax withholding from vested restricted stock units, a non-discretionary transaction that left his $44.98 million equity stake largely intact.",
     "published_at": "2026-07-15T02:56:02+08:00",
     "stocks": [],
-    "uid": "c2e08afb2bc0796f99e97dc51f9ee499"
+    "uid": "c2e08afb2bc0796f99e97dc51f9ee499",
+    "title_en": "Lattice Semiconductor CEO Ford Tamer Sells Shares. What Does This Mean for Investors?",
+    "summary_en": "Ford disposed of shares to cover tax withholding from vested restricted stock units, a non-discretionary transaction that left his $44.98 million equity stake largely intact.",
+    "title_zh": "萊迪思半導體執行長福特·塔默出售股票。這對投資者意味著什麼？",
+    "summary_zh": "福特出售股票以支付既得限制性股票單位的預扣稅款，這是一項非全權交易，但他的 4,498 萬美元股權基本上完好無損。"
   },
   {
     "title": "Lucid rejects take-private, bankruptcy report after shares plunge",
@@ -1751,7 +2014,11 @@
     "summary": "The president now wants Gulf nations to invest in the U.S. in exchange for safe passage. Shipping industry experts worry other nations will follow that lead.",
     "published_at": "2026-07-15T02:50:34+08:00",
     "stocks": [],
-    "uid": "a0395248c9bea97cf473513a1dcf14bd"
+    "uid": "a0395248c9bea97cf473513a1dcf14bd",
+    "title_en": "Trump Flip-Flops on Strait of Hormuz, Creating New Risks for Global Economy",
+    "summary_en": "The president now wants Gulf nations to invest in the U.S. in exchange for safe passage. Shipping industry experts worry other nations will follow that lead.",
+    "title_zh": "川普在霍爾木茲海峽上“人字拖”，為全球經濟帶來新風險",
+    "summary_zh": "總統現在希望海灣國家在美國投資以換取安全通行。航運業專家擔心其他國家也會跟進。"
   },
   {
     "title": "We're raising our price target on Goldman Sachs after a blowout quarter, upbeat outlook",
@@ -1812,7 +2079,11 @@
     "summary": "Rushing into that stage of life could come back to bite you.",
     "published_at": "2026-07-15T02:46:00+08:00",
     "stocks": [],
-    "uid": "2b44d7f8b2a5f887d6388033154d2968"
+    "uid": "2b44d7f8b2a5f887d6388033154d2968",
+    "title_en": "Think You're Ready to Retire? 5 Signs You May Want to Wait.",
+    "summary_en": "Rushing into that stage of life could come back to bite you.",
+    "title_zh": "您認為您準備好退休了嗎？您可能需要等待的 5 個跡象。",
+    "summary_zh": "倉促進入人生的那個階段可能會反過來咬你一口。"
   },
   {
     "title": "Cosmos Health repurchases 133,000 shares at average $0.298",
@@ -7986,6 +8257,24 @@
     "summary_zh": "美國通膨飆升至三年來的最高點已經開始消退，但美國人的生活不會很快變得更加負擔得起。"
   },
   {
+    "title": "Applied Materials: The Picks-and-Shovels Play in an AI Era Will Continue to Trend Higher",
+    "url": "https://finance.yahoo.com/technology/ai/articles/applied-materials-picks-shovels-play-180444325.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T02:04:44+08:00",
+    "stocks": [],
+    "uid": "41f6523123253b68016da569fb95c159"
+  },
+  {
+    "title": "Circle Just Won a Major Banking Approval. This Could Be a Game Changer for CRCL Stock.",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/circle-just-won-major-banking-180252304.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T02:02:52+08:00",
+    "stocks": [],
+    "uid": "26e4131e15883c9f9515871571169f4e"
+  },
+  {
     "title": "I Used to Think $2 Million Was More Than I'd Ever Need for Retirement. Here's Why I've Changed My Mind.",
     "url": "https://www.fool.com/retirement/2026/07/13/used-to-think-2-million-was-more-than-id-ever-need/?source=iedfolrf0000001",
     "source": "Motley Fool",
@@ -8012,6 +8301,15 @@
     "summary_zh": "Figma 兩位數上漲背後的原因是什麼？答案涉及 42% 的空頭利息和大量機構買入。"
   },
   {
+    "title": "Citi Just Upped Its Price Target on Apple Stock. Here's Why.",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/citi-just-upped-price-target-175633270.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T01:56:33+08:00",
+    "stocks": [],
+    "uid": "9176de9f4117d397bb1874541999962a"
+  },
+  {
     "title": "Commercial Metals CEO Peter Matt Buys $500,000 in Shares. What Does This Mean for Investors Now?",
     "url": "https://www.fool.com/coverage/filings/2026/07/13/commercial-metals-ceo-peter-matt-buys-usd500-000-in-shares-what-does-this-mean-for-investors-now/?source=iedfolrf0000001",
     "source": "Motley Fool",
@@ -8023,6 +8321,33 @@
     "summary_en": "Matt's direct equity stake now totals 181,522 shares valued at $11.37 million, signaling confidence in the steelmaker's outlook.",
     "title_zh": "Commercial Metals 執行長 Peter Matt 購買了 50 萬美元的股票。這對現在的投資者意味著什麼？",
     "summary_zh": "Matt 的直接股權目前總計 181,522 股，價值 1,137 萬美元，顯示對這家鋼鐵製造商的前景充滿信心。"
+  },
+  {
+    "title": "This Volatile Growth Stock Is Up 50% In 3 Months. Don’t Rush to Buy Now.",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/volatile-growth-stock-50-3-175140212.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T01:51:40+08:00",
+    "stocks": [],
+    "uid": "225af1ad512b25e190e2bd62ee9b8cda"
+  },
+  {
+    "title": "Q2 Results for GE Aerospace Are Set to Be Strong, But a High Valuation Could Cap the Rally in GE Stock",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/q2-results-ge-aerospace-set-174919536.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T01:49:19+08:00",
+    "stocks": [],
+    "uid": "d02c601be72662aa480f4515f9d08b67"
+  },
+  {
+    "title": "FuelCell Just Landed a Major AI Partner. This Could Be a Game Changer for FCEL Stock.",
+    "url": "https://finance.yahoo.com/technology/ai/articles/fuelcell-just-landed-major-ai-174806871.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T01:48:06+08:00",
+    "stocks": [],
+    "uid": "fcf0b2f1fe6166136e1f803995991f7c"
   },
   {
     "title": "Coatue and Baillie Gifford Are Circling SK Hynix's Nasdaq Debut",
@@ -8051,6 +8376,15 @@
     "summary_zh": "SK 海力士股價經歷了國內市場有史以來最糟糕的一天。"
   },
   {
+    "title": "California-led states sue to block Paramount’s $110 billion Warner Bros Discovery deal",
+    "url": "https://finance.yahoo.com/media-advertising/articles/california-led-states-sue-block-174031648.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T01:40:31+08:00",
+    "stocks": [],
+    "uid": "2c5f9fc8d6efb93e4163f0d44531928c"
+  },
+  {
     "title": "Trump administration urges banks to scrutinize lending to immigrants without work authorization",
     "url": "https://www.cnbc.com/2026/07/13/regulators-urge-banks-to-scrutinize-loans-to-unauthorized-immigrants.html",
     "source": "CNBC Top",
@@ -8062,6 +8396,15 @@
     "summary_en": "Federal bank regulators issued guidance Monday seeking to curb mortgages, auto loans and other consumer credit to immigrants without U.S. work authorization.",
     "title_zh": "川普政府敦促銀行審查向未經工作授權的移民提供的貸款",
     "summary_zh": "聯邦銀行監管機構週一發布指導意見，尋求限制向未經美國工作授權的移民提供抵押貸款、汽車貸款和其他消費信貸。"
+  },
+  {
+    "title": "Pi Price News: PI Seems Headed to Zero as Token Unlocks Accelerate",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/pi-price-news-pi-seems-173635243.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T01:36:35+08:00",
+    "stocks": [],
+    "uid": "3a59514efdc77d3f90cfcdd9aa2f6cff"
   },
   {
     "title": "AI glasses have a new hater: Lorde",
@@ -8105,6 +8448,15 @@
     "summary_zh": "<strong id=\"dateline\">堪薩斯州奧弗蘭帕克 / <a href='https://www.accessnewswire.com/' rel=\"noopener nofollow\" target=\"_blank\">ACCESS Newswire</a> / 2026 年 7 月 13 日 / 非接觸式連續病原體控制技術的領導者 Synwary]達成策略合作，以擴大對..."
   },
   {
+    "title": "Oil Tanker Stock Benefits From Strait Of Hormuz Closure",
+    "url": "https://www.investors.com/research/oil-tanker-strait-of-hormuz-cmb-teach-cmbt-stock/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T01:34:30+08:00",
+    "stocks": [],
+    "uid": "cc671e5cf40bf61983304b271c020ebf"
+  },
+  {
     "title": "Lunar Outpost Europe Joins Moonraker Lunar Mapping Mission for ESA",
     "url": "https://markets.businessinsider.com/news/stocks/lunar-outpost-europe-joins-moonraker-lunar-mapping-mission-for-esa-1036319735",
     "source": "Business Insider",
@@ -8129,6 +8481,24 @@
     "summary_en": "AMLP's 7.7% dividend yield dwarfs ICLN's 0.94%, but ICLN surged 44% in one year versus AMLP's 15%. Which energy bet fits your portfolio?",
     "title_zh": "AMLP 與 ICLN：2026 年高收益 MLP 還是清潔能源成長股更值得買進？",
     "summary_zh": "AMLP 7.7% 的股息殖利率讓 ICLN 的 0.94% 相形見絀，但 ICLN 在一年內飆升了 44%，而 AMLP 為 15%。哪種能源賭注適合您的投資組合？"
+  },
+  {
+    "title": "‘AI Agents Without Context Are Just Guessing Faster’",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ai-agents-without-context-just-173120148.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T01:31:20+08:00",
+    "stocks": [],
+    "uid": "26e71a7783d195ee9caaf13de4837338"
+  },
+  {
+    "title": "Applied Materials Shows Huge Unusual Put Options Activity - a Bullish Signal",
+    "url": "https://finance.yahoo.com/markets/options/articles/applied-materials-shows-huge-unusual-173002475.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T01:30:02+08:00",
+    "stocks": [],
+    "uid": "2fa97bc04ed26c9b80ef13d7c942307e"
   },
   {
     "title": "Alvin George Discusses Entrepreneurial Funding Strategies on The Burns Equation Podcast",
@@ -8183,6 +8553,33 @@
     "summary_zh": "<表邊框=“0”><tr><td>\nEQS-Ad-hoc：Vossloh Aktiengesellschaft / 關鍵字：預測/全年/結果/半年<br/>\n\nVossloh Aktiengesellschaft：調整2026財年銷售收入與獲利指引[ <br/><br/>\n2026 年 7 月 13 日 / 19:20 CET/CEST<br/>\n\n內線資訊揭露至第 17 條..."
   },
   {
+    "title": "Cotton Fading Back Lower on Monday",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/cotton-fading-back-lower-monday-171646261.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T01:16:46+08:00",
+    "stocks": [],
+    "uid": "2ec615038884f0e4ac1e72b1a8dd24e9"
+  },
+  {
+    "title": "Corn Holding Higher at Monday’s Midday",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/corn-holding-higher-monday-midday-171645450.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T01:16:45+08:00",
+    "stocks": [],
+    "uid": "17aa8041f8153c42429999d4be8a6bd8"
+  },
+  {
+    "title": "Soybeans Posting Monday Rally",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/soybeans-posting-monday-rally-171645392.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T01:16:45+08:00",
+    "stocks": [],
+    "uid": "b676aafefd992ea9d67b551ba0279d55"
+  },
+  {
     "title": "Amazon Stock Hasn't Been This Cheap in Over a Decade. Has the Sell-Off Gone Too Far?",
     "url": "https://www.fool.com/investing/2026/07/13/amazon-stock-hasnt-been-this-cheap-in-over-decade/?source=iedfolrf0000001",
     "source": "Motley Fool",
@@ -8194,6 +8591,24 @@
     "summary_en": "Amazon's P/E ratio is near multiyear lows.",
     "title_zh": "亞馬遜股票十多年來從未如此便宜過。拋售是否已經太過分了？",
     "summary_zh": "亞馬遜的本益比接近多年來的低點。"
+  },
+  {
+    "title": "Mark Yusko compares SpaceX's $2 trillion valuation to Dogecoin, warns lockup expiry could trigger deeper selloff",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/mark-yusko-compares-spacexs-2-171500659.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T01:15:00+08:00",
+    "stocks": [],
+    "uid": "df0a78ac7aebaff2b4a62117a87c04ac"
+  },
+  {
+    "title": "Ahead of Taiwan Semiconductor Earnings, Here's What Barchart Data Says Comes Next for TSM Stock",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ahead-taiwan-semiconductor-earnings-heres-171216380.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T01:12:16+08:00",
+    "stocks": [],
+    "uid": "a527dc8b2dabf24afee75ba00b6e512f"
   },
   {
     "title": "EQS-News: Leifheit Aktiengesellschaft: Leifheit approves the execution of the FOCUS performance program to sustainably improve profitability and adjusts its forecast for FY 2026",
@@ -8261,6 +8676,15 @@
     "summary_zh": "該公司第四季財報將於本月稍後公佈。"
   },
   {
+    "title": "These overlooked chip stocks are getting an AI boost",
+    "url": "https://finance.yahoo.com/markets/article/these-overlooked-chip-stocks-are-getting-an-ai-boost-170342519.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T01:03:42+08:00",
+    "stocks": [],
+    "uid": "177cb0fc463a9138161a51499fed9409"
+  },
+  {
     "title": "Neutra Corp Targets Expanded Sponsor and CRO Relationships in Q3 & Q4 2026, Reaffirming Full Commitment to Life Sciences Growth",
     "url": "https://markets.businessinsider.com/news/stocks/neutra-corp-targets-expanded-sponsor-and-cro-relationships-in-q3-q4-2026-reaffirming-full-commitment-to-life-sciences-growth-1036319600",
     "source": "Business Insider",
@@ -8300,6 +8724,51 @@
     "summary_en": "One of these funds has averaged annual gains of 25% over the past decade.",
     "title_zh": "Vanguard S&P 500 ETF 非常出色。這些投資可能會更好。",
     "summary_zh": "其中一隻基金在過去十年中平均年收益為 25%。"
+  },
+  {
+    "title": "Iraq’s Oil Lifeline Has Been Saved, But For How Long?",
+    "url": "https://finance.yahoo.com/energy/articles/iraq-oil-lifeline-saved-long-170000491.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T01:00:00+08:00",
+    "stocks": [],
+    "uid": "aac506d20d51c081a3e6e5e018c44435"
+  },
+  {
+    "title": "Robinhood Chain's Early Momentum Is Being Driven By Meme Coins, Not Tokenized Stocks",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/robinhood-chains-early-momentum-being-165936698.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T00:59:36+08:00",
+    "stocks": [],
+    "uid": "e89b64da0f0e775031af6dc0d4cc17f5"
+  },
+  {
+    "title": "Borr Drilling vs. ProPetro: Which Energy Stock Profits From Higher Prices in 2026?",
+    "url": "https://finance.yahoo.com/energy/articles/borr-drilling-vs-propetro-energy-165927917.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T00:59:27+08:00",
+    "stocks": [],
+    "uid": "a4f5d748478a0aa05f25fa7fc99cc439"
+  },
+  {
+    "title": "Aspen-Owned $4B RIA Summitry Founder Steps Down, Elevates Two Co-CEOs",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/aspen-owned-4b-ria-summitry-165920306.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T00:59:20+08:00",
+    "stocks": [],
+    "uid": "bc63668aecf2149cf1d090696d24e7e8"
+  },
+  {
+    "title": "Microsoft’s CEO Lays Out the Next Massive AI Trade",
+    "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-ceo-lays-next-massive-165740041.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T00:57:40+08:00",
+    "stocks": [],
+    "uid": "e2ba8c2e7666c1ebccfe5643ade91d04"
   },
   {
     "title": "Trump calls for Congress to pass Clarity Act crypto bill to honor Lindsey Graham",
@@ -8508,6 +8977,15 @@
     "summary_en": "",
     "title_zh": "Nvidia、AMD、微軟的合作關係——以及這些線索——推動戴爾股價上漲",
     "summary_zh": ""
+  },
+  {
+    "title": "Dubai Crypto Hub Faces Test From Regional Conflict",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/dubai-crypto-hub-faces-test-164417795.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-14T00:44:17+08:00",
+    "stocks": [],
+    "uid": "414bf90f20c63cc228d658a33456de8b"
   },
   {
     "title": "Wildfire rages near Paris as heatwave scorches Europe",
