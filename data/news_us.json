@@ -1,5 +1,548 @@
 [
   {
+    "title": "SpaceX stock sinks below $135 IPO price for the first time",
+    "url": "https://www.cnbc.com/2026/07/15/spacex-spcx-stock-ipo-price.html",
+    "source": "CNBC Top",
+    "summary": "SpaceX shares fell for a fourth-straight session on Wednesday days after entering the Nasdaq-100",
+    "published_at": "2026-07-16T01:07:11+08:00",
+    "stocks": [],
+    "uid": "e081f4146f5c11a7ef29ac2430815abd",
+    "title_en": "SpaceX stock sinks below $135 IPO price for the first time",
+    "summary_en": "SpaceX shares fell for a fourth-straight session on Wednesday days after entering the Nasdaq-100",
+    "title_zh": "SpaceX 股價首度跌破 135 美元 IPO 價格",
+    "summary_zh": "進入納斯達克 100 指數後，SpaceX 股價週三連續第四個交易日下跌"
+  },
+  {
+    "title": "The Roth Conversion Strategy That Could Make or Break Your Tax Bill",
+    "url": "https://finance.yahoo.com/markets/options/articles/roth-conversion-strategy-could-break-165600031.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-16T00:56:00+08:00",
+    "stocks": [],
+    "uid": "38e639d53436221b6f7ce4ef45b89b85",
+    "title_en": "The Roth Conversion Strategy That Could Make or Break Your Tax Bill",
+    "summary_en": "",
+    "title_zh": "羅斯轉換策略可以成就或毀掉你的稅單",
+    "summary_zh": ""
+  },
+  {
+    "title": "Trump's DNI pick Jay Clayton won't tell senators Biden won the 2020 election",
+    "url": "https://www.cnbc.com/2026/07/15/trump-dni-jay-clayton-senate-2020-election.html",
+    "source": "CNBC Top",
+    "summary": "The Senate Intelligence Committee is considering Jay Clayton's nomination to be the director of national of intelligence.",
+    "published_at": "2026-07-16T00:54:26+08:00",
+    "stocks": [],
+    "uid": "8ab8887a157356858dc71fef5af62f86",
+    "title_en": "Trump's DNI pick Jay Clayton won't tell senators Biden won the 2020 election",
+    "summary_en": "The Senate Intelligence Committee is considering Jay Clayton's nomination to be the director of national of intelligence.",
+    "title_zh": "川普的國家情報總監 (DNI) 人選傑伊·克萊頓 (Jay Clayton) 不會告訴參議員拜登贏得 2020 年大選",
+    "summary_zh": "參議院情報委員會正在考慮提名傑伊·克萊頓擔任國家情報總監。"
+  },
+  {
+    "title": "Bank of Hawaii stock hits 52-week high at $83.82",
+    "url": "https://www.investing.com/news/company-news/bank-of-hawaii-stock-hits-52week-high-at-8382-93CH-4793953",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-16T00:49:30+08:00",
+    "stocks": [],
+    "uid": "fd23471a4b7280e0fdd648ba42f5a7ce",
+    "title_en": "Bank of Hawaii stock hits 52-week high at $83.82",
+    "summary_en": "",
+    "title_zh": "夏威夷銀行股價觸及 52 週新至 83.82 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Amazon Leo to offer satellite internet in South Africa",
+    "url": "https://www.investing.com/news/stock-market-news/amazon-leo-to-offer-satellite-internet-in-south-africa-93CH-4793952",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-16T00:49:29+08:00",
+    "stocks": [],
+    "uid": "39c130bcb83a398a2d1b2ccbc2077c33",
+    "title_en": "Amazon Leo to offer satellite internet in South Africa",
+    "summary_en": "",
+    "title_zh": "亞馬遜 Leo 將在南非提供衛星互聯網",
+    "summary_zh": ""
+  },
+  {
+    "title": "Community Bank System Inc stock hits 52-week high at 69.26 USD",
+    "url": "https://www.investing.com/news/company-news/community-bank-system-inc-stock-hits-52week-high-at-6926-usd-93CH-4793951",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-16T00:49:10+08:00",
+    "stocks": [],
+    "uid": "b95e60b7dd2c9c5ccb228e439f09d267",
+    "title_en": "Community Bank System Inc stock hits 52-week high at 69.26 USD",
+    "summary_en": "",
+    "title_zh": "社區銀行系統公司股價觸及 52 週新至 69.26 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Enliven Therapeutics stock hits 52-week high at 52.47 USD",
+    "url": "https://www.investing.com/news/company-news/enliven-therapeutics-stock-hits-52week-high-at-5247-usd-93CH-4793950",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-16T00:49:08+08:00",
+    "stocks": [],
+    "uid": "cac7d244719081c4890cb311ff90ecf7",
+    "title_en": "Enliven Therapeutics stock hits 52-week high at 52.47 USD",
+    "summary_en": "",
+    "title_zh": "Enliven Therapeutics 股價觸及 52 週新至 52.47 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Sonoco declares $0.54 quarterly dividend, 405th consecutive",
+    "url": "https://www.investing.com/news/company-news/sonoco-declares-054-quarterly-dividend-405th-consecutive-93CH-4793949",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-16T00:48:51+08:00",
+    "stocks": [],
+    "uid": "0572e258756bbde21219cd30f92ac7b9",
+    "title_en": "Sonoco declares $0.54 quarterly dividend, 405th consecutive",
+    "summary_en": "",
+    "title_zh": "Sonoco 連續第 405 次宣布季度股息 0.54 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Money funds shorten maturities amid Fed policy uncertainty",
+    "url": "https://www.investing.com/news/stock-market-news/money-funds-shorten-maturities-amid-fed-policy-uncertainty-93CH-4793948",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-16T00:48:34+08:00",
+    "stocks": [],
+    "uid": "86da9bc6b1030e0c095bc5f512f797ea",
+    "title_en": "Money funds shorten maturities amid Fed policy uncertainty",
+    "summary_en": "",
+    "title_zh": "由於聯準會政策不確定性，貨幣基金縮短期限",
+    "summary_zh": ""
+  },
+  {
+    "title": "372 large US bankruptcies get unexpected credit market response",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/372-large-us-bankruptcies-unexpected-164700868.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-16T00:47:00+08:00",
+    "stocks": [],
+    "uid": "72e9f2e04bc9f4dd17623ceea7a584b8",
+    "title_en": "372 large US bankruptcies get unexpected credit market response",
+    "summary_en": "",
+    "title_zh": "美國372家大破產企業獲得信貸市場意外反應",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why is Nakamoto (NAKA) stock surging on July 15?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-nakamoto-naka-stock-surging-164518912.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-16T00:45:18+08:00",
+    "stocks": [
+      "NAKA"
+    ],
+    "uid": "089335b4e8f6483cbb69e0f40ec64257",
+    "title_en": "Why is Nakamoto (NAKA) stock surging on July 15?",
+    "summary_en": "",
+    "title_zh": "為什麼中本聰（NAKA）股價在7月15日飆漲？",
+    "summary_zh": ""
+  },
+  {
+    "title": "How To Make An Iron Condor Take Off With Broadcom Stock",
+    "url": "https://www.investors.com/research/options/broadcom-avgo-stock-iron-condor-options/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-16T00:45:11+08:00",
+    "stocks": [],
+    "uid": "2b0e3136ba60c97a4d1121b194b9ebbd",
+    "title_en": "How To Make An Iron Condor Take Off With Broadcom Stock",
+    "summary_en": "",
+    "title_zh": "如何利用博通股票讓鐵禿鷹起飛",
+    "summary_zh": ""
+  },
+  {
+    "title": "Queer Eye’s Tan France says one ‘very American’ money habit makes him 'physically sick’ — here's where he draws the line",
+    "url": "https://finance.yahoo.com/economy/policy/articles/queer-eye-tan-france-says-164500616.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-16T00:45:00+08:00",
+    "stocks": [],
+    "uid": "8cb13e256a80185d9792da7db79a717d",
+    "title_en": "Queer Eye’s Tan France says one ‘very American’ money habit makes him 'physically sick’ — here's where he draws the line",
+    "summary_en": "",
+    "title_zh": "《粉雄救兵》的譚·弗朗斯 (Tan France) 表示，一種「非常美國式」的金錢習慣讓他「身體不適」——這就是他的底線",
+    "summary_zh": ""
+  },
+  {
+    "title": "SpaceX’s slide risks turning blockbuster IPO into confidence test",
+    "url": "https://www.investing.com/news/stock-market-news/spacexs-slide-risks-turning-blockbuster-ipo-into-confidence-test-4792669",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-16T00:43:52+08:00",
+    "stocks": [],
+    "uid": "2e357b7aeefe714184b76f33d805dfda",
+    "title_en": "SpaceX’s slide risks turning blockbuster IPO into confidence test",
+    "summary_en": "",
+    "title_zh": "SpaceX 的下滑可能會將重磅 IPO 變成信心考驗",
+    "summary_zh": ""
+  },
+  {
+    "title": "Republican presses Blanche on Trump-IRS settlement at Senate hearing",
+    "url": "https://www.investing.com/news/general-news/blanche-to-face-senate-grilling-in-bid-to-be-trumps-attorney-general-4792668",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-16T00:43:35+08:00",
+    "stocks": [],
+    "uid": "72e785e230eab93dcf44e441ff357b80",
+    "title_en": "Republican presses Blanche on Trump-IRS settlement at Senate hearing",
+    "summary_en": "",
+    "title_zh": "共和黨人在參議院聽證會上就川普與國稅局的和解向布蘭奇施壓",
+    "summary_zh": ""
+  },
+  {
+    "title": "Major U.S. banks report resilient consumer spending trends",
+    "url": "https://www.investing.com/news/stock-market-news/major-us-banks-report-resilient-consumer-spending-trends-93CH-4793946",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-16T00:43:04+08:00",
+    "stocks": [],
+    "uid": "4cae5ab728427d9c8e8d460f73a8ec1e",
+    "title_en": "Major U.S. banks report resilient consumer spending trends",
+    "summary_en": "",
+    "title_zh": "美國主要銀行報告消費者支出趨勢強勁",
+    "summary_zh": ""
+  },
+  {
+    "title": "SpaceX shares slide below IPO price for the first time as blistering rally unravels",
+    "url": "https://www.investing.com/news/stock-market-news/spacex-shares-slide-below-ipo-price-as-blistering-rally-unravels-4793926",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-16T00:42:53+08:00",
+    "stocks": [],
+    "uid": "53e78716ff9950887b5518442bfed449",
+    "title_en": "SpaceX shares slide below IPO price for the first time as blistering rally unravels",
+    "summary_en": "",
+    "title_zh": "隨著強勁反彈的結束，SpaceX 股價首次跌破 IPO 價格",
+    "summary_zh": ""
+  },
+  {
+    "title": "Dell Falls 14%, HPE and Super Micro Slide as AI Hardware Stocks Give Back Gains",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/dell-falls-14-hpe-super-164251809.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-16T00:42:51+08:00",
+    "stocks": [],
+    "uid": "7d2977248d65a231a28e58669e5382a4",
+    "title_en": "Dell Falls 14%, HPE and Super Micro Slide as AI Hardware Stocks Give Back Gains",
+    "summary_en": "",
+    "title_zh": "人工智慧硬體股回吐漲幅，戴爾下跌 14%，HPE 和 Super Micro 下滑",
+    "summary_zh": ""
+  },
+  {
+    "title": "What Is the Vanguard Small-Cap Value ETF, and Should You Buy It?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/vanguard-small-cap-value-etf-163500594.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-16T00:35:00+08:00",
+    "stocks": [],
+    "uid": "78af5b17732c44dd2b1e3fc6164b2512",
+    "title_en": "What Is the Vanguard Small-Cap Value ETF, and Should You Buy It?",
+    "summary_en": "",
+    "title_zh": "什麼是先鋒小型股價值 ETF，您應該購買嗎？",
+    "summary_zh": ""
+  },
+  {
+    "title": "Is The Coca-Cola Company (KO) A Good Stock To Buy Now?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-company-ko-good-163243200.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-16T00:32:43+08:00",
+    "stocks": [
+      "KO"
+    ],
+    "uid": "fbfa66d6bf08cd516c5f1ff24248c1fa",
+    "title_en": "Is The Coca-Cola Company (KO) A Good Stock To Buy Now?",
+    "summary_en": "",
+    "title_zh": "可口可樂公司（KO）現在是值得買入的好股票嗎？",
+    "summary_zh": ""
+  },
+  {
+    "title": "IBM employees watch $400 million vanish as stock hits worst day — a reminder about holding too much company stock",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ibm-employees-watch-400-million-162722699.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-16T00:27:22+08:00",
+    "stocks": [],
+    "uid": "9b0f19df6744c17d8a0611849f702cb6",
+    "title_en": "IBM employees watch $400 million vanish as stock hits worst day — a reminder about holding too much company stock",
+    "summary_en": "",
+    "title_zh": "隨著股價遭遇最糟糕的一天，IBM 員工眼睜睜地看著 4 億美元消失——提醒人們持有過多的公司股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Microsoft Stock Hit With Price-Target Cuts After Flaccid Performance",
+    "url": "https://www.investors.com/news/technology/microsoft-stock-hit-with-price-target-cuts-after-flaccid-performance/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-16T00:22:11+08:00",
+    "stocks": [],
+    "uid": "af2eaca769090849ce357df24caaffcd",
+    "title_en": "Microsoft Stock Hit With Price-Target Cuts After Flaccid Performance",
+    "summary_en": "",
+    "title_zh": "微軟股價表現疲軟後遭遇目標價下調",
+    "summary_zh": ""
+  },
+  {
+    "title": "It’s a buyer’s market for bonds",
+    "url": "https://www.marketwatch.com/story/its-a-buyers-market-for-bonds-aeba3adc?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Bonds are out of fashion with big investors — which makes them an interesting investment opportunity for the rest of us.",
+    "published_at": "2026-07-16T00:16:00+08:00",
+    "stocks": [],
+    "uid": "e2284c482fb825cdbe5baf8e90facd50",
+    "title_en": "It’s a buyer’s market for bonds",
+    "summary_en": "Bonds are out of fashion with big investors — which makes them an interesting investment opportunity for the rest of us.",
+    "title_zh": "這是債券的買方市場",
+    "summary_zh": "債券對大投資者來說已經過時了，這對我們其他人來說卻是一個有趣的投資機會。"
+  },
+  {
+    "title": "America’s oil refiners could more than triple profits as Iran war sparks massive boom",
+    "url": "https://www.marketwatch.com/story/americas-oil-refiners-could-more-than-triple-profits-as-iran-war-sparks-massive-boom-c3ad5d33?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "U.S. oil refiners are about to report a historic profit surge as the industry takes advantage of supply disruptions.",
+    "published_at": "2026-07-16T00:14:00+08:00",
+    "stocks": [],
+    "uid": "45c954ad3f5df27a0771716a6a32f9d6",
+    "title_en": "America’s oil refiners could more than triple profits as Iran war sparks massive boom",
+    "summary_en": "U.S. oil refiners are about to report a historic profit surge as the industry takes advantage of supply disruptions.",
+    "title_zh": "伊朗戰爭引發大規模繁榮，美國煉油商利潤可能增加兩倍以上",
+    "summary_zh": "隨著該行業利用供應中斷的機會，美國煉油商即將報告歷史性的利潤激增。"
+  },
+  {
+    "title": "Stocks rise after soft US inflation reading with Middle East in focus",
+    "url": "https://finance.yahoo.com/news/asian-stocks-gain-drop-us-015011670.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-16T00:12:36+08:00",
+    "stocks": [],
+    "uid": "37f8afc4f0800b22c817e1ce55fd5c0c",
+    "title_en": "Stocks rise after soft US inflation reading with Middle East in focus",
+    "summary_en": "",
+    "title_zh": "美國通膨疲軟，中東成為焦點，股市上漲",
+    "summary_zh": ""
+  },
+  {
+    "title": "SpaceX shares slide below IPO price for the first time as blistering rally unravels",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-shares-slide-below-ipo-161235621.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-16T00:12:35+08:00",
+    "stocks": [],
+    "uid": "bcb424e8cb6e3604c8a5751327c61af1"
+  },
+  {
+    "title": "New Dow Jones AI Data Center Play Flashes A Buy Signal",
+    "url": "https://www.investors.com/news/3m-dow-jones-ai-data-center-play-buy-signal/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-16T00:03:36+08:00",
+    "stocks": [],
+    "uid": "fc57e5bfaac78827e4dec238fd3f6d4e"
+  },
+  {
+    "title": "Morgan Stanley Picks Its Top Three Defense Stocks. One Has 100% Upside.",
+    "url": "https://www.investors.com/news/morgan-stanley-northrop-grumman-ftai-aviation-hawkeye-360-defense-aerospace/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-16T00:01:53+08:00",
+    "stocks": [],
+    "uid": "c5a4800d40a0243d6457bb0a0cc9186e"
+  },
+  {
+    "title": "More people are reaching their 60s than ever before — and it’s an incredible investing opportunity",
+    "url": "https://www.marketwatch.com/story/more-people-are-reaching-their-60s-than-ever-before-and-its-an-incredible-investing-opportunity-367cc8b8?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The world is getting older. Here’s how that’s going to change things.",
+    "published_at": "2026-07-15T23:57:00+08:00",
+    "stocks": [],
+    "uid": "17815db668305a4d4d4878dbaed8ebab"
+  },
+  {
+    "title": "SpaceX Stock Is Already Down 37% From Its Peak. Here's What Deutsche Bank's $255 Target Says Happens Next",
+    "url": "https://www.fool.com/investing/2026/07/15/spacex-stock-down-from-peak-deutsche-bank/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "SpaceX has fallen about 37% from its peak, but Wall Street still sees big upside. Here's why the story may not be over.",
+    "published_at": "2026-07-15T23:55:00+08:00",
+    "stocks": [],
+    "uid": "144cba7539898ed35134af6d5dfba852"
+  },
+  {
+    "title": "America made 1,200 new millionaires every day last year — the 4 disciplined habits legendary investors say actually work",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/america-made-1-200-millionaires-154500661.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T23:45:00+08:00",
+    "stocks": [],
+    "uid": "15f172f3fb0f75d51b3c36529ae70c54"
+  },
+  {
+    "title": "Down 18%, Should You Buy Rivian Stock After Its Biggest 1-Day Drop Since November 2024?",
+    "url": "https://www.fool.com/investing/2026/07/15/down-18-buy-rivian-stock-after-big-drop/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "A new stock offering is the latest symptom of an ongoing problem.",
+    "published_at": "2026-07-15T23:45:00+08:00",
+    "stocks": [],
+    "uid": "b95239bbf7f5267c5f2020e671c54357"
+  },
+  {
+    "title": "RBC Capital Reaffirms Outperform Rating For Verastem (VSTM)",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/rbc-capital-reaffirms-outperform-rating-154312539.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T23:43:12+08:00",
+    "stocks": [
+      "VSTM"
+    ],
+    "uid": "117c1f59cf599742004ba21b37a8e83e"
+  },
+  {
+    "title": "Sable Offshore (SOC) Offers Impressive Upside Despite Jefferies’ Target Price Reduction",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/sable-offshore-soc-offers-impressive-154310876.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T23:43:10+08:00",
+    "stocks": [
+      "SOC"
+    ],
+    "uid": "b24a0fe34c9174ba02f167f5284d78a8"
+  },
+  {
+    "title": "Larimar Therapeutics (LRMR) Submits Initial Module of BLA For Nomlabofusp Therapy",
+    "url": "https://finance.yahoo.com/healthcare/articles/larimar-therapeutics-lrmr-submits-initial-154308058.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T23:43:08+08:00",
+    "stocks": [
+      "LRMR"
+    ],
+    "uid": "2afce5e6f398244b6437616b06c5690e"
+  },
+  {
+    "title": "SAB Biotherapeutics (SABS) and Breakthrough T1D Award Research Grant For SAB-142 Assessment",
+    "url": "https://finance.yahoo.com/healthcare/articles/sab-biotherapeutics-sabs-breakthrough-t1d-154307842.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T23:43:07+08:00",
+    "stocks": [
+      "SABS"
+    ],
+    "uid": "b3fecf4b277b4ca52c13b1ebedd8010d"
+  },
+  {
+    "title": "Here Is Why AtaiBeckley (ATAI) Is One Of The 10 Best Stocks Under $10 That Could Triple",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-ataibeckley-atai-one-10-154305765.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T23:43:05+08:00",
+    "stocks": [
+      "ATAI"
+    ],
+    "uid": "d8ff19985c7de5994a9497436e48ba68"
+  },
+  {
+    "title": "What Makes Lexeo Therapeutics (LXEO) One of The Best Stocks Under $10 That Could Triple",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/makes-lexeo-therapeutics-lxeo-one-154304169.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T23:43:04+08:00",
+    "stocks": [
+      "LXEO"
+    ],
+    "uid": "10842285ee8a060b53a9e312f02093da"
+  },
+  {
+    "title": "Sharplink (SBET) Improves Financial Position With Open Market Stock Repurchase",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/sharplink-sbet-improves-financial-position-154302569.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T23:43:02+08:00",
+    "stocks": [
+      "SBET"
+    ],
+    "uid": "047bcf43eb80182bae045bde58c45c3a"
+  },
+  {
+    "title": "Omeros (OMER) is Amongst The Best Names Under $10 That Could Yield More Than 200% Return",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/omeros-omer-amongst-best-names-154300330.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T23:43:00+08:00",
+    "stocks": [
+      "OMER"
+    ],
+    "uid": "73a3d42f59a3b93d8ebfaa2addf51568"
+  },
+  {
+    "title": "Prediction: AMD Stock Will Soar After Aug. 4. The Reason Is Hiding in Plain Sight",
+    "url": "https://www.fool.com/investing/2026/07/15/prediction-amd-stock-will-soar-after-aug-4-the-rea/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The growing demand for server CPUs to handle agentic AI and inference workloads will be one of the biggest catalysts for AMD this earnings season.",
+    "published_at": "2026-07-15T23:33:00+08:00",
+    "stocks": [],
+    "uid": "e0dea80f4a2f3b198922bf2f824154de"
+  },
+  {
+    "title": "Copper is shadowing the AI hyperscaler stocks — but wait for a dip before buying",
+    "url": "https://www.marketwatch.com/story/copper-is-shadowing-the-hyperscaler-stocks-but-wait-for-a-dip-before-buying-8fe7adcc?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Copper prices have climbed 12.5% since the start of the year, with Nvidia and Broadcom up around the same amount in that time.",
+    "published_at": "2026-07-15T23:32:00+08:00",
+    "stocks": [],
+    "uid": "c1cb898d66526e114d82c72077bcb9d3"
+  },
+  {
+    "title": "Why Did Eos Energy Stock Jump Today?",
+    "url": "https://www.fool.com/investing/2026/07/15/why-did-eos-energy-stock-jump-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Eos Energy says its business is booming.",
+    "published_at": "2026-07-15T23:31:13+08:00",
+    "stocks": [],
+    "uid": "fc07d79b7a6f10a198ddfc624f61f7a2"
+  },
+  {
+    "title": "Jim Cramer sees more upside for Goldman and addresses Wells Fargo's biggest question",
+    "url": "https://www.cnbc.com/2026/07/15/jim-cramer-on-goldman-sachs-wells-fargo-earnings.html",
+    "source": "CNBC Top",
+    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+    "published_at": "2026-07-15T23:29:49+08:00",
+    "stocks": [],
+    "uid": "8cf7c9f0c8c375e478b1359a2f1b78fe"
+  },
+  {
+    "title": "Why Fiserv Stock Just Popped",
+    "url": "https://www.fool.com/investing/2026/07/15/why-fiserv-stock-just-popped/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "If PayPal stock is cheap, and Fiserv stock is cheaper -- maybe Fiserv is a buyout target, too?",
+    "published_at": "2026-07-15T23:18:53+08:00",
+    "stocks": [],
+    "uid": "8f3f61db2c72582ebf3069bc63495d43"
+  },
+  {
+    "title": "Oracle Stock Is Down 60%: Why Its AI Cloud Explosion Makes It a Compelling Buy",
+    "url": "https://www.fool.com/investing/2026/07/15/oracle-down-60-why-ai-cloud-compelling-buy/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "A massive disconnect has emerged between Oracle's stock price and its cloud momentum.",
+    "published_at": "2026-07-15T23:15:00+08:00",
+    "stocks": [],
+    "uid": "ae9712b844d4e56465ef6df3e83f983c"
+  },
+  {
+    "title": "5 Stocks to Buy If the Market Drops Again",
+    "url": "https://www.fool.com/investing/2026/07/15/5-stocks-to-buy-if-the-market-drops-again/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "A pullback would be painful, but it could also hand investors a rare shot at some of the market's best names.",
+    "published_at": "2026-07-15T23:08:48+08:00",
+    "stocks": [],
+    "uid": "8e7b43bb7ff5c36a17efa0e322cca740"
+  },
+  {
     "title": "Alcoa to build gallium plant at Wagerup refinery",
     "url": "https://finance.yahoo.com/energy/articles/alcoa-build-gallium-plant-wagerup-150807152.html",
     "source": "Yahoo Finance",
@@ -39,6 +582,15 @@
     "summary_zh": ""
   },
   {
+    "title": "SpaceX stock on watch after hitting all-time low, dips below IPO price",
+    "url": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-on-watch-after-hitting-all-time-low-dips-below-ipo-price-150542970.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T23:05:42+08:00",
+    "stocks": [],
+    "uid": "320ed596554399f1ebd02e41ab1b147d"
+  },
+  {
     "title": "Goldman’s Former Top Lawyer Calls Epstein a ‘Masterful Liar’",
     "url": "https://www.nytimes.com/2026/07/15/business/goldman-kathy-ruemmler-epstein.html",
     "source": "NYT Business",
@@ -52,6 +604,24 @@
     "summary_zh": "高盛前總法律顧問凱瑟琳·呂姆勒週三在調查傑弗裡·愛潑斯坦的國會閉門聽證會上作證。"
   },
   {
+    "title": "Which Is the Better Value Stock: Microsoft or Nvidia?",
+    "url": "https://www.fool.com/investing/2026/07/15/which-is-the-better-value-stock-microsoft-or-nvidi/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "These tech giants aren't trading at their usual premium valuations.",
+    "published_at": "2026-07-15T23:05:00+08:00",
+    "stocks": [],
+    "uid": "58727e757c1a6d98a17f463a34f8c180"
+  },
+  {
+    "title": "PayPal Might Be Getting Acquired. Here's What I'm Doing With My Position",
+    "url": "https://www.fool.com/investing/2026/07/15/paypal-might-be-getting-acquired-heres-what-im-doi/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "A potential buyout is shaking up the stock, forcing every PayPal shareholder to think through a decision.",
+    "published_at": "2026-07-15T23:04:16+08:00",
+    "stocks": [],
+    "uid": "06c34733ce0c7f8cd038924794c93ddf"
+  },
+  {
     "title": "QCAD Adds TD as Reserve Custodian in Push for Wider Canadian Adoption",
     "url": "https://finance.yahoo.com/markets/crypto/articles/qcad-adds-td-custodian-push-150100864.html",
     "source": "Yahoo Finance",
@@ -63,6 +633,15 @@
     "summary_en": "",
     "title_zh": "QCAD 增加 TD 作為儲備託管人，推動加拿大更廣泛的採用",
     "summary_zh": ""
+  },
+  {
+    "title": "Why PayPal Stock Just Went to the Moon",
+    "url": "https://www.fool.com/investing/2026/07/15/why-paypal-stock-just-went-to-the-moon/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "PayPal stock got cheap, and now private companies want to own it.",
+    "published_at": "2026-07-15T23:00:56+08:00",
+    "stocks": [],
+    "uid": "2948b164140bc8c12b22ae66f05e92fe"
   },
   {
     "title": "Lucid Rises 18% as EV Maker Denies Bankruptcy Claims, Analyst Assures Sufficient Funding",
