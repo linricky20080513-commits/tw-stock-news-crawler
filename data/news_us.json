@@ -1,5 +1,552 @@
 [
   {
+    "title": "As prediction markets boom, questions arise over who will be the watchdog",
+    "url": "https://www.cnbc.com/2026/07/16/the-sec-may-get-involved-as-prediction-market-bring-new-contracts.html",
+    "source": "CNBC Top",
+    "summary": "As new contract types are introduced, prediction markets may have to work under two regulatory bodies.",
+    "published_at": "2026-07-17T00:57:33+08:00",
+    "stocks": [],
+    "uid": "ac1ee8ffd1bc5541d8a4028c0aa890c3",
+    "title_en": "As prediction markets boom, questions arise over who will be the watchdog",
+    "summary_en": "As new contract types are introduced, prediction markets may have to work under two regulatory bodies.",
+    "title_zh": "隨著預測市場的繁榮，出現了誰會成為監管者的問題",
+    "summary_zh": "隨著新合約類型的推出，預測市場可能必須在兩個監管機構的監管下運作。"
+  },
+  {
+    "title": "Between Your Last Paycheck and Your First RMD Sits the Lowest Tax Rate You’ll Ever See",
+    "url": "https://finance.yahoo.com/economy/policy/articles/between-last-paycheck-first-rmd-165433112.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-17T00:54:33+08:00",
+    "stocks": [],
+    "uid": "8e97b0fb440e47c58ae956b7f14fc61f",
+    "title_en": "Between Your Last Paycheck and Your First RMD Sits the Lowest Tax Rate You’ll Ever See",
+    "summary_en": "",
+    "title_zh": "在您最後一次薪水和您的第一個 RMD 之間，稅率是您所見過的最低稅率",
+    "summary_zh": ""
+  },
+  {
+    "title": "Form 4 Kroger For: 16 July",
+    "url": "https://www.investing.com/news/filings/form-4-kroger-for-16-july-93CH-4796472",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-17T00:51:09+08:00",
+    "stocks": [],
+    "uid": "679b2099a8acf2f6da81e4ff56fe673f",
+    "title_en": "Form 4 Kroger For: 16 July",
+    "summary_en": "",
+    "title_zh": "表 4 Kroger 適用日期：7 月 16 日",
+    "summary_zh": ""
+  },
+  {
+    "title": "Form 4 Associated Banc-Corp For: 16 July",
+    "url": "https://www.investing.com/news/filings/form-4-associated-banccorp-for-16-july-93CH-4796471",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-17T00:51:07+08:00",
+    "stocks": [],
+    "uid": "da90f0a6e69fb651ebe3a030b09f4e5b",
+    "title_en": "Form 4 Associated Banc-Corp For: 16 July",
+    "summary_en": "",
+    "title_zh": "表 4 聯合銀行公司 日期：7 月 16 日",
+    "summary_zh": ""
+  },
+  {
+    "title": "Form 4 Associated Banc-Corp For: 16 July",
+    "url": "https://www.investing.com/news/filings/form-4-associated-banccorp-for-16-july-93CH-4796470",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-17T00:51:07+08:00",
+    "stocks": [],
+    "uid": "05916c4b146c5df3f7f17073b7cd80fe",
+    "title_en": "Form 4 Associated Banc-Corp For: 16 July",
+    "summary_en": "",
+    "title_zh": "表 4 聯合銀行公司 日期：7 月 16 日",
+    "summary_zh": ""
+  },
+  {
+    "title": "Earnings call transcript: Pullup Entertainment Q1 2026 shows revenue drop",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-pullup-entertainment-q1-2026-shows-revenue-drop-93CH-4796469",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-17T00:50:18+08:00",
+    "stocks": [],
+    "uid": "071b5b59ba7120ef2049457dcb770b8c",
+    "title_en": "Earnings call transcript: Pullup Entertainment Q1 2026 shows revenue drop",
+    "summary_en": "",
+    "title_zh": "財報電話會議紀錄：Pullup Entertainment 2026 年第一季營收下降",
+    "summary_zh": ""
+  },
+  {
+    "title": "Big Tech earnings will put focus on AI spending",
+    "url": "https://finance.yahoo.com/technology/article/big-tech-earnings-will-put-focus-on-ai-spending-165004022.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-17T00:50:04+08:00",
+    "stocks": [],
+    "uid": "ac1cc4ffe891e338defe65326b6adfd4",
+    "title_en": "Big Tech earnings will put focus on AI spending",
+    "summary_en": "",
+    "title_zh": "大型科技公司的獲利將集中在人工智慧支出上",
+    "summary_zh": ""
+  },
+  {
+    "title": "Earnings call transcript: State Street beats Q2 2026 estimates, raises outlook",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-state-street-beats-q2-2026-estimates-raises-outlook-93CH-4796467",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-17T00:49:51+08:00",
+    "stocks": [],
+    "uid": "6b8df45ff7f7fabb69c2f534c3db1ed6",
+    "title_en": "Earnings call transcript: State Street beats Q2 2026 estimates, raises outlook",
+    "summary_en": "",
+    "title_zh": "財報電話會議紀錄：道富銀行超出 2026 年第二季預期，調高前景",
+    "summary_zh": ""
+  },
+  {
+    "title": "Form 4 Associated Banc-Corp For: 16 July",
+    "url": "https://www.investing.com/news/filings/form-4-associated-banccorp-for-16-july-93CH-4796465",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-17T00:48:07+08:00",
+    "stocks": [],
+    "uid": "1f1722b346a159214d3403b3db6cc559",
+    "title_en": "Form 4 Associated Banc-Corp For: 16 July",
+    "summary_en": "",
+    "title_zh": "表 4 聯合銀行公司 日期：7 月 16 日",
+    "summary_zh": ""
+  },
+  {
+    "title": "SpaceX stock hits an all-time low below IPO price, what it means for its 18,712 BTC",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-hits-time-low-164806298.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-17T00:48:06+08:00",
+    "stocks": [],
+    "uid": "77c828460c120ce88b0817235b937b70",
+    "title_en": "SpaceX stock hits an all-time low below IPO price, what it means for its 18,712 BTC",
+    "summary_en": "",
+    "title_zh": "SpaceX 股價創歷史新低，低於 IPO 價格，這對其 18,712 BTC 意味著什麼",
+    "summary_zh": ""
+  },
+  {
+    "title": "Netstreit stock hits 52-week high at 22.05 USD",
+    "url": "https://www.investing.com/news/company-news/netstreit-stock-hits-52week-high-at-2205-usd-93CH-4796464",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-17T00:47:38+08:00",
+    "stocks": [],
+    "uid": "42b0af0b3129c94dd4cafe898ce29b24",
+    "title_en": "Netstreit stock hits 52-week high at 22.05 USD",
+    "summary_en": "",
+    "title_zh": "Netstreit 股價觸及 52 週高點 22.05 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Silver miners slide as spot price drops on Iran tensions",
+    "url": "https://www.investing.com/news/stock-market-news/silver-miners-slide-as-spot-price-drops-on-iran-tensions-4796463",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-17T00:46:34+08:00",
+    "stocks": [],
+    "uid": "7ce3a9733fdf3ff2b2749a3511e62d81",
+    "title_en": "Silver miners slide as spot price drops on Iran tensions",
+    "summary_en": "",
+    "title_zh": "由於伊朗緊張局勢導致現貨價格下跌，白銀礦商下滑",
+    "summary_zh": ""
+  },
+  {
+    "title": "Form 4 Kroger For: 16 July",
+    "url": "https://www.investing.com/news/filings/form-4-kroger-for-16-july-93CH-4796461",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-17T00:45:08+08:00",
+    "stocks": [],
+    "uid": "531b97804e5fbc4ec34ffc6fa3dca0cf",
+    "title_en": "Form 4 Kroger For: 16 July",
+    "summary_en": "",
+    "title_zh": "表 4 Kroger 適用日期：7 月 16 日",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why Frequency Electronics Stock Is Plummeting Today",
+    "url": "https://www.fool.com/investing/2026/07/16/why-frequency-electronics-stock-is-plummeting-toda/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This tech stock reported financial results yesterday, and investors didn't like what they heard.",
+    "published_at": "2026-07-17T00:44:10+08:00",
+    "stocks": [],
+    "uid": "62f75bb9caccae03a9ff79b8841b2953",
+    "title_en": "Why Frequency Electronics Stock Is Plummeting Today",
+    "summary_en": "This tech stock reported financial results yesterday, and investors didn't like what they heard.",
+    "title_zh": "為什麼頻率電子股今天暴跌",
+    "summary_zh": "這家科技股昨天公佈了財務業績，但投資者並不喜歡他們所聽到的結果。"
+  },
+  {
+    "title": "DUST Jumps 28% in Just One Month as Gold Miners Sink",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/dust-jumps-28-just-one-164404006.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-17T00:44:04+08:00",
+    "stocks": [],
+    "uid": "09a3886695edace3857e584972502cbe",
+    "title_en": "DUST Jumps 28% in Just One Month as Gold Miners Sink",
+    "summary_en": "",
+    "title_zh": "隨著金礦開採量的下降，灰塵在短短一個月內激增 28%",
+    "summary_zh": ""
+  },
+  {
+    "title": "Oil Price Bounce Reflects Complacency About Ceasefire",
+    "url": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-prospects-of-escalating-mideast-conflict-7f8ab657?siteid=yhoof2&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-17T00:42:00+08:00",
+    "stocks": [],
+    "uid": "46e083b41bf7119206136a7f6439b7de",
+    "title_en": "Oil Price Bounce Reflects Complacency About Ceasefire",
+    "summary_en": "",
+    "title_zh": "油價反彈反映出對停火的自滿",
+    "summary_zh": ""
+  },
+  {
+    "title": "Americans say they need $1.2 million to retire. Most are too deep in debt to get there.",
+    "url": "https://www.marketwatch.com/story/americans-say-they-need-1-2-million-to-retire-most-are-too-deep-in-debt-to-get-there-689c683b?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "More than 80% of Americans worry about running out of money in retirement: “It really keeps them up at night.”",
+    "published_at": "2026-07-17T00:41:00+08:00",
+    "stocks": [],
+    "uid": "f7d34db55b798d7e467f099bce89388f",
+    "title_en": "Americans say they need $1.2 million to retire. Most are too deep in debt to get there.",
+    "summary_en": "More than 80% of Americans worry about running out of money in retirement: “It really keeps them up at night.”",
+    "title_zh": "美國人說他們需要 120 萬美元才能退休。大多數人負債累累，無法實現這一目標。",
+    "summary_zh": "超過 80% 的美國人擔心退休後錢花光：“這確實讓他們徹夜難眠。”"
+  },
+  {
+    "title": "Trump is set to deliver an election-focused national address tonight. Here's what to know",
+    "url": "https://www.cnbc.com/2026/07/16/trump-primetime-address-elections-2020.html",
+    "source": "CNBC Top",
+    "summary": "\"Without free and fair elections, you don't have a country,\" Trump said this week when asked to preview the speech.",
+    "published_at": "2026-07-17T00:40:46+08:00",
+    "stocks": [],
+    "uid": "abe12a8c2374b27f2c8751cc32e2dace",
+    "title_en": "Trump is set to deliver an election-focused national address tonight. Here's what to know",
+    "summary_en": "\"Without free and fair elections, you don't have a country,\" Trump said this week when asked to preview the speech.",
+    "title_zh": "川普將於今晚發表以選舉為重點的全國演說。這是你需要知道的",
+    "summary_zh": "「沒有自由和公平的選舉，就沒有一個國家，」川普本週在被要求預演演講時說道。"
+  },
+  {
+    "title": "Meta's data center plans could help solve its AI spending problems",
+    "url": "https://finance.yahoo.com/technology/article/metas-data-center-plans-could-help-solve-its-ai-spending-problems-164031347.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-17T00:40:31+08:00",
+    "stocks": [],
+    "uid": "e0639e2cb5903835ee47c8a996694a25",
+    "title_en": "Meta's data center plans could help solve its AI spending problems",
+    "summary_en": "",
+    "title_zh": "Meta 的資料中心計劃可以幫助解決其人工智慧支出問題",
+    "summary_zh": ""
+  },
+  {
+    "title": "Mary-Dell Chilton Dies at 87; Helped Create First Genetically Modified Plant",
+    "url": "https://www.nytimes.com/2026/07/16/science/mary-dell-chilton-dead.html",
+    "source": "NYT Business",
+    "summary": "In 1982, she led the research team that figured out how to genetically alter plants, a discovery that would eventually transform global agriculture.",
+    "published_at": "2026-07-17T00:38:39+08:00",
+    "stocks": [],
+    "uid": "e936d8823d61263478d726fe0f5ec26e",
+    "title_en": "Mary-Dell Chilton Dies at 87; Helped Create First Genetically Modified Plant",
+    "summary_en": "In 1982, she led the research team that figured out how to genetically alter plants, a discovery that would eventually transform global agriculture.",
+    "title_zh": "瑪麗-戴爾奇爾頓去世，享年 87 歲；幫助創建第一個基因改造植物",
+    "summary_zh": "1982 年，她所領導的研究小組找到如何對植物進行基因改造的方法，這項發現最終改變了全球農業。"
+  },
+  {
+    "title": "‘The only true one-and-done asset’ — here’s the passive income gig one investor says can net you $40,000 per month",
+    "url": "https://finance.yahoo.com/real-estate/articles/only-true-one-done-asset-163500658.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-17T00:35:00+08:00",
+    "stocks": [],
+    "uid": "c688dd1db0c40296aa9f42ca2ba2f9dd",
+    "title_en": "‘The only true one-and-done asset’ — here’s the passive income gig one investor says can net you $40,000 per month",
+    "summary_en": "",
+    "title_zh": "「唯一真正的一勞永逸的資產」——這是一位投資者所說的被動收入工作，可以讓你每月淨賺 40,000 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Boeing Delivered 64 Jets in June. Here's What That Means for Future Free Cash Flow.",
+    "url": "https://www.fool.com/investing/2026/07/16/boeing-delivered-64-jets-in-june-heres-what-that/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Boeing delivered 64 jets in June, bringing its first-half total to 314 -- its highest first-half number since 2018.",
+    "published_at": "2026-07-17T00:30:00+08:00",
+    "stocks": [],
+    "uid": "f5b060dbee38ff0dd72ab54888c1a59f",
+    "title_en": "Boeing Delivered 64 Jets in June. Here's What That Means for Future Free Cash Flow.",
+    "summary_en": "Boeing delivered 64 jets in June, bringing its first-half total to 314 -- its highest first-half number since 2018.",
+    "title_zh": "波音公司 6 月交付了 64 架噴射機。這對未來自由現金流意味著什麼。",
+    "summary_zh": "波音公司 6 月交付了 64 架飛機，使其上半年總數達到 314 架，這是自 2018 年以來上半年最高數量。"
+  },
+  {
+    "title": "Visa Launches Stablecoin Platform for Minting, Wallets and Payments",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/visa-launches-stablecoin-platform-minting-162300938.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-17T00:23:00+08:00",
+    "stocks": [],
+    "uid": "0103eb3558099bb18f17b8c097509f58",
+    "title_en": "Visa Launches Stablecoin Platform for Minting, Wallets and Payments",
+    "summary_en": "",
+    "title_zh": "Visa 推出用於鑄造、錢包和支付的穩定幣平台",
+    "summary_zh": ""
+  },
+  {
+    "title": "AI Internet Hyperscalers: Why Wedbush Prefers Google And Amazon To Meta",
+    "url": "https://www.investors.com/news/technology/amazon-stock-meta-google-wedbush-ai-hypscalers/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-17T00:21:42+08:00",
+    "stocks": [],
+    "uid": "970b4570c0d6d3448dada4835c285d20",
+    "title_en": "AI Internet Hyperscalers: Why Wedbush Prefers Google And Amazon To Meta",
+    "summary_en": "",
+    "title_zh": "人工智慧網路超大規模企業：為什麼 Wedbush 更喜歡谷歌和亞馬遜而不是 Meta",
+    "summary_zh": ""
+  },
+  {
+    "title": "1 Unstoppable Stock to Buy Before It Joins Micron and Broadcom in the $1 Trillion Club",
+    "url": "https://www.fool.com/investing/2026/07/16/1-unstoppable-stock-to-buy-before-it-joins-micron/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Advanced Micro Devices' market cap has more than doubled this year to around $840 billion.",
+    "published_at": "2026-07-17T00:21:00+08:00",
+    "stocks": [],
+    "uid": "543fbe06cd89691fb1a91c06dd56a508",
+    "title_en": "1 Unstoppable Stock to Buy Before It Joins Micron and Broadcom in the $1 Trillion Club",
+    "summary_en": "Advanced Micro Devices' market cap has more than doubled this year to around $840 billion.",
+    "title_zh": "在加入美光和博通進入 1 兆美元俱樂部之前，這只不可阻擋的股票值得買入",
+    "summary_zh": "Advanced Micro Devices 的市值今年成長了一倍多，達到約 8,400 億美元。"
+  },
+  {
+    "title": "‘Goose egg!’: CNBC anchor stunned by largest US inflation decline in over 6 years — is Trump’s plan working?",
+    "url": "https://finance.yahoo.com/economy/articles/goose-egg-cnbc-anchor-stunned-162000953.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-17T00:20:00+08:00",
+    "stocks": [],
+    "uid": "73aeca35fd2c4242e6cd2861ba01eb51"
+  },
+  {
+    "title": "Slate Medicines Appoints Mark W. Hahn to Board of Directors",
+    "url": "https://finance.yahoo.com/healthcare/articles/slate-medicines-appoints-mark-w-161853217.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-17T00:18:53+08:00",
+    "stocks": [],
+    "uid": "ff0dfcaf85c243c3d1f999ce7c2b5153"
+  },
+  {
+    "title": "Chipmakers put pressure on equity indexes globally, oil edges down",
+    "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-slump-chipmaker-drag-022037813.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-17T00:18:25+08:00",
+    "stocks": [],
+    "uid": "93cbd2f9c02440701908381c2693e984"
+  },
+  {
+    "title": "SoFi Technologies: The Customer Growth Story Isn't Over (NASDAQ: SOFI)",
+    "url": "https://www.fool.com/investing/2026/07/16/sofi-stock-customer-growth-story-nasdaq/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The company's membership base, now at nearly 15 million, has rapidly expanded over the years.",
+    "published_at": "2026-07-17T00:15:00+08:00",
+    "stocks": [],
+    "uid": "65980304cd536bad5b1e6f484bbc9948"
+  },
+  {
+    "title": "Here's what to expect when Netflix reports earnings after the bell",
+    "url": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html",
+    "source": "CNBC Markets",
+    "summary": "Investors will be looking for updates on Netflix's ad-supported business, engagement metrics and how the streaming giant continues to consider potential M&amp;A.",
+    "published_at": "2026-07-17T00:12:11+08:00",
+    "stocks": [],
+    "uid": "b504dcdba84a1dee755e7ac43ef4d0df"
+  },
+  {
+    "title": "Is SpaceX’s stock a bust because it fell below $135? Look what happened after Meta’s IPO.",
+    "url": "https://www.marketwatch.com/story/is-spacexs-stock-a-bust-because-it-fell-below-135-look-what-happened-after-metas-ipo-baed7e68?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Close to half of major IPOs sink below their offering price — and stay there for several years. Here’s why SpaceX is no different.",
+    "published_at": "2026-07-17T00:12:00+08:00",
+    "stocks": [],
+    "uid": "43b184fb4bec9996fb299efe51242b2a"
+  },
+  {
+    "title": "This Trade Offers Two Ways To Profit From Hims & Hers Stock",
+    "url": "https://www.investors.com/research/options/hims-and-hers-stock-cash-secured-put-options/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-17T00:11:57+08:00",
+    "stocks": [],
+    "uid": "89888e9eb8e4a6fd0f89631a25b6ed81"
+  },
+  {
+    "title": "US wireless carrier Verizon to sell 274 stores, lay off another 500 corporate employees",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/verizon-shed-274-stores-lay-160739807.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-17T00:07:39+08:00",
+    "stocks": [],
+    "uid": "da1697a76cf2cbcc1bce1471aa057e4d"
+  },
+  {
+    "title": "Mortgage rates jump to the highest level of 2026",
+    "url": "https://www.marketwatch.com/story/mortgage-rates-jump-to-the-highest-level-of-2026-7a35f79e?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Mortgage rates edged up to the highest level in a year, delivering a fresh blow to the housing market.",
+    "published_at": "2026-07-17T00:04:00+08:00",
+    "stocks": [],
+    "uid": "0e70b3262706e7bf898d07399dfd7cd7"
+  },
+  {
+    "title": "Mortgage rates rose again amid renewed tensions with Iran",
+    "url": "https://finance.yahoo.com/real-estate/article/mortgage-rates-rose-again-amid-renewed-tensions-with-iran-160317690.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-17T00:03:17+08:00",
+    "stocks": [],
+    "uid": "caeac00290bb92eb525002816a36d0f1"
+  },
+  {
+    "title": "Visa: A Smart Way to Invest in the Cashless Economy (NYSE:V)",
+    "url": "https://www.fool.com/investing/2026/07/16/visa-a-smart-way-to-invest-in-the-cashless-economy/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Investors don't just have to look at up-and-coming fintech stocks to gain adequate exposure.",
+    "published_at": "2026-07-17T00:00:00+08:00",
+    "stocks": [],
+    "uid": "cb6e31669401dc25516309a6211624a5"
+  },
+  {
+    "title": "Here's How Much You'd Have Today if You Invested $5,000 Each in Amazon and Costco 3 Years Ago. The Gains May Surprise You.",
+    "url": "https://www.fool.com/investing/2026/07/16/heres-how-much-youd-have-today-if-you-invested-500/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "These two retail giants' stock returns haven't been all that different over the past three years, but one has more upside potential.",
+    "published_at": "2026-07-16T23:52:00+08:00",
+    "stocks": [],
+    "uid": "103e76e0159c544daebab4d2ac3a3f3b"
+  },
+  {
+    "title": "Elon Musk's SpaceX Merged With xAI. Here Is How They Plan to Dominate With Orbital Data Centers.",
+    "url": "https://www.fool.com/investing/2026/07/16/elon-musk-spacex-merge-xai-orbital-data-center/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Elon Musk's vision of AI data centers in space sounds futuristic, but should investors take it seriously?",
+    "published_at": "2026-07-16T23:45:00+08:00",
+    "stocks": [],
+    "uid": "75fcf2f970fab9725d87abfc5e7ee58c"
+  },
+  {
+    "title": "Netflix Reports Earnings After the Bell. Here's the Biggest Question I Think the Streaming Giant Needs to Answer to Get the Stock Back on Track",
+    "url": "https://www.fool.com/investing/2026/07/16/netflix-reports-earnings-after-the-bell-here-s-the-biggest-question-i-think-the-streaming-giant-needs-to-answer-to-get-the-stock-back-on-track/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Netflix stock has struggled this year.",
+    "published_at": "2026-07-16T23:41:01+08:00",
+    "stocks": [],
+    "uid": "bb4e1e4116959dd7125fbeaea1ba4a6b"
+  },
+  {
+    "title": "Chip Stocks Pummeled. SK Hynix Dives. SOX Socked Again.",
+    "url": "https://www.investors.com/news/technology/chip-stocks-sk-hynix-sox-index-fall/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-16T23:40:59+08:00",
+    "stocks": [],
+    "uid": "6813537506520ad45631ad2bb948d4f8"
+  },
+  {
+    "title": "Michael Burry's $39 a month Substack hits 300,000 subscribers, fueling speculation of a $113M-a-year newsletter empire",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burrys-39-month-substack-154000219.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-16T23:40:00+08:00",
+    "stocks": [],
+    "uid": "6f05bb9c658acb2a33f9cb3a964eccd3"
+  },
+  {
+    "title": "Which ETF Gets Investors Better Ether Performance in 2026: VanEck or iShares?",
+    "url": "https://www.fool.com/coverage/etfs/2026/07/16/which-etf-gets-investors-better-ether-performance-in-2026-vaneck-or-ishares/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "VanEck offers lower fees while iShares commands $4.9B in assets. Both track Ether directly with nearly identical performance since 2024 launches.",
+    "published_at": "2026-07-16T23:34:01+08:00",
+    "stocks": [],
+    "uid": "afe03acdf5ea31edf8b706580247c2d9"
+  },
+  {
+    "title": "Starbucks spends $400 million a year on software — now it's using AI to build its own and cut out the middleman",
+    "url": "https://finance.yahoo.com/technology/ai/articles/starbucks-spends-400-million-software-153043217.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-16T23:30:43+08:00",
+    "stocks": [],
+    "uid": "f1ed979b46864c60ec0970f42e831c64"
+  },
+  {
+    "title": "Why Sandisk Stock Skyrocketed 857% In the First Half of 2026",
+    "url": "https://www.fool.com/investing/2026/07/16/why-sandisk-stock-skyrocketed-857-in-the-first-hal/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Sandisk shareholders have benefited from a booming memory market, and things aren't slowing down just yet.",
+    "published_at": "2026-07-16T23:30:00+08:00",
+    "stocks": [],
+    "uid": "9f5660794ee2f52081ba1f3ecb164f3c"
+  },
+  {
+    "title": "Social Security Recipients May Be in Line for Another Outsized COLA Boost",
+    "url": "https://www.fool.com/retirement/2026/07/16/social-security-recipients-may-be-in-line-for-anot/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Consumer inflation numbers remained robust through June, starting an important three-month stretch with some steam.",
+    "published_at": "2026-07-16T23:30:00+08:00",
+    "stocks": [],
+    "uid": "9d4dde345c7dbb7d67f4f09e70e6ebd7"
+  },
+  {
+    "title": "Key Role in AI Infrastructure Buildout Bolsters Astera Labs (ALAB) in Q2",
+    "url": "https://finance.yahoo.com/technology/ai/articles/key-role-ai-infrastructure-buildout-152842779.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-16T23:28:42+08:00",
+    "stocks": [
+      "ALAB"
+    ],
+    "uid": "d220de2883b65a3df6a6643424a44d55"
+  },
+  {
+    "title": "Western Digital Corporation (WDC) Jumped Following the Earnings Beat",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/western-digital-corporation-wdc-jumped-152602385.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-16T23:26:02+08:00",
+    "stocks": [
+      "WDC"
+    ],
+    "uid": "67fac73d3bc157fa2a3d295d42396c52"
+  },
+  {
+    "title": "Why Sandisk Stock Is Still Dropping",
+    "url": "https://www.fool.com/investing/2026/07/16/why-sandisk-stock-is-still-dropping/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Investors were wrong to sell TSMC stock today -- and probably wrong to sell Sandisk, too.",
+    "published_at": "2026-07-16T23:24:34+08:00",
+    "stocks": [],
+    "uid": "b09347f2f0d90eecfb8ee29976dc6705"
+  },
+  {
+    "title": "Increasing Demand for AI Computing Power Fuels Nebius Group (NBIS) Performance in Q2",
+    "url": "https://finance.yahoo.com/technology/ai/articles/increasing-demand-ai-computing-power-152424776.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-16T23:24:24+08:00",
+    "stocks": [
+      "NBIS"
+    ],
+    "uid": "7a6c4c78121c78622e36b72251b9001b"
+  },
+  {
     "title": "The best states for workers to get educated, trained and find a job in America in 2026",
     "url": "https://www.cnbc.com/2026/07/16/best-states-workers-jobs-2026.html",
     "source": "CNBC Top",
@@ -37,6 +584,37 @@
     "summary_en": "",
     "title_zh": "為什麼 SpaceX 的漲幅可能比 SK 海力士更大",
     "summary_zh": ""
+  },
+  {
+    "title": "Netflix (NFLX) Slid in Q2 Despite Strong Results",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-slid-q2-despite-152104641.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-16T23:21:04+08:00",
+    "stocks": [
+      "NFLX"
+    ],
+    "uid": "7601a7493314472f229a699a3172155a"
+  },
+  {
+    "title": "Micron Technology: AI Memory Demand Is Still in the Early Innings (NASDAQ: MU)",
+    "url": "https://www.fool.com/investing/2026/07/16/micron-technology-ai-memory-demand-is-still-in-the/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Management says that robotics and autonomous vehicles will fuel even higher demand for memory.",
+    "published_at": "2026-07-16T23:21:00+08:00",
+    "stocks": [],
+    "uid": "75886818ae76b64a5d4a1e53777a1af1"
+  },
+  {
+    "title": "Investors’ Skepticism Over Rapid Transitions Weighed on IREN Limited (IREN) in Q2",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/investors-skepticism-over-rapid-transitions-151938161.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-16T23:19:38+08:00",
+    "stocks": [
+      "IREN"
+    ],
+    "uid": "6367b6e84652f77834d127e3019388d0"
   },
   {
     "title": "Bitcoin hashrate falls 6.3% as mining capital shifts toward AI",
@@ -128,6 +706,24 @@
     "summary_en": "",
     "title_zh": "表 4 Oshkosh 公司 日期：7 月 16 日",
     "summary_zh": ""
+  },
+  {
+    "title": "Could IonQ Become America's Best Quantum Platform?",
+    "url": "https://www.fool.com/investing/2026/07/16/could-ionq-become-americas-best-quantum-platform/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "IonQ is chasing one of tech's biggest opportunities, but the stock's real test may be whether its quantum story can become a durable business.",
+    "published_at": "2026-07-16T23:15:00+08:00",
+    "stocks": [],
+    "uid": "6f696051b64e6c61bdcb520928e6ef17"
+  },
+  {
+    "title": "The Best Dividend ETF to Buy With $1,000 Right Now",
+    "url": "https://www.fool.com/investing/2026/07/16/best-dividend-etf-to-buy-with-1000-right-now-schd/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The tech rally is showing signs of fatigue. IBM just got hammered. Time to consider more of a high-quality, defensive approach.",
+    "published_at": "2026-07-16T23:15:00+08:00",
+    "stocks": [],
+    "uid": "dc96cc58bdbc7a445f196599b20ffd9b"
   },
   {
     "title": "UBS raises Cintas stock price target to $230 on strong results",
@@ -234,6 +830,33 @@
     "summary_en": "",
     "title_zh": "QXO (QXO) 在疲軟的市場中苦苦掙扎",
     "summary_zh": ""
+  },
+  {
+    "title": "Why AST SpaceMobile Stock Just Crashed",
+    "url": "https://www.fool.com/investing/2026/07/16/why-ast-spacemobile-stock-just-crashed/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "AST SpaceMobile is preparing for a battle.",
+    "published_at": "2026-07-16T23:10:55+08:00",
+    "stocks": [],
+    "uid": "af69a0784cd42fe3a625220bc9854431"
+  },
+  {
+    "title": "Here's Why Plug Power Stock Soared 37.6% in the First Half of 2026",
+    "url": "https://www.fool.com/investing/2026/07/16/heres-why-plug-power-soared-376-in-the-first-half/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Reversing its 2025 trajectory, this hydrogen stock rocketed higher to start 2026.",
+    "published_at": "2026-07-16T23:07:21+08:00",
+    "stocks": [],
+    "uid": "77704c0b081bd606ab778167f94f5d8f"
+  },
+  {
+    "title": "Which iShares ETF Is Better for International Exposure in 2026: IXUS or IEFA?",
+    "url": "https://www.fool.com/coverage/etfs/2026/07/16/which-ishares-etf-is-better-for-international-exposure-in-2026-ixus-or-iefa/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "IEFA focuses on established economies with higher dividend yield, while IXUS captures broader international exposure including emerging markets and Canada.",
+    "published_at": "2026-07-16T23:07:01+08:00",
+    "stocks": [],
+    "uid": "3cde0bb4a9881d1128302ea26caffb44"
   },
   {
     "title": "Here’s Why Credo Technology Group Holding Ltd (CRDO) is on the Detector List of the Fund",
@@ -396,6 +1019,15 @@
     "published_at": "2026-07-16T22:41:30+08:00",
     "stocks": [],
     "uid": "71d9d462d23d61200b14dec7ec6b7433"
+  },
+  {
+    "title": "Airbnb Co-Founder Joseph Gebbia Sells $39 Million in Stock. Should Investors Worry About What 2026 Holds?",
+    "url": "https://www.fool.com/coverage/filings/2026/07/16/airbnb-co-founder-joseph-gebbia-sells-usd39-million-in-stock-should-investors-worry-about-what-2026-holds/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Sale executed under pre-arranged Rule 10b5-1 plan reduces his equity stake by 10%, though he retains beneficial ownership valued at $341.37 million.",
+    "published_at": "2026-07-16T22:41:01+08:00",
+    "stocks": [],
+    "uid": "82d1cd8afcade0c7108b96d0a405e186"
   },
   {
     "title": "3 of our stocks rode the AI rally, while 3 others fell out of favor since last month",
@@ -593,6 +1225,15 @@
     "uid": "025a304656cfb49b8bb18ad7e26818c0"
   },
   {
+    "title": "Lumen Technologies vs. Viasat: Which Data Network Stock Is a Better Buy in 2026?",
+    "url": "https://www.fool.com/coverage/better-buy/2026/07/16/lumen-technologies-vs-viasat-which-data-network-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "One trades at a steep discount but carries crushing debt; the other is pricier but generates stronger cash flow and a healthier balance sheet.",
+    "published_at": "2026-07-16T22:13:01+08:00",
+    "stocks": [],
+    "uid": "cf4d18a3447f332b1cb411e8856b56a1"
+  },
+  {
     "title": "Market Overlooked Spotify Technology S.A. (SPOT) Despite Robust Results",
     "url": "https://finance.yahoo.com/markets/stocks/articles/market-overlooked-spotify-technology-spot-141246818.html",
     "source": "Yahoo Finance",
@@ -678,6 +1319,15 @@
     "published_at": "2026-07-16T22:04:26+08:00",
     "stocks": [],
     "uid": "df70cd90ed8c55f09da2a3942c265f47"
+  },
+  {
+    "title": "Joby Aviation CPO Eric Allison Sells 27,932 Shares at $7.53 -- Should Investors Sell Too?",
+    "url": "https://www.fool.com/coverage/filings/2026/07/16/joby-aviation-cpo-eric-allison-sells-27-932-shares-at-usd7-53-should-investors-sell-too/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Non-discretionary sale to cover tax withholding from RSU vesting. Allison retains ~710,000 direct shares and ~107,000 derivative securities.",
+    "published_at": "2026-07-16T22:03:40+08:00",
+    "stocks": [],
+    "uid": "99b6c811d7afb2a33ce4b9571e2fd296"
   },
   {
     "title": "Prediction: Bitcoin Will Double in Value by the End of 2027 -- Here's How",
@@ -55248,6 +55898,15 @@
     "published_at": "2026-06-17T22:17:04+08:00",
     "stocks": [],
     "uid": "0c14d4fec3246ad569e768d127b92e78"
+  },
+  {
+    "title": "SpaceX stock is falling. What investors should do next.",
+    "url": "https://finance.yahoo.com/personal-finance/investing/article/spacex-stock-is-falling-what-investors-should-do-next-141704338.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-06-17T22:17:04+08:00",
+    "stocks": [],
+    "uid": "ee7b9fc85270caf4a658efb7dd2d5cd1"
   },
   {
     "title": "Databricks sales growth tops 80%, but margin are shrinking from swarm of AI agents",
