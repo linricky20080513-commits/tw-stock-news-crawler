@@ -1,5 +1,357 @@
 [
   {
+    "title": "Dallas Fed President Logan calls for 'modestly' higher interest rates",
+    "url": "https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html",
+    "source": "CNBC Finance",
+    "summary": "The policymaker said this week's good inflation news wasn't good enough.",
+    "published_at": "2026-07-17T02:50:42+08:00",
+    "stocks": [],
+    "uid": "7fb71465b931985207f6199e9dd86106",
+    "title_en": "Dallas Fed President Logan calls for 'modestly' higher interest rates",
+    "summary_en": "The policymaker said this week's good inflation news wasn't good enough.",
+    "title_zh": "達拉斯聯邦儲備銀行主席洛根呼籲「適度」提高利率",
+    "summary_zh": "這位政策制定者表示，本週的通膨好消息還不夠好。"
+  },
+  {
+    "title": "Here's why the housing market is hurting so much this summer",
+    "url": "https://www.cnbc.com/2026/07/16/housing-market-mortgages-homebuilding.html",
+    "source": "CNBC Top",
+    "summary": "Mortgage rates are high, home prices at record levels and consumers stressed. These are all contributing to a drop in existing home sales and builder sentiment.",
+    "published_at": "2026-07-17T02:38:03+08:00",
+    "stocks": [],
+    "uid": "bb593b13546b13dd3e9b35fe07b7c1ea",
+    "title_en": "Here's why the housing market is hurting so much this summer",
+    "summary_en": "Mortgage rates are high, home prices at record levels and consumers stressed. These are all contributing to a drop in existing home sales and builder sentiment.",
+    "title_zh": "這就是今年夏天房地產市場遭受如此嚴重打擊的原因",
+    "summary_zh": "房貸利率很高，房價創歷史新高，消費者壓力很大。這些都導致​​現房銷售和建築商信心下降。"
+  },
+  {
+    "title": "White House says it is closely monitoring food-borne illness outbreak",
+    "url": "https://www.investing.com/news/general-news/white-house-says-it-is-closely-monitoring-foodborne-illness-outbreak-4796601",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-17T02:36:49+08:00",
+    "stocks": [],
+    "uid": "f7cf08b1604eddabc96e04433aee52bd",
+    "title_en": "White House says it is closely monitoring food-borne illness outbreak",
+    "summary_en": "",
+    "title_zh": "白宮表示正在密切監測食源性疾病的爆發",
+    "summary_zh": ""
+  },
+  {
+    "title": "US lawmakers seek a crackdown on solar imports they say dodge duties",
+    "url": "https://www.investing.com/news/commodities-news/us-lawmakers-seek-a-crackdown-on-solar-imports-they-say-dodge-duties-4796426",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-17T02:36:33+08:00",
+    "stocks": [],
+    "uid": "2c61fd27e2a7284afa5535388ea7c282",
+    "title_en": "US lawmakers seek a crackdown on solar imports they say dodge duties",
+    "summary_en": "",
+    "title_zh": "美國立法者尋求打擊太陽能進口，他們稱這是逃避關稅",
+    "summary_zh": ""
+  },
+  {
+    "title": "First Bancorp stock hits all-time high at 66.07 USD",
+    "url": "https://www.investing.com/news/company-news/first-bancorp-stock-hits-alltime-high-at-6607-usd-93CH-4796603",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-17T02:35:38+08:00",
+    "stocks": [],
+    "uid": "5a177f2d844980baf1bc14c28886c0ac",
+    "title_en": "First Bancorp stock hits all-time high at 66.07 USD",
+    "summary_en": "",
+    "title_zh": "First Bancorp 股票觸及歷史新高 66.07 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Trump’s media company wants traders to pay to get president’s market-moving social-media posts first",
+    "url": "https://www.marketwatch.com/story/trumps-media-company-wants-traders-to-pay-to-get-presidents-market-moving-social-media-posts-first-c4425210?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "“Truth API” will be available to institutional customers starting next month.",
+    "published_at": "2026-07-17T02:35:00+08:00",
+    "stocks": [],
+    "uid": "0bd73e56596cdeab70fa3f02317467ae",
+    "title_en": "Trump’s media company wants traders to pay to get president’s market-moving social-media posts first",
+    "summary_en": "“Truth API” will be available to institutional customers starting next month.",
+    "title_zh": "川普的媒體公司希望交易者付費才能首先獲得總統影響市場的社群媒體貼文",
+    "summary_zh": "「Truth API」將從下個月開始向機構客戶開放。"
+  },
+  {
+    "title": "Trump suspends teleprompter operator over Kalshi bets allegations, White House says",
+    "url": "https://www.cnbc.com/2026/07/16/trump-kalshi-teleprompter-cftc-investigation.html",
+    "source": "CNBC Top",
+    "summary": "Kalshi retained most of the profits, which were more than $90,000, from the trades made on public statements by President Trump.",
+    "published_at": "2026-07-17T02:32:27+08:00",
+    "stocks": [],
+    "uid": "c6c2b2c867eded8144c048708e329d86",
+    "title_en": "Trump suspends teleprompter operator over Kalshi bets allegations, White House says",
+    "summary_en": "Kalshi retained most of the profits, which were more than $90,000, from the trades made on public statements by President Trump.",
+    "title_zh": "白宮表示，川普因卡爾希賭注指控而暫停提詞器操作員的職務",
+    "summary_zh": "卡爾希保留了根據川普總統公開聲明進行的交易的大部分利潤，超過 9 萬美元。"
+  },
+  {
+    "title": "US to revive rule that could deny green cards to immigrants using public benefits",
+    "url": "https://www.investing.com/news/politics-news/us-to-revive-rule-that-could-deny-green-cards-to-immigrants-using-public-benefits-4796597",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-17T02:31:36+08:00",
+    "stocks": [],
+    "uid": "5b33ff44820bf3f955430485815ba2a4",
+    "title_en": "US to revive rule that could deny green cards to immigrants using public benefits",
+    "summary_en": "",
+    "title_zh": "美國將恢復拒絕向利用公共福利的移民發放綠卡的規定",
+    "summary_zh": ""
+  },
+  {
+    "title": "NTSB finds evidence of bird strike before fatal New York helicopter crash",
+    "url": "https://www.investing.com/news/world-news/ntsb-finds-evidence-of-bird-strike-before-fatal-new-york-helicopter-crash-4796602",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-17T02:31:18+08:00",
+    "stocks": [],
+    "uid": "b07e0b140012b65d22841def63d95a0b",
+    "title_en": "NTSB finds evidence of bird strike before fatal New York helicopter crash",
+    "summary_en": "",
+    "title_zh": "NTSB 在致命的紐約直升機墜毀前發現了鳥擊的證據",
+    "summary_zh": ""
+  },
+  {
+    "title": "Mondelez Is 17% Below Its 52-Week High. Here's Why Income Investors Should Buy the Dip.",
+    "url": "https://www.fool.com/investing/2026/07/16/mondelez-is-17-below-its-52-week-high-heres-why/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Mondelez pulled back from its 52-week high in a big way, but for long-term income investors, the stock may be worth snacking on.",
+    "published_at": "2026-07-17T02:30:00+08:00",
+    "stocks": [],
+    "uid": "d44b4e378188259948fffe4a24c7fc8b",
+    "title_en": "Mondelez Is 17% Below Its 52-Week High. Here's Why Income Investors Should Buy the Dip.",
+    "summary_en": "Mondelez pulled back from its 52-week high in a big way, but for long-term income investors, the stock may be worth snacking on.",
+    "title_zh": "億滋國際股價較 52 週高點低 17%。這就是收入投資者應該逢低買入的原因。",
+    "summary_zh": "億滋國際 (Mondelez) 從 52 週高點大幅回調，但對於長期收益投資者來說，該股可能值得買進。"
+  },
+  {
+    "title": "Tanger Inc stock hits 52-week high at 41.53 USD",
+    "url": "https://www.investing.com/news/company-news/tanger-inc-stock-hits-52week-high-at-4153-usd-93CH-4796599",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-17T02:29:23+08:00",
+    "stocks": [],
+    "uid": "10247615ac3889f2b7ecb0c590377aba"
+  },
+  {
+    "title": "OpenAI poised for a banner year, Altman says, after \"subpar\" stretch",
+    "url": "https://www.investing.com/news/stock-market-news/openai-poised-for-a-banner-year-altman-says-after-subpar-stretch-4796598",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-17T02:28:50+08:00",
+    "stocks": [],
+    "uid": "3f0744539288f3f9c28abacaf3de8f0e",
+    "title_en": "OpenAI poised for a banner year, Altman says, after \"subpar\" stretch",
+    "summary_en": "",
+    "title_zh": "Altman 表示，在「低於標準」的一段時間後，OpenAI 即將迎來輝煌的一年",
+    "summary_zh": ""
+  },
+  {
+    "title": "Trump presses defense executives to boost weapons production",
+    "url": "https://www.investing.com/news/stock-market-news/trump-presses-defense-executives-to-boost-weapons-production-4796596",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-17T02:24:42+08:00",
+    "stocks": [],
+    "uid": "61307ddeffe7259efba35a6b40ee26b4",
+    "title_en": "Trump presses defense executives to boost weapons production",
+    "summary_en": "",
+    "title_zh": "川普敦促國防高層增加武器生產",
+    "summary_zh": ""
+  },
+  {
+    "title": "First American Financial Corp stock hits 52-week high at $71.94",
+    "url": "https://www.investing.com/news/company-news/first-american-financial-corp-stock-hits-52week-high-at-7194-93CH-4796595",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-17T02:23:03+08:00",
+    "stocks": [],
+    "uid": "ce9f90bd416a70b5f0317e6d01c31527",
+    "title_en": "First American Financial Corp stock hits 52-week high at $71.94",
+    "summary_en": "",
+    "title_zh": "第一美國金融公司股價觸及 52 週新至 71.94 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "We're trimming our hedge on lower rates, which may take longer to materialize",
+    "url": "https://www.cnbc.com/2026/07/16/were-trimming-our-hedge-on-lower-rates-which-may-take-longer-to-materialize.html",
+    "source": "CNBC Top",
+    "summary": "While we think it a great \"house,\" it is unfortunately in an awful \"neighborhood.\"",
+    "published_at": "2026-07-17T02:20:40+08:00",
+    "stocks": [],
+    "uid": "027b3a82dd8b7b3f85bb7a6301d814f8",
+    "title_en": "We're trimming our hedge on lower rates, which may take longer to materialize",
+    "summary_en": "While we think it a great \"house,\" it is unfortunately in an awful \"neighborhood.\"",
+    "title_zh": "我們正在削減對較低利率的對沖，這可能需要更長的時間才能實現",
+    "summary_zh": "雖然我們認為這是一棟很棒的“房子”，但不幸的是它位於一個糟糕的“社區”。"
+  },
+  {
+    "title": "Tesla's Robotaxi Just Launched in Miami. Here's How Small the Service Area Really Is",
+    "url": "https://www.fool.com/investing/2026/07/16/teslas-robotaxi-just-launched-in-miami-heres-how-s/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Sometimes it seems like Elon Musk is at the forefront of every new frontier, but that isn't always the case.",
+    "published_at": "2026-07-17T02:15:00+08:00",
+    "stocks": [],
+    "uid": "744b4e671016cc96852703fce6e421ae",
+    "title_en": "Tesla's Robotaxi Just Launched in Miami. Here's How Small the Service Area Really Is",
+    "summary_en": "Sometimes it seems like Elon Musk is at the forefront of every new frontier, but that isn't always the case.",
+    "title_zh": "特斯拉的 Robotaxi 剛在邁阿密推出。服務區到底有多小",
+    "summary_zh": "有時馬斯克似乎站在每個新領域的最前沿，但情況並非總是如此。"
+  },
+  {
+    "title": "Prediction: This Growth ETF Will Triple Over the Next 10 Years. Here's the Math.",
+    "url": "https://www.fool.com/investing/2026/07/16/prediction-this-growth-etf-will-triple-over-the-ne/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This top-performing ETF has lots more growth ahead.",
+    "published_at": "2026-07-17T02:08:00+08:00",
+    "stocks": [],
+    "uid": "95feb28ef9dcfeefc8b9a5bc6cac58b2",
+    "title_en": "Prediction: This Growth ETF Will Triple Over the Next 10 Years. Here's the Math.",
+    "summary_en": "This top-performing ETF has lots more growth ahead.",
+    "title_zh": "預測：該成長型 ETF 將在未來 10 年內成長兩倍。這是數學。",
+    "summary_zh": "這款表現最佳的 ETF 未來還有更多成長空間。"
+  },
+  {
+    "title": "Micron has turned into ‘the most important stock in the market.’ So is it time to worry?",
+    "url": "https://www.marketwatch.com/story/micron-has-turned-into-the-most-important-stock-in-the-market-so-is-it-time-to-worry-71e335bf?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "While investors are concerned about a memory peak, analysts say the stock still looks cheap relative to various earnings scenarios.",
+    "published_at": "2026-07-17T02:01:00+08:00",
+    "stocks": [],
+    "uid": "59227a8ef4dd40c6796ee1afa690f798",
+    "title_en": "Micron has turned into ‘the most important stock in the market.’ So is it time to worry?",
+    "summary_en": "While investors are concerned about a memory peak, analysts say the stock still looks cheap relative to various earnings scenarios.",
+    "title_zh": "美光已經成為「市場上最重要的股票」。那現在是擔心的時候了嗎？",
+    "summary_zh": "儘管投資人擔心記憶體峰值，但分析師表示，相對於各種獲利情景，該股看起來仍然很便宜。"
+  },
+  {
+    "title": "Has the AI Rally Made S&P 500 ETFs Too Risky? What Investors Need to Know",
+    "url": "https://www.fool.com/investing/2026/07/16/ai-rally-made-sp-500-etf-too-risky-what-need-know/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The artificial intelligence (AI) boom helped many investors generate huge profits. But there are two risks in particular that investors need to consider right now.",
+    "published_at": "2026-07-17T02:01:00+08:00",
+    "stocks": [],
+    "uid": "28b6c98750b80d7db1a14a19ae694280",
+    "title_en": "Has the AI Rally Made S&P 500 ETFs Too Risky? What Investors Need to Know",
+    "summary_en": "The artificial intelligence (AI) boom helped many investors generate huge profits. But there are two risks in particular that investors need to consider right now.",
+    "title_zh": "AI 反彈是否導致標普 500 ETF 風險過高？投資人需要了解什麼",
+    "summary_zh": "人工智慧（AI）的繁榮幫助許多投資者獲得了巨額利潤。但投資人目前尤其需要考慮兩個風險。"
+  },
+  {
+    "title": "Taiwan Semiconductor Manufacturing: Record Profits Chart the Future of AI (NYSE: TSM)",
+    "url": "https://www.fool.com/investing/2026/07/16/taiwan-semiconductor-manufacturing-record-profits-chart-the-future-of-ai-nyse-tsm/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The world's most advanced chip foundry provided clear evidence that AI adoption continues.",
+    "published_at": "2026-07-17T01:51:18+08:00",
+    "stocks": [],
+    "uid": "fa4952fcdd4b1f8f4cd43156d91c6857",
+    "title_en": "Taiwan Semiconductor Manufacturing: Record Profits Chart the Future of AI (NYSE: TSM)",
+    "summary_en": "The world's most advanced chip foundry provided clear evidence that AI adoption continues.",
+    "title_zh": "台積電：創紀錄的利潤描繪了人工智慧的未來（NYSE：TSM）",
+    "summary_zh": "世界上最先進的晶片代工廠提供了明確的證據表明人工智慧的採用仍在繼續。"
+  },
+  {
+    "title": "SpaceX Is Nearing Its IPO Price. Time to Buy?",
+    "url": "https://www.fool.com/investing/2026/07/16/spacex-is-nearing-its-ipo-price-time-to-buy/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Average investors can now buy SpaceX stock at just above the IPO price, which was likely not available to them one month ago.",
+    "published_at": "2026-07-17T01:47:00+08:00",
+    "stocks": [],
+    "uid": "32a3f9952898db5e4c3db981bde1d5a1",
+    "title_en": "SpaceX Is Nearing Its IPO Price. Time to Buy?",
+    "summary_en": "Average investors can now buy SpaceX stock at just above the IPO price, which was likely not available to them one month ago.",
+    "title_zh": "SpaceX 已接近 IPO 價格。是時候購買了嗎？",
+    "summary_zh": "普通投資者現在可以以略高於 IPO 價格的價格購買 SpaceX 股票，而一個月前他們可能還無法購買該股票。"
+  },
+  {
+    "title": "Palo Alto Networks’ stock has been on a tear — and it could go even higher, according to these bulls",
+    "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-has-been-on-a-tear-and-it-could-go-even-higher-according-to-these-bulls-1ddde6f4?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The company’s shares have roughly doubled over the past three months, as investors have warmed to the idea that AI is increasing the need for cybersecurity products.",
+    "published_at": "2026-07-17T01:42:00+08:00",
+    "stocks": [],
+    "uid": "7be85cf80a478b3f6b9474eb277df224",
+    "title_en": "Palo Alto Networks’ stock has been on a tear — and it could go even higher, according to these bulls",
+    "summary_en": "The company’s shares have roughly doubled over the past three months, as investors have warmed to the idea that AI is increasing the need for cybersecurity products.",
+    "title_zh": "帕洛阿爾托網路公司 (Palo Alto Networks) 的股價一直在上漲，據這些多頭人士稱，其股價可能會更高",
+    "summary_zh": "由於投資者對人工智慧正在增加對網路安全產品的需求的看法越來越熱衷，該公司的股價在過去三個月中大約上漲了一倍。"
+  },
+  {
+    "title": "Jamie Dimon's JPMorgan Chase Just Posted 86% Growth in Equities Trading Revenue and Raised Its Full-Year Net Interest Income Guidance to $105.5 Billion",
+    "url": "https://www.fool.com/investing/2026/07/16/jamie-dimon-jpmorgan-chase-growth-equities/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "JPMorgan Chase just reported blowout second-quarter results.",
+    "published_at": "2026-07-17T01:36:00+08:00",
+    "stocks": [],
+    "uid": "c24e8a0779daf628695ce6ed7d8e7d6c",
+    "title_en": "Jamie Dimon's JPMorgan Chase Just Posted 86% Growth in Equities Trading Revenue and Raised Its Full-Year Net Interest Income Guidance to $105.5 Billion",
+    "summary_en": "JPMorgan Chase just reported blowout second-quarter results.",
+    "title_zh": "傑米戴蒙 (Jamie Dimon) 的摩根大通 (JPMorgan Chase) 剛剛公佈股票交易收入增長 86%，並將全年淨利息收入指引上調至 1055 億美元",
+    "summary_zh": "摩根大通剛剛公佈了井噴式的第二季業績。"
+  },
+  {
+    "title": "Down 50% From Its High, Is CoreWeave a Bargain or a Value Trap?",
+    "url": "https://www.fool.com/investing/2026/07/16/down-50-from-its-high-is-coreweave-a-bargain-or-a/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "A contract with a key customer could be in jeopardy.",
+    "published_at": "2026-07-17T01:27:00+08:00",
+    "stocks": [],
+    "uid": "a2249dd0e8e17ce58a7159d4158a2097",
+    "title_en": "Down 50% From Its High, Is CoreWeave a Bargain or a Value Trap?",
+    "summary_en": "A contract with a key customer could be in jeopardy.",
+    "title_zh": "從最高點下跌 50%，CoreWeave 是便宜貨還是價值陷阱？",
+    "summary_zh": "與主要客戶的合約可能面臨危險。"
+  },
+  {
+    "title": "Prediction: This AI Stock Will Double by 2031 -- Here's the Math",
+    "url": "https://www.fool.com/investing/2026/07/16/prediction-this-ai-stock-will-double-by-2031/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Shares have climbed 182% in the past five years.",
+    "published_at": "2026-07-17T01:23:00+08:00",
+    "stocks": [],
+    "uid": "9a17abe2e6662a9ec1249c086dc279c0",
+    "title_en": "Prediction: This AI Stock Will Double by 2031 -- Here's the Math",
+    "summary_en": "Shares have climbed 182% in the past five years.",
+    "title_zh": "預測：到 2031 年，人工智慧股票將翻倍——計算公式如下",
+    "summary_zh": "過去五年，股價上漲了 182%。"
+  },
+  {
+    "title": "The Latest Inflation Data Is Good News for the Stock Market. Here's Why.",
+    "url": "https://www.fool.com/investing/2026/07/16/the-latest-inflation-data-is-good-news-for-the-sto/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Inflation decreased from May to June, lowering expectations of a Fed hike.",
+    "published_at": "2026-07-17T01:15:00+08:00",
+    "stocks": [],
+    "uid": "02dfd322c3f2b063e22a48a6fac3309e",
+    "title_en": "The Latest Inflation Data Is Good News for the Stock Market. Here's Why.",
+    "summary_en": "Inflation decreased from May to June, lowering expectations of a Fed hike.",
+    "title_zh": "最新的通膨數據對股市來說是個好消息。這就是為什麼。",
+    "summary_zh": ""
+  },
+  {
+    "title": "Dow Jones Hangs On While Memory Chips Take Another Beating",
+    "url": "https://www.fool.com/investing/2026/07/16/dow-jones-hangs-on-while-memory-chips-take-another/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Why is the Dow holding up while the Nasdaq sinks? Healthcare gains are offsetting the semiconductor carnage.",
+    "published_at": "2026-07-17T01:03:17+08:00",
+    "stocks": [],
+    "uid": "bbc531aa2f75f8712c841a7d22fa78b3"
+  },
+  {
+    "title": "Warren Buffett Calls This Investment \"The Best Thing\" for Most People. History Says It Could Make You a Millionaire.",
+    "url": "https://www.fool.com/investing/2026/07/16/warren-buffett-calls-this-investment-the-best-thin/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "With the right strategy, this low-cost investment could build life-changing wealth.",
+    "published_at": "2026-07-17T01:00:00+08:00",
+    "stocks": [],
+    "uid": "17f9cf3c1d7f4ad8246a94035553a3b4"
+  },
+  {
     "title": "As prediction markets boom, questions arise over who will be the watchdog",
     "url": "https://www.cnbc.com/2026/07/16/the-sec-may-get-involved-as-prediction-market-bring-new-contracts.html",
     "source": "CNBC Top",
@@ -24,6 +376,15 @@
     "summary_en": "",
     "title_zh": "在您最後一次薪水和您的第一個 RMD 之間，稅率是您所見過的最低稅率",
     "summary_zh": ""
+  },
+  {
+    "title": "TSMC's Revenue Grew 33% Last Quarter. Here's Why Investors Should Be More Excited About What's Coming Next.",
+    "url": "https://www.fool.com/investing/2026/07/16/tsmcs-revenue-grew-33-last-quarter-heres-why-investors-should-be-more-excited-about-whats-coming-next/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Things are good at TSMC and will only get better.",
+    "published_at": "2026-07-17T00:51:30+08:00",
+    "stocks": [],
+    "uid": "332a9f476bcea81ce724050d19773cac"
   },
   {
     "title": "Form 4 Kroger For: 16 July",
@@ -169,6 +530,24 @@
     "summary_zh": ""
   },
   {
+    "title": "Palantir and Sandisk Stocks Are Down 35% and 25%, but Only One Is a Buy Now",
+    "url": "https://www.fool.com/investing/2026/07/16/palantir-and-sandisk-stock-are-down-35-and-25-but/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The stocks are at opposite ends of the valuation spectrum.",
+    "published_at": "2026-07-17T00:45:00+08:00",
+    "stocks": [],
+    "uid": "ffc58664984daa2a89a8052d034f03f0"
+  },
+  {
+    "title": "These 2 Space Stocks Skyrocketed 388% and 174% in 2025: Here's 1 Reason I Wouldn't Buy in 2026.",
+    "url": "https://www.fool.com/investing/2026/07/16/these-x-space-stocks-skyrocketed-x-and-x-in-2025-h/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Rocket Lab and Planet Labs have potential, but there is too much speculation in space stocks right now.",
+    "published_at": "2026-07-17T00:45:00+08:00",
+    "stocks": [],
+    "uid": "6b22f134bf84081c8e7b853dd92e57df"
+  },
+  {
     "title": "Why Frequency Electronics Stock Is Plummeting Today",
     "url": "https://www.fool.com/investing/2026/07/16/why-frequency-electronics-stock-is-plummeting-toda/?source=iedfolrf0000001",
     "source": "Motley Fool",
@@ -271,6 +650,15 @@
     "summary_en": "",
     "title_zh": "「唯一真正的一勞永逸的資產」——這是一位投資者所說的被動收入工作，可以讓你每月淨賺 40,000 美元",
     "summary_zh": ""
+  },
+  {
+    "title": "42% of adults rely on their parents for financial support—there are no 'bad guys' here, says financial therapist",
+    "url": "https://www.cnbc.com/2026/07/16/42percent-of-adults-rely-on-their-parents-for-financial-supportthere-are-no-bad-guys-here-says-financial-therapist.html",
+    "source": "CNBC Top",
+    "summary": "Parents can maximize the impact of their support by ensuring their gifts alleviate financial stress or help their kids move closer to their long-term goals.",
+    "published_at": "2026-07-17T00:30:01+08:00",
+    "stocks": [],
+    "uid": "cac8d0735bb29fe0df4e1256beabd2aa"
   },
   {
     "title": "Boeing Delivered 64 Jets in June. Here's What That Means for Future Free Cash Flow.",
@@ -8731,6 +9119,182 @@
     "summary_zh": "奧布瑞·普拉扎 (Aubrey Plaza) 將她位於加州的西班牙風格住宅的價格降低了近 50 萬美元——在她以大幅降低的要價重新掛牌上市後不到兩個月。"
   },
   {
+    "title": "Why Capital One Financial (COF) is One of the Top Cheap Blue Chip Stocks to Buy According to Wall Street Analysts",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-capital-one-financial-cof-085550154.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T16:55:50+08:00",
+    "stocks": [
+      "COF"
+    ],
+    "uid": "cf53b739002380487aa430da77089b9d"
+  },
+  {
+    "title": "Morgan Stanley Lifts PT on Freeport-McMoRan (FCX) – Here’s Why",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-lifts-pt-freeport-085543439.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T16:55:43+08:00",
+    "stocks": [
+      "FCX"
+    ],
+    "uid": "3985a257013f007e7c2eba1791089c8c"
+  },
+  {
+    "title": "Truist Cuts PT on ConocoPhillips (COP) Following Q2",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/truist-cuts-pt-conocophillips-cop-085536882.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T16:55:36+08:00",
+    "stocks": [
+      "COP"
+    ],
+    "uid": "51898ca0dcbd74ee7a800e60ff79607f"
+  },
+  {
+    "title": "Toyota (TM) to Build a New $3.6 Billion Auto ​Plant in Texas, Reuters Reports",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/toyota-tm-build-3-6-085530377.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T16:55:30+08:00",
+    "stocks": [
+      "TM"
+    ],
+    "uid": "dfdc8e26454889da6b961b6a836c1d3f"
+  },
+  {
+    "title": "Here’s What Wells Fargo Thinks About Comcast Corporation (CMCSA)",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-thinks-comcast-corporation-085523391.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T16:55:23+08:00",
+    "stocks": [
+      "CMCSA"
+    ],
+    "uid": "9202dc760852eac063650eb286b51828"
+  },
+  {
+    "title": "Here’s What the Street Thinks About AT&T Inc. (T)",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/street-thinks-t-inc-t-085516089.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T16:55:16+08:00",
+    "stocks": [
+      "T"
+    ],
+    "uid": "68fd74022708edc62e089fe6a5893b2a"
+  },
+  {
+    "title": "Why T-Mobile US (TMUS) is One of the Top Cheap Blue Chip Stocks to Buy According to Wall Street Analysts",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-t-mobile-us-tmus-085508201.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T16:55:08+08:00",
+    "stocks": [
+      "TMUS"
+    ],
+    "uid": "71d0db5121786d67865b887fe712f951"
+  },
+  {
+    "title": "Why Newmont Corporation (NEM) is One of the Top Cheap Blue Chip Stocks to Buy According to Wall Street Analysts",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-newmont-corporation-nem-one-085501637.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T16:55:01+08:00",
+    "stocks": [
+      "NEM"
+    ],
+    "uid": "53a5ae7f47b47449fef333d5bd52e862"
+  },
+  {
+    "title": "Citizens Initiates Coverage of Keel Infrastructure (KEEL)",
+    "url": "https://finance.yahoo.com/technology/ai/articles/citizens-initiates-coverage-keel-infrastructure-085442011.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T16:54:42+08:00",
+    "stocks": [
+      "KEEL"
+    ],
+    "uid": "5992503c263f9d15aa76befb87e16780"
+  },
+  {
+    "title": "Incannex (IXHL) Secures U.S. Patent Grant in Obstructive Sleep Apnea for IHL-42X",
+    "url": "https://finance.yahoo.com/healthcare/articles/incannex-ixhl-secures-u-patent-085433261.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T16:54:33+08:00",
+    "stocks": [
+      "IXHL"
+    ],
+    "uid": "69af3a2f83fcf1a24bcc747f45c16ab0"
+  },
+  {
+    "title": "HIVE (HIVE) Announces Closing of Private Offering of $130 Million Aggregate Principal Amount of 0% Exchangeable Senior Notes due 2031",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/hive-hive-announces-closing-private-085350781.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T16:53:50+08:00",
+    "stocks": [
+      "HIVE"
+    ],
+    "uid": "bbc0c3694ea093214d5a1aa764059585"
+  },
+  {
+    "title": "B. Riley Lifts PT on Angel Studios (ANGX) – Here’s Why",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/b-riley-lifts-pt-angel-085344540.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T16:53:44+08:00",
+    "stocks": [
+      "ANGX"
+    ],
+    "uid": "1a68028f6fa40fbd3025af33be0d22b4"
+  },
+  {
+    "title": "Why Kopin Corporation (KOPN) is One of the Best Strong Buy Penny Stocks to Invest in Now",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-kopin-corporation-kopn-one-085335940.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T16:53:35+08:00",
+    "stocks": [
+      "KOPN"
+    ],
+    "uid": "e3dd44ceb094afda7fe1d25daf3115c5"
+  },
+  {
+    "title": "Here’s What Analysts Think About Gerdau S.A. (GGB)",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-think-gerdau-ggb-085325422.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T16:53:25+08:00",
+    "stocks": [
+      "GGB"
+    ],
+    "uid": "c23cf9d618ceaf906de3e33e054277df"
+  },
+  {
+    "title": "Prime Medicine (PRME) Reaches Positive Resolution to Arbitration with Beam Therapeutics",
+    "url": "https://finance.yahoo.com/healthcare/articles/prime-medicine-prme-reaches-positive-085317803.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T16:53:17+08:00",
+    "stocks": [
+      "PRME"
+    ],
+    "uid": "c776f249f5204f2cea3e4576d07bdd80"
+  },
+  {
+    "title": "Inventiva (IVA) Announces Issuance of New EIB Warrants, Completes EIB Warrant Restructuring",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/inventiva-iva-announces-issuance-eib-085308516.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T16:53:08+08:00",
+    "stocks": [
+      "IVA"
+    ],
+    "uid": "611fa0412306c3e06fe4453f54e8136c"
+  },
+  {
     "title": "With Netflix Down 45% From Its Highs, Viewer Engagement Concerns Are in Focus Ahead of Its Q2 Earnings Report",
     "url": "https://www.fool.com/investing/2026/07/15/with-netflix-down-45-from-its-highs-viewer-engagem/?source=iedfolrf0000001",
     "source": "Motley Fool",
@@ -8753,6 +9317,48 @@
     "uid": "8528069014a173f39d93bfe5f530e9aa"
   },
   {
+    "title": "i-80 Gold (IAUX) Announces Remaining Assay Results From Completed 2025-2026 Infill Drill Campaign",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/80-gold-iaux-announces-remaining-085256487.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T16:52:56+08:00",
+    "stocks": [
+      "IAUX"
+    ],
+    "uid": "9314abac000bd472bf2c288553ec524c"
+  },
+  {
+    "title": "Why Sable Offshore (SOC) is One of the Best Strong Buy Penny Stocks to Invest in Now",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-sable-offshore-soc-one-085246636.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T16:52:46+08:00",
+    "stocks": [
+      "SOC"
+    ],
+    "uid": "fd00deb24688914267ba5c445857a5e6"
+  },
+  {
+    "title": "Why Grab Holdings (GRAB) is One of the Best Strong Buy Penny Stocks to Invest in Now",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-grab-holdings-grab-one-085237000.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T16:52:37+08:00",
+    "stocks": [
+      "GRAB"
+    ],
+    "uid": "ba10445414d1bd92efeafb149f08e92c"
+  },
+  {
+    "title": "IBM Plunged After Issuing a Warning on the Software Sector. Time to Buy?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ibm-plunged-issuing-warning-software-085000729.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T16:50:00+08:00",
+    "stocks": [],
+    "uid": "821f93ed4b31a2c0a9d4fd60dc1d5ddc"
+  },
+  {
     "title": "Lucid Dismisses Bankruptcy Rumors After Nasdaq Halts Trading. Here’s Why the Stock Plunged Anyway.",
     "url": "https://www.fool.com/investing/2026/07/15/lucid-dismisses-bankruptcy-rumors-after-nasdaq-halts-trading-here-s-why-the-stock-plunged-anyway/?source=iedfolrf0000001",
     "source": "Motley Fool",
@@ -8760,6 +9366,116 @@
     "published_at": "2026-07-15T16:40:18+08:00",
     "stocks": [],
     "uid": "79b23106681aa29ea0440f54de1d9a6e"
+  },
+  {
+    "title": "Jefferies Initiates Coverage of Copa Holdings (CPA) With a Buy – Here’s Why",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jefferies-initiates-coverage-copa-holdings-083602681.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T16:36:02+08:00",
+    "stocks": [
+      "CPA"
+    ],
+    "uid": "5c2f20dd740772295cd72ca165ea014d"
+  },
+  {
+    "title": "Keefe Bruyette Lifts PT on Marex Group (MRX), Names it Top Pick",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/keefe-bruyette-lifts-pt-marex-083551946.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T16:35:51+08:00",
+    "stocks": [
+      "MRX"
+    ],
+    "uid": "8467df67c3d87e5073ee630681e2d719"
+  },
+  {
+    "title": "Raymond James Lifts PT on Ryman Hospitality Properties (RHP) – Here’s Why",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/raymond-james-lifts-pt-ryman-083541453.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T16:35:41+08:00",
+    "stocks": [
+      "RHP"
+    ],
+    "uid": "03f2a518192fe170f8cceb5c7364ba0a"
+  },
+  {
+    "title": "Why Matador Resources (MTDR) is One of the Top Wonderful Stocks to Buy Now",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-matador-resources-mtdr-one-083531232.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T16:35:31+08:00",
+    "stocks": [
+      "MTDR"
+    ],
+    "uid": "bbd660f4ff507d0ba483624bf56289bd"
+  },
+  {
+    "title": "Ladenburg Lifts PT on Host Hotels & Resorts (HST) – Here’s Why",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ladenburg-lifts-pt-host-hotels-083514388.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T16:35:14+08:00",
+    "stocks": [
+      "HST"
+    ],
+    "uid": "94f4021d6638620e80530cb39af684b0"
+  },
+  {
+    "title": "UBS Cuts PT on Chord Energy (CHRD)",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-cuts-pt-chord-energy-083458319.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T16:34:58+08:00",
+    "stocks": [
+      "CHRD"
+    ],
+    "uid": "12791277cb7c1620de6493cdcf573fb0"
+  },
+  {
+    "title": "Morgan Stanley Cuts PT on Permian Resources (PR)",
+    "url": "https://finance.yahoo.com/energy/articles/morgan-stanley-cuts-pt-permian-083429917.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T16:34:29+08:00",
+    "stocks": [
+      "PR"
+    ],
+    "uid": "f7df7584f5fafbb2f87c0053e759052b"
+  },
+  {
+    "title": "Wolfe Research Initiates Coverage of Solaris Energy (SEI)",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wolfe-research-initiates-coverage-solaris-083419643.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T16:34:19+08:00",
+    "stocks": [
+      "SEI"
+    ],
+    "uid": "2343d90249a940e5922005571c123a22"
+  },
+  {
+    "title": "Is Interactive Brokers Group (IBKR) One of the Top Wonderful Stocks to Buy Now?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-group-ibkr-one-083410410.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T16:34:10+08:00",
+    "stocks": [
+      "IBKR"
+    ],
+    "uid": "3a43d4f9d385b47ec625c1b791b98908"
+  },
+  {
+    "title": "Truist Remains Bullish on Zymeworks (ZYME) – Here’s Why",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/truist-remains-bullish-zymeworks-zyme-083335275.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-15T16:33:35+08:00",
+    "stocks": [
+      "ZYME"
+    ],
+    "uid": "a482da5188c7717ba303142e38c8019a"
   },
   {
     "title": "IBM Plunged After Issuing a Warning on the Software Sector. Time to Buy?",
