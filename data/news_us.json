@@ -1,5 +1,384 @@
 [
   {
+    "title": "Why Trump’s Renewed Trade War Could Be Costly",
+    "url": "https://www.nytimes.com/2026/07/24/business/dealbook/trump-trade-war-economy.html",
+    "source": "NYT Business",
+    "summary": "Households and businesses were already contending with an affordability crunch. A new round of tariffs could inflict more pain.",
+    "published_at": "2026-07-24T20:14:19+08:00",
+    "stocks": [],
+    "uid": "cd8891f1e32193ee934344bd29c90aee",
+    "title_en": "Why Trump’s Renewed Trade War Could Be Costly",
+    "summary_en": "Households and businesses were already contending with an affordability crunch. A new round of tariffs could inflict more pain.",
+    "title_zh": "為什麼川普新一輪貿易戰可能代價高昂",
+    "summary_zh": "家庭和企業已經在應對負擔能力緊縮的問題。新一輪關稅可能會帶來更多痛苦。"
+  },
+  {
+    "title": "American Express rides a boom in Platinum cards to its strongest spending growth in years",
+    "url": "https://www.marketwatch.com/story/american-express-rides-a-boom-in-platinum-cards-to-its-strongest-spending-growth-in-years-07ecac26?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Cardmember perks are resonating, an Amex executive says. “It’s really about access.”",
+    "published_at": "2026-07-24T20:11:00+08:00",
+    "stocks": [],
+    "uid": "832c22a018d046146780c4915c2d09fd",
+    "title_en": "American Express rides a boom in Platinum cards to its strongest spending growth in years",
+    "summary_en": "Cardmember perks are resonating, an Amex executive says. “It’s really about access.”",
+    "title_zh": "美國運通乘白金卡熱潮實現多年來最強勁的支出成長",
+    "summary_zh": "美國運通高層表示，持卡人福利引起了共鳴。 “這實際上與訪問有關。”"
+  },
+  {
+    "title": "Can AI replace your financial adviser? Why bots still can’t match human judgment.",
+    "url": "https://www.marketwatch.com/story/can-ai-replace-your-financial-adviser-why-bots-still-cant-match-human-judgment-ddb5903a?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Before you ask AI how to invest $5,000, read this first.",
+    "published_at": "2026-07-24T20:10:00+08:00",
+    "stocks": [],
+    "uid": "e7222d40ff0dd449424cd8387a1311c5",
+    "title_en": "Can AI replace your financial adviser? Why bots still can’t match human judgment.",
+    "summary_en": "Before you ask AI how to invest $5,000, read this first.",
+    "title_zh": "人工智慧可以取代你的財務顧問嗎？為什麼機器人仍然無法匹配人類的判斷。",
+    "summary_zh": "在您詢問 AI 如何投資 5,000 美元之前，請先閱讀本文。"
+  },
+  {
+    "title": "Lamb Weston Holdings earnings beat by $0.25, revenue topped estimates",
+    "url": "https://www.investing.com/news/earnings/lamb-weston-holdings-earnings-beat-by-025-revenue-topped-estimates-4811606",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-24T20:05:09+08:00",
+    "stocks": [],
+    "uid": "a374833db97cd1b207645b212215aee4",
+    "title_en": "Lamb Weston Holdings earnings beat by $0.25, revenue topped estimates",
+    "summary_en": "",
+    "title_zh": "Lamb Weston Holdings 獲利超出預期 0.25 美元，營收超出預期",
+    "summary_zh": ""
+  },
+  {
+    "title": "Cantor Fitzgerald cuts Intel stock price target on server share losses",
+    "url": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-cuts-intel-stock-price-target-on-server-share-losses-93CH-4811605",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-24T20:04:59+08:00",
+    "stocks": [],
+    "uid": "0863c2fdd0dc233f4b74b6eac7ff336b",
+    "title_en": "Cantor Fitzgerald cuts Intel stock price target on server share losses",
+    "summary_en": "",
+    "title_zh": "坎托·菲茨杰拉德因伺服器份額損失而下調英特爾股價目標",
+    "summary_zh": ""
+  },
+  {
+    "title": "KeyBanc reiterates Intel stock rating on strong data center growth",
+    "url": "https://www.investing.com/news/analyst-ratings/keybanc-reiterates-intel-stock-rating-on-strong-data-center-growth-93CH-4811604",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-24T20:04:59+08:00",
+    "stocks": [],
+    "uid": "120dbad7a424fa74a9b756e400b3f490",
+    "title_en": "KeyBanc reiterates Intel stock rating on strong data center growth",
+    "summary_en": "",
+    "title_zh": "KeyBanc 重申英特爾資料中心強勁成長的股票評級",
+    "summary_zh": ""
+  },
+  {
+    "title": "CN Railway beats Q2 estimates, raises 2026 guidance",
+    "url": "https://www.investing.com/news/earnings/cn-railway-beats-q2-estimates-raises-2026-guidance-93CH-4811603",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-24T20:04:57+08:00",
+    "stocks": [],
+    "uid": "35c6928685a81861461d495917735525",
+    "title_en": "CN Railway beats Q2 estimates, raises 2026 guidance",
+    "summary_en": "",
+    "title_zh": "CN Railway 超越第二季預期，上調 2026 年指引",
+    "summary_zh": ""
+  },
+  {
+    "title": "GOOGL technical analysis: oversold on daily frame after earnings-day drop",
+    "url": "https://www.investing.com/news/stock-market-news/googl-technical-analysis-oversold-on-daily-frame-after-earningsday-drop-93CH-4811602",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-24T20:04:50+08:00",
+    "stocks": [],
+    "uid": "2960eee2d9ddabf9fe2619b77e60156c",
+    "title_en": "GOOGL technical analysis: oversold on daily frame after earnings-day drop",
+    "summary_en": "",
+    "title_zh": "GOOGL技術分析：財報日下跌後日線超賣",
+    "summary_zh": ""
+  },
+  {
+    "title": "Estrella doses first patient in EB103 trial expansion phase",
+    "url": "https://www.investing.com/news/company-news/estrella-doses-first-patient-in-eb103-trial-expansion-phase-93CH-4811601",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-24T20:04:38+08:00",
+    "stocks": [],
+    "uid": "2b1ba55b6b711366a8dbe63ad09a58a6",
+    "title_en": "Estrella doses first patient in EB103 trial expansion phase",
+    "summary_en": "",
+    "title_zh": "Estrella 在 EB103 試驗擴展階段對第一位患者進行給藥",
+    "summary_zh": ""
+  },
+  {
+    "title": "CHMP backs obicetrapib for cholesterol treatment in Europe",
+    "url": "https://www.investing.com/news/company-news/chmp-backs-obicetrapib-for-cholesterol-treatment-in-europe-93CH-4811600",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-24T20:04:36+08:00",
+    "stocks": [],
+    "uid": "1d21d8333fcd12043040f1ba29e4a71c",
+    "title_en": "CHMP backs obicetrapib for cholesterol treatment in Europe",
+    "summary_en": "",
+    "title_zh": "CHMP 支持 obicetrapib 在歐洲用於膽固醇治療",
+    "summary_zh": ""
+  },
+  {
+    "title": "Silicon Motion confirms quarterly dividend payment",
+    "url": "https://www.investing.com/news/company-news/silicon-motion-confirms-quarterly-dividend-payment-93CH-4811599",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-24T20:04:36+08:00",
+    "stocks": [],
+    "uid": "9f34790a7f6ab81a29291e4f5c1358d5",
+    "title_en": "Silicon Motion confirms quarterly dividend payment",
+    "summary_en": "",
+    "title_zh": "慧榮確認季度股利支付",
+    "summary_zh": ""
+  },
+  {
+    "title": "DigitalOcean repurchases $472M in convertible notes",
+    "url": "https://www.investing.com/news/company-news/digitalocean-repurchases-472m-in-convertible-notes-93CH-4811598",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-24T20:04:36+08:00",
+    "stocks": [],
+    "uid": "7155c160cb2b1f6c2d92e521fa87a3a9",
+    "title_en": "DigitalOcean repurchases $472M in convertible notes",
+    "summary_en": "",
+    "title_zh": "DigitalOcean 回購 4.72 億美元可轉換票據",
+    "summary_zh": ""
+  },
+  {
+    "title": "Lamb Weston declares $0.38 quarterly dividend",
+    "url": "https://www.investing.com/news/company-news/lamb-weston-declares-038-quarterly-dividend-93CH-4811597",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-24T20:04:35+08:00",
+    "stocks": [],
+    "uid": "0168bcfbe2a0d1a7cf2b5acd93555803",
+    "title_en": "Lamb Weston declares $0.38 quarterly dividend",
+    "summary_en": "",
+    "title_zh": "Lamb Weston 宣布季度股息 0.38 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "How Trump Accounts could impact your child's student aid",
+    "url": "https://finance.yahoo.com/personal-finance/student-loans/article/how-trump-accounts-could-impact-student-aid-103800775.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-24T20:00:00+08:00",
+    "stocks": [],
+    "uid": "9a1e72178e83e4523d9e0e9c3061cc7a",
+    "title_en": "How Trump Accounts could impact your child's student aid",
+    "summary_en": "",
+    "title_zh": "川普帳戶如何影響您孩子的學生援助",
+    "summary_zh": ""
+  },
+  {
+    "title": "Farmers are already set for a $55 billion payday — why does Washington want to give them even more?",
+    "url": "https://www.marketwatch.com/story/farmers-are-already-set-for-a-55-billion-payday-why-does-washington-want-to-give-them-even-more-b81b3f09?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Lawmakers fuel the national debt crisis with an $11 billion farm bailout nobody needs.",
+    "published_at": "2026-07-24T19:50:00+08:00",
+    "stocks": [],
+    "uid": "aec621353ef809b78149b28d869f6f69",
+    "title_en": "Farmers are already set for a $55 billion payday — why does Washington want to give them even more?",
+    "summary_en": "Lawmakers fuel the national debt crisis with an $11 billion farm bailout nobody needs.",
+    "title_zh": "農民已經獲得了 550 億美元的發薪日——為什麼華盛頓還要給他們更多？",
+    "summary_zh": "立法者透過無人需要的 110 億美元農業救助加劇了國家債務危機。"
+  },
+  {
+    "title": "How Much Could a $5,000 Investment in SpaceX Be Worth By 2030? Here's Why This Industrial Stock May Be a Better Buy Today.",
+    "url": "https://www.fool.com/investing/2026/07/24/how-much-could-a-5000-investment-in-spacex-be-wort/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Could $5,000 become $10,000 by 2030, or is a cheaper dividend payer like Northrop Grumman actually the smarter investment today?",
+    "published_at": "2026-07-24T19:45:00+08:00",
+    "stocks": [],
+    "uid": "f2f922a240acef234c563241d0f1ab83",
+    "title_en": "How Much Could a $5,000 Investment in SpaceX Be Worth By 2030? Here's Why This Industrial Stock May Be a Better Buy Today.",
+    "summary_en": "Could $5,000 become $10,000 by 2030, or is a cheaper dividend payer like Northrop Grumman actually the smarter investment today?",
+    "title_zh": "到 2030 年，對 SpaceX 的 5,000 美元投資能值多少錢？這就是為什麼這只工業股今天可能更值得買入。",
+    "summary_zh": "到 2030 年，5,000 美元會變成 10,000 美元嗎？或者像諾斯羅普·格魯曼公司這樣更便宜的股息支付者實際上是當今更明智的投資嗎？"
+  },
+  {
+    "title": "Here's Why Aehr Test Systems Stock Surged Higher This Week",
+    "url": "https://www.fool.com/investing/2026/07/24/heres-why-aehr-test-systems-surged-higher-this-wee/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The stock continues to trade as a proxy for AI semiconductor investment, and for good reason.",
+    "published_at": "2026-07-24T19:36:12+08:00",
+    "stocks": [],
+    "uid": "74d6ef66d91244386899be7d532f2195",
+    "title_en": "Here's Why Aehr Test Systems Stock Surged Higher This Week",
+    "summary_en": "The stock continues to trade as a proxy for AI semiconductor investment, and for good reason.",
+    "title_zh": "這就是 Aehr Test Systems 股票本週飆升的原因",
+    "summary_zh": "該股繼續作為人工智慧半導體投資的代表進行交易，這是有充分理由的。"
+  },
+  {
+    "title": "Oshkosh vs. Caterpillar: What Can Quarterly Revenue Trends Tell Investors?",
+    "url": "https://www.fool.com/coverage/charts/2026/07/24/oshkosh-vs-caterpillar-what-can-quarterly-revenue-trends-tell-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Caterpillar's revenue has nearly tripled Oshkosh's over the past year.",
+    "published_at": "2026-07-24T19:36:01+08:00",
+    "stocks": [],
+    "uid": "4698dab7ac166f2037d1156f2e0adae3",
+    "title_en": "Oshkosh vs. Caterpillar: What Can Quarterly Revenue Trends Tell Investors?",
+    "summary_en": "Caterpillar's revenue has nearly tripled Oshkosh's over the past year.",
+    "title_zh": "奧什科甚與卡特彼勒：季度營收趨勢可以告訴投資人甚麼？",
+    "summary_zh": "去年，卡特彼勒的收入幾乎是奧什科甚的三倍。"
+  },
+  {
+    "title": "Rigetti Computing Is Trading Under $15: Is Now the Time to Buy?",
+    "url": "https://www.fool.com/investing/2026/07/24/rigetti-computing-is-trading-under-15-is-now-the-t/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Is this quantum computing stock a steal at this price?",
+    "published_at": "2026-07-24T19:34:00+08:00",
+    "stocks": [],
+    "uid": "07829fa79a51f9af2691126c61466635",
+    "title_en": "Rigetti Computing Is Trading Under $15: Is Now the Time to Buy?",
+    "summary_en": "Is this quantum computing stock a steal at this price?",
+    "title_zh": "Rigetti Computer 的交易價格低於 15 美元：現在是買入時機嗎？",
+    "summary_zh": "這隻量子計算股票以這個價格便宜嗎？"
+  },
+  {
+    "title": "HubSpot Director Brian Halligan Sells 8,500 Shares for $1.9 Million",
+    "url": "https://www.fool.com/coverage/filings/2026/07/24/hubspot-director-brian-halligan-sells-8-500-shares-for-usd1-9-million/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Sale executed under Rule 10b5-1 trading plan adopted in March, reducing his indirect stake by 9% while maintaining ~439,000 total shares worth $95.99 million.",
+    "published_at": "2026-07-24T19:30:01+08:00",
+    "stocks": [],
+    "uid": "169c0f3ff7b825f404ed02feaa3c88c8",
+    "title_en": "HubSpot Director Brian Halligan Sells 8,500 Shares for $1.9 Million",
+    "summary_en": "Sale executed under Rule 10b5-1 trading plan adopted in March, reducing his indirect stake by 9% while maintaining ~439,000 total shares worth $95.99 million.",
+    "title_zh": "HubSpot 董事 Brian Halligan 以 190 萬美元出售 8,500 股股票",
+    "summary_zh": "根據 3 月通過的規則 10b5-1 交易計劃執行的出售，將他的間接持股減少了 9%，同時保留了約 439,000 股總股份，價值 9,599 萬美元。"
+  },
+  {
+    "title": "Here's Why Hyperliquid Is Now a Threat to Robinhood, Kalshi, and Polymarket",
+    "url": "https://www.fool.com/investing/2026/07/24/heres-why-hyperliquid-is-now-a-threat-to-robinhood/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The decentralized exchange now has a capability that Robinhood lacks.",
+    "published_at": "2026-07-24T19:30:00+08:00",
+    "stocks": [],
+    "uid": "a72cb70f565489fb71112a28dd136a3d",
+    "title_en": "Here's Why Hyperliquid Is Now a Threat to Robinhood, Kalshi, and Polymarket",
+    "summary_en": "The decentralized exchange now has a capability that Robinhood lacks.",
+    "title_zh": "這就是為什麼 Hyperliquid 現在對 Robinhood、Kalshi 和 Polymarket 構成威脅",
+    "summary_zh": "去中心化交易所現在擁有 Robinhood 所缺乏的能力。"
+  },
+  {
+    "title": "Vitalik Buterin Says Ethereum Is Reinventing Itself With a Massive New Overhaul. Where Does ETH Go From Here?",
+    "url": "https://www.fool.com/investing/2026/07/24/vitalik-buterin-says-ethereum-reinvents-itself/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The chain's new plan calls for a swath of big steps in a few different directions.",
+    "published_at": "2026-07-24T19:21:00+08:00",
+    "stocks": [],
+    "uid": "109619f6f5a7827af79f0f05142801ec",
+    "title_en": "Vitalik Buterin Says Ethereum Is Reinventing Itself With a Massive New Overhaul. Where Does ETH Go From Here?",
+    "summary_en": "The chain's new plan calls for a swath of big steps in a few different directions.",
+    "title_zh": "Vitalik Buterin 表示，以太坊正在透過大規模的新改革來重塑自己。 ETH 何去何從？",
+    "summary_zh": "該連鎖店的新計劃要求在幾個不同的方向上採取一系列重大舉措。"
+  },
+  {
+    "title": "Kevin Warsh's Federal Reserve Is Split on Artificial Intelligence, and It Could Have Dire Consequences for Investors",
+    "url": "https://www.fool.com/investing/2026/07/24/kevin-warshs-federal-reserve-is-split-on-artificia/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Is AI causing inflation or will it combat it?",
+    "published_at": "2026-07-24T19:15:00+08:00",
+    "stocks": [],
+    "uid": "58e80b9b6268b162d27e284038fe2c0c",
+    "title_en": "Kevin Warsh's Federal Reserve Is Split on Artificial Intelligence, and It Could Have Dire Consequences for Investors",
+    "summary_en": "Is AI causing inflation or will it combat it?",
+    "title_zh": "凱文沃什領導的聯準會在人工智慧問題上存在分歧，這可能會給投資者帶來可怕的後果",
+    "summary_zh": "人工智慧會導致通貨膨脹還是對抗通膨？"
+  },
+  {
+    "title": "Prediction: Aug. 6 Will Be a Decisive Day for SpaceX",
+    "url": "https://www.fool.com/investing/2026/07/24/prediction-aug-6-will-be-a-decisive-day-for-spacex/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "It may set the tone for the weeks to come.",
+    "published_at": "2026-07-24T19:10:00+08:00",
+    "stocks": [],
+    "uid": "bf143a40e81c1a0912cba72f99b4e5d3",
+    "title_en": "Prediction: Aug. 6 Will Be a Decisive Day for SpaceX",
+    "summary_en": "It may set the tone for the weeks to come.",
+    "title_zh": "預測：8 月 6 日對 SpaceX 來說將是決定性的一天",
+    "summary_zh": "這可能會為未來幾週定下基調。"
+  },
+  {
+    "title": "Verizon’s stock rises as earnings show the company is no longer a ‘hunting ground’",
+    "url": "https://www.marketwatch.com/story/verizons-stock-rises-as-earnings-show-the-company-is-no-longer-a-hunting-ground-f63476b6?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The wireless company beat subscriber expectations while pulling back on costly promotions.",
+    "published_at": "2026-07-24T19:08:00+08:00",
+    "stocks": [],
+    "uid": "7974948fdc6b7c77fc5d7f5594a47c06",
+    "title_en": "Verizon’s stock rises as earnings show the company is no longer a ‘hunting ground’",
+    "summary_en": "The wireless company beat subscriber expectations while pulling back on costly promotions.",
+    "title_zh": "Verizon 股價上漲，財報顯示該公司不再是“狩獵場”",
+    "summary_zh": "這家無線公司超出了用戶的預期，同時取消了昂貴的促銷活動。"
+  },
+  {
+    "title": "2 of Warren Buffett's Biggest Swings and Misses Share a Common Theme",
+    "url": "https://www.fool.com/investing/2026/07/24/2-of-warren-buffett-biggest-swings-and-misses/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "When the Oracle of Omaha wasn't patient, he paid dearly for it.",
+    "published_at": "2026-07-24T19:06:00+08:00",
+    "stocks": [],
+    "uid": "6d2feade0cd990f06abccf0df931dbde"
+  },
+  {
+    "title": "After a 96% 1-Year Run, This Director Sold 37,600 PHVS Shares for $1.3 Million. Is the Rally Over?",
+    "url": "https://www.fool.com/coverage/filings/2026/07/24/after-a-96-1-year-run-this-director-sold-37-600-phvs-shares-for-usd1-3-million-is-the-rally-over/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This late-stage biotech innovator in rare disease therapies reported significant insider selling amid strong one-year share price gains.",
+    "published_at": "2026-07-24T19:01:01+08:00",
+    "stocks": [],
+    "uid": "ac84302d255db108e43aacb808fac192"
+  },
+  {
+    "title": "Boom in tech wealth is fueling record prices for dinosaur bones, art and watches, auction houses say",
+    "url": "https://www.cnbc.com/2026/07/24/wealth-auctions-art-watches.html",
+    "source": "CNBC Top",
+    "summary": "The major auction houses racked up nearly $10 billion in sales in the first half, marking one of the strongest-ever starts to the year.",
+    "published_at": "2026-07-24T19:00:01+08:00",
+    "stocks": [],
+    "uid": "b5ed8b4d2a33ee59631d23356ee47881"
+  },
+  {
+    "title": "Snowflake Director Frank Slootman Sells 300,000 Shares for $82.3 Million",
+    "url": "https://www.fool.com/coverage/filings/2026/07/24/snowflake-director-frank-slootman-sells-300-000-shares-for-usd82-3-million/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Slootman's divestment, executed under a pre-arranged trading plan, reduces his direct ownership stake by 91% while maintaining significant indirect holdings through family trusts.",
+    "published_at": "2026-07-24T19:00:01+08:00",
+    "stocks": [],
+    "uid": "4948285f84dd8c75bb477acee49288c0"
+  },
+  {
+    "title": "‘We are not romantically involved’: I’m marrying my platonic best friend of 20 years. Should I leave him my home?",
+    "url": "https://www.marketwatch.com/story/we-are-not-romantically-involved-im-marrying-my-platonic-best-friend-of-20-years-should-i-leave-him-my-home-3faa0a77?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "“I own my home outright, have no children or other dependents.”",
+    "published_at": "2026-07-24T19:00:00+08:00",
+    "stocks": [],
+    "uid": "0d2a8b7f7cedff6e019c5ade0c98a402"
+  },
+  {
+    "title": "ISCG vs. VOOG: Small-Cap Growth vs. S&P 500 Growth -- Which ETF Is the Better Buy?",
+    "url": "https://www.fool.com/coverage/etfs/2026/07/24/iscg-vs-voog-small-cap-growth-vs-s-and-p-500-growth-which-etf-is-the-better-buy/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "VOOG focuses on mega-cap tech leaders while ISCG diversifies across smaller firms.",
+    "published_at": "2026-07-24T18:53:22+08:00",
+    "stocks": [],
+    "uid": "0b1d608dc6f8a235d566093fcf5901be"
+  },
+  {
     "title": "Why fixing the housing crisis for under-40s could trigger 10% Treasury yields",
     "url": "https://www.marketwatch.com/story/why-fixing-the-housing-crisis-for-under-40s-could-trigger-10-treasury-yields-04c65b78?mod=mw_rss_topstories",
     "source": "MarketWatch",
@@ -11,6 +390,42 @@
     "summary_en": "Bond prices will dive as structural inflation builds, says hedge fund manager",
     "title_zh": "為什麼解決 40 歲以下年輕人的住房危機可能會引發 10% 的國債殖利率",
     "summary_zh": "對沖基金經理人表示，隨著結構性通膨加劇，債券價格將跳水"
+  },
+  {
+    "title": "Daily – Vickers Top Insider Picks for 07/24/2026",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_47714_InsiderActivity_1784889909000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-24T18:45:09+08:00",
+    "stocks": [],
+    "uid": "75944eb3ffa01af7cf69a89c63e32495"
+  },
+  {
+    "title": "Daily – Vickers Top Buyers & Sellers for 07/24/2026",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_47715_TopBottomInsiderActivity_1784889909000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-24T18:45:09+08:00",
+    "stocks": [],
+    "uid": "a786e52de0e80d78972918042f44a035"
+  },
+  {
+    "title": "Here's the Price Where I'd Start Considering Buying Micron Stock",
+    "url": "https://www.fool.com/investing/2026/07/24/heres-the-price-where-id-start-considering-buying/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Is the memory giant's stock a buy after its recent pullback?",
+    "published_at": "2026-07-24T18:45:00+08:00",
+    "stocks": [],
+    "uid": "97d2a5f52c58fe3ac2f730cca94ee16b"
+  },
+  {
+    "title": "Stripe Just Made a $53 Billion Bid for PayPal. Here's What That Means for Bitcoin",
+    "url": "https://www.fool.com/investing/2026/07/24/stripe-just-made-a-53-billion-bid-for-paypal-heres/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "If Bitcoin becomes more than just a store of value, its price could soar accordingly.",
+    "published_at": "2026-07-24T18:45:00+08:00",
+    "stocks": [],
+    "uid": "3a0a54f2cf5ac1744e55dddc351c94ef"
   },
   {
     "title": "Earnings call transcript: NOS posts Q2 2026 EPS beat, shares slip",
@@ -141,6 +556,24 @@
     "summary_en": "",
     "title_zh": "Gorman-Rupp 宣布季度股息 0.19 美元",
     "summary_zh": ""
+  },
+  {
+    "title": "The Trump Administration Launches \"Project Prometheus\" With These Nuclear Energy Stocks (Hint: NuScale Didn't Make the Cut)",
+    "url": "https://www.fool.com/investing/2026/07/24/the-trump-administration-launches-project-prometheus-with-these-nuclear-energy-stocks-hint-nuscale-didn-t-make-the-cut/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "3 nuclear start-ups are partners in the AI-focused nuclear program.",
+    "published_at": "2026-07-24T18:34:01+08:00",
+    "stocks": [],
+    "uid": "c227791da8913229e365829344725c07"
+  },
+  {
+    "title": "5 Things That Smart Money Thinks Could End the Crypto Bear Market",
+    "url": "https://www.fool.com/investing/2026/07/24/5-things-that-smart-money-thinks-could-end-the-cry/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Per Fidelity, the stars could be aligning for the bear market to end.",
+    "published_at": "2026-07-24T18:30:00+08:00",
+    "stocks": [],
+    "uid": "e3ef6d31c3d9dc25da2d0d8bd2d75b07"
   },
   {
     "title": "An A.I. Music F.A.Q.: Can I Remix Madonna? Is This All Legal?",
@@ -6978,6 +7411,24 @@
     "uid": "2bb83c5eda5a808f8246cd498d29a528"
   },
   {
+    "title": "Brent oil tops $100 per barrel, as tumbles for Tesla and Alphabet yank Wall Street lower",
+    "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-higher-mideast-052537242.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-23T13:25:37+08:00",
+    "stocks": [],
+    "uid": "7263d9ce513871bc15c3e987d4e16931"
+  },
+  {
+    "title": "Hyundai Motor reports 21% drop in Q2 operating profit, misses forecasts",
+    "url": "https://finance.yahoo.com/news/hyundai-motor-reports-21-drop-051334409.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-23T13:19:44+08:00",
+    "stocks": [],
+    "uid": "f7cdcc7acddd599bb861e4cb1db44072"
+  },
+  {
     "title": "Global Oil Prices Rise as Conflict With Iran Deepens",
     "url": "https://www.nytimes.com/2026/07/23/business/iran-crude-oil-gas-stock-prices.html",
     "source": "NYT Business",
@@ -6989,6 +7440,15 @@
     "summary_en": "The Houthis claimed to have attacked two ships in the Red Sea, and Iran said a third caught fire near the Strait of Hormuz.",
     "title_zh": "隨著與伊朗的衝突加深，全球油價上漲",
     "summary_zh": "胡塞武裝聲稱襲擊了紅海的兩艘船隻，伊朗稱第三艘船在霍爾木茲海峽附近起火。"
+  },
+  {
+    "title": "Besi orders more than double as AI and hybrid bonding tech drive demand",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/besi-posts-sharp-rise-quarterly-051535589.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-23T13:15:35+08:00",
+    "stocks": [],
+    "uid": "ae9faf9695cee5e6728c5de2fd70790e"
   },
   {
     "title": "Australia jobs surge above forecasts in June, bolstering RBA hike bets",
@@ -7147,6 +7607,15 @@
     "summary_zh": ""
   },
   {
+    "title": "Ambition and caution as Macquarie turns to a safe pair of hands",
+    "url": "https://finance.yahoo.com/news/ambition-caution-macquarie-turns-safe-050159293.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-23T13:01:59+08:00",
+    "stocks": [],
+    "uid": "defe8f6c852683a2e945e1c38d91b817"
+  },
+  {
     "title": "Silver and gold prices stage a cautious rebound — but analysts see slim hopes for a sustained rally",
     "url": "https://www.cnbc.com/2026/07/23/silver-gold-prices-rebound-rally-correction.html",
     "source": "CNBC Top",
@@ -7158,6 +7627,15 @@
     "summary_en": "Precious metals have rallied in recent days, but analysts say prices could face a difficult path back to all-time highs achieved earlier this year.",
     "title_zh": "白銀和黃金價格謹慎反彈，但分析師認為持續反彈的希望渺茫",
     "summary_zh": "貴金屬最近幾天有所上漲，但分析師表示，價格可能面臨重返今年稍早創下的歷史高點的艱難道路。"
+  },
+  {
+    "title": "AI will not trigger employment collapse, staffing company Adecco Group says",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ai-not-trigger-employment-collapse-044831377.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-23T12:48:31+08:00",
+    "stocks": [],
+    "uid": "313eeb8f65b4cbb93cd82bf6dc0e2a41"
   },
   {
     "title": "Mega IPOs Like SpaceX Reshape Major Index Funds and ETFs",
@@ -7173,6 +7651,15 @@
     "summary_zh": "首次公開募股不僅會改變新股的價值。以下是 SpaceX 首次公開發行對數百萬被動投資者的影響。"
   },
   {
+    "title": "Schwab Earnings Boosted by Latest Tax-Focused Strategy",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/schwab-earnings-boosted-latest-tax-040300970.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-23T12:03:00+08:00",
+    "stocks": [],
+    "uid": "3e7b12d88ed64ad288d86dc3ebb6a928"
+  },
+  {
     "title": "Gen Z protests led by India’s 'Cockroach party' are testing Modi’s leadership",
     "url": "https://www.cnbc.com/2026/07/23/gen-z-protest-india-cockroach-modi-leadership.html",
     "source": "CNBC Top",
@@ -7186,6 +7673,15 @@
     "summary_zh": "由偽政治組織「蟑螂簡塔黨」組織的學生抗議活動在挑戰政治體制的過程中勢頭強勁。"
   },
   {
+    "title": "Treasury Officials Call New Tax Alpha ETFs ‘Too Good to Be True’",
+    "url": "https://finance.yahoo.com/markets/options/articles/treasury-officials-call-tax-alpha-040200362.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-23T12:02:00+08:00",
+    "stocks": [],
+    "uid": "b0deae7b7f6c7094571a5a8aacbaffe2"
+  },
+  {
     "title": "Diesel Crisis Puts Poor Farmers Around the World at Risk",
     "url": "https://www.nytimes.com/2026/07/23/business/bangladesh-farmers-diesel-water-iran.html",
     "source": "NYT Business",
@@ -7197,6 +7693,24 @@
     "summary_en": "The closure of the Strait of Hormuz has limited the shipment of diesel, depriving farmers of fuel for irrigation pumps and threatening the food supply.",
     "title_zh": "柴油危機使世界各地的貧困農民面臨風險",
     "summary_zh": "霍爾木茲海峽的關閉限制了柴油的運輸，使農民無法獲得灌溉泵浦的燃料，並威脅糧食供應。"
+  },
+  {
+    "title": "Trump’s 100% Tariffs on Generic Meds Threaten Headaches at Drugstore Checkouts",
+    "url": "https://finance.yahoo.com/economy/policy/articles/trump-100-tariffs-generic-meds-040100396.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-23T12:01:00+08:00",
+    "stocks": [],
+    "uid": "7af343d4112bb90e571c83df645cd786"
+  },
+  {
+    "title": "Welcome to a New Era of Model Portfolios",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/welcome-era-model-portfolios-040100415.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-23T12:01:00+08:00",
+    "stocks": [],
+    "uid": "1a7594a9b0b117648c20ac39a3a95861"
   },
   {
     "title": "Concentrated Pharma Exposure or Broader Global Healthcare? PPH vs. IXJ",
@@ -7689,6 +8203,26 @@
     "summary_zh": "儘管進行了出售，該高管仍保留了 67,109 股直接持有的股票，以及未歸屬的 RSU。"
   },
   {
+    "title": "Santander (SAN) Q2 2026 Earnings Call Transcript",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/santander-san-q2-2026-earnings-002818959.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-23T08:28:18+08:00",
+    "stocks": [
+      "SAN"
+    ],
+    "uid": "ab13359f6c561efdd6b90d3904ebf6fd"
+  },
+  {
+    "title": "IBM CEO Says Company Culture Was Too Slow to Change",
+    "url": "https://www.wsj.com/cio-journal/ibm-ceo-says-company-culture-was-too-slow-to-change-c3ef254c?siteid=yhoof2&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-23T08:27:00+08:00",
+    "stocks": [],
+    "uid": "f686f9daa1a6d692639fb69886681d19"
+  },
+  {
     "title": "Northern Trust (NTRS) Q2 2026 Earnings Call Transcript",
     "url": "https://www.fool.com/earnings/call-transcripts/2026/07/22/northern-trust-ntrs-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
     "source": "Motley Fool",
@@ -7728,6 +8262,15 @@
     "uid": "fd7d6558ba2dcc7f98498efb3d957519"
   },
   {
+    "title": "Why This Forgotten Global Automaker Could Outperform Rivals Over the Next 5 Years",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-forgotten-global-automaker-could-002500463.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-23T08:25:00+08:00",
+    "stocks": [],
+    "uid": "75bc617e50df4a1a7c0db7e7dbcd2723"
+  },
+  {
     "title": "Alphabet Just Delivered 82% Cloud Growth. Why It Wasn't Enough",
     "url": "https://www.fool.com/investing/2026/07/22/alphabet-just-tripled-profit-in-this-ai-centric-ca/?source=iedfolrf0000001",
     "source": "Motley Fool",
@@ -7744,6 +8287,15 @@
     "published_at": "2026-07-23T08:11:00+08:00",
     "stocks": [],
     "uid": "0e32c7b7f108154af93b64fd0f43cbf3"
+  },
+  {
+    "title": "Peter Thiel Turned a $2,000 Roth IRA Into $5 Billion and Will Never Owe a Penny of Tax. The Same Rules Apply to Your Account",
+    "url": "https://finance.yahoo.com/markets/options/articles/peter-thiel-turned-2-000-000936667.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-23T08:09:36+08:00",
+    "stocks": [],
+    "uid": "7de29d7c24ed3fd56e9f27e968a6393e"
   },
   {
     "title": "Equinor (EQNR) Q2 2026 Earnings Call Transcript",

@@ -1,5 +1,599 @@
 [
   {
+    "title": "臺銀人壽總經理異動 董事長張志宏代理",
+    "url": "https://money.udn.com/money/story/5612/9649415",
+    "source": "經濟日報股市",
+    "summary": "臺銀人壽公告總經理劉啟聖於7月26日解任董事及總經理職務，總經理遺缺暫由董事長張志宏代理至本屆董事會任期屆滿止。本屆董事會任期至8月底。",
+    "published_at": "2026-07-24T20:14:48+08:00",
+    "stocks": [],
+    "uid": "f36419d62cb3fab6f73b16857e16509a",
+    "title_zh": "臺銀人壽總經理異動 董事長張志宏代理",
+    "summary_zh": "臺銀人壽公告總經理劉啟聖於7月26日解任董事及總經理職務，總經理遺缺暫由董事長張志宏代理至本屆董事會任期屆滿止。本屆董事會任期至8月底。",
+    "title_en": "Bank of Taiwan Life’s General Manager Changes, Chairman Zhang Zhihong Acts",
+    "summary_en": "Bank of Taiwan Life announced that general manager Liu Qisheng will be relieved of his duties as director and general manager on July 26. In the absence of the general manager, chairman Zhang Zhihong will temporarily act as the deputy until the expiration of the term of the current board of directors. The current term of the board of directors is until the end of August."
+  },
+  {
+    "title": "中市工策會邀前駐印度代表翁文祺開講 提「臺印產業TIM戰略聯盟」構想",
+    "url": "https://money.udn.com/money/story/10871/9649414",
+    "source": "經濟日報股市",
+    "summary": "面對全球供應鏈重組與企業海外布局趨勢，臺中市工商發展投資策進會24日舉辦「大使重磅講座－臺灣與印度關係及臺商的機會與挑戰」，邀請前中華民國駐印度代表翁文祺擔任主講人，深入解析印度投資環境、產業趨勢及臺商布局策略，協助臺中企業掌握全球供應鏈重組契機、降低投資風險，吸引眾多企業代表踴躍參與交流。",
+    "published_at": "2026-07-24T20:14:13+08:00",
+    "stocks": [],
+    "uid": "e7aa6474f55b86275a28bb644f63a534",
+    "title_zh": "中市工策會邀前駐印度代表翁文祺開講 提「臺印產業TIM戰略聯盟」構想",
+    "summary_zh": "面對全球供應鏈重組與企業海外布局趨勢，臺中市工商發展投資策進會24日舉辦「大使重磅講座－臺灣與印度關係及臺商的機會與挑戰」，邀請前中華民國駐印度代表翁文祺擔任主講人，深入解析印度投資環境、產業趨勢及臺商布局策略，協助臺中企業掌握全球供應鏈重組契機、降低投資風險，吸引眾多企業代表踴躍參與交流。",
+    "title_en": "Central City Industrial Policy Association invited former representative to India Weng Wenqi to give a lecture and proposed the concept of \"Taiwan-India Industrial TIM Strategic Alliance\"",
+    "summary_en": "Faced with the trend of global supply chain reorganization and corporate overseas expansion, the Taichung City Industrial and Commercial Development Investment Promotion Association held the \"Ambassador's Lecture - Taiwan-India Relations and Opportunities and Challenges for Taiwanese Businessmen\" on the 24th. Weng Wenqi, the former representative of the Republic of China in India, was invited as the speaker to provide an in-depth analysis of India's investment environment, industrial trends and Taiwanese business deployment strategies, helping Taichung companies seize the opportunities of global supply chain restructuring and reduce investment risks, attracting many business representatives to actively participate in the exchange."
+  },
+  {
+    "title": "台苯因應連4年虧損 宣布10/1起苯乙烯廠停產以改善經營績效",
+    "url": "https://news.cnyes.com/news/id/6545335",
+    "source": "鉅亨網",
+    "summary": "台苯今日傍晚於證交所發布重訊，台苯表示，受制於產能嚴重過剩，導致產品價格下滑，成本不斷墊高，台苯營運績效因未見改善，宣布 10 月 1 日停產於高雄林園的苯乙烯廠。",
+    "published_at": "2026-07-24T20:06:02+08:00",
+    "stocks": [
+      "TWS:1310:STOCK"
+    ],
+    "uid": "864d46ed9742006df483cf6e305ca737",
+    "title_zh": "台苯因應連4年虧損 宣布10/1起苯乙烯廠停產以改善經營績效",
+    "summary_zh": "台苯今日傍晚於證交所發布重訊，台苯表示，受制於產能嚴重過剩，導致產品價格下滑，成本不斷墊高，台苯營運績效因未見改善，宣布 10 月 1 日停產於高雄林園的苯乙烯廠。",
+    "title_en": "In response to four consecutive years of losses, Taiben announced that it would suspend production at its styrene plant from October 1 to improve operating performance.",
+    "summary_en": "Taibenzuo released important news on the stock exchange this evening. Taibenzuo said that due to severe overcapacity, product prices have fallen and costs have continued to increase. Taibenzuo has announced that it will suspend production at its styrene plant in Kaohsiung Linyuan on October 1 because its operating performance has not improved."
+  },
+  {
+    "title": "颱風外圍環流影響　屏東花東防豪大雨",
+    "url": "https://money.udn.com/money/story/122328/9649402",
+    "source": "經濟日報總經",
+    "summary": "受颱風紅霞外圍環流影響，中央氣象署今晚發布豪雨特報，屏東、台東防豪雨，花蓮留意大雨",
+    "published_at": "2026-07-24T20:01:36+08:00",
+    "stocks": [],
+    "uid": "dd7440c7b015c4ce140796318ebc9145",
+    "title_zh": "颱風外圍環流影響　屏東花東防豪大雨",
+    "summary_zh": "受颱風紅霞外圍環流影響，中央氣象署今晚發布豪雨特報，屏東、台東防豪雨，花蓮留意大雨",
+    "title_en": "Impact of typhoon peripheral circulation: Pingtung and Huadong prepare for heavy rain",
+    "summary_en": "Affected by the outer circulation of Typhoon Hongxia, the Central Meteorological Administration issued a special heavy rain warning tonight. Pingtung and Taitung are prepared for heavy rain, and Hualien is aware of heavy rain."
+  },
+  {
+    "title": "台苯苯乙烯廠10月1日起停產　97%營收將受影響",
+    "url": "https://money.udn.com/money/story/5612/9649396",
+    "source": "經濟日報股市",
+    "summary": "台苯今天傍晚召開重大訊息記者會，總經理仲崇國宣布，因應公司持續虧損及改善經營績效，決定將辦理苯乙烯（SM）廠停產事宜，預...",
+    "published_at": "2026-07-24T20:00:31+08:00",
+    "stocks": [],
+    "uid": "1fd2a64e57c510a0bacabbc06db4a27b",
+    "title_zh": "台苯苯乙烯廠10月1日起停產　97%營收將受影響",
+    "summary_zh": "台苯今天傍晚召開重大訊息記者會，總經理仲崇國宣布，因應公司持續虧損及改善經營績效，決定將辦理苯乙烯（SM）廠停產事宜，預...",
+    "title_en": "Taistyrene styrene plant will suspend production from October 1, 97% of revenue will be affected",
+    "summary_en": "Taiben held a major news press conference this evening. General Manager Zhong Chongguo announced that in response to the company's continued losses and improvement of operating performance, it has decided to suspend production at the styrene (SM) plant. It is scheduled..."
+  },
+  {
+    "title": "揚明光學上半年EPS 0.1元 估Q3車用光學產品成長",
+    "url": "https://news.cnyes.com/news/id/6545334",
+    "source": "鉅亨網",
+    "summary": "揚明光學今 (24) 日召開董事會，通過第二季財報營收 7.38 億元，毛利率 16.44%，營業損失 1,286 萬元，稅後純益 514 萬元，每股盈餘 0.05 元。上半年稅後純益 1,112 萬元，年增 35.36%，EPS0.1 元。",
+    "published_at": "2026-07-24T19:59:06+08:00",
+    "stocks": [
+      "TWS:3504:STOCK"
+    ],
+    "uid": "c89e34faefe79468af0111583c6145cb",
+    "title_zh": "揚明光學上半年EPS 0.1元 估Q3車用光學產品成長",
+    "summary_zh": "揚明光學今 (24) 日召開董事會，通過第二季財報營收 7.38 億元，毛利率 16.44%，營業損失 1,286 萬元，稅後純益 514 萬元，每股盈餘 0.05 元。上半年稅後純益 1,112 萬元，年增 35.36%，EPS0.1 元。",
+    "title_en": "Yangming Optical's EPS in the first half of the year is 0.1 yuan, estimating the growth of automotive optical products in Q3",
+    "summary_en": "Yang Mingguang held a board meeting today (24th) and approved the second quarter financial report with revenue of 738 million yuan, gross profit margin of 16.44%, operating loss of 12.86 million yuan, after-tax net income of 5.14 million yuan, and earnings per share of 0.05 yuan. Net profit after tax in the first half of the year was 11.12 million yuan, an annual increase of 35.36%, and EPS was 0.1 yuan."
+  },
+  {
+    "title": "首家引進歐洲私募信貸公股銀！一銀高雄專區AUM衝500億大關、高端客戶破400戶",
+    "url": "https://news.cnyes.com/news/id/6545299",
+    "source": "鉅亨網",
+    "summary": "第一銀行積極響應金管會推動臺灣成為「亞洲資產管理中心」的政策目標，自 2025 年 7 月 1 日正式進駐高雄資產管理專區以來，至今已屆滿週年。第一銀行選擇於「新興分行」開辦專區業務，透過深耕地方高資產客戶，交出了亮眼的",
+    "published_at": "2026-07-24T19:55:35+08:00",
+    "stocks": [
+      "TWS:2892:STOCK"
+    ],
+    "uid": "f2b9a7d5669079b068cb61cd94369224",
+    "title_zh": "首家引進歐洲私募信貸公股銀！一銀高雄專區AUM衝500億大關、高端客戶破400戶",
+    "summary_zh": "第一銀行積極響應金管會推動臺灣成為「亞洲資產管理中心」的政策目標，自 2025 年 7 月 1 日正式進駐高雄資產管理專區以來，至今已屆滿週年。第一銀行選擇於「新興分行」開辦專區業務，透過深耕地方高資產客戶，交出了亮眼的",
+    "title_en": "The first private equity bank to introduce European private equity loans! The AUM of Yiyin Bank's Kaohsiung Zone exceeded the 50 billion mark, and the number of high-end customers exceeded 400",
+    "summary_en": "First Bank actively responds to the Financial Supervisory Commission's policy goal of promoting Taiwan to become the \"Asian Asset Management Center\". It has officially entered the Kaohsiung Asset Management Zone on July 1, 2025, which has now reached the anniversary. First Bank chose to open a dedicated business in the \"Emerging Branch\" and by deeply cultivating local high-asset customers, it has delivered outstanding results."
+  },
+  {
+    "title": "民進黨國務青旗艦營登場　盼為年底大選注入活水",
+    "url": "https://money.udn.com/money/story/7307/9649392",
+    "source": "經濟日報總經",
+    "summary": "民進黨2026國務青旗艦營今天在台北正式登場，盼透過此次營隊增補青年人才，為年底大選注入青春及活水。民進黨秘書長徐國勇表...",
+    "published_at": "2026-07-24T19:54:35+08:00",
+    "stocks": [],
+    "uid": "95a0ddf618811108d0c2af89daaddd31",
+    "title_zh": "民進黨國務青旗艦營登場　盼為年底大選注入活水",
+    "summary_zh": "民進黨2026國務青旗艦營今天在台北正式登場，盼透過此次營隊增補青年人才，為年底大選注入青春及活水。民進黨秘書長徐國勇表...",
+    "title_en": "DPP State Youth Flagship Camp Debuts, Hoping to Inject Vital Water into the Year-end General Election",
+    "summary_en": "The Democratic Progressive Party's 2026 National Youth Flagship Camp was officially launched in Taipei today. It is hoped that through this camp, young talents will be added to inject youth and vitality into the general election at the end of the year. Xu Guoyong, Secretary-General of the Democratic Progressive Party, said..."
+  },
+  {
+    "title": "微星科技寵粉無極限 「永遠的好朋友」專屬禮遇！",
+    "url": "https://money.udn.com/money/story/11162/9649393",
+    "source": "經濟日報股市",
+    "summary": "玩家永遠是我們最珍視的「好朋友」！就像《玩具總動員》中胡迪與巴斯光年那份歷久彌新的神仙友誼，微星（2377）一路走來，始終將粉絲的聲音與體驗放在心裡的最首位。為了深深感謝曾經購買微星科技《玩具總動員》聯名桌機的忠實老戰友，特別企劃「神祕禮盒降臨」專屬感恩活動，凡購買過微星科技《玩具總動員》聯名桌機的玩家，登入「MSI 會員中心」完成指定產品註冊及活動登錄，即可免費獲得超級Ｑ萌的限量「蛋頭先生造型顯卡支撐架」。",
+    "published_at": "2026-07-24T19:54:31+08:00",
+    "stocks": [
+      "2377"
+    ],
+    "uid": "ed0d538788ac253ede85c7d8cfb5de53",
+    "title_zh": "微星科技寵粉無極限 「永遠的好朋友」專屬禮遇！",
+    "summary_zh": "玩家永遠是我們最珍視的「好朋友」！就像《玩具總動員》中胡迪與巴斯光年那份歷久彌新的神仙友誼，微星（2377）一路走來，始終將粉絲的聲音與體驗放在心裡的最首位。為了深深感謝曾經購買微星科技《玩具總動員》聯名桌機的忠實老戰友，特別企劃「神祕禮盒降臨」專屬感恩活動，凡購買過微星科技《玩具總動員》聯名桌機的玩家，登入「MSI 會員中心」完成指定產品註冊及活動登錄，即可免費獲得超級Ｑ萌的限量「蛋頭先生造型顯卡支撐架」。",
+    "title_en": "There are no limits to the exclusive “Best Friends Forever” gift for MSI fans!",
+    "summary_en": "Players will always be our most cherished \"good friends\"! Just like the long-lasting fairy friendship between Woody and Buzz Lightyear in \"Toy Story\", MSI (2377) has always put the voices and experiences of fans at the top of its heart along the way. In order to deeply express our gratitude to our loyal comrades who have purchased the MSI \"Toy Story\" co-branded desktop computer, we have specially planned the \"Mysterious Gift Box Arrival\" exclusive gratitude event. Players who have purchased the MSI \"Toy Story\" co-branded desktop computer can receive the super cute limited edition \"Mr. Eggman-shaped graphics card support stand\" for free by logging into the \"MSI Member Center\" to complete designated product registration and event login."
+  },
+  {
+    "title": "輝達AI-RAN卡位6G　基地台變身AI伺服器 榮群、互動、智邦迎商機",
+    "url": "https://money.udn.com/money/story/5607/9647121",
+    "source": "經濟日報",
+    "summary": "榮群擔任了Infinera產品在台灣的第一線運維保固代表，當電信商回報問題時，由榮群的在地工程師先進行除錯與搶修。如果遇到底層PIC晶片或核心韌體問題，再向Infinera美國總部申請最高層級的技術支援(Tier 3 Support)。\n\n當Infinera與諾基亞的產品線合二為一後，榮群在台灣Pre-6G與高階光通訊局端建設的專案金額將會顯著拉高。2026年EPS預估約0.65元、2027年約1.75元，受限於專案時程，處於營收調整期。\n\n台灣電信業經歷了台灣大併台灣之星，與遠傳併亞太的龐大網路整合作業。互動主攻電信網路的局端布建工程，協助電信商將不同頻段、不同世代的舊設備，與諾基亞的新世代5G/5GA設備進行無縫合網。\n\n互動本身就是Infinera在台灣的端到端WDM解決方案的夥伴，當Infinera納入諾基亞旗下後，互動等於同時掌握了諾基亞的無線通訊(RAN)與Infinera的超高階光傳輸兩大武器，能為電信商或大型企業資料中心(DCI)提供更完整的網算一體解決方案。",
+    "published_at": "2026-07-24T19:53:44+08:00",
+    "stocks": [],
+    "uid": "56793d8b8701511b30c2553ebda86ca0",
+    "title_zh": "輝達AI-RAN卡位6G　基地台變身AI伺服器 榮群、互動、智邦迎商機",
+    "summary_zh": "榮群擔任了Infinera產品在台灣的第一線運維保固代表，當電信商回報問題時，由榮群的在地工程師先進行除錯與搶修。如果遇到底層PIC晶片或核心韌體問題，再向Infinera美國總部申請最高層級的技術支援(Tier 3 Support)。\n\n當Infinera與諾基亞的產品線合二為一後，榮群在台灣Pre-6G與高階光通訊局端建設的專案金額將會顯著拉高。2026年EPS預估約0.65元、2027年約1.75元，受限於專案時程，處於營收調整期。\n\n台灣電信業經歷了台灣大併台灣之星，與遠傳併亞太的龐大網路整合作業。互動主攻電信網路的局端布建工程，協助電信商將不同頻段、不同世代的舊設備，與諾基亞的新世代5G/5GA設備進行無縫合網。\n\n互動本身就是Infinera在台灣的端到端WDM解決方案的夥伴，當Infinera納入諾基亞旗下後，互動等於同時掌握了諾基亞的無線通訊(RAN)與Infinera的超高階光傳輸兩大武器，能為電信商或大型企業資料中心(DCI)提供更完整的網算一體解決方案。",
+    "title_en": "Huida AI-RAN card slot 6G base station transformed into AI server Rongqun, Interactive, Zhibang welcome business opportunities",
+    "summary_en": "Rongqun serves as the front-line operation and maintenance representative for Infinera products in Taiwan. When telecom operators report problems, Rongqun's local engineers first perform debugging and repairs. If you encounter problems with the underlying PIC chip or core firmware, apply for the highest level of technical support (Tier 3 Support) from Infinera's US headquarters.\n\nWhen the product lines of Infinera and Nokia are merged into one, Rongqun's projects in Taiwan's Pre-6G and high-end optical communication central offices will increase significantly. The EPS is estimated to be about 0.65 yuan in 2026 and about 1.75 yuan in 2027. It is limited by the project schedule and is in the revenue adjustment period.\n\nTaiwan's telecommunications industry has experienced the massive network integration operations of Taiwan's merger with Taiwan Star and Far EasTone's merger with Asia Pacific. Interactive focuses on the central office deployment project of telecommunications networks, assisting telecommunications companies in seamlessly connecting old equipment of different frequency bands and different generations with Nokia's new generation 5G/5GA equipment.\n\nInteractive itself is Infinera's end-to-end WDM solution partner in Taiwan. When Infinera becomes a subsidiary of Nokia, Interactive has mastered both Nokia's wireless communications (RAN) and Infinera's ultra-high-end optical transmission. It can provide telecom operators or large enterprise data centers (DCI) with more complete integrated network and computing solutions."
+  },
+  {
+    "title": "台苯連虧四年 董事會決議停產主要產品苯乙烯",
+    "url": "https://money.udn.com/money/story/5612/9649391",
+    "source": "經濟日報股市",
+    "summary": "台苯（1310）24日公告，因塑化市場景氣低迷，公司營運績效持續未見改善，董事會決議自10月1日起，停止主要產品苯乙烯（SM）生產作業，以因應持續虧損並改善經營績效。",
+    "published_at": "2026-07-24T19:53:11+08:00",
+    "stocks": [
+      "1310"
+    ],
+    "uid": "f15611fd0607662cdb5346ece15977d2",
+    "title_zh": "台苯連虧四年 董事會決議停產主要產品苯乙烯",
+    "summary_zh": "台苯（1310）24日公告，因塑化市場景氣低迷，公司營運績效持續未見改善，董事會決議自10月1日起，停止主要產品苯乙烯（SM）生產作業，以因應持續虧損並改善經營績效。",
+    "title_en": "Taiwan Benzene has suffered losses for four consecutive years and the board of directors decided to discontinue the production of its main product styrene.",
+    "summary_en": "Taishen (1310) announced on the 24th that due to the downturn in the plasticizing market and the company's operating performance continuing to show no improvement, the board of directors decided to cease the production of its main product styrene (SM) starting from October 1 in order to cope with continued losses and improve operating performance."
+  },
+  {
+    "title": "奧孟亞取得科技事業函 將依時程推進IPO作業",
+    "url": "https://news.cnyes.com/news/id/6545297",
+    "source": "鉅亨網",
+    "summary": "奧孟亞 (7776-TW) 今 (24) 日公告，已取得經濟部產業發展署出具「係屬科技事業及產品開發成功且具市場性」的意見書。奧孟亞指出，後續將依既定時程推進 IPO 相關作業，並依主管機關辦理股票上市申請。",
+    "published_at": "2026-07-24T19:48:56+08:00",
+    "stocks": [
+      "TWG:7776:STOCK"
+    ],
+    "uid": "ef70790e78045ff92b5dc86dade57be2",
+    "title_zh": "奧孟亞取得科技事業函 將依時程推進IPO作業",
+    "summary_zh": "奧孟亞 (7776-TW) 今 (24) 日公告，已取得經濟部產業發展署出具「係屬科技事業及產品開發成功且具市場性」的意見書。奧孟亞指出，後續將依既定時程推進 IPO 相關作業，並依主管機關辦理股票上市申請。",
+    "title_en": "Omenya obtained a science and technology business letter and will advance the IPO process according to the schedule",
+    "summary_en": "Omenya (7776-TW) announced today (24th) that it has obtained a letter of opinion from the Industrial Development Agency of the Ministry of Economic Affairs that \"it is a scientific and technological undertaking and product development that is successful and marketable\". Omenya pointed out that IPO-related operations will be carried out in accordance with the established schedule and stock listing applications will be processed in accordance with the competent authorities."
+  },
+  {
+    "title": "港務公司受邀韓國郵輪論壇演講 爭取國際航商靠泊擘劃郵輪布局",
+    "url": "https://news.cnyes.com/news/id/6545241",
+    "source": "鉅亨網",
+    "summary": "港務公司董事長周永暉率隊，赴韓國濟州參加「2026 年濟州郵輪論壇」，此次論壇吸引全球郵輪航商、港口當局、地方政府與產學界代表共襄盛舉，更向國際航商與亞洲重要港口單位展現台灣港口目的地的旅遊魅力。",
+    "published_at": "2026-07-24T19:48:11+08:00",
+    "stocks": [],
+    "uid": "b02b3f8952af1b287d2e07af85105c8e",
+    "title_zh": "港務公司受邀韓國郵輪論壇演講 爭取國際航商靠泊擘劃郵輪布局",
+    "summary_zh": "港務公司董事長周永暉率隊，赴韓國濟州參加「2026 年濟州郵輪論壇」，此次論壇吸引全球郵輪航商、港口當局、地方政府與產學界代表共襄盛舉，更向國際航商與亞洲重要港口單位展現台灣港口目的地的旅遊魅力。",
+    "title_en": "The port company was invited to give a speech at the Korean Cruise Forum, striving for international shipping companies to dock and plan the cruise layout",
+    "summary_en": "Zhou Yonghui, chairman of the port company, led a team to Jeju, South Korea to participate in the \"2026 Jeju Cruise Forum\". The forum attracted global cruise operators, port authorities, local governments and representatives from industry and academia to participate in the grand event. It also showcased the tourism charm of Taiwan's port destinations to international shipping companies and important Asian port units."
+  },
+  {
+    "title": "鴻海研究院聯手陽明交大 研發超大容量矽光子技術",
+    "url": "https://money.udn.com/money/story/5612/9649389",
+    "source": "經濟日報股市",
+    "summary": "隨著人工智慧席捲全球，大家對網路傳輸速度的要求也越來越高，當全世界的資料中心都在瘋狂運算AI的同時，後台的數據傳輸網路正面臨嚴重的「大塞車」。為了解決這個全球難題，鴻海（2317）集團旗下的鴻海研究院（HHRI），聯手國立陽明交通大學，成功研發出最新的「高容量矽光子發射器」技術。研究成果正式登上全球光學界的權威學術期刊《Optics Express》，向全世界展現台灣硬實力！",
+    "published_at": "2026-07-24T19:47:35+08:00",
+    "stocks": [
+      "2317"
+    ],
+    "uid": "288104ca37519b72263150fbfda2f82e",
+    "title_zh": "鴻海研究院聯手陽明交大 研發超大容量矽光子技術",
+    "summary_zh": "隨著人工智慧席捲全球，大家對網路傳輸速度的要求也越來越高，當全世界的資料中心都在瘋狂運算AI的同時，後台的數據傳輸網路正面臨嚴重的「大塞車」。為了解決這個全球難題，鴻海（2317）集團旗下的鴻海研究院（HHRI），聯手國立陽明交通大學，成功研發出最新的「高容量矽光子發射器」技術。研究成果正式登上全球光學界的權威學術期刊《Optics Express》，向全世界展現台灣硬實力！",
+    "title_en": "Hon Hai Research Institute joins forces with Yangming Jiaotong University to develop ultra-large capacity silicon photonics technology",
+    "summary_en": "As artificial intelligence sweeps the world, everyone's requirements for network transmission speed are getting higher and higher. While data centers around the world are frantically computing AI, the backend data transmission network is facing a serious \"big traffic jam.\" In order to solve this global problem, Hon Hai Research Institute (HHRI), a subsidiary of Hon Hai (2317) Group, teamed up with National Yang-Ming Chiao Tung University to successfully develop the latest \"high-capacity silicon photon emitter\" technology. The research results were officially published in \"Optics Express\", the authoritative academic journal in the global optical community, showing Taiwan's hard power to the world!"
+  },
+  {
+    "title": "港警搜查書店逮5人後　衛報關注「唯紅花綻放」在台熱賣",
+    "url": "https://money.udn.com/money/story/122328/9649385",
+    "source": "經濟日報總經",
+    "summary": "香港警方上週搜查兩間書店，並以涉嫌展示及販售「煽動」書籍逮捕5人，其中一名女子被帶走時身穿印有「我是書店店員」的T恤，這...",
+    "published_at": "2026-07-24T19:45:49+08:00",
+    "stocks": [],
+    "uid": "05c8fa2aa2a61a2a2b76249ad0b136a2",
+    "title_zh": "港警搜查書店逮5人後　衛報關注「唯紅花綻放」在台熱賣",
+    "summary_zh": "香港警方上週搜查兩間書店，並以涉嫌展示及販售「煽動」書籍逮捕5人，其中一名女子被帶走時身穿印有「我是書店店員」的T恤，這...",
+    "title_en": "Hong Kong police raid bookstore and arrest 5 people, The Guardian is concerned about the hot sales of \"Only Red Flowers Bloom\" in Taiwan",
+    "summary_en": "Hong Kong police raided two bookstores last week and arrested five people on suspicion of displaying and selling \"seditious\" books. One of the women was wearing a T-shirt with \"I am a bookstore clerk\" printed on it when she was taken away..."
+  },
+  {
+    "title": "2026台北國際合唱音樂節　10天5國名團齊聚台灣",
+    "url": "https://money.udn.com/money/story/122328/9649383",
+    "source": "經濟日報總經",
+    "summary": "2026台北國際合唱音樂節今天起登場，一連10天5國名團齊聚台灣，匈牙利國寶級Cantemus兒童合唱團在記者會現場演唱...",
+    "published_at": "2026-07-24T19:45:29+08:00",
+    "stocks": [],
+    "uid": "3eabcab5e721c6ae25d0c4d584ad61a4",
+    "title_zh": "2026台北國際合唱音樂節　10天5國名團齊聚台灣",
+    "summary_zh": "2026台北國際合唱音樂節今天起登場，一連10天5國名團齊聚台灣，匈牙利國寶級Cantemus兒童合唱團在記者會現場演唱...",
+    "title_en": "2026 Taipei International Choral Music Festival: 5 famous national groups gather in Taiwan in 10 days",
+    "summary_en": "The 2026 Taipei International Choral Music Festival starts today. Five famous national groups will gather in Taiwan for 10 consecutive days. Hungary's national treasure Cantemus Children's Choir performed live at the press conference..."
+  },
+  {
+    "title": "麥當勞打工少女疑遭性侵輕生案遭糾正 北市勞動局說話了",
+    "url": "https://money.udn.com/money/story/7307/9649372",
+    "source": "經濟日報總經",
+    "summary": "麥當勞公司前主管涉性侵未成年女工讀生，導致該名少女罹患憂鬱症不幸墜河輕生，監察院今公布，因北市勞動局跨局處間橫向聯繫不足，通過糾正。對此，北市勞動局表示，並非地方政府未依法行政，呼籲中央修法並精進保護措施，為勞工提供更多的保障。",
+    "published_at": "2026-07-24T19:44:36+08:00",
+    "stocks": [],
+    "uid": "4e7c3b5f3f8911a589c0083f20503d72",
+    "title_zh": "麥當勞打工少女疑遭性侵輕生案遭糾正 北市勞動局說話了",
+    "summary_zh": "麥當勞公司前主管涉性侵未成年女工讀生，導致該名少女罹患憂鬱症不幸墜河輕生，監察院今公布，因北市勞動局跨局處間橫向聯繫不足，通過糾正。對此，北市勞動局表示，並非地方政府未依法行政，呼籲中央修法並精進保護措施，為勞工提供更多的保障。",
+    "title_en": "The case of a girl working at McDonald's who was suspected of sexual assault and suicide was corrected, and the Beijing Municipal Labor Bureau spoke out",
+    "summary_en": "A former supervisor of McDonald's Corporation was involved in sexually assaulting an underage female work-study student, causing the girl to suffer from depression and unfortunately fell into a river and committed suicide. The Supervisory Yuan announced today that it was corrected due to insufficient horizontal communication between the Beijing Municipal Labor Bureau and inter-bureau offices. In this regard, the Beijing Municipal Labor Bureau stated that it was not that the local government failed to administer in accordance with the law and called on the central government to amend the law and improve protection measures to provide more protection for workers."
+  },
+  {
+    "title": "美301關稅台灣稅率10% 洪申翰：研議落實禁「強迫勞動」商品進口",
+    "url": "https://money.udn.com/money/story/7307/9649369",
+    "source": "經濟日報總經",
+    "summary": "美國針對60國「強迫勞動301調查」公布新稅率，我國適用「10%不疊加最惠國（MFN）關稅」機制。勞動部長洪申翰今受訪表示，後續將與經濟部合作，落實禁止強迫勞動商品進口的承諾。",
+    "published_at": "2026-07-24T19:44:34+08:00",
+    "stocks": [],
+    "uid": "aec6369a340f6cbe1b20a60c26132eb9",
+    "title_zh": "美301關稅台灣稅率10% 洪申翰：研議落實禁「強迫勞動」商品進口",
+    "summary_zh": "美國針對60國「強迫勞動301調查」公布新稅率，我國適用「10%不疊加最惠國（MFN）關稅」機制。勞動部長洪申翰今受訪表示，後續將與經濟部合作，落實禁止強迫勞動商品進口的承諾。",
+    "title_en": "U.S. Section 301 tariff, Taiwan tax rate is 10%. Hong Shenhan: Discussing implementation of ban on the import of \"forced labor\" goods",
+    "summary_en": "The United States announced new tax rates in response to the \"Section 301 Investigation of Forced Labor\" in 60 countries, and my country applies the \"10% non-superimposed Most Favored Nation (MFN) tariff\" mechanism. Minister of Labor Hong Shenhan said in an interview today that he will cooperate with the Ministry of Economic Affairs to implement the commitment to ban the import of forced labor goods."
+  },
+  {
+    "title": "仁寶參展 AMD AI 大會 秀出兩款 AI 伺服器平台",
+    "url": "https://money.udn.com/money/story/11162/9649382",
+    "source": "經濟日報股市",
+    "summary": "仁寶（2324）於美國舊金山舉辦的 AMD Advancing AI 2026展示新一代企業級AI運算平台。透過搭載第六代AMD EPYC 9006系列伺服器處理器與AMD Instinct GPU加速器的平台。",
+    "published_at": "2026-07-24T19:42:59+08:00",
+    "stocks": [
+      "2324"
+    ],
+    "uid": "1e65b7dae7bd896a5cf88c9b8680e49c",
+    "title_zh": "仁寶參展 AMD AI 大會 秀出兩款 AI 伺服器平台",
+    "summary_zh": "仁寶（2324）於美國舊金山舉辦的 AMD Advancing AI 2026展示新一代企業級AI運算平台。透過搭載第六代AMD EPYC 9006系列伺服器處理器與AMD Instinct GPU加速器的平台。",
+    "title_en": "Compal participated in the AMD AI Conference and showed off two AI server platforms",
+    "summary_en": "Compal (2324) demonstrated a new generation of enterprise-level AI computing platform at AMD Advancing AI 2026 held in San Francisco, USA. Through a platform equipped with sixth-generation AMD EPYC 9006 series server processors and AMD Instinct GPU accelerators."
+  },
+  {
+    "title": "正瀚今年上半年EPS 5.65元創近3年高 看好下半年維持成長",
+    "url": "https://news.cnyes.com/news/id/6545239",
+    "source": "鉅亨網",
+    "summary": "正瀚今日公告第二季財報，累計今年上半年稅後純益 5.78 億元，每股純益 5.65 元，創近 3 年同期新高。正瀚指出，受惠高附加價值產品效益發酵，預期下半年將維持成長。",
+    "published_at": "2026-07-24T19:37:33+08:00",
+    "stocks": [
+      "TWG:6534:STOCK",
+      "TWG:6534:STOCK"
+    ],
+    "uid": "7ead1988808023127cbef32f96e86185",
+    "title_zh": "正瀚今年上半年EPS 5.65元創近3年高 看好下半年維持成長",
+    "summary_zh": "正瀚今日公告第二季財報，累計今年上半年稅後純益 5.78 億元，每股純益 5.65 元，創近 3 年同期新高。正瀚指出，受惠高附加價值產品效益發酵，預期下半年將維持成長。",
+    "title_en": "Zhenghan's EPS in the first half of this year hit a three-year high of 5.65 yuan, and it is optimistic about maintaining growth in the second half of the year.",
+    "summary_en": "Zhenghan announced its second-quarter financial report today. The cumulative after-tax net profit for the first half of this year was 578 million yuan, and the net profit per share was 5.65 yuan, a new high for the same period in the past three years. Zhenghan pointed out that it is expected to maintain growth in the second half of the year, benefiting from the benefits of high value-added products."
+  },
+  {
+    "title": "藍白兒少未來帳戶條例三讀　政院：依既有政策規劃推動",
+    "url": "https://money.udn.com/money/story/7307/9649379",
+    "source": "經濟日報總經",
+    "summary": "立法院會今天三讀通過藍白合力推動的「台灣兒少成長及未來帳戶條例」，不過，行政院表示，提出施政計畫、編列政府預算是行政院的...",
+    "published_at": "2026-07-24T19:36:47+08:00",
+    "stocks": [],
+    "uid": "ba3dfab332fba7e82e15cd881bc17c29",
+    "title_zh": "藍白兒少未來帳戶條例三讀　政院：依既有政策規劃推動",
+    "summary_zh": "立法院會今天三讀通過藍白合力推動的「台灣兒少成長及未來帳戶條例」，不過，行政院表示，提出施政計畫、編列政府預算是行政院的...",
+    "title_en": "The third reading of the Lanbaier Young Future Account Regulations. Government: Promote in accordance with existing policy plans",
+    "summary_en": "The Legislative Yuan today passed the \"Taiwan Children's Growth and Future Account Ordinance\" jointly promoted by blue and white in the third reading. However, the Executive Yuan stated that it is the Executive Yuan's responsibility to propose policy plans and prepare government budgets..."
+  },
+  {
+    "title": "從家中創業！她27歲「年營收衝破2.5億」 只花半天進帳420萬",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5516775",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕英國一名27歲女子原本只是因疫情期間無法到美容院，而自行研發睫毛精華液，沒想到這個從家中起步的創業點子，如今已發展成年營收約780萬美元（約新台幣2.5億元）的美妝品牌，其...…",
+    "published_at": "2026-07-24T19:34:20+08:00",
+    "stocks": [],
+    "uid": "2205f49bd4f1dee97e36e9cd84415a57",
+    "title_zh": "從家中創業！她27歲「年營收衝破2.5億」 只花半天進帳420萬",
+    "summary_zh": "〔財經頻道／綜合報導〕英國一名27歲女子原本只是因疫情期間無法到美容院，而自行研發睫毛精華液，沒想到這個從家中起步的創業點子，如今已發展成年營收約780萬美元（約新台幣2.5億元）的美妝品牌，其...…",
+    "title_en": "Start a business from home! At the age of 27, her \"annual revenue exceeded 250 million\" and it only took half a day to earn 4.2 million",
+    "summary_en": "[Financial Channel/Comprehensive Report] A 27-year-old British woman originally developed her own eyelash serum because she could not go to beauty salons during the epidemic. Unexpectedly, this business idea that started at home has now developed into a beauty brand with a revenue of approximately US$7.8 million (approximately NT$250 million). Its..."
+  },
+  {
+    "title": "行政院公布 NCC 七位委員候選人名單 要趕在7月31日想辦法通過",
+    "url": "https://money.udn.com/money/story/7307/9649378",
+    "source": "經濟日報總經",
+    "summary": "國家通訊傳播委員會（NCC）三位委員任期至今年7月31日，市場擔心出現「團滅」。行政院24日緊急提出七名委員被提名人名單，包括指定主委袁秀慧、副主委蕭蘋，以及現任委員王怡惠留任，配合NCC委員任期交錯制，三人的任期至2030年7月31日，為任期四年的委員。",
+    "published_at": "2026-07-24T19:32:33+08:00",
+    "stocks": [],
+    "uid": "6a26520e82a28b99006eab100dd02061",
+    "title_zh": "行政院公布 NCC 七位委員候選人名單 要趕在7月31日想辦法通過",
+    "summary_zh": "國家通訊傳播委員會（NCC）三位委員任期至今年7月31日，市場擔心出現「團滅」。行政院24日緊急提出七名委員被提名人名單，包括指定主委袁秀慧、副主委蕭蘋，以及現任委員王怡惠留任，配合NCC委員任期交錯制，三人的任期至2030年7月31日，為任期四年的委員。",
+    "title_en": "The Executive Yuan announced the list of seven NCC committee members candidates and must find a way to pass it by July 31",
+    "summary_en": "The three members of the National Communications Commission (NCC) will be in office until July 31 this year, and the market is worried about the \"annihilation\" of the group. The Executive Yuan urgently proposed a list of seven committee member nominees on the 24th, including designated chairperson Yuan Xiuhui, deputy chairperson Xiao Ping, and current member Wang Yihui to remain in office. In line with the staggered term system of NCC members, the terms of the three members will be until July 31, 2030, and they will be four-year members."
+  },
+  {
+    "title": "泰山劉偉龍：對泰山4-6月所有大豆油相關商品不分批次全面下架回收",
+    "url": "https://news.cnyes.com/news/id/6545323",
+    "source": "鉅亨網",
+    "summary": "泰山董事長劉偉龍今天明確指出，即使食藥署已公告部分批次商品符合規定，可依法恢復上架，泰山對對 4-6 月所有大豆油相關商品一律全面下架回收，不再重新出貨販售。",
+    "published_at": "2026-07-24T19:32:06+08:00",
+    "stocks": [
+      "TWS:1218:STOCK",
+      "TWS:1219:STOCK",
+      "TWS:1225:STOCK"
+    ],
+    "uid": "0568f7fd3811c3ace4593b9e33c9fc68",
+    "title_zh": "泰山劉偉龍：對泰山4-6月所有大豆油相關商品不分批次全面下架回收",
+    "summary_zh": "泰山董事長劉偉龍今天明確指出，即使食藥署已公告部分批次商品符合規定，可依法恢復上架，泰山對對 4-6 月所有大豆油相關商品一律全面下架回收，不再重新出貨販售。",
+    "title_en": "Taishan Liu Weilong: All soybean oil related products in Taishan from April to June will be fully removed from the shelves and recalled in batches.",
+    "summary_en": "Taishan Chairman Liu Weilong made it clear today that even though the Food and Drug Administration has announced that some batches of products comply with regulations and can be restored to shelves in accordance with the law, Taishan will fully remove all soybean oil-related products from April to June and will not re-ship them for sale."
+  },
+  {
+    "title": "美匯率報告揭曉：台灣續留觀察名單 央行說明三大關鍵因素",
+    "url": "https://www.mirrormedia.mg/story/20260724-179fin-192131",
+    "source": "鏡週刊財經",
+    "summary": "<p>美國財政部最新半年度匯率政策報告出爐，台灣連續遭列入匯率操縱觀察名單，但因未觸及外匯干預標準，仍未被認定為匯率操縱國。中央銀行表示，台美溝通管道一向順暢，未來將持續就總體經濟及匯率政策等議題與美方交換意見。</p>",
+    "published_at": "2026-07-24T19:31:00+08:00",
+    "stocks": [],
+    "uid": "d5faeca577c542d841aa06cc33c28e09",
+    "title_zh": "美匯率報告揭曉：台灣續留觀察名單 央行說明三大關鍵因素",
+    "summary_zh": "<p>美國財政部最新半年度匯率政策報告出爐，台灣連續遭列入匯率操縱觀察名單，但因未觸及外匯干預標準，仍未被認定為匯率操縱國。中央銀行表示，台美溝通管道一向順暢，未來將持續就總體經濟及匯率政策等議題與美方交換意見。</p>",
+    "title_en": "US exchange rate report announced: Taiwan remains on the watch list; the central bank explains three key factors",
+    "summary_en": "<p>The latest semi-annual exchange rate policy report of the U.S. Department of the Treasury has been released. Taiwan has been continuously included in the exchange rate manipulation watch list, but it has not yet been identified as a currency manipulator because it has not met the standards for foreign exchange intervention. The central bank stated that the communication channel between Taiwan and the United States has always been smooth, and it will continue to exchange views with the United States on issues such as the overall economy and exchange rate policy in the future. </p>"
+  },
+  {
+    "title": "〈毒油食安風暴〉台糖防禦性下架檢驗全Pass 產線重啟備戰中元中秋用油",
+    "url": "https://news.cnyes.com/news/id/6545308",
+    "source": "鉅亨網",
+    "summary": "高市府衛生局今（24）日完成台糖小港廠查驗，確認黃豆料源、報關文件與生產製程全數符合食安規範，沙拉油產線已正式恢復供應。針對中聯油品事件，中聯等三家業者今日亦已公開道歉。台糖小港廠自 2024 年起經歷 18 次抽驗皆合格，產線",
+    "published_at": "2026-07-24T19:30:03+08:00",
+    "stocks": [],
+    "uid": "250c96976e5142eadabab4c13f466fcb"
+  },
+  {
+    "title": "江啟臣款宴加拿大學者團　盼為深化台加關係提建議",
+    "url": "https://money.udn.com/money/story/7307/9649370",
+    "source": "經濟日報總經",
+    "summary": "立法院副院長江啟臣今天款宴「加拿大智庫學者團」一行，他表示，訪團成員對公共政策研究具有豐富專業。相信透過實地走訪台灣各機...",
+    "published_at": "2026-07-24T19:21:25+08:00",
+    "stocks": [],
+    "uid": "cccb283c7fea2ac2a738fd60824d0126"
+  },
+  {
+    "title": "〈穩懋法說〉PD量產挹注Q3營收 看好光通訊產品2027年占比挑戰雙位數",
+    "url": "https://news.cnyes.com/news/id/6545307",
+    "source": "鉅亨網",
+    "summary": "穩懋 (3105-TW) 今 (24) 日舉行法說會，公告自結第 2 季財報及未來展望說明，穩懋表示，受惠 AI 帶動光通訊市場需求爆發，Optical(光學) 產品隨著接收端 1.6T PD 於第 2 季末進入量產、開始挹注營收出貨。",
+    "published_at": "2026-07-24T19:20:36+08:00",
+    "stocks": [
+      "TWS:3105:STOCK"
+    ],
+    "uid": "277015cc8052c9497cc6fb58a5aa8ef3"
+  },
+  {
+    "title": "苯駢芘超標遭退遭罰 泰山估本身損失1.5-2億元 福壽估1-1.5億元",
+    "url": "https://news.cnyes.com/news/id/6545298",
+    "source": "鉅亨網",
+    "summary": "三大油品廠泰山 (1218-TW)、福壽 (1219-TW)、福懋油 (1225-TW) 今 (24) 日召開重大訊息說明會，對於因油品下架、罰款、賠償的損失，泰山評估本身爲 1.5~2 億元，而福壽估損失在 1-1.5 億元。",
+    "published_at": "2026-07-24T19:16:28+08:00",
+    "stocks": [
+      "TWS:1218:STOCK",
+      "TWS:1219:STOCK",
+      "TWS:1225:STOCK"
+    ],
+    "uid": "f35fef03a36aa2810f380f8d91f28a04"
+  },
+  {
+    "title": "立院三讀「台灣未來帳戶」 政院：依既有政策推動家庭支持措施",
+    "url": "https://money.udn.com/money/story/7307/9649367",
+    "source": "經濟日報總經",
+    "summary": "立法院今天三讀通過藍白陣營推動的「台灣兒少成長及未來帳戶條例」，行政院發言人李慧芝表示，行政院所提出的18項家庭支持措施，經過財政評估、完整均衡配套，行政院將依據既有政策規劃，持續推動相關措施。",
+    "published_at": "2026-07-24T19:15:15+08:00",
+    "stocks": [],
+    "uid": "a6f41bd53d9965de0a9a334e425ff2b1"
+  },
+  {
+    "title": "苯駢芘超標 三大油品董座開重訊 福懋油將建置自主檢驗 泰山行動支持食安檢驗",
+    "url": "https://news.cnyes.com/news/id/6545276",
+    "source": "鉅亨網",
+    "summary": "三大油品廠泰山、福壽、福懋油董事長，劉偉龍、洪堯昆、吳星澄今 (24) 日親赴證交所聯合舉行重訊記者會，說明油品苯駢芘超標福懋油董事長吳星澄在會中指出，福懋油將著手建置自主檢驗能力實驗室。",
+    "published_at": "2026-07-24T19:14:18+08:00",
+    "stocks": [
+      "TWS:1218:STOCK",
+      "TWS:1219:STOCK",
+      "TWS:1225:STOCK"
+    ],
+    "uid": "04e5fed8498486f1ac44abf168592712"
+  },
+  {
+    "title": "中興山莊案敗訴　黨產會：尊重法院但不能認同",
+    "url": "https://money.udn.com/money/story/7307/9649366",
+    "source": "經濟日報總經",
+    "summary": "中興山莊追徵新台幣32億元案，最高行判國民黨勝訴確定。黨產會今天表示，尊重最高行政法院的法律意見，但不能認同；期盼最高行...",
+    "published_at": "2026-07-24T19:13:05+08:00",
+    "stocks": [],
+    "uid": "89b65548aebcf51935004058f3d19875"
+  },
+  {
+    "title": "台股跌1195點外資賣超609億元　調節力積電居首",
+    "url": "https://money.udn.com/money/story/5607/9649363",
+    "source": "經濟日報",
+    "summary": "台股今天跌1195.97點，外資賣超609.51億元，其中賣超力積電4萬3857張居冠，元大台灣50 3萬7393張居次...",
+    "published_at": "2026-07-24T19:12:29+08:00",
+    "stocks": [
+      "6770"
+    ],
+    "uid": "6796e5339993a0f6b99f7e3f52449bc9"
+  },
+  {
+    "title": "外資匯出壓力再現！新台幣盤中摜破32.4元、週線連5黑",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5516751",
+    "source": "自由財經",
+    "summary": "中東緊張情勢再度升溫，國際油價飆升，市場避險情緒急速升高，美股四大指數全面收黑，亞洲股市今（24）日再度陷入「黑色星期五」魔咒。台股重挫1195.97點，新台幣兌美元匯率...…",
+    "published_at": "2026-07-24T19:12:00+08:00",
+    "stocks": [],
+    "uid": "f0214e1c443734b25b3947a1aac4860c"
+  },
+  {
+    "title": "亞翔法說會／迎 AI 半導體建廠潮 總座蔣曉麟：未來3年獲利逐年看好",
+    "url": "https://money.udn.com/money/story/5612/9649361",
+    "source": "經濟日報股市",
+    "summary": "無塵室暨機電工程大廠亞翔（6139）24日舉辦法說會，總經理蔣曉麟指出，在全球半導體擴產浪潮與AI基礎建設推進帶動下，截至今年6月底，公司手中未完工的合約總額突破4,400.73億元，創下歷史新高，較去年底大幅成長逾1.47倍。針對後續展望，蔣曉麟直言「客戶需求非常大，在手訂單持續走高，看好未來3年的營運表現將會一年比一年好」。",
+    "published_at": "2026-07-24T19:11:30+08:00",
+    "stocks": [
+      "6139"
+    ],
+    "uid": "0443ebbd9a3ceced0e625ab1f8d796bc"
+  },
+  {
+    "title": "美301關稅來襲！台灣10%優於日韓 工商界憂「川普變數」：無所適從",
+    "url": "https://money.udn.com/money/story/5612/9649359",
+    "source": "經濟日報股市",
+    "summary": "美國公布301條款強迫勞動調查結果，對台灣適用10%關稅，且不疊加，低於日、韓競爭對手。對此，精密機械重鎮台中的產業界與市府表達高度關注。業者直言，雖然稅率相對較低，但在川普政策反覆，讓工商界無所適從，尤其在全球匯率戰及俄烏戰爭夾擊下，傳統產業與機械業仍面臨嚴峻生存考量。",
+    "published_at": "2026-07-24T19:11:28+08:00",
+    "stocks": [],
+    "uid": "b487a0eb92c309a55fce93f0d2f2b01d"
+  },
+  {
+    "title": "低語間的閃耀 海瑞溫斯頓全新Talk to Me, Harry Winston頂級珠寶表",
+    "url": "https://money.udn.com/money/story/122328/9649340",
+    "source": "經濟日報總經",
+    "summary": "1953年，影星瑪麗蓮‧夢露在經典歌曲《鑽石是女人最好的朋友》中輕聲唱道：「Talk to me Harry Winston」，這句歌詞將海瑞溫斯頓與鑽石劃上等號。品牌同期廣告亦宣稱：「當話題談到鑽石，接下來想到的就是海瑞溫斯頓」，海瑞溫斯頓先生自此奠定「鑽石之王」的名聲，亦代表一種對高品質稀有寶石與工藝的追求。",
+    "published_at": "2026-07-24T19:11:27+08:00",
+    "stocks": [],
+    "uid": "15fd210583359f9309cd78ddde6d5675"
+  },
+  {
+    "title": "防紅霞颱風帶大雨 南橫梅山口至向陽段明上午7時起預警性封閉",
+    "url": "https://money.udn.com/money/story/122328/9649325",
+    "source": "經濟日報總經",
+    "summary": "受紅霞颱風影響，中央氣象署預測明天起高雄山區將遭遇強降雨侵襲，交通部公路局甲仙工務段評估，南橫公路梅山口至向陽路段因屬常態管制路段，為保障用路人行車安全，將於明天上午7時起實施預警性封閉，後續將視天候狀況及道路巡查安全後，再另行公告開放時間。",
+    "published_at": "2026-07-24T19:11:25+08:00",
+    "stocks": [],
+    "uid": "ccdb85e915ef00ccacf11b2ae1166f66"
+  },
+  {
+    "title": "政院再提NCC委員名單　7人專長橫跨電信傳播法律領域",
+    "url": "https://money.udn.com/money/story/7307/9649358",
+    "source": "經濟日報總經",
+    "summary": "國家通訊傳播委員會（NCC）委員現有4空缺，現任3位委員任期也將屆滿。行政院今天公布最新提名名單，提名前台北市政府法務局...",
+    "published_at": "2026-07-24T19:08:27+08:00",
+    "stocks": [],
+    "uid": "65f0597bfbe744c97c8b12ea26b6e9ce"
+  },
+  {
+    "title": "愛吃飯又怕胖？醫揭這種澱粉不只不長肉，還能幫助燃脂防癌",
+    "url": "https://money.udn.com/money/story/5648/9649356",
+    "source": "經濟日報總經",
+    "summary": "對於熱愛白飯、麵條與馬鈴薯的人來說，「澱粉」兩個字常常伴隨罪惡感。但如果有一種澱粉，不僅不容易讓你發胖，還能餵養腸道益菌、提升胰島素敏感性，甚至可能降低大腸癌風險，你會不會重新愛上碳水化合物？「醫界福爾摩斯」曾嶔元醫師在其新書《精準飲食》中指出，對於喜歡吃澱粉的人來說，一個聰明的解套方式，就是選擇抗性澱粉。\n\n抗性澱粉的特別之處，在於它獨特的消化路徑。曾嶔元說明，一般澱粉會在小腸中被分解成糖類，但抗性澱粉能完整通過小腸，直到抵達大腸。在那裡，它不會被人體的消化酵素分解，而是成為結腸中數十億益生菌的「食物」。這個過程稱為發酵，也讓抗性澱粉成為一種天然的益生元。益生菌藉此大量繁殖，優化腸道菌群，進而提升消化與免疫功能。對於進行高強度訓練的人而言，健康的腸道更是恢復與表現的關鍵。\n\n當腸道微生物分解抗性澱粉時，會產生一類稱為短鏈脂肪酸（縮寫為SCFAs）的代謝物，其中最重要的是丁酸鹽。這些SCFAs本身就具有調節新陳代謝與免疫力的潛力。更值得一提的是，抗性澱粉帶來的益處，並不需要像某些益生菌飲品那樣付出高昂的代價，卻能自然地支持腸道與整體健康。",
+    "published_at": "2026-07-24T19:07:00+08:00",
+    "stocks": [],
+    "uid": "69457e5a604dda53453c7dd224a9b685"
+  },
+  {
+    "title": "讓老鼠在糖水和古柯鹼二選一，94%都選了糖，原來比毒品更難戒的是「甜」",
+    "url": "https://money.udn.com/money/story/5648/9649355",
+    "source": "經濟日報總經",
+    "summary": "明明不餓，手卻已經伸向那塊巧克力；明明吃飽了，卻仍抗拒不了下一口甜點。這種「明知不該、卻停不下來」的渴望，真的只是嘴饞和意志力薄弱嗎？「醫界福爾摩斯」曾嶔元醫師在其新書《精準飲食》中指出，甜食不僅能顯著提升血清素和多巴胺的數值，還能刺激大腦釋放內源性鴉片類物質。\n\n這些物質會引發一種被稱為「渴求（craving）」的感覺，進而促成享樂性飢餓（hedonic hunger），這是一種純粹為了滿足味覺享受而進食的欲望，即使在並未感到生理飢餓的情況下，也會驅使人們進食。簡單來說，這意味著我們可能僅僅因為甜食的美味而進食，完全無關飢餓的需求。如果反覆滿足這種甜食渴求，可能會逐漸演變為成癮行為，其機制與物質成癮的生理基礎非常相似，包括不可控的強迫性行為。\n\n最令人震驚的證據，來自一項讓老鼠在糖水和古柯鹼之間做選擇的研究：結果有94％的老鼠選擇了糖水，而非古柯鹼注射。這項研究表明，甜味的吸引力甚至超越了古柯鹼這類具有強烈成癮性的毒品。這樣的結果強調了甜味不僅是一種感官愉悅，更是一種能夠深度觸發大腦獎賞迴路的刺激，比常規成癮性物質更具吸引力。",
+    "published_at": "2026-07-24T19:02:41+08:00",
+    "stocks": [],
+    "uid": "86fc2a80233d5c1a7744f3be7b159277"
+  },
+  {
+    "title": "台股跌1195點外資賣超609億元　調節力積電居首",
+    "url": "https://www.cna.com.tw/news/afe/202607240316.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者潘智義台北24日電）台股今天跌1195.97點，外資賣超609.51億元，其中賣超力積電4萬3857張居冠，元大台灣50 3萬7393張居次，主動統一升級50 3萬6191張居第3。",
+    "published_at": "2026-07-24T19:01:59+08:00",
+    "stocks": [
+      "6770"
+    ],
+    "uid": "e6f443738a72d6db279474648220271d"
+  },
+  {
+    "title": "301關稅台灣10%不疊加 紡織、塑化業者：對產業是好消息",
+    "url": "https://money.udn.com/money/story/10871/9649349",
+    "source": "經濟日報股市",
+    "summary": "美國貿易代表署依301條款對60個經濟體加徵關稅，行政院24日表示，台灣獲得10%且不疊加MFN，稅率優於日、韓。對此，紡織、塑化業者普遍認為是好消息，表示應有助於提升我國產品的外銷競爭力。",
+    "published_at": "2026-07-24T19:01:10+08:00",
+    "stocks": [],
+    "uid": "07eba1f66ea5f39c1a8d8fc1c5a652a9"
+  },
+  {
+    "title": "刺青只是跟風？心理師：選什麼圖案，早就暴露你的內心狀態",
+    "url": "https://money.udn.com/money/story/5648/9649344",
+    "source": "經濟日報總經",
+    "summary": "刺青究竟只是流行，還是一個人內心狀態的外顯訊號。有人刺花朵、蝴蝶、心型，只是想讓身體更好看，也為生活增添趣味；也有人把神魔靈獸、宗教符號，甚至一句話、一個名字，長久留在身上。看似只是圖案選擇，背後往往藏著情緒、防衛、信仰，甚至說不出口的人生經驗。\n\n專業諮商心理師林萃芬在其著作《從裝扮洞察人心》中指出，從一個人選擇刺青的圖案，多少能夠看出他的動機和喜好。一般來說，刺花朵、蝴蝶、心型等可愛圖案的人，目的大都是為了嘗鮮，想要增加身體的美感，或增添生活的趣味性。像很多女明星刺青的圖案都屬於可愛型，圖案較小，部位也較不明顯，多在手臂、腳踝、股溝等部位。\n\n如果觀察小賈斯汀的刺青圖案、大小、時間軸就會發現，一開始的時候，他都選擇很小的圖案。他的第一個圖案是家族圖騰，部位在左側腰際，非常不明顯，但意義卻很深遠。圖案來源是他曾與家人一起讀過《天地一沙鷗》，故事內容描述海鷗超越自我的遠大抱負，他透過刺青鼓勵自己要有遠大的抱負。隨著年齡增長，他刺青的圖案越來越大型、明顯，而且都與內在勇氣的追尋、刻骨銘心的感情有關。",
+    "published_at": "2026-07-24T19:01:02+08:00",
+    "stocks": [],
+    "uid": "3d9e9a6d8729a114ff117a2b49bbb048"
+  },
+  {
+    "title": "拉美暨加勒比海經貿辦事處成立　林佳龍：互利共榮",
+    "url": "https://money.udn.com/money/story/7307/9649346",
+    "source": "經濟日報總經",
+    "summary": "為配合業務版圖擴張，中美洲經貿辦事處7月起正式更名為拉丁美洲暨加勒比海經貿辦事處（LACTO），服務國家擴增至巴拉圭等6...",
+    "published_at": "2026-07-24T19:00:29+08:00",
+    "stocks": [],
+    "uid": "1b818bf0860bbe7d329ce422e8fea0f4"
+  },
+  {
+    "title": "AI 散熱的下一波機會，會從哪裡來？",
+    "url": "https://news.cnyes.com/news/id/6545303",
+    "source": "鉅亨網",
+    "summary": "",
+    "published_at": "2026-07-24T19:00:19+08:00",
+    "stocks": [
+      "TWS:3653:STOCK",
+      "TWS:2486:STOCK"
+    ],
+    "uid": "a5fddda394fe2daf8fbb3f36ca0bc64a"
+  },
+  {
+    "title": "高市衛生局查廠合格 台糖小港製油廠將恢復產線衝刺沙拉油產能",
+    "url": "https://money.udn.com/money/story/10871/9649343",
+    "source": "經濟日報股市",
+    "summary": "台糖大豆沙拉油受中聯油脂苯駢芘超標食安事件波及，台糖24日表示，經高雄市政府衛生局查驗台糖小港製油工場沙拉產線後，已確定從黃豆進口料源、報關文件到生產製程等，全數符合規範。",
+    "published_at": "2026-07-24T18:58:08+08:00",
+    "stocks": [],
+    "uid": "33230b2bf66f264a7f5bc68d15fa3a86"
+  },
+  {
+    "title": "遠雄流通完成三地布局　再展3店、營收拚200億元",
+    "url": "https://www.mirrormedia.mg/story/20260724-179fin-185730",
+    "source": "鏡週刊財經",
+    "summary": "<p>遠雄集團持續擴大零售事業版圖，隨著iFG遠雄廣場台中店、新竹店今（34）日正式開幕，全台商場據點增至3座，遠雄流通表示，今年三店合計營收目標上看80億元，未來3至5年將再新增3處營運據點，朝6店、年營收200億元目標邁進。</p>",
+    "published_at": "2026-07-24T18:58:00+08:00",
+    "stocks": [],
+    "uid": "c3388018c50d5aed8306289dd1deb941"
+  },
+  {
+    "title": "研調：AI生產力需求帶動摺疊手機升級 預估2026年市場成長21%",
+    "url": "https://news.cnyes.com/news/id/6545203",
+    "source": "鉅亨網",
+    "summary": "研調機構 Counterpoint Research 指出，全球摺疊式智慧型手機市場預計將於 2026 年成長 21% YoY。市場成長主要來自高階 Book 型摺疊手機需求持續增加、Android 陣營產品競爭升溫，以及",
+    "published_at": "2026-07-24T18:57:30+08:00",
+    "stocks": [
+      "USS:AAPL:STOCK"
+    ],
+    "uid": "55acc1f8113f279e3fed440c3dc09cc3"
+  },
+  {
+    "title": "SK會長崔泰源離婚分產案判付近210億元　創韓國紀錄",
+    "url": "https://www.cna.com.tw/news/aopl/202607240314.aspx",
+    "source": "中央社",
+    "summary": "（中央社首爾24日綜合外電報導）韓國首爾高等法院今天就科技業巨擘SK集團會長崔泰源與前妻盧素英的離婚財產分割案做出二審更審宣判，判崔泰源支付對方9440億韓元（約新台幣209億元）現金，創韓國最高紀錄。",
+    "published_at": "2026-07-24T18:56:55+08:00",
+    "stocks": [],
+    "uid": "0d582b94764815a94bc39fd0ac30d65d"
+  },
+  {
     "title": "賴總統導讀繪本　期許孩童「勇敢一直在自己心中」",
     "url": "https://money.udn.com/money/story/7307/9649336",
     "source": "經濟日報總經",
@@ -11,6 +605,15 @@
     "summary_zh": "總統賴清德今天參訪海光幼兒園時化身說故事老師，現場閱讀繪本「勇敢湯」，期許孩童們知道「勇敢不假外求，一直都在我們自己心中...",
     "title_en": "President Lai’s introductory picture book hopes that children “will always be brave in their hearts”",
     "summary_en": "When President Lai Ching-te visited Haiguang Kindergarten today, he transformed into a storyteller and read the picture book \"Brave Soup\" on the spot. He hoped that the children would know that \"bravery is not something we seek from others, it is always in our hearts..."
+  },
+  {
+    "title": "鴻海：突破矽光子技術瓶頸　加速AI算力更省電",
+    "url": "https://money.udn.com/money/story/5612/9649335",
+    "source": "經濟日報股市",
+    "summary": "鴻海集團今天宣布，旗下鴻海研究院聯手國立陽明交通大學，成功研發「高容量矽光子發射器」技術，相關研究成果登上全球光學界權威...",
+    "published_at": "2026-07-24T18:54:28+08:00",
+    "stocks": [],
+    "uid": "7002c587e4857a6804f3e66763eeaa3a"
   },
   {
     "title": "心理師：光從一個人戴不戴錶，就能洞察很多訊息",
@@ -26,6 +629,15 @@
     "summary_zh": "手錶看似只是計時工具，很多時候也是造型的一部分。但一個人戴不戴錶，戴什麼樣的錶，透露的可能不只是品味，還包括責任感、自我管理能力，甚至對時間的掌控感與焦慮程度。看起來只是日常選擇，背後其實藏著不少心理訊息。\n\n專業諮商心理師林萃芬在其著作《從裝扮洞察人心》中指出，身邊喜歡收集手錶的朋友不少，手錶不只是計時工具，也是造型的一部分。研究顯示，男性和女性對手錶的選擇有明顯差異，男性傾向選擇技術性和大錶盤的手錶，或許反映出他們對力量、功能性和製錶工藝的講究。女性則偏愛設計性和珠寶款的手錶，著重搭配造型時的完美呈現，當然也有不少女生喜歡戴男性錶款，從行事風格到性格特質都較為中性。\n\n她認為，除了偏愛不同的錶款外，光從一個人戴不戴錶，就能洞察很多訊息，特別是對成功的企圖心，以及對時間的掌控感。\n\n林萃芬分析，從一個人是否選擇戴手錶，可以進一步了解對方的責任感高不高、自我管理能力好不好，以及焦慮指數的高低。不少心理學研究都顯示，配戴手錶的人往往更具時間意識，自律性和責任感也較高。由於配戴手錶會讓人不斷提醒自己時間的流逝，這種時間管理的自律性，也反映了配戴者對秩序、精確和控制的心理需求。",
     "title_en": "Psychologist: Just from whether a person wears a watch or not, you can gain insight into a lot of information",
     "summary_en": "The watch seems to be just a timekeeping tool, but in many cases it is also part of the style. But whether a person wears a watch and what kind of watch he wears may reveal not only his taste, but also his sense of responsibility, self-management ability, and even his sense of control over time and his level of anxiety. It may seem like just a daily choice, but there is actually a lot of psychological information hidden behind it.\n\nProfessional counseling psychologist Lin Cuifen pointed out in her book \"Insights into People's Hearts through Dressing Up\" that there are many friends around me who like to collect watches. Watches are not only timekeeping tools, but also part of the style. Research shows that there are significant differences between men and women in their choice of watches, with men tending to choose technical and large dial watches, perhaps reflecting their emphasis on strength, functionality and watchmaking craftsmanship. Women prefer watches with design and jewelry styles, focusing on perfect presentation when matching with the style. Of course, many girls also like to wear men’s watches, which are more neutral in terms of style and personality.\n\nShe believes that in addition to preferring different watch models, a lot of information can be discerned just from whether a person wears a watch, especially his ambition for success and his sense of control over time.\n\nLin Cuifen analyzed that whether a person chooses to wear a watch can further understand the other person’s sense of responsibility, self-management ability, and anxiety index. Many psychological studies have shown that people who wear watches tend to be more time-conscious and have a higher sense of self-discipline and responsibility. Since wearing a watch will constantly remind oneself of the passage of time, this kind of self-discipline in time management also reflects the wearer's psychological needs for order, precision and control."
+  },
+  {
+    "title": "影／執行點交 微風正式告別台北車站",
+    "url": "https://money.udn.com/money/story/5612/9649012",
+    "source": "經濟日報股市",
+    "summary": "台北車站商場經營權易主，將由新光三越接手，經營19年的微風正式撤出台北車站商場，今天下午三點開始進行交接，臺鐵公司總經理馮輝昇受訪時感謝微風19年來的經營，並強調未來新光三越接手後，旅客服務品質不變，也將分區改建，預計117年完工。",
+    "published_at": "2026-07-24T18:53:21+08:00",
+    "stocks": [],
+    "uid": "e8c81cef511b7eb05916bc25ed413925"
   },
   {
     "title": "「或許是美好結局」獲東尼獎 展現韓音樂劇高度",
@@ -184,6 +796,15 @@
     "summary_en": "Kinmen’s annual Mid-Autumn Festival event “2026 Kinmen Mid-Autumn Festival Prize Cake” will be held from September 1st to 25th. The Kinmen County Government is the first to warm up and will hold a pop-up cake betting tomorrow at Xishan Lake Park in Lieyu Township in conjunction with the Kinmen Sea Long Swimming Event. It will prepare Kinmen specialty souvenirs such as sorghum wine, a root, tribute sugar, small Han cakes and Zhuangyuan cakes as prizes, inviting swimmers and tourists to experience the cake betting culture in advance, and kicking off this year's series of activities."
   },
   {
+    "title": "鴻海：突破矽光子技術瓶頸　加速AI算力更省電",
+    "url": "https://www.cna.com.tw/news/afe/202607240310.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者鍾榮峰台北24日電）鴻海集團今天宣布，旗下鴻海研究院聯手國立陽明交通大學，成功研發「高容量矽光子發射器」技術，相關研究成果登上全球光學界權威學術期刊Optics Express，相關技術可大幅提升矽光子傳輸速度，相當於1秒鐘可下載完幾千部高畫質電影。",
+    "published_at": "2026-07-24T18:40:46+08:00",
+    "stocks": [],
+    "uid": "1a6a0997e7798f9efe535990e3f2ff38"
+  },
+  {
     "title": "台股創史上第9大跌點 金管會喊話：關注股市波動 基本面仍穩健",
     "url": "https://news.cnyes.com/news/id/6545243",
     "source": "鉅亨網",
@@ -211,6 +832,19 @@
     "summary_zh": "大立光 (3008-TW) 在台中工業區購地接連出手，在 6 月底至今並不斷加碼購入工業區內工業用地，今 (24) 日並公布以 13.8 億元再購入區內工業區 2 路亞泰冷藏公司的 3065 坪土地 廠房，一個月來計砸下 25.69 億元。",
     "title_en": "Largan has purchased land in Taichung Industrial Park three times a month, spending another 1.38 billion yuan to buy 3,065 square meters of land.",
     "summary_en": "Largan (3008-TW) has successively purchased land in the Taichung Industrial Zone. Since the end of June, it has continued to increase its purchase of industrial land in the industrial zone. Today (24th), it announced that it will purchase a 3,065-square-foot factory building of Yatai Refrigeration Company on No. 2 Road in the industrial zone in the zone for 1.38 billion yuan. In one month, it has spent 2.569 billion yuan."
+  },
+  {
+    "title": "致癌油新進度3／損失破億忙跟客戶協商  問題油品通通拿去做「這個」",
+    "url": "https://www.mirrormedia.mg/story/20260724-181fin-183835",
+    "source": "鏡週刊財經",
+    "summary": "<p>由於中聯油脂三大股東的泰山、福壽、福懋油都是上市公司，財報數據要經過會計師，但目前初估損失，光是銷毀與下架的大約1億元以上，儘管官方放行，讓先前驗出合格的19批油品可重新上架，但泰山決定一律下架回收，而這些問題油也不會進入食品市場，而是通通拿去煉生質燃油，至少能為環保盡一份力。</p>",
+    "published_at": "2026-07-24T18:38:00+08:00",
+    "stocks": [
+      "1225",
+      "1218",
+      "1219"
+    ],
+    "uid": "0ef1902305ae47bb4be5e10111aed0e1"
   },
   {
     "title": "客戶一見面就問產能夠不夠 臻鼎董座李定轉：IC 載板迎來黃金十年",
@@ -253,6 +887,38 @@
     "summary_zh": "颱風紅霞影響部分船班和航班，交通部航港局說，明天包含馬祖福澳-福州琅岐等共12航線、105航次停航；民航局統計，至晚間6...",
     "title_en": "Affected by Typhoon Hongxia, 105 sailings on 12 routes were suspended on the 25th",
     "summary_en": "Typhoon Hongxia has affected some ships and flights. The Port Bureau of the Ministry of Transport said that a total of 12 routes and 105 voyages, including Matsu Fuao-Fuzhou Langqi, will be suspended tomorrow. According to the Civil Aviation Administration, until 6 p.m...."
+  },
+  {
+    "title": "致癌油新進度2／事發25天才出面？ 泰山還原「關鍵空窗期」想改革董事會",
+    "url": "https://www.mirrormedia.mg/story/20260724-181fin-183752",
+    "source": "鏡週刊財經",
+    "summary": "<p>針對證交所日前以「延遲揭露重大訊息」為由，對泰山、福壽、福懋油三家上市公司各罰30萬元，現場媒體質疑，為何事件爆發20多天後才舉行記者會？面對外界「隱瞞掩蓋」的質疑，泰山董事長劉偉龍還原了當時的時間軸與法律困境。</p>",
+    "published_at": "2026-07-24T18:37:00+08:00",
+    "stocks": [
+      "1225",
+      "1219"
+    ],
+    "uid": "776a2cf836ab23ed1dfd4d47f0afe22d"
+  },
+  {
+    "title": "致癌油新進度1／三桶油巨頭首度同台零互動！90度鞠躬：消費者信心賠不起",
+    "url": "https://www.mirrormedia.mg/story/20260724-181fin-183708",
+    "source": "鏡週刊財經",
+    "summary": "<p>泰山董事長劉偉龍、福壽董事長洪堯昆、以及福懋油董事長吳星澄，苯駢芘超標事件的「三桶油」代表今（24）日終於站上第一線，回應已延燒超過三周的致癌油品風暴。</p>",
+    "published_at": "2026-07-24T18:37:00+08:00",
+    "stocks": [],
+    "uid": "c05a72022890cad10af8e49b705408d5"
+  },
+  {
+    "title": "台股重挫千點新台幣貶9.2分　週線連5黑",
+    "url": "https://www.cna.com.tw/news/afe/202607240306.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者趙敏雅台北24日電）中東緊張情勢再起，打擊市場風險偏好，股匯市今天同步下殺，台股重挫1195點，創台股史上第9大跌點；新台幣貶勢洶洶，盤中摜破32.4元整數關卡，一度重貶1.9角，在央行強力防守下，收在32.358元，貶9.2分，台北及元太外匯市場總成交金額26.05億美元。",
+    "published_at": "2026-07-24T18:36:38+08:00",
+    "stocks": [
+      "8069"
+    ],
+    "uid": "b58e1aec878f0a91d28500405fb9ae14"
   },
   {
     "title": "年薪650萬卻在53歲遭Google裁員！她一年後人生逆轉",
@@ -517,6 +1183,24 @@
     "uid": "9e73425102147443ce404de4fc0fa185"
   },
   {
+    "title": "市場權衡中東戰事與AI投資熱潮　亞股收盤盡墨",
+    "url": "https://www.cna.com.tw/news/afe/202607240295.aspx",
+    "source": "中央社",
+    "summary": "（中央社香港24日綜合外電報導）中東戰事升溫、國際油價重返每桶100美元，以及人工智慧（AI）投資熱潮引發疑慮等因素使全球面臨一場完美風暴，投資人密切注意相關局勢發展，亞股今天隨美股跌勢多收低。",
+    "published_at": "2026-07-24T18:10:14+08:00",
+    "stocks": [],
+    "uid": "67231d0a308c19e419979f9cf58be86a"
+  },
+  {
+    "title": "台股本週震盪上漲983點　上市公司總市值142.5兆元",
+    "url": "https://www.cna.com.tw/news/afe/202607240293.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者曾仁凱台北24日電）台股繼上週五重挫2953.71點，創史上最大單日跌點紀錄後，本週反彈，但震盪劇烈，週五集中市場指數以43654.84點作收，週漲983.57點或2.3%。根據台灣證券交易所統計，上市公司最新總市值為新台幣142兆5792億元，較上週增加約3.2兆元。",
+    "published_at": "2026-07-24T18:08:09+08:00",
+    "stocks": [],
+    "uid": "1170bf182f7adff0d56f27db6b0ae7f2"
+  },
+  {
     "title": "漢翔：獲得民航與發動機220億新訂單",
     "url": "https://money.udn.com/money/story/10871/9649253",
     "source": "經濟日報股市",
@@ -564,6 +1248,24 @@
     "uid": "05e46d26d59dedde9296d807ca420035"
   },
   {
+    "title": "台股重挫千點　金管會：反映國際情勢持續關注波動",
+    "url": "https://www.cna.com.tw/news/afe/202607240286.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者蘇思云高雄24日電）台股今天終場下跌1195.97點，為史上第9大跌點。金管會今天表示，台股主要反映國際情勢，將持續關注股市波動情形，並請證交所及櫃買中心密切注意國際金融市場變化情形。",
+    "published_at": "2026-07-24T18:00:54+08:00",
+    "stocks": [],
+    "uid": "2b5c7fdb50984112b66a3042a4e261ab"
+  },
+  {
+    "title": "青安2.0末班車助攻　6月房貸餘額爆出近1年最大增量",
+    "url": "https://www.cna.com.tw/news/afe/202607240283.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者潘姿羽台北24日電）青安2.0方案將於7月底落日，市場趕搭末班車，挹注房市買氣。中央銀行今天公布6月房貸餘額為新台幣11兆8127億元，續創歷史新高，且較5月暴增536億元，創近1年最大單月增量。",
+    "published_at": "2026-07-24T17:59:48+08:00",
+    "stocks": [],
+    "uid": "299f759a8058758556be25580d0d6f80"
+  },
+  {
     "title": "外資倒貨 力積電被盯上、短短6天竟遭大賣22.4萬張",
     "url": "https://money.udn.com/money/story/5607/9649218",
     "source": "經濟日報",
@@ -573,6 +1275,24 @@
       "6770"
     ],
     "uid": "37216f97cd36272496a32eb7e024e539"
+  },
+  {
+    "title": "艾克爾：輝達助擴充亞利桑那先進封測產能　攻AI基建",
+    "url": "https://www.cna.com.tw/news/afe/202607240282.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者鍾榮峰台北24日電）封測廠艾克爾（Amkor）宣布，與輝達（NVIDIA）達成15億美元（約新台幣485億元）規模的多年協議，支持艾克爾擴建位於美國亞利桑那州的先進封裝產能，擴大下一世代人工智慧AI基礎設施所需的先進封裝測試產能。",
+    "published_at": "2026-07-24T17:58:46+08:00",
+    "stocks": [],
+    "uid": "6c7948e9518d9eefc7d52051e39ea605"
+  },
+  {
+    "title": "漢翔：獲得民航與發動機220億新訂單",
+    "url": "https://www.cna.com.tw/news/afe/202607240280.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者江明晏台北24日電）漢翔今天宣布，前往英國法茵堡航展斬獲訂單，繼22日與美國航太系統大廠完成多款軍機系統件的經銷換約後，在民用航空與發動機方面，陸續再與多家航空大廠談下總額逾新台幣220億元的新訂單。",
+    "published_at": "2026-07-24T17:56:42+08:00",
+    "stocks": [],
+    "uid": "00b3a8430e8de62275041770ec035b91"
   },
   {
     "title": "鴻海研究院聯手陽明交大 成功研發「高容量矽光子發射器」技術",
@@ -622,6 +1342,24 @@
     "published_at": "2026-07-24T17:54:04+08:00",
     "stocks": [],
     "uid": "0298703e5b3090c5bede64f14c347245"
+  },
+  {
+    "title": "歐元區7月商業活動恢復成長　但中東局勢使前景蒙塵",
+    "url": "https://www.cna.com.tw/news/aopl/202607240273.aspx",
+    "source": "中央社",
+    "summary": "（中央社布魯塞爾24日綜合外電報導）根據今天公布的標普全球綜合採購經理人指數（PMI）調查，歐元區7月商業活動實現4個月來首次成長，但中東衝突升級再次引發油價飆升，恐使經濟前景蒙塵。",
+    "published_at": "2026-07-24T17:48:26+08:00",
+    "stocks": [],
+    "uid": "6f073236c3f30a61b23d722edb03f5f2"
+  },
+  {
+    "title": "台糖：小港製油工場獲高市府查驗合格　全力恢復產能",
+    "url": "https://www.cna.com.tw/news/afe/202607240272.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者謝怡璇台北24日電）台糖今天表示，小港廠製油工場沙拉油產線經高雄市衛生局查驗，確認符合規範，產線恢復後，將全力衝刺產能填補市場缺口。因應中元節及中秋節將至，也將配合政府政策，穩定民生用油供應。至於先前預防性下架商品，將待衛生單位通知，依規定恢復上架。",
+    "published_at": "2026-07-24T17:47:24+08:00",
+    "stocks": [],
+    "uid": "da12a8194cb4c00d35c2d65f6a8ae164"
   },
   {
     "title": "屏東「新園產業園區」啟動招商  可望創造127億產值",
@@ -688,6 +1426,15 @@
     "uid": "59f99edd794b2b778973b30cab613738"
   },
   {
+    "title": "台灣續列匯率操縱觀察　央行：台美溝通順暢持續交換意見",
+    "url": "https://www.cna.com.tw/news/afe/202607240268.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者潘姿羽台北24日電）美國最新匯率報告出爐，台灣因觸及對美順差高、經常帳順差對GDP比率逾3%的2項指標，續留觀察名單。央行今天發布新聞稿指出，台美溝通管道順暢，央行也提到美方看法認為，台對美貿易順差大幅成長，主要是因美國對台灣科技產品強勁需求的影響。",
+    "published_at": "2026-07-24T17:38:16+08:00",
+    "stocks": [],
+    "uid": "696d67ec6d011770df9851c631decada"
+  },
+  {
     "title": "不用再綁手機！WhatsApp開放iPad直接註冊 4大新功能陸續上線",
     "url": "https://ec.ltn.com.tw/article/breakingnews/5516565",
     "source": "自由財經",
@@ -704,6 +1451,15 @@
     "published_at": "2026-07-24T17:34:24+08:00",
     "stocks": [],
     "uid": "18374cffa36e41a30de544f495a3876b"
+  },
+  {
+    "title": "證交所：英柏得送件申請上市",
+    "url": "https://www.cna.com.tw/news/afe/202607240265.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者曾仁凱台北24日電）AI機房大量建置，帶動全球記憶體市場火熱，主攻工業級快閃記憶體模組的英柏得科技今天送件申請股票上市。",
+    "published_at": "2026-07-24T17:32:09+08:00",
+    "stocks": [],
+    "uid": "a8a417afb6dfee572b5b54cac1b76b40"
   },
   {
     "title": "輝達全面導入CPO，8大供應鏈題材業績總整理：誰在作夢？誰成績兌現？",
@@ -744,6 +1500,15 @@
     "uid": "9639ea1d014e583314ac0a67786dcb5d"
   },
   {
+    "title": "紅霞恐引發焚風　台電助畜牧場電力體檢",
+    "url": "https://www.cna.com.tw/news/afe/202607240262.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者謝怡璇台北24日電）颱風紅霞逼近，台電今天表示，這次受颱風外圍環流影響恐引發焚風，台電已啟動全台防颱宣導，走訪各轄區內畜牧養殖場，搶在風雨來臨前協助電力系統大體檢。另動員供電、發電、配電系統共7215名人力投入防颱準備，守護民眾用電安全。",
+    "published_at": "2026-07-24T17:24:03+08:00",
+    "stocks": [],
+    "uid": "4d28e140b4826bc820ab841971353870"
+  },
+  {
     "title": "中聯三大股東聯合重訊！　泰山、福壽、福懋油董事長為致癌油風波鞠躬道歉了",
     "url": "https://www.mirrormedia.mg/story/20260724edi083",
     "source": "鏡週刊財經",
@@ -756,6 +1521,15 @@
     "uid": "3b07f408aae495f719a32e947bc078f4"
   },
   {
+    "title": "台股第三季迂迴打底！股市女王李蜀芳點名矽光子「最上游」領軍反攻",
+    "url": "https://finance.technews.tw/2026/07/24/upstream/",
+    "source": "科技新報",
+    "summary": "隨著今年台股經歷劇烈波動，市場估值邏輯正悄悄發生轉變，有著「股市女王」之稱的永誠國際投顧分析師李蜀芳表示，第三 [&#8230;]",
+    "published_at": "2026-07-24T17:23:19+08:00",
+    "stocks": [],
+    "uid": "286c43b2c22d24e73e4039fa8e90d0ca"
+  },
+  {
     "title": "中華電助台灣影視進軍國際再傳捷報 投資《狂忘警探》入選威尼斯影展",
     "url": "https://money.udn.com/money/story/11162/9649118",
     "source": "經濟日報股市",
@@ -765,6 +1539,15 @@
       "2412"
     ],
     "uid": "e6cadb1f381163eac5a07cb1fe00bacb"
+  },
+  {
+    "title": "美加徵12.5%關稅　泰國加速談判祭協助措施",
+    "url": "https://www.cna.com.tw/news/aopl/202607240260.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者李宗憲曼谷24日專電）美國自24日起對包括泰國在內的60個主要貿易夥伴實施新的關稅措施，多數商品適用12.5%稅率。泰國政府對此表示，正持續與美方談判互惠貿易協議（ART），並將推出低利貸款、稅務及物流支援等措施，協助受影響出口商。",
+    "published_at": "2026-07-24T17:20:58+08:00",
+    "stocks": [],
+    "uid": "a885e95f1b932abb29f0e60645ddbde5"
   },
   {
     "title": "神達加大投入美國加州產能 對於今年成長充滿信心",
@@ -796,6 +1579,15 @@
       "TWS:3105:STOCK"
     ],
     "uid": "23081e3539174eb7acdd2bd6063d9c78"
+  },
+  {
+    "title": "亞翔：在手訂單4400億元　未來3年營運一年比一年好",
+    "url": "https://www.cna.com.tw/news/afe/202607240256.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者張建中新竹24日電）工業機電系統整合工程廠亞翔總經理蔣曉麟今天表示，今年上半年新簽約合約金額新台幣3037億元，明顯大幅上升，尚未施工工程合約金額4400億元，同樣大幅成長。亞翔預期，未來3年營運可望一年比一年好。",
+    "published_at": "2026-07-24T17:13:50+08:00",
+    "stocks": [],
+    "uid": "b1554a8c48ebb8fbd1a490037c662433"
   },
   {
     "title": "台糖沙拉油產線恢復 穩定中元節、中秋節民生用油",
