@@ -6794,7 +6794,11 @@
     "summary": "「亞洲資產管理中心高雄專區」成立屆滿一周年，專區表現極為亮眼，金管會今 (24) 日指出，過去一年在政府與金融三業的全力推動下，已吸引 58 家金融機構進駐，整體資產管理規模 (AUM) 一舉突破 7200 億元大關，",
     "published_at": "2026-07-24T18:02:43+08:00",
     "stocks": [],
-    "uid": "6190287b2d846cf0f5eef1f55cc04db0"
+    "uid": "6190287b2d846cf0f5eef1f55cc04db0",
+    "title_zh": "〈高雄專區一周年〉提前達標！金融三業58家進駐 總資產規模近7300億元",
+    "summary_zh": "「亞洲資產管理中心高雄專區」成立屆滿一周年，專區表現極為亮眼，金管會今 (24) 日指出，過去一年在政府與金融三業的全力推動下，已吸引 58 家金融機構進駐，整體資產管理規模 (AUM) 一舉突破 7200 億元大關，",
+    "title_en": "<First Anniversary of Kaohsiung Region> Achieved the standard ahead of schedule! 58 companies from the three financial industries have settled in, with total assets of nearly 730 billion yuan",
+    "summary_en": "The \"Asian Asset Management Center Kaohsiung Zone\" has celebrated its first anniversary, and the zone's performance has been extremely impressive. The Financial Supervisory Commission pointed out today (24th) that with the full promotion of the government and the three financial industries, 58 financial institutions have been attracted to settle in the past year, and the overall asset management scale (AUM) exceeded the 720 billion yuan mark in one fell swoop."
   },
   {
     "title": "長興獲利／上半年稅前盈餘17.91億元、年增71.76％ 創近四年同期新高",
@@ -6805,7 +6809,11 @@
     "stocks": [
       "1717"
     ],
-    "uid": "7e969f0c3da809166fecf666d5b4f7ed"
+    "uid": "7e969f0c3da809166fecf666d5b4f7ed",
+    "title_zh": "長興獲利／上半年稅前盈餘17.91億元、年增71.76％ 創近四年同期新高",
+    "summary_zh": "長興（1717）24日公告自結獲利數字，6月稅前盈餘2.84億元，年增97.37％，每股稅前盈餘（EPS）0.24元；上半年累計稅前盈餘17.91億元，年增71.76％，EPS 1.53元。",
+    "title_en": "Changxing Profit / Pre-tax profit in the first half of the year was 1.791 billion yuan, an annual increase of 71.76%, a new high in the same period in the past four years",
+    "summary_en": "Changxing (1717) announced its own profit figures on the 24th. The pre-tax profit in June was 284 million yuan, an annual increase of 97.37%, and the pre-tax earnings per share (EPS) was 0.24 yuan. The cumulative pre-tax profit in the first half of the year was 1.791 billion yuan, an annual increase of 71.76%, and EPS was 1.53 yuan."
   },
   {
     "title": "台灣續列匯率操縱觀察，央行：台美溝通順暢持續交換意見",
@@ -6814,7 +6822,11 @@
     "summary": "美國最新匯率報告出爐，台灣因觸及對美順差高、經常帳順差對 GDP 比率逾 3% 兩項指標，續留觀察名單。央行新 [&#8230;]",
     "published_at": "2026-07-24T18:00:54+08:00",
     "stocks": [],
-    "uid": "05e46d26d59dedde9296d807ca420035"
+    "uid": "05e46d26d59dedde9296d807ca420035",
+    "title_zh": "台灣續列匯率操縱觀察，央行：台美溝通順暢持續交換意見",
+    "summary_zh": "美國最新匯率報告出爐，台灣因觸及對美順差高、經常帳順差對 GDP 比率逾 3% 兩項指標，續留觀察名單。央行新 [&#8230;]",
+    "title_en": "Taiwan continues its exchange rate manipulation observation, the central bank: Taiwan and the United States have smooth communication and continue to exchange views",
+    "summary_en": "The latest U.S. exchange rate report is released, and Taiwan remains on the watch list because it hit two indicators: a high surplus with the U.S. and a ratio of current account surplus to GDP exceeding 3%. The central bank’s new […]"
   },
   {
     "title": "台股重挫千點　金管會：反映國際情勢持續關注波動",
@@ -6823,7 +6835,11 @@
     "summary": "（中央社記者蘇思云高雄24日電）台股今天終場下跌1195.97點，為史上第9大跌點。金管會今天表示，台股主要反映國際情勢，將持續關注股市波動情形，並請證交所及櫃買中心密切注意國際金融市場變化情形。",
     "published_at": "2026-07-24T18:00:54+08:00",
     "stocks": [],
-    "uid": "2b5c7fdb50984112b66a3042a4e261ab"
+    "uid": "2b5c7fdb50984112b66a3042a4e261ab",
+    "title_zh": "台股重挫千點　金管會：反映國際情勢持續關注波動",
+    "summary_zh": "（中央社記者蘇思云高雄24日電）台股今天終場下跌1195.97點，為史上第9大跌點。金管會今天表示，台股主要反映國際情勢，將持續關注股市波動情形，並請證交所及櫃買中心密切注意國際金融市場變化情形。",
+    "title_en": "Taiwan stocks plummeted by thousands of points. Financial Supervisory Commission: Reflecting continued concern about fluctuations in the international situation",
+    "summary_en": "(Central News Agency reporter Su Siyun, Kaohsiung, 24th) Taiwan stocks ended today down 1,195.97 points, the ninth largest drop in history. The Financial Supervisory Commission said today that Taiwan's stock market mainly reflects the international situation and will continue to pay attention to stock market fluctuations. It also asked stock exchanges and over-the-counter trading centers to pay close attention to changes in international financial markets."
   },
   {
     "title": "青安2.0末班車助攻　6月房貸餘額爆出近1年最大增量",
@@ -6832,7 +6848,11 @@
     "summary": "（中央社記者潘姿羽台北24日電）青安2.0方案將於7月底落日，市場趕搭末班車，挹注房市買氣。中央銀行今天公布6月房貸餘額為新台幣11兆8127億元，續創歷史新高，且較5月暴增536億元，創近1年最大單月增量。",
     "published_at": "2026-07-24T17:59:48+08:00",
     "stocks": [],
-    "uid": "299f759a8058758556be25580d0d6f80"
+    "uid": "299f759a8058758556be25580d0d6f80",
+    "title_zh": "青安2.0末班車助攻　6月房貸餘額爆出近1年最大增量",
+    "summary_zh": "（中央社記者潘姿羽台北24日電）青安2.0方案將於7月底落日，市場趕搭末班車，挹注房市買氣。中央銀行今天公布6月房貸餘額為新台幣11兆8127億元，續創歷史新高，且較5月暴增536億元，創近1年最大單月增量。",
+    "title_en": "Qing'an 2.0's last train assists, June's mortgage balance exploded to the largest increase in the past year",
+    "summary_en": "(Central News Agency reporter Pan Ziyu, Taipei, 24th) The Qing’an 2.0 plan will be launched at the end of July, and the market is rushing to catch the last train to inject buying momentum into the housing market. The central bank announced today that the balance of mortgage loans in June was NT$11,812.7 billion, continuing to hit a record high and a sharp increase of NT$53.6 billion from May, the largest single-month increase in the past year."
   },
   {
     "title": "外資倒貨 力積電被盯上、短短6天竟遭大賣22.4萬張",
@@ -6843,7 +6863,11 @@
     "stocks": [
       "6770"
     ],
-    "uid": "37216f97cd36272496a32eb7e024e539"
+    "uid": "37216f97cd36272496a32eb7e024e539",
+    "title_zh": "外資倒貨 力積電被盯上、短短6天竟遭大賣22.4萬張",
+    "summary_zh": "台股24日開低走低收在43,654.84點，大跌1,195.97億元，跌幅2.66%，季線再度失守季線，三大法人賣超663.94億元，外資賣超609.5億元，統計外資賣超前十名個股，賣超力積電（6770）43,857張最多，合計短短6個交易日，外資天天賣超力積電，合計倒貨竟高達22萬4,044張。",
+    "title_en": "Foreign investors were targeted for dumping goods, and 224,000 units were sold in just 6 days",
+    "summary_en": "Taiwan stocks opened lower on the 24th and closed at 43,654.84 points, a sharp drop of 119.597 billion yuan, or 2.66%. The quarterly line once again fell below the quarterly line. The three major legal persons sold more than 66.394 billion yuan, and foreign investors sold more than 609 .5 billion. According to statistics, foreign investors sold more than the top ten stocks, and Superpower Semiconductor (6770) sold the most 43,857 shares. In just 6 trading days, foreign investors sold Superpower Semiconductor every day, and the total number of dumps was as high as 224,044 shares."
   },
   {
     "title": "艾克爾：輝達助擴充亞利桑那先進封測產能　攻AI基建",
@@ -6852,7 +6876,11 @@
     "summary": "（中央社記者鍾榮峰台北24日電）封測廠艾克爾（Amkor）宣布，與輝達（NVIDIA）達成15億美元（約新台幣485億元）規模的多年協議，支持艾克爾擴建位於美國亞利桑那州的先進封裝產能，擴大下一世代人工智慧AI基礎設施所需的先進封裝測試產能。",
     "published_at": "2026-07-24T17:58:46+08:00",
     "stocks": [],
-    "uid": "6c7948e9518d9eefc7d52051e39ea605"
+    "uid": "6c7948e9518d9eefc7d52051e39ea605",
+    "title_zh": "艾克爾：輝達助擴充亞利桑那先進封測產能　攻AI基建",
+    "summary_zh": "（中央社記者鍾榮峰台北24日電）封測廠艾克爾（Amkor）宣布，與輝達（NVIDIA）達成15億美元（約新台幣485億元）規模的多年協議，支持艾克爾擴建位於美國亞利桑那州的先進封裝產能，擴大下一世代人工智慧AI基礎設施所需的先進封裝測試產能。",
+    "title_en": "Aike: Huida helps expand Arizona’s advanced packaging and testing production capacity to attack AI infrastructure",
+    "summary_en": "(Central News Agency reporter Zhong Rongfeng, Taipei, 24th) Packaging and testing factory Amkor announced that it has reached a multi-year agreement with a scale of US$1.5 billion (approximately NT$48.5 billion) with NVIDIA to support Amkor in expanding its advanced packaging production capacity in Arizona, USA, and expanding the advanced packaging and testing capacity required for the next generation of artificial intelligence AI infrastructure."
   },
   {
     "title": "高雄專區周年有成　金管會推動亞資中心專法",
@@ -6861,7 +6889,11 @@
     "summary": "<img alt=\"高雄專區周年有成　金管會推動亞資中心專法\" src=\"https://cdn2.ettoday.net/images/8845/c8845802.jpg\" /><br /> 亞洲資產管理中心高雄專區迎來一周年，行政院院長卓榮泰院長今（24）日金管會主委彭金隆、高雄市市長陳其邁陪同下，訪視專區銀行據點，實地瞭解金融機構資產管理服務及業務布局，共同見證高雄專區成立一年來之推動成果。 <a href=\"https://finance.ettoday.net/news/3207206\" target=\"_blank\">《詳全文...》</a>",
     "published_at": "2026-07-24T17:57:00+08:00",
     "stocks": [],
-    "uid": "b57489713f8cb5856091db213e636d41"
+    "uid": "b57489713f8cb5856091db213e636d41",
+    "title_zh": "高雄專區周年有成　金管會推動亞資中心專法",
+    "summary_zh": "<img alt=\"高雄專區周年有成　金管會推動亞資中心專法\" src=\"https://cdn2.ettoday.net/images/8845/c8845802.jpg\" /><br /> 亞洲資產管理中心高雄專區迎來一周年，行政院院長卓榮泰院長今（24）日金管會主委彭金隆、高雄市市長陳其邁陪同下，訪視專區銀行據點，實地瞭解金融機構資產管理服務及業務布局，共同見證高雄專區成立一年來之推動成果。 <a href=\"https://finance.ettoday.net/news/3207206\" target=\"_blank\">《詳全文...》</a>",
+    "title_en": "Kaohsiung Zone has a successful anniversary, the Financial Supervisory Committee promotes the Asian Capital Center’s special law",
+    "summary_en": "<img alt=\"Kaohsiung District Anniversary Successful Financial Supervisory Committee to Promote Asian Capital Center Special Law\" src=\"https://cdn2.ettoday.net/images/8845/c8845802.jpg\" /><br /> The Kaohsiung Zone of the Asian Asset Management Center is celebrating its first anniversary. Today (24th), President of the Executive Yuan, Zhuo Rongtai, accompanied by Financial Supervisory Committee Chairman Peng Jinlong and Kaohsiung Mayor Chen Chimai, visited bank branches in the zone to learn about the asset management services and business layout of financial institutions and jointly witness the achievements of the Kaohsiung Zone in the past year since its establishment. <a href=\"https://finance.ettoday.net/news/3207206\" target=\"_blank\">\"Full text...\"</a>"
   },
   {
     "title": "漢翔：獲得民航與發動機220億新訂單",
@@ -6870,7 +6902,11 @@
     "summary": "（中央社記者江明晏台北24日電）漢翔今天宣布，前往英國法茵堡航展斬獲訂單，繼22日與美國航太系統大廠完成多款軍機系統件的經銷換約後，在民用航空與發動機方面，陸續再與多家航空大廠談下總額逾新台幣220億元的新訂單。",
     "published_at": "2026-07-24T17:56:42+08:00",
     "stocks": [],
-    "uid": "00b3a8430e8de62275041770ec035b91"
+    "uid": "00b3a8430e8de62275041770ec035b91",
+    "title_zh": "漢翔：獲得民航與發動機220億新訂單",
+    "summary_zh": "（中央社記者江明晏台北24日電）漢翔今天宣布，前往英國法茵堡航展斬獲訂單，繼22日與美國航太系統大廠完成多款軍機系統件的經銷換約後，在民用航空與發動機方面，陸續再與多家航空大廠談下總額逾新台幣220億元的新訂單。",
+    "title_en": "Hanxiang: Obtained 22 billion new orders for civil aviation and engines",
+    "summary_en": "(Central News Agency reporter Jiang Mingyan, Taipei, 24th) Hanxiang announced today that it went to the Farnborough Air Show in the UK to win orders. After completing the distribution contract exchange for a variety of military aircraft system parts with major US aerospace system manufacturers on the 22nd, in terms of civil aviation and engines, Hanxiang has successively negotiated new orders with a number of major aviation manufacturers totaling more than NT$22 billion."
   },
   {
     "title": "鴻海研究院聯手陽明交大 成功研發「高容量矽光子發射器」技術",
@@ -6881,7 +6917,11 @@
     "stocks": [
       "2317"
     ],
-    "uid": "97156539e65c12ece30b0ee301b64d0c"
+    "uid": "97156539e65c12ece30b0ee301b64d0c",
+    "title_zh": "鴻海研究院聯手陽明交大 成功研發「高容量矽光子發射器」技術",
+    "summary_zh": "隨著人工智慧席捲全球，大家對網路傳輸速度的要求也越來越高，當全世界的資料中心都在瘋狂運算AI的同時，後台的數據傳輸網路正面臨嚴重的「大塞車」。為了解決這個全球難題，鴻海（2317）集團旗下的鴻海研究院（Hon Hai Research Institute, HHRI），聯手國立陽明交通大學，成功研發出最新的「高容量矽光子發射器」技術。研究成果正式登上全球光學界的權威學術期刊《Optics Express》，向全世界展現台灣硬實力！",
+    "title_en": "Hon Hai Research Institute and Yangming Jiaotong University successfully developed \"high-capacity silicon photon emitter\" technology",
+    "summary_en": "As artificial intelligence sweeps the world, everyone's requirements for network transmission speed are getting higher and higher. While data centers around the world are frantically computing AI, the backend data transmission network is facing a serious \"big traffic jam.\" In order to solve this global problem, Hon Hai Research Institute (HHRI), a subsidiary of Hon Hai (2317) Group, teamed up with National Yang-Ming Chiao Tung University to successfully develop the latest \"high-capacity silicon photon emitter\" technology. The research results were officially published in \"Optics Express\", the authoritative academic journal in the global optical community, showing Taiwan's hard power to the world!"
   },
   {
     "title": "〈高雄專區一周年〉四年有變！卓揆拋四大宣示 金管會擬參考印度GIFT City等國際經驗",
@@ -6890,7 +6930,11 @@
     "summary": "行政院長卓榮泰今 (24) 日親自出席亞洲資產管理中心高雄專區周年記者會，拋出四項重要宣示，強調台灣已具備充足條件，正跨越「兩年有感」並邁向「四年有變」階段。為了讓高雄經驗遍地開花，",
     "published_at": "2026-07-24T17:55:24+08:00",
     "stocks": [],
-    "uid": "59e8eec7bde7de17fc187049dadd53e2"
+    "uid": "59e8eec7bde7de17fc187049dadd53e2",
+    "title_zh": "〈高雄專區一周年〉四年有變！卓揆拋四大宣示 金管會擬參考印度GIFT City等國際經驗",
+    "summary_zh": "行政院長卓榮泰今 (24) 日親自出席亞洲資產管理中心高雄專區周年記者會，拋出四項重要宣示，強調台灣已具備充足條件，正跨越「兩年有感」並邁向「四年有變」階段。為了讓高雄經驗遍地開花，",
+    "title_en": "<First Anniversary of Kaohsiung Region> Four years have changed! Zhuo Ke made four major announcements: the Financial Supervisory Commission plans to refer to international experiences such as India’s GIFT City",
+    "summary_en": "Executive President Zhuo Yongtai personally attended the annual press conference of the Kaohsiung Region of the Asia Asset Management Center today (24th) and made four important announcements, emphasizing that Taiwan has sufficient conditions and is moving beyond the \"feelings in two years\" and moving towards the \"changes in four years\" stage. In order to spread Kaohsiung experience everywhere,"
   },
   {
     "title": "台糖：小港製油工場獲高市府查驗合格　全力恢復產能",
@@ -6899,7 +6943,11 @@
     "summary": "台糖今天表示，小港廠製油工場沙拉油產線經高雄市衛生局查驗，確認符合規範，產線恢復後，將全力衝刺產能填補市場缺口。因應中元...",
     "published_at": "2026-07-24T17:54:55+08:00",
     "stocks": [],
-    "uid": "436c2715927a5073477e91699747cea9"
+    "uid": "436c2715927a5073477e91699747cea9",
+    "title_zh": "台糖：小港製油工場獲高市府查驗合格　全力恢復產能",
+    "summary_zh": "台糖今天表示，小港廠製油工場沙拉油產線經高雄市衛生局查驗，確認符合規範，產線恢復後，將全力衝刺產能填補市場缺口。因應中元...",
+    "title_en": "Taiwan Sugar: Xiaogang oil production plant passed the city government inspection and made every effort to restore production capacity",
+    "summary_en": "Taiwan Sugar said today that the salad oil production line at the Xiaogang Oil Processing Plant was inspected by the Kaohsiung City Health Bureau and confirmed to be in compliance with regulations. After the production line is restored, it will make every effort to increase production capacity to fill the market gap. In response to the Chinese Yuan..."
   },
   {
     "title": "亞翔在手訂單4400億元 未來三年營運年年成長",
@@ -6910,7 +6958,11 @@
     "stocks": [
       "6139"
     ],
-    "uid": "7cc8b374d4f969c42c8954c02497f5ef"
+    "uid": "7cc8b374d4f969c42c8954c02497f5ef",
+    "title_zh": "亞翔在手訂單4400億元 未來三年營運年年成長",
+    "summary_zh": "無塵室工程暨機電整合廠亞翔（6139）今（24）日舉行法說會，總經理蔣曉麟表示，受惠AI、高效能運算（HPC）及先進製造投資持續升溫，上半年新簽工程合約金額達新台幣303...…",
+    "title_en": "Yaxiang has 440 billion yuan in orders on hand and its operations will grow every year in the next three years.",
+    "summary_en": "Clean room engineering and electromechanical integration factory Yaxiang (6139) held a briefing today (24th). General Manager Jiang Xiaolin said that thanks to the continued increase in investment in AI, high-performance computing (HPC) and advanced manufacturing, the amount of newly signed engineering contracts in the first half of the year reached NT$303..."
   },
   {
     "title": "〈航運指數〉SCFI連3跌 跌幅收斂 波斯灣航線運價逆勢漲逾7%",
@@ -6919,7 +6971,11 @@
     "summary": "SCFI 連 3 跌 波斯灣航線運價逆勢漲逾 7%",
     "published_at": "2026-07-24T17:54:04+08:00",
     "stocks": [],
-    "uid": "0298703e5b3090c5bede64f14c347245"
+    "uid": "0298703e5b3090c5bede64f14c347245",
+    "title_zh": "〈航運指數〉SCFI連3跌 跌幅收斂 波斯灣航線運價逆勢漲逾7%",
+    "summary_zh": "SCFI 連 3 跌 波斯灣航線運價逆勢漲逾 7%",
+    "title_en": "<Shipping Index> SCFI fell for three consecutive times and the decline converged. Freight rates on the Persian Gulf route bucked the trend and rose by more than 7%.",
+    "summary_en": "SCFI falls for 3 consecutive times, freight rates on Persian Gulf routes rise more than 7% against the trend"
   },
   {
     "title": "歐元區7月商業活動恢復成長　但中東局勢使前景蒙塵",
@@ -6928,7 +6984,11 @@
     "summary": "（中央社布魯塞爾24日綜合外電報導）根據今天公布的標普全球綜合採購經理人指數（PMI）調查，歐元區7月商業活動實現4個月來首次成長，但中東衝突升級再次引發油價飆升，恐使經濟前景蒙塵。",
     "published_at": "2026-07-24T17:48:26+08:00",
     "stocks": [],
-    "uid": "6f073236c3f30a61b23d722edb03f5f2"
+    "uid": "6f073236c3f30a61b23d722edb03f5f2",
+    "title_zh": "歐元區7月商業活動恢復成長　但中東局勢使前景蒙塵",
+    "summary_zh": "（中央社布魯塞爾24日綜合外電報導）根據今天公布的標普全球綜合採購經理人指數（PMI）調查，歐元區7月商業活動實現4個月來首次成長，但中東衝突升級再次引發油價飆升，恐使經濟前景蒙塵。",
+    "title_en": "Eurozone business activity resumes growth in July, but situation in Middle East clouds outlook",
+    "summary_en": "(Central News Agency, Brussels, Comprehensive Foreign Reports on the 24th) According to the S&P Global Composite Purchasing Managers Index (PMI) survey released today, business activity in the euro zone increased for the first time in four months in July. However, the escalation of conflicts in the Middle East once again triggered a surge in oil prices, which may cloud the economic outlook."
   },
   {
     "title": "台糖：小港製油工場獲高市府查驗合格　全力恢復產能",
@@ -6937,7 +6997,11 @@
     "summary": "（中央社記者謝怡璇台北24日電）台糖今天表示，小港廠製油工場沙拉油產線經高雄市衛生局查驗，確認符合規範，產線恢復後，將全力衝刺產能填補市場缺口。因應中元節及中秋節將至，也將配合政府政策，穩定民生用油供應。至於先前預防性下架商品，將待衛生單位通知，依規定恢復上架。",
     "published_at": "2026-07-24T17:47:24+08:00",
     "stocks": [],
-    "uid": "da12a8194cb4c00d35c2d65f6a8ae164"
+    "uid": "da12a8194cb4c00d35c2d65f6a8ae164",
+    "title_zh": "台糖：小港製油工場獲高市府查驗合格　全力恢復產能",
+    "summary_zh": "（中央社記者謝怡璇台北24日電）台糖今天表示，小港廠製油工場沙拉油產線經高雄市衛生局查驗，確認符合規範，產線恢復後，將全力衝刺產能填補市場缺口。因應中元節及中秋節將至，也將配合政府政策，穩定民生用油供應。至於先前預防性下架商品，將待衛生單位通知，依規定恢復上架。",
+    "title_en": "Taiwan Sugar: Xiaogang oil production plant passed the city government inspection and made every effort to restore production capacity",
+    "summary_en": "(Central News Agency reporter Xie Yixuan, Taipei, Taiwan, 24th) Taiwan Sugar said today that the salad oil production line of the Xiaogang Oil Factory was inspected by the Kaohsiung City Health Bureau and confirmed to be in compliance with the specifications. After the production line is restored, it will make every effort to increase production capacity to fill the market gap. As the Hungry Ghost Festival and Mid-Autumn Festival are approaching, we will also cooperate with government policies to stabilize the supply of oil for people's livelihood. As for the products that were previously removed from the shelves as a precaution, they will be reinstated in accordance with regulations after being notified by the health unit."
   },
   {
     "title": "屏東「新園產業園區」啟動招商  可望創造127億產值",
@@ -6946,7 +7010,11 @@
     "summary": "近年多項國家級重大政策與產業布局相繼落腳屏東，除屏東科學園區外，屏東縣政府正積極推動「新園工業用地及新園產業園區」開發案，預計創造127億產值，為使各界投資人充分瞭解開發...…",
     "published_at": "2026-07-24T17:46:49+08:00",
     "stocks": [],
-    "uid": "5cc1b0e8ef1dc9d3f39f81ba7d6c916b"
+    "uid": "5cc1b0e8ef1dc9d3f39f81ba7d6c916b",
+    "title_zh": "屏東「新園產業園區」啟動招商  可望創造127億產值",
+    "summary_zh": "近年多項國家級重大政策與產業布局相繼落腳屏東，除屏東科學園區外，屏東縣政府正積極推動「新園工業用地及新園產業園區」開發案，預計創造127億產值，為使各界投資人充分瞭解開發...…",
+    "title_en": "Pingtung's \"Xinyuan Industrial Park\" launches investment promotion and is expected to create an output value of 12.7 billion",
+    "summary_en": "In recent years, a number of major national policies and industrial layouts have settled in Pingtung. In addition to the Pingtung Science Park, the Pingtung County Government is actively promoting the development project of \"Xinyuan Industrial Land and Xinyuan Industrial Park\", which is expected to create an output value of 12.7 billion. In order to allow investors from all walks of life to fully understand the development..."
   },
   {
     "title": "證交所：英柏得送件申請上市",
@@ -6957,7 +7025,11 @@
     "stocks": [
       "3167"
     ],
-    "uid": "bc2365278ed6fbddac8651fc0c928b20"
+    "uid": "bc2365278ed6fbddac8651fc0c928b20",
+    "title_zh": "證交所：英柏得送件申請上市",
+    "summary_zh": "AI機房大量建置，帶動全球記憶體市場火熱，主攻工業級快閃記憶體模組的英柏得科技今天送件申請股票上市",
+    "title_en": "Stock Exchange: Yingbo has to submit documents to apply for listing",
+    "summary_en": "The large-scale construction of AI computer rooms has driven the global memory market to be hot. Yingbaide Technology, which specializes in industrial-grade flash memory modules, submitted an application for stock listing today."
   },
   {
     "title": "臺灣智慧醫療科技成功落地日本 工研院組團參展有斬獲",
@@ -6966,7 +7038,11 @@
     "summary": "面對日本超高齡社會帶來的在宅醫療需求，工研院籌組「2026北海道札幌在宅醫療科技交流團」，率領8家臺灣智慧醫療企業參與第8屆日本在宅醫療聯合學會大會，並正式與日本在宅醫療...…",
     "published_at": "2026-07-24T17:44:34+08:00",
     "stocks": [],
-    "uid": "3be0bffff38d28271d85f4ef7942f1cb"
+    "uid": "3be0bffff38d28271d85f4ef7942f1cb",
+    "title_zh": "臺灣智慧醫療科技成功落地日本 工研院組團參展有斬獲",
+    "summary_zh": "面對日本超高齡社會帶來的在宅醫療需求，工研院籌組「2026北海道札幌在宅醫療科技交流團」，率領8家臺灣智慧醫療企業參與第8屆日本在宅醫療聯合學會大會，並正式與日本在宅醫療...…",
+    "title_en": "Taiwan’s smart medical technology successfully landed in Japan, and the Industrial Research Institute organized a group to participate in the exhibition and achieved results",
+    "summary_en": "Facing the demand for home medical care brought by Japan's super-aged society, ITRI organized the \"2026 Hokkaido Sapporo Home Medical Technology Exchange Group\" and led 8 Taiwanese smart medical companies to participate in the 8th Japan Joint Society Conference on Home Medical Care and officially cooperated with Japan's home medical care..."
   },
   {
     "title": "78歲阿嬤「極致摳省」怕晚年破產 慘痛代價曝光了",
@@ -6975,7 +7051,11 @@
     "summary": "〔財經頻道／綜合報導〕不少靠年金生活的高齡退休者容易因為過度節省，換來更高昂的代價。日本一名78歲獨居婦人因擔心電費增加，即使室內溫度逼近35度仍不願開冷氣，最後在家中昏倒送醫，不僅住院4天，還...…",
     "published_at": "2026-07-24T17:41:19+08:00",
     "stocks": [],
-    "uid": "bcf3499503a246c114ea1caf6e7c3081"
+    "uid": "bcf3499503a246c114ea1caf6e7c3081",
+    "title_zh": "78歲阿嬤「極致摳省」怕晚年破產 慘痛代價曝光了",
+    "summary_zh": "〔財經頻道／綜合報導〕不少靠年金生活的高齡退休者容易因為過度節省，換來更高昂的代價。日本一名78歲獨居婦人因擔心電費增加，即使室內溫度逼近35度仍不願開冷氣，最後在家中昏倒送醫，不僅住院4天，還...…",
+    "title_en": "The 78-year-old grandma is \"extremely frugal\" and is afraid of going bankrupt in her later years. The painful price is exposed",
+    "summary_en": "[Financial Channel/Comprehensive Report] Many elderly retirees who rely on annuities are prone to excessive savings, which in turn results in higher costs. A 78-year-old woman living alone in Japan was worried about the increase in electricity bills and refused to turn on the air conditioner even though the indoor temperature was approaching 35 degrees. Finally, she collapsed at home and was taken to the hospital. She was not only hospitalized for 4 days, but also..."
   },
   {
     "title": "外資賣超609億元調節台塑集團股  三大法人力捧緯創3天加碼15萬張",
@@ -6990,7 +7070,11 @@
       "TWS:2409:STOCK",
       "TWS:6505:STOCK"
     ],
-    "uid": "655d969b86db1a3802c0b91bfed13534"
+    "uid": "655d969b86db1a3802c0b91bfed13534",
+    "title_zh": "外資賣超609億元調節台塑集團股  三大法人力捧緯創3天加碼15萬張",
+    "summary_zh": "台股今日終場下跌 1195.97 點或 2.67%，收在 43654.84 點，再次跌破季線，成交值萎縮；三大法人合計賣超 663.94 億元，三大法人齊買緯創合計 44453 張，合計砸下 79.93 億元。",
+    "title_en": "Foreign investors sold more than 60.9 billion yuan to adjust Formosa Plastics Group shares. Three major legal forces supported Wistron and increased their positions by 150,000 in 3 days.",
+    "summary_en": "The Taiwan stock market ended today down 1195.97 points or 2.67%, closing at 43654.84 points, falling below the quarterly line again, and the transaction value shrank; the three major legal persons collectively sold more than 66.394 billion yuan, and the three major legal persons bought a total of 44,453 Wistron shares, netting a total of 7.993 billion yuan."
   },
   {
     "title": "神達持續擴充美國產能 加州費利蒙 AI 伺服器聚落成形",
@@ -7001,7 +7085,11 @@
     "stocks": [
       "3706"
     ],
-    "uid": "59f99edd794b2b778973b30cab613738"
+    "uid": "59f99edd794b2b778973b30cab613738",
+    "title_zh": "神達持續擴充美國產能 加州費利蒙 AI 伺服器聚落成形",
+    "summary_zh": "神達（3706）因應AI伺服器龐大訂單需求，持續擴充美國產能。24日代子公司MiTAC Information Systems Corp.公告，取得不動產使用權資產，標的物位於美國加州費利蒙（Fremont）三棟建物。神達表示，主要是為公司營運所需。隨著新產能持續開出，神達加州費利蒙AI伺服器聚落逐漸成形。",
+    "title_en": "MiTAC continues to expand U.S. production capacity and AI server cluster in Fremont, California takes shape",
+    "summary_en": "MiTAC (3706) continues to expand production capacity in the United States in response to huge order demand for AI servers. On the 24th, its subsidiary MiTAC Information Systems Corp. announced that it had acquired real estate use rights assets. The subject matter is located in three buildings in Fremont, California, USA. MiTAC stated that it is mainly for the company's operational needs. As new production capacity continues to be developed, MiTAC's AI server cluster in Fremont, California is gradually taking shape."
   },
   {
     "title": "台股摜殺千點失守季線！外資進出前10大一文看　續買緯創",
@@ -7013,7 +7101,11 @@
       "6770",
       "3231"
     ],
-    "uid": "73431030caa2cf14e3ff60e0728d215d"
+    "uid": "73431030caa2cf14e3ff60e0728d215d",
+    "title_zh": "台股摜殺千點失守季線！外資進出前10大一文看　續買緯創",
+    "summary_zh": "<img alt=\"台股摜殺千點失守季線！外資進出前10大一文看　續買緯創\" src=\"https://cdn2.ettoday.net/images/7204/c7204093.png\" /><br /> 國際油價漲至百美元，通膨壓力高，加上南韓股市去槓桿措施提前上路，今（24）日台股再度上演大怒神，終場重挫千餘點，43964點季線再度失守，外資翻臉砍股609.5億元，終結連續兩天買超，力積電（6770）遭調節4.3萬張居賣超第一大個股，緯創（3231）挾著客戶AI伺服器上市題材，外資續買3.2萬張，為買超第一名個股。 <a href=\"https://finance.ettoday.net/news/3207192\" target=\"_blank\">《詳全文...》</a>",
+    "title_en": "Taiwan stocks lost a thousand points and fell below the quarter line! Read the top 10 foreign investment in and out articles: Continue to buy Wistron",
+    "summary_en": "<img alt=\"Taiwan stocks smashed thousands of points and fell below the quarterly line! Read the top 10 foreign investment in and out of the article. Continue to buy Wistron\" src=\"https://cdn2.ettoday.net/images/7204/c7204093.png\" /><br /> International oil prices rose to US$100, inflationary pressures were high, and South Korea's stock market deleveraging measures started ahead of schedule. Today (24th), the Taiwanese stock market once again staged a furious performance, plunging more than a thousand points at the end. The quarterly line of 43,964 points fell again, and foreign investors turned their backs and cut 609 shares. 500 million yuan, ending two consecutive days of overbuying. Power Semiconductor (6770) was adjusted to 43,000 shares and became the number one oversold stock. Wistron (3231) took advantage of the user's AI server listing theme. Foreign investors continued to buy 32,000 shares, becoming the number one overbuying stock. <a href=\"https://finance.ettoday.net/news/3207192\" target=\"_blank\">\"Full text...\"</a>"
   },
   {
     "title": "台灣續列匯率操縱觀察　央行：台美溝通順暢持續交換意見",
@@ -7022,7 +7114,11 @@
     "summary": "（中央社記者潘姿羽台北24日電）美國最新匯率報告出爐，台灣因觸及對美順差高、經常帳順差對GDP比率逾3%的2項指標，續留觀察名單。央行今天發布新聞稿指出，台美溝通管道順暢，央行也提到美方看法認為，台對美貿易順差大幅成長，主要是因美國對台灣科技產品強勁需求的影響。",
     "published_at": "2026-07-24T17:38:16+08:00",
     "stocks": [],
-    "uid": "696d67ec6d011770df9851c631decada"
+    "uid": "696d67ec6d011770df9851c631decada",
+    "title_zh": "台灣續列匯率操縱觀察　央行：台美溝通順暢持續交換意見",
+    "summary_zh": "（中央社記者潘姿羽台北24日電）美國最新匯率報告出爐，台灣因觸及對美順差高、經常帳順差對GDP比率逾3%的2項指標，續留觀察名單。央行今天發布新聞稿指出，台美溝通管道順暢，央行也提到美方看法認為，台對美貿易順差大幅成長，主要是因美國對台灣科技產品強勁需求的影響。",
+    "title_en": "Taiwan continues to observe exchange rate manipulation. Central Bank: Taiwan and the United States have smooth communication and continue to exchange views.",
+    "summary_en": "(Central News Agency reporter Pan Ziyu, Taipei, 24th) The latest U.S. exchange rate report is released. Taiwan remains on the watch list because it touches two indicators: a high surplus with the United States and a current account surplus to GDP ratio of more than 3%. The central bank issued a press release today stating that communication channels between Taiwan and the United States are smooth. The central bank also mentioned the U.S. view that Taiwan’s trade surplus with the United States has grown significantly, mainly due to the impact of strong U.S. demand for Taiwan’s technology products."
   },
   {
     "title": "不用再綁手機！WhatsApp開放iPad直接註冊 4大新功能陸續上線",
@@ -7031,7 +7127,11 @@
     "summary": "Meta旗下通訊軟體WhatsApp日前宣布推出多項全新功能，進一步強化跨裝置使用體驗，包括首度支援直接在iPad建立WhatsApp帳號、全面升級CarPlay與And...…",
     "published_at": "2026-07-24T17:36:24+08:00",
     "stocks": [],
-    "uid": "efdf039cbe7926297ceb4926ca390057"
+    "uid": "efdf039cbe7926297ceb4926ca390057",
+    "title_zh": "不用再綁手機！WhatsApp開放iPad直接註冊 4大新功能陸續上線",
+    "summary_zh": "Meta旗下通訊軟體WhatsApp日前宣布推出多項全新功能，進一步強化跨裝置使用體驗，包括首度支援直接在iPad建立WhatsApp帳號、全面升級CarPlay與And...…",
+    "title_en": "No more tying up your phone! WhatsApp opens direct registration for iPad, 4 new features will be launched one after another",
+    "summary_en": "WhatsApp, Meta’s messaging software, recently announced the launch of a number of new features to further enhance the cross-device experience, including supporting the creation of a WhatsApp account directly on the iPad for the first time, comprehensive upgrades to CarPlay and And..."
   },
   {
     "title": "亞資中心示範專區滿週年 卓榮泰大讚：高雄達標了",
