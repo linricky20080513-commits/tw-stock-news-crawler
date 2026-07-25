@@ -1,5 +1,402 @@
 [
   {
+    "title": "美國公布301關稅  台灣豁免清單曝光",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5517350",
+    "source": "自由財經",
+    "summary": "美國貿易代表署依301條款對60個經濟體加徵關稅，台灣獲得10%且不疊加最惠國（MFN）關稅，且享有豁免清單。行政院台美經貿工作小組昨（25日）晚公布，台灣共有蝴蝶蘭、火...…",
+    "published_at": "2026-07-25T14:08:29+08:00",
+    "stocks": [],
+    "uid": "d976fe518a4f605e2f26e004dd6e7b64",
+    "title_zh": "美國公布301關稅  台灣豁免清單曝光",
+    "summary_zh": "美國貿易代表署依301條款對60個經濟體加徵關稅，台灣獲得10%且不疊加最惠國（MFN）關稅，且享有豁免清單。行政院台美經貿工作小組昨（25日）晚公布，台灣共有蝴蝶蘭、火...…",
+    "title_en": "US announces Section 301 tariffs, Taiwan exemption list exposed",
+    "summary_en": "The U.S. Trade Representative's Office imposed additional tariffs on 60 economies under Section 301. Taiwan received 10% without superposition of Most Favored Nation (MFN) tariffs and enjoyed an exemption list. The Executive Yuan’s Taiwan-U.S. Economic and Trade Working Group announced yesterday (25th) evening that Taiwan has Phalaenopsis, Phalaenopsis..."
+  },
+  {
+    "title": "小提琴家杜尼亞絲奪「留聲機」雙獎　9月訪台",
+    "url": "https://money.udn.com/money/story/7307/9650553",
+    "source": "經濟日報總經",
+    "summary": "西班牙小提琴家杜尼亞絲9月首度造訪台灣，才23歲已拿到「留聲機」雜誌「年度器樂演奏家」與「年度青年藝術家」雙料大獎，也是...",
+    "published_at": "2026-07-25T14:07:19+08:00",
+    "stocks": [],
+    "uid": "8fff2b8f2326e06fa70e8b5f1aef3814",
+    "title_zh": "小提琴家杜尼亞絲奪「留聲機」雙獎　9月訪台",
+    "summary_zh": "西班牙小提琴家杜尼亞絲9月首度造訪台灣，才23歲已拿到「留聲機」雜誌「年度器樂演奏家」與「年度青年藝術家」雙料大獎，也是...",
+    "title_en": "Violinist Dunias wins double Gramophone Prize and visits Taiwan in September",
+    "summary_en": "Spanish violinist Dunias visited Taiwan for the first time in September. At just 23 years old, she has already won the \"Instrumentalist of the Year\" and \"Young Artist of the Year\" awards from \"Gramophone\" magazine. She is also..."
+  },
+  {
+    "title": "如何讓 Gemini 幫你計算訂閱支出，檢查所有收據信件＋扣款前提醒",
+    "url": "https://technews.tw/2026/07/25/how-gemini-can-help-manage-your-subscription-finances/",
+    "source": "科技新報",
+    "summary": "現代人手上訂閱一堆串流平台、AI 工具或雲端空間，很多時候只是為「試用 7 天」或完成單一專案，隨後卻忘記取消 [&#8230;]",
+    "published_at": "2026-07-25T14:00:32+08:00",
+    "stocks": [],
+    "uid": "65c115f6880d6d21022f88ba1749988c",
+    "title_zh": "如何讓 Gemini 幫你計算訂閱支出，檢查所有收據信件＋扣款前提醒",
+    "summary_zh": "現代人手上訂閱一堆串流平台、AI 工具或雲端空間，很多時候只是為「試用 7 天」或完成單一專案，隨後卻忘記取消 [&#8230;]",
+    "title_en": "How to let Gemini help you calculate subscription expenses, check all receipt emails + reminder before deduction",
+    "summary_en": "Modern people subscribe to a bunch of streaming platforms, AI tools or cloud spaces, often just for a \"7-day trial\" or to complete a single project, and then forget to cancel […]"
+  },
+  {
+    "title": "Synology 推出雲端監控 Surveillance365，滿足更多元的跨產業場域安全需求",
+    "url": "https://infosecu.technews.tw/2026/07/25/synology-surveillance365/",
+    "source": "科技新報",
+    "summary": "過去十年，企業安防系統的核心邏輯幾乎沒有改變：採購攝影機、架設 NVR 或 NAS、IT 人員維護，每隔幾年再 [&#8230;]",
+    "published_at": "2026-07-25T14:00:11+08:00",
+    "stocks": [],
+    "uid": "578937e4344028a0df3f316c2301e68f",
+    "title_zh": "Synology 推出雲端監控 Surveillance365，滿足更多元的跨產業場域安全需求",
+    "summary_zh": "過去十年，企業安防系統的核心邏輯幾乎沒有改變：採購攝影機、架設 NVR 或 NAS、IT 人員維護，每隔幾年再 [&#8230;]",
+    "title_en": "Synology launches cloud monitoring Surveillance365 to meet more diverse cross-industry security needs",
+    "summary_en": "Over the past ten years, the core logic of enterprise security systems has hardly changed: purchase cameras, set up NVR or NAS, IT staff to maintain it, and then […]"
+  },
+  {
+    "title": "ABF 載板結構性供需失衡將擴大 法人調升三雄目標價",
+    "url": "https://money.udn.com/money/story/5607/9650547",
+    "source": "經濟日報",
+    "summary": "人工智慧（AI）晶片先進封裝與高頻寬記憶體整合趨勢，帶動高階ABF載板加速朝大尺寸及高層數化發展，法人預期進入缺口擴大上升周期，漲價效應擴大及組合優化，將推升欣興（3037）、南電（8046）、景碩（3189）獲利續揚，同步調高目標價。",
+    "published_at": "2026-07-25T13:58:41+08:00",
+    "stocks": [
+      "3037",
+      "8046",
+      "3189"
+    ],
+    "uid": "280c0dfdc218659c9d455b2450fef758",
+    "title_zh": "ABF 載板結構性供需失衡將擴大 法人調升三雄目標價",
+    "summary_zh": "人工智慧（AI）晶片先進封裝與高頻寬記憶體整合趨勢，帶動高階ABF載板加速朝大尺寸及高層數化發展，法人預期進入缺口擴大上升周期，漲價效應擴大及組合優化，將推升欣興（3037）、南電（8046）、景碩（3189）獲利續揚，同步調高目標價。",
+    "title_en": "ABF carrier board structural supply and demand imbalance will expand, legal person raises Sanxiong target price",
+    "summary_en": "The trend of advanced packaging of artificial intelligence (AI) chips and the integration of high-bandwidth memories has driven the accelerated development of high-end ABF carrier boards towards large sizes and high-level digitalization. The legal person is expected to enter a gap-expanding upward cycle, the price increase effect will be expanded and the portfolio will be optimized, which will push up the profits of Xinxing (3037), Nanjing (8046) and Jingshuo (3189), and simultaneously raise the target price."
+  },
+  {
+    "title": "勞動部職訓成果展 職涯結合 AI 應用永續發展",
+    "url": "https://money.udn.com/money/story/10871/9650544",
+    "source": "經濟日報股市",
+    "summary": "勞動部勞動力發展署北分署24日舉辦「2026職訓RUN起來」職訓成果展。活動以職涯馬拉松為核心概念，集結超過20個特色展示及體驗攤位，涵蓋AI、智慧製造、數位科技、永續發展、職人技藝及企業徵才等多元內容，展現職業訓練結合產業需求、銜接就業市場的推動成效。",
+    "published_at": "2026-07-25T13:55:06+08:00",
+    "stocks": [],
+    "uid": "aa35c26bdd2ec7dfc9fdc8172d44de3e",
+    "title_zh": "勞動部職訓成果展 職涯結合 AI 應用永續發展",
+    "summary_zh": "勞動部勞動力發展署北分署24日舉辦「2026職訓RUN起來」職訓成果展。活動以職涯馬拉松為核心概念，集結超過20個特色展示及體驗攤位，涵蓋AI、智慧製造、數位科技、永續發展、職人技藝及企業徵才等多元內容，展現職業訓練結合產業需求、銜接就業市場的推動成效。",
+    "title_en": "Ministry of Labor Vocational Training Achievements Exhibition Career Integration of AI Application for Sustainable Development",
+    "summary_en": "The North Branch of the Workforce Development Administration of the Ministry of Labor held the \"2026 Vocational Training RUN\" Vocational Training Achievements Exhibition on the 24th. With the core concept of career marathon, the event gathered more than 20 special exhibition and experience booths, covering diverse contents such as AI, smart manufacturing, digital technology, sustainable development, craftsmanship and corporate recruitment, demonstrating the effectiveness of vocational training combined with industry needs and connecting the job market."
+  },
+  {
+    "title": "完整獎號一次看！5、6月統一發票開獎千萬特別獎「38548029」",
+    "url": "https://news.cnyes.com/news/id/6545713",
+    "source": "鉅亨網",
+    "summary": "115 年 5、6 月期統一發票今 (25) 日開獎，特別獎號碼開出為「38548029」",
+    "published_at": "2026-07-25T13:46:12+08:00",
+    "stocks": [],
+    "uid": "6145f72941834362d62de08b51ba7da7",
+    "title_zh": "完整獎號一次看！5、6月統一發票開獎千萬特別獎「38548029」",
+    "summary_zh": "115 年 5、6 月期統一發票今 (25) 日開獎，特別獎號碼開出為「38548029」",
+    "title_en": "View the complete prize numbers at once! 5. In June, the unified invoice will draw a special prize of 10 million \"38548029\"",
+    "summary_en": "The unified invoice for May and June of 115 will be drawn today (25th), and the special prize number is \"38548029\""
+  },
+  {
+    "title": "台語認證外籍考生近5年新高　印度籍夫妻一同報考",
+    "url": "https://money.udn.com/money/story/7307/9650528",
+    "source": "經濟日報總經",
+    "summary": "教育部今天舉辦台語認證考試，共有23名外籍考生，是5年來最多的一次。印度籍的夏珠（Anlin Shaju）和賈可布（Vi...",
+    "published_at": "2026-07-25T13:37:18+08:00",
+    "stocks": [],
+    "uid": "14325b239c29b26bad6e1212536c6597",
+    "title_zh": "台語認證外籍考生近5年新高　印度籍夫妻一同報考",
+    "summary_zh": "教育部今天舉辦台語認證考試，共有23名外籍考生，是5年來最多的一次。印度籍的夏珠（Anlin Shaju）和賈可布（Vi...",
+    "title_en": "The number of foreign candidates for Taiwanese language certification is at a new high in the past five years. Indian couples are applying together.",
+    "summary_en": "The Ministry of Education held the Taiwanese language certification exam today. There were 23 foreign candidates, the most in five years. Indian Anlin Shaju and Vi..."
+  },
+  {
+    "title": "藍號召凱道集會　陳時中：須考慮政治動作太多是否適合",
+    "url": "https://money.udn.com/money/story/7307/9650525",
+    "source": "經濟日報總經",
+    "summary": "國民黨號召今天「上凱道反毒油」，行政院政務委員陳時中表示，遊行抗議是民意表達的一環，但要考慮社會成本與效益，目前食安法修...",
+    "published_at": "2026-07-25T13:36:43+08:00",
+    "stocks": [],
+    "uid": "86324457b24ca302f93da05c394e1fc1",
+    "title_zh": "藍號召凱道集會　陳時中：須考慮政治動作太多是否適合",
+    "summary_zh": "國民黨號召今天「上凱道反毒油」，行政院政務委員陳時中表示，遊行抗議是民意表達的一環，但要考慮社會成本與效益，目前食安法修...",
+    "title_en": "Lan calls for Kaidao rally Chen Shizhong: We must consider whether it is appropriate to take too many political actions",
+    "summary_en": "The Kuomintang called for an \"anti-drug oil protest on Kaidao\" today. Chen Shizhong, political affairs councilor of the Executive Yuan, said that marches and protests are part of expressing public opinion, but social costs and benefits must be considered. The current revision of the food safety law..."
+  },
+  {
+    "title": "環境部盼產官學研攜手 進行高科技綠色永續轉型",
+    "url": "https://money.udn.com/money/story/11162/9650502",
+    "source": "經濟日報股市",
+    "summary": "為了解密深埋地底的環保科技，環境部環境管理署24日舉辦「2026土水跨域技術產學發表暨技術媒合會」。會中，「土水整治台灣隊」正式結盟，更打破了學術研究與商業市場間隔閡，樹立了本土科研成果邁向實場應用的全新里程碑。",
+    "published_at": "2026-07-25T13:18:23+08:00",
+    "stocks": [],
+    "uid": "3b454b24dc809a6dca4b97ec465f2b1d",
+    "title_zh": "環境部盼產官學研攜手 進行高科技綠色永續轉型",
+    "summary_zh": "為了解密深埋地底的環保科技，環境部環境管理署24日舉辦「2026土水跨域技術產學發表暨技術媒合會」。會中，「土水整治台灣隊」正式結盟，更打破了學術研究與商業市場間隔閡，樹立了本土科研成果邁向實場應用的全新里程碑。",
+    "title_en": "The Ministry of Environment hopes that industry, government, academia and research will work together to carry out high-tech, green and sustainable transformation",
+    "summary_en": "In order to decipher the environmental protection technology buried deep underground, the Environmental Management Agency of the Ministry of Environment held the \"2026 Land and Water Cross-Domain Technology Industry-Academic Presentation and Technology Matchmaking Conference\" on the 24th. During the meeting, the \"Taiwan Soil and Water Remediation Team\" formally formed an alliance, breaking the gap between academic research and the commercial market, and establishing a new milestone for local scientific research results to be applied in the field."
+  },
+  {
+    "title": "促中火加速「以氣代煤」提升發電量 卓榮泰要求台電提前年度完成",
+    "url": "https://money.udn.com/money/story/10871/9650494",
+    "source": "經濟日報股市",
+    "summary": "行政院長卓榮泰25日出席大安大甲溪聯通管通水典禮。他表示，為了國家六大區域產業生活圈設定的「精密智慧新核心」，用水、用電不能產生問題。對於台中火力發電廠，政府會加速「以氣代煤」，並使其容量、發電量提升，他已經要求台電務必要提前年度完成。",
+    "published_at": "2026-07-25T13:13:33+08:00",
+    "stocks": [],
+    "uid": "735f79886d12ae4c0d454b5140465f60",
+    "title_zh": "促中火加速「以氣代煤」提升發電量 卓榮泰要求台電提前年度完成",
+    "summary_zh": "行政院長卓榮泰25日出席大安大甲溪聯通管通水典禮。他表示，為了國家六大區域產業生活圈設定的「精密智慧新核心」，用水、用電不能產生問題。對於台中火力發電廠，政府會加速「以氣代煤」，並使其容量、發電量提升，他已經要求台電務必要提前年度完成。",
+    "title_en": "To urge China National Fire to accelerate the \"replacing coal with gas\" to increase power generation, Zhuo Rongtai asked Taipower to complete the year ahead of schedule",
+    "summary_en": "Executive President Zhuo Rongtai attended the water connection ceremony of Da'an Dajiaxi Unicom Pipeline on the 25th. He said that for the \"new core of precision intelligence\" set by the country's six major regional industrial and living areas, water and electricity consumption must not cause problems. For the Taichung Thermal Power Plant, the government will accelerate the \"replacing coal with gas\" and increase its capacity and power generation. He has asked Taipower to complete the project ahead of schedule."
+  },
+  {
+    "title": "美宣布301台稅率10%不疊加 經濟部：利於工具機、機械業轉守為攻",
+    "url": "https://money.udn.com/money/story/7307/9650491",
+    "source": "經濟日報總經",
+    "summary": "美國公布「強迫勞動301調查」，經濟部25日表示，台灣新稅率適用10%不疊加MFN稅率，主要競爭對手國日本、韓國為12.5%不疊加MFN稅率，至於中國大陸、越南、泰國等國適用12.5%疊加MFN稅率，均較我國適用稅率高，有利於工具機及機械等產業轉守為攻，持續拓展美國市場。",
+    "published_at": "2026-07-25T13:09:31+08:00",
+    "stocks": [],
+    "uid": "db87d5d13e6fc936a49ccc4df8302022",
+    "title_zh": "美宣布301台稅率10%不疊加 經濟部：利於工具機、機械業轉守為攻",
+    "summary_zh": "美國公布「強迫勞動301調查」，經濟部25日表示，台灣新稅率適用10%不疊加MFN稅率，主要競爭對手國日本、韓國為12.5%不疊加MFN稅率，至於中國大陸、越南、泰國等國適用12.5%疊加MFN稅率，均較我國適用稅率高，有利於工具機及機械等產業轉守為攻，持續拓展美國市場。",
+    "title_en": "The United States announced that the 10% tax rate on 301 units will not be superimposed. The Ministry of Economic Affairs: It will help the machine tool and machinery industries to switch from defense to offense.",
+    "summary_en": "The United States announced the \"Forced Labor 301 Investigation\". The Ministry of Economic Affairs stated on the 25th that Taiwan's new tax rate applies to a 10% non-superimposed MFN tax rate. Its main competitors, Japan and South Korea, apply a 12.5% ​​non-superimposed MFN tax rate. As for mainland China, Vietnam, Thailand and other countries, a 12.5% ​​superimposed MFN tax rate is applicable, which is higher than the applicable tax rate in my country. It is conducive to industries such as machine tools and machinery to switch from defense to offense and continue to expand the US market."
+  },
+  {
+    "title": "強迫勞動301調查　經部：稅率10%較日韓優惠有利台廠",
+    "url": "https://money.udn.com/money/story/11162/9650469",
+    "source": "經濟日報股市",
+    "summary": "美國「強迫勞動301調查」結果出爐，經濟部今天表示，台灣及歐盟適用較優惠的10%不疊加MFN稅率，取得優於日韓的關稅優勢...",
+    "published_at": "2026-07-25T13:00:50+08:00",
+    "stocks": [],
+    "uid": "033d21a36904304f11e93ad1a6bbcd4b",
+    "title_zh": "強迫勞動301調查　經部：稅率10%較日韓優惠有利台廠",
+    "summary_zh": "美國「強迫勞動301調查」結果出爐，經濟部今天表示，台灣及歐盟適用較優惠的10%不疊加MFN稅率，取得優於日韓的關稅優勢...",
+    "title_en": "Forced Labor 301 Investigation Ministry of Economic Affairs: 10% tax rate is more favorable than Japan and South Korea, which is beneficial to Taiwanese factories",
+    "summary_en": "The results of the \"Forced Labor 301 Investigation\" in the United States are out. The Ministry of Economic Affairs said today that Taiwan and the European Union apply the more favorable 10% non-superimposed MFN tax rate, gaining a tariff advantage over Japan and South Korea..."
+  },
+  {
+    "title": "藍黨代表提案　與他黨共推總統人選兩岸理念須相仿",
+    "url": "https://money.udn.com/money/story/7307/9650468",
+    "source": "經濟日報總經",
+    "summary": "國民黨今天舉行全代會，有黨代表提案修正國民黨公職人員選舉提名辦法，若提名總統候選人需要與他黨共同提出人選時，他黨的兩岸、...",
+    "published_at": "2026-07-25T13:00:30+08:00",
+    "stocks": [],
+    "uid": "a06401b7d2884c2817e0ab6480a51ba5",
+    "title_zh": "藍黨代表提案　與他黨共推總統人選兩岸理念須相仿",
+    "summary_zh": "國民黨今天舉行全代會，有黨代表提案修正國民黨公職人員選舉提名辦法，若提名總統候選人需要與他黨共同提出人選時，他黨的兩岸、...",
+    "title_en": "Representatives of the Blue Party proposed that the presidential candidates jointly recommended by other parties should have similar cross-strait ideals",
+    "summary_en": "The Kuomintang held its National Congress today. Some party representatives proposed to amend the Kuomintang's nomination method for the election of public officials. If nominating a presidential candidate requires co-proposing a candidate with another party, the other party's cross-strait,..."
+  },
+  {
+    "title": "別急著讓孩子贏在起跑點，研究：真正的天才靠多元探索慢慢養成",
+    "url": "https://technews.tw/2026/07/25/the-slow-burn-rule-of-highly-intelligent-people/",
+    "source": "科技新報",
+    "summary": "一項刊登於《Science》期刊的大型回顧研究，改寫了外界對「天才養成」的想像。研究團隊彙整近 3.5 萬名世 [&#8230;]",
+    "published_at": "2026-07-25T13:00:17+08:00",
+    "stocks": [],
+    "uid": "c678d6d232c6336855a9896a9d8c202d",
+    "title_zh": "別急著讓孩子贏在起跑點，研究：真正的天才靠多元探索慢慢養成",
+    "summary_zh": "一項刊登於《Science》期刊的大型回顧研究，改寫了外界對「天才養成」的想像。研究團隊彙整近 3.5 萬名世 [&#8230;]",
+    "title_en": "Don’t rush to let your children win at the starting point. Research: Real geniuses are slowly developed through diverse exploration.",
+    "summary_en": "A large-scale review study published in the journal Science has rewritten the outside world's imagination of \"genius development.\" The research team compiled nearly 35,000 famous […]"
+  },
+  {
+    "title": "美強迫勞動301關稅新稅率上路 經濟部：台比日韓有優勢 產業評估出爐",
+    "url": "https://money.udn.com/money/story/11162/9650456",
+    "source": "經濟日報股市",
+    "summary": "美國公布301強迫勞動調查結果，對台灣課徵10％稅率，經濟部今日發布新聞稿表示，本次新稅率台灣及歐盟適用較優惠的10％不疊加MFN（最惠國待遇）稅率，廠商輸美產品而主要競爭對手國日本、南韓為12.5％不疊加MFN稅率，而中國等則是12.5％疊加MNF稅率，均較我國為高，有利於工具機及機械等產業轉守為攻，持續拓展美國市場。",
+    "published_at": "2026-07-25T12:52:34+08:00",
+    "stocks": [],
+    "uid": "6f7d043f32bc4ded1fedfb8c350e222c",
+    "title_zh": "美強迫勞動301關稅新稅率上路 經濟部：台比日韓有優勢 產業評估出爐",
+    "summary_zh": "美國公布301強迫勞動調查結果，對台灣課徵10％稅率，經濟部今日發布新聞稿表示，本次新稅率台灣及歐盟適用較優惠的10％不疊加MFN（最惠國待遇）稅率，廠商輸美產品而主要競爭對手國日本、南韓為12.5％不疊加MFN稅率，而中國等則是12.5％疊加MNF稅率，均較我國為高，有利於工具機及機械等產業轉守為攻，持續拓展美國市場。",
+    "title_en": "New US tariffs on forced labor 301 tariffs are on the way. Ministry of Economic Affairs: Taiwan has advantages over Japan and South Korea. Industry assessment released",
+    "summary_en": "The United States announced the results of the 301 forced labor investigation and imposed a 10% tax rate on Taiwan. The Ministry of Economic Affairs issued a press release today stating that this new tax rate applies to Taiwan and the European Union, which is a more favorable 10% non-superimposed MFN (most-favored nation treatment) tax rate. For products exported to the United States, the main competitors Japan and South Korea have a 12.5% ​​non-superimposed MFN tax rate, while China and other countries have a 12.5% ​​superimposed MNF tax rate, both of which are higher than our country. This will help industries such as machine tools and machinery to turn defense into offense and continue to expand the U.S. market."
+  },
+  {
+    "title": "美301關稅台勝日韓！經部盤點8類傳產受惠 可轉守為攻迎轉單",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5517259",
+    "source": "自由財經",
+    "summary": "美國依301條款對全球60個經濟體加徵關稅，台灣因適用10%且不疊加最惠國（MFN）稅率，較日本、韓國的12.5%更具優勢。經濟部今（25）日表示，工具機、機械可望首度取...…",
+    "published_at": "2026-07-25T12:49:12+08:00",
+    "stocks": [],
+    "uid": "cdd8ec7cc3b0f7b16374345cda682f1d",
+    "title_zh": "美301關稅台勝日韓！經部盤點8類傳產受惠 可轉守為攻迎轉單",
+    "summary_zh": "美國依301條款對全球60個經濟體加徵關稅，台灣因適用10%且不疊加最惠國（MFN）稅率，較日本、韓國的12.5%更具優勢。經濟部今（25）日表示，工具機、機械可望首度取...…",
+    "title_en": "US 301 tariffs beat Taiwan over Japan and South Korea! The Ministry of Economic Affairs takes stock of 8 types of inheritance benefits that can turn defense into offense to welcome orders",
+    "summary_en": "The United States imposes additional tariffs on 60 economies around the world under Section 301. Taiwan applies a 10% tariff without superimposing a most-favored-nation (MFN) tariff, which gives it an advantage over Japan and South Korea's 12.5% ​​tariff. The Ministry of Economic Affairs stated today (25th) that machine tools and machinery are expected to be available for the first time..."
+  },
+  {
+    "title": "近5成年輕人零存款  yes123：87％新鮮人願降薪找工作、創7年新高",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5517280",
+    "source": "自由財經",
+    "summary": "時序進入7月下旬，社會新鮮人都找到工作了嗎？根據yes123求職網的最新調查，社會新鮮人的待業壓力持續攀升，平均待業忍耐極限約為5.6個月（168天），一旦超過可承受時間...…",
+    "published_at": "2026-07-25T12:47:30+08:00",
+    "stocks": [],
+    "uid": "77a123e0cdbc369e5b23452ee80f1646",
+    "title_zh": "近5成年輕人零存款  yes123：87％新鮮人願降薪找工作、創7年新高",
+    "summary_zh": "時序進入7月下旬，社會新鮮人都找到工作了嗎？根據yes123求職網的最新調查，社會新鮮人的待業壓力持續攀升，平均待業忍耐極限約為5.6個月（168天），一旦超過可承受時間...…",
+    "title_en": "Nearly 50% of young people have zero savings yes123: 87% of fresh people are willing to cut their salary to find a job, a 7-year high",
+    "summary_en": "The time sequence has entered late July. Have all the newcomers found jobs? According to the latest survey of yes123 job search website, the unemployment pressure of fresh people in society continues to rise. The average unemployment endurance limit is about 5.6 months (168 days). Once the tolerable time is exceeded..."
+  },
+  {
+    "title": "最低工資連11漲穩了？ 最低工資諮詢會周一登場研究報告揭密",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5517279",
+    "source": "自由財經",
+    "summary": "時序進入第3季，勞動部每年於第3季末召開最低工資審議委員會，由審議委員討論最低工資是否調整及調幅。勞動部將在下周一（27日）召開最低工資審議會暨諮詢會聯席會議，主要議程在...…",
+    "published_at": "2026-07-25T12:46:34+08:00",
+    "stocks": [],
+    "uid": "14eeb3a1a5699df33f58ca41b3f39490",
+    "title_zh": "最低工資連11漲穩了？ 最低工資諮詢會周一登場研究報告揭密",
+    "summary_zh": "時序進入第3季，勞動部每年於第3季末召開最低工資審議委員會，由審議委員討論最低工資是否調整及調幅。勞動部將在下周一（27日）召開最低工資審議會暨諮詢會聯席會議，主要議程在...…",
+    "title_en": "Minimum wage has been raised steadily for 11 consecutive years? Minimum Wage Consultation Conference to debut on Monday, research report revealed",
+    "summary_en": "As the time sequence enters the third quarter, the Ministry of Labor convenes the Minimum Wage Review Committee at the end of the third quarter every year, and the review committee discusses whether to adjust the minimum wage and how much it should be adjusted. The Ministry of Labor will hold a joint meeting of the Minimum Wage Review and Consultation Meeting next Monday (27th). The main agenda is..."
+  },
+  {
+    "title": "遠東銀拚亞資 3W 策略打造高資產新動能",
+    "url": "https://money.udn.com/money/story/10871/9650439",
+    "source": "經濟日報股市",
+    "summary": "遠東銀行（2845）總經理林建忠24日出席「亞洲資產管理中心高雄專區周年記者會」時表示，遠東商銀透過3W服務架構，打造高資產金融新動能。",
+    "published_at": "2026-07-25T12:43:54+08:00",
+    "stocks": [
+      "2845"
+    ],
+    "uid": "96e6af16301a12e503853ffc80ca2b02",
+    "title_zh": "遠東銀拚亞資 3W 策略打造高資產新動能",
+    "summary_zh": "遠東銀行（2845）總經理林建忠24日出席「亞洲資產管理中心高雄專區周年記者會」時表示，遠東商銀透過3W服務架構，打造高資產金融新動能。",
+    "title_en": "Far East Bank’s 3W strategy to fight for Asian assets to create new momentum for high assets",
+    "summary_en": "Lin Jianzhong, general manager of Far East Bank (2845), attended the \"Asian Asset Management Center Kaohsiung Zone Annual Press Conference\" on the 24th and said that Far East Bank has created new driving forces for high-asset finance through the 3W service structure."
+  },
+  {
+    "title": "新光三越正式進駐台北車站 首日服務不中斷營運順暢 年營收衝30億以上",
+    "url": "https://money.udn.com/money/story/5612/9650438",
+    "source": "經濟日報股市",
+    "summary": "新光三越百貨25日宣布，正式進駐台北車站，強調以「營運不中斷」為原則，持續提供旅客服務，商場原有120個櫃位及餐廳，約有九成續留，另外一成因合約到期，將作調整。這也是新光三越全台第17個營業據點，初估未來每年營業額可望突破30億元以上新高。",
+    "published_at": "2026-07-25T12:40:27+08:00",
+    "stocks": [],
+    "uid": "4802bd1a1e73bb4fe317deb389a234cc",
+    "title_zh": "新光三越正式進駐台北車站 首日服務不中斷營運順暢 年營收衝30億以上",
+    "summary_zh": "新光三越百貨25日宣布，正式進駐台北車站，強調以「營運不中斷」為原則，持續提供旅客服務，商場原有120個櫃位及餐廳，約有九成續留，另外一成因合約到期，將作調整。這也是新光三越全台第17個營業據點，初估未來每年營業額可望突破30億元以上新高。",
+    "title_en": "Shin Kong Mitsukoshi officially enters Taipei Main Station, with uninterrupted services and smooth operations on the first day, with annual revenue exceeding 3 billion",
+    "summary_en": "Shin Kong Mitsukoshi Department Store announced on the 25th that it has officially entered Taipei Main Station, emphasizing the principle of \"uninterrupted operations\" and continuing to provide passenger services. About 90% of the mall's original 120 counters and restaurants will be retained, and the other 10% will be adjusted due to the expiration of the contract. This is also Shin Kong Mitsukoshi's 17th business location in Taiwan. It is initially estimated that the annual turnover in the future is expected to exceed a new high of more than 3 billion yuan."
+  },
+  {
+    "title": "快對發票！5-6月統一發票千萬獎「38548029」 完整獎號在這裡",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5517271",
+    "source": "自由財經",
+    "summary": "快來對獎！今年5-6月期統一發票今天開獎，1000萬元特別獎中獎號碼為「38548029」；200萬元特獎中獎號碼為「10138845」。財政部賦稅署表示，5-6月期統一...…",
+    "published_at": "2026-07-25T12:36:43+08:00",
+    "stocks": [],
+    "uid": "0beb2c983378cc5048d0627fcbc06595",
+    "title_zh": "快對發票！5-6月統一發票千萬獎「38548029」 完整獎號在這裡",
+    "summary_zh": "快來對獎！今年5-6月期統一發票今天開獎，1000萬元特別獎中獎號碼為「38548029」；200萬元特獎中獎號碼為「10138845」。財政部賦稅署表示，5-6月期統一...…",
+    "title_en": "Check the invoice quickly! The 10-million-dollar unified invoice award \"38548029\" from May to June is here. The complete award number is here",
+    "summary_en": "Come and compete for prizes! This year's May-June unified invoice draw will be held today. The winning number for the 10 million yuan special prize is \"38548029\"; the winning number for the 2 million yuan special prize is \"10138845\". The Taxation Administration of the Ministry of Finance stated that the May-June period is unified..."
+  },
+  {
+    "title": "主計總處第2季經濟成長有望上修　牽動後市有2大關鍵",
+    "url": "https://money.udn.com/money/story/10871/9650433",
+    "source": "經濟日報股市",
+    "summary": "主計總處將於31日發布第2季經濟成長率概估統計，由於人工智慧（AI）熱潮持續引領出口強勁成長，並帶旺投資、消費，第2季經...",
+    "published_at": "2026-07-25T12:36:42+08:00",
+    "stocks": [],
+    "uid": "f512dc0e958aa24c8a38c364b317a1d9",
+    "title_zh": "主計總處第2季經濟成長有望上修　牽動後市有2大關鍵",
+    "summary_zh": "主計總處將於31日發布第2季經濟成長率概估統計，由於人工智慧（AI）熱潮持續引領出口強勁成長，並帶旺投資、消費，第2季經...",
+    "title_en": "The General Accounting Office's economic growth in the second quarter is expected to be revised upward. There are two key factors affecting the market outlook.",
+    "summary_en": "The General Accounting Office will release estimated statistics on the economic growth rate in the second quarter on the 31st. As the artificial intelligence (AI) boom continues to lead to strong growth in exports and boost investment and consumption, the second quarter economic..."
+  },
+  {
+    "title": "雲林羊肉戴奧辛超標 環境部採樣釐清污染源",
+    "url": "https://money.udn.com/money/story/7307/9650425",
+    "source": "經濟日報總經",
+    "summary": "衛福部食藥署執行食品戴奧辛抽驗，雲林一件屠宰羊肉戴奧辛超標，環境部長彭啓明今天說，飼養場當地沒有明顯的戴奧辛來源，目前已...",
+    "published_at": "2026-07-25T12:30:46+08:00",
+    "stocks": [],
+    "uid": "b52cb0be45b38cccecd547dd8fc665c2",
+    "title_zh": "雲林羊肉戴奧辛超標 環境部採樣釐清污染源",
+    "summary_zh": "衛福部食藥署執行食品戴奧辛抽驗，雲林一件屠宰羊肉戴奧辛超標，環境部長彭啓明今天說，飼養場當地沒有明顯的戴奧辛來源，目前已...",
+    "title_en": "Yunlin mutton dioxin exceeded the standard, the Ministry of Environment took samples to clarify the source of the pollution",
+    "summary_en": "The Food and Drug Administration of the Ministry of Health and Welfare conducted a food dioxin sampling test and found that a piece of lamb slaughtered in Yunlin exceeded the standard for dioxin. Environment Minister Peng Qiming said today that there is no obvious source of dioxin in the local feedlot, and it has been..."
+  },
+  {
+    "title": "新北8年公共建設招商2000億 再釋出北環段Y22站等招商計畫",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5517247",
+    "source": "自由財經",
+    "summary": "財政部公布114年度全國民間參與公共建設招商成績，新北市府副秘書長龔雅雯表示，新北市民間投資金額達1105億元，也獲財政部頒布「招商卓越獎」肯定，市長侯友宜任內動多元化公共建設...…",
+    "published_at": "2026-07-25T12:22:25+08:00",
+    "stocks": [],
+    "uid": "579485a7c64f7352a6731195f1cc308f",
+    "title_zh": "新北8年公共建設招商2000億 再釋出北環段Y22站等招商計畫",
+    "summary_zh": "財政部公布114年度全國民間參與公共建設招商成績，新北市府副秘書長龔雅雯表示，新北市民間投資金額達1105億元，也獲財政部頒布「招商卓越獎」肯定，市長侯友宜任內動多元化公共建設...…",
+    "title_en": "New Taipei City plans to invest RMB 200 billion in public construction projects in eight years",
+    "summary_en": "The Ministry of Finance announced the 114th year of national private participation in public construction investment results. New Taipei City Deputy Secretary-General Gong Yawen said that the amount of private investment in New Taipei City reached 110.5 billion yuan. It was also recognized by the Ministry of Finance's \"Investment Excellence Award\". Mayor Hou Youyi has launched diversified public construction during his tenure..."
+  },
+  {
+    "title": "台積電上修資本支出 法人看好6檔廠務工程股仍具上檔空間",
+    "url": "https://money.udn.com/money/story/5607/9650405",
+    "source": "經濟日報",
+    "summary": "台積電（2330）、美光上修資本支出，加上封測廠進入擴產上升周期，及人工智慧（AI）效應刺激記憶體、成熟製程建廠需求，法人看好，漢唐（2404）、亞翔（6139）、洋基工程（6691）、聖暉*（5536）、帆宣（6196）、兆聯實業（6944）、朋億*（6613）等廠務工程族群，股價仍有上檔空間可期。",
+    "published_at": "2026-07-25T12:20:21+08:00",
+    "stocks": [
+      "2330",
+      "2404",
+      "6139",
+      "6691",
+      "6196",
+      "6944"
+    ],
+    "uid": "506392da6bf5f64c108366fc9ee0acdc"
+  },
+  {
+    "title": "AI巨頭財報前瞻一表看！微軟、Meta、蘋果下周開獎 聚焦資本支出",
+    "url": "https://news.cnyes.com/news/id/6545473",
+    "source": "鉅亨網",
+    "summary": "隨著美股第二季財報季正式展開，市場焦點重新回歸大型科技股基本面。在特斯拉 (Tesla)、Alphabet 率先公布財報後，微軟 (Microsoft)、Meta、蘋果 (Apple)、亞馬遜 (Amazon) 及輝達 (Nvidia",
+    "published_at": "2026-07-25T12:08:33+08:00",
+    "stocks": [
+      "TWS:00662:STOCK",
+      "USS:TSLA:STOCK",
+      "USS:GOOG:STOCK",
+      "USS:MSFT:STOCK",
+      "USS:AAPL:STOCK",
+      "USS:AMZN:STOCK",
+      "USS:NVDA:STOCK",
+      "USS:META:STOCK"
+    ],
+    "uid": "7a0e187ffdd68dbd87d4fda19200d368"
+  },
+  {
+    "title": "加拿大野火燒不停 川普再威脅：濃煙飄來美國就徵關稅",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5517161",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕美國總統川普週五（24日）再次對加拿大發出關稅威脅，重申如果加拿大野火引起的濃煙飄過邊境進入美國，他將對加拿大課徵高額關稅作為報復。\n\n\n《加拿大廣播公司》（CBC）報導，...…",
+    "published_at": "2026-07-25T12:03:37+08:00",
+    "stocks": [],
+    "uid": "c742841abd8679aad78a035207ec24dd"
+  },
+  {
+    "title": "〈熱門股〉勁豐今年銷售成長性審慎樂觀 連2根漲停創近20個月高",
+    "url": "https://news.cnyes.com/news/id/6545660",
+    "source": "鉅亨網",
+    "summary": "〈熱門股〉勁豐今年銷售成長性審慎樂觀 連二根漲停創近 20 個月高",
+    "published_at": "2026-07-25T12:01:48+08:00",
+    "stocks": [
+      "TWS:6577:STOCK"
+    ],
+    "uid": "9090efcb384af50481a0f3ce7b664763"
+  },
+  {
+    "title": "〈熱門股〉永道-KY獲需求升溫及新產能挹注營收發威 周漲18.5%",
+    "url": "https://news.cnyes.com/news/id/6545653",
+    "source": "鉅亨網",
+    "summary": "RFID 電子標籤廠永道 - KY(6863-TW) 在完工的越南新廠效益挹注之下，同時受惠客戶拉貨增溫，營收正向走高，外資連 5 日買超，股價本周收在 117.5 元，創近 3 個月來新高，股價周漲 18.57%。",
+    "published_at": "2026-07-25T12:00:30+08:00",
+    "stocks": [
+      "TWS:6863:STOCK",
+      "TWS:6417:STOCK"
+    ],
+    "uid": "7edae77ddd14e8fb6db630d3b35fb471"
+  },
+  {
     "title": "2231項豁免301關稅名單揭曉！蝴蝶蘭、 鳳梨酥等118項「台灣專屬」保住了",
     "url": "https://news.cnyes.com/news/id/6545638",
     "source": "鉅亨網",
@@ -39,6 +436,15 @@
     "summary_en": "In order to promote train safety, the Taiwan Railways has developed a five-year safety improvement plan. According to the audit department's final accounts review report, a total of 12 shunting accidents occurred in 2013 and 2014, and vehicles and equipment were damaged..."
   },
   {
+    "title": "新增產能將開出，NAND Flash 市場迎供需考驗",
+    "url": "https://technews.tw/2026/07/25/trendforce-ai-continues-boost-enterprise-ssd-demand-nand-supply-remains-tight-this-year/",
+    "source": "科技新報",
+    "summary": "三星電子與 SK 海力士近期股價回落，市場開始關注 NAND Flash 市場供需是否出現變化。TrendFo [&#8230;]",
+    "published_at": "2026-07-25T11:47:00+08:00",
+    "stocks": [],
+    "uid": "26a6f1550496a8c9e4ce259eb97cc020"
+  },
+  {
     "title": "紐約大都會台灣日　蔡其昌：帶歐告娃娃與特製手套開球",
     "url": "https://money.udn.com/money/story/7307/9650333",
     "source": "經濟日報總經",
@@ -67,6 +473,15 @@
     "summary_en": "<Popular Stock> Shipping has multiple supports. Wan Hai rose nearly 1% on a weekly basis, hitting a new high in the past 5 months."
   },
   {
+    "title": "AI太燒錢「現金流轉負」　美股3大巨頭下周財報考驗市場",
+    "url": "https://finance.ettoday.net/news/3207446",
+    "source": "ETtoday",
+    "summary": "<img alt=\"AI太燒錢「現金流轉負」　美股3大巨頭下周財報考驗市場\" src=\"https://cdn2.ettoday.net/images/4778/c4778872.jpg\" /><br /> Google 母公司 Alphabet 在美股22日盤後發布財報，隔日（23日）股價重挫6.89%，鉅額人工智慧（AI）資本支出導致現金流轉負，震撼市場，市場對資本支出能否收穫回報日益感到疑慮，而下周包括微軟、META、亞馬遜（Amazon）等雲端服務供應商（Cloud Service Provider、CSP）陸續公布財報，將進一步考驗市場，是否迎來另一波賣壓。 <a href=\"https://finance.ettoday.net/news/3207446\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-07-25T11:31:00+08:00",
+    "stocks": [],
+    "uid": "dc053b72050a278f8fb6295fcee05f87"
+  },
+  {
     "title": "孩子不吃青菜怎麼辦？科學提供更有效的方法",
     "url": "https://technews.tw/2026/07/25/how-to-get-kids-eating-vegetables/",
     "source": "科技新報",
@@ -91,6 +506,17 @@
     "summary_zh": "監委葉大華、紀惠容今天表示，台北市警局前警員黃仕奇以及前警員郭昇翰長期違法裝設密錄器，竊錄他人私密影像，被害人計有80名...",
     "title_en": "Two policemen in Beicheng City secretly recorded 81 people’s private videos but the police station did not inspect them. The Supervisory Authority corrected them.",
     "summary_en": "Supervisory Committee members Ye Dahua and Ji Huirong said today that former Taipei City Police Department police officer Huang Shiqi and former police officer Guo Shenghan illegally installed encryption devices for a long time to steal other people's private images, with a total of 80 victims..."
+  },
+  {
+    "title": "巴逆逆拿「2330吊飾」露甜笑！一票股民急了：放過那個號碼",
+    "url": "https://finance.ettoday.net/news/3207414",
+    "source": "ETtoday",
+    "summary": "<img alt=\"巴逆逆拿「2330吊飾」露甜笑！一票股民急了：放過那個號碼\" src=\"https://cdn2.ettoday.net/images/8846/c8846390.jpg\" /><br /> 有「反指標女神」之稱的財經網紅巴逆逆，近日分享一段影片，只見她拿著印有股票代號「2330」的綠色按鍵吊飾，笑問「這魔棒（這麼棒）的吊飾哪邊買？」貼文曝光後，立刻讓大批網友直呼「完了」，擔心台積電股價又要受到「神祕力量」影響，留言區瞬間被「求放過2330」洗版。 <a href=\"https://finance.ettoday.net/news/3207414\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-07-25T11:10:00+08:00",
+    "stocks": [
+      "2330"
+    ],
+    "uid": "43ad2302640e1aa7acac6c792378d7a7"
   },
   {
     "title": "國民黨全代會　鄭麗文率黨提名19縣市長參選人造勢",
