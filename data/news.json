@@ -1,5 +1,18 @@
 [
   {
+    "title": "7月27日 五件財經大事搶先看",
+    "url": "https://money.udn.com/money/story/5607/9652567",
+    "source": "經濟日報",
+    "summary": "經濟日報整理五件不可不知的財經大事，讓讀者在每天清晨能快速掌握最重要的財經大事。",
+    "published_at": "2026-07-27T03:00:23+08:00",
+    "stocks": [],
+    "uid": "b2e1a92211e3155c6640c6961b918517",
+    "title_zh": "7月27日 五件財經大事搶先看",
+    "summary_zh": "經濟日報整理五件不可不知的財經大事，讓讀者在每天清晨能快速掌握最重要的財經大事。",
+    "title_en": "Preview of five major financial events on July 27",
+    "summary_en": "The Economic Daily has compiled five must-know financial events so that readers can quickly grasp the most important financial events every morning."
+  },
+  {
     "title": "台股高檔震盪加劇 本周多空行情決戰三關鍵聚焦",
     "url": "https://money.udn.com/money/story/5607/9652435",
     "source": "經濟日報",
@@ -11862,7 +11875,11 @@
       "1219",
       "1225"
     ],
-    "uid": "c0f9af91545158588cf9fb7d486c4ad9"
+    "uid": "c0f9af91545158588cf9fb7d486c4ad9",
+    "title_zh": "快訊／毒油風暴！3董座親上火線致歉　泰山：中聯油脂引進外部董事",
+    "summary_zh": "<img alt=\"快訊／毒油風暴！3董座親上火線致歉　泰山：中聯油脂引進外部董事\" src=\"https://cdn2.ettoday.net/images/8845/c8845559.jpg\" /><br /> 中聯油脂致癌油風暴延燒，泰山（1218）、福壽（1219）、福懋油（1225）3家董事長今 （24日）親上火線舉行重訊說明會，除跟外界致歉外，由於此3家也是中聯油脂董事，泰山董事長劉偉龍在會中表達願意引進外部董事，強化公司治理。\n\n <a href=\"https://finance.ettoday.net/news/3207093\" target=\"_blank\">《詳全文...》</a>",
+    "title_en": "News/Poison Oil Storm! 3 Chairman went to the front line to apologize Taishan: Zoomlion Oil introduced external directors",
+    "summary_en": "<img alt=\"News/Toxic oil storm! 3 directors went to the front line to apologize Taishan: Zoomlion Oil introduced external directors\" src=\"https://cdn2.ettoday.net/images/8845/c8845559.jpg\" /><br /> The carcinogenic oil scandal of Zoomlion Oil and Fat has spread. The chairman of Taishan (1218), Fushou (1219) and Fumao Oil (1225) today (24th) went to the front line to hold a briefing on the news. In addition to apologizing to the outside world, since these three companies are also directors of Zoomlion Oil and Fat, Taishan Chairman Liu Weilong expressed his willingness to introduce outside directors to strengthen corporate governance.\n\n <a href=\"https://finance.ettoday.net/news/3207093\" target=\"_blank\">\"Full text...\"</a>"
   },
   {
     "title": "藍白版未來帳戶三讀通過 0-17歲兒少津貼可領114萬元",
@@ -11954,7 +11971,11 @@
     "summary": "財政部統計顯示，受惠於AI熱潮崛起，今年上半年證交稅稅收規模達新台幣3336億元，提前刷新歷史全年紀錄，重要性及影響度漸...",
     "published_at": "2026-07-24T15:36:39+08:00",
     "stocks": [],
-    "uid": "ad8791d10de62cd3875accba0fb0beef"
+    "uid": "ad8791d10de62cd3875accba0fb0beef",
+    "title_zh": "財部：AI行情帶動　證交稅半年刷新全年紀錄",
+    "summary_zh": "財政部統計顯示，受惠於AI熱潮崛起，今年上半年證交稅稅收規模達新台幣3336億元，提前刷新歷史全年紀錄，重要性及影響度漸...",
+    "title_en": "Ministry of Finance: Driven by the AI ​​market, securities and tax payments set a new full-year record in the first half of the year",
+    "summary_en": "Statistics from the Ministry of Finance show that thanks to the rise of the AI ​​craze, the tax revenue from securities transactions in the first half of this year reached NT$333.6 billion, breaking the historical full-year record ahead of schedule. Its importance and influence are gradually..."
   },
   {
     "title": "友達首推「供應商流域地圖」 攜70家夥伴打造水韌性供應鏈",
@@ -11965,7 +11986,11 @@
     "stocks": [
       "2409"
     ],
-    "uid": "ccfaaa46d4434089c4e72bc418ed6a37"
+    "uid": "ccfaaa46d4434089c4e72bc418ed6a37",
+    "title_zh": "友達首推「供應商流域地圖」 攜70家夥伴打造水韌性供應鏈",
+    "summary_zh": "友達光電（2409）23日舉辦「2026 CSR共榮大會」，邀集70家、超過150位供應鏈夥伴共襄盛舉。大會以「流域守護，邁向共生」為主題，聚焦水資源韌性與水域生態守護。...…",
+    "title_en": "AUO launches \"Supplier Basin Map\" for the first time and builds water-resilient supply chain with 70 partners",
+    "summary_en": "AU Optronics (2409) held the \"2026 CSR Co-Prosperity Conference\" on the 23rd, inviting 70 companies and more than 150 supply chain partners to participate in the event. With the theme of \"Watershed Protection, Toward Symbiosis\", the conference focused on water resource resilience and water ecological protection. ..."
   },
   {
     "title": "大數據推智慧幕僚解決方案 自有模型+輝達架構 鎖定公部門決策支援",
@@ -11974,7 +11999,11 @@
     "summary": "數據科技業者大數據公司24日宣布推出「KEYLM」智慧幕僚解決方案，鎖定政府單位的決策支援與備詢應用，將自有累積逾十年、超過65億筆繁體中文語料訓練而成的領域語言模型BIG10，結合AI Agent平台，並以輝達（NVIDIA）最新個人AI超級電腦NVIDIA DGX Spark為地端算力基礎，搭配軟體技術包括NVIDIA NeMo Framework與NVIDIA NeMo Agent Toolkit強化模型微調與Agent治理能力，實現一機到位的地端部署，在確保回答可溯源、過程可稽核的前提下，同步提升整體效能。",
     "published_at": "2026-07-24T15:33:39+08:00",
     "stocks": [],
-    "uid": "3444e04e6c0ff0f1a6a0d193e49d7a34"
+    "uid": "3444e04e6c0ff0f1a6a0d193e49d7a34",
+    "title_zh": "大數據推智慧幕僚解決方案 自有模型+輝達架構 鎖定公部門決策支援",
+    "summary_zh": "數據科技業者大數據公司24日宣布推出「KEYLM」智慧幕僚解決方案，鎖定政府單位的決策支援與備詢應用，將自有累積逾十年、超過65億筆繁體中文語料訓練而成的領域語言模型BIG10，結合AI Agent平台，並以輝達（NVIDIA）最新個人AI超級電腦NVIDIA DGX Spark為地端算力基礎，搭配軟體技術包括NVIDIA NeMo Framework與NVIDIA NeMo Agent Toolkit強化模型微調與Agent治理能力，實現一機到位的地端部署，在確保回答可溯源、過程可稽核的前提下，同步提升整體效能。",
+    "title_en": "Big data promotes smart staff solutions Self-owned model + Huida architecture to target public sector decision-making support",
+    "summary_en": "Big Data, a data technology company, announced on the 24th the launch of the \"KEYLM\" smart staff solution, targeting decision-making support and consultation applications for government agencies. It combines its own domain language model BIG10, which has been trained with more than 6.5 billion Traditional Chinese corpus for more than ten years, combined with the AI Agent platform, and uses NVIDIA's latest personal AI supercomputer NVIDIA DGX Spark as the basis of local computing power. It is paired with software technologies including NVIDIA NeMo Framework and NVIDIA NeMo Agent. Toolkit strengthens model fine-tuning and agent management capabilities to achieve one-machine local deployment, and simultaneously improves overall performance while ensuring traceable answers and auditable processes."
   },
   {
     "title": "彭金隆：高雄專區週年水積魚聚　專法聚焦5大面向",
@@ -11983,7 +12012,11 @@
     "summary": "（中央社記者蘇思云高雄24日電）金管會主委彭金隆今天揭露，58家金融機構進駐高雄專區，高資產客戶逾6000人，專區今年已是「水積魚聚」；金管會也在研議金融市場與資產管理發展的專法草案，聚焦金融市場發展、資產管理與營運架構、國際人才競爭等5面向，達成留財引資的政策目的。",
     "published_at": "2026-07-24T15:33:33+08:00",
     "stocks": [],
-    "uid": "101e0f3d605b1abe85777ea9e3c6fab3"
+    "uid": "101e0f3d605b1abe85777ea9e3c6fab3",
+    "title_zh": "彭金隆：高雄專區週年水積魚聚　專法聚焦5大面向",
+    "summary_zh": "（中央社記者蘇思云高雄24日電）金管會主委彭金隆今天揭露，58家金融機構進駐高雄專區，高資產客戶逾6000人，專區今年已是「水積魚聚」；金管會也在研議金融市場與資產管理發展的專法草案，聚焦金融市場發展、資產管理與營運架構、國際人才競爭等5面向，達成留財引資的政策目的。",
+    "title_en": "Peng Jinlong: Kaohsiung Special District’s annual water accumulation and fish gathering, the special method focuses on 5 major aspects",
+    "summary_en": "(Central News Agency reporter Su Siyun, Kaohsiung, 24th) Financial Supervisory Commission chairman Peng Jinlong revealed today that 58 financial institutions have settled in the Kaohsiung zone, with more than 6,000 high-asset customers. The zone has become a \"fish gathering place\" this year. The Financial Supervisory Commission is also studying the draft of the special law on the development of financial markets and asset management, focusing on five aspects: financial market development, asset management and operation structure, and international talent competition, to achieve the policy purpose of retaining wealth and attracting investment."
   },
   {
     "title": "聯華林德二度申請回台投資 蓋新廠、擴產線投資113.8億",
@@ -11992,7 +12025,11 @@
     "summary": "投資臺灣事務所今（24）日通過4家企業擴大投資臺灣，包含臺商回臺方案的台灣櫻花、聯華林德，根留企業方案的某光學半導體公司，以及中小企業方案的某茶業公司。其中，3家公司都是...…",
     "published_at": "2026-07-24T15:30:50+08:00",
     "stocks": [],
-    "uid": "63ea64cea9983ec98d6af34427c70129"
+    "uid": "63ea64cea9983ec98d6af34427c70129",
+    "title_zh": "聯華林德二度申請回台投資 蓋新廠、擴產線投資113.8億",
+    "summary_zh": "投資臺灣事務所今（24）日通過4家企業擴大投資臺灣，包含臺商回臺方案的台灣櫻花、聯華林德，根留企業方案的某光學半導體公司，以及中小企業方案的某茶業公司。其中，3家公司都是...…",
+    "title_en": "Lianhua Linde applied for investment in Taiwan for the second time, investing 11.38 billion to build a new factory and expand production lines",
+    "summary_en": "The Investment Taiwan Office today (24th) expanded its investment in Taiwan through 4 companies, including Taiwan Sakura and Lianhua Linde, which plan to return Taiwanese businessmen to Taiwan, an optical semiconductor company that plans to stay in the country, and a tea company that plans for small and medium-sized enterprises. Among them, 3 companies are..."
   },
   {
     "title": "AI 燒錢曝風險  Meta 發債建資料中心、殖利率喊漲",
@@ -12001,7 +12038,11 @@
     "summary": "隨著市場對 AI 投資風險愈來愈謹慎，債券投資人要求 Meta 最新的資料中心融資案須給出更高報酬，與 9 個 [&#8230;]",
     "published_at": "2026-07-24T15:30:31+08:00",
     "stocks": [],
-    "uid": "ef8d4080d1ebf46a4fca776cb1c7a178"
+    "uid": "ef8d4080d1ebf46a4fca776cb1c7a178",
+    "title_zh": "AI 燒錢曝風險  Meta 發債建資料中心、殖利率喊漲",
+    "summary_zh": "隨著市場對 AI 投資風險愈來愈謹慎，債券投資人要求 Meta 最新的資料中心融資案須給出更高報酬，與 9 個 [&#8230;]",
+    "title_en": "AI burns money and exposes risks Meta issues bonds to build data center, yields rise",
+    "summary_en": "As the market becomes increasingly wary of the risks of investing in AI, bond investors are demanding higher returns on Meta’s latest data center financing deal, which comes with nine […]"
   },
   {
     "title": "颱風紅霞逼近　台水檢整562台緊急發電機確保穩供水",
@@ -12010,7 +12051,11 @@
     "summary": "（中央社記者謝怡璇台北24日電）中央氣象署針對颱風紅霞發布海上颱風警報，台水上午召開緊急應變會議，盤點防颱整備。台水表示，全台清、配水池已完成高水位蓄水，562台緊急發電機完成檢整，並調度62台水車、357家合作搶修廠商以及內部人力1506人待命，全力降低供水衝擊。",
     "published_at": "2026-07-24T15:30:26+08:00",
     "stocks": [],
-    "uid": "6560d8820ede1bfa3afb4bc55db874f7"
+    "uid": "6560d8820ede1bfa3afb4bc55db874f7",
+    "title_zh": "颱風紅霞逼近　台水檢整562台緊急發電機確保穩供水",
+    "summary_zh": "（中央社記者謝怡璇台北24日電）中央氣象署針對颱風紅霞發布海上颱風警報，台水上午召開緊急應變會議，盤點防颱整備。台水表示，全台清、配水池已完成高水位蓄水，562台緊急發電機完成檢整，並調度62台水車、357家合作搶修廠商以及內部人力1506人待命，全力降低供水衝擊。",
+    "title_en": "As Typhoon Hongxia approaches, Taiwan Water Checks 562 emergency generators to ensure stable water supply",
+    "summary_en": "(Central News Agency reporter Xie Yixuan, Taipei, 24th) The Central Meteorological Administration issued a maritime typhoon warning for Typhoon Hongxia, and Taiwan Water held an emergency response meeting in the morning to take stock of typhoon prevention preparations. Taiwan Water said that high-level water storage has been completed in all cleaning and distribution tanks in Taiwan, and 562 emergency generators have been inspected. 62 water trucks, 357 cooperative emergency repair vendors, and 1,506 internal manpower are on standby to reduce the impact of water supply."
   },
   {
     "title": "奇鋐武漢廠斥資逾10億元添購設備AI伺服器液冷產能全面擴張",
@@ -12021,7 +12066,11 @@
     "stocks": [
       "TWS:3017:STOCK"
     ],
-    "uid": "9b51e792d4dfd3830d0f8b3d50843c88"
+    "uid": "9b51e792d4dfd3830d0f8b3d50843c88",
+    "title_zh": "奇鋐武漢廠斥資逾10億元添購設備AI伺服器液冷產能全面擴張",
+    "summary_zh": "",
+    "title_en": "Qihong Wuhan factory spent more than 1 billion yuan to purchase equipment and fully expanded its AI server liquid cooling production capacity",
+    "summary_en": ""
   },
   {
     "title": "亞資中心滿周年 卓榮泰提四項宣示",
@@ -12030,7 +12079,11 @@
     "summary": "亞洲資產管理中心高雄專區成立滿周年，行政院長卓榮泰24日於周年記者會致詞提四項宣示，一是高雄專區已經脫離、跨越「兩年有感」的階段，朝向「四年有變」邁進；二是作為首次的試辦場域，「高雄已經達標了」；三是未來試辦要延長一年，會有更多試辦業務展開；四是要朝向資產管理專法，讓專區經驗可以遍地開花，也可以更便民利民。",
     "published_at": "2026-07-24T15:26:35+08:00",
     "stocks": [],
-    "uid": "3e9af5c9c141de81632ed2d8a86a6ef1"
+    "uid": "3e9af5c9c141de81632ed2d8a86a6ef1",
+    "title_zh": "亞資中心滿周年 卓榮泰提四項宣示",
+    "summary_zh": "亞洲資產管理中心高雄專區成立滿周年，行政院長卓榮泰24日於周年記者會致詞提四項宣示，一是高雄專區已經脫離、跨越「兩年有感」的階段，朝向「四年有變」邁進；二是作為首次的試辦場域，「高雄已經達標了」；三是未來試辦要延長一年，會有更多試辦業務展開；四是要朝向資產管理專法，讓專區經驗可以遍地開花，也可以更便民利民。",
+    "title_en": "Asia Capital Center celebrates its anniversary and Zhuo Rongtai made four announcements",
+    "summary_en": "The Kaohsiung Region of the Asian Asset Management Center celebrates its anniversary. Executive Director Zhuo Rongtai made four declarations at the anniversary press conference on the 24th. First, the Kaohsiung Region has broken away from and transcended the stage of \"feelings in two years\" and moved towards \"changes in four years\"; As the first trial site, \"Kaohsiung has already met the standards.\" Third, the trial will be extended for one year in the future, and more trial businesses will be launched. Fourth, it will move towards asset management expertise so that the experience of the zone can be spread everywhere and make it more convenient and beneficial to the people."
   },
   {
     "title": "亞資中心高雄特區成立周年 彭金隆：將朝五大面向建立資產管理專法",
@@ -12039,7 +12092,11 @@
     "summary": "金管會今日在高雄舉行亞洲資產管理中心高雄專區成立周年記者會，金管會主委彭金隆在致詞時以一年前的「水到渠成」走到今日的「水積魚聚」來形容，最新的重點將是「水積魚聚」，亦即「聚流」。他並指出，接下來金管會將規畫專法，「二年有感只是開始，在競爭激烈的國際賽道，金管會正在研議專法草案，會對金融市場發展、資產管理與營運架構、國際人才競爭、政策與租稅誘因、專區設置等五大面向，建立起更具國際競爭力的法制架構，達成留財引資的政策目的。",
     "published_at": "2026-07-24T15:26:29+08:00",
     "stocks": [],
-    "uid": "1c11ef7dc9af472b7dede81271acbec3"
+    "uid": "1c11ef7dc9af472b7dede81271acbec3",
+    "title_zh": "亞資中心高雄特區成立周年 彭金隆：將朝五大面向建立資產管理專法",
+    "summary_zh": "金管會今日在高雄舉行亞洲資產管理中心高雄專區成立周年記者會，金管會主委彭金隆在致詞時以一年前的「水到渠成」走到今日的「水積魚聚」來形容，最新的重點將是「水積魚聚」，亦即「聚流」。他並指出，接下來金管會將規畫專法，「二年有感只是開始，在競爭激烈的國際賽道，金管會正在研議專法草案，會對金融市場發展、資產管理與營運架構、國際人才競爭、政策與租稅誘因、專區設置等五大面向，建立起更具國際競爭力的法制架構，達成留財引資的政策目的。",
+    "title_en": "Anniversary of the establishment of Kaohsiung Special Economic Zone, the Asian Capital Center. Peng Jinlong: Will establish asset management laws in five major directions",
+    "summary_en": "The Financial Supervisory Commission held a press conference in Kaohsiung today for the anniversary of the establishment of the Kaohsiung Zone of the Asian Asset Management Center. In his speech, Chairman Peng Jinlong of the Financial Supervisory Commission described what happened a year ago as \"water will fall when conditions are ripe\" and today's \"water accumulates fish gathers\". The latest focus will be \"water accumulates fish gathers\", that is, \"gathers flow.\" He also pointed out that next, the Financial Supervisory Commission will formulate special laws. \"I feel that the next two years are just the beginning. In the fiercely competitive international arena, the Financial Supervisory Commission is studying the draft of special laws. It will establish a more internationally competitive legal framework in five major aspects: financial market development, asset management and operational structure, international talent competition, policy and tax incentives, and special zone establishment, so as to achieve the policy purpose of retaining wealth and attracting investment.\""
   },
   {
     "title": "插旗全球國防供應鏈！華新麗華子公司 SMP 獲勞斯萊斯 78 億元大單",
@@ -12048,7 +12105,11 @@
     "summary": "華新麗華今日宣布旗下英國子公司 Special Melted Products（SMP）與勞斯萊斯（Rolls [&#8230;]",
     "published_at": "2026-07-24T15:26:20+08:00",
     "stocks": [],
-    "uid": "c32afe2da0c80962a3dee9d5e995ca12"
+    "uid": "c32afe2da0c80962a3dee9d5e995ca12",
+    "title_zh": "插旗全球國防供應鏈！華新麗華子公司 SMP 獲勞斯萊斯 78 億元大單",
+    "summary_zh": "華新麗華今日宣布旗下英國子公司 Special Melted Products（SMP）與勞斯萊斯（Rolls [&#8230;]",
+    "title_en": "Planting flags for the global defense supply chain! Walsin Lihua subsidiary SMP wins 7.8 billion yuan order from Rolls-Royce",
+    "summary_en": "Walsin Lihua announced today that its British subsidiary Special Melted Products (SMP) and Rolls-Royce […]"
   },
   {
     "title": "AI效益漸外溢　中經院：近2成製造業切入半導體供應鏈",
@@ -12057,7 +12118,11 @@
     "summary": "（中央社記者潘姿羽台北24日電）AI熱潮帶動半導體產業營運暢旺，AI紅利是否外溢至其他產業備受關注。中經院調查顯示，全體製造業已有17.6%切入台積電或半導體供應鏈，另有10.6%規劃加入，顯示AI外溢範圍已超越直接供應商。",
     "published_at": "2026-07-24T15:25:22+08:00",
     "stocks": [],
-    "uid": "20860858c16a9512d60198c4eb82e301"
+    "uid": "20860858c16a9512d60198c4eb82e301",
+    "title_zh": "AI效益漸外溢　中經院：近2成製造業切入半導體供應鏈",
+    "summary_zh": "（中央社記者潘姿羽台北24日電）AI熱潮帶動半導體產業營運暢旺，AI紅利是否外溢至其他產業備受關注。中經院調查顯示，全體製造業已有17.6%切入台積電或半導體供應鏈，另有10.6%規劃加入，顯示AI外溢範圍已超越直接供應商。",
+    "title_en": "AI benefits are gradually spilling over. China Academy of Economics: Nearly 20% of the manufacturing industry has entered the semiconductor supply chain",
+    "summary_en": "(Central News Agency reporter Pan Ziyu, Taipei, 24th) The AI ​​craze has driven the semiconductor industry to operate smoothly, and whether AI dividends will spill over to other industries has attracted much attention. A survey by the China Academy of Economics shows that 17.6% of the entire manufacturing industry has entered TSMC or the semiconductor supply chain, and another 10.6% plan to join, indicating that the scope of AI spillover has exceeded direct suppliers."
   },
   {
     "title": "財部：AI行情帶動　證交稅半年刷新全年紀錄",
@@ -12066,7 +12131,11 @@
     "summary": "（中央社記者呂晏慈台北24日電）財政部統計顯示，受惠於AI熱潮崛起，今年上半年證交稅稅收規模達新台幣3336億元，提前刷新歷史全年紀錄，重要性及影響度漸增。高科技類股所占整體成交值比重達77.3%，市值型及高股息ETF亦取代過往槓桿型商品，成為市場主流。",
     "published_at": "2026-07-24T15:24:20+08:00",
     "stocks": [],
-    "uid": "da4f7a975f17ef470e055e6139d2449b"
+    "uid": "da4f7a975f17ef470e055e6139d2449b",
+    "title_zh": "財部：AI行情帶動　證交稅半年刷新全年紀錄",
+    "summary_zh": "（中央社記者呂晏慈台北24日電）財政部統計顯示，受惠於AI熱潮崛起，今年上半年證交稅稅收規模達新台幣3336億元，提前刷新歷史全年紀錄，重要性及影響度漸增。高科技類股所占整體成交值比重達77.3%，市值型及高股息ETF亦取代過往槓桿型商品，成為市場主流。",
+    "title_en": "Ministry of Finance: Driven by the AI ​​market, securities and tax payments set a new full-year record in the first half of the year",
+    "summary_en": "(Central News Agency reporter Lu Yanci, Taipei, 24th) Statistics from the Ministry of Finance show that thanks to the rise of the AI ​​boom, the tax revenue from the securities tax in the first half of this year reached NT$333.6 billion, breaking the historical full-year record ahead of schedule, and its importance and influence are gradually increasing. High-tech stocks accounted for 77.3% of the overall transaction value, and market capitalization and high-dividend ETFs have also replaced previous leveraged products and become the mainstream of the market."
   },
   {
     "title": "Google 開放台灣以「自拍影片」登入帳戶 作為使用者帳戶救援新方式",
@@ -12075,7 +12144,11 @@
     "summary": "Google 24日開放台灣以「自拍影片」（Selfie video）登入功能，提供使用者在帳戶遭到鎖定或無常用裝置時的帳戶救援新管道。透過錄製多角度頭部動作進行身分驗證、導入即時動作驗證與多層防護機制，確保使用者身分真實性，打造兼具隱私、安全與便利的體驗。",
     "published_at": "2026-07-24T15:22:29+08:00",
     "stocks": [],
-    "uid": "68960c59fb598a31d7def022d3de8bda"
+    "uid": "68960c59fb598a31d7def022d3de8bda",
+    "title_zh": "Google 開放台灣以「自拍影片」登入帳戶 作為使用者帳戶救援新方式",
+    "summary_zh": "Google 24日開放台灣以「自拍影片」（Selfie video）登入功能，提供使用者在帳戶遭到鎖定或無常用裝置時的帳戶救援新管道。透過錄製多角度頭部動作進行身分驗證、導入即時動作驗證與多層防護機制，確保使用者身分真實性，打造兼具隱私、安全與便利的體驗。",
+    "title_en": "Google allows Taiwan to use \"selfie video\" to log in to accounts as a new way to rescue user accounts",
+    "summary_en": "Google opened the \"Selfie video\" login function in Taiwan on the 24th, providing users with a new account rescue channel when their accounts are locked or no common devices are available. By recording multi-angle head movements for identity verification, real-time motion verification and multi-layer protection mechanisms are introduced to ensure the authenticity of the user's identity and create an experience that combines privacy, security and convenience."
   },
   {
     "title": "穩懋第2季每股賺2.3元　估第3季營收季增雙位數",
@@ -12086,7 +12159,11 @@
     "stocks": [
       "3105"
     ],
-    "uid": "6209b3b66e22134969a84d5e1e303594"
+    "uid": "6209b3b66e22134969a84d5e1e303594",
+    "title_zh": "穩懋第2季每股賺2.3元　估第3季營收季增雙位數",
+    "summary_zh": "砷化鎵大廠穩懋今天公布第2季自結合併損益，歸屬母公司淨利新台幣9.77億元，相較去年同期淨損4.2億元轉虧為盈，也比第1...",
+    "title_en": "Wenmao earned 2.3 yuan per share in the second quarter and estimated double-digit revenue growth in the third quarter.",
+    "summary_en": "The major gallium arsenide manufacturer Wenmao today announced its second quarter consolidated profit and loss. The net profit attributable to the parent company was NT$977 million, which turned into a profit compared with a net loss of NT$420 million in the same period last year. It was also higher than the first..."
   },
   {
     "title": "三大法人賣超台股663.94億元",
@@ -12095,7 +12172,11 @@
     "summary": "台股今天跌1195.97點，收在43654.84點，成交值新台幣7924.35億元。三大法人外資及陸資賣超、投信買超、自...",
     "published_at": "2026-07-24T15:21:53+08:00",
     "stocks": [],
-    "uid": "fc88a028ed210d494d441107ee375130"
+    "uid": "fc88a028ed210d494d441107ee375130",
+    "title_zh": "三大法人賣超台股663.94億元",
+    "summary_zh": "台股今天跌1195.97點，收在43654.84點，成交值新台幣7924.35億元。三大法人外資及陸資賣超、投信買超、自...",
+    "title_en": "Three major legal persons sold more than 66.394 billion yuan of Taiwanese stocks",
+    "summary_en": "Taiwan stocks fell 1,195.97 points today to close at 43,654.84 points, with a transaction value of NT$792.435 billion. The three major legal persons: foreign capital and mainland capital oversold, investment trust overbuying, and self-owned..."
   },
   {
     "title": "穩懋 Q2 每股賺 2.3 元！PD 順利量產，看好光通訊成第三成長支柱",
@@ -12106,7 +12187,11 @@
     "stocks": [
       "3105"
     ],
-    "uid": "35c3b0daebe2fad112699550df501ab2"
+    "uid": "35c3b0daebe2fad112699550df501ab2",
+    "title_zh": "穩懋 Q2 每股賺 2.3 元！PD 順利量產，看好光通訊成第三成長支柱",
+    "summary_zh": "穩懋半導體今（24 日）舉辦第二季法說會，合併營收為新台幣（下同）52.57 億元，季增 15%、年增 39% [&#8230;]",
+    "title_en": "Wenmao Q2 earned 2.3 yuan per share! PD successfully mass-produces, optimistic about optical communications becoming the third growth pillar",
+    "summary_en": "Wenmao Semiconductor held its second quarter press conference today (24th), and its consolidated revenue was NT$5.257 billion (the same below), a quarterly increase of 15% and an annual increase of 39% […]"
   },
   {
     "title": "美伊衝突升溫、軍工龍頭財報亮眼 00965等主題 ETF 逆勢走揚",
@@ -12119,7 +12204,11 @@
       "00960",
       "009805"
     ],
-    "uid": "eeb1bfbaaf8a9718e050b611f18715e2"
+    "uid": "eeb1bfbaaf8a9718e050b611f18715e2",
+    "title_zh": "美伊衝突升溫、軍工龍頭財報亮眼 00965等主題 ETF 逆勢走揚",
+    "summary_zh": "美國總統川普再釋強硬訊號，美伊情勢未見和緩訊號，加上Google、特斯拉（Tesla）財報引發 AI 變現疑慮，資金轉向關注軍工、航運、電力、生技等題材，24日台股重挫千點，而元大航太防衛科技（00965）、野村全球航運龍頭（00960）、台新美國電力基建（009805）等逆勢走揚，展現抗震能力。",
+    "title_en": "The U.S.-Iran conflict intensifies, the leading military industry leader’s financial report is outstanding, 00965 and other theme ETFs buck the trend and rise",
+    "summary_en": "U.S. President Trump once again issued tough signals, and the situation between the United States and Iran showed no signs of easing. In addition, Google and Tesla’s financial reports triggered AI Due to doubts about realization, funds turned to focus on topics such as military industry, shipping, electric power, and biotechnology. On the 24th, Taiwan stocks plunged by thousands of points, while Yuanta Aerospace Defense Technology (00965), Nomura Global Shipping Leader (00960), and Taishin American Electric Power Infrastructure (009805) bucked the trend and rose, demonstrating their ability to withstand earthquakes."
   },
   {
     "title": "macOS 爆「替身」攻擊：下載過的 App 主程式恐遭偷換，蘋果卻不認是漏洞",
@@ -12128,7 +12217,11 @@
     "summary": "蘋果 macOS 被揭露可能遭「替身」惡意程式偷換已下載且曾執行過一次的應用程式主執行檔。研究人員指出，只要程 [&#8230;]",
     "published_at": "2026-07-24T15:20:13+08:00",
     "stocks": [],
-    "uid": "9b22b9cd2f98f539a045f067a517acd4"
+    "uid": "9b22b9cd2f98f539a045f067a517acd4",
+    "title_zh": "macOS 爆「替身」攻擊：下載過的 App 主程式恐遭偷換，蘋果卻不認是漏洞",
+    "summary_zh": "蘋果 macOS 被揭露可能遭「替身」惡意程式偷換已下載且曾執行過一次的應用程式主執行檔。研究人員指出，只要程 [&#8230;]",
+    "title_en": "macOS \"substitute\" attack: the main program of the downloaded app may be secretly replaced, but Apple does not recognize it as a vulnerability",
+    "summary_en": "It has been revealed that Apple's macOS may be affected by \"replacement\" malicious programs that secretly replace the main executable file of an application that has been downloaded and executed once. Researchers pointed out that as long as Cheng […]"
   },
   {
     "title": "苗縣府提醒租金補貼加碼  身分變更須重新申請",
@@ -12137,7 +12230,11 @@
     "summary": "中央為減輕青年及育兒家庭租屋負擔，300億元擴大租金補貼針對新婚家庭及育有未成年子女家庭提供加碼措施。苗栗縣政府提醒，目前已領取租金補貼之民眾，如於今年1月1日（含）後辦...…",
     "published_at": "2026-07-24T15:18:02+08:00",
     "stocks": [],
-    "uid": "1cfe253a7640eacf3fa52501a7c5a30c"
+    "uid": "1cfe253a7640eacf3fa52501a7c5a30c",
+    "title_zh": "苗縣府提醒租金補貼加碼  身分變更須重新申請",
+    "summary_zh": "中央為減輕青年及育兒家庭租屋負擔，300億元擴大租金補貼針對新婚家庭及育有未成年子女家庭提供加碼措施。苗栗縣政府提醒，目前已領取租金補貼之民眾，如於今年1月1日（含）後辦...…",
+    "title_en": "Miao County Government reminds you to increase rent subsidy and you must re-apply if your status changes",
+    "summary_en": "In order to reduce the rental burden on young people and families with children, the central government has expanded rent subsidies by 30 billion yuan to provide additional measures for newlywed families and families with underage children. The Miaoli County Government reminds people who are currently receiving rent subsidies that if they apply after January 1 this year (inclusive)..."
   },
   {
     "title": "AI 生產力需求帶動折疊手機升級 Counterpoint 預估2026市場成長21%",
@@ -12146,7 +12243,11 @@
     "summary": "隨三星（Samsung）推出新款折疊手機，蘋果（Apple）預計在本季加入戰局，研調機構Counterpoint調查，2026年全球折疊式智慧型手機出貨量將年增21%，延續高階智慧型手機市場的成長動能。預期三星將持續穩居全球折疊手機市場龍頭，但隨著市場競爭加劇，其市占率將由2025年的40%下滑至2026年的32%。",
     "published_at": "2026-07-24T15:17:03+08:00",
     "stocks": [],
-    "uid": "9d1a049fe58ea8f1ae875bb3edf148cc"
+    "uid": "9d1a049fe58ea8f1ae875bb3edf148cc",
+    "title_zh": "AI 生產力需求帶動折疊手機升級 Counterpoint 預估2026市場成長21%",
+    "summary_zh": "隨三星（Samsung）推出新款折疊手機，蘋果（Apple）預計在本季加入戰局，研調機構Counterpoint調查，2026年全球折疊式智慧型手機出貨量將年增21%，延續高階智慧型手機市場的成長動能。預期三星將持續穩居全球折疊手機市場龍頭，但隨著市場競爭加劇，其市占率將由2025年的40%下滑至2026年的32%。",
+    "title_en": "AI productivity demand drives foldable phone upgrades Counterpoint predicts market growth of 21% in 2026",
+    "summary_en": "With Samsung launching a new foldable phone, Apple is expected to join the fray this quarter. According to a survey by research firm Counterpoint, global foldable smartphone shipments will increase by 21% annually in 2026, continuing the growth momentum of the high-end smartphone market. Samsung is expected to continue to lead the global foldable mobile phone market, but as market competition intensifies, its market share will decline from 40% in 2025 to 32% in 2026."
   },
   {
     "title": "外資反手大賣610億元！三大法人終止連4買 台股重挫1,196點失守季線",
@@ -12162,7 +12263,11 @@
       "1303",
       "2303"
     ],
-    "uid": "07f0ddd3634ccf29a2c5eabac74059e1"
+    "uid": "07f0ddd3634ccf29a2c5eabac74059e1",
+    "title_zh": "外資反手大賣610億元！三大法人終止連4買 台股重挫1,196點失守季線",
+    "summary_zh": "台股24日在權王台積電（2330）失守5日線，台達電（2308）、聯發科（2454）、日月光投控（3711）、南亞（1303）、聯電（2303）等權值股同步走弱拖累下，集中市場指數盤中一度重挫1,243.41點，最低下探43,607.40點。終場下跌1,195.97點、收43,654.84點，跌幅2.66%，再度失守季線，成交值續縮至7,924億元。三大法人終止連4買，合計賣超663.94億元，外資即調節逾600億元。",
+    "title_en": "Foreign capital backhand sold 61 billion yuan! The three major legal entities terminated their four-buy streak, and Taiwan stocks plummeted 1,196 points and fell below the quarterly line.",
+    "summary_en": "On the 24th, Taiwan stocks fell behind the 5-day moving average of Taiwan Semiconductor Manufacturing Co., Ltd. (2330), and dragged down by the simultaneous weakening of heavyweight stocks such as Delta Electronics (2308), MediaTek (2454), ASE Investment Holdings (3711), Nanya (1303), and United Microelectronics (2303). The concentrated market index fell as much as 1,243.41 points during the session, reaching a low of 43,607.40 points. At the end, it fell 1,195.97 points to close at 43,654.84 points, a decrease of 2.66%. It once again fell below the quarter line, and the transaction value continued to shrink to 792.4 billion yuan. The three major legal entities terminated four consecutive purchases, and the total sales exceeded 66.394 billion yuan, and foreign investment immediately adjusted more than 60 billion yuan."
   },
   {
     "title": "民間參與公共建設　逾2200億元商機上膛",
@@ -12171,7 +12276,11 @@
     "summary": "財政部長莊翠雲今天表示，去年民間參與公共建設投資金額新台幣3807億元創新高，今年招商大會再釋出案源94件、商機逾220...",
     "published_at": "2026-07-24T15:13:26+08:00",
     "stocks": [],
-    "uid": "f75a72841ff0cd856512fe7fd8dc4733"
+    "uid": "f75a72841ff0cd856512fe7fd8dc4733",
+    "title_zh": "民間參與公共建設　逾2200億元商機上膛",
+    "summary_zh": "財政部長莊翠雲今天表示，去年民間參與公共建設投資金額新台幣3807億元創新高，今年招商大會再釋出案源94件、商機逾220...",
+    "title_en": "Private participation in public construction creates more than 220 billion yuan in business opportunities",
+    "summary_en": "Finance Minister Zhuang Cuiyun said today that the amount of private investment in public construction reached a new high of NT$380.7 billion last year. This year's investment conference released another 94 cases and more than 220 business opportunities..."
   },
   {
     "title": "麥當勞前主管涉性侵案　監院糾正北市勞動局4缺失",
