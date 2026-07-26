@@ -1,5 +1,201 @@
 [
   {
+    "title": "阿里巴巴一刀切斷 Claude Code，中國 AI 走向主權控制新階段",
+    "url": "https://technews.tw/2026/07/27/alibaba-to-ban-employees-from-using-anthropics-coding-tool/",
+    "source": "科技新報",
+    "summary": "阿里巴巴近期傳出全面禁止員工公司電腦使用 Anthropic Claude Code，並改推自家工具 Qode [&#8230;]",
+    "published_at": "2026-07-27T07:50:17+08:00",
+    "stocks": [],
+    "uid": "cfed9516eb89b2921debaca6a611d1db",
+    "title_zh": "阿里巴巴一刀切斷 Claude Code，中國 AI 走向主權控制新階段",
+    "summary_zh": "阿里巴巴近期傳出全面禁止員工公司電腦使用 Anthropic Claude Code，並改推自家工具 Qode [&#8230;]",
+    "title_en": "Alibaba cuts off Claude Code, China’s AI moves towards a new stage of sovereign control",
+    "summary_en": "Alibaba recently reported that it has completely banned the use of Anthropic Claude Code on company computers by employees, and has launched its own tool Qode […]"
+  },
+  {
+    "title": "立陶宛重啟對台經濟合作談判　強調政策立場不變",
+    "url": "https://money.udn.com/money/story/7307/9652641",
+    "source": "經濟日報總經",
+    "summary": "立陶宛與台灣經濟合作談判6月因立陶宛政府改組而暫緩。隨著新政府上任，立陶宛外交部表示已重啟與台灣就經濟合作行動計畫進行的...",
+    "published_at": "2026-07-27T07:45:35+08:00",
+    "stocks": [],
+    "uid": "58eeae88a15ffbb96aa4cf19b278ddc3",
+    "title_zh": "立陶宛重啟對台經濟合作談判　強調政策立場不變",
+    "summary_zh": "立陶宛與台灣經濟合作談判6月因立陶宛政府改組而暫緩。隨著新政府上任，立陶宛外交部表示已重啟與台灣就經濟合作行動計畫進行的...",
+    "title_en": "Lithuania restarts economic cooperation negotiations with Taiwan, emphasizing that policy stance remains unchanged",
+    "summary_en": "Negotiations on economic cooperation between Lithuania and Taiwan were suspended in June due to the reorganization of the Lithuanian government. With the new government taking office, Lithuania's Ministry of Foreign Affairs stated that it has restarted discussions with Taiwan on the economic cooperation action plan..."
+  },
+  {
+    "title": "AI 衝擊白領入門職位，全球初階職缺兩年暴跌 29%",
+    "url": "https://technews.tw/2026/07/27/ai-major-workplace-reshuffle/",
+    "source": "科技新報",
+    "summary": "人工智慧（AI）正以前所未有的速度改變職場生態。最新數據顯示，首波受到衝擊的多為重複性高且具規則性的白領階級， [&#8230;]",
+    "published_at": "2026-07-27T07:40:07+08:00",
+    "stocks": [],
+    "uid": "7aa5997f93c791a009b7bea7a8b75559",
+    "title_zh": "AI 衝擊白領入門職位，全球初階職缺兩年暴跌 29%",
+    "summary_zh": "人工智慧（AI）正以前所未有的速度改變職場生態。最新數據顯示，首波受到衝擊的多為重複性高且具規則性的白領階級， [&#8230;]",
+    "title_en": "AI impacts entry-level white-collar jobs, with global entry-level job openings plummeting 29% in two years",
+    "summary_en": "Artificial intelligence (AI) is changing the workplace ecosystem at an unprecedented rate. The latest data shows that most of those affected in the first wave are white-collar workers with high repetitiveness and regularity, […]"
+  },
+  {
+    "title": "台積電 2 兆軍備競賽開打！法說會全數創高背後，藏著魏哲家「一寸不讓」的反擊布局",
+    "url": "https://technews.tw/2026/07/27/tsmc-2-trillion-arms-race-record-earnings-cc-wei-not-an-inch-counter-strategy/",
+    "source": "科技新報",
+    "summary": "台積電法說會 16 日登場，除了揭曉第 2 季營收、毛利率、EPS 等全數創高的財務數字，更吸引外界的是，董事 [&#8230;]",
+    "published_at": "2026-07-27T07:30:26+08:00",
+    "stocks": [],
+    "uid": "b0dea4c36d8977c214a0fe9daf4f4245",
+    "title_zh": "台積電 2 兆軍備競賽開打！法說會全數創高背後，藏著魏哲家「一寸不讓」的反擊布局",
+    "summary_zh": "台積電法說會 16 日登場，除了揭曉第 2 季營收、毛利率、EPS 等全數創高的財務數字，更吸引外界的是，董事 [&#8230;]",
+    "title_en": "TSMC’s 2 trillion arms race begins! Behind all of Fa Shuo Hui's record highs lies the Wei Zhe family's counterattack plan of \"not giving in an inch\"",
+    "summary_en": "TSMC’s legal meeting will be held on the 16th. In addition to announcing record-breaking financial figures such as second-quarter revenue, gross profit margin, and EPS, what is even more attractive to the outside world is that the directors […]"
+  },
+  {
+    "title": "7月27日重要財經行事曆",
+    "url": "https://money.udn.com/money/story/5607/9652629",
+    "source": "經濟日報",
+    "summary": "台灣\n國發會發布6月景氣對策信號\n存款不足退票統計\n除權息：亞崴、同致、IET-KY、訊芯-KY、M31、青松健康等\n增資股上市：長興、華通、玉山金、神基、杰力、台境*\n財報公告：矽統、大立光、中光電",
+    "published_at": "2026-07-27T07:29:02+08:00",
+    "stocks": [
+      "4971",
+      "6931",
+      "2884",
+      "3008",
+      "8476",
+      "6643",
+      "1530",
+      "1717",
+      "2313",
+      "2363",
+      "3005",
+      "3552",
+      "5299"
+    ],
+    "uid": "f65bd84a6420ab9d45eb692a920914ab",
+    "title_zh": "7月27日重要財經行事曆",
+    "summary_zh": "台灣\n國發會發布6月景氣對策信號\n存款不足退票統計\n除權息：亞崴、同致、IET-KY、訊芯-KY、M31、青松健康等\n增資股上市：長興、華通、玉山金、神基、杰力、台境*\n財報公告：矽統、大立光、中光電",
+    "title_en": "Important financial calendar for July 27",
+    "summary_en": "Taiwan\nNational Development Council releases June economic policy signal\nInsufficient deposit refund statistics\nEx-rights information: Yawei, Tongzhi, IET-KY, Xunxin-KY, M31, Qingsong Health, etc.\nCapital increase stocks listed: Changxing, Huatong, Yushan Gold, Shenji, Jieli, Taijing*\nFinancial report announcement: Silicon Systems, Largan Optoelectronics, China Optoelectronics"
+  },
+  {
+    "title": "美伊新一輪談判現曙光　國際油價跌逾5%",
+    "url": "https://www.cna.com.tw/news/aopl/202607270007.aspx",
+    "source": "中央社",
+    "summary": "（中央社東京27日綜合外電報導）由於美軍連續兩晚未對伊朗發動攻擊，讓市場對重啟新一輪談判仍抱持審慎樂觀態度，亞洲市場今天開盤國際油價大幅下跌。",
+    "published_at": "2026-07-27T07:23:50+08:00",
+    "stocks": [],
+    "uid": "8328a43e0af27eb6c34ab1863e7d01b6",
+    "title_zh": "美伊新一輪談判現曙光　國際油價跌逾5%",
+    "summary_zh": "（中央社東京27日綜合外電報導）由於美軍連續兩晚未對伊朗發動攻擊，讓市場對重啟新一輪談判仍抱持審慎樂觀態度，亞洲市場今天開盤國際油價大幅下跌。",
+    "title_en": "A new round of negotiations between the United States and Iran appears at dawn; international oil prices fell more than 5%",
+    "summary_en": "(Central News Agency, Tokyo, 27th, comprehensive foreign news report) As the US military did not launch an attack on Iran for two consecutive nights, the market is still cautiously optimistic about restarting a new round of negotiations. International oil prices fell sharply at the opening of the Asian market today."
+  },
+  {
+    "title": "台股月線成反壓　法人：不排除再測前波41967低點",
+    "url": "https://finance.ettoday.net/news/3208059",
+    "source": "ETtoday",
+    "summary": "<img alt=\"台股月線成反壓　法人：不排除再測前波41967低點\" src=\"https://cdn2.ettoday.net/images/8847/c8847903.jpg\" /><br /> 台股自前波低點41,967點反彈，但指數上攻至月線附近後反壓，短期震盪未解。兆豐投顧副總經理黃國偉指出，這波修正不謹是技術面拉回，也是市場對股市評價面的重新定價，在月線壓力及地緣政治衝突消除前，台股短線仍維持整理格局，且不排除再次回測前波低點，預估將在4萬點至4萬5500點區間震盪。 <a href=\"https://finance.ettoday.net/news/3208059\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-07-27T07:22:00+08:00",
+    "stocks": [],
+    "uid": "bd801ca7196fc3dce17797f217ac2d33",
+    "title_zh": "台股月線成反壓　法人：不排除再測前波41967低點",
+    "summary_zh": "<img alt=\"台股月線成反壓　法人：不排除再測前波41967低點\" src=\"https://cdn2.ettoday.net/images/8847/c8847903.jpg\" /><br /> 台股自前波低點41,967點反彈，但指數上攻至月線附近後反壓，短期震盪未解。兆豐投顧副總經理黃國偉指出，這波修正不謹是技術面拉回，也是市場對股市評價面的重新定價，在月線壓力及地緣政治衝突消除前，台股短線仍維持整理格局，且不排除再次回測前波低點，預估將在4萬點至4萬5500點區間震盪。 <a href=\"https://finance.ettoday.net/news/3208059\" target=\"_blank\">《詳全文...》</a>",
+    "title_en": "The monthly line of Taiwan stocks is under counter pressure. Legal person: Do not rule out testing the previous low of 41967.",
+    "summary_en": "<img alt=\"Taiwan stocks' monthly line is under counter pressure. Legal person: Do not rule out re-testing the previous wave low of 41,967\" src=\"https://cdn2.ettoday.net/images/8847/c8847903.jpg\" /><br /> Taiwan stocks rebounded from the previous wave low of 41,967 points, but the index rose to near the monthly line and then counter pressure, and the short-term shock remains unresolved. Huang Guowei, deputy general manager of Mega Investment Consulting, pointed out that this wave of correction is not only a technical pullback, but also a repricing of the market's evaluation of the stock market. Before the monthly pressure and geopolitical conflicts are eliminated, Taiwan stocks will still maintain a consolidation pattern in the short term, and do not rule out retesting the previous low, and are expected to fluctuate between 40,000 points and 45,500 points. <a href=\"https://finance.ettoday.net/news/3208059\" target=\"_blank\">\"Full text...\"</a>"
+  },
+  {
+    "title": "特斯拉元老直言老東家走偏了，轉挺新創 TELO 打造「反 Cybertruck」迷你皮卡",
+    "url": "https://technews.tw/2026/07/27/tesla-exec-says-old-company-astray-backs-telo-anti-cybertruck-mini-pickup/",
+    "source": "科技新報",
+    "summary": "曾攜手創立特斯拉（Tesla）的兩位原始創辦人馬克·塔彭寧（Marc Tarpenning）與馬丁·艾伯哈德（ [&#8230;]",
+    "published_at": "2026-07-27T07:20:06+08:00",
+    "stocks": [],
+    "uid": "cced213523ac428703a001106f4c1444",
+    "title_zh": "特斯拉元老直言老東家走偏了，轉挺新創 TELO 打造「反 Cybertruck」迷你皮卡",
+    "summary_zh": "曾攜手創立特斯拉（Tesla）的兩位原始創辦人馬克·塔彭寧（Marc Tarpenning）與馬丁·艾伯哈德（ [&#8230;]",
+    "title_en": "Tesla veteran bluntly admits that his old employer has gone astray and supports startup TELO to build an \"anti-Cybertruck\" mini pickup truck",
+    "summary_en": "The two original founders of Tesla, Marc Tarpenning and Martin Eberhard […]"
+  },
+  {
+    "title": "沒生醫背景門外漢，用半導體解決血液檢測癌症問題！醫華如何花逾十年獲認證",
+    "url": "https://technews.tw/2026/07/27/google-search-was-a-lifeline-for-publishers-now-theyre-thinking-of-cutting-it-off/",
+    "source": "科技新報",
+    "summary": "鎖定生技領域，台灣起步的半導體新創，7 月初與泰國國家級癌症機構簽署合作協議。醫華生技董事長黃忠諤（首圖右）， [&#8230;]",
+    "published_at": "2026-07-27T07:10:31+08:00",
+    "stocks": [],
+    "uid": "991ae528cbe3c5fff08d42788389a4f9",
+    "title_zh": "沒生醫背景門外漢，用半導體解決血液檢測癌症問題！醫華如何花逾十年獲認證",
+    "summary_zh": "鎖定生技領域，台灣起步的半導體新創，7 月初與泰國國家級癌症機構簽署合作協議。醫華生技董事長黃忠諤（首圖右）， [&#8230;]",
+    "title_en": "A layman with no biomedical background uses semiconductors to solve the problem of blood detection for cancer! How it took Medical China more than ten years to obtain certification",
+    "summary_en": "Focusing on the biotechnology field, Taiwan's new semiconductor startup signed a cooperation agreement with Thailand's national cancer agency in early July. Huang Zhonger, Chairman of Yihua Biotech (right in the first picture), […]"
+  },
+  {
+    "title": "全球儲能產業發展趨勢：政策、法規與標準化",
+    "url": "https://technews.tw/2026/07/27/global-energy-storage-industry-development-trends-policies-regulations-standardization/",
+    "source": "科技新報",
+    "summary": "影響資金是否進場的因素，除了補助的絕對金額之外，還包括政策的可預期性，儲能專案的回收期長，規則是否穩定，包括抵 [&#8230;]",
+    "published_at": "2026-07-27T07:00:37+08:00",
+    "stocks": [],
+    "uid": "6cb7591e1d99b4891b1ba051cc137e0f",
+    "title_zh": "全球儲能產業發展趨勢：政策、法規與標準化",
+    "summary_zh": "影響資金是否進場的因素，除了補助的絕對金額之外，還包括政策的可預期性，儲能專案的回收期長，規則是否穩定，包括抵 [&#8230;]",
+    "title_en": "Global energy storage industry development trends: policies, regulations and standardization",
+    "summary_en": "Factors that affect whether funds enter the market include, in addition to the absolute amount of subsidy, the predictability of the policy, the long payback period of the energy storage project, and whether the rules are stable, including offset […]"
+  },
+  {
+    "title": "台股震盪1／月線成反壓　法人：台股不排除再測前波41,967低點",
+    "url": "https://www.mirrormedia.mg/story/20260725-185mon-201929",
+    "source": "鏡週刊財經",
+    "summary": "<p>台股自前波低點41,967點反彈，但指數上攻至月線附近後反壓，短期震盪未解。兆豐投顧副總經理黃國偉指出，這波修正不謹是技術面拉回，也是市場對股市評價面的重新定價，在月線壓力及地緣政治衝突消除前，台股短線仍維持整理格局，且不排除再次回測前波低點，預估將在4萬點至4萬5500點區間震盪。</p>",
+    "published_at": "2026-07-27T07:00:01+08:00",
+    "stocks": [],
+    "uid": "11c257dff917053d7d0942314b393f91",
+    "title_zh": "台股震盪1／月線成反壓　法人：台股不排除再測前波41,967低點",
+    "summary_zh": "<p>台股自前波低點41,967點反彈，但指數上攻至月線附近後反壓，短期震盪未解。兆豐投顧副總經理黃國偉指出，這波修正不謹是技術面拉回，也是市場對股市評價面的重新定價，在月線壓力及地緣政治衝突消除前，台股短線仍維持整理格局，且不排除再次回測前波低點，預估將在4萬點至4萬5500點區間震盪。</p>",
+    "title_en": "Taiwan stocks fluctuated on the 1/month line and formed counter pressure. Legal person: Taiwan stocks do not rule out testing the previous low of 41,967",
+    "summary_en": "<p>Taiwan stocks rebounded from the previous low of 41,967 points, but the index rose to near the monthly line and then counterpressed, leaving the short-term shock unresolved. Huang Guowei, deputy general manager of Mega Investment Consulting, pointed out that this wave of correction is not only a technical pullback, but also a repricing of the market's evaluation of the stock market. Before the monthly pressure and geopolitical conflicts are eliminated, Taiwan stocks will still maintain a consolidation pattern in the short term, and do not rule out retesting the previous low, and are expected to fluctuate between 40,000 points and 45,500 points. </p>"
+  },
+  {
+    "title": "暑假航空客運行李多影響載貨量　急貨美線傳需倍數價、越南六倍價",
+    "url": "https://finance.ettoday.net/news/3208045",
+    "source": "ETtoday",
+    "summary": "<img alt=\"暑假航空客運行李多影響載貨量　急貨美線傳需倍數價、越南六倍價\" src=\"https://cdn2.ettoday.net/images/8549/c8549270.jpg\" /><br /> 國內大型航空貨運承攬業者指出，暑假期間客機載客量高，行李大增，能提供的載貨空間減少，以致客貨量都高的周末航班，MUST GO貨物，美西線原每公斤約新台幣220元(油料附加費外加)的運價，出現要420元的近倍數價才能搶到艙位，越南線原30元的運價，188元才搶到艙位。 <a href=\"https://finance.ettoday.net/news/3208045\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-07-27T07:00:00+08:00",
+    "stocks": [],
+    "uid": "92af4046d6dc30161d5622c004c5330f",
+    "title_zh": "暑假航空客運行李多影響載貨量　急貨美線傳需倍數價、越南六倍價",
+    "summary_zh": "<img alt=\"暑假航空客運行李多影響載貨量　急貨美線傳需倍數價、越南六倍價\" src=\"https://cdn2.ettoday.net/images/8549/c8549270.jpg\" /><br /> 國內大型航空貨運承攬業者指出，暑假期間客機載客量高，行李大增，能提供的載貨空間減少，以致客貨量都高的周末航班，MUST GO貨物，美西線原每公斤約新台幣220元(油料附加費外加)的運價，出現要420元的近倍數價才能搶到艙位，越南線原30元的運價，188元才搶到艙位。 <a href=\"https://finance.ettoday.net/news/3208045\" target=\"_blank\">《詳全文...》</a>",
+    "title_en": "Excessive air passenger baggage during summer vacation affects cargo capacity. Urgent cargo needs to be sent to the United States at multiple times, and in Vietnam, six times the price",
+    "summary_en": "<img alt=\"Excessive air passenger baggage during summer vacation affects cargo capacity. Urgent cargo needs to be transported by US lines at multiple prices and six times the price in Vietnam\" src=\"https://cdn2.ettoday.net/images/8549/c8549270.jpg\" /><br /> Large domestic air cargo contractors pointed out that during the summer vacation, passenger aircraft carry high passenger volumes, luggage increases significantly, and the cargo space available is reduced. As a result, weekend flights with high passenger and cargo volumes MUST For GO cargo, the original freight rate for the US-Western Line was about NT$220 per kilogram (plus fuel surcharge), but now it takes a multiple of NT$420 to get a space. The original freight rate for the Vietnam Line was NT$30, and it took NT$188 to get a space. <a href=\"https://finance.ettoday.net/news/3208045\" target=\"_blank\">\"Full text...\"</a>"
+  },
+  {
+    "title": "LTN經濟通》「國進民退」奧步  英國複製修理中企",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5516240",
+    "source": "自由財經",
+    "summary": "2020年敬業集團接手英鋼\n\n\n〔財經頻道／綜合報導〕英國鋼鐵公司（British Steel）長期受到能源與生產成本偏高、設備老化，以及國際低價鋼材競爭衝擊，2019年進入破產清算程序。202...…",
+    "published_at": "2026-07-27T07:00:00+08:00",
+    "stocks": [],
+    "uid": "54b8340ec71ad0b5b1bd2bb5e7a4d753",
+    "title_zh": "LTN經濟通》「國進民退」奧步  英國複製修理中企",
+    "summary_zh": "2020年敬業集團接手英鋼\n\n\n〔財經頻道／綜合報導〕英國鋼鐵公司（British Steel）長期受到能源與生產成本偏高、設備老化，以及國際低價鋼材競爭衝擊，2019年進入破產清算程序。202...…",
+    "title_en": "LTN Economic Link》\"National Advancement and Private Retreat\" Aobu British Copy Repair Chinese Enterprises",
+    "summary_en": "Jingye Group takes over Yingsteel in 2020\n\n\n[Financial Channel/Comprehensive Report] British Steel has long been impacted by high energy and production costs, aging equipment, and international low-price steel competition. It entered bankruptcy liquidation proceedings in 2019. 202…"
+  },
+  {
+    "title": "台股震盪2／台股還差「第二隻腳」　李蜀芳：守住這防線年底衝5萬點",
+    "url": "https://www.mirrormedia.mg/story/20260725-185mon-202623",
+    "source": "鏡週刊財經",
+    "summary": "<p>全球主要股市面臨修正走勢，面對第3季震盪行情，資深分析師李蜀芳認為，現階段最大的問題不是基本面，而是融資籌碼結構凌亂，投資人要有心理準備面對一陣子的打底期。她指出，台股目前出現「第一隻腳」的雛形，接下來應密切注意「第二隻腳」是否完成，只要關鍵防線39,967點不失守，多頭架構仍在，年底有機會再挑戰前高，朝5萬點大關邁進。</p>",
+    "published_at": "2026-07-27T07:00:00+08:00",
+    "stocks": [],
+    "uid": "cbec17be1d89f0c5da679f54a2688232",
+    "title_zh": "台股震盪2／台股還差「第二隻腳」　李蜀芳：守住這防線年底衝5萬點",
+    "summary_zh": "<p>全球主要股市面臨修正走勢，面對第3季震盪行情，資深分析師李蜀芳認為，現階段最大的問題不是基本面，而是融資籌碼結構凌亂，投資人要有心理準備面對一陣子的打底期。她指出，台股目前出現「第一隻腳」的雛形，接下來應密切注意「第二隻腳」是否完成，只要關鍵防線39,967點不失守，多頭架構仍在，年底有機會再挑戰前高，朝5萬點大關邁進。</p>",
+    "title_en": "Taiwan stocks fluctuate 2/Taiwan stocks still lack the \"second foot\" Li Shufang: Hold on to this line of defense and reach 50,000 points by the end of the year",
+    "summary_en": "<p>The world's major stock markets are facing correction trends and the volatile market in the third quarter. Senior analyst Li Shufang believes that the biggest problem at this stage is not the fundamentals, but the messy financing chip structure. Investors must be mentally prepared to face a period of bottoming out. She pointed out that the Taiwan stock market is currently showing the prototype of the \"first foot\", and we should pay close attention to whether the \"second foot\" is completed. As long as the key defense line of 39,967 points is not lost and the bullish structure is still there, there will be an opportunity to challenge the previous high by the end of the year and move towards the 50,000-point mark. </p>"
+  },
+  {
     "title": "恆隆行南向布局／代理精品家電年收百億　恆隆行首度引進中國品牌拚新局",
     "url": "https://www.mirrormedia.mg/story/20260726fin002",
     "source": "鏡週刊財經",
@@ -12988,7 +13184,11 @@
     "summary": "〔財經頻道／綜合報導〕市場近期頻繁將AI狂潮與2000年代初期的網路泡沫相提並論，擔心暴漲後的科技股將迎來崩盤。然而，前日本財務省官員、現任 Bluemo Securities 執行長中村仁志指...…",
     "published_at": "2026-07-24T14:10:12+08:00",
     "stocks": [],
-    "uid": "5638a0960c78e156612ddb929e7b7115"
+    "uid": "5638a0960c78e156612ddb929e7b7115",
+    "title_zh": "AI絕非「網路泡沫2.0」！日權威專家揭3大關鍵",
+    "summary_zh": "〔財經頻道／綜合報導〕市場近期頻繁將AI狂潮與2000年代初期的網路泡沫相提並論，擔心暴漲後的科技股將迎來崩盤。然而，前日本財務省官員、現任 Bluemo Securities 執行長中村仁志指...…",
+    "title_en": "AI is definitely not \"Dotcom 2.0\"! Authoritative Japanese experts reveal 3 key points",
+    "summary_en": "[Financial Channel/Comprehensive Report] The market has recently compared the AI ​​craze to the dot-com bubble in the early 2000s, fearing that technology stocks will collapse after their surge. However, Hitoshi Nakamura, a former Japanese Finance Ministry official and current CEO of Bluemo Securities, pointed out..."
   },
   {
     "title": "東芝持股降至 15%、NAND Flash 廠鎧俠股價崩 9%",
@@ -12997,7 +13197,11 @@
     "summary": "東芝（Toshiba）為日本 NAND Flash 廠鎧俠（Kioxia）的大股東，不過東芝持續出售鎧俠股份， [&#8230;]",
     "published_at": "2026-07-24T14:10:09+08:00",
     "stocks": [],
-    "uid": "166f9f6c3535c1959111271851306e70"
+    "uid": "166f9f6c3535c1959111271851306e70",
+    "title_zh": "東芝持股降至 15%、NAND Flash 廠鎧俠股價崩 9%",
+    "summary_zh": "東芝（Toshiba）為日本 NAND Flash 廠鎧俠（Kioxia）的大股東，不過東芝持續出售鎧俠股份， [&#8230;]",
+    "title_en": "Toshiba's shareholding drops to 15%, NAND Flash factory Kioxia's stock price collapses 9%",
+    "summary_en": "Toshiba is the major shareholder of Japanese NAND Flash factory Kioxia, but Toshiba continues to sell shares in Kioxia, […]"
   },
   {
     "title": "台股收跌1,195點再破季線 台積電收低55元",
@@ -13008,7 +13212,11 @@
     "stocks": [
       "2330"
     ],
-    "uid": "e004a65531a41baa2c9f4cb8dc70c6bf"
+    "uid": "e004a65531a41baa2c9f4cb8dc70c6bf",
+    "title_zh": "台股收跌1,195點再破季線 台積電收低55元",
+    "summary_zh": "台股24日收盤下跌1,195.97點，終場以43,654.84點作收，成交量7,924億元；台積電（2330）收盤價2,350元，下跌55元，跌幅2.29%。",
+    "title_en": "Taiwan stocks closed down 1,195 points and broke the quarterly line again; TSMC closed down 55 yuan",
+    "summary_en": "Taiwan stocks closed down 1,195.97 points on the 24th, ending at 43,654.84 points, with a trading volume of 792.4 billion yuan; TSMC (2330) closed at 2,350 yuan, down 55 yuan, or 2.29%."
   },
   {
     "title": "借力非洲留台學生  台非經貿協會開創非洲新藍海",
@@ -13017,7 +13225,11 @@
     "summary": "（中央社記者施婉清開羅24日專電）非洲以15多億人口及豐富能源儲量展現強勁動能，成為全球成長最快的新興市場。台灣非洲經貿協會正規劃籌組當地服務中心，並倡建「非洲經貿辦公室」，以及培育非洲在台留學生，作為台商布局非洲市場的重要人才橋梁。",
     "published_at": "2026-07-24T14:06:14+08:00",
     "stocks": [],
-    "uid": "cccc7e4c57546854f32c8533b23013d1"
+    "uid": "cccc7e4c57546854f32c8533b23013d1",
+    "title_zh": "借力非洲留台學生  台非經貿協會開創非洲新藍海",
+    "summary_zh": "（中央社記者施婉清開羅24日專電）非洲以15多億人口及豐富能源儲量展現強勁動能，成為全球成長最快的新興市場。台灣非洲經貿協會正規劃籌組當地服務中心，並倡建「非洲經貿辦公室」，以及培育非洲在台留學生，作為台商布局非洲市場的重要人才橋梁。",
+    "title_en": "Leveraging African students studying in Taiwan, the Taiwan-Africa Economic and Trade Association creates a new blue ocean in Africa",
+    "summary_en": "(Central News Agency reporter Shi Wanqing, Cairo, 24th) With a population of more than 1.5 billion and abundant energy reserves, Africa has shown strong momentum and has become the fastest growing emerging market in the world. The Taiwan African Economic and Trade Association is planning to organize a local service center, and is advocating the establishment of an \"African Economic and Trade Office\" and cultivating African students in Taiwan as an important talent bridge for Taiwanese businessmen to expand into the African market."
   },
   {
     "title": "8月台股期指跌1007點",
@@ -13026,7 +13238,11 @@
     "summary": "（中央社台北24日電）台北股市今天終場跌1195.97點，收43654.84點。8月台指期以43905點作收，下跌1007點，與現貨相較，正價差250.16點。",
     "published_at": "2026-07-24T14:01:12+08:00",
     "stocks": [],
-    "uid": "9fad89f9f07e8e932672f58fc85b4d09"
+    "uid": "9fad89f9f07e8e932672f58fc85b4d09",
+    "title_zh": "8月台股期指跌1007點",
+    "summary_zh": "（中央社台北24日電）台北股市今天終場跌1195.97點，收43654.84點。8月台指期以43905點作收，下跌1007點，與現貨相較，正價差250.16點。",
+    "title_en": "Taiwan stock futures index fell 1,007 points in August",
+    "summary_en": "(Central News Agency, Taipei, 24th) The Taipei stock market ended today with a loss of 1,195.97 points, closing at 43,654.84 points. The Taiwan index futures closed at 43905 points in August, down 1007 points. Compared with the spot price, the positive price difference was 250.16 points."
   },
   {
     "title": "致癌油風暴燒24天  中聯大股東泰山、福壽、福懋油3董座15：00親說明",
@@ -13039,7 +13255,11 @@
       "1219",
       "1225"
     ],
-    "uid": "9f79489609df12c7021f0b6ecbbdc610"
+    "uid": "9f79489609df12c7021f0b6ecbbdc610",
+    "title_zh": "致癌油風暴燒24天  中聯大股東泰山、福壽、福懋油3董座15：00親說明",
+    "summary_zh": "中聯油脂生產的部分大豆油被檢出苯駢芘超標，風暴燒了24天，泰山（1218）董事長劉偉龍、福壽（1219）董事長洪堯昆及福懋油（1225） 董事長吳星澄，今（24） 日15...…",
+    "title_en": "The cancer-causing oil storm burned for 24 days. Zoomlion’s major shareholders, Taishan, Fushou and Fumaoyou, explained in person at 15:00",
+    "summary_en": "Some of the soybean oil produced by China United Oils and Fats was found to contain excessive amounts of benzene and pyrene, and the storm lasted for 24 days. Liu Weilong, chairman of Taishan (1218), Hong Yaokun, chairman of Fushou (1219), and Wu Xingcheng, chairman of Fumao Oil (1225), today (24), 15..."
   },
   {
     "title": "301 關稅取代全球關稅，短期衝擊有限但通膨恐積壓",
@@ -13048,7 +13268,11 @@
     "summary": "川普政府宣布自美東時間 7 月 24 日起對 60 個經濟體實施新一輪 301 關稅措施，稅率為 10% 或  [&#8230;]",
     "published_at": "2026-07-24T14:00:19+08:00",
     "stocks": [],
-    "uid": "50c164628e6b2cd99f2f303e831f93bc"
+    "uid": "50c164628e6b2cd99f2f303e831f93bc",
+    "title_zh": "301 關稅取代全球關稅，短期衝擊有限但通膨恐積壓",
+    "summary_zh": "川普政府宣布自美東時間 7 月 24 日起對 60 個經濟體實施新一輪 301 關稅措施，稅率為 10% 或  [&#8230;]",
+    "title_en": "301 tariffs replace global tariffs, the short-term impact is limited, but inflation may backlog",
+    "summary_en": "The Trump administration announced that it will implement a new round of Section 301 tariffs on 60 economies starting from July 24, Eastern Time, with a tax rate of 10% or […]"
   },
   {
     "title": "301 關稅取代全球關稅，短期衝擊有限但通膨恐積壓",
@@ -13057,7 +13281,11 @@
     "summary": "川普政府宣布自美東時間 7 月 24 日起對 60 個經濟體實施新一輪 301 關稅措施，稅率為 10% 或  [&#8230;]",
     "published_at": "2026-07-24T14:00:19+08:00",
     "stocks": [],
-    "uid": "2fd474671b19edc16029c152c7566bfe"
+    "uid": "2fd474671b19edc16029c152c7566bfe",
+    "title_zh": "301 關稅取代全球關稅，短期衝擊有限但通膨恐積壓",
+    "summary_zh": "川普政府宣布自美東時間 7 月 24 日起對 60 個經濟體實施新一輪 301 關稅措施，稅率為 10% 或  [&#8230;]",
+    "title_en": "301 tariffs replace global tariffs, the short-term impact is limited, but inflation may backlog",
+    "summary_en": "The Trump administration announced that it will implement a new round of Section 301 tariffs on 60 economies starting from July 24, Eastern Time, with a tax rate of 10% or […]"
   },
   {
     "title": "AI 需求旺、法基板大廠 Soitec 財報優  股價飆 22%",
@@ -13066,7 +13294,11 @@
     "summary": "法國矽晶圓基板大廠 Soitec 繳出優異財報，AI 資料中心對矽光子產品的需求日益轉強，帶動訂單能見度大增， [&#8230;]",
     "published_at": "2026-07-24T14:00:18+08:00",
     "stocks": [],
-    "uid": "91016fcd3e0c81dc14892a671ebf646a"
+    "uid": "91016fcd3e0c81dc14892a671ebf646a",
+    "title_zh": "AI 需求旺、法基板大廠 Soitec 財報優  股價飆 22%",
+    "summary_zh": "法國矽晶圓基板大廠 Soitec 繳出優異財報，AI 資料中心對矽光子產品的需求日益轉強，帶動訂單能見度大增， [&#8230;]",
+    "title_en": "AI demand is strong, French substrate maker Soitec reports excellent financial results, stock price soars 22%",
+    "summary_en": "Soitec, a major French silicon wafer substrate manufacturer, has reported excellent financial results. The demand for silicon photonics products in AI data centers has become increasingly strong, driving order visibility to increase significantly. […]"
   },
   {
     "title": "Air Products 擴大整合台灣供氣網絡，支援半導體客戶擴產需求",
@@ -13075,7 +13307,11 @@
     "summary": "全球領先的工業氣體公司 Air Products 22 日宣布旗下 Air Products 三福氣體股份有限 [&#8230;]",
     "published_at": "2026-07-24T14:00:03+08:00",
     "stocks": [],
-    "uid": "0a0cca06bb4b76fbec0b2153b22897aa"
+    "uid": "0a0cca06bb4b76fbec0b2153b22897aa",
+    "title_zh": "Air Products 擴大整合台灣供氣網絡，支援半導體客戶擴產需求",
+    "summary_zh": "全球領先的工業氣體公司 Air Products 22 日宣布旗下 Air Products 三福氣體股份有限 [&#8230;]",
+    "title_en": "Air Products expands and integrates Taiwan’s gas supply network to support semiconductor customers’ production expansion needs",
+    "summary_en": "Air Products, the world's leading industrial gas company, announced on the 22nd that its subsidiary Air Products Sanfu Gas Co., Ltd. […]"
   },
   {
     "title": "致癌油風波延燒！泰山、福壽及福懋油三家董事長 15時召開重訊記者會",
@@ -13088,7 +13324,11 @@
       "1219",
       "1225"
     ],
-    "uid": "c4ee04ee89fea9e096bf027b1a210a7f"
+    "uid": "c4ee04ee89fea9e096bf027b1a210a7f",
+    "title_zh": "致癌油風波延燒！泰山、福壽及福懋油三家董事長 15時召開重訊記者會",
+    "summary_zh": "臺灣證券交易所公告，泰山（1218）、福壽（1219）及福懋油（1225）將於今日15時，於證交所1樓資訊展示中心召開重訊記者會，由董事長劉偉龍、董事長洪堯昆及董事長吳星澄說明近期油品事件。",
+    "title_en": "Cancer-causing oil scandal spreads! The three directors of Taishan, Fushou and Fumao Oil held a press conference on the news at 15:00",
+    "summary_en": "The Taiwan Stock Exchange announced that Taishan (1218), Fu Shou (1219) and Fu Mao Oil (1225) will hold a major press conference at 15:00 today at the Information Exhibition Center on the first floor of the Stock Exchange. Chairman Liu Weilong, Chairman Hong Yaokun and Chairman Wu Xingcheng will explain the recent oil product incidents."
   },
   {
     "title": "立委推台南「雙酪」絕配　籲民眾多多享用",
