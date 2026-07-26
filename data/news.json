@@ -1,5 +1,304 @@
 [
   {
+    "title": "成熟製程、矽晶圓 動能強",
+    "url": "https://money.udn.com/money/story/8543/9652164",
+    "source": "經濟日報",
+    "summary": "美股財報周開跑，德州儀器第2季繳出優於市場預期的成績，顯示在經歷一段調整後，類比晶片產業正逐步走出谷底，工業、資料中心與車用市場需求回溫，帶動公司營收與獲利同步改善，也讓市場看到終端客戶庫存調整接近尾聲的跡象，公司對第3季提出更樂觀的營運展望，整體高於華爾街原先預估，反映管理層對下半年需求仍具信心。",
+    "published_at": "2026-07-26T23:58:27+08:00",
+    "stocks": [],
+    "uid": "f4f745d24f558f57bd78a0c7e1a1adaa",
+    "title_zh": "成熟製程、矽晶圓 動能強",
+    "summary_zh": "美股財報周開跑，德州儀器第2季繳出優於市場預期的成績，顯示在經歷一段調整後，類比晶片產業正逐步走出谷底，工業、資料中心與車用市場需求回溫，帶動公司營收與獲利同步改善，也讓市場看到終端客戶庫存調整接近尾聲的跡象，公司對第3季提出更樂觀的營運展望，整體高於華爾街原先預估，反映管理層對下半年需求仍具信心。",
+    "title_en": "Mature process, silicon wafer, strong kinetic energy",
+    "summary_en": "U.S. stock earnings week has kicked off, and Texas Instruments has delivered better-than-expected results for the second quarter, indicating that after a period of adjustment, the analog chip industry is gradually bottoming out. Demand in the industrial, data center and automotive markets has recovered, driving the company's revenue and profits to improve simultaneously. It also allows the market to see signs that end-customer inventory adjustments are coming to an end. The company has put forward a more optimistic operating outlook for the third quarter, which is generally higher than Wall Street's original forecast, reflecting management's continued confidence in demand in the second half of the year."
+  },
+  {
+    "title": "15檔外資青睞股盤面焦點 緯創、鴻海等營運展望佳 股價表現亮眼",
+    "url": "https://money.udn.com/money/story/5607/9652159",
+    "source": "經濟日報",
+    "summary": "儘管台股近來動盪劇烈，但AI需求仍未出現減弱跡象。統計顯示，外資上周雖然賣超台股470.6億元，但主要賣超已漲多個股，轉而買超緯創（3231）、鴻海、華碩、長榮等個股。",
+    "published_at": "2026-07-26T23:57:20+08:00",
+    "stocks": [
+      "3231",
+      "2317",
+      "2357",
+      "2603"
+    ],
+    "uid": "10264c934b2c7a1c7c5208bf175792fb",
+    "title_zh": "15檔外資青睞股盤面焦點 緯創、鴻海等營運展望佳 股價表現亮眼",
+    "summary_zh": "儘管台股近來動盪劇烈，但AI需求仍未出現減弱跡象。統計顯示，外資上周雖然賣超台股470.6億元，但主要賣超已漲多個股，轉而買超緯創（3231）、鴻海、華碩、長榮等個股。",
+    "title_en": "15 stocks favored by foreign investors are in focus: Wistron, Hon Hai, etc. have good operating prospects and share price performance is outstanding",
+    "summary_en": "Despite the recent turmoil in Taiwan’s stock market, demand for AI shows no sign of weakening. Statistics show that although foreign investors oversold Taiwan stocks by 47.06 billion yuan last week, they mainly oversold several stocks that had risen and instead bought stocks such as Wistron (3231), Hon Hai, Asustek, and Evergreen."
+  },
+  {
+    "title": "一周盤前股市解析／散熱、被動元件 逢低布局",
+    "url": "https://money.udn.com/money/story/5607/9652166",
+    "source": "經濟日報",
+    "summary": "台股上周五（24日）早盤跳空開低走低，跌破10日線後，一度出現多頭抵抗，但在周邊韓股跌勢擴大影響下，多檔電子權值股與台塑集團股重跌，領跌台股跌勢再度擴大，盤中最低來到43,607點，大跌1,243點，收盤時下跌1,195點，以43,654點作收。",
+    "published_at": "2026-07-26T23:55:44+08:00",
+    "stocks": [
+      "1301"
+    ],
+    "uid": "f9c463411faaba01d9be486fc103cc3d",
+    "title_zh": "一周盤前股市解析／散熱、被動元件 逢低布局",
+    "summary_zh": "台股上周五（24日）早盤跳空開低走低，跌破10日線後，一度出現多頭抵抗，但在周邊韓股跌勢擴大影響下，多檔電子權值股與台塑集團股重跌，領跌台股跌勢再度擴大，盤中最低來到43,607點，大跌1,243點，收盤時下跌1,195點，以43,654點作收。",
+    "title_en": "One week pre-market stock market analysis/heat dissipation, passive components, bargain hunting layout",
+    "summary_en": "Taiwan stocks opened lower in early trading last Friday (24th). After falling below the 10-day line, there was resistance from bulls for a time. However, under the influence of the expansion of the decline in surrounding Korean stocks, multiple electronics weight stocks and Formosa Plastics Group stocks fell sharply, leading the decline. The decline in Taiwan stocks expanded again, reaching an intraday low of 43,607 points, a sharp drop of 1,243 points. It fell 1,195 points at the close, closing at 43,654 points."
+  },
+  {
+    "title": "就市論勢／PC 代工、航運 可短打",
+    "url": "https://money.udn.com/money/story/5607/9652143",
+    "source": "經濟日報",
+    "summary": "市場對AI投資是否能變現疑慮再起，使得AI供應鏈未來的成長動能受關注。",
+    "published_at": "2026-07-26T23:55:33+08:00",
+    "stocks": [],
+    "uid": "652842e88de0522b0796b3cb8178b3f7",
+    "title_zh": "就市論勢／PC 代工、航運 可短打",
+    "summary_zh": "市場對AI投資是否能變現疑慮再起，使得AI供應鏈未來的成長動能受關注。",
+    "title_en": "Discuss the market situation/PC OEM, shipping can be short-term",
+    "summary_en": "The market's doubts about whether AI investments can be realized have resurfaced, drawing attention to the future growth momentum of the AI ​​supply chain."
+  },
+  {
+    "title": "AI 半導體七雄 野村喊買",
+    "url": "https://money.udn.com/money/story/5607/9652161",
+    "source": "經濟日報",
+    "summary": "野村證券釋出「AI半導體」產業報告指出，AI概念股最近陷入整理，但零組件短缺、漲價潮與獲利上修將仍是下一波催化劑，主要風險仍在於雲端業者資本支出展望。在台系供應鏈中，野村看好七檔個股，即台積電（2330）、日月光投控、京元電子、鴻勁、致茂、旺矽及穎崴，都給予「買進」評等。",
+    "published_at": "2026-07-26T23:55:16+08:00",
+    "stocks": [
+      "2330",
+      "6515"
+    ],
+    "uid": "2a86b9cc6a24f4158ee2fb9ccc214852",
+    "title_zh": "AI 半導體七雄 野村喊買",
+    "summary_zh": "野村證券釋出「AI半導體」產業報告指出，AI概念股最近陷入整理，但零組件短缺、漲價潮與獲利上修將仍是下一波催化劑，主要風險仍在於雲端業者資本支出展望。在台系供應鏈中，野村看好七檔個股，即台積電（2330）、日月光投控、京元電子、鴻勁、致茂、旺矽及穎崴，都給予「買進」評等。",
+    "title_en": "AI Semiconductor Seven Heroes Nomura Buys",
+    "summary_en": "Nomura Securities released an \"AI Semiconductor\" industry report stating that AI concept stocks have been in consolidation recently, but component shortages, price increases and profit revisions will still be the next wave of catalysts. The main risk still lies in the capital expenditure outlook of cloud companies. In the Taiwanese supply chain, Nomura is optimistic about seven stocks, namely TSMC (2330), ASE Investment Holdings, KYEC Electronics, Hongjin, Maximo, Wangsi and Yingwei, all of which have given a \"buy\" rating."
+  },
+  {
+    "title": "川湖本季 EPS 估逾67元",
+    "url": "https://money.udn.com/money/story/5710/9652162",
+    "source": "經濟日報",
+    "summary": "伺服器滑軌龍頭川湖（2059）持續受惠AI強勁需求，法人預估第3季營收將季增4.2%，續創單季新高，毛利率站穩在77.2%，每股稅後純益（EPS）超過67元，今年全年EPS挑戰239元。",
+    "published_at": "2026-07-26T23:55:11+08:00",
+    "stocks": [
+      "2059"
+    ],
+    "uid": "5e18a560d66cc2a714c06f6abf4dbbbe",
+    "title_zh": "川湖本季 EPS 估逾67元",
+    "summary_zh": "伺服器滑軌龍頭川湖（2059）持續受惠AI強勁需求，法人預估第3季營收將季增4.2%，續創單季新高，毛利率站穩在77.2%，每股稅後純益（EPS）超過67元，今年全年EPS挑戰239元。",
+    "title_en": "Chuanhu’s EPS for this quarter is estimated to be over 67 yuan",
+    "summary_en": "Chuanhu (2059), the leader in server slide rails, continues to benefit from the strong demand for AI. The company predicts that its revenue in the third quarter will increase by 4.2% quarter-to-quarter, setting a new single-quarter high. Gross profit margin stands at 77.2%. Net profit after tax (EPS) per share exceeds 67 yuan. This year's full-year EPS challenges 239 yuan."
+  },
+  {
+    "title": "佳能上半年獲利爆發 法人估賺贏去年前三季總和 下半年會更旺",
+    "url": "https://money.udn.com/money/story/5710/9652135",
+    "source": "經濟日報",
+    "summary": "佳能（2374）搶搭機器人、無人機等當紅應用商機，推升旗下光學相關產品出貨強強滾，上季營收登上逾十年新高，帶動獲利爆發，法人估今年上半年將賺贏去年前三季總和。公司看好，隨機器人、車隊管理等專案持續熱轉，下半年業績將更勝上半年。",
+    "published_at": "2026-07-26T23:54:08+08:00",
+    "stocks": [
+      "2374"
+    ],
+    "uid": "357ec671aa94c13baa8ec379b22916a5",
+    "title_zh": "佳能上半年獲利爆發 法人估賺贏去年前三季總和 下半年會更旺",
+    "summary_zh": "佳能（2374）搶搭機器人、無人機等當紅應用商機，推升旗下光學相關產品出貨強強滾，上季營收登上逾十年新高，帶動獲利爆發，法人估今年上半年將賺贏去年前三季總和。公司看好，隨機器人、車隊管理等專案持續熱轉，下半年業績將更勝上半年。",
+    "title_en": "Canon's profits exploded in the first half of the year. The legal person estimates that the profit exceeded the total of the first three quarters of last year. It will be even more prosperous in the second half of the year.",
+    "summary_en": "Canon (2374) has seized business opportunities in popular applications such as robots and drones, boosting shipments of its optical-related products. Last quarter's revenue reached a record high in more than ten years, driving a profit explosion. The company estimates that the first half of this year will earn more than the first three quarters of last year combined. The company is optimistic that as projects such as robotics and fleet management continue to gain momentum, the performance in the second half of the year will be better than that in the first half."
+  },
+  {
+    "title": "台積、日月光、ASML 等訂單湧入 帆宣接單熱 忙到2027後",
+    "url": "https://money.udn.com/money/story/5710/9652136",
+    "source": "經濟日報",
+    "summary": "半導體廠務工程暨設備廠帆宣（6196）訂單應接不暇，在手訂單金額突破千億元新高，董事長高新明預告，隨著這波客戶海內外擴產熱潮延燒，帆宣積極協助客戶建廠，預估相關訂單「要忙到2027年之後了！」。",
+    "published_at": "2026-07-26T23:52:55+08:00",
+    "stocks": [
+      "6196"
+    ],
+    "uid": "a5a79103afb5542753721059a38065bd",
+    "title_zh": "台積、日月光、ASML 等訂單湧入 帆宣接單熱 忙到2027後",
+    "summary_zh": "半導體廠務工程暨設備廠帆宣（6196）訂單應接不暇，在手訂單金額突破千億元新高，董事長高新明預告，隨著這波客戶海內外擴產熱潮延燒，帆宣積極協助客戶建廠，預估相關訂單「要忙到2027年之後了！」。",
+    "title_en": "Orders from TSMC, ASE, ASML, etc. are pouring in, and fans are announcing that they will be busy until 2027.",
+    "summary_en": "Semiconductor factory engineering and equipment factory Fanxuan (6196) is overwhelmed with orders, with the amount of orders on hand exceeding 100 billion yuan. Chairman Gao Xinming predicted that as this wave of customer expansion enthusiasm at home and abroad spreads, Fanxuan actively assists customers in building factories, and predicts that related orders \"will be busy until after 2027!\"."
+  },
+  {
+    "title": "兆聯實業奪50億元大單",
+    "url": "https://money.udn.com/money/story/5710/9652138",
+    "source": "經濟日報",
+    "summary": "兆聯實業（6944）布局美國市場傳捷報，獲高科技客戶美國廠逾50億元廢水工程訂單，展現海外市場布局的初步成效，預期將顯著提升未來營收及獲利。",
+    "published_at": "2026-07-26T23:52:16+08:00",
+    "stocks": [
+      "6944"
+    ],
+    "uid": "0a64cdb154e075f4f1c9356d4e4ab3b8",
+    "title_zh": "兆聯實業奪50億元大單",
+    "summary_zh": "兆聯實業（6944）布局美國市場傳捷報，獲高科技客戶美國廠逾50億元廢水工程訂單，展現海外市場布局的初步成效，預期將顯著提升未來營收及獲利。",
+    "title_en": "Zhaolian Industrial won a large order worth 5 billion yuan",
+    "summary_en": "Zhaolian Industrial (6944) reported success in its deployment in the U.S. market. It received more than 5 billion yuan in wastewater project orders from high-tech customers in the U.S., demonstrating the initial results of its overseas market deployment and is expected to significantly increase future revenue and profits."
+  },
+  {
+    "title": "海柏特挑戰雙位數成長",
+    "url": "https://money.udn.com/money/story/11074/9652141",
+    "source": "經濟日報",
+    "summary": "宏碁旗下多品牌售後服務整合商海柏特（6884）樂觀看待2026年，目標營收年增雙位數百分比。隨著持續推進印度子公司設立計畫，挾當地人口紅利優勢，預期將進一步挹注營收，為公司帶來中長期成長動能。",
+    "published_at": "2026-07-26T23:51:50+08:00",
+    "stocks": [
+      "6884"
+    ],
+    "uid": "76009567d1b8f26dc2d259d5a7aa2436",
+    "title_zh": "海柏特挑戰雙位數成長",
+    "summary_zh": "宏碁旗下多品牌售後服務整合商海柏特（6884）樂觀看待2026年，目標營收年增雙位數百分比。隨著持續推進印度子公司設立計畫，挾當地人口紅利優勢，預期將進一步挹注營收，為公司帶來中長期成長動能。",
+    "title_en": "Hibbert challenges double-digit growth",
+    "summary_en": "Hibot (6884), a multi-brand after-sales service integrator under Acer, is optimistic about 2026 and targets annual revenue growth of double-digit percentages. As we continue to advance the plan to establish a subsidiary in India, taking advantage of the local demographic dividend, it is expected to further inject revenue and bring mid- to long-term growth momentum to the company."
+  },
+  {
+    "title": "精誠全年營收拚新高",
+    "url": "https://money.udn.com/money/story/5710/9652139",
+    "source": "經濟日報",
+    "summary": "本土資訊服務龍頭精誠資訊（6214）6月合併營收繳出67.4億元的單月歷史新高佳績之後，法人預期，精誠可望持續受惠AI基礎建設風潮，進一步推動下半年表現優於上半年，2026年營收力拚年增三成以上，改寫新猷。",
+    "published_at": "2026-07-26T23:51:40+08:00",
+    "stocks": [
+      "6214"
+    ],
+    "uid": "c448c3cf9639c678077766f5611aee94",
+    "title_zh": "精誠全年營收拚新高",
+    "summary_zh": "本土資訊服務龍頭精誠資訊（6214）6月合併營收繳出67.4億元的單月歷史新高佳績之後，法人預期，精誠可望持續受惠AI基礎建設風潮，進一步推動下半年表現優於上半年，2026年營收力拚年增三成以上，改寫新猷。",
+    "title_en": "Jingcheng achieves new high in annual revenue",
+    "summary_en": "After Jingcheng Information (6214), a leader in local information services, achieved a record single-month record high of 6.74 billion yuan in consolidated revenue in June, the legal person expects that Jingcheng will continue to benefit from the trend of AI infrastructure construction, further promoting the performance of the second half of the year to be better than that of the first half. In 2026, the revenue will strive to increase by more than 30% year-on-year, setting a new record."
+  },
+  {
+    "title": "RFID 雙雄 營運升溫",
+    "url": "https://money.udn.com/money/story/5607/9652137",
+    "source": "經濟日報",
+    "summary": "全球無線射頻識別（RFID）需求續增，RFID雙雄永道-KY（6863）、韋僑受惠新產能陸續投產與全球布局綜效顯現，營運看俏，兩家公司均看好智慧化應用浪潮將持續推升業績。",
+    "published_at": "2026-07-26T23:50:40+08:00",
+    "stocks": [],
+    "uid": "bb473d5dbc2f1ec1ed63c0a96a43fc69",
+    "title_zh": "RFID 雙雄 營運升溫",
+    "summary_zh": "全球無線射頻識別（RFID）需求續增，RFID雙雄永道-KY（6863）、韋僑受惠新產能陸續投產與全球布局綜效顯現，營運看俏，兩家公司均看好智慧化應用浪潮將持續推升業績。",
+    "title_en": "RFID duo’s operations are heating up",
+    "summary_en": "The global demand for radio frequency identification (RFID) continues to increase. RFID duo Yongdao-KY (6863) and Wei Qiaohui have successively put into production new production capacities and have shown synergies with their global layout. Their operations are promising. Both companies are optimistic that the wave of smart applications will continue to boost performance."
+  },
+  {
+    "title": "興能高迎旺季 出貨衝",
+    "url": "https://money.udn.com/money/story/5710/9652142",
+    "source": "經濟日報",
+    "summary": "興能高（6558）首季受制於電池相關原物料價格持續上漲，導致成本大增，單季繳出虧損的成績單，隨著公司已啟動漲價措施，伴隨下半年傳統旺季來臨，預估出貨將優於上半年，營運狀況有望改善。",
+    "published_at": "2026-07-26T23:50:15+08:00",
+    "stocks": [
+      "6558"
+    ],
+    "uid": "f65462dc2d94fd36a94ca540e0360b7d",
+    "title_zh": "興能高迎旺季 出貨衝",
+    "summary_zh": "興能高（6558）首季受制於電池相關原物料價格持續上漲，導致成本大增，單季繳出虧損的成績單，隨著公司已啟動漲價措施，伴隨下半年傳統旺季來臨，預估出貨將優於上半年，營運狀況有望改善。",
+    "title_en": "Good luck to welcome the peak season and rush shipments",
+    "summary_en": "In the first quarter, Xingnenggao (6558) was subject to the continued rise in prices of battery-related raw materials, resulting in a significant increase in costs and a single quarter loss report. As the company has initiated price increase measures and with the arrival of the traditional peak season in the second half of the year, shipments are expected to be better than those in the first half of the year, and operating conditions are expected to improve."
+  },
+  {
+    "title": "順達Q3業績估年季雙增",
+    "url": "https://money.udn.com/money/story/11074/9652140",
+    "source": "經濟日報",
+    "summary": "電池模組廠順達（3211）今年營運持續受惠伺服器電池備援電力模組（BBU）出貨強勁，展望後市，法人指出，隨著順達BBU出貨規格提升，加上產能逐步增加，預估第3季營收季比、年比皆有雙位數增長。",
+    "published_at": "2026-07-26T23:49:50+08:00",
+    "stocks": [
+      "3211"
+    ],
+    "uid": "f04e4f33f58afe922fd79a71171c74c2",
+    "title_zh": "順達Q3業績估年季雙增",
+    "summary_zh": "電池模組廠順達（3211）今年營運持續受惠伺服器電池備援電力模組（BBU）出貨強勁，展望後市，法人指出，隨著順達BBU出貨規格提升，加上產能逐步增加，預估第3季營收季比、年比皆有雙位數增長。",
+    "title_en": "Shunda’s Q3 performance is expected to double year-over-year growth",
+    "summary_en": "Battery module factory Shunda (3211) has continued to benefit from strong shipments of server battery backup power modules (BBU) this year. Looking ahead to the market outlook, the legal representative pointed out that with the improvement of Shunda BBU shipment specifications and the gradual increase in production capacity, revenue in the third quarter is expected to have double-digit growth both quarter-on-quarter and year-on-year."
+  },
+  {
+    "title": "第一類接觸／中聯資射三箭衝業績 營運規模邁向150億元",
+    "url": "https://money.udn.com/money/story/5710/9652103",
+    "source": "經濟日報",
+    "summary": "中聯資源（9930）在國內綠色循環經濟領域扮演重要角色，董事長周文賢指出，公司近年持續推動智慧製造、產能升級及循環經濟布局，並跨足高科技業廢棄物處理領域。隨著新產能將於今年第4季及明年陸續投產，營運規模可望朝150億元邁進，進一步鞏固競爭優勢。以下為周文賢訪談紀要：",
+    "published_at": "2026-07-26T23:49:01+08:00",
+    "stocks": [
+      "9930"
+    ],
+    "uid": "b32543c1f9938d30d14645aaed8112a6",
+    "title_zh": "第一類接觸／中聯資射三箭衝業績 營運規模邁向150億元",
+    "summary_zh": "中聯資源（9930）在國內綠色循環經濟領域扮演重要角色，董事長周文賢指出，公司近年持續推動智慧製造、產能升級及循環經濟布局，並跨足高科技業廢棄物處理領域。隨著新產能將於今年第4季及明年陸續投產，營運規模可望朝150億元邁進，進一步鞏固競爭優勢。以下為周文賢訪談紀要：",
+    "title_en": "The first kind of contact/China United Capital shoots three arrows to hit performance, operating scale moves towards 15 billion yuan",
+    "summary_en": "China United Resources (9930) plays an important role in the domestic green circular economy. Chairman Zhou Wenxian pointed out that the company has continued to promote smart manufacturing, production capacity upgrades and circular economy layout in recent years, and has entered the high-tech industry waste treatment field. As new production capacity will be put into operation in the fourth quarter of this year and next year, the operating scale is expected to move towards 15 billion yuan, further consolidating its competitive advantage. The following is the transcript of Zhou Wenxian’s interview:"
+  },
+  {
+    "title": "第一類接觸／中聯資董座周文賢 管理風格開放",
+    "url": "https://money.udn.com/money/story/5710/9652146",
+    "source": "經濟日報",
+    "summary": "中聯資源（9930）董事長周文賢同時也是中鋼生產副總。投入傳統鋼鐵業的人，不論身處哪個位階，身上總難免伴隨高爐火光與粗獷的重工業氣息，但周文賢不一樣，舉止間還多了一份溫潤與朝氣。",
+    "published_at": "2026-07-26T23:47:19+08:00",
+    "stocks": [
+      "9930"
+    ],
+    "uid": "f9aed7a35e7bc1a7f74318c1d4a4b879",
+    "title_zh": "第一類接觸／中聯資董座周文賢 管理風格開放",
+    "summary_zh": "中聯資源（9930）董事長周文賢同時也是中鋼生產副總。投入傳統鋼鐵業的人，不論身處哪個位階，身上總難免伴隨高爐火光與粗獷的重工業氣息，但周文賢不一樣，舉止間還多了一份溫潤與朝氣。",
+    "title_en": "The first kind of contact/China United Capital Chairman Zhou Wenxian has an open management style",
+    "summary_en": "Zhou Wenxian, chairman of China United Resources (9930), is also the vice president of production of Sinosteel. People who are involved in the traditional steel industry, no matter what position they are in, will inevitably be accompanied by the fire of the blast furnace and the rough atmosphere of heavy industry. But Zhou Wenxian is different. There is an extra warmth and vitality in his demeanor."
+  },
+  {
+    "title": "第一類接觸／中聯資今年每股估賺5.4元",
+    "url": "https://money.udn.com/money/story/5710/9652107",
+    "source": "經濟日報",
+    "summary": "中聯資（9930）為國內最大高爐水泥、爐石粉生產及廢棄物處理和資源再生公司，由中鋼及台泥等公司共同投資設立，公司初期專注於中鋼製程副產物爐石用途及加值化工作，而後以環保專業，將營業範圍擴展至資源再生及汙染整治領域。",
+    "published_at": "2026-07-26T23:46:59+08:00",
+    "stocks": [
+      "9930"
+    ],
+    "uid": "2ebd868d89ac179c794649c3a1febacd",
+    "title_zh": "第一類接觸／中聯資今年每股估賺5.4元",
+    "summary_zh": "中聯資（9930）為國內最大高爐水泥、爐石粉生產及廢棄物處理和資源再生公司，由中鋼及台泥等公司共同投資設立，公司初期專注於中鋼製程副產物爐石用途及加值化工作，而後以環保專業，將營業範圍擴展至資源再生及汙染整治領域。",
+    "title_en": "Contact of the First Kind/China United Capital is estimated to earn 5.4 yuan per share this year",
+    "summary_en": "China United Capital (9930) is the largest blast furnace cement, furnace stone powder production, waste treatment and resource recycling company in China. It is jointly invested and established by companies such as China Steel and Taiwan Cement. The company initially focused on the use and value-added work of furnace stone by-products of China Steel's process. Later, it expanded its business scope to the fields of resource recycling and pollution remediation with its environmental protection expertise."
+  },
+  {
+    "title": "華新切入英國國防鏈",
+    "url": "https://money.udn.com/money/story/5710/9652112",
+    "source": "經濟日報",
+    "summary": "英國啟動近3,000億英鎊國防投資，華新麗華（1605）可望大咬訂單。近期英國政府拍板《國防投資計畫》（DIP），業內看好，華新集團攜手英國軍工關鍵供應商勞斯萊斯（Rolls-Royce），可望持續取得相關高毛利特殊材料訂單，加速高值化轉型。",
+    "published_at": "2026-07-26T23:45:16+08:00",
+    "stocks": [
+      "1605"
+    ],
+    "uid": "2542afeee92f5af19fee5396f77731dd",
+    "title_zh": "華新切入英國國防鏈",
+    "summary_zh": "英國啟動近3,000億英鎊國防投資，華新麗華（1605）可望大咬訂單。近期英國政府拍板《國防投資計畫》（DIP），業內看好，華新集團攜手英國軍工關鍵供應商勞斯萊斯（Rolls-Royce），可望持續取得相關高毛利特殊材料訂單，加速高值化轉型。",
+    "title_en": "Huaxin cuts into British defense chain",
+    "summary_en": "The UK has launched nearly 300 billion pounds of defense investment, and Walsin Lihua (1605) is expected to take a big bite out of orders. The British government has recently finalized the Defense Investment Plan (DIP), and the industry is optimistic that Huaxin Group, together with Rolls-Royce, a key supplier of the British military industry, is expected to continue to obtain orders for relevant high-margin special materials and accelerate its high-value transformation."
+  },
+  {
+    "title": "華新半導體事業 邁入成長周期",
+    "url": "https://money.udn.com/money/story/5710/9652113",
+    "source": "經濟日報",
+    "summary": "華新麗華（1605）近年積極推動高值化轉型，如今除了英國特殊材料布局開始收成外，AI半導體等相關科技轉投資事業也同步進入成長周期，挹注財報數字將明顯改善。",
+    "published_at": "2026-07-26T23:44:57+08:00",
+    "stocks": [
+      "1605",
+      "5287"
+    ],
+    "uid": "ba3a03b34f505c4a3112c79ed0da0332",
+    "title_zh": "華新半導體事業 邁入成長周期",
+    "summary_zh": "華新麗華（1605）近年積極推動高值化轉型，如今除了英國特殊材料布局開始收成外，AI半導體等相關科技轉投資事業也同步進入成長周期，挹注財報數字將明顯改善。",
+    "title_en": "Huaxin Semiconductor Business Enters Growth Cycle",
+    "summary_en": "Walsin Lihua (1605) has actively promoted high-value transformation in recent years. Now, in addition to the UK's special materials layout, the investment in AI semiconductor and other related technologies has also entered a growth cycle, and the financial report figures will be significantly improved."
+  },
+  {
+    "title": "貨櫃三雄後市展望樂觀",
+    "url": "https://money.udn.com/money/story/5607/9652114",
+    "source": "經濟日報",
+    "summary": "航運及物流業者指出，運價經歷連續十周大漲後，近期屬於高檔整理，而非景氣反轉，在全球有效運能仍偏緊、航商持續控艙、新船供給有限等因素支撐下，第3季貨櫃海運市場仍可望維持高檔，長榮（2603）、陽明及萬海下半年營運展望依舊樂觀。",
+    "published_at": "2026-07-26T23:44:55+08:00",
+    "stocks": [
+      "2603"
+    ],
+    "uid": "e61679c2c86a2e1afd03e5235bca9f1d",
+    "title_zh": "貨櫃三雄後市展望樂觀",
+    "summary_zh": "航運及物流業者指出，運價經歷連續十周大漲後，近期屬於高檔整理，而非景氣反轉，在全球有效運能仍偏緊、航商持續控艙、新船供給有限等因素支撐下，第3季貨櫃海運市場仍可望維持高檔，長榮（2603）、陽明及萬海下半年營運展望依舊樂觀。",
+    "title_en": "The outlook for the market outlook for the three container heroes is optimistic",
+    "summary_en": "Shipping and logistics industry players pointed out that after ten consecutive weeks of sharp increases in freight rates, the recent trend has been a high-end consolidation rather than a reversal of the economy. Supported by factors such as tight global effective shipping capacity, continued shipping controls by shipping companies, and limited supply of new ships, the container shipping market is still expected to maintain a high level in the third quarter. The operating outlook for the second half of the year for Evergreen (2603), Yang Ming and Wan Hai remains optimistic."
+  },
+  {
     "title": "台股再次跌破季線 整理期將拉長 法人點名三題材可逢低切入",
     "url": "https://money.udn.com/money/story/5607/9652322",
     "source": "經濟日報",
@@ -2009,7 +2308,11 @@
     "summary": "美股24日科技股持續承壓，費城半導體指數重挫4.25%，台指期夜盤下跌445點。法人認為，台股短線仍處修正整理格局，後續...",
     "published_at": "2026-07-26T11:06:53+08:00",
     "stocks": [],
-    "uid": "6f64ca3790a60885db90a02cc4c3017c"
+    "uid": "6f64ca3790a60885db90a02cc4c3017c",
+    "title_zh": "費半重挫逾4%　法人：台股短線仍處修正整理",
+    "summary_zh": "美股24日科技股持續承壓，費城半導體指數重挫4.25%，台指期夜盤下跌445點。法人認為，台股短線仍處修正整理格局，後續...",
+    "title_en": "Fei Ban plunged more than 4% Legal person: Taiwan stocks are still correcting in the short term",
+    "summary_en": "U.S. technology stocks continued to be under pressure on the 24th, with the Philadelphia Semiconductor Index plunging 4.25% and the Taiwan Index futures falling 445 points in overnight trading. The legal person believes that the Taiwan stock market is still in a correction pattern in the short term, and the follow-up..."
   },
   {
     "title": "蔡其昌率團赴台灣日僑宴 前紐約市長亞當斯出席支持",
@@ -2018,7 +2321,11 @@
     "summary": "美國職棒大聯盟紐約大都會台灣日明天舉行，擔任雙開球嘉賓的美國國家航空暨太空總署太空人林琪兒及中華職棒大聯盟會長蔡其昌等，...",
     "published_at": "2026-07-26T11:00:52+08:00",
     "stocks": [],
-    "uid": "5e106e536452683622d624674caf343a"
+    "uid": "5e106e536452683622d624674caf343a",
+    "title_zh": "蔡其昌率團赴台灣日僑宴 前紐約市長亞當斯出席支持",
+    "summary_zh": "美國職棒大聯盟紐約大都會台灣日明天舉行，擔任雙開球嘉賓的美國國家航空暨太空總署太空人林琪兒及中華職棒大聯盟會長蔡其昌等，...",
+    "title_en": "Cai Qichang led a delegation to a banquet for Japanese overseas Chinese in Taiwan. Former New York Mayor Adams attended to support",
+    "summary_en": "Major League Baseball's New York Mets Taiwan Day will be held tomorrow. NASA astronaut Qier Lin and Chinese Major League Baseball President Cai Qichang will serve as double kickoff guests..."
   },
   {
     "title": "從被嫌「像糰子」到拿下全球七成市占，鈴茂器工如何稱霸壽司機器人市場？",
@@ -2027,7 +2334,11 @@
     "summary": "日本每十家迴轉壽司店，就有近八家使用同款機器捏壽司，這款機器在日本壽司機器人市占率高達八成，全球市占率也突破七 [&#8230;]",
     "published_at": "2026-07-26T11:00:33+08:00",
     "stocks": [],
-    "uid": "0c9ff3582638b769b77c0bcdfc7038c2"
+    "uid": "0c9ff3582638b769b77c0bcdfc7038c2",
+    "title_zh": "從被嫌「像糰子」到拿下全球七成市占，鈴茂器工如何稱霸壽司機器人市場？",
+    "summary_zh": "日本每十家迴轉壽司店，就有近八家使用同款機器捏壽司，這款機器在日本壽司機器人市占率高達八成，全球市占率也突破七 [&#8230;]",
+    "title_en": "From being accused of \"looking like a dango\" to capturing 70% of the global market share, how does Suzumo Kiki dominate the sushi robot market?",
+    "summary_en": "Nearly eight out of every ten conveyor belt sushi restaurants in Japan use the same machine to make sushi. This machine accounts for as much as 80% of the sushi robot market in Japan, and its global market share has exceeded 77% […]"
   },
   {
     "title": "為彰化鄉親打開行銷通路 縣議員劉淑芳前往加拿大展示地方特產",
@@ -2036,7 +2347,11 @@
     "summary": "今年11月即將進行地方公職跟民意代表選舉，全台各縣市已經紛紛展開激烈的選舉活動，目前擔任彰化縣議會國民黨書記長，也是現任議員的劉淑芳，卻選擇在7月27日將搭機前往加拿大，參加加拿大著名的愛德蒙頓民俗文化活動，為彰化鄉親打開行銷通路。",
     "published_at": "2026-07-26T11:00:17+08:00",
     "stocks": [],
-    "uid": "deb7baa5d8f265d18a2b4494c4b8733a"
+    "uid": "deb7baa5d8f265d18a2b4494c4b8733a",
+    "title_zh": "為彰化鄉親打開行銷通路 縣議員劉淑芳前往加拿大展示地方特產",
+    "summary_zh": "今年11月即將進行地方公職跟民意代表選舉，全台各縣市已經紛紛展開激烈的選舉活動，目前擔任彰化縣議會國民黨書記長，也是現任議員的劉淑芳，卻選擇在7月27日將搭機前往加拿大，參加加拿大著名的愛德蒙頓民俗文化活動，為彰化鄉親打開行銷通路。",
+    "title_en": "To open up marketing channels for Changhua folks, County Councilor Liu Shufang went to Canada to showcase local specialties.",
+    "summary_en": "Elections for local public offices and public opinion representatives will be held in November this year. Counties and cities across Taiwan have already launched fierce election activities. Liu Shufang, who is currently the Kuomintang secretary-general of the Changhua County Council and is also a current member, chose to fly to Canada on July 27 to participate in Canada's famous Edmonton folk culture event, opening up marketing channels for Changhua folks."
   },
   {
     "title": "費半重挫逾4%　法人：台股短線仍處修正整理",
@@ -2045,7 +2360,11 @@
     "summary": "（中央社記者何秀玲台北26日電）美股24日科技股持續承壓，費城半導體指數重挫4.25%，台指期夜盤下跌445點。法人認為，台股短線仍處修正整理格局，後續須觀察美國科技股財報、聯準會利率決策及市場量能變化。",
     "published_at": "2026-07-26T10:56:21+08:00",
     "stocks": [],
-    "uid": "a05228b061ecf1a10e9ce743b093a488"
+    "uid": "a05228b061ecf1a10e9ce743b093a488",
+    "title_zh": "費半重挫逾4%　法人：台股短線仍處修正整理",
+    "summary_zh": "（中央社記者何秀玲台北26日電）美股24日科技股持續承壓，費城半導體指數重挫4.25%，台指期夜盤下跌445點。法人認為，台股短線仍處修正整理格局，後續須觀察美國科技股財報、聯準會利率決策及市場量能變化。",
+    "title_en": "Fei Ban plunged more than 4% Legal person: Taiwan stocks are still correcting in the short term",
+    "summary_en": "(Central News Agency reporter He Xiuling, Taipei, 26th) U.S. technology stocks continued to be under pressure on the 24th. The Philadelphia Semiconductor Index fell 4.25%, and the Taiwan Index futures fell 445 points in night trading. The legal person believes that Taiwan's stock market is still in a correction pattern in the short term, and it is necessary to observe the financial reports of US technology stocks, the Federal Reserve's interest rate decision and changes in market volume in the future."
   },
   {
     "title": "民進黨：台青e家是統戰平台　勿拿個資職涯換工作",
