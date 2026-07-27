@@ -1,5 +1,485 @@
 [
   {
+    "title": "Apple reclaims title of world’s largest company after historic stretch of outperformance",
+    "url": "https://www.marketwatch.com/story/apple-reclaims-title-of-worlds-largest-company-after-historic-stretch-of-outperformance-92920ab6?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Apple’s stock is on track to see its best monthly performance in more than two decades relative to the Nasdaq-100.",
+    "published_at": "2026-07-28T04:12:00+08:00",
+    "stocks": [],
+    "uid": "96aab6625bb210128caa89860ab9501f",
+    "title_en": "Apple reclaims title of world’s largest company after historic stretch of outperformance",
+    "summary_en": "Apple’s stock is on track to see its best monthly performance in more than two decades relative to the Nasdaq-100.",
+    "title_zh": "蘋果在經歷了歷史性的優異表現後重新奪回全球最大公司的頭銜",
+    "summary_zh": "相對於納斯達克 100 指數，蘋果的股票有望實現二十多年來最好的月度表現。"
+  },
+  {
+    "title": "Trump administration asks Supreme Court to intervene to allow mail-in voting restrictions",
+    "url": "https://www.cnbc.com/2026/07/27/trump-supreme-court-mail-in-voting-restrictions.html",
+    "source": "CNBC Top",
+    "summary": "A federal appeals court on Saturday kept the restrictions blocked in 23 states that sued, finding states must prepare for potentially disruptive election changes.",
+    "published_at": "2026-07-28T04:10:27+08:00",
+    "stocks": [],
+    "uid": "e9ed38a7073125d26ad6cc675d372054",
+    "title_en": "Trump administration asks Supreme Court to intervene to allow mail-in voting restrictions",
+    "summary_en": "A federal appeals court on Saturday kept the restrictions blocked in 23 states that sued, finding states must prepare for potentially disruptive election changes.",
+    "title_zh": "川普政府要求最高法院介入以允許郵寄投票限制",
+    "summary_zh": "週六，聯邦上訴法院維持了 23 個提起訴訟的州的限制措施，裁定各州必須為潛在的破壞性選舉變化做好準備。"
+  },
+  {
+    "title": "Trump says U.S. has sold more than $13 billion of Venezuela oil since Maduro's capture",
+    "url": "https://www.cnbc.com/2026/07/27/trump-says-us-has-sold-more-than-13-billion-of-venezuela-oil-.html",
+    "source": "CNBC Top",
+    "summary": "President Donald Trump said Monday the U.S. has sold more than $13 billion of Venezuelan oil since taking control of the South American nation's energy exports.",
+    "published_at": "2026-07-28T04:07:33+08:00",
+    "stocks": [],
+    "uid": "aba958311f662fb127b43b27bceeb45b",
+    "title_en": "Trump says U.S. has sold more than $13 billion of Venezuela oil since Maduro's capture",
+    "summary_en": "President Donald Trump said Monday the U.S. has sold more than $13 billion of Venezuelan oil since taking control of the South American nation's energy exports.",
+    "title_zh": "川普稱自馬杜羅被捕以來美國已向委內瑞拉出售了價值超過130億美元的石油",
+    "summary_zh": "美國總統川普週一表示，自從控制這個南美國家的能源出口以來，美國已向委內瑞拉出售了價值超過 130 億美元的石油。"
+  },
+  {
+    "title": "Cadence Design earnings beat by $0.06, revenue was in line with estimates",
+    "url": "https://www.investing.com/news/earnings/cadence-design-earnings-beat-by-006-revenue-was-in-line-with-estimates-4814972",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-28T04:07:02+08:00",
+    "stocks": [],
+    "uid": "7b0c33c97aa3226e84e2c65b6db7b964",
+    "title_en": "Cadence Design earnings beat by $0.06, revenue was in line with estimates",
+    "summary_en": "",
+    "title_zh": "Cadence Design 獲利超出 0.06 美元，收入符合預期",
+    "summary_zh": ""
+  },
+  {
+    "title": "ProMIS to host webinar on Alzheimer’s trial interim data",
+    "url": "https://www.investing.com/news/company-news/promis-to-host-webinar-on-alzheimers-trial-interim-data-93CH-4814964",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-28T04:04:47+08:00",
+    "stocks": [],
+    "uid": "97b4dbe32b4c07a090f48687075907c4",
+    "title_en": "ProMIS to host webinar on Alzheimer’s trial interim data",
+    "summary_en": "",
+    "title_zh": "ProMIS 將舉辦阿茲海默症試驗中期數據的網路研討會",
+    "summary_zh": ""
+  },
+  {
+    "title": "Astec Industries declares $0.13 quarterly dividend",
+    "url": "https://www.investing.com/news/company-news/astec-industries-declares-013-quarterly-dividend-93CH-4814963",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-28T04:04:44+08:00",
+    "stocks": [],
+    "uid": "e977b9e86fa888c7bfd90099d5e75b50",
+    "title_en": "Astec Industries declares $0.13 quarterly dividend",
+    "summary_en": "",
+    "title_zh": "Astec Industries 宣布季度股息 0.13 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "IM Cannabis director Alon Dayan resigns from board",
+    "url": "https://www.investing.com/news/company-news/im-cannabis-director-alon-dayan-resigns-from-board-93CH-4814962",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-28T04:04:43+08:00",
+    "stocks": [],
+    "uid": "ff965b260e48300819a8fdc4b7a0433f",
+    "title_en": "IM Cannabis director Alon Dayan resigns from board",
+    "summary_en": "",
+    "title_zh": "IM Cannabis 董事 Alon Dayan 辭去董事會職務",
+    "summary_zh": ""
+  },
+  {
+    "title": "Kymera Therapeutics names Terence Rooney as chief medical officer",
+    "url": "https://www.investing.com/news/company-news/kymera-therapeutics-names-terence-rooney-as-chief-medical-officer-93CH-4814961",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-28T04:04:40+08:00",
+    "stocks": [],
+    "uid": "972d5647ca84b91e12e1741fbec38199",
+    "title_en": "Kymera Therapeutics names Terence Rooney as chief medical officer",
+    "summary_en": "",
+    "title_zh": "Kymera Therapeutics 任命特倫斯魯尼為首席醫療官",
+    "summary_zh": ""
+  },
+  {
+    "title": "Lucky Strike Entertainment upgrades league bowling experience",
+    "url": "https://www.investing.com/news/company-news/lucky-strike-entertainment-upgrades-league-bowling-experience-93CH-4814960",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-28T04:04:40+08:00",
+    "stocks": [],
+    "uid": "f2a1f1321f1b69cd15fab58c37259c15",
+    "title_en": "Lucky Strike Entertainment upgrades league bowling experience",
+    "summary_en": "",
+    "title_zh": "Lucky Strike Entertainment 升級聯賽保齡球體驗",
+    "summary_zh": ""
+  },
+  {
+    "title": "Simon Property Group stock hits all-time high at 231.6 USD",
+    "url": "https://www.investing.com/news/company-news/simon-property-group-stock-hits-alltime-high-at-2316-usd-93CH-4814957",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-28T04:02:57+08:00",
+    "stocks": [],
+    "uid": "3d47499ecaa2b77dd9238615dcd2e6aa",
+    "title_en": "Simon Property Group stock hits all-time high at 231.6 USD",
+    "summary_en": "",
+    "title_zh": "西蒙地產集團股價創歷史新高至231.6美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "EOS Falls 16% In Selloff",
+    "url": "https://www.investing.com/news/cryptocurrency-news/eos-falls-16-in-selloff-4814951",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-28T04:00:58+08:00",
+    "stocks": [],
+    "uid": "326c3291eba7323355b32d1119a0450e",
+    "title_en": "EOS Falls 16% In Selloff",
+    "summary_en": "",
+    "title_zh": "EOS 在拋售中下跌 16%",
+    "summary_zh": ""
+  },
+  {
+    "title": "Form 144 Business First Bancshares For: 27 July",
+    "url": "https://www.investing.com/news/filings/form-144-business-first-bancshares-for-27-july-93CH-4814948",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-28T04:00:18+08:00",
+    "stocks": [],
+    "uid": "9e09818eb4454c61c625211d6997dcc6",
+    "title_en": "Form 144 Business First Bancshares For: 27 July",
+    "summary_en": "",
+    "title_zh": "144 表格 Business First Bancshares 日期：7 月 27 日",
+    "summary_zh": ""
+  },
+  {
+    "title": "Nvidia's potential $250B backstop for OpenAI is another strike against the AI trade",
+    "url": "https://www.cnbc.com/2026/07/27/nvidias-potential-250b-backstop-for-openai-is-another-strike-against-the-ai-trade.html",
+    "source": "CNBC Top",
+    "summary": "This is yet another sign that investors need to look beyond AI stocks.",
+    "published_at": "2026-07-28T03:46:20+08:00",
+    "stocks": [],
+    "uid": "1e36b983d98faaa8236558983155058a",
+    "title_en": "Nvidia's potential $250B backstop for OpenAI is another strike against the AI trade",
+    "summary_en": "This is yet another sign that investors need to look beyond AI stocks.",
+    "title_zh": "Nvidia 為 OpenAI 提供的潛在 250B 美元支援是對人工智慧產業的另一個打擊",
+    "summary_zh": "這是投資者需要將目光投向人工智慧股票以外的另一個跡象。"
+  },
+  {
+    "title": "BWX Technologies vs. Archer Aviation: What Do the Revenue Trends of These Aerospace and Defense Companies Tell Investors?",
+    "url": "https://www.fool.com/coverage/charts/2026/07/27/bwx-technologies-vs-archer-aviation-what-do-the-revenue-trends-of-these-aerospace-and-defense-companies-tell-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "One company has logged eight straight quarters of $600M+ revenue; the other just crossed $1.6M in its first full quarter of sales.",
+    "published_at": "2026-07-28T03:46:01+08:00",
+    "stocks": [],
+    "uid": "fe43aa32847fd140c9489b2b2b1bc1b2",
+    "title_en": "BWX Technologies vs. Archer Aviation: What Do the Revenue Trends of These Aerospace and Defense Companies Tell Investors?",
+    "summary_en": "One company has logged eight straight quarters of $600M+ revenue; the other just crossed $1.6M in its first full quarter of sales.",
+    "title_zh": "BWX Technologies 與 Archer Aviation：這些航太和國防公司的收入趨勢告訴投資者什麼？",
+    "summary_zh": "一家公司連續八個季度收入超過 6 億美元；另一個在第一個完整季度的銷售額剛剛突破 160 萬美元。"
+  },
+  {
+    "title": "Will Helios Be the Catalyst AMD's Stock Needs to Hit a $1 Trillion Market Cap in 2026?",
+    "url": "https://www.fool.com/investing/2026/07/27/will-helios-be-the-catalyst-amds-stock-needs-to-hi/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Advanced Micro Devices recently launched its Helios racks, which could unlock much more growth for the business.",
+    "published_at": "2026-07-28T03:45:00+08:00",
+    "stocks": [],
+    "uid": "360103ff3340d95545950cc331e0feff",
+    "title_en": "Will Helios Be the Catalyst AMD's Stock Needs to Hit a $1 Trillion Market Cap in 2026?",
+    "summary_en": "Advanced Micro Devices recently launched its Helios racks, which could unlock much more growth for the business.",
+    "title_zh": "Helios 會成為 AMD 股票在 2026 年達到 1 兆美元市值所需的催化劑嗎？",
+    "summary_zh": "Advanced Micro Devices 最近推出了 Helios 機架，這可以為業務帶來更多成長。"
+  },
+  {
+    "title": "Dell Technologies vs. Planet Labs PBC: Which Technology Stock Is a Better Buy in 2026?",
+    "url": "https://www.fool.com/coverage/better-buy/2026/07/27/dell-technologies-vs-planet-labs-pbc-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "One trades at 21.9x forward earnings with $8.6B in free cash flow; the other with persistent losses and satellite risk.",
+    "published_at": "2026-07-28T03:41:01+08:00",
+    "stocks": [],
+    "uid": "2e344d9a14dbab1b75c4ab702e3b7615",
+    "title_en": "Dell Technologies vs. Planet Labs PBC: Which Technology Stock Is a Better Buy in 2026?",
+    "summary_en": "One trades at 21.9x forward earnings with $8.6B in free cash flow; the other with persistent losses and satellite risk.",
+    "title_zh": "Dell Technologies 與 Planet Labs PBC：2026 年哪種科技股比較值得買進？",
+    "summary_zh": "其中一筆交易的預期收益為 21.9 倍，自由現金流為 $8.6B；另一種則具有持續性損失和衛星風險。"
+  },
+  {
+    "title": "Alphabet's Massive AI Investment Push Signals More Gains Ahead for Nvidia",
+    "url": "https://www.fool.com/investing/2026/07/27/alphabets-massive-ai-investment-push-signals-more/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Alphabet has raised its 2026 capex outlook, which is good news for Nvidia investors.",
+    "published_at": "2026-07-28T03:33:00+08:00",
+    "stocks": [],
+    "uid": "e6ae6e8b0165de418d9f4f0c78546bfc",
+    "title_en": "Alphabet's Massive AI Investment Push Signals More Gains Ahead for Nvidia",
+    "summary_en": "Alphabet has raised its 2026 capex outlook, which is good news for Nvidia investors.",
+    "title_zh": "Alphabet 的大規模人工智慧投資推動 Nvidia 未來將獲得更多收益",
+    "summary_zh": "Alphabet 上調了 2026 年資本支出預期，這對 Nvidia 投資者來說是個好消息。"
+  },
+  {
+    "title": "Why ASML Holdings Plunged Today",
+    "url": "https://www.fool.com/investing/2026/07/27/why-asml-holdings-plunged-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Rumors of a new China-made DUV system caused a sell-off of the high-flying semiconductor king.",
+    "published_at": "2026-07-28T03:32:50+08:00",
+    "stocks": [],
+    "uid": "d4e6cc7fa7aa5c2bfb1d9ad2f488e408",
+    "title_en": "Why ASML Holdings Plunged Today",
+    "summary_en": "Rumors of a new China-made DUV system caused a sell-off of the high-flying semiconductor king.",
+    "title_zh": "為什麼 ASML Holdings 今天暴跌",
+    "summary_zh": "有關中國製造的新型 DUV 系統的傳言導致這家雄心勃勃的半導體巨頭遭到拋售。"
+  },
+  {
+    "title": "Crypto stocks rally thanks to rotation from AI infrastructure; bitcoin miners lag",
+    "url": "https://www.cnbc.com/2026/07/27/crypto-stocks-rally-thanks-to-rotation-from-ai-infrastructure-bitcoin-miners-lag.html",
+    "source": "CNBC Top",
+    "summary": "Crypto stocks proved some of the top gainers Monday even as the broader market sold off and  capital rotated away from chip and AI infrastructure names.",
+    "published_at": "2026-07-28T03:14:30+08:00",
+    "stocks": [],
+    "uid": "36df18ffd71a7e377b252b91cca16fe1",
+    "title_en": "Crypto stocks rally thanks to rotation from AI infrastructure; bitcoin miners lag",
+    "summary_en": "Crypto stocks proved some of the top gainers Monday even as the broader market sold off and  capital rotated away from chip and AI infrastructure names.",
+    "title_zh": "由於人工智慧基礎設施的輪換，加密貨幣股票上漲；比特幣礦工滯後",
+    "summary_zh": "儘管大盤拋售，資金從晶片和人工智慧基礎設施公司撤離，但加密貨幣股票週一還是漲幅居前的股票。"
+  },
+  {
+    "title": "Butterfly Network Founder Rothberg Sells Another 660,000 Shares. Should Investors Worry?",
+    "url": "https://www.fool.com/coverage/filings/2026/07/27/butterfly-network-founder-rothberg-sells-another-660-000-shares-should-investors-worry/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Insider executed sale under Rule 10b5-1 plan for estate planning after stock surged 250% over the past year. Post-transaction holdings total $59.17 million across direct and indirect positions.",
+    "published_at": "2026-07-28T03:12:01+08:00",
+    "stocks": [],
+    "uid": "8f56d67766e8410b9fac0c4e1345256a",
+    "title_en": "Butterfly Network Founder Rothberg Sells Another 660,000 Shares. Should Investors Worry?",
+    "summary_en": "Insider executed sale under Rule 10b5-1 plan for estate planning after stock surged 250% over the past year. Post-transaction holdings total $59.17 million across direct and indirect positions.",
+    "title_zh": "Butterfly Network 創辦人 Rothberg 又賣 66 萬股。投資者該擔心嗎？",
+    "summary_zh": "在過去一年股價飆升 250% 後，內部人士根據遺產規劃規則 10b5-1 計劃執行了出售。交易後直接和間接持倉總額為 5,917 萬美元。"
+  },
+  {
+    "title": "Salesforce Won a $1.6 Billion Federal AI Contract on Friday. Here's What It Says About Agentforce Demand.",
+    "url": "https://www.fool.com/investing/2026/07/27/salesforce-won-a-16-billion-federal-ai-contract-on/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The Department of Veterans Affairs just handed the software giant a $1.6 billion vote of confidence in its AI agents.",
+    "published_at": "2026-07-28T03:09:00+08:00",
+    "stocks": [],
+    "uid": "13345ee2772bd9db622e834392fdb44e",
+    "title_en": "Salesforce Won a $1.6 Billion Federal AI Contract on Friday. Here's What It Says About Agentforce Demand.",
+    "summary_en": "The Department of Veterans Affairs just handed the software giant a $1.6 billion vote of confidence in its AI agents.",
+    "title_zh": "Salesforce 週五贏得了價值 16 億美元的聯邦人工智慧合約。以下是關於 Agentforce 需求的描述。",
+    "summary_zh": "退伍軍人事務部剛剛向這家軟體巨頭對其人工智慧代理商投了價值 16 億美元的信任票。"
+  },
+  {
+    "title": "‘I know what he wants to do,’ Trump says of Fed’s Warsh, as president presses for rate cuts",
+    "url": "https://www.marketwatch.com/story/i-know-what-he-wants-to-do-trump-says-of-feds-warsh-as-president-presses-for-rate-cuts-edaa115e?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "New Federal Reserve Chair Kevin Warsh “wants to do the right thing” but is facing a Fed board that might oppose him, the president said.",
+    "published_at": "2026-07-28T03:06:00+08:00",
+    "stocks": [],
+    "uid": "1a6ae690fa9da12783af33f11a3e3cf0",
+    "title_en": "‘I know what he wants to do,’ Trump says of Fed’s Warsh, as president presses for rate cuts",
+    "summary_en": "New Federal Reserve Chair Kevin Warsh “wants to do the right thing” but is facing a Fed board that might oppose him, the president said.",
+    "title_zh": "在總統敦促降息之際，川普談到聯準會沃什時表示：“我知道他想做什麼”",
+    "summary_zh": "總統表示，新任聯準會主席凱文沃什“想做正確的事”，但面臨著可能反對他的聯準會董事會。"
+  },
+  {
+    "title": "Nvidia and SpaceX Just Joined a New AI Security Alliance. Here's What It Means for Both Stocks.",
+    "url": "https://www.fool.com/investing/2026/07/27/nvidia-and-spacex-just-joined-a-new-ai-security-alliance-heres-what-it-means-for-both-stocks/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Nvidia is rallying big tech around a new security mission.",
+    "published_at": "2026-07-28T03:02:01+08:00",
+    "stocks": [],
+    "uid": "ed3bf8226f8dfd1416314b0a49e09216",
+    "title_en": "Nvidia and SpaceX Just Joined a New AI Security Alliance. Here's What It Means for Both Stocks.",
+    "summary_en": "Nvidia is rallying big tech around a new security mission.",
+    "title_zh": "Nvidia 和 SpaceX 剛剛加入了新的人工智慧安全聯盟。這對兩隻股票意味著什麼。",
+    "summary_zh": "英偉達正在圍繞新的安全使命召集大型科技公司。"
+  },
+  {
+    "title": "Prediction: This Is How SpaceX Stock Will Do After Aug. 4",
+    "url": "https://www.fool.com/investing/2026/07/27/prediction-this-is-how-spacex-stock-will-do-after/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The space stock's struggles could still be in their early stages.",
+    "published_at": "2026-07-28T03:00:00+08:00",
+    "stocks": [],
+    "uid": "de604559227d8aaa437182f87805cf63",
+    "title_en": "Prediction: This Is How SpaceX Stock Will Do After Aug. 4",
+    "summary_en": "The space stock's struggles could still be in their early stages.",
+    "title_zh": "預測：這就是 8 月 4 日之後 SpaceX 股票的走勢",
+    "summary_zh": "太空股的困境可能仍處於早期階段。"
+  },
+  {
+    "title": "Prediction: Tesla Stock Will Plunge to $100 If the Nasdaq Enters a Bear Market",
+    "url": "https://www.fool.com/investing/2026/07/27/prediction-tesla-stock-will-plunge-to-100-if-the-n/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Tesla stock is vulnerable to significant downside because of its sky-high valuation.",
+    "published_at": "2026-07-28T03:00:00+08:00",
+    "stocks": [],
+    "uid": "d74c8eb331012e06ee79bf58e272e9b8",
+    "title_en": "Prediction: Tesla Stock Will Plunge to $100 If the Nasdaq Enters a Bear Market",
+    "summary_en": "Tesla stock is vulnerable to significant downside because of its sky-high valuation.",
+    "title_zh": "預測：如果納斯達克進入熊市，特斯拉股價將暴跌至 100 美元",
+    "summary_zh": "由於估值極高，特斯拉股票很容易遭受大幅下跌。"
+  },
+  {
+    "title": "From 'oil' to 'shock',  here's what Kalshi traders expect Fed Chair Kevin Warsh will say this week",
+    "url": "https://www.cnbc.com/2026/07/27/from-oil-to-shock-heres-what-kalshi-traders-expect-warsh-to-say.html",
+    "source": "CNBC Top",
+    "summary": "Kalshi traders are predicting Warsh will mention last week's supply shock at this week's Federal Reserve press conference.",
+    "published_at": "2026-07-28T02:58:23+08:00",
+    "stocks": [],
+    "uid": "45067c1c88b1113501a07e2623022d6b"
+  },
+  {
+    "title": "Dell Technologies vs. Snowflake: Which AI-Driven Stock Is a Better Buy in 2026?",
+    "url": "https://www.fool.com/coverage/better-buy/2026/07/27/dell-technologies-vs-snowflake-which-ai-driven-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Dell trades at a fraction of Snowflake's valuation, but one company generates profits while the other burns cash, the risk-reward calculus isn't obvious.",
+    "published_at": "2026-07-28T02:43:46+08:00",
+    "stocks": [],
+    "uid": "03a18808ac8179c9c0a8be02cccf7055"
+  },
+  {
+    "title": "Oceana Celebrates 25 Years and Raises More Than $1.7 Million at Annual SeaChange Summer Party",
+    "url": "https://markets.businessinsider.com/news/stocks/oceana-celebrates-25-years-and-raises-more-than-1-7-million-at-annual-seachange-summer-party-1036368504",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;LAGUNA BEACH, Calif., July  27, 2026  (GLOBE NEWSWIRE) -- Ocean advocates gathered at a private estate in Laguna Beach on Saturday, July 25, for Oceana’s 19&lt;sup&gt;th&lt;/sup&gt; annual SeaChange Summer Party, raising more than $1.7 million to support the...",
+    "published_at": "2026-07-28T02:40:07+08:00",
+    "stocks": [],
+    "uid": "e82f4038959df9680170f621749ba455"
+  },
+  {
+    "title": "Arm Holdings' Next Earnings Report on July 29 Could Send the Stock Soaring. Here's Why.",
+    "url": "https://www.fool.com/investing/2026/07/27/arm-holdings-next-earnings-report-on-july-29-could-send-the-stock-soaring-heres-why/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Arm could make a big move after its earnings report Wednesday.",
+    "published_at": "2026-07-28T02:40:01+08:00",
+    "stocks": [],
+    "uid": "3859b44b63050efbcac7ea5f8db2bdc0"
+  },
+  {
+    "title": "Erasca, Inc. Notice of August 10, 2026 Application Deadline for Class Action Lawsuit - Contact Lewis Kahn, Esq. at Kahn Swick & Foti, LLC, Before Application Deadline",
+    "url": "https://markets.businessinsider.com/news/stocks/erasca-inc.-notice-of-august-10-2026-application-deadline-for-class-action-lawsuit-contact-lewis-kahn-esq.-at-kahn-swick-foti-llc-before-application-deadline-1036257972",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/306736/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px;  height: 1px;border: 0px solid;&quot;&gt;New York, New York and New Orleans, Louisiana--(Newsfile Corp. - July 27, 2026) - &lt;a href=&quot;https://api.newsfilecorp.com/redirect/bgLK5TaV5A&quot; rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot;&gt;Kahn Swick  Foti&lt;/a&gt;,...",
+    "published_at": "2026-07-28T02:40:00+08:00",
+    "stocks": [],
+    "uid": "aa427eaadab8fdeab18e69748c19f7a7"
+  },
+  {
+    "title": "Palmetto Publishing Releases Albina Victorovna Farris's Memoir of Ukrainian Village Life Under the USSR",
+    "url": "https://markets.businessinsider.com/news/stocks/palmetto-publishing-releases-albina-victorovna-farris-s-memoir-of-ukrainian-village-life-under-the-ussr-1036368503",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;Charleston, SC, July  27, 2026  (GLOBE NEWSWIRE) -- Palmetto Publishing has released&#160;&lt;em&gt;The Great Vorobey Migration&lt;/em&gt;, a debut memoir by Albina Victorovna Farris. The book recounts the author's upbringing as one of ten children in a small...",
+    "published_at": "2026-07-28T02:39:06+08:00",
+    "stocks": [],
+    "uid": "61d304ccd83c2faf82af192dd7a2c56a"
+  },
+  {
+    "title": "PayPal Acquisition Rumors: Is the Stock Still a Buy?",
+    "url": "https://www.fool.com/investing/2026/07/27/paypal-acquisition-rumors-is-the-stock-still-a-buy/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The stock looks cheap even if Stripe doesn't buy the company.",
+    "published_at": "2026-07-28T02:38:20+08:00",
+    "stocks": [],
+    "uid": "dfb70d867c3839196c97d659bb3c4d1e"
+  },
+  {
+    "title": "EquipmentShare.com Inc. Notice of September 21, 2026 Application Deadline for Class Action Lawsuit - Contact Lewis Kahn, Esq. at Kahn Swick & Foti, LLC, Before Application Deadline",
+    "url": "https://markets.businessinsider.com/news/stocks/equipmentshare.com-inc.-notice-of-september-21-2026-application-deadline-for-class-action-lawsuit-contact-lewis-kahn-esq.-at-kahn-swick-foti-llc-before-application-deadline-1036368500",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/306734/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px;  height: 1px;border: 0px solid;&quot;&gt;New York, New York and New Orleans, Louisiana--(Newsfile Corp. - July 27, 2026) - &lt;a href=&quot;https://api.newsfilecorp.com/redirect/wEQZqcrYOB&quot; rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot;&gt;Kahn Swick  Foti&lt;/a&gt;,...",
+    "published_at": "2026-07-28T02:37:00+08:00",
+    "stocks": [],
+    "uid": "461f928e1a8a13b935ce6d98231b436b"
+  },
+  {
+    "title": "Palmetto Publishing Releases Skip Van Gardner's Debut Novel About Surviving a Year That Nearly Broke Him",
+    "url": "https://markets.businessinsider.com/news/stocks/palmetto-publishing-releases-skip-van-gardner-s-debut-novel-about-surviving-a-year-that-nearly-broke-him-1036368501",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;Charleston, SC, July  27, 2026  (GLOBE NEWSWIRE) -- Palmetto Publishing has released&#160;&lt;em&gt;Pivoting&#160;From&#160;Blue:&lt;/em&gt;&lt;em&gt;&#160;&lt;/em&gt;&lt;em&gt;One Year of Death, Divorce and Discovery&lt;/em&gt;,&#160;the debut work of faction by Skip Van Gardner. The book delivers a deeply...",
+    "published_at": "2026-07-28T02:36:33+08:00",
+    "stocks": [],
+    "uid": "b606503b61081b85fe59c2b55b64d832"
+  },
+  {
+    "title": "Vanguard Announces Cash Distributions for the Vanguard ETFs",
+    "url": "https://markets.businessinsider.com/news/stocks/vanguard-announces-cash-distributions-for-the-vanguard-etfs-1036368487",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;justify&quot;&gt;TORONTO, July  27, 2026  (GLOBE NEWSWIRE) -- Vanguard Investments Canada Inc. today announced the final July 2026 cash distributions for certain Vanguard ETFs, listed below, that trade on Cboe Canada and the Toronto Stock Exchange...",
+    "published_at": "2026-07-28T02:27:56+08:00",
+    "stocks": [],
+    "uid": "99edaec4b4112bf0ae38966013f509ed"
+  },
+  {
+    "title": "Dell Technologies vs. Marvell Technology: Which Artificial Intelligence Infrastructure Stock Is a Better Buy in 2026?",
+    "url": "https://www.fool.com/coverage/better-buy/2026/07/27/dell-technologies-vs-marvell-technology-which-artificial-intelligence-infrastructure-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Dell trades at a fraction of Marvell's valuation multiple, but one company is growing revenue 42% annually with a 32.6% net margin.",
+    "published_at": "2026-07-28T02:26:02+08:00",
+    "stocks": [],
+    "uid": "0805864ec4e45d06a896f270b1a2844d"
+  },
+  {
+    "title": "JetBlue is introducing a 'basic first class' fare as airlines continue unbundling premium travel",
+    "url": "https://www.businessinsider.com/how-jetblue-airways-new-basic-first-class-will-work-2026-7",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-07-28T02:26:00+08:00",
+    "stocks": [],
+    "uid": "9e0bfdfcafb2999f5caf802553304a9c"
+  },
+  {
+    "title": "Oracle Stock Is Down 64% in 10 Months. Is This the Best Buying Opportunity in AI -- or a Falling Knife?",
+    "url": "https://www.fool.com/investing/2026/07/27/oracle-stock-down-buy-opportunity-ai-trap/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Oracle was one of the hottest AI stocks just nine months ago -- now it's down more than 63%. What gives?",
+    "published_at": "2026-07-28T02:26:00+08:00",
+    "stocks": [],
+    "uid": "43bbcf3923d23f8b76c3402053379810"
+  },
+  {
+    "title": "Genco Shipping & Trading Limited Issues Statement in Response to Expiration of Diana Shipping’s Tender Offer",
+    "url": "https://markets.businessinsider.com/news/stocks/genco-shipping-trading-limited-issues-statement-in-response-to-expiration-of-diana-shipping-s-tender-offer-1036368410",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;center&quot;&gt;&lt;em&gt;Genco Will Continue to Engage in Good Faith Discussions with Diana and Act in the Best Interests of Genco Shareholders&lt;/em&gt;&lt;p align=&quot;center&quot;&gt;&lt;em&gt;Genco’s Board Continues to Review Diana’s Separate Non-Binding Indicative...",
+    "published_at": "2026-07-28T02:25:00+08:00",
+    "stocks": [],
+    "uid": "275533d03a415ab0d03851aacf12639c"
+  },
+  {
+    "title": "ROSEN, TOP RANKED GLOBAL COUNSEL, Encourages Wise Group plc Investors to Inquire About Securities Class Action Investigation - WSE",
+    "url": "https://markets.businessinsider.com/news/stocks/rosen-top-ranked-global-counsel-encourages-wise-group-plc-investors-to-inquire-about-securities-class-action-investigation-wse-1036368408",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/306677/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px;  height: 1px;border: 0px solid;&quot;&gt;New York, New York--(Newsfile Corp. - July 27, 2026) - &lt;b&gt;WHY: &lt;/b&gt;Rosen Law Firm, a global investor rights law firm, continues to investigate potential securities claims on behalf of shareholders of Wise...",
+    "published_at": "2026-07-28T02:24:00+08:00",
+    "stocks": [],
+    "uid": "96df352cc96c03001b9e5540e7ad7286"
+  },
+  {
+    "title": "ORYZON Reports Financial Results and Corporate Update for Half Year Ended June 30th, 2026",
+    "url": "https://markets.businessinsider.com/news/stocks/oryzon-reports-financial-results-and-corporate-update-for-half-year-ended-june-30th-2026-1036368411",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;center&quot;&gt;&lt;ul type=&quot;disc&quot;&gt;&lt;li style=&quot;margin-bottom:6pt;&quot;&gt;Positive clinical data presented at EHA for iadademstat in first line acute myeloid leukemia (AML); iadademstat+azacitidine+venetoclax resulted in 100% ORR, 89% CRc and 78% CR,...",
+    "published_at": "2026-07-28T02:23:54+08:00",
+    "stocks": [
+      "AML"
+    ],
+    "uid": "afe0f74be640469651c5cbbc95569251"
+  },
+  {
+    "title": "This Could Be the Most Important 401(k) Move You'll Make All Year",
+    "url": "https://www.fool.com/retirement/2026/07/27/this-could-be-the-most-important-401k-move-youll-m/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "If there's one thing to prioritize, it's this.",
+    "published_at": "2026-07-28T02:18:00+08:00",
+    "stocks": [],
+    "uid": "6ff84cbaa3c877c119c22bcbd45b841a"
+  },
+  {
     "title": "Trump backs 'fantastic' Warsh while calling for lower rates and citing 'bad intentions' of other Fed officials",
     "url": "https://www.cnbc.com/2026/07/27/trump-warsh-interest-rates.html",
     "source": "CNBC Top",
@@ -11,6 +491,15 @@
     "summary_en": "President Trump Monday voiced support for Federal Reserve Chairman Kevin Warsh while insisting that the U.S. should have the lowest interest rates in the world.",
     "title_zh": "川普支持“出色的”沃什，同時呼籲降低利率並引用其他聯準會官員的“不良意圖”",
     "summary_zh": "川普總統週一表示支持聯準會主席凱文沃什，同時堅稱美國應該擁有世界上最低的利率。"
+  },
+  {
+    "title": "Norwegian Cruise Line Is Down 19% This Year and Reports Earnings July 30. Is Now the Time to Buy?",
+    "url": "https://www.fool.com/investing/2026/07/27/norwegian-cruise-line-is-down-19-this-year-and-rep/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "There may be a better way to play a rebound in cruise ship stocks.",
+    "published_at": "2026-07-28T02:15:00+08:00",
+    "stocks": [],
+    "uid": "282c7c26f3e08fbe1d6fb55f569d610a"
   },
   {
     "title": "Mizuho names top retailing pick on delivery network strength",
@@ -154,6 +643,51 @@
     "summary_en": "",
     "title_zh": "Stagwell 將收購哥倫比亞 Adob​​e 顧問公司 QStrauss",
     "summary_zh": ""
+  },
+  {
+    "title": "Analyst Report: Kinder Morgan Inc",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_3637_AnalystReport_1785174452000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T01:47:32+08:00",
+    "stocks": [],
+    "uid": "ba1962972c1a467d2dec7e2814ef7d06"
+  },
+  {
+    "title": "Analyst Report: 3M Co",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_3200_AnalystReport_1785174452000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T01:47:32+08:00",
+    "stocks": [],
+    "uid": "55c50c5fc8ee95e89e1adc1402fe3482"
+  },
+  {
+    "title": "Analyst Report: Harley-Davidson Inc",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_3052_AnalystReport_1785174452000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T01:47:32+08:00",
+    "stocks": [],
+    "uid": "b458732c6443a03ba9b00e63ae83cc28"
+  },
+  {
+    "title": "Analyst Report: Gentherm Inc",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_2728_AnalystReport_1785174452000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T01:47:32+08:00",
+    "stocks": [],
+    "uid": "a1c017d42019418eefd219ecbb00e92d"
+  },
+  {
+    "title": "Analyst Report: W R Berkley Corp",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_4381_AnalystReport_1785174452000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T01:47:32+08:00",
+    "stocks": [],
+    "uid": "3af133083ca6226bd2edc38feb38b244"
   },
   {
     "title": "Neinor Homes opens a new era with record 1H26 results as Spain largest homebuilder",
@@ -1410,6 +1944,15 @@
     "published_at": "2026-07-27T21:46:11+08:00",
     "stocks": [],
     "uid": "78a76f454844b6b03e66b80d625b3fac"
+  },
+  {
+    "title": "A Son of Wealth Finds His Calling in a High-End Grocery Store",
+    "url": "https://www.nytimes.com/2026/07/26/style/meadow-lane-sammy-nussdorf.html",
+    "source": "NYT Business",
+    "summary": "How the scion Sammy Nussdorf found his calling among the carefully arranged shelves of Meadow Lane, his chic market in Lower Manhattan.",
+    "published_at": "2026-07-27T21:45:01+08:00",
+    "stocks": [],
+    "uid": "d2cb6488d17d0cec8080b5f1331cdebf"
   },
   {
     "title": "Here's Why Shares of American Express Are Plummeting",
@@ -6346,6 +6889,15 @@
     "summary_zh": ""
   },
   {
+    "title": "Prediction: Buying NuScale Power Today Could Set You Up for Life",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-buying-nuscale-power-today-110700635.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-26T19:07:00+08:00",
+    "stocks": [],
+    "uid": "cff9708ef7d38f34dbdc66dcb8b2fe34"
+  },
+  {
     "title": "Salesforce vs. ServiceNow: Which Agentic AI Stock Is Actually the Better Buy Right Now?",
     "url": "https://www.fool.com/investing/2026/07/26/salesforce-vs-servicenow-which-agentic-ai-stock-is/?source=iedfolrf0000001",
     "source": "Motley Fool",
@@ -6366,6 +6918,24 @@
     "published_at": "2026-07-26T19:05:00+08:00",
     "stocks": [],
     "uid": "50c6ecb4d65d5aea6d04559782851e0b"
+  },
+  {
+    "title": "Capital Economics Warns Foreign Buying Boom Could Signal Risks for the S&P 500",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/capital-economics-warns-foreign-buying-110400048.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-26T19:04:00+08:00",
+    "stocks": [],
+    "uid": "85bced0fe83e476c6ab719fa0c40f1ae"
+  },
+  {
+    "title": "She Inherited Mineral Rights She Didn’t Know She Owned. Do the Royalty Checks Shrink Her Social Security?",
+    "url": "https://finance.yahoo.com/real-estate/articles/she-inherited-mineral-rights-she-110317403.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-26T19:03:17+08:00",
+    "stocks": [],
+    "uid": "a111143c3adf958eaa3143d728fb3475"
   },
   {
     "title": "InvestingPro’s Fair Value spotted Navitas overvaluation before 51% drop",
@@ -6401,6 +6971,15 @@
     "published_at": "2026-07-26T19:00:00+08:00",
     "stocks": [],
     "uid": "091620cb2311b7028d1583d50a12a4b5"
+  },
+  {
+    "title": "Two Central Banks Decide Interest Rates Next Week: What It Means for Bitcoin",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/two-central-banks-decide-interest-110000531.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-26T19:00:00+08:00",
+    "stocks": [],
+    "uid": "46bbba30377349e614dd65df29816b85"
   },
   {
     "title": "UniCredit CEO says deal with Commerzbank likely as talks resume",
