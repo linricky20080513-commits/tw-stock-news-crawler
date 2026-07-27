@@ -1,5 +1,553 @@
 [
   {
+    "title": "韓國獲利贏台積電為何估值仍落後？ 韓媒點出台灣脫穎而出原因",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5519721",
+    "source": "自由財經",
+    "summary": "台灣與韓國是人工智慧（AI）熱潮最大受惠國，儘管三星電子與SK海力士的獲利遠高於台積電，但在股票市場上，韓股的估值卻低於台灣。韓國放送公社（KBS）長文分析，關鍵在於過去...…",
+    "published_at": "2026-07-27T23:58:40+08:00",
+    "stocks": [],
+    "uid": "ebec4bfb8930aead1719a0e341af4627",
+    "title_zh": "韓國獲利贏台積電為何估值仍落後？ 韓媒點出台灣脫穎而出原因",
+    "summary_zh": "台灣與韓國是人工智慧（AI）熱潮最大受惠國，儘管三星電子與SK海力士的獲利遠高於台積電，但在股票市場上，韓股的估值卻低於台灣。韓國放送公社（KBS）長文分析，關鍵在於過去...…",
+    "title_en": "Why is South Korea's profit-winning TSMC still lagging behind in valuation? Korean media points out why Taiwan stands out",
+    "summary_en": "Taiwan and South Korea are the biggest beneficiaries of the artificial intelligence (AI) boom. Although the profits of Samsung Electronics and SK Hynix are much higher than those of TSMC, the valuation of Korean stocks is lower than that of Taiwan in the stock market. Korea Broadcasting Corporation (KBS) long article analysis, the key lies in the past..."
+  },
+  {
+    "title": "貿聯6月每股賺6.05元 純益逾11億 年增六成",
+    "url": "https://money.udn.com/money/story/5710/9654193",
+    "source": "經濟日報",
+    "summary": "線束大廠貿聯-KY（3665）昨（27）日公告自結6月稅後純益11.8億元，年增60.78%，單月每股純益6.05元。法人看好，隨著下半年旺季到來，貿聯業績可望持續上揚。",
+    "published_at": "2026-07-27T23:53:16+08:00",
+    "stocks": [],
+    "uid": "5b3c908ea4e4171ef54d73a90565a055",
+    "title_zh": "貿聯6月每股賺6.05元 純益逾11億 年增六成",
+    "summary_zh": "線束大廠貿聯-KY（3665）昨（27）日公告自結6月稅後純益11.8億元，年增60.78%，單月每股純益6.05元。法人看好，隨著下半年旺季到來，貿聯業績可望持續上揚。",
+    "title_en": "BizLink earned 6.05 yuan per share in June, with net profit exceeding 1.1 billion, a year-on-year increase of 60%",
+    "summary_en": "Bizlian-KY (3665), a major wire harness manufacturer, announced yesterday (27th) that its net profit after tax for June ended at 1.18 billion yuan, an annual increase of 60.78%, and its net profit per share in a single month was 6.05 yuan. Legal persons are optimistic that with the arrival of the peak season in the second half of the year, BizLink's performance is expected to continue to rise."
+  },
+  {
+    "title": "伺服器 CPU 概念 外資挺 台積、信驊等股價還有表現空間",
+    "url": "https://money.udn.com/money/story/5607/9654291",
+    "source": "經濟日報",
+    "summary": "英特爾公布財報後，美銀及瑞銀證券都發布亞太半導體報告指出，AI帶動伺服器CPU需求強勁，嘉惠供應鏈ODM、載板、插槽、記憶體及封裝廠商，個人電腦（PC）需求則持續承壓，看好台積電（2330）、緯穎等13檔台股。",
+    "published_at": "2026-07-27T23:52:19+08:00",
+    "stocks": [
+      "2330",
+      "6669",
+      "5274"
+    ],
+    "uid": "c3ec1e3ffad27aacb1e79ec7f260f115",
+    "title_zh": "伺服器 CPU 概念 外資挺 台積、信驊等股價還有表現空間",
+    "summary_zh": "英特爾公布財報後，美銀及瑞銀證券都發布亞太半導體報告指出，AI帶動伺服器CPU需求強勁，嘉惠供應鏈ODM、載板、插槽、記憶體及封裝廠商，個人電腦（PC）需求則持續承壓，看好台積電（2330）、緯穎等13檔台股。",
+    "title_en": "The concept of server CPU is supported by foreign investors. The stock prices of TSMC, Xinhua, etc. still have room for performance.",
+    "summary_en": "After Intel released its financial report, Bank of America and UBS Securities both released Asia-Pacific Semiconductor Reports, pointing out that AI drives strong demand for server CPUs, and Jiahui supply chain ODM, carrier board, slot, memory and packaging manufacturers, while personal computer (PC) demand continues to be under pressure. They are optimistic about 13 Taiwanese stocks including TSMC (2330) and Wiwynn."
+  },
+  {
+    "title": "就市論勢／記憶體股 中長線看俏",
+    "url": "https://money.udn.com/money/story/5607/9654296",
+    "source": "經濟日報",
+    "summary": "上周包括半導體在內的美國科技股表現疲軟，投資人對於AI巨額資本支出能否帶來足夠回報，感到懷疑。",
+    "published_at": "2026-07-27T23:50:04+08:00",
+    "stocks": [],
+    "uid": "92e05616c2755959e24cdcc260183b4b",
+    "title_zh": "就市論勢／記憶體股 中長線看俏",
+    "summary_zh": "上周包括半導體在內的美國科技股表現疲軟，投資人對於AI巨額資本支出能否帶來足夠回報，感到懷疑。",
+    "title_en": "Market Situation/Memory stocks are bullish in the medium to long term",
+    "summary_en": "U.S. technology stocks, including semiconductors, performed weak last week, with investors doubting whether huge capital expenditures on AI can bring enough returns."
+  },
+  {
+    "title": "國泰證 AI 服務升級",
+    "url": "https://money.udn.com/money/story/5607/9654294",
+    "source": "經濟日報",
+    "summary": "隨著生成式AI快速發展，金融服務正從數位化邁向智慧化，投資人面對日益龐大的市場資訊，需要的不只是資訊本身，而是在對的時間獲得與自身投資相關、具參考價值的內容。",
+    "published_at": "2026-07-27T23:49:36+08:00",
+    "stocks": [],
+    "uid": "db60505fdfe7a0257ad1ca1b5efe73cb",
+    "title_zh": "國泰證 AI 服務升級",
+    "summary_zh": "隨著生成式AI快速發展，金融服務正從數位化邁向智慧化，投資人面對日益龐大的市場資訊，需要的不只是資訊本身，而是在對的時間獲得與自身投資相關、具參考價值的內容。",
+    "title_en": "Cathay Securities AI Service Upgrade",
+    "summary_en": "With the rapid development of generative AI, financial services are moving from digitization to intelligence. Faced with an increasingly large amount of market information, investors need not only the information itself, but also content that is relevant to their investment and has reference value at the right time."
+  },
+  {
+    "title": "大量6月 EPS 2.69元 在手訂單創高",
+    "url": "https://money.udn.com/money/story/5710/9654194",
+    "source": "經濟日報",
+    "summary": "大量（3167）因有價證券於集中交易市場達公布注意交易資訊標準，昨（27）日應主管機關要求，公告自結6月稅後純益2.43億元，年增165.28%，每股純益2.69元。",
+    "published_at": "2026-07-27T23:49:23+08:00",
+    "stocks": [
+      "3167"
+    ],
+    "uid": "31e14ce823e67fe0c4a2694d68ac62fa",
+    "title_zh": "大量6月 EPS 2.69元 在手訂單創高",
+    "summary_zh": "大量（3167）因有價證券於集中交易市場達公布注意交易資訊標準，昨（27）日應主管機關要求，公告自結6月稅後純益2.43億元，年增165.28%，每股純益2.69元。",
+    "title_en": "A large number of June EPS is 2.69 yuan, orders on hand hit a record high",
+    "summary_en": "A large number (3167) of securities in the centralized trading market met the standards for publishing cautionary transaction information. Yesterday (27th), at the request of the competent authority, it announced a net profit after tax of 243 million yuan for June, an annual increase of 165.28%, and a net profit per share of 2.69 yuan."
+  },
+  {
+    "title": "宏碁 Chromebook 銷售報捷",
+    "url": "https://money.udn.com/money/story/5710/9654196",
+    "source": "經濟日報",
+    "summary": "PC品牌大廠宏碁（2353）衝刺Chromebook業務報捷。受惠教育市場需求提升，宏碁第2季在泛歐Chromebook市場以36%市占率位居第一，年增8.4%，約為整體產業成長率的兩倍（均值2.5%），展現穩健的市場競爭力與動能。",
+    "published_at": "2026-07-27T23:49:22+08:00",
+    "stocks": [
+      "2353"
+    ],
+    "uid": "517878fff442b59c67be4116cf5cabd2",
+    "title_zh": "宏碁 Chromebook 銷售報捷",
+    "summary_zh": "PC品牌大廠宏碁（2353）衝刺Chromebook業務報捷。受惠教育市場需求提升，宏碁第2季在泛歐Chromebook市場以36%市占率位居第一，年增8.4%，約為整體產業成長率的兩倍（均值2.5%），展現穩健的市場競爭力與動能。",
+    "title_en": "Acer Chromebook sales record",
+    "summary_en": "Major PC brand Acer (2353) achieved success in its Chromebook business. Benefiting from the increasing demand in the education market, Acer ranked first in the pan-European Chromebook market in the second quarter with a market share of 36%, an annual increase of 8.4%, which is approximately twice the overall industry growth rate (average 2.5%), demonstrating solid market competitiveness and momentum."
+  },
+  {
+    "title": "先進製程材料鏈 有戲",
+    "url": "https://money.udn.com/money/story/5607/9654292",
+    "source": "經濟日報",
+    "summary": "台積電（2330）持續擴大先進製程產能，相關材料供應商可望受惠。隨著先進製程投片量激增，帶動半導體先進材料與相關耗材需求強勁噴發，包括中砂、昇陽半、光洋科等關鍵供應鏈廠商均營運動能亮眼。",
+    "published_at": "2026-07-27T23:48:07+08:00",
+    "stocks": [
+      "2330"
+    ],
+    "uid": "cab86137ead46af2b5b7d945c7e3590b",
+    "title_zh": "先進製程材料鏈 有戲",
+    "summary_zh": "台積電（2330）持續擴大先進製程產能，相關材料供應商可望受惠。隨著先進製程投片量激增，帶動半導體先進材料與相關耗材需求強勁噴發，包括中砂、昇陽半、光洋科等關鍵供應鏈廠商均營運動能亮眼。",
+    "title_en": "Advanced process material chain has potential",
+    "summary_en": "TSMC (2330) continues to expand its advanced process production capacity, and related material suppliers are expected to benefit. With the surge in advanced process wafer production, the demand for advanced semiconductor materials and related consumables has surged, including key supply chain manufacturers such as China Semiconductor, Sun Semiconductor, and Koyangke."
+  },
+  {
+    "title": "世界銷售均價逐季升溫",
+    "url": "https://money.udn.com/money/story/11074/9654293",
+    "source": "經濟日報",
+    "summary": "晶圓代工廠世界先進（5347）預計8月4日召開法說會公布展望。世界先進日前公布6月營收59.77億元，創新高，月成長40.9%，年成長33.6%；累計第2季合併營收142.45億元，季增14%、年增22%，為歷年次高紀錄。法人看好，受惠市場需求提升下半年成熟製程報價上漲，銷售均價有機會逐季升溫。",
+    "published_at": "2026-07-27T23:47:32+08:00",
+    "stocks": [
+      "5347"
+    ],
+    "uid": "03b20e8d7cbf24848cbe25eacfb27efe",
+    "title_zh": "世界銷售均價逐季升溫",
+    "summary_zh": "晶圓代工廠世界先進（5347）預計8月4日召開法說會公布展望。世界先進日前公布6月營收59.77億元，創新高，月成長40.9%，年成長33.6%；累計第2季合併營收142.45億元，季增14%、年增22%，為歷年次高紀錄。法人看好，受惠市場需求提升下半年成熟製程報價上漲，銷售均價有機會逐季升溫。",
+    "title_en": "World average sales price increases quarter by quarter",
+    "summary_en": "The world's leading wafer foundry (5347) is expected to hold a press conference on August 4 to announce its outlook. World Advanced recently announced its June revenue of 5.977 billion yuan, a new high, with a monthly growth of 40.9% and an annual growth of 33.6%. The cumulative second quarter consolidated revenue was 14.245 billion yuan, a quarterly increase of 14% and an annual increase of 22%, the second highest record in history. The legal person is optimistic that due to the increase in market demand, quotations for mature processes will rise in the second half of the year, and the average sales price will likely increase quarter by quarter."
+  },
+  {
+    "title": "華星光、上詮迎 CPO 商機",
+    "url": "https://money.udn.com/money/story/5607/9654231",
+    "source": "經濟日報",
+    "summary": "研調機構集邦科技（TrendForce）昨（27）日發布最新報告指出，隨著輝達出貨新一代Spectrum-X 共同封裝光學（CPO）交換器給部分合作夥伴、博通的51.2T Bailly CPO交換器持續小量出貨，象徵CPO邁入量產階段。",
+    "published_at": "2026-07-27T23:46:34+08:00",
+    "stocks": [],
+    "uid": "c27c791201b6c85e284c9f7f6a362edd",
+    "title_zh": "華星光、上詮迎 CPO 商機",
+    "summary_zh": "研調機構集邦科技（TrendForce）昨（27）日發布最新報告指出，隨著輝達出貨新一代Spectrum-X 共同封裝光學（CPO）交換器給部分合作夥伴、博通的51.2T Bailly CPO交換器持續小量出貨，象徵CPO邁入量產階段。",
+    "title_en": "Huaxingguang and Shangquan welcome CPO business opportunities",
+    "summary_en": "Research organization TrendForce released its latest report yesterday (27th) stating that as Huida shipped a new generation of Spectrum-X co-packaged optics (CPO) switches to some partners, Broadcom's 51.2T Bailly CPO switches continued to be shipped in small quantities, symbolizing that CPO has entered the mass production stage."
+  },
+  {
+    "title": "昇達科上半年賺贏去年 低軌衛星接單熱 營運將升溫",
+    "url": "https://money.udn.com/money/story/11074/9654237",
+    "source": "經濟日報",
+    "summary": "低軌衛星暨無線通訊元件廠昇達科（3491）昨（27） 日公布第2季財報，單季稅後純益3.07億元，季增17%，年增330%，每股純益4.47元；上半年稅後純益5.6億元，年增161%，並超越去年獲利總和，每股純益8.15元。",
+    "published_at": "2026-07-27T23:45:21+08:00",
+    "stocks": [
+      "3491"
+    ],
+    "uid": "209521fa52c4e66fa0860bc53b4185de",
+    "title_zh": "昇達科上半年賺贏去年 低軌衛星接單熱 營運將升溫",
+    "summary_zh": "低軌衛星暨無線通訊元件廠昇達科（3491）昨（27） 日公布第2季財報，單季稅後純益3.07億元，季增17%，年增330%，每股純益4.47元；上半年稅後純益5.6億元，年增161%，並超越去年獲利總和，每股純益8.15元。",
+    "title_en": "Sundas made more money than last year in the first half of the year. Low-orbit satellite orders are booming and operations will heat up.",
+    "summary_en": "Low-orbit satellite and wireless communication components manufacturer Shengdako (3491) announced its second-quarter financial report yesterday (27th). The net profit after tax for the single quarter was 307 million yuan, a quarterly increase of 17%, an annual increase of 330%, and a net profit per share of 4.47 yuan. In the first half of the year, the after-tax net profit was 560 million yuan, an annual increase of 161%, and exceeded the total profit last year, with a net profit per share of 8.15 yuan."
+  },
+  {
+    "title": "雅特力上半年 EPS 4元 Q2增六倍",
+    "url": "https://money.udn.com/money/story/11074/9654239",
+    "source": "經濟日報",
+    "summary": "智原旗下微控制器（MCU）廠雅特力-KY（6907）昨（27）日公布第2季財報，單季「三率三升」，獲利不但季增逾一倍，更較去年同期大增超過六倍，每股純益為2.79元，上半年每股純益為4元。",
+    "published_at": "2026-07-27T23:43:24+08:00",
+    "stocks": [
+      "2908"
+    ],
+    "uid": "09ecff6f45be87dfc824b2aa32f55456",
+    "title_zh": "雅特力上半年 EPS 4元 Q2增六倍",
+    "summary_zh": "智原旗下微控制器（MCU）廠雅特力-KY（6907）昨（27）日公布第2季財報，單季「三率三升」，獲利不但季增逾一倍，更較去年同期大增超過六倍，每股純益為2.79元，上半年每股純益為4元。",
+    "title_en": "Yatli's EPS in the first half of the year increased sixfold to RMB 4 in Q2",
+    "summary_en": "Faraday's microcontroller (MCU) factory Yatori-KY (6907) announced its second-quarter financial report yesterday (27th), with \"three gains and three increases\" in a single quarter. Not only did its profits more than double the quarter, but it also increased more than six times compared with the same period last year. The net profit per share was 2.79 yuan, and the net profit per share in the first half of the year was 4 yuan."
+  },
+  {
+    "title": "矽統上半年每股純益0.2元",
+    "url": "https://money.udn.com/money/story/5710/9654240",
+    "source": "經濟日報",
+    "summary": "IC設計廠矽統（2363）昨（27）日公布第2季財報，以既有資本額計算，單季每股純益約0.03元，上半年每股純益0.2元。",
+    "published_at": "2026-07-27T23:42:38+08:00",
+    "stocks": [
+      "2363"
+    ],
+    "uid": "dd9976e62e5f5523833c706e4f30b54c",
+    "title_zh": "矽統上半年每股純益0.2元",
+    "summary_zh": "IC設計廠矽統（2363）昨（27）日公布第2季財報，以既有資本額計算，單季每股純益約0.03元，上半年每股純益0.2元。",
+    "title_en": "Silicon Systems' net income per share in the first half of the year was 0.2 yuan",
+    "summary_en": "IC design factory Silicon Systems (2363) announced its second quarter financial report yesterday (27th). Calculated based on existing capital, the net profit per share in the single quarter was approximately 0.03 yuan, and the net profit per share in the first half of the year was 0.2 yuan."
+  },
+  {
+    "title": "波若威上月每股純益0.82元",
+    "url": "https://money.udn.com/money/story/11074/9654233",
+    "source": "經濟日報",
+    "summary": "光通訊廠波若威（3163）昨（27）日公布自結6月稅前盈餘7,700萬元，年增約20%；單月稅後純益6,600萬元，年增8%，每股純益0.82元。",
+    "published_at": "2026-07-27T23:42:36+08:00",
+    "stocks": [
+      "3163"
+    ],
+    "uid": "d3b806f42a12406f37c236ac7009f770",
+    "title_zh": "波若威上月每股純益0.82元",
+    "summary_zh": "光通訊廠波若威（3163）昨（27）日公布自結6月稅前盈餘7,700萬元，年增約20%；單月稅後純益6,600萬元，年增8%，每股純益0.82元。",
+    "title_en": "Boruowei's net profit per share last month was 0.82 yuan",
+    "summary_en": "Optical communications factory Boruowei (3163) announced yesterday (27th) that it had a pre-tax profit of 77 million yuan in June, an annual increase of about 20%; a single-month after-tax net profit of 66 million yuan, an annual increase of 8%, and a net profit per share of 0.82 yuan."
+  },
+  {
+    "title": "中光電上半年每股淨損0.5元",
+    "url": "https://money.udn.com/money/story/11074/9654241",
+    "source": "經濟日報",
+    "summary": "背光模組大廠中光電（5371）昨（27）日公告第2季財報，單季稅後淨損7,729.7萬元，連續兩季繳出虧損成績單，惟虧損較首季收斂，每股淨損0.2元，不如去年同期獲利；上半年稅後淨損1.96億元，每股淨損0.5元。",
+    "published_at": "2026-07-27T23:42:31+08:00",
+    "stocks": [
+      "5371"
+    ],
+    "uid": "4a9c06c5ad905b6267625674f008b1f1",
+    "title_zh": "中光電上半年每股淨損0.5元",
+    "summary_zh": "背光模組大廠中光電（5371）昨（27）日公告第2季財報，單季稅後淨損7,729.7萬元，連續兩季繳出虧損成績單，惟虧損較首季收斂，每股淨損0.2元，不如去年同期獲利；上半年稅後淨損1.96億元，每股淨損0.5元。",
+    "title_en": "China Optoelectronics' net loss per share in the first half of the year was 0.5 yuan",
+    "summary_en": "Zhongguang Electronics (5371), a major backlight module manufacturer, announced its second quarter financial report yesterday (27th). It recorded a net loss after tax of 77.297 million yuan in a single quarter. It has posted losses for two consecutive quarters. However, the loss has converged compared with the first quarter. The net loss per share was 0.2 yuan, which was not as good as the profit in the same period last year. The net loss after tax in the first half of the year was 196 million yuan, and the net loss per share was 0.5 yuan."
+  },
+  {
+    "title": "威剛公開收購琉園 達陣",
+    "url": "https://money.udn.com/money/story/11074/9654247",
+    "source": "經濟日報",
+    "summary": "記憶體模組大廠威剛（3260）昨（27）日公告，公開收購文創公司琉園普通股的公開收購期間屆滿，公開收購條件已達成，累計已收購1萬5,986張287股，約占琉園已發行股數35%。",
+    "published_at": "2026-07-27T23:40:41+08:00",
+    "stocks": [
+      "3260"
+    ],
+    "uid": "235c437dc1fa7eb61d05a156c1111416",
+    "title_zh": "威剛公開收購琉園 達陣",
+    "summary_zh": "記憶體模組大廠威剛（3260）昨（27）日公告，公開收購文創公司琉園普通股的公開收購期間屆滿，公開收購條件已達成，累計已收購1萬5,986張287股，約占琉園已發行股數35%。",
+    "title_en": "ADATA publicly acquires Liuyuan Touchdown",
+    "summary_en": "Memory module manufacturer ADATA (3260) announced yesterday (27th) that the public acquisition period for the public acquisition of ordinary shares of Liuyuan, a cultural and creative company, has expired and the public acquisition conditions have been met. A total of 15,986 287 shares have been acquired, accounting for approximately 35% of the issued shares of Liuyuan."
+  },
+  {
+    "title": "弘塑董座 傳張鴻泰接任",
+    "url": "https://money.udn.com/money/story/11074/9654245",
+    "source": "經濟日報",
+    "summary": "半導體設備廠弘塑（3131）昨（27）日公告，董事長張泰山與副董事長張鴻泰都將辭任。外界猜測，待8月4日該公司董事會改選，應會改由張鴻泰出任新董座。",
+    "published_at": "2026-07-27T23:40:34+08:00",
+    "stocks": [
+      "3131"
+    ],
+    "uid": "19de31917f28be89c7afd6918ca30b6c",
+    "title_zh": "弘塑董座 傳張鴻泰接任",
+    "summary_zh": "半導體設備廠弘塑（3131）昨（27）日公告，董事長張泰山與副董事長張鴻泰都將辭任。外界猜測，待8月4日該公司董事會改選，應會改由張鴻泰出任新董座。",
+    "title_en": "Hongsu Chairman Zhang Hongtai is rumored to take over",
+    "summary_en": "Semiconductor equipment factory Hongsu (3131) announced yesterday (27th) that both Chairman Zhang Taishan and Vice Chairman Zhang Hongtai will resign. There is speculation that Zhang Hongtai will be the new director when the company's board of directors is re-elected on August 4."
+  },
+  {
+    "title": "博晟獲新專利技術授權",
+    "url": "https://money.udn.com/money/story/11074/9654243",
+    "source": "經濟日報",
+    "summary": "上櫃生技股博晟生醫（6733）昨（27）日宣布，與工研院及台大醫院簽署「兩相軟硬骨修復專利暨技術讓與契約」，取得「愛膝康（RevoCart）」相關專利及技術完整權利，象徵公司取得產品全球商業化所需完整智慧財產權，為未來國際授權及全球市場布局奠定重要里程碑。",
+    "published_at": "2026-07-27T23:40:32+08:00",
+    "stocks": [
+      "6733"
+    ],
+    "uid": "9f5429cb135025e4d6b0be960ce16be3",
+    "title_zh": "博晟獲新專利技術授權",
+    "summary_zh": "上櫃生技股博晟生醫（6733）昨（27）日宣布，與工研院及台大醫院簽署「兩相軟硬骨修復專利暨技術讓與契約」，取得「愛膝康（RevoCart）」相關專利及技術完整權利，象徵公司取得產品全球商業化所需完整智慧財產權，為未來國際授權及全球市場布局奠定重要里程碑。",
+    "title_en": "Boxeng obtained new patent technology authorization",
+    "summary_en": "On the 27th, OTC biotech stock Bosheng Biomedical (6733) announced that it signed a \"Two-Phase Soft and Hard Bone Repair Patent and Technology Transfer Agreement\" with the Industrial Research Institute and National Taiwan University Hospital, and obtained complete rights to the patents and technologies related to \"RevoCart\". This symbolizes that the company has obtained the complete intellectual property rights required for the global commercialization of the product, laying an important milestone for future international licensing and global market layout."
+  },
+  {
+    "title": "寶泰跨國布局寵物醫療",
+    "url": "https://money.udn.com/money/story/11074/9654242",
+    "source": "經濟日報",
+    "summary": "興櫃生技股寶泰生醫（7850）國際布局邁步，昨（27）日宣布與韓國上市醫藥大廠大韓新藥（Daehan Nupharm）簽署合作備忘錄（MOU）。雙方將依MOU架構，針對寶泰自主研發的特定「創新生物藥」展開商業與技術評估，並朝正式合作與授權協議進行協商。",
+    "published_at": "2026-07-27T23:40:31+08:00",
+    "stocks": [
+      "7850"
+    ],
+    "uid": "4ee98aa383c857a28c168d64f6fa9d58",
+    "title_zh": "寶泰跨國布局寵物醫療",
+    "summary_zh": "興櫃生技股寶泰生醫（7850）國際布局邁步，昨（27）日宣布與韓國上市醫藥大廠大韓新藥（Daehan Nupharm）簽署合作備忘錄（MOU）。雙方將依MOU架構，針對寶泰自主研發的特定「創新生物藥」展開商業與技術評估，並朝正式合作與授權協議進行協商。",
+    "title_en": "Baotai deploys transnational pet medical care",
+    "summary_en": "The emerging biotechnology stock Baotai Biomedical (7850) has taken a step forward in its international expansion. Yesterday (27th), it announced the signing of a memorandum of cooperation (MOU) with Daehan Nupharm, a major Korean listed pharmaceutical company. Based on the MOU structure, the two parties will conduct commercial and technical evaluations of specific \"innovative biopharmaceuticals\" independently developed by Baotai, and negotiate towards a formal cooperation and licensing agreement."
+  },
+  {
+    "title": "凱擘揪台灣大 攻寬頻影音",
+    "url": "https://money.udn.com/money/story/5710/9654248",
+    "source": "經濟日報",
+    "summary": "凱擘旗下光纖上網服務凱擘大寬頻昨（27）日發表「凱擘新速代10G」服務，8月起將於全台上市，攜手台灣大（3045）推動寬頻網路相關加值影音服務。",
+    "published_at": "2026-07-27T23:40:26+08:00",
+    "stocks": [
+      "3045",
+      "3038"
+    ],
+    "uid": "af3482bd00ca528af1e379a49af7c48e",
+    "title_zh": "凱擘揪台灣大 攻寬頻影音",
+    "summary_zh": "凱擘旗下光纖上網服務凱擘大寬頻昨（27）日發表「凱擘新速代10G」服務，8月起將於全台上市，攜手台灣大（3045）推動寬頻網路相關加值影音服務。",
+    "title_en": "Kaibao seizes Taiwan's big power to attack broadband video",
+    "summary_en": "Kaibo's fiber optic Internet service Kaibo Broadband announced yesterday (27th) the \"Kaibao New Speed ​​Generation 10G\" service, which will be available in Taiwan starting from August. It joins hands with Taiwan Broadband (3045) to promote value-added audio and video services related to broadband networks."
+  },
+  {
+    "title": "載板三雄毛利率向上 法人預期欣興獲利持續成長",
+    "url": "https://money.udn.com/money/story/5607/9654225",
+    "source": "經濟日報",
+    "summary": "PCB載板廠財報將陸續公布，載板三雄包括龍頭欣興（3037）、景碩、南電以及PCB龍頭臻鼎獲利與營運展望受關注。欣興預計今（28）日召開董事會並公布財報，隔日舉行法說會，法人看好欣興財報獲利持續季成長，雖有業外干擾，預期毛利率持續走高，也預估景碩與南電毛利率持續向上。",
+    "published_at": "2026-07-27T23:39:04+08:00",
+    "stocks": [
+      "3037"
+    ],
+    "uid": "87bdbefbd3da283789d819ac47426551",
+    "title_zh": "載板三雄毛利率向上 法人預期欣興獲利持續成長",
+    "summary_zh": "PCB載板廠財報將陸續公布，載板三雄包括龍頭欣興（3037）、景碩、南電以及PCB龍頭臻鼎獲利與營運展望受關注。欣興預計今（28）日召開董事會並公布財報，隔日舉行法說會，法人看好欣興財報獲利持續季成長，雖有業外干擾，預期毛利率持續走高，也預估景碩與南電毛利率持續向上。",
+    "title_en": "The gross profit margin of the carrier board Sanxiong is rising, and the legal person expects Xinxing's profit to continue to grow.",
+    "summary_en": "The financial reports of PCB carrier board manufacturers will be released one after another. The profit and operating prospects of the three carrier board manufacturers including leading Xinxing (3037), Jingshuo, Nandian and PCB leader Zhending are attracting attention. Xinxing is expected to hold a board meeting today (28th) and announce its financial report, and will hold a legal briefing the next day. The legal person is optimistic that Xinxing's financial report will continue to grow in profits. Despite external interference, the gross profit margin is expected to continue to rise. It is also expected that the gross profit margin of Jingshuo and Nandian will continue to rise."
+  },
+  {
+    "title": "不是虛驚一場！這事其實是中風前兆！五指標告訴你風險",
+    "url": "https://money.udn.com/money/story/5648/9654484",
+    "source": "經濟日報總經",
+    "summary": "文／ 白映俞 醫師(首刊於 2025年3 月11日）「阿爸，你怎麼不坐好？」希聯上個廁所回來後，發現爸爸似乎坐得歪斜。「@#$%^!@$^%」爸爸的回應有點難懂。「阿爸，你在說什麼？」希聯緊張地問：「哪裡不舒服啊？」爸爸指著自己的右腿，搓了幾下，吸口氣後慢慢地說：「麻…麻…麻…」希聯替爸爸揉揉腿，推拿個幾下，問：「是坐太久嗎？要不要起來走一下？」在一旁的希聯太太問：「爸爸腿麻，講話不清楚，會不會是小中風啊？爸爸還有高血壓、糖尿病，要不要去醫院一趟？」短暫性腦缺血造成「小中風」我們常說的「中風」代表送往腦部的血液供給被阻斷了，導致腦部沒有氧氣而失能。而一般口語所說的「小中風」，代表著短暫性腦缺血（transient ischemic attack，簡稱為TIA），其實原理也是像中風一樣，送往腦部的血液供給被阻斷了，只是症狀沒有持續很久，在24小時內，腦部的血液循環自行恢復。短暫性腦缺血發作TIA由於症狀來得快去得快，有時患者及家屬並沒有意識到這是個問題，不覺得有立即性的危險。然而，許多患者並不知道，下一次可能就沒這麼幸運了。小中風的患者在這三個月內，中風機",
+    "published_at": "2026-07-27T23:15:07+08:00",
+    "stocks": [],
+    "uid": "144912d6290f04daeb9fc8e44f7b5c45",
+    "title_zh": "不是虛驚一場！這事其實是中風前兆！五指標告訴你風險",
+    "summary_zh": "文／ 白映俞 醫師(首刊於 2025年3 月11日）「阿爸，你怎麼不坐好？」希聯上個廁所回來後，發現爸爸似乎坐得歪斜。「@#$%^!@$^%」爸爸的回應有點難懂。「阿爸，你在說什麼？」希聯緊張地問：「哪裡不舒服啊？」爸爸指著自己的右腿，搓了幾下，吸口氣後慢慢地說：「麻…麻…麻…」希聯替爸爸揉揉腿，推拿個幾下，問：「是坐太久嗎？要不要起來走一下？」在一旁的希聯太太問：「爸爸腿麻，講話不清楚，會不會是小中風啊？爸爸還有高血壓、糖尿病，要不要去醫院一趟？」短暫性腦缺血造成「小中風」我們常說的「中風」代表送往腦部的血液供給被阻斷了，導致腦部沒有氧氣而失能。而一般口語所說的「小中風」，代表著短暫性腦缺血（transient ischemic attack，簡稱為TIA），其實原理也是像中風一樣，送往腦部的血液供給被阻斷了，只是症狀沒有持續很久，在24小時內，腦部的血液循環自行恢復。短暫性腦缺血發作TIA由於症狀來得快去得快，有時患者及家屬並沒有意識到這是個問題，不覺得有立即性的危險。然而，許多患者並不知道，下一次可能就沒這麼幸運了。小中風的患者在這三個月內，中風機",
+    "title_en": "It's not a false alarm! This is actually a precursor to a stroke! Five indicators tell you risks",
+    "summary_en": "Text/Physician Bai Yingyu (first published on March 11, 2025) \"Abba, why don't you sit properly?\" After hope Lian came back from going to the toilet, she found that her father seemed to be sitting crookedly. \"@#$%^!@$^%\" Dad's response was a little difficult to understand. \"Abba, what are you talking about?\" Xi Lian asked nervously, \"What's wrong with you?\" Dad pointed to his right leg, rubbed it a few times, took a breath and said slowly: \"Num... numb... numb...\" Xi Lian rubbed his father's leg, massaged it a few times, and asked, \"Did you sit for too long? Do you want to get up and walk?\" Mrs. Lian asked, \"Dad's legs are numb and his speech is unclear. Could it be a mini-stroke? Dad also has high blood pressure and diabetes. Do I need to go to the hospital?\" Transient cerebral ischemia causes a \"mini-stroke.\" What we often call \"stroke\" means that the blood supply to the brain is blocked, causing the brain to become incapacitated without oxygen. The common colloquial term \"mini-stroke\" stands for transient ischemic attack (TIA). In fact, the principle is the same as a stroke. The blood supply to the brain is blocked. However, the symptoms do not last long. Within 24 hours, the blood circulation in the brain recovers on its own. Because the symptoms of transient ischemic attack (TIA) come and go quickly, sometimes patients and their families do not realize that this is a problem and do not feel that there is immediate danger. However, many patients don’t know that they may not be so lucky next time. Patients with minor strokes had more strokes within the past three months."
+  },
+  {
+    "title": "不妙？美晶片股遭血洗  AMD盤中狂殺8％  美光、台積電ADR倒一片",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5519701",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕投資人因擔憂AI龐大的資本支出而拋售晶片股，美國半導體類股迎來黑色星期一，AMD盤中狂殺8%，半導體測試與機器人技術供應商Teradyne 大跌超過7%，記憶體廠商美光暴跌...…",
+    "published_at": "2026-07-27T23:12:14+08:00",
+    "stocks": [],
+    "uid": "7760ef86a48a1edd888ef1385106d028",
+    "title_zh": "不妙？美晶片股遭血洗  AMD盤中狂殺8％  美光、台積電ADR倒一片",
+    "summary_zh": "〔財經頻道／綜合報導〕投資人因擔憂AI龐大的資本支出而拋售晶片股，美國半導體類股迎來黑色星期一，AMD盤中狂殺8%，半導體測試與機器人技術供應商Teradyne 大跌超過7%，記憶體廠商美光暴跌...…",
+    "title_en": "Not good? US chip stocks suffered a bloodbath, AMD lost 8% during the session, Micron and TSMC ADRs collapsed",
+    "summary_en": "[Financial Channel/Comprehensive Report] Investors sold off chip stocks due to concerns about the huge capital expenditures of AI. U.S. semiconductor stocks ushered in Black Monday. AMD plunged 8% intraday, semiconductor testing and robotics supplier Teradyne fell more than 7%, and memory manufacturer Micron plummeted..."
+  },
+  {
+    "title": "光禹國際在嘉義打造新主題樂園「芯浪國際滑板衝浪公園」正式開幕",
+    "url": "https://money.udn.com/money/story/5648/9654431",
+    "source": "經濟日報總經",
+    "summary": "光禹國際（6595）在嘉義打造的「芯浪國際滑板衝浪公園」27日開幕。樂園主打以AI控制造浪結合國際級滑板場域，鎖定學生校外教學、科技高端客群與親子年輕世代三大市場，同時搶攻故宮南院每年120萬至140萬人次的參觀人潮商機。",
+    "published_at": "2026-07-27T22:58:09+08:00",
+    "stocks": [
+      "6595"
+    ],
+    "uid": "6a2bfea84a27272fe1e815d99dac5b8d",
+    "title_zh": "光禹國際在嘉義打造新主題樂園「芯浪國際滑板衝浪公園」正式開幕",
+    "summary_zh": "光禹國際（6595）在嘉義打造的「芯浪國際滑板衝浪公園」27日開幕。樂園主打以AI控制造浪結合國際級滑板場域，鎖定學生校外教學、科技高端客群與親子年輕世代三大市場，同時搶攻故宮南院每年120萬至140萬人次的參觀人潮商機。",
+    "title_en": "Guangyu International officially opened its new theme park \"Xinlang International Skateboard and Surfing Park\" in Chiayi",
+    "summary_en": "The \"Xinlang International Skateboard and Surfing Park\" built by Guangyu International (6595) in Chiayi opened on the 27th. The park's main focus is to combine AI-controlled wave making with an international-level skateboarding venue, targeting three major markets: students for off-campus teaching, high-end technology customers, and the young generation of parents and children. It also captures the business opportunities of the 1.2 million to 1.4 million visitors to the South Campus of the Forbidden City every year."
+  },
+  {
+    "title": "北海道咖啡品牌「MORIHICO.森彥」海外首店 插旗九九峰薰衣草森林園區",
+    "url": "https://money.udn.com/money/story/5648/9654429",
+    "source": "經濟日報總經",
+    "summary": "由台灣生活風格領導品牌「薰衣草森林」集團代理、引領無數咖啡迷跨海朝聖的日本北海道獨立咖啡品牌「MORIHICO.森彥」，全球首家海外店舖〈森彥九九峰〉正式落腳「薰衣草森林南投九九峰園區」，並預計7月28日開幕迎賓。",
+    "published_at": "2026-07-27T22:56:32+08:00",
+    "stocks": [],
+    "uid": "fd83d3c662504f3147d7253b11057120",
+    "title_zh": "北海道咖啡品牌「MORIHICO.森彥」海外首店 插旗九九峰薰衣草森林園區",
+    "summary_zh": "由台灣生活風格領導品牌「薰衣草森林」集團代理、引領無數咖啡迷跨海朝聖的日本北海道獨立咖啡品牌「MORIHICO.森彥」，全球首家海外店舖〈森彥九九峰〉正式落腳「薰衣草森林南投九九峰園區」，並預計7月28日開幕迎賓。",
+    "title_en": "Hokkaido coffee brand \"MORIHICO. Morihiko\" opens its first overseas store in Jiujiubong Lavender Forest Park",
+    "summary_en": "The independent coffee brand \"MORIHICO. Morihiko\" from Hokkaido, Japan, which is represented by Taiwan's leading lifestyle brand \"Lavender Forest\" Group and has led countless coffee fans to cross the sea, has officially opened the world's first overseas store \"Morihiko Jiujiufeng\" in the \"Lavender Forest Nantou Jiujiufeng Park\" and is expected to open on July 28."
+  },
+  {
+    "title": "駐英代表姚金祥：川普政府持續助台　行動勝於言詞",
+    "url": "https://money.udn.com/money/story/7307/9654410",
+    "source": "經濟日報總經",
+    "summary": "英國「每日電訊報」今天刊出對駐英國代表姚金祥的專訪，聚焦台灣、美國與中國的關係，登上該報官網首頁。姚金祥說，美國總統川普...",
+    "published_at": "2026-07-27T22:45:34+08:00",
+    "stocks": [],
+    "uid": "2fad6902f66c1a706e003fba8fa50afc"
+  },
+  {
+    "title": "車燈也是 AI 的一環？智慧駕駛時代來臨 「照明」不再是會發亮就好",
+    "url": "https://money.udn.com/money/story/5612/9654034",
+    "source": "經濟日報股市",
+    "summary": "AI智慧車時代來臨，全球車燈產業正迎來近20年來最大一次技術革命。過去車燈只是提供照明，如今已升級為智慧駕駛系統的重要一環，不僅要「照得更遠」，還要「照得更準」，甚至能與駕駛、行人互動。從帝寶（6605）最新年報來看，公司近年積極投入雷射光源、Micro LED投影、ADB（Adaptive Driving Beam）智慧頭燈及矽膠光學設計等技術。",
+    "published_at": "2026-07-27T22:37:18+08:00",
+    "stocks": [
+      "6605"
+    ],
+    "uid": "2ef0a519f5428768c3bd34e79256a252"
+  },
+  {
+    "title": "高盛將台灣今年 GDP 成長率從10.3%上修到10.6% 高於市場共識",
+    "url": "https://money.udn.com/money/story/10869/9654390",
+    "source": "經濟日報總經",
+    "summary": "高盛證券指出，台灣6月工業生產經季節調整後月增率加速至 3.7%，高於前月的0.6%，也優於市場共識與高盛預估。其中，電子生產增至 4.2%，為2 月以來最強動能，約占整體月增幅的六成；零售銷售同樣加速至 1.8%（經高盛調整後），高於前月的 0.3%，為去年 11 月以來最強動能。",
+    "published_at": "2026-07-27T22:31:25+08:00",
+    "stocks": [],
+    "uid": "c801321b96a4342e0a37c624d38af28e"
+  },
+  {
+    "title": "一時刷卡一時爽！她欠129萬卡債悲劇了",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5519692",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕信用卡提供消費便利，卻也可能成為壓垮財務的無底洞。美國一名女子在紐約工作15年間，不知不覺累積4萬美元（約新台幣129萬元）信用卡債務，為了還債，只能在40歲搬回父母家居住...…",
+    "published_at": "2026-07-27T22:28:58+08:00",
+    "stocks": [],
+    "uid": "aa82f8e394b407d6742fd55636b30cb6"
+  },
+  {
+    "title": "長鑫上市首日衰事多！傳與華為決裂 股價飆漲遭質疑撐不久",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5519678",
+    "source": "自由財經",
+    "summary": "中國記憶體晶片大廠長鑫存儲（CXMT）27日雖然在上海科創板風光上市，但Ｘ平台帳號「亞洲金融」（Asia Finance ）26日發文指出，由於供貨議價起衝突，長鑫存儲近...…",
+    "published_at": "2026-07-27T22:17:05+08:00",
+    "stocks": [],
+    "uid": "3dacb4949b0347bed2f6001100cef4e5"
+  },
+  {
+    "title": "黃仁勳出手了！輝達豪砸10億美元入股Naver　韓股一度大漲逾10%",
+    "url": "https://finance.ettoday.net/news/3208629",
+    "source": "ETtoday",
+    "summary": "<img alt=\"黃仁勳出手了！輝達豪砸10億美元入股Naver　韓股一度大漲逾10%\" src=\"https://cdn2.ettoday.net/images/8848/c8848449.jpg\" /><br /> 南韓網路與雲端服務龍頭Naver（NAVER）27日股價一度大漲超過10%，主因是輝達（NVIDIA）宣布將投資約10億美元認購Naver新股，協助推動南韓AI資料中心擴建計畫。這項合作也象徵雙方AI戰略夥伴關係進一步深化，將共同布局亞太、歐洲及中東市場日益成長的「主權AI（Sovereign AI）」需求。 <a href=\"https://finance.ettoday.net/news/3208629\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-07-27T22:17:00+08:00",
+    "stocks": [],
+    "uid": "91298892eb8ddc5e2ad3527902b0af98"
+  },
+  {
+    "title": "今彩539第115181期　頭獎1注中獎",
+    "url": "https://money.udn.com/money/story/122328/9654372",
+    "source": "經濟日報總經",
+    "summary": "今彩539第115181期開獎，中獎號碼19、16、32、24、07；派彩結果，頭獎1注中獎，獎金新台幣800萬元",
+    "published_at": "2026-07-27T22:13:06+08:00",
+    "stocks": [],
+    "uid": "e935b83f7192cf4904c9ca7c3d41c917"
+  },
+  {
+    "title": "威力彩第115060期　頭獎槓龜",
+    "url": "https://money.udn.com/money/story/122328/9654369",
+    "source": "經濟日報總經",
+    "summary": "威力彩第115060期今晚開獎，第一區中獎號碼為28、19、22、31、35、33，第二區中獎號碼為07號。派彩結果，頭...",
+    "published_at": "2026-07-27T22:12:41+08:00",
+    "stocks": [],
+    "uid": "0c2fe006643a3acc9b8fa99249059906"
+  },
+  {
+    "title": "AIT副處長梁凱雯將離任　林佳龍頒贈睦誼外交獎章",
+    "url": "https://money.udn.com/money/story/7307/9654360",
+    "source": "經濟日報總經",
+    "summary": "外交部長林佳龍今天頒贈「睦誼外交獎章」予將離任的美國在台協會（AIT）副處長梁凱雯，肯定她任內對台美關係的貢獻；梁凱雯則...",
+    "published_at": "2026-07-27T22:07:16+08:00",
+    "stocks": [],
+    "uid": "dd36c1dd99056e0843dade59f2a13a57"
+  },
+  {
+    "title": "今彩539第115181期　頭獎1注中獎",
+    "url": "https://www.cna.com.tw/news/ahel/202607270307.aspx",
+    "source": "中央社",
+    "summary": "（中央社台北27日電）今彩539第115181期開獎，中獎號碼19、16、32、24、07；派彩結果，頭獎1注中獎，獎金新台幣800萬元。",
+    "published_at": "2026-07-27T22:05:51+08:00",
+    "stocks": [],
+    "uid": "a0ea1b944dcb383f97f8232db85c4a05"
+  },
+  {
+    "title": "美伊暫停交戰提振市場信心　美股開高那指漲逾1%",
+    "url": "https://www.cna.com.tw/news/afe/202607270306.aspx",
+    "source": "中央社",
+    "summary": "（中央社紐約27日綜合外電報導）美國與伊朗暫停交戰，提振投資人風險偏好。在企業財報、經濟數據及利率決策本週將陸續公布之際，華爾街主要股指今天開高，那斯達克指數漲幅超過1%。",
+    "published_at": "2026-07-27T22:05:49+08:00",
+    "stocks": [],
+    "uid": "e0e98b871de0a11934801ae18dbe6bb9"
+  },
+  {
+    "title": "威力彩第115060期　頭獎槓龜",
+    "url": "https://www.cna.com.tw/news/ahel/202607270305.aspx",
+    "source": "中央社",
+    "summary": "（中央社台北27日電）威力彩第115060期今晚開獎，第一區中獎號碼為28、19、22、31、35、33，第二區中獎號碼為07號。派彩結果，頭獎、貳獎槓龜。",
+    "published_at": "2026-07-27T22:02:47+08:00",
+    "stocks": [],
+    "uid": "16df813ddead2fdfb17c614f524525c8"
+  },
+  {
+    "title": "快訊／美伊停火2天　道瓊上漲破600點、費半開高後下殺",
+    "url": "https://finance.ettoday.net/news/3208625",
+    "source": "ETtoday",
+    "summary": "<img alt=\"快訊／美伊停火2天　道瓊上漲破600點、費半開高後下殺\" src=\"https://cdn2.ettoday.net/images/7780/c7780241.jpg\" /><br /> 受美伊暫緩互相攻擊，進而帶動油價下跌等因素影響，美國4大指數27日開盤齊漲，道瓊指數一度上漲超過600點，台積電ADR則下跌0.27%，報402.31美元。 <a href=\"https://finance.ettoday.net/news/3208625\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-07-27T22:01:00+08:00",
+    "stocks": [
+      "2330"
+    ],
+    "uid": "d41602f285c8c3edf7ac802e47c4b981"
+  },
+  {
+    "title": "中國6月工業利潤增速放緩至今年最低  汽車業獲利暴跌20％",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5519664",
+    "source": "自由財經",
+    "summary": "中國官方數據顯示，中國6月規模以上工業企業利潤成長放緩至今年以來最慢增速，為連續兩個月放緩，顯示全球第2大經濟體的企業復甦不平衡的狀況。\n\n\n中國國家統計局27日公佈，6...…",
+    "published_at": "2026-07-27T22:00:52+08:00",
+    "stocks": [],
+    "uid": "04591dba808bd1718cdd8ef0102c1e7f"
+  },
+  {
+    "title": "顧能：AI基建推升需求 今年全球IT支出估衝6.37兆美元",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5519667",
+    "source": "自由財經",
+    "summary": "研調機構顧能（Gartner）最新預估，2026年全球資訊科技（IT）支出將達6.37兆美元，年增14.2%，高於2025年的10.7%，成長動能主要來自AI基礎建設持續...…",
+    "published_at": "2026-07-27T21:54:22+08:00",
+    "stocks": [],
+    "uid": "452643380dc790a12f2035cfcb8f0e35"
+  },
+  {
+    "title": "臻鼎預計8月11日召開法說會",
+    "url": "https://money.udn.com/money/story/5612/9654345",
+    "source": "經濟日報股市",
+    "summary": "PCB龍頭臻鼎-KY（4958）今日公告，預計8月11日召開法說會，2026年上半年營運概況說明。",
+    "published_at": "2026-07-27T21:52:44+08:00",
+    "stocks": [],
+    "uid": "9623c8323568655fd7bbf8379b913771"
+  },
+  {
+    "title": "矽格子公司矽格聯測追加預算20億元",
+    "url": "https://money.udn.com/money/story/5612/9654343",
+    "source": "經濟日報股市",
+    "summary": "矽格（6257）今日代子公司矽格聯測股份有限公司公告追加115年度預算案，董事會決議通過追加115年度預算案追加預算新台幣20億元。",
+    "published_at": "2026-07-27T21:52:29+08:00",
+    "stocks": [
+      "6257"
+    ],
+    "uid": "a2eb78b8b10d813e6d5b3a0c79b1bfa6"
+  },
+  {
+    "title": "將來銀行祭低薪勞工信貸方案 住宿餐飲業年薪30萬即可貸",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5519661",
+    "source": "自由財經",
+    "summary": "個人信貸市場持續升溫，其中長期處於「低薪」的住宿餐飲、運輸倉儲及支援服務業，若面臨暫時資金周轉需求，恐難以獲得銀行支援。「將來銀行 NEXT BANK」落實普惠金融，今（...…",
+    "published_at": "2026-07-27T21:51:52+08:00",
+    "stocks": [],
+    "uid": "07847890ec386694046dc971b37c847a"
+  },
+  {
+    "title": "黃金這時將攻上5200美元 任何回檔都應視為買進機會",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5519663",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕瑞銀認為，雖然債券殖利率上升和地緣政治風險緩解可能會對金價帶來進一步的短期壓力，但表示任何回檔都應該被視為買進機會。瑞銀將目標價定為到2027年年中達到每盎司5200美元，...…",
+    "published_at": "2026-07-27T21:41:34+08:00",
+    "stocks": [],
+    "uid": "921244812f2ba33e29661b1d5cc81c19"
+  },
+  {
+    "title": "網傳中聯借豆靠後台關係　經部澄清：穩供原料協調週轉",
+    "url": "https://money.udn.com/money/story/7307/9654323",
+    "source": "經濟日報總經",
+    "summary": "網傳影片顯示，中聯董事長蔡清松提及曾向台糖借8000噸黃豆，遭影射「朝中有人」。經濟部今晚澄清，此事件為2021年受疫情...",
+    "published_at": "2026-07-27T21:36:31+08:00",
+    "stocks": [],
+    "uid": "55fc1c72416c376e315135d4ac78e4d2"
+  },
+  {
     "title": "不滿蔣萬安轉述陳其邁開會「發飆」 高市府：去脈絡化轉述、非常不妥",
     "url": "https://money.udn.com/money/story/7307/9654287",
     "source": "經濟日報總經",
@@ -65,6 +613,15 @@
     "summary_en": "The secondment period of Cai Jintian, director of the Education Department of the Changhua County Government, has expired, and the county government has approved that Wu Lanmei, director of the administrative department, will take over as the director of education. Since Wu Lanmei is not from the education field, it is quite surprising that she can qualify. Especially since education issues are complicated, it will be difficult to take over. However, people in the education field believe that she may be able to break away from the stereotypes of the education field and be able to make a difference."
   },
   {
+    "title": "網傳中聯借豆靠後台關係　經部澄清：穩供原料協調週轉",
+    "url": "https://www.cna.com.tw/news/afe/202607270298.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者謝怡璇台北27日電）網傳影片顯示，中聯董事長蔡清松提及曾向台糖借8000噸黃豆，遭影射「朝中有人」。經濟部今晚澄清，此事件為2021年受疫情影響，市面上黃豆等飼料用穀物缺乏，為穩定供應而協調週轉，業者已全數歸還，此舉屬穩定原料措施，與後台無關。",
+    "published_at": "2026-07-27T21:24:29+08:00",
+    "stocks": [],
+    "uid": "e3d8c1c4a93f011ee1d20dba06734385"
+  },
+  {
     "title": "印度1水果驚傳「爛在海上」慘劇  原因曝光了",
     "url": "https://ec.ltn.com.tw/article/breakingnews/5519631",
     "source": "自由財經",
@@ -76,6 +633,15 @@
     "summary_zh": "〔財經頻道／綜合報導〕印度出口至中東的香蕉因荷姆茲海峽航線受阻，運輸時間從原本約一週，延長至20至25天，甚至增加兩到三倍，大量香蕉因而在運送途中腐爛。\n\n\n《Food Business Mid...…",
     "title_en": "Indian fruit shockingly \"rotted at sea\" tragedy, the reason is exposed",
     "summary_en": "[Financial Channel/Comprehensive Report] Bananas exported from India to the Middle East have been blocked by the Strait of Hormuz route. The transportation time has been extended from about one week to 20 to 25 days, or even doubled or tripled. As a result, a large number of bananas rotted during transportation.\n\n\n\"Food Business Mid...\""
+  },
+  {
+    "title": "中聯油脂董事長演講剪輯影片影射「朝中有人」　經部急發4點澄清",
+    "url": "https://finance.ettoday.net/news/3208613",
+    "source": "ETtoday",
+    "summary": "<img alt=\"中聯油脂董事長演講剪輯影片影射「朝中有人」　經部急發4點澄清\" src=\"https://cdn2.ettoday.net/images/7289/c7289685.jpg\" /><br /> 網路近日流傳一段演講剪輯影片，內容提及2021年政府協調台糖提供黃豆給民間業者，並被外界解讀為業者與政府關係密切。經濟部今（27）日發布4點說明，強調當時是因新冠疫情衝擊全球物流，政府為穩定國內飼料供應所採取的緊急措施，與所謂「誰是誰的後台」毫無關聯。 <a href=\"https://finance.ettoday.net/news/3208613\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-07-27T21:13:00+08:00",
+    "stocks": [],
+    "uid": "864bb261f361b63b45754a8a90ac5bea"
   },
   {
     "title": "網指中聯油脂「朝中有人」 經濟部駁斥：沒有後台",
@@ -156,6 +722,15 @@
     "summary_zh": "昕力資訊代理美國 Juxta 系統 拚跨國防、醫療新版圖",
     "title_en": "Xinli Information is the agent of Juxta System in the United States to fight for the new territory of national defense and medical care",
     "summary_en": "Xinli Information acts as an agent for Juxta System in the United States to fight for the new territory of national defense and medical care"
+  },
+  {
+    "title": "威力彩第115060期開獎",
+    "url": "https://www.cna.com.tw/news/ahel/202607270293.aspx",
+    "source": "中央社",
+    "summary": "（中央社台北27日電）威力彩第115060期今晚開獎，第一區中獎號碼為28、19、22、31、35、33，第二區中獎號碼為07。",
+    "published_at": "2026-07-27T20:53:18+08:00",
+    "stocks": [],
+    "uid": "b23f076042ca068aef0e95f4cdf6de93"
   },
   {
     "title": "中國新疆番茄假冒這兩國標籤販售 知名連鎖3大品牌被抓包",
@@ -271,6 +846,15 @@
     "summary_zh": "英特爾（Intel）公布財報之後，美林及瑞銀證券都發布亞太半導體報告指出，AI帶動伺服器CPU需求強勁，嘉惠供應鏈ODM、載板、插槽、記憶體及封裝廠商，個人電腦（PC）需求則持續承壓，看好台積電（2330）、緯穎（6669）等13檔台股。",
     "title_en": "Intel's expansion speed is limited and has little impact on TSMC's supply chain. Bank of America and UBS are optimistic about 13 Taiwanese stocks",
     "summary_en": "After Intel announced its financial report, Merrill Lynch and UBS Securities both released Asia-Pacific Semiconductor Reports stating that AI has driven strong demand for server CPUs, and Jiahui supply chain ODM, carrier board, slot, memory and packaging manufacturers, while personal computer (PC) demand continues to be under pressure, and they are optimistic about 13 Taiwanese stocks such as TSMC (2330) and Wiwynn (6669)."
+  },
+  {
+    "title": "今彩539第115181期開獎",
+    "url": "https://www.cna.com.tw/news/ahel/202607270291.aspx",
+    "source": "中央社",
+    "summary": "（中央社台北27日電）今彩539第115181期開獎，中獎號碼19、16、32、24、07。3星彩中獎號碼602，4星彩中獎號碼5910。",
+    "published_at": "2026-07-27T20:43:13+08:00",
+    "stocks": [],
+    "uid": "a4c73e1844cf2ce23efc32b11d3275d5"
   },
   {
     "title": "6縣市大雨狂炸到明天 留意雷擊強陣風、低窪地區防積水",
