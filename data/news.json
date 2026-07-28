@@ -1,5 +1,313 @@
 [
   {
+    "title": "不只是贊助商，Google Cloud 如何用 Formula E 給自己的 AI 做壓力測試",
+    "url": "https://technews.tw/2026/07/29/formula-e-google-cloud/",
+    "source": "科技新報",
+    "summary": "7 月 5 日下午的上海國際賽車場，是那種賽車迷會記很多年的下午。 雨下下停停，賽道半乾半濕。Formula  [&#8230;]",
+    "published_at": "2026-07-29T07:50:32+08:00",
+    "stocks": [],
+    "uid": "f098944d3e62e6d38e63b14b9e8be825",
+    "title_zh": "不只是贊助商，Google Cloud 如何用 Formula E 給自己的 AI 做壓力測試",
+    "summary_zh": "7 月 5 日下午的上海國際賽車場，是那種賽車迷會記很多年的下午。 雨下下停停，賽道半乾半濕。Formula  [&#8230;]",
+    "title_en": "Not just a sponsor, how Google Cloud uses Formula E to stress test its own AI",
+    "summary_en": "The afternoon of July 5 at the Shanghai International Circuit was the kind of afternoon that racing fans will remember for many years to come. It rained steadily and the track was half dry and half wet. Formula […]"
+  },
+  {
+    "title": "AIT公開台美海巡合作　分析：北京對台意圖不會成功",
+    "url": "https://money.udn.com/money/story/7307/9657195",
+    "source": "經濟日報總經",
+    "summary": "中國對台灰色地帶侵擾不斷之際，美國在台協會於社群媒體公開美國海岸防衛隊與台灣海巡署海上編隊航行的畫面。美學者葛來儀今天分...",
+    "published_at": "2026-07-29T07:45:30+08:00",
+    "stocks": [],
+    "uid": "237bd7df8fe77a0d1afb0d75de6c9255",
+    "title_zh": "AIT公開台美海巡合作　分析：北京對台意圖不會成功",
+    "summary_zh": "中國對台灰色地帶侵擾不斷之際，美國在台協會於社群媒體公開美國海岸防衛隊與台灣海巡署海上編隊航行的畫面。美學者葛來儀今天分...",
+    "title_en": "AIT reveals Taiwan-US maritime patrol cooperation Analysis: Beijing’s intentions towards Taiwan will not succeed",
+    "summary_en": "As China continues to intrude on Taiwan's gray zone, the American Institute in Taiwan released footage on social media of a maritime formation sailing between the U.S. Coast Guard and the Taiwan Coast Guard. Today, aesthetics scholar Ge Laiyi breaks down..."
+  },
+  {
+    "title": "中國半導體追兵／亞洲最大IPO登場　長鑫掛牌市值狂飆、挑戰記憶體三強",
+    "url": "https://www.mirrormedia.mg/story/20260728fin007",
+    "source": "鏡週刊財經",
+    "summary": "<p>前言：中國記憶體廠長鑫科技（長鑫存儲）來勢洶洶，此前完成今年亞洲最大規模首次公開募股（IPO），成為中國市值最高上市公司之一，27日正式掛牌上海創科板。長鑫首個交易日股價飆升約470％，連帶衝擊南韓三星電子、SK海力士28日股價重挫逾一成，台股記憶體族群也同步走弱。動靜之大，引發市場關注，如今擁有中國政府扶植和資本市場撐腰，長鑫未來是否改寫三星、SK海力士、美光主導多年的全球DRAM競爭格局。</p>",
+    "published_at": "2026-07-29T07:30:59+08:00",
+    "stocks": [],
+    "uid": "970d511c52ae87c854d5ea0eae0e6a95",
+    "title_zh": "中國半導體追兵／亞洲最大IPO登場　長鑫掛牌市值狂飆、挑戰記憶體三強",
+    "summary_zh": "<p>前言：中國記憶體廠長鑫科技（長鑫存儲）來勢洶洶，此前完成今年亞洲最大規模首次公開募股（IPO），成為中國市值最高上市公司之一，27日正式掛牌上海創科板。長鑫首個交易日股價飆升約470％，連帶衝擊南韓三星電子、SK海力士28日股價重挫逾一成，台股記憶體族群也同步走弱。動靜之大，引發市場關注，如今擁有中國政府扶植和資本市場撐腰，長鑫未來是否改寫三星、SK海力士、美光主導多年的全球DRAM競爭格局。</p>",
+    "title_en": "China’s Semiconductor Chasers/Asia’s Largest IPO Debuts, Changxin’s Listed Market Value Soars, Challenges the Top Three in Memory",
+    "summary_en": "<p>Foreword: China's memory factory Changxin Technology (Changxin Storage) is coming in force. It previously completed Asia's largest initial public offering (IPO) this year and became one of China's most valuable listed companies. It was officially listed on the Shanghai Innovation and Technology Board on the 27th. Changxin's share price soared by about 470% on its first trading day, which also impacted South Korea's Samsung Electronics and SK Hynix's share prices, which fell by more than 10% on the 28th. Taiwan's memory group also weakened simultaneously. The huge movement has attracted market attention. Now that it has the support of the Chinese government and the support of the capital market, whether Changxin will rewrite the global DRAM competition pattern that has been dominated by Samsung, SK Hynix and Micron for many years in the future. </p>"
+  },
+  {
+    "title": "中國半導體追兵1／中國國產DUV傳量產　設備自主挫ASML股價",
+    "url": "https://www.mirrormedia.mg/story/20260728fin008",
+    "source": "鏡週刊財經",
+    "summary": "<p>就在記憶體大廠長鑫科技大舉募資上市之際，中國再傳出國產浸潤式深紫外光（DUV）曝光機進入量產，牽動全球半導體設備股表現。消息曝光後，荷蘭半導體設備龍頭ASML股價一度重挫逾一成，創近月來最大跌幅。</p>",
+    "published_at": "2026-07-29T07:30:58+08:00",
+    "stocks": [
+      "3663"
+    ],
+    "uid": "5a10a1c3542890058c78ddf8fc5eadca",
+    "title_zh": "中國半導體追兵1／中國國產DUV傳量產　設備自主挫ASML股價",
+    "summary_zh": "<p>就在記憶體大廠長鑫科技大舉募資上市之際，中國再傳出國產浸潤式深紫外光（DUV）曝光機進入量產，牽動全球半導體設備股表現。消息曝光後，荷蘭半導體設備龍頭ASML股價一度重挫逾一成，創近月來最大跌幅。</p>",
+    "title_en": "China’s Semiconductor Chaser 1/China’s domestic DUV passes mass production, independent equipment drops ASML’s stock price",
+    "summary_en": "<p>Just as Changxin Technology, a major memory manufacturer, is raising funds and going public, it is reported that China's domestic immersion deep ultraviolet (DUV) exposure machine has entered mass production, affecting the performance of global semiconductor equipment stocks. After the news came to light, the stock price of Dutch semiconductor equipment leader ASML plunged by more than 10%, the largest drop in recent months. </p>"
+  },
+  {
+    "title": "中國半導體追兵2／長鑫擴產、DUV突圍　中國供應鏈逼近台廠腹地？",
+    "url": "https://www.mirrormedia.mg/story/20260728fin009",
+    "source": "鏡週刊財經",
+    "summary": "<p>中國記憶體大廠長鑫科技（長鑫存儲）完成大規模IPO，緊接著又傳出國產浸潤式深紫外光（DUV）曝光機開始量產，兩項進展接連引發市場關注。半導體產業關心，當中國逐步補齊資本、設備與製造能力後，未來新增產能將流向何處，又將如何改變全球供應鏈競爭。分析師認為，短期AI晶片競爭格局仍難撼動，但成熟製程與主流記憶體市場，可能率先迎來新一波價格競爭。</p>",
+    "published_at": "2026-07-29T07:30:57+08:00",
+    "stocks": [],
+    "uid": "9c252b07e5578b003c1cd226209cba9e",
+    "title_zh": "中國半導體追兵2／長鑫擴產、DUV突圍　中國供應鏈逼近台廠腹地？",
+    "summary_zh": "<p>中國記憶體大廠長鑫科技（長鑫存儲）完成大規模IPO，緊接著又傳出國產浸潤式深紫外光（DUV）曝光機開始量產，兩項進展接連引發市場關注。半導體產業關心，當中國逐步補齊資本、設備與製造能力後，未來新增產能將流向何處，又將如何改變全球供應鏈競爭。分析師認為，短期AI晶片競爭格局仍難撼動，但成熟製程與主流記憶體市場，可能率先迎來新一波價格競爭。</p>",
+    "title_en": "China’s Semiconductor Chasers 2/Changxin expands production, DUV breaks through, is China’s supply chain approaching the hinterland of Taiwanese factories?",
+    "summary_en": "<p>Changxin Technology (Changxin Memory), a major Chinese memory manufacturer, completed a large-scale IPO, and soon after it was reported that domestic immersion deep ultraviolet (DUV) exposure machines have begun mass production. These two developments have attracted market attention. The semiconductor industry is concerned about where China's new production capacity will go in the future as it gradually replenishes its capital, equipment and manufacturing capabilities, and how it will change global supply chain competition. Analysts believe that the short-term AI chip competition landscape is still difficult to shake, but mature processes and mainstream memory markets may be the first to usher in a new wave of price competition. </p>"
+  },
+  {
+    "title": "對付登革熱，斯里蘭卡動用無人機",
+    "url": "https://technews.tw/2026/07/29/sri-lanka-uses-air-force-drones-to-tackle-spreading-dengue-outbreak/",
+    "source": "科技新報",
+    "summary": "無人機成為未來戰爭的主流，斯里蘭卡軍方也大舉動用無人機，但是並不是為了與人類打仗，而是與蚊子和病毒之間的防疫戰 [&#8230;]",
+    "published_at": "2026-07-29T07:30:55+08:00",
+    "stocks": [],
+    "uid": "95b83996c877898b3e9860470fcd2543",
+    "title_zh": "對付登革熱，斯里蘭卡動用無人機",
+    "summary_zh": "無人機成為未來戰爭的主流，斯里蘭卡軍方也大舉動用無人機，但是並不是為了與人類打仗，而是與蚊子和病毒之間的防疫戰 [&#8230;]",
+    "title_en": "To combat dengue fever, Sri Lanka uses drones",
+    "summary_en": "Drones have become the mainstream of future warfare, and the Sri Lankan military is also using drones on a large scale, but not to fight humans, but to fight against mosquitoes and viruses […]"
+  },
+  {
+    "title": "無怪魏哲家羨慕！SK 海力士第二季營收獲利再創新高，淨利率達驚人 118%",
+    "url": "https://finance.technews.tw/2026/07/29/sk-hynixs-revenue-and-profit-hit-new-highs-in-the-second-quarter/",
+    "source": "科技新報",
+    "summary": "韓國記憶體大廠 SK 海力士（SK Hynix）公布 2026 年第二季財務報告。受惠於全球人工智慧（AI）需 [&#8230;]",
+    "published_at": "2026-07-29T07:30:01+08:00",
+    "stocks": [],
+    "uid": "95b78f73eccfc7fc47a57ac9efa69b61",
+    "title_zh": "無怪魏哲家羨慕！SK 海力士第二季營收獲利再創新高，淨利率達驚人 118%",
+    "summary_zh": "韓國記憶體大廠 SK 海力士（SK Hynix）公布 2026 年第二季財務報告。受惠於全球人工智慧（AI）需 [&#8230;]",
+    "title_en": "No wonder the Wei Zhe family is envious! SK Hynix’s second-quarter operating profit reached a new high, with net profit margin reaching an astonishing 118%",
+    "summary_en": "South Korean memory manufacturer SK Hynix announced its second quarter financial report for 2026. Benefiting from the global artificial intelligence (AI) demand […]"
+  },
+  {
+    "title": "7月29日重要財經行事曆",
+    "url": "https://money.udn.com/money/story/5607/9657183",
+    "source": "經濟日報",
+    "summary": "台灣\n法人說明會：聯電、欣興、順達、精測\n除權息：毅嘉、高雄銀、弘塑、聚積、中租-KY、伊雲谷等\n財報公告：聯電、台達電、國巨*、華泰、台光電、統一超、順達、力旺、牧德、同欣電、台燿、台虹、華研、信義等\n股東臨時會：天品\n興櫃掛牌：源傑科技\n\n國際\nFed利率決策（台灣30日凌晨2時公布）\n財報：SK海力士、愛馬仕；微軟、Meta、高通、安謀（美股盤後）",
+    "published_at": "2026-07-29T07:28:22+08:00",
+    "stocks": [
+      "5871",
+      "2308",
+      "2836",
+      "6689",
+      "2303",
+      "2402",
+      "3037",
+      "8039",
+      "9940",
+      "3211",
+      "6199",
+      "6510",
+      "8446"
+    ],
+    "uid": "da6b37eb307e2f4dcccb7bc71cb1c76d",
+    "title_zh": "7月29日重要財經行事曆",
+    "summary_zh": "台灣\n法人說明會：聯電、欣興、順達、精測\n除權息：毅嘉、高雄銀、弘塑、聚積、中租-KY、伊雲谷等\n財報公告：聯電、台達電、國巨*、華泰、台光電、統一超、順達、力旺、牧德、同欣電、台燿、台虹、華研、信義等\n股東臨時會：天品\n興櫃掛牌：源傑科技\n\n國際\nFed利率決策（台灣30日凌晨2時公布）\n財報：SK海力士、愛馬仕；微軟、Meta、高通、安謀（美股盤後）",
+    "title_en": "Important financial calendar for July 29",
+    "summary_en": "Taiwan\nLegal person briefing session: UMC, Xinxing, Shunda, Jingcei\nEx-rights dividends: Yijia, Kaohsiung Silver, Hongsu, Juji, Chailease-KY, eCloudvalley, etc.\nFinancial report announcement: UMC, Delta Electronics, Yageo*, Huatai, Taiwan Optoelectronics, Uni-President Super, Shunda, Liwang, Mude, Tongxin Electronics, Taiyao, Taihong, Huayan, Xinyi, etc.\nExtraordinary shareholders meeting: Tianpin\nNew cabinet listing: Yuanjie Technology\n\nInternational\nFed interest rate decision (announced at 2 a.m. on the 30th in Taiwan)\nFinancial reports: SK Hynix, Hermès; Microsoft, Meta, Qualcomm, ARM (U.S. stocks after hours)"
+  },
+  {
+    "title": "你沒說的它都知道，四句提示詞測出 AI 已能從零星對話精準推斷使用者隱私",
+    "url": "https://infosecu.technews.tw/2026/07/29/4-prompts-chatgpt-gemini-see-through-privacy/",
+    "source": "科技新報",
+    "summary": "人工智慧（AI）聊天機器人到底能「讀懂」你多少？《紐約時報》專欄作家 Brian X. Chen 23 日撰文 [&#8230;]",
+    "published_at": "2026-07-29T07:20:46+08:00",
+    "stocks": [],
+    "uid": "bd6449f0e1460f7f951d0969619a1cb9",
+    "title_zh": "你沒說的它都知道，四句提示詞測出 AI 已能從零星對話精準推斷使用者隱私",
+    "summary_zh": "人工智慧（AI）聊天機器人到底能「讀懂」你多少？《紐約時報》專欄作家 Brian X. Chen 23 日撰文 [&#8230;]",
+    "title_en": "It knows everything you haven’t said. Four prompt words reveal that AI can accurately infer user privacy from sporadic conversations.",
+    "summary_en": "How well can artificial intelligence (AI) chatbots \"read\" you? \"New York Times\" columnist Brian X. Chen wrote on the 23rd […]"
+  },
+  {
+    "title": "50% 成本實現超越業界防護效能，微軟推出全新網安 AI 模型與代理式平台",
+    "url": "https://infosecu.technews.tw/2026/07/29/microsoft-touts-cost-saving-ai-model-for-cybersecurity/",
+    "source": "科技新報",
+    "summary": "就在 Google 高階主管 Hayete Gallot 回鍋掌管微軟資安業務最高主管 5 個月後，微軟於週一 [&#8230;]",
+    "published_at": "2026-07-29T07:20:36+08:00",
+    "stocks": [],
+    "uid": "c54666e0a2c8f65d6c46bbdfd7823e4d",
+    "title_zh": "50% 成本實現超越業界防護效能，微軟推出全新網安 AI 模型與代理式平台",
+    "summary_zh": "就在 Google 高階主管 Hayete Gallot 回鍋掌管微軟資安業務最高主管 5 個月後，微軟於週一 [&#8230;]",
+    "title_en": "Achieving protection performance beyond the industry at 50% cost, Microsoft launches new network security AI model and agent platform",
+    "summary_en": "Just five months after Google executive Hayete Gallot returned to take the helm as Microsoft's top security executive, Microsoft on Monday […]"
+  },
+  {
+    "title": "全球首個 3D 熱隱形斗篷問世，紅外線相機也偵測不到",
+    "url": "https://technews.tw/2026/07/29/us-researchers-develop-first-any-direction-thermal-cloak/",
+    "source": "科技新報",
+    "summary": "美國伊利諾大學厄巴納-香檳分校（University of Illinois Urbana-Champaign [&#8230;]",
+    "published_at": "2026-07-29T07:10:34+08:00",
+    "stocks": [],
+    "uid": "03b5f693b1cb32d71e85b385a939f77c",
+    "title_zh": "全球首個 3D 熱隱形斗篷問世，紅外線相機也偵測不到",
+    "summary_zh": "美國伊利諾大學厄巴納-香檳分校（University of Illinois Urbana-Champaign [&#8230;]",
+    "title_en": "The world's first 3D thermal invisibility cloak is available and cannot be detected by infrared cameras",
+    "summary_en": "University of Illinois Urbana-Champaign […]"
+  },
+  {
+    "title": "恩智浦第二季財報優於市場預期，營收數字連續第三季成長",
+    "url": "https://finance.technews.tw/2026/07/29/nxps-second-quarter-earnings-exceeded-market-expectations/",
+    "source": "科技新報",
+    "summary": "車用晶片大廠恩智浦半導體（NXP Semiconductors）公布截至6月28日的第二季財務報告。受惠於軟體 [&#8230;]",
+    "published_at": "2026-07-29T07:10:27+08:00",
+    "stocks": [
+      "5287"
+    ],
+    "uid": "ddb9cbdcf3aceaea8b43b843be6090c0",
+    "title_zh": "恩智浦第二季財報優於市場預期，營收數字連續第三季成長",
+    "summary_zh": "車用晶片大廠恩智浦半導體（NXP Semiconductors）公布截至6月28日的第二季財務報告。受惠於軟體 [&#8230;]",
+    "title_en": "NXP's second-quarter financial results beat market expectations, with revenue growing for the third consecutive quarter",
+    "summary_en": "Automotive chip maker NXP Semiconductors announced its second quarter financial report as of June 28. Benefit from software […]"
+  },
+  {
+    "title": "從馬路到水路，小米申請新能源車水下推進器專利",
+    "url": "https://technews.tw/2026/07/29/xiaomi-new-energy-vehicle-underwater-thruster-patent-road-to-water/",
+    "source": "科技新報",
+    "summary": "2026 年 7 月小米汽車獲准水下推進器專利，代表水陸兩棲車已非紙上談兵。該專利揭露的導流結構創新，結合比亞 [&#8230;]",
+    "published_at": "2026-07-29T07:00:44+08:00",
+    "stocks": [],
+    "uid": "662124b9e07b5e91157a372861a8f298",
+    "title_zh": "從馬路到水路，小米申請新能源車水下推進器專利",
+    "summary_zh": "2026 年 7 月小米汽車獲准水下推進器專利，代表水陸兩棲車已非紙上談兵。該專利揭露的導流結構創新，結合比亞 [&#8230;]",
+    "title_en": "From roads to waterways, Xiaomi applies for a patent for underwater propellers for new energy vehicles",
+    "summary_en": "In July 2026, Xiaomi Motors was approved for an underwater propeller patent, which means that amphibious vehicles are no longer just a paper idea. The innovation of the diversion structure disclosed in this patent, combined with Biya […]"
+  },
+  {
+    "title": "LTN經濟通》中國插旗大洋洲 危及我能源供應？",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5517462",
+    "source": "自由財經",
+    "summary": "巴紐關閉我辦事處\n\n\n〔財經頻道／綜合報導〕太平洋島國巴布亞紐幾內亞外交部長特卡琴科（Justin Tkatchenko）7月15日無預警發佈聲明表示，巴紐重申一中原則，並將關閉我國設立於巴紐首...…",
+    "published_at": "2026-07-29T06:59:53+08:00",
+    "stocks": [],
+    "uid": "f4e77a65b60d11c12810e4e051afbb53",
+    "title_zh": "LTN經濟通》中國插旗大洋洲 危及我能源供應？",
+    "summary_zh": "巴紐關閉我辦事處\n\n\n〔財經頻道／綜合報導〕太平洋島國巴布亞紐幾內亞外交部長特卡琴科（Justin Tkatchenko）7月15日無預警發佈聲明表示，巴紐重申一中原則，並將關閉我國設立於巴紐首...…",
+    "title_en": "LTN Economic News》China is planting its flag in Oceania, endangering our energy supply?",
+    "summary_en": "Papua New Guinea closed my office\n\n\n[Financial Channel/Comprehensive Report] Justin Tkatchenko, the foreign minister of the Pacific island country Papua New Guinea, issued a statement without warning on July 15, saying that Papua New Guinea reaffirmed the one-China principle and would close the Chinese establishment in Papua New Guinea’s capital..."
+  },
+  {
+    "title": "槓桿折斷韓股暴跌 謝金河：像給飆車少年吃迷幻藥",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5521066",
+    "source": "自由財經",
+    "summary": "近期韓股跌跌不休，拖累日股、台股，財信傳媒董事長謝金河指出，海力士、三星先前漲幅很驚人，在股價大漲時還發行兩倍槓桿ETF，這有如少年飆車，又給他們餵食迷幻藥般，非出事不可！謝金河...…",
+    "published_at": "2026-07-29T06:53:58+08:00",
+    "stocks": [
+      "5007"
+    ],
+    "uid": "c35d09942aaa8074f7558223681b7fac",
+    "title_zh": "槓桿折斷韓股暴跌 謝金河：像給飆車少年吃迷幻藥",
+    "summary_zh": "近期韓股跌跌不休，拖累日股、台股，財信傳媒董事長謝金河指出，海力士、三星先前漲幅很驚人，在股價大漲時還發行兩倍槓桿ETF，這有如少年飆車，又給他們餵食迷幻藥般，非出事不可！謝金河...…",
+    "title_en": "Leverage breaks, Korean stocks plummet Xie Jinhe: It’s like giving hallucinogens to a racing boy",
+    "summary_en": "Recently, the Korean stock market has been falling continuously, dragging down Japanese and Taiwanese stocks. Xie Jinhe, chairman of Caixin Media, pointed out that Hynix and Samsung had amazing gains in the past, and they also issued twice-leveraged ETFs when their stock prices soared. This is like racing teenagers and feeding them psychedelic drugs. Something is bound to happen! Xie Jinhe......"
+  },
+  {
+    "title": "美麗華大公子「贏了遺產」卻付8430萬　複雜關係曝光",
+    "url": "https://finance.ettoday.net/news/3209365",
+    "source": "ETtoday",
+    "summary": "<img alt=\"美麗華大公子「贏了遺產」卻付8430萬　複雜關係曝光\" src=\"https://cdn2.ettoday.net/images/8850/c8850913.jpg\" /><br /> 美福集團已故創辦人黃榮圖的長子黃明山長期旅美行事極為低調，在台資產原本託管給二弟黃明煌及三弟黃明仁，卻因為2015年槍擊事件，他不得不親自出手處理相關財務，其中景德榮公司的股份，在槍擊案後借名登記給叔叔黃固榮的長子黃憲文卻引爆堂兄弟鬩牆，打起返還股份的官司，如今一審雖獲判勝訴，但法官並未比照其他借名登記官司讓黃明山無償取回股份，而是判他必須支付8430萬元股款。 <a href=\"https://finance.ettoday.net/news/3209365\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-07-29T06:47:00+08:00",
+    "stocks": [],
+    "uid": "cb0b4dd4e0b5c13f88cd0b980dfff1c1",
+    "title_zh": "美麗華大公子「贏了遺產」卻付8430萬　複雜關係曝光",
+    "summary_zh": "<img alt=\"美麗華大公子「贏了遺產」卻付8430萬　複雜關係曝光\" src=\"https://cdn2.ettoday.net/images/8850/c8850913.jpg\" /><br /> 美福集團已故創辦人黃榮圖的長子黃明山長期旅美行事極為低調，在台資產原本託管給二弟黃明煌及三弟黃明仁，卻因為2015年槍擊事件，他不得不親自出手處理相關財務，其中景德榮公司的股份，在槍擊案後借名登記給叔叔黃固榮的長子黃憲文卻引爆堂兄弟鬩牆，打起返還股份的官司，如今一審雖獲判勝訴，但法官並未比照其他借名登記官司讓黃明山無償取回股份，而是判他必須支付8430萬元股款。 <a href=\"https://finance.ettoday.net/news/3209365\" target=\"_blank\">《詳全文...》</a>",
+    "title_en": "The eldest son of Miramar \"won the inheritance\" but paid 84.3 million. The complicated relationship is exposed",
+    "summary_en": "<img alt=\"The eldest son of Miramar \"won the inheritance\" but paid 84.3 million. The complicated relationship is exposed\" src=\"https://cdn2.ettoday.net/images/8850/c8850913.jpg\" /><br /> Huang Mingshan, the eldest son of the late founder of Meifu Group, Huang Rongtu, has been keeping a very low profile in the United States for a long time. His assets in Taiwan were originally entrusted to his second brother Huang Minghuang and his third brother Huang Mingren. However, due to the shooting incident in 2015, he had to personally handle the relevant finances. Among them, the shares of Jingderong Company were lost during the shooting. After the crime, the eldest son Huang Xianwen, who registered under a borrowed name to his uncle Huang Gurong, triggered a feud between his cousins and launched a lawsuit to return the shares. Although he won the first instance, the judge did not let Huang Mingshan get the shares back free of charge as in other lawsuits registered under a borrowed name. Instead, he was ordered to pay 84.3 million yuan for the shares. <a href=\"https://finance.ettoday.net/news/3209365\" target=\"_blank\">\"Full text...\"</a>"
+  },
+  {
+    "title": "美麗華家族鬧翻！　曾爆手足相殘槍擊3死",
+    "url": "https://finance.ettoday.net/news/3209364",
+    "source": "ETtoday",
+    "summary": "<img alt=\"美麗華家族鬧翻！　曾爆手足相殘槍擊3死\" src=\"https://cdn2.ettoday.net/images/8850/c8850909.jpg\" /><br /> 2015年美麗華家族掌門人黃杏中過世隔天，三弟黃榮圖後代在美福集團總部爆發手足相殘的槍擊案，黃榮圖二子黃明煌、三子黃明仁、四子黃明德從此告別人世，也衝擊「美福體系」的接班安排，事隔多年，近日台北地方法院一件判決意外掀出，在槍擊案發生後，長期旅美的黃榮圖長子黃明山忌憚美國「肥咖條款」（Foreign Account Tax Compliance Act，縮寫FATCA）追查海外資產，為避免報稅困擾，將公司股票借名登記給「五叔」黃固榮的長子黃憲文，但後來索討不回，導致堂兄弟對簿公堂。\n\n <a href=\"https://finance.ettoday.net/news/3209364\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-07-29T06:38:00+08:00",
+    "stocks": [],
+    "uid": "ccab8d299e4d95bfff0be28ad6eed679",
+    "title_zh": "美麗華家族鬧翻！　曾爆手足相殘槍擊3死",
+    "summary_zh": "<img alt=\"美麗華家族鬧翻！　曾爆手足相殘槍擊3死\" src=\"https://cdn2.ettoday.net/images/8850/c8850909.jpg\" /><br /> 2015年美麗華家族掌門人黃杏中過世隔天，三弟黃榮圖後代在美福集團總部爆發手足相殘的槍擊案，黃榮圖二子黃明煌、三子黃明仁、四子黃明德從此告別人世，也衝擊「美福體系」的接班安排，事隔多年，近日台北地方法院一件判決意外掀出，在槍擊案發生後，長期旅美的黃榮圖長子黃明山忌憚美國「肥咖條款」（Foreign Account Tax Compliance Act，縮寫FATCA）追查海外資產，為避免報稅困擾，將公司股票借名登記給「五叔」黃固榮的長子黃憲文，但後來索討不回，導致堂兄弟對簿公堂。\n\n <a href=\"https://finance.ettoday.net/news/3209364\" target=\"_blank\">《詳全文...》</a>",
+    "title_en": "The Miramar family is falling out! There was a fratricidal shooting that killed 3 people",
+    "summary_en": "<img alt=\"The Miramar family had a falling out! There was a fratricidal shooting that killed three people\" src=\"https://cdn2.ettoday.net/images/8850/c8850909.jpg\" /><br /> In 2015, the day after the death of Miramar family head Huang Xingzhong, the descendants of the third brother Huang Rongtu were involved in a fratricidal shooting at the Meifu Group headquarters. Huang Rongtu's second son Huang Minghuang, third son Huang Mingren, and fourth son Huang Mingde passed away. After many years, a recent Taipei District Court ruling unexpectedly revealed the succession arrangement that has impacted the \"Meifu system\". After the shooting, Huang Mingshan, the eldest son of Huang Rongtu, who had been living in the United States for a long time, was afraid of the \"Fat Claus\" in the United States. Account Tax Compliance Act (FATCA) to trace overseas assets. In order to avoid tax filing troubles, the company's shares were registered in the name of \"Fifth Uncle\" Huang Gurong's eldest son Huang Xianwen. However, he later failed to get the money back, which led to a lawsuit between the cousins.\n\n <a href=\"https://finance.ettoday.net/news/3209364\" target=\"_blank\">\"Full text...\"</a>"
+  },
+  {
+    "title": "台股最快8月見底　國巨腰斬重演2018年戲碼",
+    "url": "https://finance.ettoday.net/news/3209361",
+    "source": "ETtoday",
+    "summary": "<img alt=\"台股最快8月見底　國巨腰斬重演2018年戲碼\" src=\"https://cdn2.ettoday.net/images/4766/c4766077.jpg\" /><br /> 台股28日爆發融資斷頭賣壓，單日上市櫃融資大減304億元，創7月17日股災後新高。有專家認為，這是去槓桿的必然結果，預估最快8月大盤可見低點。另外也有專家以國巨（2327）近期股價腰斬為例，坦言其實國巨只是在重演2018年的戲碼。 <a href=\"https://finance.ettoday.net/news/3209361\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-07-29T06:34:00+08:00",
+    "stocks": [
+      "2327"
+    ],
+    "uid": "0242b7d18afcb63398469b242150db7a",
+    "title_zh": "台股最快8月見底　國巨腰斬重演2018年戲碼",
+    "summary_zh": "<img alt=\"台股最快8月見底　國巨腰斬重演2018年戲碼\" src=\"https://cdn2.ettoday.net/images/4766/c4766077.jpg\" /><br /> 台股28日爆發融資斷頭賣壓，單日上市櫃融資大減304億元，創7月17日股災後新高。有專家認為，這是去槓桿的必然結果，預估最快8月大盤可見低點。另外也有專家以國巨（2327）近期股價腰斬為例，坦言其實國巨只是在重演2018年的戲碼。 <a href=\"https://finance.ettoday.net/news/3209361\" target=\"_blank\">《詳全文...》</a>",
+    "title_en": "Taiwan stocks may bottom out as soon as August, Yageo will cut in half and repeat the drama of 2018",
+    "summary_en": "<img alt=\"Taiwan stocks will bottom out as soon as August; Yageo will cut in half and repeat the drama of 2018\" src=\"https://cdn2.ettoday.net/images/4766/c4766077.jpg\" /><br /> On the 28th, Taiwan stocks broke out under financing selling pressure, and OTC financing fell by 30.4 billion yuan in a single day, hitting a new high after the stock market crash on July 17. Some experts believe that this is the inevitable result of deleveraging, and the market is expected to hit a low as soon as August. In addition, some experts cited the recent stock price of Yageo (2327) as an example, and admitted that in fact, Yageo was just repeating the drama of 2018. <a href=\"https://finance.ettoday.net/news/3209361\" target=\"_blank\">\"Full text...\"</a>"
+  },
+  {
+    "title": "和大搶攻無人機／齒輪大王台美擴廠布局無人機　和大集團入主格斯拚轉型",
+    "url": "https://www.mirrormedia.mg/story/20260728fin002",
+    "source": "鏡週刊財經",
+    "summary": "<p>在國內擁有「齒輪大王」美譽的和大集團總裁沈國榮，去年交棒女兒退居二線，日前火速出手入主興櫃電池廠格斯科技，大舉進軍無人機市場。日前沈國榮接受本刊專訪透露，和大正準備在美國紐約州擴建產能，爭食台、美2地的無人機商機。「烏俄戰爭後引爆無人機爆發性成長，格斯的鈦酸鋰電池具輕量化優點，可以拉長無人機滯空時間，目前已出貨給越南的彈簧刀無人機，集團將藉格斯開路，逐步打進台美無人機供應鏈。」</p>",
+    "published_at": "2026-07-29T06:28:59+08:00",
+    "stocks": [],
+    "uid": "9f4991a0c5f7a8269e250d0e3c2a43bc",
+    "title_zh": "和大搶攻無人機／齒輪大王台美擴廠布局無人機　和大集團入主格斯拚轉型",
+    "summary_zh": "<p>在國內擁有「齒輪大王」美譽的和大集團總裁沈國榮，去年交棒女兒退居二線，日前火速出手入主興櫃電池廠格斯科技，大舉進軍無人機市場。日前沈國榮接受本刊專訪透露，和大正準備在美國紐約州擴建產能，爭食台、美2地的無人機商機。「烏俄戰爭後引爆無人機爆發性成長，格斯的鈦酸鋰電池具輕量化優點，可以拉長無人機滯空時間，目前已出貨給越南的彈簧刀無人機，集團將藉格斯開路，逐步打進台美無人機供應鏈。」</p>",
+    "title_en": "Heda rushes to attack drones/Gear King expands its UAV factory in Taiwan and the United States, and Heda Group takes over Ges to fight for transformation",
+    "summary_en": "<p>Shen Guorong, the president of Heda Group, who is known as the \"King of Gears\" in the country, took over his daughter last year and took a back seat. Recently, he quickly bought the Xingai battery factory Gus Technology and entered the drone market in a big way. Shen Guorong revealed in an exclusive interview with this magazine a few days ago that Heda is preparing to expand production capacity in New York State in the United States to compete for drone business opportunities in Taiwan and the United States. \"After the Ukraine-Russia war, the explosive growth of drones was triggered. Gus's lithium titanate batteries have the advantage of being lightweight and can extend the flight time of drones. They have been shipped to Vietnam's Switchblade drones. The group will use Gus to open the way and gradually enter the drone supply chain in Taiwan and the United States.\"</p>"
+  },
+  {
+    "title": "和大搶攻無人機1／代工美國軍規無人機出口越南　和大集團瞄準商機上看2千億",
+    "url": "https://www.mirrormedia.mg/story/20260728fin003",
+    "source": "鏡週刊財經",
+    "summary": "<p>和大6月底入主的興櫃電池廠格斯科技，代工美國設計的彈簧刀軍用無人機出貨給越南，技術已經很成熟，和大集團總裁沈國榮說，接下來將爭取立法院正審議的無人機條例2千億元預算，因為美國無人機國家隊來台以後，已經開發出第一款公版的無人機，不再像以往是無頭蒼蠅的狀態，和大將爭取國防部的無人機標案，同時也會在美國擴產，供應給美國。</p>",
+    "published_at": "2026-07-29T06:28:58+08:00",
+    "stocks": [],
+    "uid": "91f25e1b89a10fcf4b79bc4ad6e14375",
+    "title_zh": "和大搶攻無人機1／代工美國軍規無人機出口越南　和大集團瞄準商機上看2千億",
+    "summary_zh": "<p>和大6月底入主的興櫃電池廠格斯科技，代工美國設計的彈簧刀軍用無人機出貨給越南，技術已經很成熟，和大集團總裁沈國榮說，接下來將爭取立法院正審議的無人機條例2千億元預算，因為美國無人機國家隊來台以後，已經開發出第一款公版的無人機，不再像以往是無頭蒼蠅的狀態，和大將爭取國防部的無人機標案，同時也會在美國擴產，供應給美國。</p>",
+    "title_en": "Heda Attack Drone 1/OEM US military-standard drones exported to Vietnam Heda Group aims at business opportunities worth 200 billion",
+    "summary_en": "<p>Gos Technology, a battery factory in Xingcai that Heda took over at the end of June, manufactures U.S.-designed Switchblade military drones for shipment to Vietnam. The technology is very mature. Heda Group President Shen Guorong said that he will next strive for the 200 billion yuan budget for the drone regulations that are being reviewed by the Legislative Yuan, because after the U.S. UAV National Team came to Taiwan, it has developed the first public version of the drone. It is no longer like a headless fly in the past. Heda will fight for the UAV bid of the Ministry of Defense, and will also expand production in the United States and supply it to the United States. </p>"
+  },
+  {
+    "title": "和大搶攻無人機2／赴美擴廠前先取經台積電　沈國榮：派工程師一對一教到會",
+    "url": "https://www.mirrormedia.mg/story/20260728fin004",
+    "source": "鏡週刊財經",
+    "summary": "<p>和大集團赴美擴產，總裁沈國榮向本刊透露，自己曾經擔任兩屆的科學園區同業公會理事長，經常與台積電的主管和工程師聚會聊天吃飯，得知台積電在美國擴產從剛開始的問題重重，到後來能夠克服難關的主因之一是每個月派了2千個工程師到當地進行一對一教學，未來和大也會學習台積電的經驗，派人去美國教。</p>",
+    "published_at": "2026-07-29T06:28:57+08:00",
+    "stocks": [],
+    "uid": "5cef82c03cfe5afbf20b76729c54e26c",
+    "title_zh": "和大搶攻無人機2／赴美擴廠前先取經台積電　沈國榮：派工程師一對一教到會",
+    "summary_zh": "<p>和大集團赴美擴產，總裁沈國榮向本刊透露，自己曾經擔任兩屆的科學園區同業公會理事長，經常與台積電的主管和工程師聚會聊天吃飯，得知台積電在美國擴產從剛開始的問題重重，到後來能夠克服難關的主因之一是每個月派了2千個工程師到當地進行一對一教學，未來和大也會學習台積電的經驗，派人去美國教。</p>",
+    "title_en": "Heda Attack Drone 2/Learn from TSMC before going to the United States to expand the factory. Shen Guorong: Send engineers to the meeting for one-on-one teaching",
+    "summary_en": "<p>Heda Group went to the United States to expand production. President Shen Guorong revealed to this magazine that he had served as the chairman of the Science Park Industry Association for two terms. He often met with TSMC supervisors and engineers to chat and have meals. He learned that TSMC had many problems in the beginning of its expansion in the United States. One of the main reasons why it was able to overcome the difficulties was that it sent 2,000 engineers to the local area every month for one-on-one teaching. In the future, Heda will also learn from TSMC's experience and send people to teach in the United States. </p>"
+  },
+  {
+    "title": "和大搶攻無人機3／電動車市場受中國重擊　和大觸角伸向半導體測試解密",
+    "url": "https://www.mirrormedia.mg/story/20260728fin005",
+    "source": "鏡週刊財經",
+    "summary": "<p>和大總裁沈國榮表示，特斯拉赴上海設廠後，中國要求供應鏈採購本土化，對供應特斯拉零組件的和大造成非常大的衝擊，為求轉型，和大因此朝無人機和半導體測試設備發展，切入半導體先進封裝CoWoS中後段檢測設備，主打全溫域快速降溫（170度降到負40度），目前已完成工研院及客戶驗測，希望成為鴻勁外的另一個選擇。</p>",
+    "published_at": "2026-07-29T06:28:56+08:00",
+    "stocks": [],
+    "uid": "c227196a610034e3af01d15dd7a6f412",
+    "title_zh": "和大搶攻無人機3／電動車市場受中國重擊　和大觸角伸向半導體測試解密",
+    "summary_zh": "<p>和大總裁沈國榮表示，特斯拉赴上海設廠後，中國要求供應鏈採購本土化，對供應特斯拉零組件的和大造成非常大的衝擊，為求轉型，和大因此朝無人機和半導體測試設備發展，切入半導體先進封裝CoWoS中後段檢測設備，主打全溫域快速降溫（170度降到負40度），目前已完成工研院及客戶驗測，希望成為鴻勁外的另一個選擇。</p>",
+    "title_en": "Heda rushes to attack drones 3/The electric vehicle market is hit hard by China; Heda extends its tentacles to semiconductor testing decrypted",
+    "summary_en": "<p>Heda President Shen Guorong said that after Tesla set up a factory in Shanghai, China required the localization of supply chain procurement, which had a great impact on Heda, which supplies Tesla components. In order to transform, Heda developed drones and semiconductor testing equipment, and entered the semiconductor advanced packaging CoWoS mid- and back-end testing equipment. It focuses on rapid cooling in the entire temperature range (from 170 degrees to minus 40 degrees). It has completed the Industrial Research Institute and customer testing, and hopes to become another option besides Hongjin. </p>"
+  },
+  {
     "title": "美股收盤》道瓊漲537點、費半續挫逾4％ 台積電ADR跌1.7％",
     "url": "https://ec.ltn.com.tw/article/breakingnews/5521072",
     "source": "自由財經",
@@ -26,6 +334,21 @@
     "summary_zh": "向來支持台灣的美國重量級聯邦參議員葛蘭姆因突發疾病辭世，喪禮今天於華盛頓國家大教堂舉行。駐美代表俞大㵢表示，葛蘭姆多年來...",
     "title_en": "U.S. Senator Graham's funeral, Yu Da'ou attended to pay tribute to Taiwan's staunch ally",
     "summary_en": "Graham, a heavyweight U.S. senator who had always supported Taiwan, passed away due to a sudden illness. The funeral was held today at the Washington National Cathedral. Representative Yu Damo said that Graham has..."
+  },
+  {
+    "title": "「空軍集合」晶片股！費半跌超500點　台指期夜盤震盪收紅316點",
+    "url": "https://finance.ettoday.net/news/3209356",
+    "source": "ETtoday",
+    "summary": "<img alt=\"「空軍集合」晶片股！費半跌超500點　台指期夜盤震盪收紅316點\" src=\"https://cdn2.ettoday.net/images/7780/c7780241.jpg\" /><br /> 美股週二 (28 日) 漲跌互見，資金流量消費、金融、醫療保健等類股，道瓊勁揚超過500點；半導體類股則是空軍再度集結，費半重挫將近5%，記憶體類股首當其衝，SanDisk（SNDK）暴跌13%；台積電ADR（TSM）跌6.78美元或-1.70％、收392.31美元。台指期夜盤上下震盪近千點，最終收漲316點或0.76％、收41889點。 <a href=\"https://finance.ettoday.net/news/3209356\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-07-29T06:10:00+08:00",
+    "stocks": [
+      "2330"
+    ],
+    "uid": "2d38db5062afbbb0e000c8c92a31740b",
+    "title_zh": "「空軍集合」晶片股！費半跌超500點　台指期夜盤震盪收紅316點",
+    "summary_zh": "<img alt=\"「空軍集合」晶片股！費半跌超500點　台指期夜盤震盪收紅316點\" src=\"https://cdn2.ettoday.net/images/7780/c7780241.jpg\" /><br /> 美股週二 (28 日) 漲跌互見，資金流量消費、金融、醫療保健等類股，道瓊勁揚超過500點；半導體類股則是空軍再度集結，費半重挫將近5%，記憶體類股首當其衝，SanDisk（SNDK）暴跌13%；台積電ADR（TSM）跌6.78美元或-1.70％、收392.31美元。台指期夜盤上下震盪近千點，最終收漲316點或0.76％、收41889點。 <a href=\"https://finance.ettoday.net/news/3209356\" target=\"_blank\">《詳全文...》</a>",
+    "title_en": "\"Air Force Gathers\" Chip Stocks! Fees fell by more than 500 points; Taiwan index futures fluctuated and closed in the red by 316 points at night",
+    "summary_en": "<img alt=\"\"Air Force Gathering\" chip stocks! Fees fell by more than 500 points, Taiwan index futures fluctuated and closed 316 points in red in night trading\" src=\"https://cdn2.ettoday.net/images/7780/c7780241.jpg\" /><br /> US stocks Tuesday (28th) There were mixed gains and losses, with the Dow Jones rising more than 500 points in capital flow consumption, finance, health care and other stocks; semiconductor stocks fell nearly 5% as the Air Force regrouped, and memory stocks bore the brunt, with SanDisk (SNDK) ) plummeted 13%; TSMC ADR (TSM) fell 6.78 US dollars or -1.70% to close at 392.31 US dollars. The Taiwan Index futures fluctuated nearly a thousand points in night trading, and finally closed up 316 points or 0.76% to close at 41,889 points. <a href=\"https://finance.ettoday.net/news/3209356\" target=\"_blank\">\"Full text...\"</a>"
   },
   {
     "title": "市場對AI熱潮疑慮加深　美股收盤走勢不一",
@@ -945,6 +1268,19 @@
     "summary_en": "Australia will host the 2032 Olympic Games, and the Australian government's construction funding has reached more than NT$160 billion. There is a long-term and huge demand for steel. Zhang Zhenwu, general manager of major steel mill Yehui (2023), is optimistic about the prospects. He personally leads a team to visit customers in Australia and actively promotes Yehui's galvanized, painted and high-grade aluminum-magnesium-zinc steel coils; China Steel (2002) is happy to see users showing strong ambition and expresses its support."
   },
   {
+    "title": "伊朗開出三條件重開荷姆茲，要求改道、廢TSS並獨攬排雷",
+    "url": "https://tw.stock.yahoo.com/news/%E4%BC%8A%E6%9C%97%E9%96%8B%E5%87%BA%E4%B8%89%E6%A2%9D%E4%BB%B6%E9%87%8D%E9%96%8B%E8%8D%B7%E5%A7%86%E8%8C%B2-%E8%A6%81%E6%B1%82%E6%94%B9%E9%81%93-%E5%BB%A2tss%E4%B8%A6%E7%8D%A8%E6%94%AC%E6%8E%92%E9%9B%B7-234927801.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／陳孟朔】路透報導，伊朗已向阿曼提出荷姆茲海峽臨時通航方案，要求所有進入波斯灣的船舶以及部分駛離波斯灣的船舶改經伊朗領海，以擴大德黑蘭對這條全球能源動脈的實際控制。伊朗同時拒絕阿曼提出的雙向航道「平均分配」方案，並警告若伊方條件不獲接受，荷姆茲海峽將繼續維持關閉狀態。伊朗外交部副部長加里巴巴迪(Kazem Gharibabadi)表示，德黑蘭已不再承認國際海事組織(IMO)於1968年批准的交通分離制(TSS)。原有TSS將進出船舶分流，大部分航線位於阿曼水域；伊朗認為，這項安排在美國與以色列今年2月攻擊伊朗後，已無法保障其國家安全，因此要求在未來雙向航線中都取得更大的管控權。除改劃航道外，伊朗也要求獨攬海峽排雷工作，不允許美國、法國或其他第三國介入，即使相關國家受到阿曼邀請也不例外。目前原有國際航道仍因水雷威脅而無法正常使用，船舶主要依靠伊朗與阿曼各自劃設的替代航線通行。伊朗的提案目前仍處於談判階段，尚未成為正式通航制度，因此不能解讀為荷姆茲海峽即將全面恢復正常航運。這項方案顯示，德黑蘭爭取的已不只是向船舶收取服務費，而是要在航線規劃、船舶監管及海上安全等領域取得制度性主導",
+    "published_at": "2026-07-28T23:49:27+08:00",
+    "stocks": [],
+    "uid": "a4774eecd76d11f37437664da32b62cc",
+    "title_zh": "伊朗開出三條件重開荷姆茲，要求改道、廢TSS並獨攬排雷",
+    "summary_zh": "【財訊快報／陳孟朔】路透報導，伊朗已向阿曼提出荷姆茲海峽臨時通航方案，要求所有進入波斯灣的船舶以及部分駛離波斯灣的船舶改經伊朗領海，以擴大德黑蘭對這條全球能源動脈的實際控制。伊朗同時拒絕阿曼提出的雙向航道「平均分配」方案，並警告若伊方條件不獲接受，荷姆茲海峽將繼續維持關閉狀態。伊朗外交部副部長加里巴巴迪(Kazem Gharibabadi)表示，德黑蘭已不再承認國際海事組織(IMO)於1968年批准的交通分離制(TSS)。原有TSS將進出船舶分流，大部分航線位於阿曼水域；伊朗認為，這項安排在美國與以色列今年2月攻擊伊朗後，已無法保障其國家安全，因此要求在未來雙向航線中都取得更大的管控權。除改劃航道外，伊朗也要求獨攬海峽排雷工作，不允許美國、法國或其他第三國介入，即使相關國家受到阿曼邀請也不例外。目前原有國際航道仍因水雷威脅而無法正常使用，船舶主要依靠伊朗與阿曼各自劃設的替代航線通行。伊朗的提案目前仍處於談判階段，尚未成為正式通航制度，因此不能解讀為荷姆茲海峽即將全面恢復正常航運。這項方案顯示，德黑蘭爭取的已不只是向船舶收取服務費，而是要在航線規劃、船舶監管及海上安全等領域取得制度性主導",
+    "title_en": "Iran offers three conditions to reopen Homuz, requiring diversion, abolition of TSS and monopoly on demining",
+    "summary_en": "[Financial News/Chen Mengshuo] Reuters reported that Iran has proposed to Oman a temporary navigation plan for the Strait of Hormuz, requiring all ships entering the Persian Gulf and some ships leaving the Persian Gulf to divert through Iranian territorial waters to expand Tehran's actual control over this global energy artery. Iran also rejected Oman's proposal for an \"equal allocation\" of two-way shipping lanes and warned that the Strait of Hormuz would remain closed if Iran's conditions were not accepted. Iran's Deputy Foreign Minister Kazem Gharibabadi said Tehran no longer recognizes the Traffic Separation System (TSS) approved by the International Maritime Organization (IMO) in 1968. The original TSS will divert incoming and outgoing ships, with most routes located in Omani waters. Iran believes that this arrangement can no longer protect its national security after the United States and Israel attacked Iran in February this year, and therefore requires greater control over both directions in the future. In addition to changing the waterway, Iran also demands to monopolize the demining work in the strait and not allow the United States, France or other third countries to intervene, even if the relevant countries are invited by Oman. At present, the original international waterways are still unable to be used normally due to the threat of mines, and ships mainly rely on alternative routes established by Iran and Oman. Iran's proposal is still in the negotiation stage and has not yet become a formal navigation system, so it cannot be interpreted as an imminent return to normal shipping in the Strait of Hormuz. This plan shows that Tehran is no longer just striving to collect service fees from ships, but also to obtain institutional leadership in areas such as route planning, ship supervision and maritime safety."
+  },
+  {
     "title": "兄弟姊妹特留分刪除 如何影響不同家庭型態？律師提醒這件事很重要",
     "url": "https://money.udn.com/money/story/7307/9657003",
     "source": "經濟日報總經",
@@ -956,6 +1292,59 @@
     "summary_zh": "立法院會三讀通過修正《民法》部分條文，刪除兄弟姊妹特留分，將自總統公布六個月後施行。台灣遺囑協會理事長劉韋德提醒，此次修法後，單身族與頂客族是影響最深的兩大族群。他特別提醒，民法修正後，立遺囑的必要性不減反增，若沒有遺囑，兄弟姊妹的應繼分會遠比特留分還多。",
     "title_en": "How does the deletion of special points for siblings affect different family types? The lawyer reminded me that this matter is very important",
     "summary_en": "The Legislative Yuan passed the third reading to amend some provisions of the Civil Code to delete special points for brothers and sisters, which will come into effect six months after the presidential announcement. Liu Weide, chairman of the Taiwan Probate Association, reminded that after this revision of the law, singles and inmates are the two major groups that have the greatest impact. He specifically reminded that after the amendment of the Civil Code, the necessity of making a will has not diminished but increased. If there is no will, the successor branches of brothers and sisters will be far more than the inheritance branches."
+  },
+  {
+    "title": "法說會前夕，聯電ADR週二收挫9.01%連四黑，五週內急瀉40%",
+    "url": "https://tw.stock.yahoo.com/news/%E6%B3%95%E8%AA%AA%E6%9C%83%E5%89%8D%E5%A4%95-%E8%81%AF%E9%9B%BBadr%E9%80%B1%E4%BA%8C%E6%94%B6%E6%8C%AB9-01-%E9%80%A3%E5%9B%9B%E9%BB%91-%E4%BA%94%E9%80%B1%E5%85%A7%E6%80%A5%E7%80%8940-234902126.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／陳孟朔】專注於成熟製程的晶圓代工大廠--聯電(2303)ADR(美股代碼UMC)週二延續重挫走勢，盤中一度急瀉15.6%至16.11美元的日低，尾盤跌幅雖明顯收斂，終場仍大跌1.72美元或9.01%，連四黑，報17.36美元，為5月14日以來逾兩個月最低。當日成交量放大至約2,647萬股，明顯高於近期平均水準，顯示恐慌性賣壓與低接買盤激烈交鋒。最新收市價若以6月25日盤中締造的歷史高點28.96美元計算，聯電ADR不到五週已急挫11.60美元或40.1%，短線回檔速度與幅度均遠超多數晶圓代工同業。聯電台股近期亦同步大幅修正，使市場開始揣測，除全球半導體類股降溫外，是否仍有接單、報價或獲利展望等潛在利空尚未完全反映。市場人士指出，目前尚未見到公司發布足以解釋如此劇烈跌幅的重大負面訊息，近期賣壓可能同時來自半導體類股估值修正、成熟製程價格競爭、中國晶圓代工產能擴張，以及先前漲幅過大後的集中獲利了結。當股價跌破關鍵技術支撐後，程式交易、融資減碼及外資調節也可能相互放大跌勢。聯電將於週三公布第二季財報並召開法說會，市場焦點集中在產能利用率、毛利率、22及28奈米製程需求、成熟製程報",
+    "published_at": "2026-07-28T23:49:02+08:00",
+    "stocks": [
+      "2303"
+    ],
+    "uid": "83ca6feb15cfa9daa0bc3e73e7ab102b",
+    "title_zh": "法說會前夕，聯電ADR週二收挫9.01%連四黑，五週內急瀉40%",
+    "summary_zh": "【財訊快報／陳孟朔】專注於成熟製程的晶圓代工大廠--聯電(2303)ADR(美股代碼UMC)週二延續重挫走勢，盤中一度急瀉15.6%至16.11美元的日低，尾盤跌幅雖明顯收斂，終場仍大跌1.72美元或9.01%，連四黑，報17.36美元，為5月14日以來逾兩個月最低。當日成交量放大至約2,647萬股，明顯高於近期平均水準，顯示恐慌性賣壓與低接買盤激烈交鋒。最新收市價若以6月25日盤中締造的歷史高點28.96美元計算，聯電ADR不到五週已急挫11.60美元或40.1%，短線回檔速度與幅度均遠超多數晶圓代工同業。聯電台股近期亦同步大幅修正，使市場開始揣測，除全球半導體類股降溫外，是否仍有接單、報價或獲利展望等潛在利空尚未完全反映。市場人士指出，目前尚未見到公司發布足以解釋如此劇烈跌幅的重大負面訊息，近期賣壓可能同時來自半導體類股估值修正、成熟製程價格競爭、中國晶圓代工產能擴張，以及先前漲幅過大後的集中獲利了結。當股價跌破關鍵技術支撐後，程式交易、融資減碼及外資調節也可能相互放大跌勢。聯電將於週三公布第二季財報並召開法說會，市場焦點集中在產能利用率、毛利率、22及28奈米製程需求、成熟製程報",
+    "title_en": "On the eve of the meeting, UMC ADR fell 9.01% on Tuesday for four consecutive black days, plummeting 40% in five weeks.",
+    "summary_en": "[Financial News/Chen Mengshuo] United Microelectronics (2303) ADR (US stock code UMC), a major wafer foundry that focuses on mature processes, continued its heavy losses on Tuesday, falling as much as 15.6% during the session. The daily low was US$16.11. Although the decline in late trading was obviously restrained, it still fell sharply by US$1.72 or 9.01% at the end, marking the fourth consecutive black day and closing at US$17.36, the lowest in more than two months since May 14. Trading volume on the day increased to approximately 26.47 million shares, significantly higher than the recent average, indicating a fierce battle between panic selling pressure and low-priced buying. If the latest closing price is calculated based on the historical high of US$28.96 created on June 25, UMC ADR has plummeted by US$11.60 or 40.1% in less than five weeks. The short-term retracement speed and magnitude far exceed that of most foundry peers. Joint stock prices have also sharply corrected recently, causing the market to speculate that in addition to the cooling of global semiconductor stocks, whether there are still potential negative effects such as orders, quotations or profit outlooks have not yet been fully reflected. Market participants pointed out that the company has yet to see major negative news released to explain such a sharp decline. The recent selling pressure may also come from the valuation revision of semiconductor stocks, price competition in mature processes, the expansion of China's foundry capacity, and concentrated profit-taking after previous excessive increases. When the stock price falls below key technical support, program trading, financing reduction and foreign capital adjustment may also mutually amplify the decline. UMC will announce its second-quarter financial results and hold a press conference on Wednesday. The market focus will focus on capacity utilization, gross profit margin, 22- and 28-nanometer process demand, and mature process reports."
+  },
+  {
+    "title": "衛星圖像顯示亞馬遜巴林數據中心受損，伊朗宣稱實施飛彈襲擊",
+    "url": "https://tw.stock.yahoo.com/news/%E8%A1%9B%E6%98%9F%E5%9C%96%E5%83%8F%E9%A1%AF%E7%A4%BA%E4%BA%9E%E9%A6%AC%E9%81%9C%E5%B7%B4%E6%9E%97%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E5%8F%97%E6%90%8D-%E4%BC%8A%E6%9C%97%E5%AE%A3%E7%A8%B1%E5%AF%A6%E6%96%BD%E9%A3%9B%E5%BD%88%E8%A5%B2%E6%93%8A-234717115.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／劉敏夫】外電報導指出，衛星圖像顯示亞馬遜(Amazon.com Inc)位於巴林的兩個數據中心遭到了損壞，這就印證了伊朗上週的說法，即其用飛彈襲擊了這些設施。伊斯蘭革命衛隊通過官方通訊社塔斯尼姆發布了高分辨率衛星圖像，顯示位於Zallaq和Askar這兩個城鎮的數據中心嚴重受損，並聲稱它們成為打擊目標是因為亞馬遜支持美國軍事行動。根據外電所見，來自歐洲航天局「哨兵-2」星座的低分辨率圖像也顯示，這兩處設施均受損。具有地理空間知識背景的金融媒體經濟研究資深地緣經濟分析師Adam Farrar表示，從哨兵-2圖像上可見兩處設施雙雙受損的證據，但無法據此判斷損壞程度。表觀襲擊時間以及受損區域的位置與伊朗新聞機構發布的圖片基本一致。對於上述消息，亞馬遜拒絕置評。巴林國家通信中心未回應置評請求。美國五角大樓和美國中央司令部均拒絕置評。週二常規盤，亞馬遜(AMZN US)股價下跌0.23%，報230.86美元。",
+    "published_at": "2026-07-28T23:47:17+08:00",
+    "stocks": [],
+    "uid": "8d9421fc31d3c2134e107a2b605167e1"
+  },
+  {
+    "title": "歐盟計畫以協助俄羅斯為由制裁1600家企業，數量創紀錄",
+    "url": "https://tw.stock.yahoo.com/news/%E6%AD%90%E7%9B%9F%E8%A8%88%E7%95%AB%E4%BB%A5%E5%8D%94%E5%8A%A9%E4%BF%84%E7%BE%85%E6%96%AF%E7%82%BA%E7%94%B1%E5%88%B6%E8%A3%811600%E5%AE%B6%E4%BC%81%E6%A5%AD-%E6%95%B8%E9%87%8F%E5%89%B5%E7%B4%80%E9%8C%84-234640502.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／劉敏夫】外電報導指出，歐盟方面計畫制裁1,600多家其認定為支持俄羅斯對烏戰爭的企業，這將成為歐盟單輪制裁涉及企業數量最多的一次。熟知內情的消息人士透露，這些恐遭制裁企業年營業額合計超過200億美元，員工總數超過26.5萬人。知情人士表示，如果該方案獲得批准，歐盟制裁名單上的實體數量將較俄烏戰爭期間目前的規模增加50%。由於相關討論尚未公開，知情人士要求匿名。根據歐盟程序，這項制裁措施需獲得所有成員國一致批准。這是歐盟施壓俄羅斯總統普丁、推動其重返談判桌的最新舉措。歐洲領導人認為，烏克蘭戰場形勢改善，加上俄羅斯經濟持續承壓，為推動新一輪和平談判創造了契機。與此同時，俄羅斯已下調2026年經濟成長預期。美國總統川普也重新加大對俄烏戰爭的外交介入力道，承諾協助烏克蘭加強防空能力，並於週二在華盛頓接待烏克蘭總統澤倫斯基。不過，歐盟在對俄制裁問題上正面臨越來越大的阻力。一些成員國擔心制裁衝擊本國經濟，要求在制裁方案中設置豁免條款。這項最新制裁方案由歐盟外交與安全政策機構歐洲對外行動署起草，制裁對象鎖定特定企業，而非針對具體產品或整個行業。知情人士表示，該方案已醞釀數月，歐盟官員希望",
+    "published_at": "2026-07-28T23:46:40+08:00",
+    "stocks": [],
+    "uid": "74a5c96be115041fa18fd68e384dae2c"
+  },
+  {
+    "title": "熊本7.1強震添疑慮，台積電ADR週二急挫1.7%，四週回跌18%",
+    "url": "https://tw.stock.yahoo.com/news/%E7%86%8A%E6%9C%AC7-1%E5%BC%B7%E9%9C%87%E6%B7%BB%E7%96%91%E6%85%AE-%E5%8F%B0%E7%A9%8D%E9%9B%BBadr%E9%80%B1%E4%BA%8C%E6%80%A5%E6%8C%AB1-7-%E5%9B%9B%E9%80%B1%E5%9B%9E%E8%B7%8C18-234456693.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／陳孟朔】路透報導，台積電ADR(美股代碼TSM)週二盤中一度急挫4.5%，低見381.30美元，終場跌幅收窄至1.70%或6.78美元，收報392.31美元，為4月23日以來最低。最新收盤價較6月30日締造史上新高479.30美元相比，四週內急吐86.69美元或18%，瀕臨熊市領域、除全球半導體類股持續遭到拋售外，日本熊本縣發生規模7.1強震，亦令市場關注當地日本先進半導體製造公司(JASM)晶圓廠的設備及晶圓損失。台積電表示，JASM廠區在地震期間測得最大震度5，第一時間依照內部安全程序疏散並清點人員，目前所有人員均確認安全。震後廠房建築損害檢查已完成，結構安全無虞，生產線正逐步恢復運作；不過，各項設備細部檢查及整體影響評估仍在進行，尚未公布是否出現晶圓報廢或產能損失。JASM第二座廠房的施工現場並未受到地震破壞，但因當地仍可能出現餘震，部分建廠工程已基於安全考量暫停。半導體製造設備對震動極為敏感，即使建築結構未受損，仍可能需要重新檢測機台、校正製程參數並確認生產中晶圓品質，因此「逐步回線」不等於產能已全面恢復正常。JASM主要生產車用、工業及消費電子使用的成熟與特殊製程",
+    "published_at": "2026-07-28T23:44:56+08:00",
+    "stocks": [],
+    "uid": "c590da6a62aad0e7ee6189fab682d5c7"
+  },
+  {
+    "title": "圓剛推出人形機器人一站式整合方案，加速具身智能應用落地",
+    "url": "https://tw.stock.yahoo.com/news/%E5%9C%93%E5%89%9B%E6%8E%A8%E5%87%BA%E4%BA%BA%E5%BD%A2%E6%A9%9F%E5%99%A8%E4%BA%BA-%E7%AB%99%E5%BC%8F%E6%95%B4%E5%90%88%E6%96%B9%E6%A1%88-%E5%8A%A0%E9%80%9F%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E6%87%89%E7%94%A8%E8%90%BD%E5%9C%B0-234141299.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／記者劉居全報導】隨著生成式AI與具身智能（Embodied AI）快速發展，人形機器人正加速走向商業應用。圓剛科技(2417)提供針對人形機器人及高度複雜機器人應用的「Application-Ready」一站式（Turnkey）解決方案。圓剛除運用自身的影音與AI運算技術，更結合深厚的軟硬體系統整合能力與「生態系夥伴計畫（Ecosystem Partnership Program）」，將各領域頂尖夥伴的模組無縫整合，讓客戶能以最短的時間完成開發，即刻跨入具身智能新時代。圓剛科技產業應用事業處副總經理劉厚儀表示，圓剛逾35年累積的影音、AI與軟硬體整合能力，正好涵蓋人形機器人所需的運算、控制、感知、與管理技術，分別如同「大腦與神經」、「眼睛與耳朵」、「嘴巴」及「小腦」；其中AI 運算與鏈結（大腦與神經）： 圓剛作為NVIDIA超過10年的長期官方合作夥伴，深度掌握邊緣AI運算架構（如 NVIDIA Jetson 平台）。圓剛將高階AI運算與全系統數據傳輸鏈結，不僅能即時處理複雜的生成式AI模型推理與高階決策（大腦），更能確保龐大感測數據與決策指令的極低延遲傳導（神經）。視覺與",
+    "published_at": "2026-07-28T23:41:41+08:00",
+    "stocks": [
+      "2417"
+    ],
+    "uid": "e7a8f39f7cb06cc2e90a2ccc4b3b93bd"
   },
   {
     "title": "大大寬頻獲利／上半年 EPS 達2.59元 10月啟動「10G PON」寬頻服務",
@@ -988,6 +1377,33 @@
     "summary_en": "Dada Broadband (7901) held a board meeting on the 28th and announced that consolidated revenue in the first half of the year was 466 million yuan, an annual increase of 3.7%; operating gross profit was 262 million yuan, and the gross profit margin climbed to 56.2%; after-tax net profit was 155 million yuan, an annual increase of 23.7%; net profit per share was 2.59 yuan, showing strong profit momentum."
   },
   {
+    "title": "東京威力科創暫停熊本兩座工廠營運，進行地震後安全檢查",
+    "url": "https://tw.stock.yahoo.com/news/%E6%9D%B1%E4%BA%AC%E5%A8%81%E5%8A%9B%E7%A7%91%E5%89%B5%E6%9A%AB%E5%81%9C%E7%86%8A%E6%9C%AC%E5%85%A9%E5%BA%A7%E5%B7%A5%E5%BB%A0%E7%87%9F%E9%81%8B-%E9%80%B2%E8%A1%8C%E5%9C%B0%E9%9C%87%E5%BE%8C%E5%AE%89%E5%85%A8%E6%AA%A2%E6%9F%A5-233840104.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／劉敏夫】外電報導指出，日本半導體製程設備製造大廠東京威力科創將於7月29日暫停熊本縣合志工廠和大津工廠的營運，以便在7月28日的地震後進行安全檢查。目前尚未確認兩座工廠的建築或設施遭受重大損壞。合志工廠和大津工廠均將暫停運營，以安全為先。",
+    "published_at": "2026-07-28T23:38:40+08:00",
+    "stocks": [],
+    "uid": "7b914e37c3e342149461b5ad52d95470"
+  },
+  {
+    "title": "美以戰後首度會晤，對伊朗核問題達成全面協調",
+    "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E4%BB%A5%E6%88%B0%E5%BE%8C%E9%A6%96%E5%BA%A6%E6%9C%83%E6%99%A4-%E5%B0%8D%E4%BC%8A%E6%9C%97%E6%A0%B8%E5%95%8F%E9%A1%8C%E9%81%94%E6%88%90%E5%85%A8%E9%9D%A2%E5%8D%94%E8%AA%BF-233825076.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／陳孟朔】路透報導，美國總統川普(Donald Trump)週二在白宮會晤以色列總理納坦亞胡(Benjamin Netanyahu)，這是美以2月底聯手對伊朗發動軍事行動以來，兩人首次面對面會談。白宮形容這場閉門會晤「積極且富有建設性」，納坦亞胡則稱這是他與川普進行過「最深入、最好的對話之一」。伊朗核問題成為會談核心，美以重申共同目標是阻止伊朗取得核武器，並討論中東局勢及擴大《亞伯拉罕協議》的可能性。以色列總理辦公室公共外交負責人霍托夫利(Tzipi Hotovely)表示，兩國領導人已實現「全面協調」，美方未向以色列施壓，也沒有要求以方放棄在黎巴嫩或加薩走廊取得的軍事成果。不過，以方否認納坦亞胡在會中向川普展示伊朗「鎬山」地下核設施的新情報，並稱兩人根本沒有談及這處位於納坦茲附近的設施。川普會前曾表示，美國已透過衛星密切監視「鎬山」，不需要以色列提供情報；若美伊無法達成協議，美方仍可能攻擊該設施及其他伊朗基礎設施。這次會晤沒有安排兩人單獨會談，美國副總統范斯(JD Vance)、國務卿魯比歐(Marco Rubio)、國防部長赫格塞思(Pete Hegseth)及中央情報局",
+    "published_at": "2026-07-28T23:38:25+08:00",
+    "stocks": [],
+    "uid": "bd5951588f03cffbe26e8bf1cdce2fc5"
+  },
+  {
+    "title": "上海愛晟納傳主導中國國產浸沒式DUV光刻機研發",
+    "url": "https://tw.stock.yahoo.com/news/%E4%B8%8A%E6%B5%B7%E6%84%9B%E6%99%9F%E7%B4%8D%E5%82%B3%E4%B8%BB%E5%B0%8E%E4%B8%AD%E5%9C%8B%E5%9C%8B%E7%94%A2%E6%B5%B8%E6%B2%92%E5%BC%8Fduv%E5%85%89%E5%88%BB%E6%A9%9F%E7%A0%94%E7%99%BC-233721912.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／劉敏夫】外電報導指出，一位熟知內情的消息人士透露，上海愛晟納電子科技集團在主導中國國產浸沒式深紫外(DUV)光刻機的生產。知情人士表示，愛晟納的DUV光刻機預計還需要進一步測試，並且與艾司摩爾的同類競品「仍有較大差距」。愛晟納已吸納了來自光刻初創公司宇量昇、上海微電子裝備的團隊。宇量昇去年已開始測試DUV原型機。對於上述消息，艾司摩爾尚未回覆相關的置評請求。愛晟納及其股東、上海微電子裝備、宇量昇未回應置評請求。",
+    "published_at": "2026-07-28T23:37:21+08:00",
+    "stocks": [],
+    "uid": "5df271b25214abf2cd7a66cd194ed5bb"
+  },
+  {
     "title": "英國美食大賞　台灣原民部落苦茶油獲卓越星級獎章",
     "url": "https://money.udn.com/money/story/5648/9656984",
     "source": "經濟日報總經",
@@ -999,6 +1415,42 @@
     "summary_zh": "有「美食奧斯卡」之稱的英國美食大賞（Great Taste Awards）今天公布最新評選結果，今年台灣總計有253項產...",
     "title_en": "British Food Awards: Taiwan Aboriginal Tribe’s Camellia Oil Won the Excellence Star Medal",
     "summary_en": "The Great Taste Awards, known as the \"Oscars of Food\", announced today the latest selection results. This year, Taiwan has a total of 253 products..."
+  },
+  {
+    "title": "川普稱將迫伊朗簽約之際，伊朗飛彈突襲美軍全遭攔截",
+    "url": "https://tw.stock.yahoo.com/news/%E5%B7%9D%E6%99%AE%E7%A8%B1%E5%B0%87%E8%BF%AB%E4%BC%8A%E6%9C%97%E7%B0%BD%E7%B4%84%E4%B9%8B%E9%9A%9B-%E4%BC%8A%E6%9C%97%E9%A3%9B%E5%BD%88%E7%AA%81%E8%A5%B2%E7%BE%8E%E8%BB%8D%E5%85%A8%E9%81%AD%E6%94%94%E6%88%AA-233519503.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／陳孟朔】外電報導，美國總統川普(Donald Trump)週二聲稱，伊朗「極度迫切」希望與美國達成協議，並表示華府將讓伊朗簽署協議、結束戰爭。然而，就在川普作出樂觀表態之際，美軍中央司令部(CENTCOM)通報，伊朗向駐中東美軍發射多枚彈道飛彈，令美伊持續數日的相互停火面臨破裂。美軍中央司令部表示，美東時間週二下午5時45分，伊朗伊斯蘭革命衛隊從伊朗境內發射多枚彈道飛彈，企圖對駐中東美軍發動突然襲擊，但所有來襲飛彈均被成功攔截，目前沒有傳出美軍傷亡或設施受損。美軍仍維持高度警戒及戰備狀態，準備因應伊朗可能發動的後續攻擊。據美聯社報導，這批飛彈的目標是位於約旦的美軍基地，也是川普上週五暫停對伊朗空襲、為外交斡旋提供機會後，伊朗首次直接攻擊美軍。伊朗方面暫未承認或回應這項指控，因此目前攻擊規模、飛彈型號及具體目標仍主要依據美方說法。這起攻擊凸顯川普所稱的「即將達成協議」與實際戰場局勢存在明顯落差。伊朗一方面拒絕阿曼提出的荷姆茲海峽通航方案，要求取得更大航道控制權；另一方面又被美方指控恢復對美軍攻擊，顯示德黑蘭可能透過軍事壓力提高談判籌碼。美方是否把此次飛彈攻擊視為全面恢復空襲的",
+    "published_at": "2026-07-28T23:35:19+08:00",
+    "stocks": [],
+    "uid": "35be2e5d3dc4dd3a1e83751d8e93b528"
+  },
+  {
+    "title": "北九州市經濟使節團訪台　連續2天在新竹和台北與台灣半導體業者交流",
+    "url": "https://tw.news.yahoo.com/%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E7%B6%93%E6%BF%9F%E4%BD%BF%E7%AF%80%E5%9C%98%E8%A8%AA%E5%8F%B0-%E9%80%A3%E7%BA%8C2%E5%A4%A9%E5%9C%A8%E6%96%B0%E7%AB%B9%E5%92%8C%E5%8F%B0%E5%8C%97%E8%88%87%E5%8F%B0%E7%81%A3%E5%8D%8A%E5%B0%8E%E9%AB%94%E6%A5%AD%E8%80%85%E4%BA%A4%E6%B5%81-233307642.html",
+    "source": "Yahoo股市",
+    "summary": "武內和久致詞時首先宣布，台灣和北九州約2.5小時，今年9月3日起將重啟台灣航線...",
+    "published_at": "2026-07-28T23:33:07+08:00",
+    "stocks": [],
+    "uid": "038abae3fe8006706f5647eec085d51b"
+  },
+  {
+    "title": "蘋果在美國推出Apple Upgrade，涵蓋iPhone、Mac等設備租賃",
+    "url": "https://tw.stock.yahoo.com/news/%E8%98%8B%E6%9E%9C%E5%9C%A8%E7%BE%8E%E5%9C%8B%E6%8E%A8%E5%87%BAapple-upgrade-%E6%B6%B5%E8%93%8Biphone-mac%E7%AD%89%E8%A8%AD%E5%82%99%E7%A7%9F%E8%B3%83-233225769.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／劉敏夫】外電報導指出，蘋果公司(Apple Inc)宣布推出Apple Upgrade，這是一項由Klarna提供支持的全新產品租賃計畫，適用於iPhone、Apple Watch、Mac和iPad，將在美國蘋果官網及零售門市上線。根據該計畫，iPhone和Apple Watch可選擇12個月或24個月租賃期限；Mac和iPad可選擇24個月或36個月租賃期限。租賃費用起價為iPhone每月17.99美元起，Apple Watch每月11.99美元起，Mac每月24.99美元起，iPad每月11.99美元起。與此同時，蘋果宣布將在美國停止提供iPhone Upgrade Program和iPhone Payments服務。",
+    "published_at": "2026-07-28T23:32:25+08:00",
+    "stocks": [],
+    "uid": "9a1fddb7181b3d73d4bca45f6f475b96"
+  },
+  {
+    "title": "中信投顧：台股基本面與產業趨勢未惡化，惟籌碼與技術面需時間修復",
+    "url": "https://tw.stock.yahoo.com/news/%E4%B8%AD%E4%BF%A1%E6%8A%95%E9%A1%A7-%E5%8F%B0%E8%82%A1%E5%9F%BA%E6%9C%AC%E9%9D%A2%E8%88%87%E7%94%A2%E6%A5%AD%E8%B6%A8%E5%8B%A2%E6%9C%AA%E6%83%A1%E5%8C%96-%E6%83%9F%E7%B1%8C%E7%A2%BC%E8%88%87%E6%8A%80%E8%A1%93%E9%9D%A2%E9%9C%80%E6%99%82%E9%96%93%E4%BF%AE%E5%BE%A9-233223095.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／記者劉居全報導】台股昨(28)日在日韓股市同步大跌下，長黑重挫下跌2030.83點，跌破高檔區間，收在41603.36點；中信投顧表示，逾2,000點殺盤，主要是由國際市場恐慌、槓桿籌碼清洗、程式交易連鎖砍倉所造成的短線流動性失衡，基本面與產業趨勢並未發生實質惡化，但籌碼面與技術面的修復需要時間。其中技術面方面，上市櫃指數單日暴跌4.7%與6.8%，在技術面上屬於短線負乖離過大的恐慌洗盤，雖然指標KD與RSI進入嚴重超賣區，惟加權指數長黑摜破五月末以來的高檔區間下緣的馬奇諾防線(約42,000點)，技術性賣壓將湧現，此時技術面參考意義已不大，後續觀察指數若能在超賣區反覆構築K棒或帶量下影線並再站上五日線，才是止穩的初步訊號，亦才是分批佈局的時機，而非盲目抄底或攤平。籌碼面上，外資近期在現貨市場大幅賣超，同時台指期避險空單維持高位，新台幣承壓形成股匯雙殺惡性循環，加權指數整體維持率跌破140%，OTC指數則已跌破130%追繳關卡，部分熱門指標股更低，有利於浮額清洗，隨時存在技術性反彈契機基本面方面，台股基本面與產業趨勢，在這一波回檔中並無明顯變化，甚至維持獲利上修趨勢，目前市",
+    "published_at": "2026-07-28T23:32:23+08:00",
+    "stocks": [],
+    "uid": "bd039bb412908d20ab4afb8fd74c6b13"
   },
   {
     "title": "空軍一號改裝成本增　波音第2季虧近139億元大於預期",
@@ -1014,6 +1466,35 @@
     "summary_en": "(Central News Agency, New York, Comprehensive Foreign Reports on the 28th) American aerospace giant Boeing announced today that its second-quarter loss was larger than market expectations due to an increase of US$280 million in the cost of modifying two US presidential planes. But Boeing pointed out that overall revenue growth last quarter showed that it had made progress in reversing several years of decline."
   },
   {
+    "title": "中國半導體追兵／亞洲最大IPO登場　長鑫掛牌市值狂飆、挑戰記憶體三強",
+    "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%9C%8B%E5%8D%8A%E5%B0%8E%E9%AB%94%E8%BF%BD%E5%85%B5-%E4%BA%9E%E6%B4%B2%E6%9C%80%E5%A4%A7ipo%E7%99%BB%E5%A0%B4-%E9%95%B7%E9%91%AB%E6%8E%9B%E7%89%8C%E5%B8%82%E5%80%BC%E7%8B%82%E9%A3%86-%E6%8C%91%E6%88%B0%E8%A8%98%E6%86%B6%E9%AB%94%E4%B8%89%E5%BC%B7-233059159.html",
+    "source": "Yahoo股市",
+    "summary": "前言：中國記憶體廠長鑫科技（長鑫存儲）來勢洶洶，此前完成今年亞洲最大規模首次公開募股（IPO），成為中國市值最高上市公司之一，27日正式掛牌上海創科板。長鑫首個交易日股價飆升約470％，連帶衝擊南韓三星電子、SK海力士28日股價重挫逾一成，台股記憶體族群也同步走弱。動靜之大，引發市場關注，如今擁有中國政府扶植和資本市場撐腰，長鑫未來是否改寫三星、SK海力士、美光主導多年的全球DRAM競爭格局。",
+    "published_at": "2026-07-28T23:30:59+08:00",
+    "stocks": [],
+    "uid": "5ced199b0efc8b6d6c3e1a480ac8ecf8"
+  },
+  {
+    "title": "中國半導體追兵1／中國國產DUV傳量產　設備自主挫ASML股價",
+    "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%9C%8B%E5%8D%8A%E5%B0%8E%E9%AB%94%E8%BF%BD%E5%85%B51-%E4%B8%AD%E5%9C%8B%E5%9C%8B%E7%94%A2duv%E5%82%B3%E9%87%8F%E7%94%A2-%E8%A8%AD%E5%82%99%E8%87%AA%E4%B8%BB%E6%8C%ABasml%E8%82%A1%E5%83%B9-233058540.html",
+    "source": "Yahoo股市",
+    "summary": "就在記憶體大廠長鑫科技大舉募資上市之際，中國再傳出國產浸潤式深紫外光（DUV）曝光機進入量產，牽動全球半導體設備股表現。消息曝光後，荷蘭半導體設備龍頭ASML股價一度重挫逾一成，創近月來最大跌幅。",
+    "published_at": "2026-07-28T23:30:58+08:00",
+    "stocks": [
+      "3663"
+    ],
+    "uid": "02d026674e9a2f2ff46059eb456f30f3"
+  },
+  {
+    "title": "中國半導體追兵2／長鑫擴產、DUV突圍　中國供應鏈逼近台廠腹地？",
+    "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%9C%8B%E5%8D%8A%E5%B0%8E%E9%AB%94%E8%BF%BD%E5%85%B52-%E9%95%B7%E9%91%AB%E6%93%B4%E7%94%A2-duv%E7%AA%81%E5%9C%8D-%E4%B8%AD%E5%9C%8B%E4%BE%9B%E6%87%89%E9%8F%88%E9%80%BC%E8%BF%91%E5%8F%B0%E5%BB%A0%E8%85%B9%E5%9C%B0-233057939.html",
+    "source": "Yahoo股市",
+    "summary": "中國記憶體大廠長鑫科技（長鑫存儲）完成大規模IPO，緊接著又傳出國產浸潤式深紫外光（DUV）曝光機開始量產，兩項進展接連引發市場關注。半導體產業關心，當中國逐步補齊資本、設備與製造能力後，未來新增產能將流向何處，又將如何改變全球供應鏈競爭。分析師認為，短期AI晶片競爭格局仍難撼動，但成熟製程與主流記憶體市場，可能率先迎來新一波價格競爭。",
+    "published_at": "2026-07-28T23:30:57+08:00",
+    "stocks": [],
+    "uid": "05eaeb11e3a4c0e1ee282e19ddd65cad"
+  },
+  {
     "title": "富比世籲川普批准對台軍售　指幫助台灣就是幫助美國",
     "url": "https://money.udn.com/money/story/7307/9656973",
     "source": "經濟日報總經",
@@ -1027,6 +1508,15 @@
     "summary_en": "The US \"Forbes\" website published an article today titled \"Helping Taiwan means helping the United States.\" It bluntly stated that US President Trump should immediately approve US$14 billion in arms sales to Taiwan. The reason is..."
   },
   {
+    "title": "台股血洗後就是機會？法人曝2大落底訊號　喊話備妥銀彈、靜待「挑菜」良機",
+    "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E8%A1%80%E6%B4%97%E5%BE%8C%E5%B0%B1%E6%98%AF%E6%A9%9F%E6%9C%83-%E6%B3%95%E4%BA%BA%E6%9B%9D2%E5%A4%A7%E8%90%BD%E5%BA%95%E8%A8%8A%E8%99%9F-%E5%96%8A%E8%A9%B1%E5%82%99%E5%A6%A5%E9%8A%80%E5%BD%88-%E9%9D%9C%E5%BE%85-%E6%8C%91%E8%8F%9C-233000873.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]記者周雅琦／綜合報導台股今（28）日重挫逾2000點，跌破4萬2千點關卡，終場收在41,603.36點，市場恐慌情緒蔓延。不過法人認為，此波下跌主要是籌...",
+    "published_at": "2026-07-28T23:30:00+08:00",
+    "stocks": [],
+    "uid": "163f2363c8b26a134665a7e32bfadaf4"
+  },
+  {
     "title": "英國美食大賞　台灣原民部落苦茶油獲卓越星級獎章",
     "url": "https://www.cna.com.tw/news/ahel/202607280370.aspx",
     "source": "中央社",
@@ -1038,6 +1528,30 @@
     "summary_zh": "（中央社記者陳韻聿倫敦28日專電）有「美食奧斯卡」之稱的英國美食大賞（Great Taste Awards）今天公布最新評選結果，今年台灣總計有253項產品參賽，獲頒3星「卓越」標章的有8件，包括來自花蓮布農族部落的「耕鳥共食」有機農法苦茶油。",
     "title_en": "British Food Awards: Taiwan Aboriginal Tribe’s Camellia Oil Won the Excellence Star Medal",
     "summary_en": "(Central News Agency reporter Chen Yunyu, London, 28th) The British Food Awards (Great Taste Awards), known as the \"Oscars of Food\", announced today the latest selection results. This year, a total of 253 products from Taiwan participated in the competition, and 8 products were awarded the 3-star \"Excellence\" label, including the \"Farming Birds Eat Together\" organic farming method bitter camellia oil from the Bunun tribe in Hualien."
+  },
+  {
+    "title": "彰銀主辦132億元聯貸案，支持遠雄建設暨盛竹建設龜山A7開發計畫",
+    "url": "https://tw.stock.yahoo.com/news/%E5%BD%B0%E9%8A%80%E4%B8%BB%E8%BE%A6132%E5%84%84%E5%85%83%E8%81%AF%E8%B2%B8%E6%A1%88-%E6%94%AF%E6%8C%81%E9%81%A0%E9%9B%84%E5%BB%BA%E8%A8%AD%E6%9A%A8%E7%9B%9B%E7%AB%B9%E5%BB%BA%E8%A8%AD%E9%BE%9C%E5%B1%B1a7%E9%96%8B%E7%99%BC%E8%A8%88%E7%95%AB-232723996.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／記者劉居全報導】彰化銀行(2801)統籌主辦遠雄建設(5522)暨盛竹建設7年期132億元聯合授信案，已成功完成募集，並於昨(28)日舉行簽約儀式。本聯貸案資金用途係支應辦理「桃園市龜山區善捷段住宅大樓興建案」所需資金，本次由彰化銀行擔任統籌主辦暨額度管理銀行，凱基銀行擔任共同統籌主辦銀行，在王道銀行、中華票券、華南銀行、合作金庫、兆豐銀行、大中票券、台新銀行及臺灣企銀等10家金融機構踴躍參與下，以132億元完成募集。本建案基地面積4,520坪，由地主盛竹建設與遠雄建設合作興建，預計將興建五棟住宅大樓，地下7層、地上32層，總戶數逾1,700戶，本建案附近有華亞科技園區、林口體育館、環球購物中心及三井Outlet等，地理位置佳；走路3分鐘內可達機捷A7體育大學站。遠雄建設期望藉由本案將A7重劃區打造成北北桃生活圈，逐步發展成宜居新聚彰化銀行長期深耕企業結合ESG實踐，共同推動企業社會責任及落實永續發展，並於本次聯貸案加入ESG利率調整機制，本案也規劃取得綠建築、低碳建築及建築能效標章，以降低能源消耗及碳排放量。展望未來，彰化銀行將持續與遠雄建設暨盛竹建設達成永續環境績效，攜",
+    "published_at": "2026-07-28T23:27:23+08:00",
+    "stocks": [
+      "2801",
+      "5522"
+    ],
+    "uid": "0ba0835bb3aeb8ec5193232eab2e08ce"
+  },
+  {
+    "title": "融資減少231億元，籌碼清洗有助加速趕底",
+    "url": "https://tw.stock.yahoo.com/news/%E8%9E%8D%E8%B3%87%E6%B8%9B%E5%B0%91231%E5%84%84%E5%85%83-%E7%B1%8C%E7%A2%BC%E6%B8%85%E6%B4%97%E6%9C%89%E5%8A%A9%E5%8A%A0%E9%80%9F%E8%B6%95%E5%BA%95-232716451.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／黃俊超】美股道瓊7/28上漲1.03%、S&amp;P500上漲0.21%、Nasdaq下跌0.22%、費城半導體下跌4.49%。個股方面，NVIDIA上漲0.25%、微軟上漲1.09%、蘋果上漲0.94%、Amazon下跌0.23%、Google上漲1.85%、Meta下跌0.08%、Broadcom下跌0.6%、Tesla下跌0.58%、SpaceX上漲2.56%、AMD下跌8.15%、ARM下跌8.11%、高通下跌4.21%、美光下跌8.85%、Intel下跌5.86%、台積電ADR下跌1.7%、聯電ADR下跌9.01%、日月光ADR下跌7.17%，台指期貨夜盤上漲316點。德國股市上漲0.41%、法國股市上漲0.63%。昨日的亞洲股市，日經指數開低走低，跌破前波低點，朝120日線靠攏，韓國綜合指數再次出現熔斷，跳空跌破120日均線與前波低點，距離新政策時間越來越近，賣壓也跟著增加，恐慌情緒蔓延，進入加速趕底。中國上證指數無法突破10日均線，仍在之前低點之上，觀察能否進入反覆打底，香港恆生指數在短中期日均線之上，不過上方有長期均線反壓。美元指數101~102，新台幣約在32.",
+    "published_at": "2026-07-28T23:27:16+08:00",
+    "stocks": [
+      "2330",
+      "2303"
+    ],
+    "uid": "f1e7b9826f15a8665bd85a5e61699c2a"
   },
   {
     "title": "青安3.0上路到數計時 排富條款再加碼",
@@ -1064,6 +1578,17 @@
     "summary_zh": "青安3.0上路倒數計時，即將在本周五正式上路。財政部已將青安3.0的新規定和執行細節，正式發文給各八大行庫，其中在「排富」方面，除了個人所得收入以200萬元為限之外，房屋總價的「三級制」，財政部已明確要求行庫，以「成交總價和銀行鑑價」孰高來認計，同時有別於青安2.0對於一次買二戶的，亦即「買雙拼」還有通融其中一戶的空間，到了青安3.0，則是一次買二戶的連其中一戶都不能適用青安優惠專案。",
     "title_en": "Qing'an 3.0 is about to hit the road, and the terms of wealth qualifiers will be tightened",
     "summary_en": "The countdown to the launch of Qing'an 3.0 will be officially launched this Friday. The Ministry of Finance has officially issued the new regulations and implementation details of Qing'an 3.0 to each of the eight major banks. In terms of \"wealth exclusion\", in addition to the personal income limit of 2 million yuan, the Ministry of Finance has clearly required banks to use the \"three-tier system\" for the total housing price. Different from Qing'an 2.0, for those who buy two houses at a time, that is, \"buy two houses\" there is still room to accommodate one of the houses. In Qing'an 3.0, those who buy two houses at a time cannot even apply to the Qing'an preferential project."
+  },
+  {
+    "title": "易威、健亞完成合併，打造台美整合型製藥平台",
+    "url": "https://tw.stock.yahoo.com/news/%E6%98%93%E5%A8%81-%E5%81%A5%E4%BA%9E%E5%AE%8C%E6%88%90%E5%90%88%E4%BD%B5-%E6%89%93%E9%80%A0%E5%8F%B0%E7%BE%8E%E6%95%B4%E5%90%88%E5%9E%8B%E8%A3%BD%E8%97%A5%E5%B9%B3%E5%8F%B0-232304277.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／記者何美如報導】易威生醫(1799)與健亞生技之股份轉換合併案，已於7月28日基準日正式完成合併，健亞下櫃成為易威生醫100%子公司，「台美整合型製藥平台」正式邁入實質營運的關鍵里程碑。因應整合後營運規模擴大及跨區域布局需求，健亞董事長由易威董事長林翰飛接任，統籌集團整體策略方向與資源整合，並延攬前中化製藥總經理吳志庸出任總經理。本次整合以建構橫跨美國與台灣之完整醫藥價值鏈為核心。易威生醫透過美國子公司Tulex Pharmaceuticals位於紐澤西州、符合cGMP規範之製造基地，累計取得11張美國FDA藥證，其中包含3項505(b)(2)改良型新藥與8項困難學名藥，具備自研發、法規、製造至商業化之完整能力；健亞則深耕台灣在地研發與製造，具備亞洲臨床法規之藥品開發經驗，並長期為國際藥廠提供CDMO服務。兩者結合後，研發、製造與市場三大關鍵環節得以串接，形成高度互補之跨區域產業結構。為因應整合後營運規模擴大及跨區域布局需求，集團同步充實經營團隊。健亞邁入下一個里程碑，易威董事長林翰飛將接任健亞董事長一職，統籌集團整體策略方向與資源整合，健亞總經理則延攬擁有數十年製藥廠工作",
+    "published_at": "2026-07-28T23:23:04+08:00",
+    "stocks": [
+      "1799"
+    ],
+    "uid": "0a5e963f24d69ce3621dfbffe2d2b0f7"
   },
   {
     "title": "2026「亞洲最佳50酒吧」公布 台灣Vender、酣呷等3家闖入前50強",
@@ -1094,6 +1619,15 @@
     "summary_en": "Dafeng Electric (6184) held a board meeting on the 28th to approve its first half financial report. Driven by the steady growth of its broadband business, its revenue in the first half hit a new high for the same period. In the first half of the year, consolidated revenue was 1.097 billion yuan, an annual increase of 1.7%, operating profit was 331 million yuan, an annual increase of 4.7%; net profit attributable to owners of the parent company was 230 million yuan, an annual decrease of 12.4%, and net profit after tax per share was 1.51 yuan."
   },
   {
+    "title": "俊美食品攜手木匠兄妹推出聯名禮盒　「馬上旺」木作手機座傳遞滿滿祝福",
+    "url": "https://tw.news.yahoo.com/%E4%BF%8A%E7%BE%8E%E9%A3%9F%E5%93%81%E6%94%9C%E6%89%8B%E6%9C%A8%E5%8C%A0%E5%85%84%E5%A6%B9%E6%8E%A8%E5%87%BA%E8%81%AF%E5%90%8D%E7%A6%AE%E7%9B%92-%E9%A6%AC%E4%B8%8A%E6%97%BA-%E6%9C%A8%E4%BD%9C%E6%89%8B%E6%A9%9F%E5%BA%A7%E5%82%B3%E9%81%9E%E6%BB%BF%E6%BB%BF%E7%A5%9D%E7%A6%8F-231416132.html",
+    "source": "Yahoo股市",
+    "summary": "【互傳媒／記者 蘇彩娥／台中 報導】隨著中秋佳節腳步接近，台灣伴手禮市場再掀話題。素有「北佳德、中俊美」美譽的",
+    "published_at": "2026-07-28T23:14:16+08:00",
+    "stocks": [],
+    "uid": "377c8dbd7b44e96e062cc1616e616c3f"
+  },
+  {
     "title": "監院糾正南聰隱匿性平事件　校方將開會討論",
     "url": "https://money.udn.com/money/story/7307/9656917",
     "source": "經濟日報總經",
@@ -1118,6 +1652,46 @@
     "summary_zh": "腳上一個不起眼的小傷口，最後竟然要截肢？這是許多糖尿病患者和家屬最深的恐懼。但你可能不知道，根據日本東京女子大學的調查，糖尿病足病變的直接原因，第一名不是血糖失控，也不是燙傷，而是鞋子的問題，比例高達百分之六十九足踝專科名醫朱家宏醫師在他的著作《自己的腳痛自己救》中提到，不可否認，「截肢」確實是糖尿病足的終極治療，但是「早期治療」及「對糖尿病足建立正確的認識」，絕對可以挽救糖尿病患者免於截肢的下場，並增進生活品質。",
     "title_en": "Nearly 70% of diabetic amputation tragedies are caused by \"wearing the wrong shoes\"? Doctors reveal the biggest blind spot in wound treatment",
     "summary_en": "An inconspicuous small wound on the foot ended up requiring amputation? This is the deepest fear of many people with diabetes and their families. But you may not know that according to a survey by Tokyo Women's University in Japan, the number one direct cause of diabetic foot disease is not loss of blood sugar or burns, but shoe problems, accounting for as high as 69%. Dr. Zhu Jiahong, a famous foot and ankle specialist, mentioned in his book \"Save Your Own Foot Pain\" that it is undeniable that \"amputation\" is indeed the ultimate treatment for diabetic foot, but \"early treatment\" and \"establishing a correct understanding of diabetic foot\" can definitely save diabetic patients from amputation and improve their quality of life."
+  },
+  {
+    "title": "00403A崩史低遭瘋砍23萬張！外資狂賣「這5檔主動式」股民驚：變小兒倒貨利器　0050已撤資201億",
+    "url": "https://tw.stock.yahoo.com/news/00403a%E5%B4%A9%E5%8F%B2%E4%BD%8E%E9%81%AD%E7%98%8B%E7%A0%8D23%E8%90%AC%E5%BC%B5-%E5%A4%96%E8%B3%87%E7%8B%82%E8%B3%A3-%E9%80%995%E6%AA%94%E4%B8%BB%E5%8B%95%E5%BC%8F-%E8%82%A1%E6%B0%91%E9%A9%9A-%E8%AE%8A%E5%B0%8F%E5%85%92%E5%80%92%E8%B2%A8%E5%88%A9%E5%99%A8-230500468.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]記者薛明峻／台北報導台股昨（28）日開低走低，終場加權指數暴跌2030.83點，跌幅4.65%，成交金額為8110.51億元。根據證交所公布籌碼動向，外資昨...",
+    "published_at": "2026-07-28T23:05:00+08:00",
+    "stocks": [],
+    "uid": "32a6670fd8e4848d9279e2dc3979df4b"
+  },
+  {
+    "title": "證交所稱，截至7/27全市場信用交易整戶擔保維持率約175%",
+    "url": "https://tw.stock.yahoo.com/news/%E8%AD%89%E4%BA%A4%E6%89%80%E7%A8%B1-%E6%88%AA%E8%87%B37-27%E5%85%A8%E5%B8%82%E5%A0%B4%E4%BF%A1%E7%94%A8%E4%BA%A4%E6%98%93%E6%95%B4%E6%88%B6%E6%93%94%E4%BF%9D%E7%B6%AD%E6%8C%81%E7%8E%87%E7%B4%84175-230234969.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／記者劉居全報導】證交所表示， 信用交易之全市場擔保維持率係採整戶（融資+融券）合併計算，且涵蓋上市、上櫃標的，截至7月27日全市場之信用交易整戶擔保維持率約為175%，仍遠高於現行最低追繳擔保維持率130%，且全市場融資擔保維持率仍高於原始擔保維持率166%，外界所稱擔保維持率143%應係未完整計算整戶信用交易相關因子所致。7月27日追繳與處分金額占大盤成交金額比重分別不足0.1%、0.03%，且遠低於去年4月對等關稅事件，2026年至今信用交易處分金額及人數相較大盤成交量值及市場投資人數仍處於安全範圍。此外，依「證券商辦理有價證券買賣融資融券業務操作辦法」之規定，信用交易之處分（斷頭）前均會有事前之通知及補繳程序，不會立即執行處分，當擔保維持率低於130%時，證券商將於當日（T日）收盤後通知投資人，並請其於通知送達（次日）起2日內進行補繳，如到期仍未補繳且擔保維持率仍未回升至130%以上者，始於次一營業日（T+3）處分擔保品，處分前如當日整戶維持率達130%以上，暫不處分，如整戶擔保維持率回升至166%以上者，則取消其追繳紀錄。昨（7月28日）截至15:30，證券商申報投",
+    "published_at": "2026-07-28T23:02:34+08:00",
+    "stocks": [],
+    "uid": "6bcd7ced04392cc2fdfde67ee8c1917b"
+  },
+  {
+    "title": "數字591實價登錄統計，全台新成屋單價年減2.5%，老屋跌幅達7.1%",
+    "url": "https://tw.stock.yahoo.com/news/%E6%95%B8%E5%AD%97591%E5%AF%A6%E5%83%B9%E7%99%BB%E9%8C%84%E7%B5%B1%E8%A8%88-%E5%85%A8%E5%8F%B0%E6%96%B0%E6%88%90%E5%B1%8B%E5%96%AE%E5%83%B9%E5%B9%B4%E6%B8%9B2-5-%E8%80%81%E5%B1%8B%E8%B7%8C%E5%B9%85%E9%81%947-1-230226403.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／記者陳浩寧報導】房市自2025年步入修正期，七都老屋與新成屋房價也逐步出現分化。根據數字(5287)旗下《591實價登錄》統計，全台新成屋平均單價由40.2萬元微幅修正至39.2萬元，年減2.5%；老屋跌幅則更顯著，自29.6萬元下滑至27.5萬元，年減達7.1%。進一步從各縣市來看，整體市場呈現「北市獨強、新北拉鋸、其餘縣市同步回檔」三種截然不同的格局。不過，隨著青安3.0即將上路，在婚育加碼與總價門檻新制下，中南部普遍被視為最大受惠區，政策利多能否帶動房價突破盤整格局，將是未來觀察重點。儘管大環境趨冷，台北市房價展現強勁的抗跌與保值韌性。2026年台北市新成屋成交單價高達113.8萬元，較2025年的108萬元逆勢大漲5.4%，漲幅居七都之冠；屋齡30年以上的老屋表現亦相當穩健，從每坪70.9萬元微幅成長至71.0萬元。新北市則呈現顯著的結構性拉鋸。2026年新成屋成交單價由每坪61.0萬元攀升至62.4萬元，年增2.3%；反觀屋齡30年以上的老屋，成交單價則由每坪40.8萬元修正至39.7萬元，微幅下修2.7%。顯示在房市反轉下，買方更偏好新成屋，老屋則需適度讓利才能",
+    "published_at": "2026-07-28T23:02:26+08:00",
+    "stocks": [
+      "5287"
+    ],
+    "uid": "e8709ea0ed74c669947ccaf950ccd5a7"
+  },
+  {
+    "title": "豊漁開立「和庵清酒舖」完善日本酒供應鏈，布局餐飲、貿易新商機",
+    "url": "https://tw.stock.yahoo.com/news/%E8%B1%8A%E6%BC%81%E9%96%8B%E7%AB%8B-%E5%92%8C%E5%BA%B5%E6%B8%85%E9%85%92%E8%88%96-%E5%AE%8C%E5%96%84%E6%97%A5%E6%9C%AC%E9%85%92%E4%BE%9B%E6%87%89%E9%8F%88-%E5%B8%83%E5%B1%80%E9%A4%90%E9%A3%B2-%E8%B2%BF%E6%98%93%E6%96%B0%E5%95%86%E6%A9%9F-230212082.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／記者陳浩寧報導】豊漁(7847)持續深化日式餐飲供應鏈布局，在餐飲本業穩健成長下，同步拓展日本酒貿易事業，累計上半年營收較去年同期成長近20%，而貿易事業已成為餐飲本業之外的重要成長引擎，營收佔比逐年成長中，反映日本食材及特色商品需求持續成長，也展現集團供應鏈整合策略逐步發揮效益。看好台灣日本酒市場發展潛力，豊漁餐飲集團於7月28日正式開立全新品牌「和庵清酒舖」，進駐台北晶華酒店麗晶精品B1，攜手世界冠軍唎酒師張鴻亮（Johnny）共同打造以日本酒為核心，結合零售體驗、文化推廣及市場拓展功能的空間，進一步完善集團從餐飲、食材到酒類貿易的布局。近年來，豊漁餐飲集團持續強化源頭採購能力，自日本直輸整頭和牛、新鮮漁獲到特色食材，逐步建立完整上下游供應鏈體系，近年更積極布局日本酒貿易，希望透過整合，提升產品差異化與市場競爭力，同時強化整體營運韌性。不同於一般酒類代理模式，集團由駐日貿易團隊長期耕耘日本市場，親自走訪各地酒造，深入了解釀造理念、地方風土文化，透過交流建立合作與信任關係，因此得以引進許多產量有限、鮮少外銷，在台灣市場難得一見的特色地酒。豊漁指出，此次成立「和庵清酒舖」，",
+    "published_at": "2026-07-28T23:02:12+08:00",
+    "stocks": [
+      "7847"
+    ],
+    "uid": "92e83224d2fc9c5634adac00d9405481"
   },
   {
     "title": "膝蓋痛怎麼辦？醫戳破30年迷思：軟骨不是老化是被磨壞，找對原因還能再生",
@@ -1174,6 +1748,28 @@
     "summary_en": ""
   },
   {
+    "title": "晶片股賣壓加劇！美股收盤走勢不一　台積電ADR挫1.7%",
+    "url": "https://tw.news.yahoo.com/%E6%99%B6%E7%89%87%E8%82%A1%E8%B3%A3%E5%A3%93%E5%8A%A0%E5%8A%87-%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%A4%E8%B5%B0%E5%8B%A2%E4%B8%8D-%E5%8F%B0%E7%A9%8D%E9%9B%BBadr%E6%8C%AB1-7-225916013.html",
+    "source": "Yahoo股市",
+    "summary": "隨著國際油價走低，市場資金正由半導體類股轉向其他族群之際，華爾街股市週二（28日）收盤走勢不一，其中費城半導體指數重挫逾4%，台積電ADR下跌6.78美元或1.7%，收在392.31美元。",
+    "published_at": "2026-07-28T22:59:16+08:00",
+    "stocks": [
+      "2330"
+    ],
+    "uid": "d9c40a363964586402d76ffab14017c8"
+  },
+  {
+    "title": "市場對AI疑慮加深　美股費半大跌519點、台積電ADR跌1.7%",
+    "url": "https://tw.news.yahoo.com/%E5%B8%82%E5%A0%B4%E5%B0%8Dai%E7%96%91%E6%85%AE%E5%8A%A0%E6%B7%B1-%E7%BE%8E%E8%82%A1%E8%B2%BB%E5%8D%8A%E5%A4%A7%E8%B7%8C519%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BBadr%E8%B7%8C1-7-225910909.html",
+    "source": "Yahoo股市",
+    "summary": "投資人對近年來引領股市屢創新高的人工智慧熱潮疑慮加深，科技股持續遭到拋售，美股四大指數星期二收盤走勢不一，其中道瓊工業指數上漲537點，但費城半導體指數重挫超過4%。（請聽ＡＩ報導）。 星期二美",
+    "published_at": "2026-07-28T22:59:10+08:00",
+    "stocks": [
+      "2330"
+    ],
+    "uid": "2a500752282fb2c36476e6fa1eab2d11"
+  },
+  {
     "title": "你為什麼會對孩子的失誤感到憤怒？專家這麼說",
     "url": "https://money.udn.com/money/story/5648/9656854",
     "source": "經濟日報總經",
@@ -1185,6 +1781,17 @@
     "summary_zh": "孩子手上拿著空空的牛奶瓶，有些畏縮地叫了我。「媽媽！牛奶……。對不起。」我看到桌面下方，牛奶滴滴答答地落下。有孩子的父母，應該都經歷過這種狀況吧。你可以把「牛奶」替換成水、飯、餅乾，或是各種遊戲。「翻倒的話，擦乾淨就好了。媽媽會幫你，我們去拿抹布一起擦一擦。」作為一位父母，我還有很多不足之處，但陪伴孩子成長的這七年來，我有一個非常堅持的原則─「孩子犯錯的時候，不加以責備與責怪。」「你不用覺得抱歉，下次我們把牛奶放在桌子中間吧。」孩子難免經常犯錯，像是吃飯時，飯粒掉得到處都是，東西掉到地上也是家常",
     "title_en": "Why are you angry about your child's mistakes? Experts say this",
     "summary_en": "The child called me cringingly with an empty milk bottle in his hand. \"Mom! Milk... I'm sorry.\" I saw milk dripping down from the bottom of the table. Parents with children must have experienced this situation. You can replace \"milk\" with water, rice, cookies, or various games. \"If it falls over, just wipe it up. Mommy will help you, and let's go get a rag and wipe it together.\" As a parent, I still have many shortcomings, but in the past seven years of growing up with my children, I have a very insistent principle - \"Don't blame or blame children when they make mistakes.\" \"You don't have to feel sorry, let's put the milk in the middle of the table next time.\" It is inevitable for children to make mistakes often. For example, when eating, rice grains fall everywhere, and it is common for things to fall on the floor."
+  },
+  {
+    "title": "台股大反攻？不懼美股費半崩跌　台指期夜盤反彈",
+    "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%A4%A7%E5%8F%8D%E6%94%BB-%E4%B8%8D%E6%87%BC%E7%BE%8E%E8%82%A1%E8%B2%BB%E5%8D%8A%E5%B4%A9%E8%B7%8C-%E5%8F%B0%E6%8C%87%E6%9C%9F%E5%A4%9C%E7%9B%A4%E5%8F%8D%E5%BD%88-225243094.html",
+    "source": "Yahoo股市",
+    "summary": "即時中心／陳奕劭報導先前因擔憂中國競爭與AI泡沫導致晶片股重挫，不過在美國聯準會（Fed）公布利率決策以及多家科技巨頭發布關鍵財報前夕，美股週二（28日）漲跌互見。不懼費半重挫4.49%影響，台指期夜盤今（29）日上漲316點、0.76%，收41,889點，台積電期貨盤後同步上漲11點。",
+    "published_at": "2026-07-28T22:52:43+08:00",
+    "stocks": [
+      "2330"
+    ],
+    "uid": "afc027591f26845928162d313575ca6f"
   },
   {
     "title": "揚秦旗下麥味登聯名小熊維尼拚業績雙位數成長　年底挑戰1100家門市",
@@ -1202,6 +1809,15 @@
     "summary_en": "<img alt=\"Yangqin's McVideon and Winnie the Pooh strive for double-digit growth and challenge 1,100 stores by the end of the year\" src=\"https://cdn2.ettoday.net/images/8850/c8850827.jpg\" /><br /> Maiweiden, a brand of Yangqin (2755), launched the Disney classic IP Winnie the Pooh series for the first time, launched a three-month theme activity, launched limited-edition blind box dolls, peripheral products and created a themed concept store. Zhuo Jinglun said that last year, McVidian cooperated with International IP to focus on practical daily necessities, and the co-branding benefits drove overall revenue growth by 19% in the first half of last year. This year’s collaboration with Winnie the Pooh on blind box doll peripherals is more focused on stimulating continuous consumption among young people and trendy toy fans. Judging from the current discussion in the online community about the cooperation between McVedin and Winnie the Pooh, using product innovation to transform IP co-branding from a mere authorized peripheral into a powerful engine that drives real customer unit prices and member repurchase rates is expected to drive double-digit growth in overall revenue.\n\n\n <a href=\"https://finance.ettoday.net/news/3209325\" target=\"_blank\">\"Full text...\"</a>"
   },
   {
+    "title": "輝達交換器採台積COUPE　進補台廠26檔",
+    "url": "https://tw.news.yahoo.com/%E8%BC%9D%E9%81%94%E4%BA%A4%E6%8F%9B%E5%99%A8%E6%8E%A1%E5%8F%B0%E7%A9%8Dcoupe-%E9%80%B2%E8%A3%9C%E5%8F%B0%E5%BB%A026%E6%AA%94-225000820.html",
+    "source": "Yahoo股市",
+    "summary": "隨著輝達與博通加速推動共同封裝光學（CPO）技術，AI資料中心傳輸需求升級，CPO技術已由驗證期邁向量產導入。台積電憑藉先進封裝優勢領跑，帶動台股矽光子與光通訊供應鏈熱度。日月光投控、訊芯-KY、聯亞、上詮及光聖等業者受市場高度關注，相關產能預計於2026年後顯著放量。儘管短期貢獻有限，但CPO作為提升頻寬、降低功耗的關鍵，已成為光通訊產業中長期升級的核心主軸。法人提醒，CPO技術門檻高，具備先期量產能力的供應鏈將更具競爭優勢。投資人應審慎評估市場風險，關注技術落地進程與長線產能擴張帶來的營收挹注潛力。",
+    "published_at": "2026-07-28T22:50:00+08:00",
+    "stocks": [],
+    "uid": "47c0692abb8b39cd27e2b6f1bc97f875"
+  },
+  {
     "title": "老年科醫師：避開10種對長壽有害的習慣",
     "url": "https://money.udn.com/money/story/5648/9656827",
     "source": "經濟日報總經",
@@ -1213,6 +1829,15 @@
     "summary_zh": "「身為老年科醫師，我很難過看到愈來愈多人活到存款不夠花。」許多九十多歲病人告訴她，從來沒想到自己會活這麼久，也沒想到退休後還必須再養自己30年。惠特森說，這是真實存在的問題。「我很擔心一些正值中年的人。他們預期自己65歲退休，卻沒有真正考慮到，假如退休後還能健康生活30年，生活費要從哪裡來。」她說，「很多人想像自己退休後可以旅行、享受富裕生活，因為他們做出了所有正確的健康選擇，也能保持健康，這當然很好。」「但在中年時期，就開始思考人生下一階段的資金流向，同樣非常重要。」",
     "title_en": "Geriatrician: Avoid 10 Habits That Are Harmful to Longevity",
     "summary_en": "\"As a geriatrician, I am sad to see more and more people living until their savings are out of pocket.\" Many patients in their 90s told her that they never thought they would live so long, nor that they would have to support themselves for another 30 years after retirement. Whitson said this is a real problem. \"I'm very worried about some people in middle age. They expect to retire at 65, but they haven't really considered where their living expenses will come from if they can live healthy for 30 years after retirement.\" She said, \"Many people imagine that they can travel and enjoy a wealthy life after retirement because they have made all the right health choices and can stay healthy, which is of course good.\" \"But in middle age, it is also very important to start thinking about the flow of money in the next stage of life.\""
+  },
+  {
+    "title": "巴菲特指標 透露美股過熱",
+    "url": "https://tw.news.yahoo.com/%E5%B7%B4%E8%8F%B2%E7%89%B9%E6%8C%87%E6%A8%99-%E9%80%8F%E9%9C%B2%E7%BE%8E%E8%82%A1%E9%81%8E%E7%86%B1-224553230.html",
+    "source": "Yahoo股市",
+    "summary": "一項被稱為「巴菲特指標」（Buffett Indicator）的市場估值指標，已飆升至歷史新高，顯示美股估值可能過熱，投資人恐怕正「在玩火」。",
+    "published_at": "2026-07-28T22:45:53+08:00",
+    "stocks": [],
+    "uid": "ce6e88578c7dddf3cbf8d8d019e8143b"
   },
   {
     "title": "鮮為人知！中國DUV製造商愛晟納 成軍僅3年、公司沒網站",
