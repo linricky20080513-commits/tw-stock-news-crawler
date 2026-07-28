@@ -1,5 +1,22 @@
 [
   {
+    "title": "7月29日 五件財經大事搶先看",
+    "url": "https://money.udn.com/money/story/5607/9657083",
+    "source": "經濟日報",
+    "summary": "經濟日報整理五件不可不知的財經大事，讓讀者在每天清晨能快速掌握最重要的財經大事。\n\n一、全球晶片股跳水 台股重挫2,030點 止跌緊盯三個訊號\n全球晶片股跳水，亞股昨（28）日幾乎全軍覆沒，衝擊台股開低走低，終場重挫2,030點...more\n\n\n二、立院三讀 民法兄弟姊妹特留分刪了 法務部：繼承順位、應繼分不變\n立法院會昨（28）日三讀通過《民法》相關修正案，刪除兄弟姊妹特留分，更貼近遺囑自由...more\n\n\n三、美伊衝突降溫 油價直直落 連三天停火、荷莫茲航運有望恢復\n美國總統川普表示，正與伊朗展開外交談判，試圖結束中東衝突；另據知情人士說法，伊朗與阿曼也在磋商恢復荷莫茲海峽航運...more\n\n\n四、晶片股雲端墜落「五空」罩頂 AI 寵兒變 AI 大問號 嚇跑投資人\n半導體族群賣壓持續升高，從亞洲的SK海力士、鎧俠到歐洲的艾司摩爾，28日全面下挫...more\n\n\n五、AI 伺服器 ODM 廠砸錢擴產 廣達斥資197億元買友達廠房\nODM三大廠廣達（2382）、緯創（3231）、英業達（2356）擴大AI伺服器新產能投資...more",
+    "published_at": "2026-07-29T03:42:47+08:00",
+    "stocks": [
+      "2382",
+      "3231",
+      "2356"
+    ],
+    "uid": "0a238fcefaacf140fd9017b197113d7d",
+    "title_zh": "7月29日 五件財經大事搶先看",
+    "summary_zh": "經濟日報整理五件不可不知的財經大事，讓讀者在每天清晨能快速掌握最重要的財經大事。\n\n一、全球晶片股跳水 台股重挫2,030點 止跌緊盯三個訊號\n全球晶片股跳水，亞股昨（28）日幾乎全軍覆沒，衝擊台股開低走低，終場重挫2,030點...more\n\n\n二、立院三讀 民法兄弟姊妹特留分刪了 法務部：繼承順位、應繼分不變\n立法院會昨（28）日三讀通過《民法》相關修正案，刪除兄弟姊妹特留分，更貼近遺囑自由...more\n\n\n三、美伊衝突降溫 油價直直落 連三天停火、荷莫茲航運有望恢復\n美國總統川普表示，正與伊朗展開外交談判，試圖結束中東衝突；另據知情人士說法，伊朗與阿曼也在磋商恢復荷莫茲海峽航運...more\n\n\n四、晶片股雲端墜落「五空」罩頂 AI 寵兒變 AI 大問號 嚇跑投資人\n半導體族群賣壓持續升高，從亞洲的SK海力士、鎧俠到歐洲的艾司摩爾，28日全面下挫...more\n\n\n五、AI 伺服器 ODM 廠砸錢擴產 廣達斥資197億元買友達廠房\nODM三大廠廣達（2382）、緯創（3231）、英業達（2356）擴大AI伺服器新產能投資...more",
+    "title_en": "Preview of five major financial events on July 29",
+    "summary_en": "The Economic Daily has compiled five must-know financial events so that readers can quickly grasp the most important financial events every morning.\n\n1. Global chip stocks plunge, Taiwan stocks plummet 2,030 points, stop falling and pay attention to three signals\nGlobal chip stocks plunged, and Asian stocks were almost wiped out yesterday (28th), which impacted Taiwanese stocks to open lower and end with a 2,030-point plunge...more\n\n\n2. The third reading of the Legislative Yuan: the special division between brothers and sisters in civil law has been deleted. The Ministry of Justice: the order of succession and succession division remain unchanged.\nThe Legislative Yuan passed the relevant amendments to the Civil Code on the third reading yesterday (28th), deleting the special points reserved for brothers and sisters, closer to the freedom of testament...more\n\n\n3. The conflict between the United States and Iran has cooled down, oil prices have plummeted, there has been a three-day ceasefire, and Homouz Shipping is expected to resume\nU.S. President Trump said that he is launching diplomatic negotiations with Iran to try to end the conflict in the Middle East; according to people familiar with the matter, Iran and Oman are also negotiating to resume shipping in the Strait of Hormuz...more\n\n\n4. Chip stocks are falling in the cloud and are covered by \"five shorts\". AI darlings have become AI big question marks, scaring away investors.\nThe selling pressure of the semiconductor group continues to increase. From Asia's SK Hynix and KIOXIA to Europe's ASML, they all fell on the 28th...more\n\n\n5. AI server ODM factory spends money to expand production. Quanta spends 19.7 billion yuan to buy AUO factory\nThe three major ODM manufacturers Quanta (2382), Wistron (3231) and Inventec (2356) are expanding investment in new production capacity for AI servers...more"
+  },
+  {
     "title": "免費電子書毀書市？文化部推電子書計次3年 報告揭密：反成行銷利器",
     "url": "https://money.udn.com/money/story/7307/9657061",
     "source": "經濟日報總經",
@@ -362,7 +379,11 @@
     "summary": "近期台指選擇權波動率指數VIX在30以上高檔震盪，資金呈觀望心態，預期大盤後續仍將維持區間盤整態勢，等待市場雜音釐清。",
     "published_at": "2026-07-29T01:55:39+08:00",
     "stocks": [],
-    "uid": "a5a7c6ce09bf6259fb11c131be081d27"
+    "uid": "a5a7c6ce09bf6259fb11c131be081d27",
+    "title_zh": "就市論勢／先進封裝、半導體鏈 聚光",
+    "summary_zh": "近期台指選擇權波動率指數VIX在30以上高檔震盪，資金呈觀望心態，預期大盤後續仍將維持區間盤整態勢，等待市場雜音釐清。",
+    "title_en": "Discussing market trends/advanced packaging and semiconductor chain spotlight",
+    "summary_en": "Recently, the Taiwan Stock Exchange Options Volatility Index VIX has fluctuated at a high level above 30, and funds have adopted a wait-and-see mentality. It is expected that the market will continue to maintain a range-bound trend in the future, waiting for market noise to be clarified."
   },
   {
     "title": "旺宏第2季獲利創新高",
@@ -373,7 +394,11 @@
     "stocks": [
       "2337"
     ],
-    "uid": "0b52a0b17b7ea249a03431a9ae6dc34b"
+    "uid": "0b52a0b17b7ea249a03431a9ae6dc34b",
+    "title_zh": "旺宏第2季獲利創新高",
+    "summary_zh": "旺宏（2337）昨（28）日舉行法說會，公布第2季獲利改寫單季新猷，毛利率也攻上64.4％新高，每股純益3.91元，上半年每股純益4.82元，並宣布將再編列158億元資本支出預算擴產。總經理盧志遠看好，若市場熱況延續，毛利率衝上八成指日可待。",
+    "title_en": "Macronix's second-quarter profit hits record high",
+    "summary_en": "Macronix (2337) held a press conference yesterday (28th) and announced that its second-quarter profit had set a new record for a single quarter. Gross profit margin also reached a new high of 64.4%, net profit per share was 3.91 yuan, and net profit per share in the first half of the year was 4.82 yuan. It also announced that it would prepare an additional capital expenditure budget of 15.8 billion yuan to expand production. General manager Lu Zhiyuan is optimistic that if the market boom continues, the gross profit margin will reach 80% soon."
   },
   {
     "title": "智原第3季營運恐衰退",
@@ -382,7 +407,11 @@
     "summary": "特殊應用IC（ASIC）設計服務業者智原 （3035）昨（28）日召開法說會，公布第2季每股純益0.76元，上半年每股純益為1.16元。展望後市，智原預估，受供應鏈供貨吃緊影響，本季營收可能季減個位數百分比，毛利率估維持在45％左右。",
     "published_at": "2026-07-29T01:48:57+08:00",
     "stocks": [],
-    "uid": "d748beb78e4104e9ebca404bd053b00d"
+    "uid": "d748beb78e4104e9ebca404bd053b00d",
+    "title_zh": "智原第3季營運恐衰退",
+    "summary_zh": "特殊應用IC（ASIC）設計服務業者智原 （3035）昨（28）日召開法說會，公布第2季每股純益0.76元，上半年每股純益為1.16元。展望後市，智原預估，受供應鏈供貨吃緊影響，本季營收可能季減個位數百分比，毛利率估維持在45％左右。",
+    "title_en": "Faraday's operations may decline in third quarter",
+    "summary_en": "Faraday (3035), a provider of special application IC (ASIC) design services, held a press conference yesterday (28th) and announced net earnings per share of 0.76 yuan in the second quarter and 1.16 yuan in the first half of the year. Looking forward to the market outlook, Faraday predicts that due to the tight supply chain supply, revenue this quarter may decrease by a single-digit percentage quarter-to-quarter, and gross profit margin is expected to remain around 45%."
   },
   {
     "title": "訊連上半年純益年增82％",
@@ -393,7 +422,11 @@
     "stocks": [
       "5203"
     ],
-    "uid": "57bcde1f68e9ad055778449be826f822"
+    "uid": "57bcde1f68e9ad055778449be826f822",
+    "title_zh": "訊連上半年純益年增82％",
+    "summary_zh": "訊連（5203）昨（28）日舉行法說會，董事長黃肇雄表示，短期營運將受PC市場動能下滑影響，長期來看，訊連鎖定英特爾、超微及輝達等三大AI PC平台，未來營運仍樂觀看待。",
+    "title_en": "CyberLink’s first half net income increased by 82% year-on-year",
+    "summary_en": "CyberLink (5203) held a press conference yesterday (28th). Chairman Huang Zhaoxiong said that short-term operations will be affected by the decline in momentum of the PC market. In the long term, CyberLink has locked in the three major AI PC platforms of Intel, AMD and Huida, and its future operations are still optimistic."
   },
   {
     "title": "老了醫療誰來顧 問題篇／醫療安全網亮起紅燈",
@@ -1073,7 +1106,11 @@
     "summary": "編按：作者被譽為「創傷療癒先驅」的加拿大醫師，獨創了「慈悲探詢」（Compassionate Inquiry, CI）方法，精準解析疾病背後的潛意識動力與創傷路徑。全球已有超過 80 個國家投入臨床應用。他結合四十年臨床觀察、神經科學研究與個人經驗，揭露一個驚人的觀察：我們習以為常的「正常」，其實是一種集體創傷的結果。許多被視為文明進步的價值觀，正在吞噬我們的身心健康。在他筆下，過勞、憂鬱、免疫失調、不明慢性症狀，都不是單一事件，而是被壓抑的創傷、情緒與需求的長年累積。作者： 嘉柏‧麥特, 丹尼爾・麥特婚姻、工作與人際關係真的會影響健康嗎？答案是會，而且影響可能比想像中更深。《正常的迷思》作者、身心醫學權威嘉柏．麥特指出，不幸福的婚姻可能比單身更傷身，糟糕的工作甚至比失業更損害心理健康；父母的壓力與情緒，也可能影響孩子的壓力反應，甚至提高氣喘風險。他重新定義健康，指出真正影響身心的，不只是個人的生活習慣，更包括我們所處的家庭、職場與社會環境。數年前，精神科醫師、研究者和多產作家丹尼爾．席格博士（Daniel Siegel）提出了「人際神經生物學」的概念。席格博士和我及許多同",
     "published_at": "2026-07-28T22:06:47+08:00",
     "stocks": [],
-    "uid": "5889f6882d0143ac3582478ec33130e8"
+    "uid": "5889f6882d0143ac3582478ec33130e8",
+    "title_zh": "有毒的婚姻與工作，比單身、失業更傷身？40年身心醫生重新定義健康",
+    "summary_zh": "編按：作者被譽為「創傷療癒先驅」的加拿大醫師，獨創了「慈悲探詢」（Compassionate Inquiry, CI）方法，精準解析疾病背後的潛意識動力與創傷路徑。全球已有超過 80 個國家投入臨床應用。他結合四十年臨床觀察、神經科學研究與個人經驗，揭露一個驚人的觀察：我們習以為常的「正常」，其實是一種集體創傷的結果。許多被視為文明進步的價值觀，正在吞噬我們的身心健康。在他筆下，過勞、憂鬱、免疫失調、不明慢性症狀，都不是單一事件，而是被壓抑的創傷、情緒與需求的長年累積。作者： 嘉柏‧麥特, 丹尼爾・麥特婚姻、工作與人際關係真的會影響健康嗎？答案是會，而且影響可能比想像中更深。《正常的迷思》作者、身心醫學權威嘉柏．麥特指出，不幸福的婚姻可能比單身更傷身，糟糕的工作甚至比失業更損害心理健康；父母的壓力與情緒，也可能影響孩子的壓力反應，甚至提高氣喘風險。他重新定義健康，指出真正影響身心的，不只是個人的生活習慣，更包括我們所處的家庭、職場與社會環境。數年前，精神科醫師、研究者和多產作家丹尼爾．席格博士（Daniel Siegel）提出了「人際神經生物學」的概念。席格博士和我及許多同",
+    "title_en": "Are toxic marriages and jobs more harmful to health than being single and unemployed? Mind-body doctors redefine health for 40 years",
+    "summary_en": "Editor's Note: The author, a Canadian physician known as the \"Pioneer of Trauma Healing,\" created the original \"Compassionate Inquiry (CI)\" method to accurately analyze the subconscious dynamics and trauma paths behind the disease. More than 80 countries around the world have put it into clinical application. Combining four decades of clinical observation, neuroscientific research, and personal experience, he reveals a startling observation: the \"normal\" we take for granted is actually the result of a collective trauma. Many values ​​that are regarded as civilizational progress are eating away at our physical and mental health. In his works, overwork, depression, immune disorders, and unknown chronic symptoms are not single events, but a long-term accumulation of suppressed trauma, emotions, and needs. Author: Gabor Matt, Daniel Matt Do marriage, work and relationships really affect your health? The answer is yes, and the impact may be deeper than imagined. Gabor, author of \"The Myth of Normality\" and an authority on mind-body medicine. Matt pointed out that an unhappy marriage may be more harmful to the body than being single, and a bad job may even damage mental health more than unemployment. Parents' stress and emotions may also affect children's stress response and even increase the risk of asthma. He redefined health and pointed out that what truly affects the body and mind is not just personal living habits, but also the family, workplace and social environment in which we live. A few years ago, psychiatrist, researcher, and prolific author Daniel. Dr. Daniel Siegel proposed the concept of \"interpersonal neurobiology\". Dr. Siegel and I and many of our colleagues"
   },
   {
     "title": "大樂透頭獎9.1億元1注獨得　獎落北市松山",
@@ -1082,7 +1119,11 @@
     "summary": "（中央社台北28日電）大樂透第115074期今晚開獎。中獎號碼為24、32、19、26、08、43，特別號47；派彩結果，頭獎1注中獎，在台北市松山區開出，獎金新台幣9.1億元。",
     "published_at": "2026-07-28T22:06:26+08:00",
     "stocks": [],
-    "uid": "e09bc87a1d6f97395b556dec2ffe92df"
+    "uid": "e09bc87a1d6f97395b556dec2ffe92df",
+    "title_zh": "大樂透頭獎9.1億元1注獨得　獎落北市松山",
+    "summary_zh": "（中央社台北28日電）大樂透第115074期今晚開獎。中獎號碼為24、32、19、26、08、43，特別號47；派彩結果，頭獎1注中獎，在台北市松山區開出，獎金新台幣9.1億元。",
+    "title_en": "The Grand Lotto jackpot of 910 million yuan was won by one bet, and the prize fell in Songshan, Bei City",
+    "summary_en": "(Central News Agency, Taipei, 28th) The 115074th issue of the Grand Lotto will be drawn tonight. The winning numbers were 24, 32, 19, 26, 08, 43, and the special number 47; the result was that the first prize was won by 1 bet, which was drawn in Songshan District, Taipei City, with a prize of NT$910 million."
   },
   {
     "title": "科技股如何度過暴跌危機 4大因素要過關",
@@ -1093,7 +1134,11 @@
     "stocks": [
       "5007"
     ],
-    "uid": "dd96c72e95185b76b4d84b25556fe488"
+    "uid": "dd96c72e95185b76b4d84b25556fe488",
+    "title_zh": "科技股如何度過暴跌危機 4大因素要過關",
+    "summary_zh": "〔財經頻道／綜合報導〕為什麼近日科技股暴跌？由於投資人對人工智慧支出熱潮持續時間的質疑，以及對中國晶片製造領域競爭的擔憂，導致科技股週二暴跌。南韓三星電子股價下跌超過12%，日本記憶體晶片製造商...…",
+    "title_en": "How technology stocks can survive the plunge crisis? 4 major factors need to be overcome",
+    "summary_en": "[Financial Channel/Comprehensive Report] Why have technology stocks plummeted recently? Technology stocks tumbled on Tuesday as investors questioned the longevity of the artificial intelligence spending boom and worried about competition in China's chip manufacturing sector. Shares of South Korea's Samsung Electronics fell more than 12%, and the Japanese memory chip maker..."
   },
   {
     "title": "傳Visa裁員約2600人　占全球員工7%",
@@ -1102,7 +1147,11 @@
     "summary": "（中央社紐約28日綜合外電報導）彭博（Bloomberg News）今天引述員工備忘錄報導，信用卡巨擘Visa計劃裁減約7%人力、約2600個職位，以提升營運效率，因應充滿挑戰的產業環境。",
     "published_at": "2026-07-28T22:02:24+08:00",
     "stocks": [],
-    "uid": "ddeb87c81cfc305e871e9490e5df3bff"
+    "uid": "ddeb87c81cfc305e871e9490e5df3bff",
+    "title_zh": "傳Visa裁員約2600人　占全球員工7%",
+    "summary_zh": "（中央社紐約28日綜合外電報導）彭博（Bloomberg News）今天引述員工備忘錄報導，信用卡巨擘Visa計劃裁減約7%人力、約2600個職位，以提升營運效率，因應充滿挑戰的產業環境。",
+    "title_en": "Visa is rumored to be laying off approximately 2,600 employees, accounting for 7% of its global workforce",
+    "summary_en": "(Central News Agency, New York, comprehensive foreign news report on the 28th) Bloomberg News reported today, citing an employee memo, that credit card giant Visa plans to cut about 7% of its workforce and about 2,600 positions to improve operational efficiency and respond to the challenging industry environment."
   },
   {
     "title": "欣興大舉上修今年資本支出達537億元 調升逾57%",
@@ -1113,7 +1162,11 @@
     "stocks": [
       "3037"
     ],
-    "uid": "a5317793bd1adf998bb1b035acd3565c"
+    "uid": "a5317793bd1adf998bb1b035acd3565c",
+    "title_zh": "欣興大舉上修今年資本支出達537億元 調升逾57%",
+    "summary_zh": "載板龍頭欣興（3037）今日公告公司董事會決議調整115年度資本預算及長交期設備預下訂單金額，大舉上修今年資本支出達537億元，換算調升逾57%。",
+    "title_en": "Xinxing sharply upwardly revised its capital expenditure this year to 53.7 billion yuan, an increase of more than 57%",
+    "summary_en": "Xinxing (3037), the leader in carrier boards, announced today that the company's board of directors has decided to adjust the capital budget for 2015 and the amount of pre-orders for long-term equipment, significantly raising this year's capital expenditure to 53.7 billion yuan, a conversion increase of more than 57%."
   },
   {
     "title": "快訊／9.1億頭獎開出了！1注獨得獎落北市松山　幸運彩券行曝光",
@@ -1122,7 +1175,11 @@
     "summary": "<img alt=\"快訊／9.1億頭獎開出了！1注獨得獎落北市松山　幸運彩券行曝光\" src=\"https://cdn2.ettoday.net/images/8850/c8850818.jpg\" /><br /> 大樂透頭獎連續22期槓龜後，今（28日）晚終於開出幸運得主。台灣彩券公布，本期頭獎金額高達新台幣9.10億元，由1注獨得，幸運彩券開在台北市松山區撫遠街339號1樓「恆發彩券」，也創下第五屆大樂透開辦以來最高頭獎總獎金。 <a href=\"https://finance.ettoday.net/news/3209315\" target=\"_blank\">《詳全文...》</a>",
     "published_at": "2026-07-28T22:01:00+08:00",
     "stocks": [],
-    "uid": "5e52c6af9b2315b4a8204dc73ac21b0e"
+    "uid": "5e52c6af9b2315b4a8204dc73ac21b0e",
+    "title_zh": "快訊／9.1億頭獎開出了！1注獨得獎落北市松山　幸運彩券行曝光",
+    "summary_zh": "<img alt=\"快訊／9.1億頭獎開出了！1注獨得獎落北市松山　幸運彩券行曝光\" src=\"https://cdn2.ettoday.net/images/8850/c8850818.jpg\" /><br /> 大樂透頭獎連續22期槓龜後，今（28日）晚終於開出幸運得主。台灣彩券公布，本期頭獎金額高達新台幣9.10億元，由1注獨得，幸運彩券開在台北市松山區撫遠街339號1樓「恆發彩券」，也創下第五屆大樂透開辦以來最高頭獎總獎金。 <a href=\"https://finance.ettoday.net/news/3209315\" target=\"_blank\">《詳全文...》</a>",
+    "title_en": "News/The 910 million jackpot is out! 1 note won the only prize in Songshan, Luobei City. Lucky lottery shop exposed",
+    "summary_en": "<img alt=\"News/The first prize of 910 million has been awarded! The lucky lottery ticket store that won the 1st prize in Luobei City Songshan is exposed\" src=\"https://cdn2.ettoday.net/images/8850/c8850818.jpg\" /><br /> After 22 consecutive draws of the Grand Lotto jackpot, the lucky winner was finally announced tonight (28th). Taiwan Lottery announced that the jackpot amount for this period is as high as NT$910 million, won by 1 bet. The lucky lottery ticket was opened at the \"Hengfa Lottery\" on the 1st floor of No. 339 Fuyuan Street, Songshan District, Taipei City. It also set the highest total jackpot prize since the fifth lottery was launched. <a href=\"https://finance.ettoday.net/news/3209315\" target=\"_blank\">\"Full text...\"</a>"
   },
   {
     "title": "胰臟癌為何一發現就晚期？醫揭傳統健檢漏掉的4大警訊",
@@ -1131,7 +1188,11 @@
     "summary": "為什麼年年做健康檢查，腹部超音波、抽血驗腫瘤指標（CA19-9）明明寫著「正常」，卻在某一天突然被宣告確診胰臟癌晚期？胰臟是一個藏得極深、從不輕易喊痛的器官。等你聽到它求救時，往往已經是最後的吶喊。一般人總以為胰臟癌和自己無關，但殘酷的現實是：高達八到九成的胰臟癌患者，過去完全沒有任何家族病史！世界專家預測，2035年，胰臟癌將成為全球第二大癌症死因！從被動等待到主動管理，讓胰臟癌風險不再只是命運！台灣胰臟癌篩檢權威——台大醫院章明珠醫師，揪出最多零期胰臟癌，幫助無數人提早看見生命警報，許多病人遠從美國、英國、日本、新加坡飛來求助。她與台大團隊整合超過25年堅實的臨床數據，首次為大眾揭開「零期攔截」的防禦地圖。只要用對方法，在癌症零期精準攔截，病人的手術機會可以從傳統的20%翻轉為92%，五年存活率更高達98%！透過最前瞻的醫學防禦思維，本書將帶你全方位攔截癌王，改寫命運：• 捕捉身體的微弱求救：長期吃胃藥不會好的上腹痛、意料之外的新發糖尿病、穩定控制的血糖突然出現波動、不明原因體重減輕……別再誤當成普通胃病或身體老化！• 翻轉「脂肪胰」的日常防禦：有脂肪肝的人，",
     "published_at": "2026-07-28T22:00:16+08:00",
     "stocks": [],
-    "uid": "e84d379c5bfe1c263103d5db8eaeb547"
+    "uid": "e84d379c5bfe1c263103d5db8eaeb547",
+    "title_zh": "胰臟癌為何一發現就晚期？醫揭傳統健檢漏掉的4大警訊",
+    "summary_zh": "為什麼年年做健康檢查，腹部超音波、抽血驗腫瘤指標（CA19-9）明明寫著「正常」，卻在某一天突然被宣告確診胰臟癌晚期？胰臟是一個藏得極深、從不輕易喊痛的器官。等你聽到它求救時，往往已經是最後的吶喊。一般人總以為胰臟癌和自己無關，但殘酷的現實是：高達八到九成的胰臟癌患者，過去完全沒有任何家族病史！世界專家預測，2035年，胰臟癌將成為全球第二大癌症死因！從被動等待到主動管理，讓胰臟癌風險不再只是命運！台灣胰臟癌篩檢權威——台大醫院章明珠醫師，揪出最多零期胰臟癌，幫助無數人提早看見生命警報，許多病人遠從美國、英國、日本、新加坡飛來求助。她與台大團隊整合超過25年堅實的臨床數據，首次為大眾揭開「零期攔截」的防禦地圖。只要用對方法，在癌症零期精準攔截，病人的手術機會可以從傳統的20%翻轉為92%，五年存活率更高達98%！透過最前瞻的醫學防禦思維，本書將帶你全方位攔截癌王，改寫命運：• 捕捉身體的微弱求救：長期吃胃藥不會好的上腹痛、意料之外的新發糖尿病、穩定控制的血糖突然出現波動、不明原因體重減輕……別再誤當成普通胃病或身體老化！• 翻轉「脂肪胰」的日常防禦：有脂肪肝的人，",
+    "title_en": "Why is pancreatic cancer so late when it is discovered? Doctors reveal 4 major warning signs missed by traditional health examinations",
+    "summary_en": "Why do you have a health check-up every year, and the abdominal ultrasound and blood test for tumor indicators (CA19-9) clearly say \"normal\", but one day you are suddenly diagnosed with late-stage pancreatic cancer? The pancreas is an organ that is very hidden and never feels pain easily. By the time you hear it calling for help, it is often its last cry. Most people always think that pancreatic cancer has nothing to do with them, but the cruel reality is: as many as 80 to 90% of pancreatic cancer patients have no family history at all! World experts predict that pancreatic cancer will become the second leading cause of cancer death in the world by 2035! From passive waiting to active management, the risk of pancreatic cancer is no longer just fate! Taiwan's leading pancreatic cancer screening authority, Dr. Zhang Mingzhu of National Taiwan University Hospital, has identified most stage 0 pancreatic cancers and helped countless people see life warnings early. Many patients have flown from as far away as the United States, the United Kingdom, Japan, and Singapore for help. She and the National Taiwan University team integrated more than 25 years of solid clinical data and unveiled the \"zero-stage interception\" defense map to the public for the first time. As long as the right method is used to accurately intercept cancer at the zero stage, the patient's chance of surgery can be reversed from the traditional 20% to 92%, and the five-year survival rate can be as high as 98%! Through the most forward-looking medical defense thinking, this book will lead you to intercept the king of cancer in all aspects and rewrite your destiny: • Capture the body's weak cry for help: upper abdominal pain that cannot be cured by long-term stomach medicine, unexpected new onset of diabetes, sudden fluctuations in stably controlled blood sugar, unexplained weight loss... Don't mistake it for ordinary stomach problems or physical aging! • Daily defense for turning over the \"fatty pancreas\": People with fatty liver,"
   },
   {
     "title": "超幸運！大樂透頭獎1注獨得9.1億  獎落這個縣市",
@@ -1140,7 +1201,11 @@
     "summary": "大樂透頭獎連22摃後，終於開出大獎！今晚（28日）開獎的大樂透，頭獎1注中獎，獨得獎金9.1億元，為大樂透第5屆最高頭獎總獎金，頭獎由台北市松山區撫遠街339號「恆發彩券...…",
     "published_at": "2026-07-28T22:00:00+08:00",
     "stocks": [],
-    "uid": "de111c0ca64fa3073a416ece2b704c4d"
+    "uid": "de111c0ca64fa3073a416ece2b704c4d",
+    "title_zh": "超幸運！大樂透頭獎1注獨得9.1億  獎落這個縣市",
+    "summary_zh": "大樂透頭獎連22摃後，終於開出大獎！今晚（28日）開獎的大樂透，頭獎1注中獎，獨得獎金9.1億元，為大樂透第5屆最高頭獎總獎金，頭獎由台北市松山區撫遠街339號「恆發彩券...…",
+    "title_en": "Super lucky! The Grand Lotto jackpot won 910 million with one bet, and the prize fell to this county and city",
+    "summary_en": "After winning 22 consecutive lottery jackpots, the grand prize is finally announced! In the Grand Lotto draw tonight (28th), one bet won the first prize, and the prize was 910 million yuan, which was the highest total jackpot prize in the 5th Grand Lotto. The first prize was won by \"Hengfa Lottery, No. 339, Fuyuan Street, Songshan District, Taipei City..."
   },
   {
     "title": "美國301關稅上路 台灣工具機業將超車日韓？反超的2.5%優勢比想像中更大",
@@ -1149,7 +1214,11 @@
     "summary": "美國強迫勞動301關稅正式上路，最新關稅政策，意外讓台灣工具機產業迎來多年難得的競爭優勢。過去台灣產品出口美國，關稅始終高於日本、韓國，在價格競爭上居於劣勢；如今美國針對台灣祭出10%不疊加待遇，而日本、韓國則為12.5%，台灣首度反超主要競爭對手2.5個百分點，而台灣將迎來哪些機會？",
     "published_at": "2026-07-28T21:58:33+08:00",
     "stocks": [],
-    "uid": "dd31a8635a0e38dcda6726a506aa78b6"
+    "uid": "dd31a8635a0e38dcda6726a506aa78b6",
+    "title_zh": "美國301關稅上路 台灣工具機業將超車日韓？反超的2.5%優勢比想像中更大",
+    "summary_zh": "美國強迫勞動301關稅正式上路，最新關稅政策，意外讓台灣工具機產業迎來多年難得的競爭優勢。過去台灣產品出口美國，關稅始終高於日本、韓國，在價格競爭上居於劣勢；如今美國針對台灣祭出10%不疊加待遇，而日本、韓國則為12.5%，台灣首度反超主要競爭對手2.5個百分點，而台灣將迎來哪些機會？",
+    "title_en": "With the US Section 301 tariffs on the way, will Taiwan’s machine tool industry overtake Japan and South Korea? The 2.5% advantage in overtaking is greater than imagined",
+    "summary_en": "The U.S. Section 301 tariff on forced labor has officially come into effect. The latest tariff policy has unexpectedly given Taiwan’s machine tool industry a competitive advantage that has been rare for many years. In the past, the tariffs for Taiwanese products exported to the United States were always higher than those of Japan and South Korea, putting them at a disadvantage in price competition. Now the United States has imposed a 10% non-overlapping treatment on Taiwan, while Japan and South Korea have a 12.5% ​​treatment. For the first time, Taiwan has overtaken its main competitors by 2.5 percentage points. What opportunities will Taiwan face?"
   },
   {
     "title": "AI疑慮拖累晶片股　美股多開低那指下挫",
@@ -1158,7 +1227,11 @@
     "summary": "（中央社紐約28日綜合外電報導）美股多家重量級企業財報發布前，市場擔憂企業對人工智慧（AI）的龐大支出，加上來自中國的競爭加劇，全球市場對AI晶片股情緒轉趨審慎，美股主要指數今天多開低，那指下挫。",
     "published_at": "2026-07-28T21:54:22+08:00",
     "stocks": [],
-    "uid": "afad8f02af1cb31bb69d0e61e3e5e9b0"
+    "uid": "afad8f02af1cb31bb69d0e61e3e5e9b0",
+    "title_zh": "AI疑慮拖累晶片股　美股多開低那指下挫",
+    "summary_zh": "（中央社紐約28日綜合外電報導）美股多家重量級企業財報發布前，市場擔憂企業對人工智慧（AI）的龐大支出，加上來自中國的競爭加劇，全球市場對AI晶片股情緒轉趨審慎，美股主要指數今天多開低，那指下挫。",
+    "title_en": "AI concerns drag down chip stocks; U.S. stocks open lower, Nasdaq drops",
+    "summary_en": "(Central News Agency, New York, Comprehensive Foreign News Report on the 28th) Before the financial reports of many heavyweight companies in the U.S. stock market were released, the market was concerned about the huge expenditures of companies on artificial intelligence (AI), coupled with the intensifying competition from China, the global market sentiment towards AI chip stocks has turned cautious. The major U.S. stock indexes opened lower today, and the Nasdaq Composite Index fell."
   },
   {
     "title": "金管會核准七家國銀 可採用IRB法計提資本",
@@ -1167,7 +1240,11 @@
     "summary": "為持續提升我國銀行信用風險管理能力，金管會今 （28） 日宣布，核准合作金庫等 7 家國銀採用「信用風險內部評等法」（IRB 法）計提資本。新制將於2026年第四季起正式...…",
     "published_at": "2026-07-28T21:53:48+08:00",
     "stocks": [],
-    "uid": "7c68d3a8c1923623bb455f75a0520840"
+    "uid": "7c68d3a8c1923623bb455f75a0520840",
+    "title_zh": "金管會核准七家國銀 可採用IRB法計提資本",
+    "summary_zh": "為持續提升我國銀行信用風險管理能力，金管會今 （28） 日宣布，核准合作金庫等 7 家國銀採用「信用風險內部評等法」（IRB 法）計提資本。新制將於2026年第四季起正式...…",
+    "title_en": "The Financial Supervisory Commission approved seven national banks to use the IRB method to accrue capital",
+    "summary_en": "In order to continue to improve the credit risk management capabilities of my country's banks, the Financial Supervisory Commission announced today (28th) that it has approved the adoption of the \"Internal Credit Risk Rating Method\" (IRB method) for capital provision by 7 national banks including the Cooperative Bank. The new system will be officially launched in the fourth quarter of 2026..."
   },
   {
     "title": "中國 DUV 交付消息引發半導體連鎖殺盤效應，專家解析真相指劃錯重點",
@@ -1176,7 +1253,11 @@
     "summary": "日前，一篇出自外媒The Information最新報導，指出一家未具名的中國國家支持企業已成功製造國產DUV [&#8230;]",
     "published_at": "2026-07-28T21:50:36+08:00",
     "stocks": [],
-    "uid": "ce95a6e4a961fb9a3b1dc63614fba404"
+    "uid": "ce95a6e4a961fb9a3b1dc63614fba404",
+    "title_zh": "中國 DUV 交付消息引發半導體連鎖殺盤效應，專家解析真相指劃錯重點",
+    "summary_zh": "日前，一篇出自外媒The Information最新報導，指出一家未具名的中國國家支持企業已成功製造國產DUV [&#8230;]",
+    "title_en": "China's DUV delivery news triggers semiconductor chain sales effect, experts analyze the truth and point out the wrong focus",
+    "summary_en": "A few days ago, a latest report from the foreign media The Information pointed out that an unnamed Chinese state-supported company has successfully manufactured domestic DUV […]"
   },
   {
     "title": "蘋果候任執行長肯定娛樂事業表現　允延續發展衝勁",
@@ -1185,7 +1266,11 @@
     "summary": "（中央社洛杉磯27日綜合外電報導）美國科技業巨擘蘋果（Apple）候任執行長、現任硬體部門主管特納斯（John Ternus）表示，他9月執掌公司後，將致力於延續蘋果在娛樂事業的發展衝勁。",
     "published_at": "2026-07-28T21:49:19+08:00",
     "stocks": [],
-    "uid": "70111a73d6a4b76af0e69c18c2cc6cde"
+    "uid": "70111a73d6a4b76af0e69c18c2cc6cde",
+    "title_zh": "蘋果候任執行長肯定娛樂事業表現　允延續發展衝勁",
+    "summary_zh": "（中央社洛杉磯27日綜合外電報導）美國科技業巨擘蘋果（Apple）候任執行長、現任硬體部門主管特納斯（John Ternus）表示，他9月執掌公司後，將致力於延續蘋果在娛樂事業的發展衝勁。",
+    "title_en": "Apple's CEO-elect affirms the performance of its entertainment business and promises to continue its development momentum",
+    "summary_en": "(Central News Agency, Los Angeles, Comprehensive Foreign Reports on the 27th) John Ternus, the incoming CEO of the American technology giant Apple and current head of the hardware department, said that after taking the helm of the company in September, he will be committed to continuing Apple’s development momentum in the entertainment business."
   },
   {
     "title": "台積電JASM已逐步回線 法人：獲利貢獻低、影響有限",
@@ -1196,7 +1281,11 @@
     "stocks": [
       "2330"
     ],
-    "uid": "03745361297888c7004575468045a3bf"
+    "uid": "03745361297888c7004575468045a3bf",
+    "title_zh": "台積電JASM已逐步回線 法人：獲利貢獻低、影響有限",
+    "summary_zh": "日本熊本縣今（28）日下午發生規模7.1強震，晶圓代工龍頭台積電（2330）熊本廠JASM已逐步回復產線。法人認為，熊本廠占台積電整體營收及獲利比重仍低，預估此次地震對營...…",
+    "title_en": "TSMC JASM has gradually come back online. Legal person: low profit contribution and limited impact",
+    "summary_en": "A 7.1-magnitude earthquake occurred in Kumamoto Prefecture, Japan, this afternoon (28th). The leading wafer foundry company TSMC (2330) Kumamoto Factory JASM has gradually resumed production lines. The legal person believes that the Kumamoto plant still accounts for a low proportion of TSMC’s overall revenue and profits. It is estimated that the earthquake will have a negative impact on the business..."
   },
   {
     "title": "台積電更新JASM近況  人員安全無虞已逐步回產線",
@@ -1208,7 +1297,11 @@
       "TWS:2330:STOCK",
       "USS:TSM:STOCK"
     ],
-    "uid": "7dd29ac25639177251a95a8b9396d86e"
+    "uid": "7dd29ac25639177251a95a8b9396d86e",
+    "title_zh": "台積電更新JASM近況  人員安全無虞已逐步回產線",
+    "summary_zh": "台積電 (2330-TW)(TSM-US) 晚間更新熊本廠 JASM 情況，公司指出，目前廠區所有人員皆確認安全無虞，亦已完成 JASM 廠區建築震後損害檢查，確認結構安全無虞逐步回線。",
+    "title_en": "TSMC updates JASM status, personnel are safe and has gradually returned to production lines",
+    "summary_en": "TSMC (2330-TW)(TSM-US) updated the JASM situation of the Kumamoto plant in the evening. The company pointed out that all personnel at the plant are currently confirmed to be safe. It has also completed the post-earthquake damage inspection of the JASM plant building and confirmed that the structure is safe and is gradually returning to line."
   },
   {
     "title": "欣興Q2純益131億元創高 上半年純益193.56億元EPS11.7元",
@@ -1219,7 +1312,11 @@
     "stocks": [
       "TWS:3037:STOCK"
     ],
-    "uid": "ec4f1a2e3e9eeaf1c89b5ce39617e577"
+    "uid": "ec4f1a2e3e9eeaf1c89b5ce39617e577",
+    "title_zh": "欣興Q2純益131億元創高 上半年純益193.56億元EPS11.7元",
+    "summary_zh": "PCB 及 IC 載板欣興公布最新獲利資訊，2026 年第二季稅後純益 131.15 億元，季增 1.6 倍，年增 441 倍，每股純益 8.45 元，上半年稅後純益 193.56 億元，年增 18.23 倍，每股純益達 11.7 元。",
+    "title_en": "Xinxing Q2 net profit hit a high of 13.1 billion yuan, net profit in the first half of the year was 19.356 billion yuan, EPS was 11.7 yuan",
+    "summary_en": "PCB and IC substrate Xinxing announced the latest profit information. In the second quarter of 2026, the net profit after tax was 13.115 billion yuan, a quarterly increase of 1.6 times, an annual increase of 441 times, and a net profit per share of 8.45 yuan. In the first half of the year, the after-tax net profit was 19.356 billion yuan, an annual increase of 18.23 times, and the net profit per share reached 11.7 yuan."
   },
   {
     "title": "「四貸同堂」引爆炒股疑慮？金管會：占比仍低、僅個位數",
@@ -1228,7 +1325,11 @@
     "summary": "由於台股登上史上高點，催生出「房貸」、「車貸」、「信貸」加上「股票融資或質押」的「四貸同堂」現象，引起金管會關切，並找部分銀行「喝咖啡」瞭解；金管會銀行局表示，目前銀行授...…",
     "published_at": "2026-07-28T21:46:35+08:00",
     "stocks": [],
-    "uid": "c6b82d3964b9891ed909f87cae8dfd22"
+    "uid": "c6b82d3964b9891ed909f87cae8dfd22",
+    "title_zh": "「四貸同堂」引爆炒股疑慮？金管會：占比仍低、僅個位數",
+    "summary_zh": "由於台股登上史上高點，催生出「房貸」、「車貸」、「信貸」加上「股票融資或質押」的「四貸同堂」現象，引起金管會關切，並找部分銀行「喝咖啡」瞭解；金管會銀行局表示，目前銀行授...…",
+    "title_en": "\"Four loans under one roof\" triggers doubts about stock trading? Financial Supervisory Commission: The proportion is still low, only single digits",
+    "summary_en": "As the Taiwan stock market reached an all-time high, the phenomenon of \"four loans under one roof\" including \"mortgage\", \"car loan\", \"credit\" and \"stock financing or pledge\" was born, which aroused the concern of the Financial Supervisory Commission and asked some banks to \"drink coffee\" to understand. The Banking Bureau of the Financial Supervisory Commission stated that currently, banks grant..."
   },
   {
     "title": "台股狂瀉2,030點只是去槓桿開端？郭哲榮示警41,250點恐爆融資斷頭潮",
@@ -1237,7 +1338,11 @@
     "summary": "摩爾投顧投資長郭哲榮表示，今天台股單日大崩跌2030點，史上第三大跌點，還跌破4萬2大關，這波歷史級別的下殺讓許多投資人感到極度恐慌。但我必須提醒大家，跌破4萬2可能只是市場去槓桿的剛開始。隨著大盤崩跌，目前已有券商發出融資追繳令的提醒，明確指出若大盤點位再下修約400點，大約來到41250點附近，將會觸發大量的融資追繳與斷頭潮。這波殺盤並非台灣獨有，韓國近期也在進行股市去槓桿。韓國金管會針對三星、SK海力士等正2槓桿ETF提高保證金要求，期限到7/31，部分投資人繳不出保證金，進而引發多殺多的斷頭潮。台灣市場目前也同樣在經歷這場清洗高槓桿與融資部位的\"正2手術\"。這就像是做\"正顎手術\"一樣，手術做完後的一段時間內只能吃流質食物，過程非常痛苦；投資也是同樣的道理，如果你買的方式不對、過度使用槓桿借錢，現在就會過得非常痛苦。從技術面來看，大盤相繼跌破了季線與4萬2的頸線。現在的線型呈現高點越來越低、底部也越來越低的弱勢格局，短期內在技術線型上找不到實質的支撐點位。如果國際股市持續下殺，台股甚至有可能進一步下探至4萬點附近。很多人看到破底，就開始恐慌現在是不是AI泡沫？我們不妨",
     "published_at": "2026-07-28T21:34:38+08:00",
     "stocks": [],
-    "uid": "ab33124298bcd4eeba7d3b853ca14a91"
+    "uid": "ab33124298bcd4eeba7d3b853ca14a91",
+    "title_zh": "台股狂瀉2,030點只是去槓桿開端？郭哲榮示警41,250點恐爆融資斷頭潮",
+    "summary_zh": "摩爾投顧投資長郭哲榮表示，今天台股單日大崩跌2030點，史上第三大跌點，還跌破4萬2大關，這波歷史級別的下殺讓許多投資人感到極度恐慌。但我必須提醒大家，跌破4萬2可能只是市場去槓桿的剛開始。隨著大盤崩跌，目前已有券商發出融資追繳令的提醒，明確指出若大盤點位再下修約400點，大約來到41250點附近，將會觸發大量的融資追繳與斷頭潮。這波殺盤並非台灣獨有，韓國近期也在進行股市去槓桿。韓國金管會針對三星、SK海力士等正2槓桿ETF提高保證金要求，期限到7/31，部分投資人繳不出保證金，進而引發多殺多的斷頭潮。台灣市場目前也同樣在經歷這場清洗高槓桿與融資部位的\"正2手術\"。這就像是做\"正顎手術\"一樣，手術做完後的一段時間內只能吃流質食物，過程非常痛苦；投資也是同樣的道理，如果你買的方式不對、過度使用槓桿借錢，現在就會過得非常痛苦。從技術面來看，大盤相繼跌破了季線與4萬2的頸線。現在的線型呈現高點越來越低、底部也越來越低的弱勢格局，短期內在技術線型上找不到實質的支撐點位。如果國際股市持續下殺，台股甚至有可能進一步下探至4萬點附近。很多人看到破底，就開始恐慌現在是不是AI泡沫？我們不妨",
+    "title_en": "Is the 2,030-point plunge in Taiwan stocks just the beginning of deleveraging? Guo Zherong warned that 41,250 points may trigger a wave of financing cuts",
+    "summary_en": "Guo Zherong, chief investment officer of Moore Investment Consulting, said that today the Taiwan stock market crashed 2,030 points in a single day, the third largest drop in history, and fell below the 42,000 mark. This wave of historical declines has made many investors feel extremely panicked. But I must remind everyone that falling below 42,000 may be just the beginning of market deleveraging. As the market collapses, brokerages have issued reminders of financing call orders, clearly stating that if the market point is revised down by about 400 points, to approximately 41,250 points, a large number of financing calls and beheadings will be triggered. This wave of selling is not unique to Taiwan. South Korea has also been deleveraging the stock market recently. The Korea Financial Supervisory Commission has raised margin requirements for positive 2-leverage ETFs such as Samsung and SK Hynix. The deadline is July 31. Some investors are unable to pay the margin, which in turn triggers a wave of beheadings. The Taiwan market is also currently undergoing this \"positive 2 operation\" to cleanse high-leverage and financing positions. This is like having \"orthognathic surgery\". You can only eat liquid food for a period of time after the surgery, and the process is very painful. The same is true for investing. If you buy in the wrong way and use excessive leverage to borrow money, you will be very miserable now. From a technical perspective, the market has successively fallen below the quarter line and the neckline of 42,000. The current line pattern shows a weak pattern with lower and lower highs and lower and lower bottoms. In the short term, no substantial support point can be found on the technical line pattern. If international stock markets continue to decline, Taiwan stocks may even drop further to around 40,000 points. When many people see the bottom, they start to panic. Is this an AI bubble? We might as well"
   },
   {
     "title": "壽險業外幣保單前5月新契約保費2334億　創4年新高",
@@ -1246,7 +1351,11 @@
     "summary": "（中央社記者蘇思云台北28日電）金管會統計顯示，壽險業今年前5月累計外幣保單新契約保費收入折合約新台幣2334.95億元，年增54%，保費創4年新高。金管會指出，外幣保單新契約保費收入占整體新契約保費收入約37.76%，較去年同期的36.42%有所上升。",
     "published_at": "2026-07-28T21:33:09+08:00",
     "stocks": [],
-    "uid": "338092fa2ff567915eaad415bef0385e"
+    "uid": "338092fa2ff567915eaad415bef0385e",
+    "title_zh": "壽險業外幣保單前5月新契約保費2334億　創4年新高",
+    "summary_zh": "（中央社記者蘇思云台北28日電）金管會統計顯示，壽險業今年前5月累計外幣保單新契約保費收入折合約新台幣2334.95億元，年增54%，保費創4年新高。金管會指出，外幣保單新契約保費收入占整體新契約保費收入約37.76%，較去年同期的36.42%有所上升。",
+    "title_en": "New contract premiums for foreign currency policies in the life insurance industry in the first five months reached 233.4 billion, a four-year high",
+    "summary_en": "(Central News Agency reporter Su Siyun, Taipei, 28th) Statistics from the Financial Supervisory Commission show that in the first five months of this year, the life insurance industry’s accumulated premium income from new contracts of foreign currency policies was equivalent to approximately NT$233.495 billion, an annual increase of 54%, and premiums hit a four-year high. The Financial Supervisory Commission pointed out that the premium income from new contracts of foreign currency policies accounted for approximately 37.76% of the total new contract premium income, an increase from 36.42% in the same period last year."
   },
   {
     "title": "熊本強震 台積電：廠區未受影響 餘震導致部分工廠仍停工",
@@ -1255,7 +1364,11 @@
     "summary": "日本熊本於今日日本時間下午4時許經歷芮氏規模7地震，而後又有多次相當規模的餘震。台積電在晚間發布最新說明，強調JASM廠區建築經損害檢查後，確認結構安全無虞逐步回線，各項細部檢查與詳細影響評估作業持續進行中。",
     "published_at": "2026-07-28T21:33:08+08:00",
     "stocks": [],
-    "uid": "59ac9ae39a356ba2bea475dbcbdede3a"
+    "uid": "59ac9ae39a356ba2bea475dbcbdede3a",
+    "title_zh": "熊本強震 台積電：廠區未受影響 餘震導致部分工廠仍停工",
+    "summary_zh": "日本熊本於今日日本時間下午4時許經歷芮氏規模7地震，而後又有多次相當規模的餘震。台積電在晚間發布最新說明，強調JASM廠區建築經損害檢查後，確認結構安全無虞逐步回線，各項細部檢查與詳細影響評估作業持續進行中。",
+    "title_en": "Strong earthquake in Kumamoto, TSMC: The factory is not affected, but aftershocks cause some factories to still be shut down",
+    "summary_en": "Kumamoto, Japan experienced a magnitude 7 earthquake at around 4:00 pm Japan time today, followed by several aftershocks of considerable magnitude. TSMC issued the latest statement in the evening, emphasizing that after damage inspection, the JASM plant building was confirmed to be structurally safe and gradually returned to work. Various detailed inspections and detailed impact assessment operations are ongoing."
   },
   {
     "title": "台股暴跌2,030點融資單日狂洗305億元！櫃買維持率逼近「警戒線」",
@@ -1845,6 +1958,15 @@
     "uid": "88383effe664cc89516d21cbdd4b1166"
   },
   {
+    "title": "外資週賣超470億元不手軟！記憶體它遭砍近11萬張　成最大苦主",
+    "url": "https://tw.news.yahoo.com/%E5%A4%96%E8%B3%87%E9%80%B1%E8%B3%A3%E8%B6%85470%E5%84%84%E5%85%83%E4%B8%8D%E6%89%8B%E8%BB%9F-%E8%A8%98%E6%86%B6%E9%AB%94%E5%AE%83%E9%81%AD%E7%A0%8D%E8%BF%9111%E8%90%AC%E5%BC%B5-%E6%88%90%E6%9C%80%E5%A4%A7%E8%8B%A6%E4%B8%BB-202700501.html",
+    "source": "Yahoo股市",
+    "summary": "根據臺灣證券交易所統計，上週（115/7/20~115/7/24）外資在集中市場總買進金額為18,825.97億元，總賣出金額為19,296.61億元，賣超為470.64億元，另統計自115年年初至7月24日止，外資總買進金額為49兆1,923.04億元，總賣出金額為50兆7,999.31億元，累計賣超為16,076.27億元。外資總持有股票市值為68兆9,805.15億元新臺幣，占全體上市股票市值的48.42%，較7月17日的67兆1,602.32億元新臺幣，增加1兆8,202.83億元。",
+    "published_at": "2026-07-28T20:27:00+08:00",
+    "stocks": [],
+    "uid": "818be3560e4e9b59031cad5cdeadf252"
+  },
+  {
     "title": "今日最夯股／光鼎量能增加、開低收漲停 逆勢走高有何題材？",
     "url": "https://money.udn.com/money/story/5607/9656422",
     "source": "經濟日報",
@@ -1967,6 +2089,17 @@
       "2409"
     ],
     "uid": "06e4bcd8c2d33ab75083e2811114866a"
+  },
+  {
+    "title": "台股修正資金往這跑！它年報酬154%好猛　除息最後買進日是這天",
+    "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E4%BF%AE%E6%AD%A3%E8%B3%87%E9%87%91%E5%BE%80%E9%80%99%E8%B7%91-%E5%AE%83%E5%B9%B4%E5%A0%B1%E9%85%AC154-%E5%A5%BD%E7%8C%9B-%E9%99%A4%E6%81%AF%E6%9C%80%E5%BE%8C%E8%B2%B7%E9%80%B2%E6%97%A5%E6%98%AF%E9%80%99%E5%A4%A9-201600645.html",
+    "source": "Yahoo股市",
+    "summary": "台股近期盤勢明顯波動，市場處於劇烈震盪期間，值得關注的是市場資金並未全面撤出AI科技股，多檔ETF在台股回檔之際成交量明顯升溫，顯示投資人趁市場修正時積極布局。其中成分股精準聚焦台灣科技大廠的ETF「國泰台灣科技龍頭（00881）」，00881預計於2026年8月18日除息，欲參與本次配息的投資人，最後申購日為2026年8月17日。",
+    "published_at": "2026-07-28T20:16:00+08:00",
+    "stocks": [
+      "00881"
+    ],
+    "uid": "349c29c053377be99866bc971ba94ac2"
   },
   {
     "title": "青安3.0問答集出爐　婚育宅貸後離婚停止利息補貼",
@@ -2695,6 +2828,24 @@
       "2303"
     ],
     "uid": "c765a9ce05d54122235aac7d974dbba3"
+  },
+  {
+    "title": "超市壽司引爆家庭衝突！日本高齡夫妻養老金見底　遭孝子兒痛心怒嗆",
+    "url": "https://tw.news.yahoo.com/%E8%B6%85%E5%B8%82%E5%A3%BD%E5%8F%B8%E5%BC%95%E7%88%86%E5%AE%B6%E5%BA%AD%E8%A1%9D%E7%AA%81-%E6%97%A5%E6%9C%AC%E9%AB%98%E9%BD%A1%E5%A4%AB%E5%A6%BB%E9%A4%8A%E8%80%81%E9%87%91%E8%A6%8B%E5%BA%95-%E9%81%AD%E5%AD%9D%E5%AD%90%E5%85%92%E7%97%9B%E5%BF%83%E6%80%92%E5%97%86-191000111.html",
+    "source": "Yahoo股市",
+    "summary": "日本高齡化社會問題加劇，一對七旬夫婦因退休金不足，長期仰賴長子資助，卻因一盒壽司引爆家庭財務衝突，兒子崩潰怒吼「別拖累我」，揭示了夾心世代沉重的經濟壓力。專家指出，日本高齡夫婦普遍面臨每月收支短缺的困境，若持續依賴子女援助，恐將引發嚴重的家庭財務危機。理財專家小川洋平建議，民眾應及早進行收支視覺化管理，並善用政府扶助資源及退休金延後請領制度，才能有效緩解高齡經濟壓力，避免下一代陷入財務崩潰的惡性循環，為退休生活做好完善規劃。",
+    "published_at": "2026-07-28T19:10:00+08:00",
+    "stocks": [],
+    "uid": "85fc1a0a6b92bd386cdfd628e957a582"
+  },
+  {
+    "title": "韓國爆新金融危機？散戶少年股神慘賠變街友　地下錢莊暴利5000%",
+    "url": "https://tw.news.yahoo.com/%E9%9F%93%E5%9C%8B%E7%88%86%E6%96%B0%E9%87%91%E8%9E%8D%E5%8D%B1%E6%A9%9F-%E6%95%A3%E6%88%B6%E5%B0%91%E5%B9%B4%E8%82%A1%E7%A5%9E%E6%85%98%E8%B3%A0%E8%AE%8A%E8%A1%97%E5%8F%8B-%E5%9C%B0%E4%B8%8B%E9%8C%A2%E8%8E%8A%E6%9A%B4%E5%88%A95000-190800015.html",
+    "source": "Yahoo股市",
+    "summary": "韓股今年累計爆發高達8次熔斷，引爆極度嚴重的斷頭潮與金融危機。節目《新聞線》主持人呂惠敏指出，韓國股市的激烈波動甚至影響到全世界。財經專家邱敏寬對此進一步深入解析，指出韓國證監單位已出面示警，由於韓國人投資風格極度熱衷槓桿與高額博弈，且商品保證金門檻極低，導致每次股市發生熔斷，估計都有15%至18%的散戶遭到強制平倉斷頭。為了遏止失控的投機風潮，韓國官方決定自7月31日起將ETF保證金一口氣提高兩倍，大幅拉高交易門檻，預期將引發大規模的資金離場潮。",
+    "published_at": "2026-07-28T19:08:00+08:00",
+    "stocks": [],
+    "uid": "c441dc38728ea05c4ddbeba7392e3f2d"
   },
   {
     "title": "兄弟姊妹特留分刪除　專家提醒未立遺囑仍可能繼承",
