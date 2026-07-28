@@ -1,5 +1,670 @@
 [
   {
+    "title": "Earnings call transcript: Coca-Cola beats Q2 2026 forecasts, shares jump 6%",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-cocacola-beats-q2-2026-forecasts-shares-jump-6-93CH-4817082",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-28T21:42:58+08:00",
+    "stocks": [],
+    "uid": "3a38607f762168146842ff28dfd722c8",
+    "title_en": "Earnings call transcript: Coca-Cola beats Q2 2026 forecasts, shares jump 6%",
+    "summary_en": "",
+    "title_zh": "財報電話會議紀錄：可口可樂超出 2026 年第二季預測，股價上漲 6%",
+    "summary_zh": ""
+  },
+  {
+    "title": "Earnings call transcript: Core Scientific posts strong Q2 2026 ramp, shares fall",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-core-scientific-posts-strong-q2-2026-ramp-shares-fall-93CH-4817081",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-28T21:42:56+08:00",
+    "stocks": [],
+    "uid": "f87eb76eaf42ba29c45ee77cc1698f48",
+    "title_en": "Earnings call transcript: Core Scientific posts strong Q2 2026 ramp, shares fall",
+    "summary_en": "",
+    "title_zh": "財報電話會議紀錄：Core Scientific 2026 年第二季業績強勁，股價下跌",
+    "summary_zh": ""
+  },
+  {
+    "title": "Record seaweed blankets Mexico’s Caribbean coast, threatening tourism and the environment",
+    "url": "https://www.investing.com/news/world-news/record-seaweed-blankets-mexicos-caribbean-coast-threatening-tourism-and-the-environment-4817045",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-28T21:42:52+08:00",
+    "stocks": [],
+    "uid": "5571fd93a18ee41ad3da5dd832c96902",
+    "title_en": "Record seaweed blankets Mexico’s Caribbean coast, threatening tourism and the environment",
+    "summary_en": "",
+    "title_zh": "創紀錄的海藻覆蓋墨西哥加勒比海岸，威脅旅遊業和環境",
+    "summary_zh": ""
+  },
+  {
+    "title": "US backs Madagascar rare earths project in push to loosen China’s supply chain grip",
+    "url": "https://www.investing.com/news/stock-market-news/us-backs-madagascar-rare-earths-project-in-push-to-loosen-chinas-supply-chain-grip-4817080",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-28T21:42:33+08:00",
+    "stocks": [],
+    "uid": "cbf8448206e9435a6e2e07633b1032d3",
+    "title_en": "US backs Madagascar rare earths project in push to loosen China’s supply chain grip",
+    "summary_en": "",
+    "title_zh": "美國支持馬達加斯加稀土項目，推動放鬆中國供應鏈控制",
+    "summary_zh": ""
+  },
+  {
+    "title": "Earnings call transcript: Oxford Lane Capital Q1 2027 income slips as NAV rises",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-oxford-lane-capital-q1-2027-income-slips-as-nav-rises-93CH-4817079",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-28T21:42:33+08:00",
+    "stocks": [],
+    "uid": "62a4d7e259ff426334637b7ab9fe773f",
+    "title_en": "Earnings call transcript: Oxford Lane Capital Q1 2027 income slips as NAV rises",
+    "summary_en": "",
+    "title_zh": "財報電話會議紀錄：隨著資產淨值上升，Oxford Lane Capital 2027 年第一季營收下滑",
+    "summary_zh": ""
+  },
+  {
+    "title": "Iqvia stock hits 52-week high at 247.72 USD",
+    "url": "https://www.investing.com/news/company-news/iqvia-stock-hits-52week-high-at-24772-usd-93CH-4817078",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-28T21:42:06+08:00",
+    "stocks": [],
+    "uid": "dbb0d7844f144e161532aa41bb6a6f0a",
+    "title_en": "Iqvia stock hits 52-week high at 247.72 USD",
+    "summary_en": "",
+    "title_zh": "Iqvia 股價觸及 52 週高點 247.72 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Biolife Solutions stock hits 52-week high at 32.24 USD",
+    "url": "https://www.investing.com/news/company-news/biolife-solutions-stock-hits-52week-high-at-3224-usd-93CH-4817077",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-28T21:41:08+08:00",
+    "stocks": [],
+    "uid": "95d388bdfc3f6dae319bea4447ebc592",
+    "title_en": "Biolife Solutions stock hits 52-week high at 32.24 USD",
+    "summary_en": "",
+    "title_zh": "Biolife Solutions 股價觸及 52 週高點 32.24 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Truist cuts Crown Castle stock price target to $87 on lower revenue",
+    "url": "https://www.investing.com/news/analyst-ratings/truist-cuts-crown-castle-stock-price-target-to-87-on-lower-revenue-93CH-4817076",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-28T21:41:00+08:00",
+    "stocks": [],
+    "uid": "e0d61da06888ed9b6f59755d1af5163e",
+    "title_en": "Truist cuts Crown Castle stock price target to $87 on lower revenue",
+    "summary_en": "",
+    "title_zh": "由於營收下降，Truist 將 Crown Castle 目標下調至 87 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "TMC stock hits 52-week low at 3.56 USD",
+    "url": "https://www.investing.com/news/company-news/tmc-stock-hits-52week-low-at-356-usd-93CH-4817074",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-28T21:40:48+08:00",
+    "stocks": [],
+    "uid": "6a5019b8a8dd5a0a62fcf91927240a34",
+    "title_en": "TMC stock hits 52-week low at 3.56 USD",
+    "summary_en": "",
+    "title_zh": "TMC 股價觸及 52 週低點 3.56 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Cubesmart stock hits 52-week high at 42.92 USD",
+    "url": "https://www.investing.com/news/company-news/cubesmart-stock-hits-52week-high-at-4292-usd-93CH-4817073",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-28T21:40:46+08:00",
+    "stocks": [],
+    "uid": "4d9557406c300fe301d369e2ef74a01a",
+    "title_en": "Cubesmart stock hits 52-week high at 42.92 USD",
+    "summary_en": "",
+    "title_zh": "Cubesmart股價觸及52週新高至42.92美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Las Vegas home prices post largest drop in the nation",
+    "url": "https://www.marketwatch.com/story/las-vegas-home-prices-post-largest-drop-in-the-nation-d39d6ecd?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Among the largest U.S. cities, Las Vegas saw the biggest drop in home prices, while Chicago saw the biggest increase.",
+    "published_at": "2026-07-28T21:39:00+08:00",
+    "stocks": [],
+    "uid": "156d95070c0506104dcdcb518518c3c5",
+    "title_en": "Las Vegas home prices post largest drop in the nation",
+    "summary_en": "Among the largest U.S. cities, Las Vegas saw the biggest drop in home prices, while Chicago saw the biggest increase.",
+    "title_zh": "拉斯維加斯房價跌幅創全國最大",
+    "summary_zh": "在美國最大的城市中，拉斯維加斯房價跌幅最大，芝加哥房價漲幅最大。"
+  },
+  {
+    "title": "Should You Buy Altria for Its 5.8% Dividend Yield Ahead of July 30 Earnings?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/buy-altria-5-8-dividend-133244643.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T21:32:44+08:00",
+    "stocks": [],
+    "uid": "19310d49367f491cbd9857bbcd7d6764",
+    "title_en": "Should You Buy Altria for Its 5.8% Dividend Yield Ahead of July 30 Earnings?",
+    "summary_en": "",
+    "title_zh": "在 7 月 30 日公佈盈利之前，您應該因其 5.8% 的股息收益率而買入奧馳亞嗎？",
+    "summary_zh": ""
+  },
+  {
+    "title": "Popular exchange shuts down after 8 years, here is everything you need to know",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/popular-exchange-shuts-down-8-133000548.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T21:30:00+08:00",
+    "stocks": [],
+    "uid": "9d819d0d20ebe4617c1388687f416f23",
+    "title_en": "Popular exchange shuts down after 8 years, here is everything you need to know",
+    "summary_en": "",
+    "title_zh": "流行交易所在 8 年後關閉，這裡有你需要知道的一切",
+    "summary_zh": ""
+  },
+  {
+    "title": "After a Rough Post-Earnings Week, Where Does Tesla Go From Here?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/rough-post-earnings-week-where-133000313.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T21:30:00+08:00",
+    "stocks": [],
+    "uid": "f470dadd67ca89b3447937fc609025a4",
+    "title_en": "After a Rough Post-Earnings Week, Where Does Tesla Go From Here?",
+    "summary_en": "",
+    "title_zh": "經過艱難的財報發布週後，特斯拉將何去何從？",
+    "summary_zh": ""
+  },
+  {
+    "title": "Advanced Micro Devices (AMD) Surged on an Agentic AI-Driven Server CPU Renaissance",
+    "url": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-surged-132709500.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T21:27:09+08:00",
+    "stocks": [
+      "AMD"
+    ],
+    "uid": "7b149ca07aecb5da3764e98478e5299b",
+    "title_en": "Advanced Micro Devices (AMD) Surged on an Agentic AI-Driven Server CPU Renaissance",
+    "summary_en": "",
+    "title_zh": "Advanced Micro Devices (AMD) 憑藉著人工智慧驅動的伺服器 CPU 復興而飆升",
+    "summary_zh": ""
+  },
+  {
+    "title": "Visa layoffs 2026: company cutting 7% of workforce",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/visa-layoffs-2026-company-cutting-132330377.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T21:23:30+08:00",
+    "stocks": [],
+    "uid": "e19c722e9a22dc942824e68855ffecd6",
+    "title_en": "Visa layoffs 2026: company cutting 7% of workforce",
+    "summary_en": "",
+    "title_zh": "Visa 2026 年裁員：公司裁員 7%",
+    "summary_zh": ""
+  },
+  {
+    "title": "Paranova earmarks £20m to expand fibre-based packaging operations",
+    "url": "https://finance.yahoo.com/small-business/articles/paranova-earmarks-20m-expand-fibre-132218119.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T21:22:18+08:00",
+    "stocks": [],
+    "uid": "95729110eec29fcd48f164f245774c2e",
+    "title_en": "Paranova earmarks £20m to expand fibre-based packaging operations",
+    "summary_en": "",
+    "title_zh": "Paranova 撥出 2,000 萬英鎊擴大纖維包裝業務",
+    "summary_zh": ""
+  },
+  {
+    "title": "Investing $500 per Month in This ETF Could Set You Up for Life, According to History",
+    "url": "https://www.fool.com/investing/2026/07/28/investing-500-per-month-spy-etf-set-you-up/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Most of the fortunes made by average investors didn't happen overnight. It took time, and a commitment to a process that didn't always feel like it was working.",
+    "published_at": "2026-07-28T21:20:00+08:00",
+    "stocks": [],
+    "uid": "b67d8a6f89b4ca1a532c2bc5e92d3cee",
+    "title_en": "Investing $500 per Month in This ETF Could Set You Up for Life, According to History",
+    "summary_en": "Most of the fortunes made by average investors didn't happen overnight. It took time, and a commitment to a process that didn't always feel like it was working.",
+    "title_zh": "根據歷史記錄，每月投資 500 美元這款 ETF 可以讓你終生受益",
+    "summary_zh": "一般投資者的大部分財富都不是一夕之間發生的。這需要時間，也需要對一個不總是感覺有效的過程的承諾。"
+  },
+  {
+    "title": "Under pressure over China backers, Mercedes CEO pledges to defend US business",
+    "url": "https://finance.yahoo.com/news/under-pressure-over-china-backers-131815159.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T21:18:15+08:00",
+    "stocks": [],
+    "uid": "98273c78fcfbbfa3425d359993d70bbf",
+    "title_en": "Under pressure over China backers, Mercedes CEO pledges to defend US business",
+    "summary_en": "",
+    "title_zh": "迫於中國支持者的壓力，梅賽德斯執行長承諾捍衛美國業務",
+    "summary_zh": ""
+  },
+  {
+    "title": "Should You Forget Big Banks and Bet on Fintech Instead?",
+    "url": "https://www.fool.com/investing/2026/07/28/should-you-forget-big-banks-and-bet-on-fintech-ins/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The question may depend on what type of investor you are.",
+    "published_at": "2026-07-28T21:15:00+08:00",
+    "stocks": [],
+    "uid": "5daa5ed769b0c5dd695f13eda844d4c7",
+    "title_en": "Should You Forget Big Banks and Bet on Fintech Instead?",
+    "summary_en": "The question may depend on what type of investor you are.",
+    "title_zh": "你該忘記大銀行而押注金融科技嗎？",
+    "summary_zh": "這個問題可能取決於您是什麼類型的投資者。"
+  },
+  {
+    "title": "Chevron Corporation (CVX) Remains Well Placed to Benefit From High Commodity Prices",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-corporation-cvx-remains-well-131455654.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T21:14:55+08:00",
+    "stocks": [
+      "CVX"
+    ],
+    "uid": "8cd991b71f465cf3e781e90ebfcecd21",
+    "title_en": "Chevron Corporation (CVX) Remains Well Placed to Benefit From High Commodity Prices",
+    "summary_en": "",
+    "title_zh": "雪佛龍公司（CVX）仍然能夠從高商品價格中受益",
+    "summary_zh": ""
+  },
+  {
+    "title": "Is SoFi a Buy Before Wednesday? Here's My Honest Take",
+    "url": "https://www.fool.com/investing/2026/07/28/is-sofi-a-buy-before-wednesday-heres-my-honest-tak/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "SoFi reports this week, and the decision to buy now or wait could make a big difference either way.",
+    "published_at": "2026-07-28T21:13:52+08:00",
+    "stocks": [],
+    "uid": "2a5a83cfbc4b0fa6c754f17c162b702f",
+    "title_en": "Is SoFi a Buy Before Wednesday? Here's My Honest Take",
+    "summary_en": "SoFi reports this week, and the decision to buy now or wait could make a big difference either way.",
+    "title_zh": "SoFi 在周三之前值得買入嗎？這是我的誠實看法",
+    "summary_zh": "SoFi 本週將發布報告，現在購買或等待的決定可能會產生很大的影響。"
+  },
+  {
+    "title": "Lam Research Corporation (LRCX) Rose on Strong Semiconductor Capital Spending",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/lam-research-corporation-lrcx-rose-131350670.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T21:13:50+08:00",
+    "stocks": [
+      "LRCX"
+    ],
+    "uid": "f2169c17e5ba77186a1560467fb3a3d1",
+    "title_en": "Lam Research Corporation (LRCX) Rose on Strong Semiconductor Capital Spending",
+    "summary_en": "",
+    "title_zh": "Lam Research Corporation (LRCX) 因半導體資本支出強勁而上漲",
+    "summary_zh": ""
+  },
+  {
+    "title": "McDonald’s Corporation (MCD) Fell as Rising Beef Prices Weighed on Sentiment",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/mcdonald-corporation-mcd-fell-rising-131046197.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T21:10:46+08:00",
+    "stocks": [
+      "MCD"
+    ],
+    "uid": "88aae3f72c13a998ec96d73b95499712",
+    "title_en": "McDonald’s Corporation (MCD) Fell as Rising Beef Prices Weighed on Sentiment",
+    "summary_en": "",
+    "title_zh": "牛肉價格上漲打壓市場情緒，麥當勞公司 (MCD) 下跌",
+    "summary_zh": ""
+  },
+  {
+    "title": "Conagra EVP Bartell Sells 6,045 Shares for Tax Withholding, According to Latest SEC Filing",
+    "url": "https://www.fool.com/coverage/filings/2026/07/28/conagra-evp-bartell-sells-6-045-shares-for-tax-withholding-according-to-latest-sec-filing/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Non-discretionary disposition tied to restricted stock unit vesting; executive retains 53,253 shares and maintains long-term equity exposure.",
+    "published_at": "2026-07-28T21:10:01+08:00",
+    "stocks": [],
+    "uid": "ba1d205303f5cb425b5b411cc2b80267",
+    "title_en": "Conagra EVP Bartell Sells 6,045 Shares for Tax Withholding, According to Latest SEC Filing",
+    "summary_en": "Non-discretionary disposition tied to restricted stock unit vesting; executive retains 53,253 shares and maintains long-term equity exposure.",
+    "title_zh": "根據最新 SEC 文件，康尼格拉執行副總裁 Bartell 出售 6,045 股股票用於預扣稅款",
+    "summary_zh": "與限制性股票單位歸屬相關的非全權處置；高階主管保留 53,253 股並維持長期股權投資。"
+  },
+  {
+    "title": "Why this analyst is down on Apple stock even as it hovers near record highs",
+    "url": "https://finance.yahoo.com/markets/article/why-this-analyst-is-down-on-apple-stock-even-as-it-hovers-near-record-highs-130907412.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T21:09:07+08:00",
+    "stocks": [],
+    "uid": "99962a479fa6f78971b9b6a4347efb6e"
+  },
+  {
+    "title": "Accenture (ACN) Faces Growth Concerns",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/accenture-acn-faces-growth-concerns-130846610.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T21:08:46+08:00",
+    "stocks": [
+      "ACN"
+    ],
+    "uid": "381a0dd5d8c16014fae3996e12d105a0"
+  },
+  {
+    "title": "Want Lower Medicare Premiums in Retirement? 3 Things to Do.",
+    "url": "https://www.fool.com/retirement/2026/07/28/want-lower-medicare-premiums-in-retirement-3-thing/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The right strategy could leave you paying less.",
+    "published_at": "2026-07-28T21:07:00+08:00",
+    "stocks": [],
+    "uid": "9efe528134db657885903870b0e52848"
+  },
+  {
+    "title": "AT&T (T) Remains Competitive Despite Satellite Connectivity Concerns",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/t-t-remains-competitive-despite-130409846.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T21:04:09+08:00",
+    "stocks": [
+      "T"
+    ],
+    "uid": "06596152f97f3e46f8531064d62cd863"
+  },
+  {
+    "title": "6 members of Congress have bought SpaceX stock, including one Democrat",
+    "url": "https://finance.yahoo.com/markets/article/6-members-of-congress-have-bought-spacex-stock-including-one-democrat-130256608.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T21:02:56+08:00",
+    "stocks": [],
+    "uid": "09fa3e887a829b98921ff5ec58d27c7f"
+  },
+  {
+    "title": "T-Mobile US (TMUS) Lagged on Emerging Network Competition Concerns",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/t-mobile-us-tmus-lagged-130200314.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T21:02:00+08:00",
+    "stocks": [
+      "TMUS"
+    ],
+    "uid": "4b6e801163e1c06b4ab8873c61acfedd"
+  },
+  {
+    "title": "Should You Buy This Donald Trump Dividend Stock Before Earnings?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/buy-donald-trump-dividend-stock-130044152.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T21:00:44+08:00",
+    "stocks": [],
+    "uid": "0ba98e238c3b9fa8c6aff5da7ef2d90b"
+  },
+  {
+    "title": "Tale of 2 segments at TFI: LTL steady, Truckload soaring",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/tale-2-segments-tfi-ltl-130000983.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T21:00:00+08:00",
+    "stocks": [],
+    "uid": "693dc1703523ecba2c5bb3e9fd4c25fe"
+  },
+  {
+    "title": "Netflix Stock: Buy or Sell? My Final Verdict",
+    "url": "https://www.fool.com/investing/2026/07/28/netflix-stock-buy-or-sell-my-final-verdict/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The streaming pioneer is dramatically underperforming in 2026.",
+    "published_at": "2026-07-28T21:00:00+08:00",
+    "stocks": [],
+    "uid": "d2581ebcbcc1be54b7d45c0efd7d00db"
+  },
+  {
+    "title": "Apple is now letting you lease an iPhone like a car. Here’s what to know.",
+    "url": "https://www.marketwatch.com/story/apple-is-now-letting-you-lease-an-iphone-like-a-car-heres-what-to-know-51a10a91?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The program represents a historic shift in how the company sells its consumer electronics — just as consumers are worried about high prices.",
+    "published_at": "2026-07-28T20:57:00+08:00",
+    "stocks": [],
+    "uid": "65edbc669927da8f6723274d51a76a8f"
+  },
+  {
+    "title": "Micron, SK Hynix stocks fall as chip sell-off deepens",
+    "url": "https://finance.yahoo.com/markets/article/micron-sk-hynix-stocks-fall-as-chip-sell-off-deepens-125622548.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T20:56:22+08:00",
+    "stocks": [],
+    "uid": "90e088d9072833939ceff76cc898f47d"
+  },
+  {
+    "title": "Root (ROOT) Faces Near-Term Industry Headwinds Despite Long-Term Potential",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/root-root-faces-near-term-125525517.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T20:55:25+08:00",
+    "stocks": [
+      "ROOT"
+    ],
+    "uid": "a3b0f5d09d07ca8b2180512d1c27c43f"
+  },
+  {
+    "title": "Scott Bessent is buying US stocks with taxpayer cash amid China threat — can you copy and get rich? Here’s what he likes",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/scott-bessent-buying-us-stocks-125500123.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T20:55:00+08:00",
+    "stocks": [],
+    "uid": "4484f0dfc74255080cdea7d95ccd34f2"
+  },
+  {
+    "title": "Bitcoin and ethereum prices today, Tuesday, July 28, 2026: Crypto prices slide ahead of Fed meeting",
+    "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-28-2026-crypto-prices-slide-ahead-of-fed-meeting-125210301.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T20:52:10+08:00",
+    "stocks": [],
+    "uid": "594e4635fbf3729428f17982decd64f3"
+  },
+  {
+    "title": "Stock Market Today: Tech Futures Sell Off As Chip Stocks Micron, Sandisk Dive; Coca-Cola Jumps (Live Coverage)",
+    "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-sandisk-coca-cola-earnings/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T20:51:25+08:00",
+    "stocks": [],
+    "uid": "62adfa8be97bfc40d3074885e3cfa0ff"
+  },
+  {
+    "title": "Where Will Novo Nordisk Stock Be in 3 Years?",
+    "url": "https://www.fool.com/investing/2026/07/28/where-will-novo-nordisk-stock-be-in-3-years/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Trailing a powerful competitor, Novo Nordisk could stay firmly in second place for a good while.",
+    "published_at": "2026-07-28T20:51:00+08:00",
+    "stocks": [],
+    "uid": "6b204369be7b4d7bcd8b9caee46497e2"
+  },
+  {
+    "title": "Regional Bank Director Purchases 31,363 Shares for $1.4 Million, According to Recent SEC Filing",
+    "url": "https://www.fool.com/coverage/filings/2026/07/28/regional-bank-director-purchases-31-363-shares-for-usd1-4-million-according-to-recent-sec-filing/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Perry-Smith's indirect equity position now stands at ~$12.52 million following the July 22 transaction, reflecting confidence in the regional bank after a 59% stock surge over the past year.",
+    "published_at": "2026-07-28T20:50:01+08:00",
+    "stocks": [],
+    "uid": "cd8cd7b363b2903615d1e95941e0ef89"
+  },
+  {
+    "title": "Bitwise CIO Matt Hougan Thinks Bitcoin Has Finally Hit a Bottom. Here's Why He's Right.",
+    "url": "https://www.fool.com/investing/2026/07/28/bitwise-cio-matt-hougan-thinks-bitcoin-has-finally/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "If history is any guide, the price of Bitcoin could be substantially higher by the end of the year.",
+    "published_at": "2026-07-28T20:44:00+08:00",
+    "stocks": [],
+    "uid": "41c463bcf5b07f4ed2291380caaee6b7"
+  },
+  {
+    "title": "Can Nebius Stock Turn a $10,000 Investment Into $1 Million?",
+    "url": "https://www.fool.com/investing/2026/07/28/can-nebius-stock-turn-a-10000-investment-into-1-mi/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Nebius may be on the cusp of much more growth if demand for AI chips and infrastructure remains strong, but that's by no means a sure thing.",
+    "published_at": "2026-07-28T20:42:12+08:00",
+    "stocks": [],
+    "uid": "6f59871d3edd963290500737fafb430a"
+  },
+  {
+    "title": "Apple plans to lease iPhones for $17.99 a month through partnership with Klarna",
+    "url": "https://www.cnbc.com/2026/07/28/apple-plans-to-lease-iphones-for-17point99-a-month-through-klarna-deal.html",
+    "source": "CNBC Top",
+    "summary": "Apple is announcing an iPhone lease option weeks after raising iPad and Mac prices due to the global memory shortage.",
+    "published_at": "2026-07-28T20:38:50+08:00",
+    "stocks": [],
+    "uid": "747d97296bd6226d3856c9c20f5b2c9a"
+  },
+  {
+    "title": "3 High-Yield Dividend Stocks I'd Buy for Their Cash Flow Alone",
+    "url": "https://www.fool.com/investing/2026/07/28/3-high-yield-dividend-stocks-id-buy-for-their-cash/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "These companies are generating substantial excess cash after paying high-yielding dividends.",
+    "published_at": "2026-07-28T20:30:00+08:00",
+    "stocks": [],
+    "uid": "f375d83191c5ef94e805eecff7d5b457"
+  },
+  {
+    "title": "Boeing’s stock rallies as surprisingly large loss is offset by upbeat revenue and backlog",
+    "url": "https://www.marketwatch.com/story/boeings-stock-rallies-as-surprisingly-large-loss-is-offset-by-upbeat-revenue-and-backlog-e0ad69c9?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Sales outpace Wall Street expectations as defense business comes through while commercial airplane sales miss mark.",
+    "published_at": "2026-07-28T20:24:00+08:00",
+    "stocks": [],
+    "uid": "4a43259b30827fd6fd1cc9603411e87d"
+  },
+  {
+    "title": "Coca-Cola earnings, Altman in D.C., Apple's market cap milestone and more in Morning Squawk",
+    "url": "https://www.cnbc.com/2026/07/28/5-things-to-know-before-the-stock-market-opens.html",
+    "source": "CNBC Tech",
+    "summary": "Here are five key things investors need to know to start the trading day.",
+    "published_at": "2026-07-28T20:23:25+08:00",
+    "stocks": [],
+    "uid": "4e1a1317a28b16edd71f711940b0b6f2"
+  },
+  {
+    "title": "Vanguard Health Care ETF Outperforms VanEck Biotech on Returns, Yield, and Fees",
+    "url": "https://www.fool.com/coverage/etfs/2026/07/28/vanguard-health-care-etf-outperforms-vaneck-biotech-on-returns-yield-and-fees/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "VHT's diversified portfolio of 411 holdings delivered $1,278 from a $1,000 investment over five years, while its lower expense ratio and higher dividend yield appeal to income investors.",
+    "published_at": "2026-07-28T20:20:01+08:00",
+    "stocks": [],
+    "uid": "a9fc4d0ba82d575513efdb40f027bc13"
+  },
+  {
+    "title": "SCHD vs. VIG: Which Dividend ETF Could Build More Wealth Over 20 Years?",
+    "url": "https://www.fool.com/investing/2026/07/28/schd-vs-vig-which-dividend-etf-build-more-wealth/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The Schwab U.S. Dividend Equity ETF has the superior selection strategy, while the Vanguard Dividend Appreciation ETF has a bigger growth and tech tilt.",
+    "published_at": "2026-07-28T20:18:00+08:00",
+    "stocks": [],
+    "uid": "f8cb4735f57a6af2a71ca2cc3cd28154"
+  },
+  {
+    "title": "Meta is up against a wall of AI pessimism heading into earnings",
+    "url": "https://www.marketwatch.com/story/meta-is-up-against-a-wall-of-ai-pessimism-heading-into-earnings-4d3bbcc9?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Following Alphabet’s earnings last week, investors will be closely scrutinizing Meta’s AI spending.",
+    "published_at": "2026-07-28T20:17:00+08:00",
+    "stocks": [],
+    "uid": "8fb7ab74964ff220567a1fd1c91628d0"
+  },
+  {
+    "title": "Lawmakers renew push to axe a lucrative tax loophole for crypto investors",
+    "url": "https://www.cnbc.com/2026/07/28/congress-renews-push-to-end-crypto-wash-sale-tax-loophole.html",
+    "source": "CNBC Top",
+    "summary": "Crypto investors have largely been exempt from the \"wash sale\" rules that apply to stocks and other traditional assets. Congress is trying to clamp down.",
+    "published_at": "2026-07-28T20:15:01+08:00",
+    "stocks": [],
+    "uid": "7bce9a84b5c3dd6d3d44572e1e18ce6e"
+  },
+  {
+    "title": "Forget oil. A surging El Niño could kill Fed rate cuts — and these stocks stand to win.",
+    "url": "https://www.marketwatch.com/story/forget-oil-a-surging-el-nino-could-kill-fed-rate-cuts-and-these-stocks-stand-to-win-41f8e67f?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Climate disruption could prolong inflation. Look to refiners, tanker operators and agricultural stocks.",
+    "published_at": "2026-07-28T20:15:00+08:00",
+    "stocks": [],
+    "uid": "49946000dca0919c9d0ec2eae707b716"
+  },
+  {
+    "title": "Boeing Q2 revenue tops estimates as jet deliveries climb, cash turns positive",
+    "url": "https://finance.yahoo.com/markets/stocks/article/boeing-q2-revenue-tops-estimates-as-jet-deliveries-climb-cash-turns-positive-120622920.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T20:06:22+08:00",
+    "stocks": [],
+    "uid": "4de4c6aab13a0b46a940a19ce1f79ca5"
+  },
+  {
+    "title": "Oil prices decline further after Trump claims ‘deep talks’ are underway with Iran",
+    "url": "https://www.marketwatch.com/story/oil-prices-decline-further-after-trump-claims-deep-talks-are-underway-with-iran-167a5393?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Brent crude and West Texas Intermediate’s front-month contracts fell again as the U.S. and Iran continue to pause fighting.",
+    "published_at": "2026-07-28T20:01:00+08:00",
+    "stocks": [],
+    "uid": "fbf93c6a0ab178f662a5878eccb2e00a"
+  },
+  {
+    "title": "Amazon, Meta and Microsoft face skeptical investors this week after Google report sparked sell-off",
+    "url": "https://www.cnbc.com/2026/07/28/hyperscalers-face-higher-capex-scrutiny-after-alphabet-report-panned.html",
+    "source": "CNBC Markets",
+    "summary": "Alphabet's free cash flow has turned negative, and the company lifted its capital spending forecast. Slower-growing cloud rivals report this week.",
+    "published_at": "2026-07-28T20:00:01+08:00",
+    "stocks": [],
+    "uid": "7ecf1d79d26e3f5b922930379abc6be5"
+  },
+  {
+    "title": "VCIT vs IEI: Which Bond Strategy Is Better for Income Investors?",
+    "url": "https://www.fool.com/coverage/etfs/2026/07/28/vcit-vs-iei-which-bond-strategy-is-better-for-income-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Vanguard's corporate bond fund charges just 0.03% in fees while delivering higher income and stronger five-year performance, though with greater credit risk than Treasury alternatives.",
+    "published_at": "2026-07-28T20:00:01+08:00",
+    "stocks": [],
+    "uid": "53375d9fe7873f2e5e92be5adb600744"
+  },
+  {
+    "title": "After Giving Investors Great News, Is Super Micro Computer Stock Headed Back to $50?",
+    "url": "https://www.fool.com/investing/2026/07/28/after-giving-investors-great-news-is-super-micro-c/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The company recently announced its margins would be significantly higher than what it previously forecasted.",
+    "published_at": "2026-07-28T20:00:00+08:00",
+    "stocks": [],
+    "uid": "149a261b5b21188422ce00f296553921"
+  },
+  {
+    "title": "If You'd Invested $1,000 in SMH 10 Years Ago, Here's How Much You'd Have Today",
+    "url": "https://www.fool.com/investing/2026/07/28/if-you-invested-in-smh-10-years-ago-how-much-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Investing in semiconductor stocks before the start of the artificial intelligence (AI) revolution would have produced huge returns over the past decade.",
+    "published_at": "2026-07-28T20:00:00+08:00",
+    "stocks": [],
+    "uid": "68629895fec9afc3c0e2b056f5a8f32d"
+  },
+  {
+    "title": "Prediction: Berkshire Hathaway Will Add This Artificial Intelligence (AI) Stock to Its Portfolio Before the End of 2026",
+    "url": "https://www.fool.com/investing/2026/07/28/prediction-berkshire-hathaway-will-add-this-artifi/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Microsoft is a stock that checks off many key boxes for Berkshire and other value-oriented investors.",
+    "published_at": "2026-07-28T20:00:00+08:00",
+    "stocks": [],
+    "uid": "a37d3a6f0f3c822b9622a8c1b33c7867"
+  },
+  {
+    "title": "Marvell Technology vs. Snowflake: Which High-Growth Artificial Intelligence Stock Is a Better Buy in 2026?",
+    "url": "https://www.fool.com/coverage/better-buy/2026/07/28/marvell-technology-vs-snowflake-which-high-growth-artificial-intelligence-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "One profitable and growing, the other still burning cash but expanding fast, their risk profiles and valuations tell very different stories.",
+    "published_at": "2026-07-28T19:58:01+08:00",
+    "stocks": [],
+    "uid": "e0f0f19b5eccc84a6a92338d712fb905"
+  },
+  {
     "title": "UPS beats earnings expectations, raises full-year guidance",
     "url": "https://www.cnbc.com/2026/07/28/ups-ups-q2-2026-earnings.html",
     "source": "CNBC Markets",
@@ -141,6 +806,15 @@
     "summary_en": "",
     "title_zh": "由於焦急的債券市場準備迎接聯準會的電話會議，美國殖利率從數月高點回落",
     "summary_zh": ""
+  },
+  {
+    "title": "1 Reason to Buy NuScale Power Stock This August",
+    "url": "https://www.fool.com/investing/2026/07/28/1-reason-to-buy-nuscale-power-stock-this-august/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "NuScale Power is working to secure a critical growth catalyst.",
+    "published_at": "2026-07-28T19:44:00+08:00",
+    "stocks": [],
+    "uid": "c515105406aeceeffe05a1b7242887e6"
   },
   {
     "title": "Revolut opens access to private market funds",
@@ -286,6 +960,24 @@
     "summary_zh": ""
   },
   {
+    "title": "Daily Spotlight: Min Vol: More than a Defensive Strategy",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_47749_MarketOutlook_1785238296000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T19:31:36+08:00",
+    "stocks": [],
+    "uid": "fefd59e6cd95dddc3d62c7b2d2bd2218"
+  },
+  {
+    "title": "Technical Assessment: Bullish in the Intermediate-Term",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_47748_TechnicalAnalysis_1785238264000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T19:31:04+08:00",
+    "stocks": [],
+    "uid": "d3256e5923eb57094cda96510d9cfc21"
+  },
+  {
     "title": "UPS turns the page as job cuts and Amazon ‘glide down’ are completed",
     "url": "https://www.marketwatch.com/story/ups-turns-the-page-as-job-cuts-and-amazon-glide-down-are-completed-e16f03fe?mod=mw_rss_topstories",
     "source": "MarketWatch",
@@ -310,6 +1002,15 @@
     "summary_en": "",
     "title_zh": "不排除聯準會意外升息的可能性這對標準普爾 500 指數意味著什麼",
     "summary_zh": ""
+  },
+  {
+    "title": "Here's Exactly Why Wall Street Thinks Intuitive Surgical Stock Could Soar 102% Over the Next 12 Months",
+    "url": "https://www.fool.com/investing/2026/07/28/heres-exactly-why-wall-street-thinks-intuitive-sur/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Analysts are very bullish on Intuitive Surgical, despite the stock's steep decline.",
+    "published_at": "2026-07-28T19:30:00+08:00",
+    "stocks": [],
+    "uid": "e976a6e5d76426e5d9246ae88c6608d4"
   },
   {
     "title": "The Chips Rout Goes Global",
@@ -404,6 +1105,15 @@
     "published_at": "2026-07-28T19:06:33+08:00",
     "stocks": [],
     "uid": "fa3269fd04c26e162071e16931ea1a16"
+  },
+  {
+    "title": "Analyst Report: Cracker Barrel Old Country Sto",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_2812_AnalystReport_1785236773000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T19:06:13+08:00",
+    "stocks": [],
+    "uid": "d941ae962921b0315ba7ba60f3ac788b"
   },
   {
     "title": "SpaceX Has Nosedived 50% From Its All-Time High, and It May Realistically Lose Another 50% Before Its Valuation Makes Any Sense",
@@ -4712,6 +5422,15 @@
       "ADSK"
     ],
     "uid": "bbeabd78b17820d0024076cfdc3ae681"
+  },
+  {
+    "title": "SpaceX stock poised for another all-time low as stock sinks on Tuesday",
+    "url": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-poised-for-another-all-time-low-as-stock-sinks-on-tuesday-144351570.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-27T22:43:51+08:00",
+    "stocks": [],
+    "uid": "d2688a75829efe08bda5842f2ead493a"
   },
   {
     "title": "Will Amazon CEO Andy Jassy's $200 Billion AI Bet Pay Off on July 30?",

@@ -1,5 +1,878 @@
 [
   {
+    "title": "AIT公開台美海巡合作　學者：國際不支持北京對外擴張",
+    "url": "https://money.udn.com/money/story/7307/9656708",
+    "source": "經濟日報總經",
+    "summary": "美國在台協會今天首度公開美國海岸防衛隊與台灣海巡署海上編隊航行畫面。專家分析，此舉不僅延續美方6月下旬就台灣東部海域議題...",
+    "published_at": "2026-07-28T21:31:06+08:00",
+    "stocks": [],
+    "uid": "9ede42c3554d10c5ba58917172aad664",
+    "title_zh": "AIT公開台美海巡合作　學者：國際不支持北京對外擴張",
+    "summary_zh": "美國在台協會今天首度公開美國海岸防衛隊與台灣海巡署海上編隊航行畫面。專家分析，此舉不僅延續美方6月下旬就台灣東部海域議題...",
+    "title_en": "AIT announces Taiwan-US maritime patrol cooperation Scholar: International does not support Beijing’s external expansion",
+    "summary_en": "The American Institute in Taiwan today released for the first time footage of a maritime formation sailing between the U.S. Coast Guard and the Taiwan Coast Guard. Experts analyze that this move is not only a continuation of the U.S.'s decision on issues in Taiwan's eastern waters in late June..."
+  },
+  {
+    "title": "熊本強震　台積電：JASM人員建築確認安全、逐步回線",
+    "url": "https://money.udn.com/money/story/11162/9656707",
+    "source": "經濟日報股市",
+    "summary": "日本熊本縣今天下午發生強震，晶圓代工廠台積電表示，位於熊本的JASM廠區目前所有人員皆確認安全無虞，並完成建築震後損害檢...",
+    "published_at": "2026-07-28T21:30:45+08:00",
+    "stocks": [],
+    "uid": "152d5dc989e92052b20a36a12a51ac18",
+    "title_zh": "熊本強震　台積電：JASM人員建築確認安全、逐步回線",
+    "summary_zh": "日本熊本縣今天下午發生強震，晶圓代工廠台積電表示，位於熊本的JASM廠區目前所有人員皆確認安全無虞，並完成建築震後損害檢...",
+    "title_en": "Kumamoto Strong Earthquake TSMC: JASM personnel confirm safety and gradually return to work",
+    "summary_en": "A strong earthquake occurred in Kumamoto Prefecture, Japan this afternoon. Wafer foundry TSMC stated that all personnel at the JASM plant in Kumamoto are currently confirmed to be safe and have completed post-earthquake damage inspections of buildings..."
+  },
+  {
+    "title": "易威：股份轉換完成　健亞終止上櫃成全資子公司",
+    "url": "https://money.udn.com/money/story/5612/9656706",
+    "source": "經濟日報股市",
+    "summary": "易威生醫與健亞的股份轉換合併案經主管機關審核通過，今天完成合併，健亞終止上櫃並成為易威100%持股子公司。易威表示，台美...",
+    "published_at": "2026-07-28T21:30:30+08:00",
+    "stocks": [
+      "1799",
+      "4130"
+    ],
+    "uid": "806c327eba61303e1718e7949a5da6fe",
+    "title_zh": "易威：股份轉換完成　健亞終止上櫃成全資子公司",
+    "summary_zh": "易威生醫與健亞的股份轉換合併案經主管機關審核通過，今天完成合併，健亞終止上櫃並成為易威100%持股子公司。易威表示，台美...",
+    "title_en": "Yiwei: Share conversion completed, Jianya terminated listing on OTC and became a wholly-owned subsidiary",
+    "summary_en": "The share conversion and merger case between Yiwei Biomedical and Jianya was reviewed and approved by the competent authority. The merger was completed today. Jianya terminated its listing on the OTC and became a 100%-owned subsidiary of Yiwei. Yi Wei said that Taiwan and the United States..."
+  },
+  {
+    "title": "熊本強震　華航：航班改飛福岡、鹿兒島退票免手續費",
+    "url": "https://money.udn.com/money/story/122328/9656698",
+    "source": "經濟日報總經",
+    "summary": "日本熊本縣今天發生規模7.1強震，華航宣布8月5日前（含）往返熊本機票，訂位更改至福岡或鹿兒島14天內航班或退票將免收手...",
+    "published_at": "2026-07-28T21:21:29+08:00",
+    "stocks": [],
+    "uid": "a12b66af3f836ab61a78717df168cf18",
+    "title_zh": "熊本強震　華航：航班改飛福岡、鹿兒島退票免手續費",
+    "summary_zh": "日本熊本縣今天發生規模7.1強震，華航宣布8月5日前（含）往返熊本機票，訂位更改至福岡或鹿兒島14天內航班或退票將免收手...",
+    "title_en": "Strong earthquake in Kumamoto China Airlines: Flights diverted to Fukuoka and Kagoshima with no handling fee for refunds",
+    "summary_en": "A magnitude 7.1 earthquake occurred in Kumamoto Prefecture, Japan today. China Airlines announced that round-trip tickets to Kumamoto before August 5th (inclusive) will be free of charge if the reservation is changed to a flight within 14 days of Fukuoka or Kagoshima or the ticket is refunded..."
+  },
+  {
+    "title": "人員及廠區結構安全無虞 台積電：JASM已逐步回線",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5520933",
+    "source": "自由財經",
+    "summary": "日本熊本縣今（28）日下午4時許發生規模芮氏規模7.1強震，台積電（2330）熊本廠JASM即依緊急應變程序進行疏散與清點。台積電表示，廠區所有人員以及JASM廠區結構建...…",
+    "published_at": "2026-07-28T21:20:49+08:00",
+    "stocks": [
+      "2330"
+    ],
+    "uid": "615249651667576dd2864a05ec4f25bb",
+    "title_zh": "人員及廠區結構安全無虞 台積電：JASM已逐步回線",
+    "summary_zh": "日本熊本縣今（28）日下午4時許發生規模芮氏規模7.1強震，台積電（2330）熊本廠JASM即依緊急應變程序進行疏散與清點。台積電表示，廠區所有人員以及JASM廠區結構建...…",
+    "title_en": "Personnel and factory structure are safe. TSMC: JASM has gradually come back online",
+    "summary_en": "A strong earthquake measuring 7.1 on the Richter scale occurred in Kumamoto Prefecture, Japan, at about 4:00 pm today (28th). TSMC (2330) Kumamoto Factory JASM conducted evacuation and inventory in accordance with emergency response procedures. TSMC stated that all personnel at the plant and the structure of the JASM plant..."
+  },
+  {
+    "title": "連小米都不用中國貨 記憶體晶片戰場勝敗已分明？",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5520935",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕根據最新報導，SK海力士計劃於2026年下半年開始量產和出貨下一代記憶體標準，其首批客戶之一將來自中國的科技大廠小米。LPDDR6記憶體生產是中國長鑫存儲必須積極彌補市場佔...…",
+    "published_at": "2026-07-28T21:19:50+08:00",
+    "stocks": [],
+    "uid": "8d6cd9a239a7644d013deed76320501a",
+    "title_zh": "連小米都不用中國貨 記憶體晶片戰場勝敗已分明？",
+    "summary_zh": "〔財經頻道／綜合報導〕根據最新報導，SK海力士計劃於2026年下半年開始量產和出貨下一代記憶體標準，其首批客戶之一將來自中國的科技大廠小米。LPDDR6記憶體生產是中國長鑫存儲必須積極彌補市場佔...…",
+    "title_en": "Even Xiaomi doesn’t use Chinese products. Is the victory or defeat in the memory chip battlefield already clear?",
+    "summary_en": "[Financial Channel/Comprehensive Report] According to the latest reports, SK Hynix plans to start mass production and shipment of next-generation memory standards in the second half of 2026. One of its first customers will be Xiaomi, a major Chinese technology company. LPDDR6 memory production is what China Changxin Memory must actively do to make up for its market share..."
+  },
+  {
+    "title": "上銀：義大利子公司遭駭客網路攻擊　營運無重大影響",
+    "url": "https://money.udn.com/money/story/5612/9656684",
+    "source": "經濟日報股市",
+    "summary": "傳動元件大廠上銀晚間公告，子公司義大利上銀公司部分資訊系統遭受駭客網路攻擊，已立即啟動資安防禦與通報機制，完成相關安全漏...",
+    "published_at": "2026-07-28T21:12:43+08:00",
+    "stocks": [],
+    "uid": "589e5a8a7763a0d334bd7baa0c2189f6",
+    "title_zh": "上銀：義大利子公司遭駭客網路攻擊　營運無重大影響",
+    "summary_zh": "傳動元件大廠上銀晚間公告，子公司義大利上銀公司部分資訊系統遭受駭客網路攻擊，已立即啟動資安防禦與通報機制，完成相關安全漏...",
+    "title_en": "Bank of China: Its Italian subsidiary was attacked by hackers, but its operations were not significantly affected",
+    "summary_en": "Shanghai Banking Group, a major transmission component manufacturer, announced in the evening that part of the information system of its subsidiary Shanghai Banking Corporation of Italy was attacked by hackers. It has immediately activated the information security defense and reporting mechanism to complete the relevant security leaks..."
+  },
+  {
+    "title": "熊本大地震干擾台積電 JASM 營運 公司最新說法來了",
+    "url": "https://money.udn.com/money/story/5612/9656681",
+    "source": "經濟日報股市",
+    "summary": "熊本今日下午地震干擾台積電（2330）JASM營運，台積電今日晚間回應本報記者提問完整說明。",
+    "published_at": "2026-07-28T21:11:14+08:00",
+    "stocks": [
+      "2330"
+    ],
+    "uid": "01dee60e94faf3688f39b454d93e86f6",
+    "title_zh": "熊本大地震干擾台積電 JASM 營運 公司最新說法來了",
+    "summary_zh": "熊本今日下午地震干擾台積電（2330）JASM營運，台積電今日晚間回應本報記者提問完整說明。",
+    "title_en": "The Great Kumamoto Earthquake Interrupted TSMC’s JASM Operations. Here’s the company’s latest statement",
+    "summary_en": "The earthquake in Kumamoto this afternoon disrupted the JASM operations of TSMC (2330). TSMC responded to a reporter's question with a complete explanation this evening."
+  },
+  {
+    "title": "Loro Piana秋冬形象攜手大師Mario Sorrenti 走進休士頓藝術地景",
+    "url": "https://money.udn.com/money/story/122328/9656670",
+    "source": "經濟日報總經",
+    "summary": "義大利精品品牌Loro Piana發表2026-2027秋冬形象廣告，由時尚攝影大師Mario Sorrenti掌鏡，將鏡頭移往美國休士頓，以藝術收藏家John與Dominique de Menil夫婦打造的文化場域為背景，串聯建築、藝術與服裝，藉由光影與空間交織，詮釋品牌一貫低調且細膩的奢華風格。",
+    "published_at": "2026-07-28T21:11:13+08:00",
+    "stocks": [],
+    "uid": "8819c9b31e41f59c4c18578a482710bb",
+    "title_zh": "Loro Piana秋冬形象攜手大師Mario Sorrenti 走進休士頓藝術地景",
+    "summary_zh": "義大利精品品牌Loro Piana發表2026-2027秋冬形象廣告，由時尚攝影大師Mario Sorrenti掌鏡，將鏡頭移往美國休士頓，以藝術收藏家John與Dominique de Menil夫婦打造的文化場域為背景，串聯建築、藝術與服裝，藉由光影與空間交織，詮釋品牌一貫低調且細膩的奢華風格。",
+    "title_en": "Loro Piana's autumn and winter image joins hands with master Mario Sorrenti to enter the Houston art scene",
+    "summary_en": "The Italian boutique brand Loro Piana released its 2026-2027 autumn and winter image advertisement, which was shot by fashion photography master Mario Sorrenti. The lens moved to Houston, USA, with the cultural scene created by the art collectors John and Dominique de Menil as the background, connecting architecture, art and clothing. Through the interweaving of light, shadow and space, it interprets the brand's consistently low-key and delicate luxury style."
+  },
+  {
+    "title": "熊本強震華航宣布退改票手續費 免費載運賑災物資",
+    "url": "https://money.udn.com/money/story/122328/9656653",
+    "source": "經濟日報總經",
+    "summary": "日本熊本縣於當地時間今天（28日）下午4時27分發生規模7.1地震。中華航空於今晚緊急宣布，凡旅客持有華航2026 年 8 月 5 日前（含）往返熊本機票，訂位更改至福岡或鹿兒島14天內的航班或退票將免收手續費。",
+    "published_at": "2026-07-28T21:11:11+08:00",
+    "stocks": [],
+    "uid": "5a10a213a13b19e795c626dfb22971ad",
+    "title_zh": "熊本強震華航宣布退改票手續費 免費載運賑災物資",
+    "summary_zh": "日本熊本縣於當地時間今天（28日）下午4時27分發生規模7.1地震。中華航空於今晚緊急宣布，凡旅客持有華航2026 年 8 月 5 日前（含）往返熊本機票，訂位更改至福岡或鹿兒島14天內的航班或退票將免收手續費。",
+    "title_en": "After the Kumamoto earthquake, China Airlines announced a refund of ticket change fees and free transportation of relief supplies",
+    "summary_en": "A magnitude 7.1 earthquake occurred in Kumamoto Prefecture, Japan at 4:27 pm local time today (28th). China Airlines urgently announced tonight that passengers holding China Airlines round-trip tickets to Kumamoto before August 5, 2026 (inclusive) will be free of charge for booking changes to flights within 14 days of Fukuoka or Kagoshima or for refunds."
+  },
+  {
+    "title": "IP萌經濟超有效  麥味登再推小熊維尼今年門市挑戰再增百家",
+    "url": "https://www.mirrormedia.mg/story/20260728-181fin-211117",
+    "source": "鏡週刊財經",
+    "summary": "<p>揚秦國際旗下早午餐品牌麥味登，全台店數已達1,033家，為目前台灣早餐連鎖品牌店數第二，因為規模經濟加持，去年與史努比的IP合作，聯名效益帶動去年上半年整體營收增長19%，這次則推出迪士尼的經典IP「小熊維尼」，目標也是帶動雙位數業績成長。</p>",
+    "published_at": "2026-07-28T21:11:00+08:00",
+    "stocks": [],
+    "uid": "20eb3a6529b4320d8306e90544bead4c",
+    "title_zh": "IP萌經濟超有效  麥味登再推小熊維尼今年門市挑戰再增百家",
+    "summary_zh": "<p>揚秦國際旗下早午餐品牌麥味登，全台店數已達1,033家，為目前台灣早餐連鎖品牌店數第二，因為規模經濟加持，去年與史努比的IP合作，聯名效益帶動去年上半年整體營收增長19%，這次則推出迪士尼的經典IP「小熊維尼」，目標也是帶動雙位數業績成長。</p>",
+    "title_en": "IP cute economy is super effective. McVidden launches Winnie the Pooh again and challenges to add 100 more stores this year",
+    "summary_en": "<p>McVidian, the brunch brand owned by Yang Qin International, has 1,033 stores in Taiwan, making it the second-largest breakfast chain brand in Taiwan. Thanks to economies of scale, last year's IP cooperation with Snoopy and the co-branding effect drove overall revenue growth by 19% in the first half of last year. This time, Disney's classic IP \"Winnie the Pooh\" is launched, with the goal of driving double-digit performance growth. </p>"
+  },
+  {
+    "title": "中光電智能物流 AI Wave Show 2026將秀四大創新技術",
+    "url": "https://money.udn.com/money/story/11162/9656678",
+    "source": "經濟日報股市",
+    "summary": "生成式AI與AI Agent技術快速發展，促成智慧物流從「流程自動化」邁向「自主化決策」的新時代。身為「場域整合與軟體大腦的系統整合方案商」，中光電（5371）子公司中光電智能物流將於AI Wave Show 2026以「AI驅動智慧物流與製造自動化」為主題，展現次世代AI技術於工業場域的全方位落地應用。",
+    "published_at": "2026-07-28T21:10:58+08:00",
+    "stocks": [
+      "5371"
+    ],
+    "uid": "1dfc920a220802d6d640ceafe339e2bc",
+    "title_zh": "中光電智能物流 AI Wave Show 2026將秀四大創新技術",
+    "summary_zh": "生成式AI與AI Agent技術快速發展，促成智慧物流從「流程自動化」邁向「自主化決策」的新時代。身為「場域整合與軟體大腦的系統整合方案商」，中光電（5371）子公司中光電智能物流將於AI Wave Show 2026以「AI驅動智慧物流與製造自動化」為主題，展現次世代AI技術於工業場域的全方位落地應用。",
+    "title_en": "China Optoelectronics Intelligent Logistics AI Wave Show 2026 will showcase four innovative technologies",
+    "summary_en": "The rapid development of generative AI and AI Agent technology has promoted smart logistics to move from \"process automation\" to a new era of \"autonomous decision-making\". As a \"system integrator of field integration and software brains\", China Optoelectronics Intelligent Logistics, a subsidiary of China Optoelectronics (5371), will use the theme of \"AI-driven smart logistics and manufacturing automation\" at the AI ​​Wave Show 2026 to demonstrate the comprehensive application of next-generation AI technology in industrial fields."
+  },
+  {
+    "title": "證交所澄清信用維持率175％ 為何官方數據與市場推估達30％數據溫差？",
+    "url": "https://money.udn.com/money/story/5607/9656675",
+    "source": "經濟日報",
+    "summary": "台股近期高點拉回幅度達16％，市場恐慌傳聞蔓延，部分媒體與軟體統計指出大盤維持率已經接近斷頭告急區。證交所對此緊急澄清，強調截至27日全市場信用交易「整戶擔保維持率」高達約175％，遠高於130％的追繳門檻，整體市場交割秩序良好。",
+    "published_at": "2026-07-28T21:10:55+08:00",
+    "stocks": [],
+    "uid": "826e429b29d43cefcfb55b2182f259dd",
+    "title_zh": "證交所澄清信用維持率175％ 為何官方數據與市場推估達30％數據溫差？",
+    "summary_zh": "台股近期高點拉回幅度達16％，市場恐慌傳聞蔓延，部分媒體與軟體統計指出大盤維持率已經接近斷頭告急區。證交所對此緊急澄清，強調截至27日全市場信用交易「整戶擔保維持率」高達約175％，遠高於130％的追繳門檻，整體市場交割秩序良好。",
+    "title_en": "The stock exchange clarified that the credit maintenance rate is 175%. Why is there a 30% data gap between official data and market estimates?",
+    "summary_en": "Taiwan stocks have pulled back 16% from their recent highs, and rumors of market panic are spreading. Some media and software statistics indicate that the market maintenance rate is close to the emergency zone. The stock exchange urgently clarified this, emphasizing that as of the 27th, the \"whole-household guarantee maintenance rate\" of credit transactions in the market was as high as approximately 175%, much higher than the 130% recovery threshold, and the overall market delivery order was in good order."
+  },
+  {
+    "title": "金管會點頭！首批7銀行獲准採IRB法Q4生效 釋放長期配息彈性",
+    "url": "https://news.cnyes.com/news/id/6548877",
+    "source": "鉅亨網",
+    "summary": "金管會今 (28) 日正式公布，核准合作金庫、第一銀行、兆豐銀行、台北富邦、國泰世華、玉山銀行及中國信託等 7 家國銀採用「信用風險內部評等法」(IRB 法)計提資本。新制將於 2026 年第四季起正式上路",
+    "published_at": "2026-07-28T21:10:49+08:00",
+    "stocks": [],
+    "uid": "a4eb25ff55254e89a0898a39014b2b1f",
+    "title_zh": "金管會點頭！首批7銀行獲准採IRB法Q4生效 釋放長期配息彈性",
+    "summary_zh": "金管會今 (28) 日正式公布，核准合作金庫、第一銀行、兆豐銀行、台北富邦、國泰世華、玉山銀行及中國信託等 7 家國銀採用「信用風險內部評等法」(IRB 法)計提資本。新制將於 2026 年第四季起正式上路",
+    "title_en": "The Financial Supervisory Committee nods! The first batch of 7 banks are allowed to adopt the IRB method to take effect in Q4, releasing the flexibility of long-term interest distribution",
+    "summary_en": "The Financial Supervisory Commission officially announced today (28th) that it has approved the use of the \"Internal Credit Risk Rating Method\" (IRB method) for capital provision by 7 national banks, including Cooperative Bank, First Bank, Mega Bank, Taipei Fubon, Cathay Pacific, Yushan Bank and China Trust. The new system will be officially launched in the fourth quarter of 2026"
+  },
+  {
+    "title": "X平台在美推X Money銀行服務　馬斯克擬打造萬能App",
+    "url": "https://www.cna.com.tw/news/aopl/202607280343.aspx",
+    "source": "中央社",
+    "summary": "（中央社華盛頓27日綜合外電報導）億萬富豪馬斯克旗下社群平台X今天正式向美國所有Premium及Premium+付費訂閱用戶推出X Money銀行服務，這是馬斯克將X打造成「萬能App」（everything app）的重要一步。",
+    "published_at": "2026-07-28T21:03:51+08:00",
+    "stocks": [],
+    "uid": "42b3d499ed4abfeb0578f0332a8bae86",
+    "title_zh": "X平台在美推X Money銀行服務　馬斯克擬打造萬能App",
+    "summary_zh": "（中央社華盛頓27日綜合外電報導）億萬富豪馬斯克旗下社群平台X今天正式向美國所有Premium及Premium+付費訂閱用戶推出X Money銀行服務，這是馬斯克將X打造成「萬能App」（everything app）的重要一步。",
+    "title_en": "X platform launches X Money banking service in the United States; Musk plans to build a universal app",
+    "summary_en": "(Central News Agency, Washington, 27th, comprehensive foreign news reports) Billionaire Musk’s social platform X officially launched X Money banking services to all Premium and Premium+ paying subscribers in the United States today. This is an important step for Musk to build X into an “everything app”."
+  },
+  {
+    "title": "上銀：義大利子公司遭駭客網路攻擊　營運無重大影響",
+    "url": "https://www.cna.com.tw/news/afe/202607280342.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者鍾榮峰台北28日電）傳動元件大廠上銀晚間公告，子公司義大利上銀公司部分資訊系統遭受駭客網路攻擊，已立即啟動資安防禦與通報機制，完成相關安全漏洞修復後，將持續強化網路與資訊基礎架構安全防護機制及管理措施，確保資訊系統穩定運作及資訊安全。",
+    "published_at": "2026-07-28T21:03:49+08:00",
+    "stocks": [],
+    "uid": "6304f873bb86087b7f6eec1fa75442ed",
+    "title_zh": "上銀：義大利子公司遭駭客網路攻擊　營運無重大影響",
+    "summary_zh": "（中央社記者鍾榮峰台北28日電）傳動元件大廠上銀晚間公告，子公司義大利上銀公司部分資訊系統遭受駭客網路攻擊，已立即啟動資安防禦與通報機制，完成相關安全漏洞修復後，將持續強化網路與資訊基礎架構安全防護機制及管理措施，確保資訊系統穩定運作及資訊安全。",
+    "title_en": "Bank of China: Its Italian subsidiary was attacked by hackers, but its operations were not significantly affected",
+    "summary_en": "(Central News Agency reporter Zhong Rongfeng, Taipei, 28th) Transmission components manufacturer Shanghai Banking Group announced in the evening that part of the information system of its subsidiary Bank of Italy has been attacked by hackers. It has immediately activated the information security defense and reporting mechanism. After completing the repair of relevant security vulnerabilities, it will continue to strengthen the network and information infrastructure security protection mechanisms and management measures to ensure the stable operation of the information system and information security."
+  },
+  {
+    "title": "台股崩跌4.65% 「臺灣璞玉指數」僅跌2.84%發揮下行保護",
+    "url": "https://news.cnyes.com/news/id/6548865",
+    "source": "鉅亨網",
+    "summary": "加權指數今 (28) 日收盤創下史上第三大跌點，重摔 4.65%，而「臺灣璞玉指數」下跌 2.84%，跌幅明顯低於大盤，展現出良好的抗跌韌性與風險抵禦能力。進一步觀察近期表現，",
+    "published_at": "2026-07-28T21:02:02+08:00",
+    "stocks": [],
+    "uid": "b382558a30a549f8f23997df547c83b1",
+    "title_zh": "台股崩跌4.65% 「臺灣璞玉指數」僅跌2.84%發揮下行保護",
+    "summary_zh": "加權指數今 (28) 日收盤創下史上第三大跌點，重摔 4.65%，而「臺灣璞玉指數」下跌 2.84%，跌幅明顯低於大盤，展現出良好的抗跌韌性與風險抵禦能力。進一步觀察近期表現，",
+    "title_en": "Taiwan stocks fell 4.65%, and the \"Taiwan Raw Jade Index\" only fell 2.84% to provide downside protection.",
+    "summary_en": "The weighted index closed today (28th) with the third largest drop in history, falling 4.65%, while the \"Taiwan Raw Jade Index\" fell 2.84%, a decline significantly lower than the broader market, demonstrating good resilience and risk resistance. Taking a closer look at recent performance,"
+  },
+  {
+    "title": "友達桃園華亞廠以197億元售予廣達 處分獲利估133.9億元",
+    "url": "https://news.cnyes.com/news/id/6548866",
+    "source": "鉅亨網",
+    "summary": "友達華亞廠售廣達 處分獲利估 133.9 億元",
+    "published_at": "2026-07-28T21:01:24+08:00",
+    "stocks": [
+      "TWS:2409:STOCK",
+      "TWS:2382:STOCK"
+    ],
+    "uid": "34815ca5cbfb5e593326cf2da8544993",
+    "title_zh": "友達桃園華亞廠以197億元售予廣達 處分獲利估133.9億元",
+    "summary_zh": "友達華亞廠售廣達 處分獲利估 133.9 億元",
+    "title_en": "AUO's Taoyuan Huaya Plant was sold to Quanta for NT$19.7 billion, with an estimated profit from disposal of NT$13.39 billion",
+    "summary_en": "AUO Huaya plant sells Quanta, profit from disposal estimated at 13.39 billion yuan"
+  },
+  {
+    "title": "大樂透第115074期開獎",
+    "url": "https://money.udn.com/money/story/122328/9656663",
+    "source": "經濟日報總經",
+    "summary": "大樂透第115074期今晚開獎。中獎號碼為24、32、19、26、08、43，特別號47",
+    "published_at": "2026-07-28T21:00:48+08:00",
+    "stocks": [],
+    "uid": "809006610e83274aafd8bb28b5ddf282",
+    "title_zh": "大樂透第115074期開獎",
+    "summary_zh": "大樂透第115074期今晚開獎。中獎號碼為24、32、19、26、08、43，特別號47",
+    "title_en": "Lotto No. 115074 lottery draw",
+    "summary_en": "Lotto issue 115074 will be drawn tonight. The winning numbers are 24, 32, 19, 26, 08, 43, and the special number 47"
+  },
+  {
+    "title": "IBM砸300億投資量子電腦，是龐大商機還是戰略武器？萬鈞法人揭密：AI下一個十倍飆股「另有其人」",
+    "url": "https://news.cnyes.com/news/id/6548881",
+    "source": "鉅亨網",
+    "summary": "",
+    "published_at": "2026-07-28T21:00:08+08:00",
+    "stocks": [],
+    "uid": "626274f37d9946e016b0e532b22ecdd2",
+    "title_zh": "IBM砸300億投資量子電腦，是龐大商機還是戰略武器？萬鈞法人揭密：AI下一個十倍飆股「另有其人」",
+    "summary_zh": "",
+    "title_en": "IBM invests 30 billion in quantum computers. Is it a huge business opportunity or a strategic weapon? Wanjun Legal Person reveals: \"There is someone else\" behind AI's next ten-fold stock surge",
+    "summary_en": ""
+  },
+  {
+    "title": "SK海力士喊擴產兩倍，會引發供過於求嗎？萬鈞法人剖析4年後GPU驚人進化：為何AI記憶體需求是8倍起跳？",
+    "url": "https://news.cnyes.com/news/id/6548878",
+    "source": "鉅亨網",
+    "summary": "",
+    "published_at": "2026-07-28T21:00:06+08:00",
+    "stocks": [],
+    "uid": "3ab91822131966d3ef1ca12045bf6a14",
+    "title_zh": "SK海力士喊擴產兩倍，會引發供過於求嗎？萬鈞法人剖析4年後GPU驚人進化：為何AI記憶體需求是8倍起跳？",
+    "summary_zh": "",
+    "title_en": "SK hynix plans to double its production capacity, will it cause oversupply? Wanjun legal person analyzes the amazing evolution of GPU after 4 years: Why does AI memory demand jump 8 times?",
+    "summary_en": ""
+  },
+  {
+    "title": "今彩539第115182期開獎",
+    "url": "https://money.udn.com/money/story/122328/9656656",
+    "source": "經濟日報總經",
+    "summary": "今彩539第115182期開獎，中獎號碼08、31、23、13、05。3星彩中獎號碼716，4星彩中獎號碼0433",
+    "published_at": "2026-07-28T20:54:21+08:00",
+    "stocks": [],
+    "uid": "52b5bf81f437007eaadf8797e6de96e5",
+    "title_zh": "今彩539第115182期開獎",
+    "summary_zh": "今彩539第115182期開獎，中獎號碼08、31、23、13、05。3星彩中獎號碼716，4星彩中獎號碼0433",
+    "title_en": "Jincai 539 No. 115182 lottery draw",
+    "summary_en": "The 115182nd lottery draw of Jincai 539, the winning numbers are 08, 31, 23, 13, 05. The winning number of 3-star lottery is 716, and the winning number of 4-star lottery is 0433"
+  },
+  {
+    "title": "金管會：7銀行申請內部評等法過關　今年第4季適用",
+    "url": "https://www.cna.com.tw/news/afe/202607280340.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者蘇思云台北28日電）金管會今天宣布，首批7家銀行申請採用信用風險內部評等法（IRB法），全數獲准，自今年第4季開始適用，預計業者資本適足率（BIS）可從15.75%增至16.09%，平均增加0.34個百分點。外界預期，適用IRB法的銀行，有望提升業務與未來配息動能。",
+    "published_at": "2026-07-28T20:53:44+08:00",
+    "stocks": [],
+    "uid": "07bc82006da74d17bfe116085dc1a67f",
+    "title_zh": "金管會：7銀行申請內部評等法過關　今年第4季適用",
+    "summary_zh": "（中央社記者蘇思云台北28日電）金管會今天宣布，首批7家銀行申請採用信用風險內部評等法（IRB法），全數獲准，自今年第4季開始適用，預計業者資本適足率（BIS）可從15.75%增至16.09%，平均增加0.34個百分點。外界預期，適用IRB法的銀行，有望提升業務與未來配息動能。",
+    "title_en": "Financial Supervisory Commission: 7 banks applied to pass the Internal Ratings Law and it will be applicable in the fourth quarter of this year",
+    "summary_en": "(Central News Agency reporter Su Siyun, Taipei, 28th) The Financial Supervisory Commission announced today that the first batch of seven banks have applied to adopt the internal credit risk rating method (IRB method), and all have been approved. It will be applicable from the fourth quarter of this year. It is expected that the capital adequacy ratio (BIS) of the industry will increase from 15.75% to 16.09%, with an average increase of 0.34 percentage points. Outsiders expect that banks that apply the IRB law are expected to improve their business and future interest distribution momentum."
+  },
+  {
+    "title": "8/1起受理！青安3.0問答集出爐  房屋總價這樣認定",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5520910",
+    "source": "自由財經",
+    "summary": "青安3.0自8月1日起實施，財政部國庫署網站設置「青安貸款專區」，包括貸款原則及民眾關切問題問答集，並提供公股銀行聯絡窗口服務電話。由於青安3.0有房屋總價限制，財政部表...…",
+    "published_at": "2026-07-28T20:51:09+08:00",
+    "stocks": [],
+    "uid": "32ebf5575e42a337b63241c58e0a1eb8",
+    "title_zh": "8/1起受理！青安3.0問答集出爐  房屋總價這樣認定",
+    "summary_zh": "青安3.0自8月1日起實施，財政部國庫署網站設置「青安貸款專區」，包括貸款原則及民眾關切問題問答集，並提供公股銀行聯絡窗口服務電話。由於青安3.0有房屋總價限制，財政部表...…",
+    "title_en": "Acceptance starts from 8/1! Qing'an 3.0 Q&A is released, this is how the total price of a house is determined",
+    "summary_en": "Qing'an 3.0 has been implemented since August 1. The Ministry of Finance and Treasury Department's website has set up a \"Qing'an Loan Zone\", which includes loan principles and a Q&A on public concerns, and provides a public bank contact window service number. Since Qing'an 3.0 has a total housing price limit, the Ministry of Finance stated..."
+  },
+  {
+    "title": "大樂透第115074期開獎",
+    "url": "https://www.cna.com.tw/news/ahel/202607280338.aspx",
+    "source": "中央社",
+    "summary": "（中央社台北28日電）大樂透第115074期今晚開獎。中獎號碼為24、32、19、26、08、43，特別號47。",
+    "published_at": "2026-07-28T20:50:40+08:00",
+    "stocks": [],
+    "uid": "15a32938d948babd535e970221dcdc92",
+    "title_zh": "大樂透第115074期開獎",
+    "summary_zh": "（中央社台北28日電）大樂透第115074期今晚開獎。中獎號碼為24、32、19、26、08、43，特別號47。",
+    "title_en": "Lotto No. 115074 lottery draw",
+    "summary_en": "(Central News Agency, Taipei, 28th) The 115074th issue of the Grand Lotto will be drawn tonight. The winning numbers are 24, 32, 19, 26, 08, 43, and the special number 47."
+  },
+  {
+    "title": "愛文芒果、綠竹筍入菜！NO CODE TAIPEI春夏菜單點亮盛夏",
+    "url": "https://money.udn.com/money/story/122328/9656638",
+    "source": "經濟日報總經",
+    "summary": "東京米其林指南入選餐廳NO CODE海外首店「NO CODE TAIPEI」推出全新夏季菜單，由執行主廚森脇翔平（Shohei Moriwaki）以「海洋・柑橘・盛夏」為主題，結合日本發酵技法、歐陸料理手法與中東香料，將台灣夏季盛產的愛文芒果、綠竹筍、冬瓜等在地食材融入料理，並透過柚子、檸檬、金桔等柑橘香氣，打造清爽鮮明的夏日風味。",
+    "published_at": "2026-07-28T20:49:47+08:00",
+    "stocks": [],
+    "uid": "29b47068780a1f979f0b40465f373e76"
+  },
+  {
+    "title": "腎糖病友身心壓力大 彰化醫院引進水晶缽瑜珈放鬆身心靈",
+    "url": "https://money.udn.com/money/story/122328/9656557",
+    "source": "經濟日報總經",
+    "summary": "衛福部彰化醫院今舉辦腎糖病友會，引進近年熱門的水晶缽音療瑜珈，病友調勻呼吸，聽著瑜珈老師敲擊5個不同音頻的水晶缽，在簡單、安全的伸展動作下放鬆身心，體會不一樣的身心靈療癒。",
+    "published_at": "2026-07-28T20:49:45+08:00",
+    "stocks": [],
+    "uid": "784694ca15044a3644f5f67ba14385ff"
+  },
+  {
+    "title": "熊本7.1強震...華航宣布免費載運賑災物資 機票改位、退票免收手續費",
+    "url": "https://money.udn.com/money/story/5612/9656640",
+    "source": "經濟日報股市",
+    "summary": "日本熊本縣今發生規模7.1強震，位於嘉島町的大型購物中心「永旺夢樂城熊本」發生爆炸，造成建築物中央區域及2樓部分坍塌。日媒報導，研判多人罹難，由於仍有民眾受困，救援工作持續進行，確切死傷人數待確認。中華航空表示，凡持今年8月5日往返熊本的機票，訂位更改至福岡或鹿兒島14天內的航班或退票將免收手續費，另宣布免費載運賑災物資至8月底",
+    "published_at": "2026-07-28T20:49:40+08:00",
+    "stocks": [],
+    "uid": "3d75e77a400a337bd56afdeaf3c0b6aa"
+  },
+  {
+    "title": "華航免除熊本退改票手續費 免費載運賑災物資",
+    "url": "https://money.udn.com/money/story/10871/9656645",
+    "source": "經濟日報股市",
+    "summary": "華航（2610）表示，由於日本熊本發生地震，凡持本公司 2026 年 8 月 5 日前（含）往返熊本機票，訂位更改至福岡或鹿兒島14天內的航班或退票將免收手續費，旅客可洽原開票旅行社或本公司客服中心、各地分公司協助調整行程。",
+    "published_at": "2026-07-28T20:45:55+08:00",
+    "stocks": [
+      "2610"
+    ],
+    "uid": "dca2a326e521fc88043652ec0e29f12c"
+  },
+  {
+    "title": "2師涉隱匿性別事件遭監院彈劾　人本籲南聰停招",
+    "url": "https://money.udn.com/money/story/7307/9656644",
+    "source": "經濟日報總經",
+    "summary": "監院以台南大學附屬啟聰學校前校長陳秀雅、前教務主任陳杉吉，未依規定通報校園性別事件，涉隱匿證據、串證、滅證，今天通過彈劾...",
+    "published_at": "2026-07-28T20:45:30+08:00",
+    "stocks": [],
+    "uid": "b089296b60af55cce92efb52f9f05e5d"
+  },
+  {
+    "title": "今彩539第115182期開獎",
+    "url": "https://www.cna.com.tw/news/ahel/202607280336.aspx",
+    "source": "中央社",
+    "summary": "（中央社台北28日電）今彩539第115182期開獎，中獎號碼08、31、23、13、05。3星彩中獎號碼716，4星彩中獎號碼0433。",
+    "published_at": "2026-07-28T20:43:36+08:00",
+    "stocks": [],
+    "uid": "062e3320da533b44747d34b64eb9bc66"
+  },
+  {
+    "title": "台股近一個月來大洗盤 這3檔ETF逆勢抗跌近月收紅逾1%",
+    "url": "https://news.cnyes.com/news/id/6548860",
+    "source": "鉅亨網",
+    "summary": "市場震盪快速升溫，資金防禦意識同步抬頭。台股今（28）日受 AI 疑慮擴大、美股科技股回檔及聯準會利率決策前觀望氣氛影響，指數一路震盪走低，終場收在 41603.36 點，大跌 4.65%，成交量放大逾 8000 億元；在大盤近一個月",
+    "published_at": "2026-07-28T20:43:19+08:00",
+    "stocks": [
+      "TWS:2303:STOCK",
+      "TWS:2330:STOCK",
+      "TWS:00961:STOCK",
+      "TWS:00939:STOCK",
+      "TWS:00918:STOCK",
+      "TWS:00713:STOCK",
+      "TWS:00731:STOCK",
+      "TWS:00919:STOCK",
+      "TWS:00932:STOCK"
+    ],
+    "uid": "e56f88d47c1b37154020db7091f10020"
+  },
+  {
+    "title": "上銀義大利子公司資訊系統遭駭客攻擊 對營運無重大影響",
+    "url": "https://news.cnyes.com/news/id/6548864",
+    "source": "鉅亨網",
+    "summary": "上銀 (2049-TW) 今 (28) 日發布重大訊息，旗下義大利子公司部分資訊系統遭受駭客網路攻擊，公司指出，資安團隊已在第一時間啟動防禦機制與復原作業，初步評估對公司總體營運無重大影響。",
+    "published_at": "2026-07-28T20:37:23+08:00",
+    "stocks": [
+      "TWS:2049:STOCK"
+    ],
+    "uid": "cf9bf8ecdd99259db7bc8e2d9a488665"
+  },
+  {
+    "title": "大豐電：大大寬頻規劃第3季遞件申請上市",
+    "url": "https://money.udn.com/money/story/5710/9656639",
+    "source": "經濟日報",
+    "summary": "大豐電今天表示，上半年合併營收新台幣10.97億元，年增1.7%，再創同期新高。其中，子公司大大寬頻截至上半年用戶已近1...",
+    "published_at": "2026-07-28T20:37:06+08:00",
+    "stocks": [],
+    "uid": "af8bc606df19ed025db913f2371ea2d2"
+  },
+  {
+    "title": "高雄港碼頭布局招商有成 非鐵金屬轉運中心將再引進COMEX進駐",
+    "url": "https://news.cnyes.com/news/id/6548859",
+    "source": "鉅亨網",
+    "summary": "港務公司高雄分公司今 (28) 日表示，配合整合高雄港第四貨櫃中心後線場地，已推動第 121 號碼頭後線場地招商業務，規劃引進民間業者進駐投資興建物流倉庫。高雄港公司表示，已引進 COMEX 進入有效串連全球金屬期貨金融市場。",
+    "published_at": "2026-07-28T20:36:23+08:00",
+    "stocks": [],
+    "uid": "bb4977e27f1df1a8cebcd0a2461f241b"
+  },
+  {
+    "title": "熊本地震導致多家航班轉降    經濟部幫「這些台廠」報平安",
+    "url": "https://www.mirrormedia.mg/story/20260728-181fin-203625",
+    "source": "鏡週刊財經",
+    "summary": "<p>日本熊本縣今（28）日下午發生規模7.1強震，震央位於熊本縣熊本地方，造成當地多處建築嚴重受損，熊本阿蘇機場暫時關閉跑道進行巡檢，台灣虎航、中華航空及星宇航空等出現大規模延飛與轉降狀況，經濟部也馬上幫台廠報平安。</p>",
+    "published_at": "2026-07-28T20:36:00+08:00",
+    "stocks": [],
+    "uid": "caf4b91990f9b04b147a0766d9cee9d3"
+  },
+  {
+    "title": "「幫助台灣就是幫助美國」《富比士》四點全說了",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5520904",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕美國《富比士》（Forbes）28日報導，「幫助台灣就是幫助美國」（Helping Taiwan Helps The U.S），文中列舉四大理由，呼籲白宮該立即批准對台灣軍...…",
+    "published_at": "2026-07-28T20:35:30+08:00",
+    "stocks": [],
+    "uid": "0e620200cdb3cc8bace4dda92418ef87"
+  },
+  {
+    "title": "凌華半導體設備客戶需求強勁積極追單 看好邊緣AI應用爆發",
+    "url": "https://news.cnyes.com/news/id/6548792",
+    "source": "鉅亨網",
+    "summary": "凌華半導體設備客戶需求強勁積極追單 看好邊緣 AI 應用爆發",
+    "published_at": "2026-07-28T20:35:28+08:00",
+    "stocks": [
+      "TWS:6166:STOCK",
+      "USS:NVDA:STOCK"
+    ],
+    "uid": "25780d17314030795f164cecfd0e53a9"
+  },
+  {
+    "title": "證交所：融資斷頭風險可控　籲投資人理性面對波動",
+    "url": "https://money.udn.com/money/story/5607/9656634",
+    "source": "經濟日報",
+    "summary": "台股今天大跌2030點，收在41603點。證交所強調，截至7月27日，全市場信用交易整戶擔保維持率約175%，仍遠高於現...",
+    "published_at": "2026-07-28T20:31:28+08:00",
+    "stocks": [],
+    "uid": "45a6ef98f0f18345aad584188245d303"
+  },
+  {
+    "title": "迎接10月僑務委員會議 駐關島辦事處徵詢僑領建言",
+    "url": "https://money.udn.com/money/story/7307/9656633",
+    "source": "經濟日報總經",
+    "summary": "駐關島辦事處21日舉辦僑委會115年僑務委員會議海外先期座談，以便徵詢關島僑領建言；並作為迎接10月在台北舉行僑務委員會...",
+    "published_at": "2026-07-28T20:31:08+08:00",
+    "stocks": [],
+    "uid": "3b3b72a25b2ccfe26dfe1bc75e164443"
+  },
+  {
+    "title": "甲骨文債務被降級、OpenAI大虧百億美金…AI陷債務危機？萬鈞法人視野：重演2007年iPhone浪潮的淘汰賽",
+    "url": "https://news.cnyes.com/news/id/6548862",
+    "source": "鉅亨網",
+    "summary": "",
+    "published_at": "2026-07-28T20:30:49+08:00",
+    "stocks": [],
+    "uid": "9472179970f5bcadc73dee794ca41533"
+  },
+  {
+    "title": "熊本地震　蔡英文：台灣始終與日本朋友站在一起",
+    "url": "https://money.udn.com/money/story/7307/9656631",
+    "source": "經濟日報總經",
+    "summary": "日本熊本今天發生規模7.1強震，前總統蔡英文透過社群平台Threads（脆）以日文發文提及，台灣有許多人都在牽掛著熊本，...",
+    "published_at": "2026-07-28T20:30:48+08:00",
+    "stocks": [],
+    "uid": "e22e5935bba7c643807218b5cfef4695"
+  },
+  {
+    "title": "〈台幣〉外資落跑股匯雙殺 央行穩匯收貶7.9分險守32.3字頭",
+    "url": "https://news.cnyes.com/news/id/6548821",
+    "source": "鉅亨網",
+    "summary": "韓、日、台股今 (28) 日同步遭遇血洗，外資無情提款走人並匯出，新台幣兌美元一度重貶 1.5 角，不過，出口商適逢月底擴大拋匯，央行亦介入穩匯",
+    "published_at": "2026-07-28T20:29:57+08:00",
+    "stocks": [],
+    "uid": "5cb29d0269825d97323a554982048b1b"
+  },
+  {
+    "title": "大豐電：大大寬頻規劃第3季遞件申請上市",
+    "url": "https://www.cna.com.tw/news/afe/202607280334.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者趙敏雅台北28日電）大豐電今天表示，上半年合併營收新台幣10.97億元，年增1.7%，再創同期新高。其中，子公司大大寬頻截至上半年用戶已近19萬戶，寬頻收入貢獻達4.6億元，占大豐電合併營收42%；大大寬頻今年1月登錄興櫃，目前規劃第3季遞件申請上市。",
+    "published_at": "2026-07-28T20:29:31+08:00",
+    "stocks": [],
+    "uid": "0b6fd98ac0c8a8655ca6605dc12ed027"
+  },
+  {
+    "title": "易威完成股份轉換併購健亞 正式啟動「台美整合型製藥平台」",
+    "url": "https://news.cnyes.com/news/id/6548856",
+    "source": "鉅亨網",
+    "summary": "易威 (1799-TW) 與健亞 (4130-TW) 的股份轉換合併案，經主管機關審核通過，今 (28) 日正式完成合併，健亞下櫃成為易威 100% 持股子公司，代表「台美整合型製藥平台」由規劃進入實質營運的關鍵里程碑。",
+    "published_at": "2026-07-28T20:28:37+08:00",
+    "stocks": [
+      "TWS:1799:STOCK",
+      "TWS:4130:STOCK"
+    ],
+    "uid": "41b405d014e2eb6a8e2879f7fe881232"
+  },
+  {
+    "title": "華星光自結6月獲利年增75% 上半年EPS為2.91元",
+    "url": "https://news.cnyes.com/news/id/6548812",
+    "source": "鉅亨網",
+    "summary": "華星光 (4979-TW) 近期因有價證券達公布注意交易標準，今 (28) 日依照主管機關要求公布相關訊息，以利投資人區別瞭解，華星光 6 月獲利為 6,300 萬元、年增 75%，單月 EPS 為 0.44 元。",
+    "published_at": "2026-07-28T20:27:33+08:00",
+    "stocks": [
+      "TWS:4979:STOCK"
+    ],
+    "uid": "88383effe664cc89516d21cbdd4b1166"
+  },
+  {
+    "title": "今日最夯股／光鼎量能增加、開低收漲停 逆勢走高有何題材？",
+    "url": "https://money.udn.com/money/story/5607/9656422",
+    "source": "經濟日報",
+    "summary": "股市瞬息萬變，標的五花八門，哪一檔個股是每天市場最關注的人氣指標及話題，請看經濟日報每日精選的今日最夯股。",
+    "published_at": "2026-07-28T20:26:45+08:00",
+    "stocks": [
+      "6226"
+    ],
+    "uid": "331633033b9dd9825790777f5470f6c3"
+  },
+  {
+    "title": "精測財報／第2季獲利逼近5億元、年增129% EPS 15.02元",
+    "url": "https://money.udn.com/money/story/11074/9656621",
+    "source": "經濟日報",
+    "summary": "半導體測試介面廠精測（6510）28日公布第2季財報，稅後純益達4.94億元，季增44.5%、年增129.1%，單季獲利不僅改寫新高，也首度逼近5億元；每股純益15.02元，同步創下單季新高。",
+    "published_at": "2026-07-28T20:25:24+08:00",
+    "stocks": [
+      "6510"
+    ],
+    "uid": "26527ab7954201ea27165bcdad06f323"
+  },
+  {
+    "title": "今日最夯股／台泥逆勢收高 三大法人齊買有何題材？",
+    "url": "https://money.udn.com/money/story/5607/9656484",
+    "source": "經濟日報",
+    "summary": "股市瞬息萬變，標的五花八門，哪一檔個股是每天市場最關注的人氣指標及話題，請看經濟日報每日精選的今日最夯股。",
+    "published_at": "2026-07-28T20:25:11+08:00",
+    "stocks": [
+      "1101"
+    ],
+    "uid": "96bfd7ceef9b8bdae49b21e9ec805c6d"
+  },
+  {
+    "title": "今日最夯股／建大量能大增 土洋對作是為什麼？",
+    "url": "https://money.udn.com/money/story/5607/9656610",
+    "source": "經濟日報",
+    "summary": "股市瞬息萬變，標的五花八門，哪一檔個股是每天市場最關注的人氣指標及話題，請看經濟日報每日精選的今日最夯股。",
+    "published_at": "2026-07-28T20:24:22+08:00",
+    "stocks": [
+      "2106"
+    ],
+    "uid": "7d1b33f0d0a392fd0d3f81cbf76e69d3"
+  },
+  {
+    "title": "科技巨頭資本支出持續上修！法人點名3強：散熱 網通和MLCC迎爆發期 台鏈最吃香",
+    "url": "https://news.cnyes.com/news/id/6548790",
+    "source": "鉅亨網",
+    "summary": "AI 浪潮是否過熱成為市場焦點，施羅德台灣樂活中小基金經理人柯鴻旼今 (28) 日指出，AI 並非 2000 年的網路泡沫。當時科技巨頭淨利率僅 10-15%，如今卻高達 30%，且具備強大現金流，持續上修資本支出 (Cap",
+    "published_at": "2026-07-28T20:22:50+08:00",
+    "stocks": [],
+    "uid": "b13217e91a01fa4d74a85a1f1b501ec4"
+  },
+  {
+    "title": "四貸同堂引關注　金管會：多重借款客戶比例僅低個位數",
+    "url": "https://www.cna.com.tw/news/afe/202607280333.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者蘇思云台北28日電）外界關注「四貸同堂」可能衍生信用風險。金管會表示，目前資料顯示持有多種貸款的客戶比例低，僅低個位數，評估銀行整體授信風險仍在可控範圍，金管會持續監控各銀行房貸、信貸、股票質押等成長變化與逾放比率，若異常則納入監理重點。",
+    "published_at": "2026-07-28T20:22:29+08:00",
+    "stocks": [],
+    "uid": "0c4761dad5478b8589a8835f361fe289"
+  },
+  {
+    "title": "青安3.0問答集出爐　婚育宅貸後離婚停止利息補貼",
+    "url": "https://money.udn.com/money/story/7307/9656616",
+    "source": "經濟日報總經",
+    "summary": "青年安心成家貸款3.0（青安3.0）將自115年8月1日起實施，財政部國庫署公布問答集，彙整32項常見問題，其中針對婚育...",
+    "published_at": "2026-07-28T20:22:12+08:00",
+    "stocks": [],
+    "uid": "55bd68a025739e854cf328d46b94b3ae"
+  },
+  {
+    "title": "監院糾正南聰隱匿性平事件　再彈劾前校長等2人",
+    "url": "https://money.udn.com/money/story/7307/9656612",
+    "source": "經濟日報總經",
+    "summary": "電影「無聲」事件原型的國立台南大學附屬啟聰學校，曾發生大規模性別事件並2度遭監察院糾正。監察院今天說，南聰於民國112年...",
+    "published_at": "2026-07-28T20:21:32+08:00",
+    "stocks": [],
+    "uid": "b77a53dfad612f4e009daab104990fed"
+  },
+  {
+    "title": "證交所：融資斷頭風險可控　籲投資人理性面對波動",
+    "url": "https://www.cna.com.tw/news/afe/202607280332.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者曾仁凱台北28日電）台股今天大跌2030點，收在41603點。證交所強調，截至7月27日，全市場信用交易整戶擔保維持率約175%，仍遠高於現行最低追繳擔保維持率130%，融資斷頭風險可控，呼籲投資人理性面對市場波動。",
+    "published_at": "2026-07-28T20:21:27+08:00",
+    "stocks": [],
+    "uid": "bb631ef8560f9e6b27125cdfa53c4441"
+  },
+  {
+    "title": "友達華亞廠以197億元出售予廣達 估處分利益約133.9億元",
+    "url": "https://money.udn.com/money/story/5612/9656608",
+    "source": "經濟日報股市",
+    "summary": "友達（2409）28日晚間公告，董事會決議以 197億元（未稅）處分華亞廠不動產及其相關廠務附屬設施予廣達（2382），預計處分利益約新台幣133.9億元。",
+    "published_at": "2026-07-28T20:20:07+08:00",
+    "stocks": [
+      "2409",
+      "2382"
+    ],
+    "uid": "23fabef489a2c615a97116d9d9ae030a"
+  },
+  {
+    "title": "大大寬頻受惠高毛利產品帶動 上半年獲利1.55億元EPS 2.59元",
+    "url": "https://news.cnyes.com/news/id/6548795",
+    "source": "鉅亨網",
+    "summary": "大大寬頻今 (28) 日公告上半年財報，累計今年上半年營收 4.66 億元，稅後純益 1.55 億元，年增 23.74%，每股純益 2.59 元。大大寬頻指出，在高毛利的高速率產品帶動，加上 ISP 流量成本控管得宜，獲利能力顯著提升。",
+    "published_at": "2026-07-28T20:17:51+08:00",
+    "stocks": [
+      "TWG:7901:STOCK"
+    ],
+    "uid": "67ed15b41ab752a3b37fb5a6f0115c56"
+  },
+  {
+    "title": "廣達砸197億元買友達華亞廠 AI伺服器產能再擴張",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5520882",
+    "source": "自由財經",
+    "summary": "AI伺服器需求持續升溫，代工大廠廣達（2382）持續擴充生產基地，董事會今（28）日決議以約197億元向友達（2409）取得桃園華亞科技園區土地、建物及附屬設備，交易標的...…",
+    "published_at": "2026-07-28T20:16:05+08:00",
+    "stocks": [
+      "2382",
+      "2409"
+    ],
+    "uid": "06e4bcd8c2d33ab75083e2811114866a"
+  },
+  {
+    "title": "青安3.0問答集出爐　婚育宅貸後離婚停止利息補貼",
+    "url": "https://www.cna.com.tw/news/afe/202607280327.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者呂晏慈台北28日電）青年安心成家貸款3.0（青安3.0）將自115年8月1日起實施，財政部國庫署公布問答集，彙整32項常見問題，其中針對婚育家庭貸後關係消滅，除了因配偶死亡者，若貸後借款人婚姻關係消滅，將停止超過新台幣1000萬元核貸額度的利息補貼，並由承辦銀行追回已溢領的利息補貼。",
+    "published_at": "2026-07-28T20:15:16+08:00",
+    "stocks": [],
+    "uid": "f9132a9bb0a561e3e44d6215d5a2a01f"
+  },
+  {
+    "title": "駁川普點名台灣偷走晶片產業 緯創董座：是美國自己不要的",
+    "url": "https://money.udn.com/money/story/5612/9656605",
+    "source": "經濟日報股市",
+    "summary": "財星雜誌28日刊出介紹台灣伺服器代工大廠緯創並訪問該公司董事長林憲銘的專文。對於川普經常指控台灣「偷走」美國晶片產業一事，林憲銘認為，美國在晶片設施方面的不足，是咎由自取，「是他們不要的，才不是偷，好嗎？（They threw it away. Not Stealing, okay?）」",
+    "published_at": "2026-07-28T20:14:25+08:00",
+    "stocks": [],
+    "uid": "ccfca1e5997f34b25cdc695165a32566"
+  },
+  {
+    "title": "台股擂台／「股市獲利王」何文高：超跌味道浮現 逢低伺機找買點",
+    "url": "https://money.udn.com/money/story/123397/9656589",
+    "source": "經濟日報",
+    "summary": "台股28日收盤大跌2,030點，主因包括市場擔憂中國大陸長鑫存儲大幅擴產記憶體，導致美光股價下跌，南韓三星、SK海力士也重挫，拖累韓股。",
+    "published_at": "2026-07-28T20:13:27+08:00",
+    "stocks": [
+      "5007"
+    ],
+    "uid": "f9bca2c501eab83f949597df8a014230"
+  },
+  {
+    "title": "數發部出席APEC數位及AI部長會議　盼深化區域合作",
+    "url": "https://money.udn.com/money/story/7307/9656603",
+    "source": "經濟日報總經",
+    "summary": "數發部次長侯宜秀近日率團出席在中國成都舉行的亞太經濟合作（APEC）數位及人工智慧部長會議，分享台灣經驗。侯宜秀表示，推...",
+    "published_at": "2026-07-28T20:13:05+08:00",
+    "stocks": [],
+    "uid": "2b1476c6e0915f44665db8e8d828fd22"
+  },
+  {
+    "title": "大豐電上半年EPS 1.51元 旗下大大寬頻本季遞件申請上市",
+    "url": "https://news.cnyes.com/news/id/6548793",
+    "source": "鉅亨網",
+    "summary": "大豐電今 (28) 日公告上半年財報，累計今年上半年營收 10.97 億元，再創歷史新高紀錄，稅後純益 2.3 億元，年減 12.4%，每股純益 1.51 元。大豐電指出，旗下大大寬頻規畫第三季遞件申請上市。",
+    "published_at": "2026-07-28T20:10:33+08:00",
+    "stocks": [
+      "TWS:6184:STOCK",
+      "TWG:7901:STOCK"
+    ],
+    "uid": "51370eb23110cb3286c6fc53a23c60be"
+  },
+  {
+    "title": "鉅亨速報 - Factset 最新調查：台塑化(6505-TW)目標價調升至90元，幅度約28.57%",
+    "url": "https://news.cnyes.com/news/id/6548819",
+    "source": "鉅亨網",
+    "summary": "FactSet 最新調查：台塑化(6505-TW)目標價調升，最高估值、最低估值、中位數、綜合評級、近5日股價、大盤表現、即時新聞資訊。",
+    "published_at": "2026-07-28T20:10:23+08:00",
+    "stocks": [
+      "TWS:6505:STOCK"
+    ],
+    "uid": "166ada7944bb8d054c946c1e9fc0e8e1"
+  },
+  {
+    "title": "基隆港公司東暖新村土地招商 釋2200餘坪土地引進複合式經營",
+    "url": "https://news.cnyes.com/news/id/6548752",
+    "source": "鉅亨網",
+    "summary": "基隆分公司今日宣布，推出「東暖新村北側土地招商案」，釋出該案基地位於基隆市暖暖區等 8 筆土地，總面積達約 2,207 坪，未來將引進民生零售與複合式餐飲等穩健投資，填補暖暖消費缺口。",
+    "published_at": "2026-07-28T20:09:58+08:00",
+    "stocks": [],
+    "uid": "ea62c995f58f17a181ef855aa954a397"
+  },
+  {
+    "title": "驊陞結盟Sugars 攜手拓展AI Vision應用",
+    "url": "https://news.cnyes.com/news/id/6548758",
+    "source": "鉅亨網",
+    "summary": "驊陞結盟 Sugars 攜手拓展 AI Vision 應用",
+    "published_at": "2026-07-28T20:08:58+08:00",
+    "stocks": [
+      "TWG:6272:STOCK",
+      "TWG:6272:STOCK"
+    ],
+    "uid": "7db96706cdc9d5c0980750955a7e9ca5"
+  },
+  {
+    "title": "屋頂光電新制8月1日上路　不動產建築開發公會盼給過渡期",
+    "url": "https://money.udn.com/money/story/7307/9656595",
+    "source": "經濟日報總經",
+    "summary": "大型新建物強制設置屋頂太陽光電設備預計8月1日上路。不動產建築相關公會表示，新制涉及建築結構、消防救災、產權及後續維護等...",
+    "published_at": "2026-07-28T20:07:33+08:00",
+    "stocks": [],
+    "uid": "9dcbba57b6b9fbb371e11a6f15d9136f"
+  },
+  {
+    "title": "數發部出席APEC數位及AI部長會議　盼深化區域合作",
+    "url": "https://www.cna.com.tw/news/afe/202607280324.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者趙敏雅台北28日電）數發部次長侯宜秀近日率團出席在中國成都舉行的亞太經濟合作（APEC）數位及人工智慧部長會議，分享台灣經驗。侯宜秀表示，推動數位與AI科技發展，需由各利害關係人協作共創，台灣作為國際上的可信賴夥伴，期待與APEC經濟體共同攜手，進一步深化亞太區域的數位與AI領域合作。",
+    "published_at": "2026-07-28T20:06:10+08:00",
+    "stocks": [],
+    "uid": "d0066548f206ffba33324a0118cfd575"
+  },
+  {
+    "title": "外資期貨淨空單重回8萬口 賣超875億元下狠手出脫ETF逾64萬張",
+    "url": "https://news.cnyes.com/news/id/6548753",
+    "source": "鉅亨網",
+    "summary": "台股今 (28) 日終場下挫 2,030 點，創下第三大跌點，收在 41,603 點，不僅摜破前低，也創下兩個月來新低，外資期現貨同步做空，不僅加碼期貨空單，也在現貨市場重砍 875 億元，包括主動式 ETF、指數型 ETF、高股息",
+    "published_at": "2026-07-28T20:05:57+08:00",
+    "stocks": [
+      "TWS:2409:STOCK",
+      "TWS:2610:STOCK",
+      "TWS:6116:STOCK",
+      "TWS:3481:STOCK",
+      "TWS:2618:STOCK",
+      "TWS:00405A:STOCK",
+      "TWS:0056:STOCK",
+      "TWS:00403A:STOCK",
+      "TWS:0050:STOCK",
+      "TWS:009816:STOCK",
+      "TWS:00981A:STOCK",
+      "TWS:00631L:STOCK",
+      "TWS:00991A:STOCK"
+    ],
+    "uid": "deeccaedecee0b8a7bd2a224edefeaf9"
+  },
+  {
+    "title": "易威生醫完成健亞生技整併 建構台美製藥平台 啟動國際 CDMO 成長引擎",
+    "url": "https://money.udn.com/money/story/5612/9656591",
+    "source": "經濟日報股市",
+    "summary": "易威（1799）生醫28日公告，與健亞（4130）的股份轉換合併案，業經主管機關審核正式通過。本次股份轉換以2026年7月 28日為基準日，並28日正式完成合併，健亞正式下櫃，成為易威生醫 100% 子公司，象徵「台美整合型製藥平台」由規劃布局正式邁入實質營運的關鍵里程碑。",
+    "published_at": "2026-07-28T20:04:06+08:00",
+    "stocks": [
+      "1799",
+      "4130"
+    ],
+    "uid": "0640ba8aa9762c34fd2cd95a080e04d3"
+  },
+  {
+    "title": "股災重現　4大因素匯聚釀科技股大跌",
+    "url": "https://www.cna.com.tw/news/aopl/202607280321.aspx",
+    "source": "中央社",
+    "summary": "（中央社東京28日綜合外電報導）亞洲科技股今天大跌，三星摔13%，日本記憶體製造商鎧俠（Kioxia）挫18%，台積電跌3%。賣壓來自投資人對於人工智慧（AI）投資熱潮持續性及中國帶來的競爭感到不安。",
+    "published_at": "2026-07-28T20:00:03+08:00",
+    "stocks": [
+      "2330",
+      "5007"
+    ],
+    "uid": "6f7846968c12a8c13539f8c8f7ec727e"
+  },
+  {
+    "title": "屋頂光電新制8/1上路　不動產建築開發公會盼給過渡期",
+    "url": "https://www.cna.com.tw/news/afe/202607280319.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者何秀玲台北28日電）大型新建物強制設置屋頂太陽光電設備預計8月1日上路。不動產建築相關公會表示，新制涉及建築結構、消防救災、產權及後續維護等問題，期盼政策配套完備後再實施，呼籲政府增設豁免條件及至少1年過渡期。",
+    "published_at": "2026-07-28T19:58:59+08:00",
+    "stocks": [],
+    "uid": "1cac0d0f4b450b75a98d47b4f616f946"
+  },
+  {
+    "title": "平凡薪水竟滾出1.5億資產！77歲阿嬤親曝致富秘訣",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5520789",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕靠普通薪水也能滾出驚人資產！英國一名77歲婦人靠著數十年來持續投資與節儉生活，成功累積價值約新台幣1.5億元資產。她表示，自己並非高收入族群，而是靠著長期投資、股息再投入及...…",
+    "published_at": "2026-07-28T19:56:41+08:00",
+    "stocks": [],
+    "uid": "7feb8f28ef01781f8b68c34410adf6ef"
+  },
+  {
+    "title": "顧立雄與史瓦帝尼司令相互贈勳　展現深化交流決心",
+    "url": "https://money.udn.com/money/story/7307/9656563",
+    "source": "經濟日報總經",
+    "summary": "國防部長顧立雄今天代表中華民國政府與史瓦帝尼王國國防軍司令法庫茲上將相互贈勳，表彰兩國軍事合作深厚情誼，並展現持續深化雙...",
+    "published_at": "2026-07-28T19:54:29+08:00",
+    "stocks": [],
+    "uid": "864496528e57fff26916e0753b89c858"
+  },
+  {
+    "title": "獨家》財稅人事搬風！李雅晶掌台北國稅局、翁培祐接北區國稅局",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5520867",
+    "source": "自由財經",
+    "summary": "財稅人事大搬風！據了解，行政院已核定，台北國稅局長一職由北區國稅局長李雅晶接任，北區國稅局長由中區國稅局長翁培祐調任，至於中區國稅局長則由財政部賦稅署副署長倪麗心接任。\n...…",
+    "published_at": "2026-07-28T19:54:09+08:00",
+    "stocks": [],
+    "uid": "f9c7b7bb3c5f1af6b8d8e9e1242eb9cf"
+  },
+  {
+    "title": "2030年癌症死亡率降三分之一 石崇良：將推動個別防治計畫",
+    "url": "https://money.udn.com/money/story/7307/9656561",
+    "source": "經濟日報總經",
+    "summary": "台灣美國商會（AmCham Taiwan）與美國在台協會（AIT）於28日在晶華酒店，共同舉辦2026年「台灣美國商會癌症創新論壇」。本屆論壇以「實踐健康台灣願景：以精準投資樹立癌症照護全球新標竿」為主題，匯聚政府、產業、學界與病友團體代表，共同研討如何優化癌症新藥基金的資源配置，提升創新治療可近性，並加強台灣癌症照護與國際標準接軌。",
+    "published_at": "2026-07-28T19:54:00+08:00",
+    "stocks": [],
+    "uid": "87166d773253aa3f2815f28086a0a9f3"
+  },
+  {
+    "title": "GO SURVEY白皮書揭消費新趨勢 AI顧客洞察助攻品牌行銷決策",
+    "url": "https://money.udn.com/money/story/5612/9656519",
+    "source": "經濟日報股市",
+    "summary": "HAPPY GO旗下市調顧問品牌GO SURVEY發布《預見「美」好商機－從價值重選到跨域新紅利》消費者白皮書，指出消費市場正從單一商品走向結合產品、服務與體驗的複合式消費模式。調查顯示，高達8成消費者偏好透過多元商品與服務組合解決需求，投入預算更較單一方案高出1.7倍，反映消費決策已從價格導向轉向追求整體價值。",
+    "published_at": "2026-07-28T19:51:24+08:00",
+    "stocks": [],
+    "uid": "bda662a8b34cf644bb401269e533b477"
+  },
+  {
     "title": "熊本規模7.1強震 高虹安發聲：願傷者康復、災後復原順利",
     "url": "https://money.udn.com/money/story/7307/9656552",
     "source": "經濟日報總經",
@@ -11,6 +884,27 @@
     "summary_zh": "日本熊本縣今天下午發生規模7.1強震，新竹市長高虹安第一時間表達關切，代表新竹市全體市民向熊本縣、熊本市及友好城市八代市致上慰問，強調新竹與熊本長期交流、情誼深厚，「面對災害，新竹市與大家心心相連」，祈願傷者早日康復、災後復原順利。",
     "title_en": "Gao Hongan speaks out after the 7.1-magnitude earthquake in Kumamoto: I hope the injured recover and the post-disaster recovery goes smoothly",
     "summary_en": "A 7.1-magnitude earthquake hit Kumamoto Prefecture, Japan this afternoon. Hsinchu Mayor Gao Hongan immediately expressed concern and expressed condolences to Kumamoto County, Kumamoto City and the sister city Yatsushiro City on behalf of all the citizens of Hsinchu City. He emphasized that Hsinchu and Kumamoto have long-term exchanges and deep friendship. \"In the face of disasters, Hsinchu City is connected heart to heart with everyone.\" He prayed for the speedy recovery of the injured and smooth post-disaster recovery."
+  },
+  {
+    "title": "易威整併健亞換股完成 台美整合型製藥平台正式啟動",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5520857",
+    "source": "自由財經",
+    "summary": "特殊學名藥廠易威生醫（1799）與健亞生技（4130）之股份轉換合併案，今（28）日正式完成，健亞成為易威生醫100%子公司，這象徵「台美整合型製藥平台」由規劃布局正式邁...…",
+    "published_at": "2026-07-28T19:50:28+08:00",
+    "stocks": [
+      "1799",
+      "4130"
+    ],
+    "uid": "67edfac940e5cb854c763edde45e6e87"
+  },
+  {
+    "title": "證交所澄清信用交易整戶維持率約175％ 市場風險仍在安全範圍",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5520843",
+    "source": "自由財經",
+    "summary": "證交所今日表示，信用交易之全市場擔保維持率係採整戶（融資+融券）合併計算，且涵蓋上市、上櫃標的，截至7月27日全市場之信用交易整戶擔保維持率約為175%，仍遠高於現行最低...…",
+    "published_at": "2026-07-28T19:47:51+08:00",
+    "stocks": [],
+    "uid": "652602a854e50a2c2ff82573b986f0ab"
   },
   {
     "title": "岱宇進軍無人載具　成立美國子公司盼年底前貢獻營收",
@@ -122,6 +1016,15 @@
     "summary_en": "Concerns about the AI ​​bubble triggered a sell-off in the South Korean stock market, which plunged 10.64% today, the worst in Asia. Taiwanese stocks were also seriously hurt, with a drop of 4.65%, the second worst in Asia. The Securities and Futures Bureau of the Financial Supervisory Commission said that Asian stocks were mostly volatile today. As of the 27th, the overall number of credit transactions..."
   },
   {
+    "title": "岱宇進軍無人載具　成立美國子公司盼年底前貢獻營收",
+    "url": "https://www.cna.com.tw/news/afe/202607280314.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者潘智義台北28日電）岱宇國際今天宣布跨足AI無人載具市場，已於美國成立子公司Santi Innovation，並組建具豐富產業經驗的專責團隊及完成美國在地生產基地的初步籌設。",
+    "published_at": "2026-07-28T19:38:48+08:00",
+    "stocks": [],
+    "uid": "eead78df650fa01f7d271c49c999cd8c"
+  },
+  {
     "title": "熊本規模7.1強震　氣象署：關注餘震及海嘯影響",
     "url": "https://money.udn.com/money/story/122328/9656509",
     "source": "經濟日報總經",
@@ -174,6 +1077,15 @@
     "summary_en": "Some media reported yesterday (27th) that the financing guarantee maintenance rate of the market dropped to 143%, which may trigger a large-scale financing \"dead wave\". Today (28th), the stock exchange solemnly clarified, emphasizing that the 143% reported by the outside world was due to the incomplete calculation of the entire credit transaction factor. As of closing on the 27th"
   },
   {
+    "title": "經部：熊本地震未衝擊台廠　研華台達電營運正常",
+    "url": "https://www.cna.com.tw/news/afe/202607280310.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者曾筠庭台北28日電）日本熊本今天下午發生規模7.1強震，外界關注台灣企業在當地投資是否受到衝擊。經濟部今天晚間表示，經駐福岡經濟組初步詢問在熊本投資的台灣廠商，包括研華、台達電、友懇及東京之星等業者，皆回覆人員平安，廠區營運暫無影響。",
+    "published_at": "2026-07-28T19:34:39+08:00",
+    "stocks": [],
+    "uid": "95f3299351369b0037b64a1951382ac8"
+  },
+  {
     "title": "熊本強震對台廠影響 台積電緊急疏散 經部：研華台達電等廠區未受創",
     "url": "https://news.cnyes.com/news/id/6548777",
     "source": "鉅亨網",
@@ -204,6 +1116,15 @@
     "summary_en": "After New Taipei City Mayor Hou Youyi presided over the opening ceremony of the \"105 City Road Improvement and New Road Project on the Winding Section\" today, he immediately participated in the supervision of the grassroots construction of the Linkou and Bali District Action Governance. Hou Youyi emphasized that City Highway 105 connects Provincial Highway 61, Provincial Highway 64 and National Highway No. 1, opening up the transportation links between Linkou and Bali, and is an economic artery that supports the logistics development of Taipei Port."
   },
   {
+    "title": "台股重挫　金管會：整戶擔保維持率仍有175%",
+    "url": "https://www.cna.com.tw/news/afe/202607280309.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者蘇思云台北28日電）台股受全球晶片股重挫與亞股集體下挫影響，出現恐慌性拋售賣壓，終場收41603.36點，下跌2030.83點，為歷史第3大收盤跌點。金管會表示，截至7月27日，信用交易的整戶擔保維持率為175.12%，高於券商規定的130%最低追繳門檻。",
+    "published_at": "2026-07-28T19:33:37+08:00",
+    "stocks": [],
+    "uid": "422e2f2fb6c19a5e6c44590759d36ba8"
+  },
+  {
     "title": "盧秀燕指中央有門神、有內鬼 痛批毒油「二成門檻」荒謬",
     "url": "https://money.udn.com/money/story/7307/9655921",
     "source": "經濟日報總經",
@@ -228,6 +1149,15 @@
     "summary_zh": "南非「電子旅行授權」（ETA）網站的註冊帳號頁面，將「台灣」列為「中國台灣」（Taiwan, China）。外交部今天表示，已指示我國駐南非代表處向斐方表達嚴正關切與抗議；此外，目前中華民國國人赴南非仍需申辦紙本簽證，國人申請簽證管道未受影響。",
     "title_en": "South Africa's electronic visa refers to \"Taiwan, China\" and the Ministry of Foreign Affairs solemnly protests",
     "summary_en": "The registration account page of South Africa's \"Electronic Travel Authorization\" (ETA) website lists \"Taiwan\" as \"Taiwan, China\". The Ministry of Foreign Affairs stated today that it has instructed the Chinese representative office in South Africa to express serious concerns and protests to the Fiji side; in addition, currently, citizens of the Republic of China still need to apply for paper visas when going to South Africa, and the visa application process for Chinese citizens has not been affected."
+  },
+  {
+    "title": "麥味登攜小熊維尼拚IP經濟　目標營收雙位數成長",
+    "url": "https://www.cna.com.tw/news/afe/202607280308.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者江明晏台北28日電）麥味登拚IP經濟，揚秦董事長卓靖倫表示，去年史努比聯名帶動上半年營收成長19%，今年8月將攜手小熊維尼推主題餐點、盲盒與概念店，預期帶動同店營收雙位數成長；麥味登也透過AI選址、複數加盟展店，長期目標上看2000家。",
+    "published_at": "2026-07-28T19:32:35+08:00",
+    "stocks": [],
+    "uid": "8dd2f1a708153596f6915f64857f6797"
   },
   {
     "title": "公費肺鏈疫苗8月10日升級為新型疫苗 疾管署：317萬人受惠接種1劑搞定",
@@ -440,6 +1370,24 @@
     "uid": "a83e383a4123b8801473cbb7414f8cd2"
   },
   {
+    "title": "防堵「四貸同堂」風險　金管會推跨業徵信聯防機制",
+    "url": "https://finance.ettoday.net/news/3209260",
+    "source": "ETtoday",
+    "summary": "<img alt=\"防堵「四貸同堂」風險　金管會推跨業徵信聯防機制\" src=\"https://cdn2.ettoday.net/images/4398/c4398991.jpg\" /><br /> 台股交投熱絡，投資人在券商端運用融資、不限用途擴大信用槓桿，甚至動用理財房貸，形成所謂「四貸同堂」現象，而金管會密切相關業務發展，避免當股市反轉，引發不良連鎖效應，銀行局副局長王允中今（28）日表示，目前銀行端多重借款戶僅低個位數百分比，逾放比控制在0.14～0.16%，整體風險仍屬可控，未來推動銀行與券商「跨業聯防」機制，透過兩個業別皂信用資訊交換，以管控風險。 <a href=\"https://finance.ettoday.net/news/3209260\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-07-28T19:11:00+08:00",
+    "stocks": [],
+    "uid": "b0e033cd4e74544af65cf42e52b9bc61"
+  },
+  {
+    "title": "ES-30油電客機獲適航認證  冰島航空布局綠能機隊",
+    "url": "https://www.cna.com.tw/news/aopl/202607280297.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者巫祈麟赫爾辛基28日專電）冰島航空（Icelandair）布局綠能機隊，已簽署5架油電混合動力客機ES-30採購意向書，規劃作為國內短程航線主力。這款客機原型機近日獲美國聯邦航空總署（FAA）適航認證，獲准展開試飛，預計2031年投入商業營運。",
+    "published_at": "2026-07-28T19:10:11+08:00",
+    "stocks": [],
+    "uid": "ea3ab457c1dd05cb52c05adba8ed5574"
+  },
+  {
     "title": "台股崩逾2000點！　法人示警：現在不是抄底時刻",
     "url": "https://www.mirrormedia.mg/story/20260728-185mon-190519",
     "source": "鏡週刊財經",
@@ -450,6 +1398,24 @@
       "2303"
     ],
     "uid": "c765a9ce05d54122235aac7d974dbba3"
+  },
+  {
+    "title": "兄弟姊妹特留分刪除　專家提醒未立遺囑仍可能繼承",
+    "url": "https://www.cna.com.tw/news/ahel/202607280295.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者呂晏慈台北28日電）為符合現代家庭生活形態，並尊重遺囑自由等，立法院會今天三讀修正通過民法第1223條，刪除兄弟姊妹特留分規定。專家提醒，兄弟姊妹作為第3順位法定繼承人的地位並未改變，若未留下遺囑，仍可能依法繼承遺產。",
+    "published_at": "2026-07-28T19:03:07+08:00",
+    "stocks": [],
+    "uid": "8b85db9a09af6eb5f84bd20511ca8ce4"
+  },
+  {
+    "title": "日本熊本7.1強震！台積電急疏散清點人數　經濟部曝台廠現況",
+    "url": "https://finance.ettoday.net/news/3209258",
+    "source": "ETtoday",
+    "summary": "<img alt=\"日本熊本7.1強震！台積電急疏散清點人數　經濟部曝台廠現況\" src=\"https://cdn2.ettoday.net/images/8850/c8850717.jpg\" /><br /> 日本熊本今（28日）下午發生規模7.1強震，震源深度約10公里，最大震度達7級，震後餘震持續，引發外界關注在當地投資設廠的台灣企業是否受到影響。對此，經濟部晚間表示，經初步聯繫後，熊本台廠皆回報人員平安、廠區營運暫無影響。 <a href=\"https://finance.ettoday.net/news/3209258\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-07-28T19:02:00+08:00",
+    "stocks": [],
+    "uid": "5bce049e732cab13e8b1a7f66fa54706"
   },
   {
     "title": "證交所澄清：今日違約交割互抵僅200萬元 無媒體所述大規模斷頭情事",
@@ -497,6 +1463,15 @@
     "uid": "b7283d0ac8783a08ab6c4c008df31b3b"
   },
   {
+    "title": "首爾、東京科技股領跌　亞股多收黑",
+    "url": "https://www.cna.com.tw/news/afe/202607280294.aspx",
+    "source": "中央社",
+    "summary": "（中央社香港28日綜合外電報導）中國半導體產業取得突破的消息加深市場對於人工智慧（AI）熱潮能否持久的疑慮。在科技股重挫下，亞洲主要股市今天再度遭遇賣壓，韓國股市暴跌近11%。",
+    "published_at": "2026-07-28T18:58:05+08:00",
+    "stocks": [],
+    "uid": "afc55aecf0b7f4a0044c350eb5f53879"
+  },
+  {
     "title": "旺宏：eMMC漲價估延續到第4季　追加158億元擴產",
     "url": "https://money.udn.com/money/story/5612/9656433",
     "source": "經濟日報股市",
@@ -519,6 +1494,15 @@
     "uid": "a98f5d49386daec200f06631e7fd7c4a"
   },
   {
+    "title": "比亞迪推首款輕型電動車RACCO　搶攻日企輕型車堡壘",
+    "url": "https://www.cna.com.tw/news/afe/202607280291.aspx",
+    "source": "中央社",
+    "summary": "（中央社東京28日綜合外電報導）中國最大電動車廠比亞迪今天發表輕型電動車（EV）RACCO，正式進軍日本輕型車（K-Car）市場。這是比亞迪首度為日本市場量身開發的車型，外國車廠在日本販售輕型車極為罕見。",
+    "published_at": "2026-07-28T18:51:58+08:00",
+    "stocks": [],
+    "uid": "9d15a7493294860c2a2de2aedf6eb33e"
+  },
+  {
     "title": "智原Q3營收估季減個位數 高階封裝專案遞延至明年",
     "url": "https://news.cnyes.com/news/id/6548741",
     "source": "鉅亨網",
@@ -528,6 +1512,15 @@
       "TWS:3035:STOCK"
     ],
     "uid": "1ef597a7ba05237166280003bffcbfbb"
+  },
+  {
+    "title": "花蓮港20號橋功成身退　管制站平台將改做觀光賞景新據點",
+    "url": "https://finance.ettoday.net/news/3209247",
+    "source": "ETtoday",
+    "summary": "<img alt=\"花蓮港20號橋功成身退　管制站平台將改做觀光賞景新據點\" src=\"https://cdn2.ettoday.net/images/8850/c8850712.jpg\" /><br /> 台灣港務公司花蓮港務分公司於今年5月辦理花蓮港20號橋拆除工程，整體工程預計於115年9月15日前竣工，原20號管制站平台將無償提供花蓮縣政府觀光處規劃使用，未來可結合兩潭自行車道及周邊遊憩資源，規劃觀海休憩空間，提供自行車旅客及遊客停留賞景的新據點。 <a href=\"https://finance.ettoday.net/news/3209247\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-07-28T18:50:00+08:00",
+    "stocks": [],
+    "uid": "48d8092ffd0982e7afaf87a370e742f7"
   },
   {
     "title": "數發部APEC分享臺灣數位治理經驗 推動AI與開放資料合作",
@@ -650,6 +1643,15 @@
     "published_at": "2026-07-28T18:32:45+08:00",
     "stocks": [],
     "uid": "f07f34fd76921ec5865ab1791811aca7"
+  },
+  {
+    "title": "去槓桿的正二手術 何時停？",
+    "url": "https://money.udn.com/money/story/5607/9656404",
+    "source": "經濟日報",
+    "summary": "今天台股單日大崩跌2030點，史上第三大跌點，還跌破4萬2大關，這波歷史級別的下殺讓許多投資人感到極度恐慌。但我必須提醒大家，跌破4萬2可能只是市場去槓桿的剛開始。隨著大盤崩跌，目前已有券商發出融資追繳令的提醒，明確指出若大盤點位再下修約400點，大約來到41250點附近，將會觸發大量的融資追繳與斷頭潮。",
+    "published_at": "2026-07-28T18:32:45+08:00",
+    "stocks": [],
+    "uid": "21384d1d5633dd3fed4d13d81d1be707"
   },
   {
     "title": "森崴能源短借未清償 遭永豐銀聲請支付命令",
@@ -3207,6 +4209,24 @@
     "summary_en": "Chen Shuangcheng, the preserver of Yilan County's traditional crafts \"Bamboo and Rattan Craft - Atayal Traditional Men's Craft\" and \"Fiber Craft - Atayal Traditional Men's Craft\", passed away on the 21st at the age of 91"
   },
   {
+    "title": "記憶體成三大法人獵殺目標！「這3檔」慘被大砍5.7萬張亮綠燈　旺宏連挨4刀又被抱回10億元",
+    "url": "https://tw.stock.yahoo.com/news/%E8%A8%98%E6%86%B6%E9%AB%94%E6%88%90%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E7%8D%B5%E6%AE%BA%E7%9B%AE%E6%A8%99-%E9%80%993%E6%AA%94-%E6%85%98%E8%A2%AB%E5%A4%A7%E7%A0%8D5-7%E8%90%AC%E5%BC%B5%E4%BA%AE%E7%B6%A0%E7%87%88-%E6%97%BA%E5%AE%8F%E9%80%A3%E6%8C%A84%E5%88%80%E5%8F%88%E8%A2%AB%E6%8A%B1%E5%9B%9E10%E5%84%84%E5%85%83-133000832.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]記者王凱暄／綜合報導台股加權指數今（28）日開低走低，重挫2030.83點，刷新台股史上第3大跌點，終場收41603.36點，跌幅4.65%，成交金額達8110.5...",
+    "published_at": "2026-07-28T13:30:00+08:00",
+    "stocks": [],
+    "uid": "0af9bd74d68d7309098cc4033f534b5b"
+  },
+  {
+    "title": "記憶體財報炸裂》明年DRAM缺貨成定局　威剛首度半年配18元",
+    "url": "https://tw.news.yahoo.com/%E8%A8%98%E6%86%B6%E9%AB%94%E8%B2%A1%E5%A0%B1%E7%82%B8%E8%A3%82-%E6%98%8E%E5%B9%B4dram%E7%BC%BA%E8%B2%A8%E6%88%90%E5%AE%9A%E5%B1%80-%E5%A8%81%E5%89%9B%E9%A6%96%E5%BA%A6%E5%8D%8A%E5%B9%B4%E9%85%8D18%E5%85%83-132611220.html",
+    "source": "Yahoo股市",
+    "summary": "威剛董事長陳立白語出驚人表示，三大DRAM原廠2027年產能早已售罄、缺貨幾乎成定局，買方未來恐沒有議價空間，只能想辦法搶貨。看好後市需求，威剛第二季獲利首次突破百億元，董事會同步拍板首度改採半年配息，每股擬配發現金股利18元。 陳立白表示…",
+    "published_at": "2026-07-28T13:26:11+08:00",
+    "stocks": [],
+    "uid": "fccdef3b01663341dac4a1f0767cca5c"
+  },
+  {
     "title": "日本台灣形象展3天 促成逾50億元新台幣商機",
     "url": "https://ec.ltn.com.tw/article/breakingnews/5520175",
     "source": "自由財經",
@@ -3304,6 +4324,15 @@
     "uid": "43f5d407551380c4d333824bf2c82e4b"
   },
   {
+    "title": "熊本爆發7.1強震重創交通　陸空運輸全面中斷多處設施受損",
+    "url": "https://tw.news.yahoo.com/%E7%86%8A%E6%9C%AC%E7%88%86%E7%99%BC7-1%E5%BC%B7%E9%9C%87%E9%87%8D%E5%89%B5%E4%BA%A4%E9%80%9A-%E9%99%B8%E7%A9%BA%E9%81%8B%E8%BC%B8%E5%85%A8%E9%9D%A2%E4%B8%AD%E6%96%B7%E5%A4%9A%E8%99%95%E8%A8%AD%E6%96%BD%E5%8F%97%E6%90%8D-131800510.html",
+    "source": "Yahoo股市",
+    "summary": "【緯來新聞網】日本熊本縣於下午4時27分發生規模7.1強震，最高震度達7級，強烈搖晃導致九州地區陸空",
+    "published_at": "2026-07-28T13:18:00+08:00",
+    "stocks": [],
+    "uid": "bdeaeb9b19cedd8d0d472d2696e0ce68"
+  },
+  {
     "title": "〈焦點股〉台泥正式啟動歐洲上市計畫 逆勢抗跌站回半年線",
     "url": "https://news.cnyes.com/news/id/6548057",
     "source": "鉅亨網",
@@ -3313,6 +4342,26 @@
       "TWS:1101:STOCK"
     ],
     "uid": "a90732ada2f7517d98d21962ecb8a350"
+  },
+  {
+    "title": "奪下美國大單！「這檔IC封測廠」宣布增加資本支出20億元助力小金雞擴產　股價卻跌破200元大關",
+    "url": "https://tw.stock.yahoo.com/news/%E5%A5%AA%E4%B8%8B%E7%BE%8E%E5%9C%8B%E5%A4%A7%E5%96%AE-%E9%80%99%E6%AA%94ic%E5%B0%81%E6%B8%AC%E5%BB%A0-%E5%AE%A3%E5%B8%83%E5%A2%9E%E5%8A%A0%E8%B3%87%E6%9C%AC%E6%94%AF%E5%87%BA20%E5%84%84%E5%85%83%E5%8A%A9%E5%8A%9B%E5%B0%8F%E9%87%91%E9%9B%9E%E6%93%B4%E7%94%A2-%E8%82%A1%E5%83%B9%E5%8D%BB%E8%B7%8C%E7%A0%B4200%E5%85%83%E5%A4%A7%E9%97%9C-131500892.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]記者何亞軒／綜合報導IC封測廠矽格（6257）昨（27）日發布重訊，其子公司矽格聯測公司奪下了美國大單，董事會通過新台幣20億資本支出追加案，此...",
+    "published_at": "2026-07-28T13:15:00+08:00",
+    "stocks": [
+      "6257"
+    ],
+    "uid": "ed3ec16be73eca4a60f6b781f8289a9d"
+  },
+  {
+    "title": "瞄準星鏈！亞馬遜打造Leo網絡　申請發射5105顆衛星",
+    "url": "https://tw.news.yahoo.com/%E7%9E%84%E6%BA%96%E6%98%9F%E9%8F%88-%E4%BA%9E%E9%A6%AC%E9%81%9C%E6%89%93%E9%80%A0leo%E7%B6%B2%E7%B5%A1-%E7%94%B3%E8%AB%8B%E7%99%BC%E5%B0%845105%E9%A1%86%E8%A1%9B%E6%98%9F-131500051.html",
+    "source": "Yahoo股市",
+    "summary": "全球首富馬斯克（Elon Musk）旗下SpaceX的「星鏈」（Starlink）系統，稱霸低軌衛星網絡，但如今面臨新的強力挑戰！電商巨頭亞馬遜（Amazon）27日證實，已向美國聯邦通信委員會（FCC）提出申請，希望獲批准發射最多5105顆衛星。亞馬遜預計2028年展開部署，搶攻手機直連通訊商機。",
+    "published_at": "2026-07-28T13:15:00+08:00",
+    "stocks": [],
+    "uid": "450820f2ffe13046f163e7387e423aa4"
   },
   {
     "title": "漢光42號演習強化反封鎖　西太平洋演練物資接轉、護航",
@@ -3378,6 +4427,15 @@
     "uid": "a97b978541a65a70376732f93e0ce934"
   },
   {
+    "title": "IP萌經濟超有效  麥味登再推小熊維尼今年門市挑戰再增百家",
+    "url": "https://tw.news.yahoo.com/ip%E8%90%8C%E7%B6%93%E6%BF%9F%E8%B6%85%E6%9C%89%E6%95%88-%E9%BA%A5%E5%91%B3%E7%99%BB%E5%86%8D%E6%8E%A8%E5%B0%8F%E7%86%8A%E7%B6%AD%E5%B0%BC%E4%BB%8A%E5%B9%B4%E9%96%80%E5%B8%82%E6%8C%91%E6%88%B0%E5%86%8D%E5%A2%9E%E7%99%BE%E5%AE%B6-131100830.html",
+    "source": "Yahoo股市",
+    "summary": "揚秦國際旗下早午餐品牌麥味登，全台店數已達1,033家，為目前台灣早餐連鎖品牌店數第二，因為規模經濟加持，去年與史努比的IP合作，聯名效益帶動去年上半年整體營收增長19%，這次則推出迪士尼的經典IP「小熊維尼」，目標也是帶動雙位數業績成長。",
+    "published_at": "2026-07-28T13:11:00+08:00",
+    "stocks": [],
+    "uid": "ba1fd9b3675e92a8c90706892487fe52"
+  },
+  {
     "title": "韓股重挫黑色星期二，中國長鑫存儲上市增市場憂慮",
     "url": "https://finance.technews.tw/2026/07/28/black-tuesday-for-korean-stocks-as-cxmt-listing-fuels-market-concerns/",
     "source": "財經新報",
@@ -3394,6 +4452,15 @@
     "published_at": "2026-07-28T13:10:12+08:00",
     "stocks": [],
     "uid": "d73fd7021ae0dbceef78ff9b6bfed086"
+  },
+  {
+    "title": "上銀：義大利子公司遭駭客網路攻擊　營運無重大影響",
+    "url": "https://tw.news.yahoo.com/%E4%B8%8A%E9%8A%80-%E7%BE%A9%E5%A4%A7%E5%88%A9%E5%AD%90%E5%85%AC%E5%8F%B8%E9%81%AD%E9%A7%AD%E5%AE%A2%E7%B6%B2%E8%B7%AF%E6%94%BB%E6%93%8A-%E7%87%9F%E9%81%8B%E7%84%A1%E9%87%8D%E5%A4%A7%E5%BD%B1%E9%9F%BF-130349143.html",
+    "source": "Yahoo股市",
+    "summary": "（中央社記者鍾榮峰台北28日電）傳動元件大廠上銀晚間公告，子公司義大利上銀公司部分資訊系統遭受駭客網路攻擊，已立即啟動資安防禦與通報機制，完成相關安全漏洞修復後，將持續強化網路與資訊基礎架構安全防護機制及管理措施，確保資訊系統穩定運作及資訊安全。",
+    "published_at": "2026-07-28T13:03:49+08:00",
+    "stocks": [],
+    "uid": "1640a9b9304fc27f8529076e6aca1514"
   },
   {
     "title": "台灣入列！川普鎖定301調查名單 美貿易代表：恐祭額外關稅",
@@ -3423,6 +4490,78 @@
     "uid": "ac877b9d96cdaf88249f62e5bdfee5f0"
   },
   {
+    "title": "AI平台接力量產！這「散熱大廠」AWS、Google、AMD大單齊發　下半年營收拚季季高",
+    "url": "https://tw.stock.yahoo.com/news/ai%E5%B9%B3%E5%8F%B0%E6%8E%A5%E5%8A%9B%E9%87%8F%E7%94%A2-%E9%80%99-%E6%95%A3%E7%86%B1%E5%A4%A7%E5%BB%A0-aws-google-130000463.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]記者周雅琦／綜合報導散熱大廠奇鋐（3017）受惠AI伺服器與ASIC平台需求持續升溫，雖然第二季營收略低於市場預期，但在水冷產品良率改善帶動下，...",
+    "published_at": "2026-07-28T13:00:00+08:00",
+    "stocks": [
+      "3017"
+    ],
+    "uid": "91d3f77e5bcbb08d0ffd635fadc55581"
+  },
+  {
+    "title": "〈社論〉全民瘋股，不能建立在借來的明天！",
+    "url": "https://tw.news.yahoo.com/%E7%A4%BE%E8%AB%96-%E5%85%A8%E6%B0%91%E7%98%8B%E8%82%A1-%E4%B8%8D%E8%83%BD%E5%BB%BA%E7%AB%8B%E5%9C%A8%E5%80%9F%E4%BE%86%E7%9A%84%E6%98%8E%E5%A4%A9-125807479.html",
+    "source": "Yahoo股市",
+    "summary": "今年以來台股不斷創下歷史新高，街頭巷尾高談哪一檔股票漲停、哪一檔ＡＩ股再創新高；證券…",
+    "published_at": "2026-07-28T12:58:07+08:00",
+    "stocks": [],
+    "uid": "a2746cf25ba08d374c563a27d89542ea"
+  },
+  {
+    "title": "獨家／四大熱門股解盤！國巨、聯電觀望 群創、南亞科可砍",
+    "url": "https://tw.news.yahoo.com/%E7%8D%A8%E5%AE%B6-%E5%9B%9B%E5%A4%A7%E7%86%B1%E9%96%80%E8%82%A1%E8%A7%A3%E7%9B%A4-%E5%9C%8B%E5%B7%A8-%E8%81%AF%E9%9B%BB%E8%A7%80%E6%9C%9B-%E7%BE%A4%E5%89%B5-125800407.html",
+    "source": "Yahoo股市",
+    "summary": "獨家／四大熱門股解盤！國巨、聯電觀望 群創、南亞科可砍",
+    "published_at": "2026-07-28T12:58:00+08:00",
+    "stocks": [
+      "2303",
+      "3481"
+    ],
+    "uid": "9be7c149768e04929640e2eef323195e"
+  },
+  {
+    "title": "青安3.0 8/1起受理 撥貸前婚育家庭喪失資格貸款額度少一半",
+    "url": "https://tw.news.yahoo.com/%E9%9D%92%E5%AE%893-0-8-1%E8%B5%B7%E5%8F%97%E7%90%86-%E6%92%A5%E8%B2%B8%E5%89%8D%E5%A9%9A%E8%82%B2%E5%AE%B6%E5%BA%AD%E5%96%AA%E5%A4%B1%E8%B3%87%E6%A0%BC%E8%B2%B8%E6%AC%BE%E9%A1%8D%E5%BA%A6%E5%B0%91-125637188.html",
+    "source": "Yahoo股市",
+    "summary": "財政部今（28）日表示，行政院已同意青安貸款3.0自今年8月1日起受理申貸，財政部正式公告「問答集」給予個案釋疑，其中，婚育家庭原本貸款額度加碼到1500萬元，雖然申貸時符合資格，但撥貸款已離婚，或未成年子女已成年，則額度瞬間降為1000萬元。",
+    "published_at": "2026-07-28T12:56:37+08:00",
+    "stocks": [],
+    "uid": "6dfd32e10bbaa63b04344a2cdc7de47c"
+  },
+  {
+    "title": "快訊》9億頭獎在等誰？ 大樂透最新獎號出爐快來對",
+    "url": "https://tw.stock.yahoo.com/news/%E5%BF%AB%E8%A8%8A-9%E5%84%84%E9%A0%AD%E7%8D%8E%E5%9C%A8%E7%AD%89%E8%AA%B0-%E5%A4%A7%E6%A8%82%E9%80%8F%E6%9C%80%E6%96%B0%E7%8D%8E%E8%99%9F%E5%87%BA%E7%88%90%E5%BF%AB%E4%BE%86%E5%B0%8D-125548857.html",
+    "source": "Yahoo股市",
+    "summary": "財神爺的大紅包究竟何時會送出呢？大樂透已經連續22期沒有頭獎得主出現，台彩表示，本期（7／28）頭獎累積獎金已經狂飆至9億元，若是由1人獨得，將是第五屆大樂透開辦以來的最高頭獎總獎金。由於大樂透獎金不斷攀高，近期不少彩迷也不斷「加碼」，上期（7／24）貳獎就一口氣開出了3注，各得獎金202萬5515元，參獎甚至開出驚人的125注，各得獎金5萬2351元。相信不少民眾都想要把握這個一夕翻身的機會，最新獎號已經開出，快點來看看！",
+    "published_at": "2026-07-28T12:55:48+08:00",
+    "stocks": [],
+    "uid": "3e5415eb671ebdb2d2fc9a36d280d8e1"
+  },
+  {
+    "title": "力成砸 4 億美元攜博通進軍光通訊　CPO 交換器拚明年下半年出貨",
+    "url": "https://tw.news.yahoo.com/%E5%8A%9B%E6%88%90%E7%A0%B8-4-%E5%84%84%E7%BE%8E%E5%85%83%E6%94%9C%E5%8D%9A%E9%80%9A%E9%80%B2%E8%BB%8D%E5%85%89%E9%80%9A%E8%A8%8A-cpo-%E4%BA%A4%E6%8F%9B%E5%99%A8%E6%8B%9A%E6%98%8E%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E5%87%BA%E8%B2%A8-125500599.html",
+    "source": "Yahoo股市",
+    "summary": "【緯來新聞網】力成（6239）28 日在法說會上公布最新事業布局，宣布將投資 4 億美元與 Broa",
+    "published_at": "2026-07-28T12:55:00+08:00",
+    "stocks": [
+      "6239"
+    ],
+    "uid": "e505c46a9f3a241c75f56d2a26352275"
+  },
+  {
+    "title": "熊本7.1地震衝擊台積？　法人評估報告曝",
+    "url": "https://tw.news.yahoo.com/%E7%86%8A%E6%9C%AC7-1%E5%9C%B0%E9%9C%87%E8%A1%9D%E6%93%8A%E5%8F%B0%E7%A9%8D-%E6%B3%95%E4%BA%BA%E8%A9%95%E4%BC%B0%E5%A0%B1%E5%91%8A%E6%9B%9D-125500527.html",
+    "source": "Yahoo股市",
+    "summary": "日本熊本縣發生7.1級強震，台積電（2330）熊本合資廠JASM受震動影響，目前雖正清點狀況，但法人評估對台積電整體營運影響低於1%。由於該廠主要生產車用及工控晶片，市場關注停工對供應鏈衝擊，但據分析，JASM目前對台積電獲利貢獻有限，2026年首季佔比僅約0.12%。台積電廠區抗震規格完善，預期此次地震對整體擴產計畫影響有限，後續營運展望仍持穩健態度，待最終財損評估出爐後，將進一步確認製程及庫存損失程度。",
+    "published_at": "2026-07-28T12:55:00+08:00",
+    "stocks": [
+      "2330"
+    ],
+    "uid": "644a03bda55f339520abc47cace5f9b6"
+  },
+  {
     "title": "還原食安會議發言 陳其邁：當天討論修法不是爭是非",
     "url": "https://money.udn.com/money/story/7307/9655544",
     "source": "經濟日報總經",
@@ -3430,6 +4569,24 @@
     "published_at": "2026-07-28T12:54:31+08:00",
     "stocks": [],
     "uid": "9f56ad4dd62580df9d5b47064731e945"
+  },
+  {
+    "title": "快訊／大樂透7/28中獎號碼出爐！頭獎飆9億　如何兌獎一次看",
+    "url": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E5%A4%A7%E6%A8%82%E9%80%8F7-28%E4%B8%AD%E7%8D%8E%E8%99%9F%E7%A2%BC%E5%87%BA%E7%88%90-%E9%A0%AD%E7%8D%8E%E9%A3%869%E5%84%84-%E5%A6%82%E4%BD%95%E5%85%8C%E7%8D%8E-125400766.html",
+    "source": "Yahoo股市",
+    "summary": "大樂透於每周二、五晚上8時30分開出當期獎號。本期開獎號碼、頭獎金額與獎金分配、玩法規則、即時直播與中獎查詢連結，每週更新不中斷。（實際公告與中獎獎號以台彩公布為準）",
+    "published_at": "2026-07-28T12:54:00+08:00",
+    "stocks": [],
+    "uid": "57e88f341d2dd54426c24e634a105f57"
+  },
+  {
+    "title": "金管會：7銀行申請內部評等法過關　今年第4季適用",
+    "url": "https://tw.news.yahoo.com/%E9%87%91%E7%AE%A1%E6%9C%83-7%E9%8A%80%E8%A1%8C%E7%94%B3%E8%AB%8B%E5%85%A7%E9%83%A8%E8%A9%95%E7%AD%89%E6%B3%95%E9%81%8E%E9%97%9C-%E4%BB%8A%E5%B9%B4%E7%AC%AC4%E5%AD%A3%E9%81%A9%E7%94%A8-125344307.html",
+    "source": "Yahoo股市",
+    "summary": "（中央社記者蘇思云台北28日電）金管會今天宣布，首批7家銀行申請採用信用風險內部評等法（IRB法），全數獲准，自今年第4季開始適用，預計業者資本適足率（BIS）可從15.75%增至16.09%，平均增加0.34個百分點。外界預期，適用IRB法的銀行，有望提升業務與未來配息動能。",
+    "published_at": "2026-07-28T12:53:44+08:00",
+    "stocks": [],
+    "uid": "d33fa5e977f2a843661f857cd9436c93"
   },
   {
     "title": "新竹喜來登8月8日「小人物 夏日派對」換小朋友當家做頭家",
@@ -3450,6 +4607,26 @@
     "uid": "dfaeee4531678b4ee5531bbd4741e59c"
   },
   {
+    "title": "寶雅（5904）超強財報！明最後交易日 新股8/10股價變十分之一",
+    "url": "https://tw.news.yahoo.com/%E5%AF%B6%E9%9B%85-5904-%E8%B6%85%E5%BC%B7%E8%B2%A1%E5%A0%B1-%E6%98%8E%E6%9C%80%E5%BE%8C%E4%BA%A4%E6%98%93%E6%97%A5-%E6%96%B0%E8%82%A18-125200411.html",
+    "source": "Yahoo股市",
+    "summary": "寶雅（5904）超強財報！明最後交易日 新股8/10股價變十分之一",
+    "published_at": "2026-07-28T12:52:00+08:00",
+    "stocks": [
+      "5904"
+    ],
+    "uid": "945bb4154b2b54448a464ff60e8bfc28"
+  },
+  {
+    "title": "8/1起受理！青安3.0問答集出爐  房屋總價這樣認定",
+    "url": "https://tw.news.yahoo.com/8-1%E8%B5%B7%E5%8F%97%E7%90%86-%E9%9D%92%E5%AE%893-0%E5%95%8F%E7%AD%94%E9%9B%86%E5%87%BA%E7%88%90-%E6%88%BF%E5%B1%8B%E7%B8%BD%E5%83%B9%E9%80%99%E6%A8%A3%E8%AA%8D%E5%AE%9A-125109137.html",
+    "source": "Yahoo股市",
+    "summary": "青安3.0自8月1日起實施，財政部國庫署網站設置「青安貸款專區」，包括貸款原則及民眾關切問題問答集，並提供公股銀行聯絡窗口服務電話。由於青安3.0有房屋總價限制，財政部表示，房屋總價的申貸限制，審核方式以銀行鑑價或買賣總價二者取孰高，超過限額不得申辦青安3.0。",
+    "published_at": "2026-07-28T12:51:09+08:00",
+    "stocks": [],
+    "uid": "bc1b20afb08678780443fd4e1f179744"
+  },
+  {
     "title": "台股崩跌 還活著的族群有誰？航空股逆勢高飛",
     "url": "https://money.udn.com/money/story/5607/9655538",
     "source": "經濟日報",
@@ -3462,6 +4639,17 @@
       "2646"
     ],
     "uid": "3d0d1d33e9cd36982e3ffb61be2a8b62"
+  },
+  {
+    "title": "日本熊本強震 華航宣布免費運賑災物資 退票改班免手續費",
+    "url": "https://tw.stock.yahoo.com/news/%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E5%BC%B7%E9%9C%87-%E8%8F%AF%E8%88%AA%E5%AE%A3%E5%B8%83%E5%85%8D%E8%B2%BB%E9%81%8B%E8%B3%91%E7%81%BD%E7%89%A9%E8%B3%87-%E9%80%80%E7%A5%A8%E6%94%B9%E7%8F%AD%E5%85%8D%E6%89%8B%E7%BA%8C%E8%B2%BB-125050726.html",
+    "source": "Yahoo股市",
+    "summary": "日本九州熊本縣今（28）日下午4時27分許發生規模7.1強烈地震，震源深度極淺且劇烈搖晃。華航（2610）晚間宣布，往返熊本機票訂位更改至福岡或鹿兒島14天內的航班或退票將免收手續費，同時宣布提供航空運輸資源，將免費載運賑災物資至8月底，將台灣的關懷與愛心送達災區，協助當地重建需求。",
+    "published_at": "2026-07-28T12:50:50+08:00",
+    "stocks": [
+      "2610"
+    ],
+    "uid": "d40aff65dcf9cfa499a7f1d534f326c1"
   },
   {
     "title": "川普批 Fed 理事扯後腿  喊「利率應降到世界最低」",
@@ -3482,6 +4670,17 @@
       "TWS:0050:STOCK"
     ],
     "uid": "2186eacde112c331fd66ae6a76a31d96"
+  },
+  {
+    "title": "力成拚 2027 年中量產 FOPLP　董座蔡篤恭：目標要當全球第一家",
+    "url": "https://tw.news.yahoo.com/%E5%8A%9B%E6%88%90%E6%8B%9A-2027-%E5%B9%B4%E4%B8%AD%E9%87%8F%E7%94%A2-foplp-%E8%91%A3%E5%BA%A7%E8%94%A1%E7%AF%A4%E6%81%AD-124900570.html",
+    "source": "Yahoo股市",
+    "summary": "【緯來新聞網】力成（6239）董事長蔡篤恭 28 日在法說會上主動就外界對 FOPLP（面板級扇出封",
+    "published_at": "2026-07-28T12:49:00+08:00",
+    "stocks": [
+      "6239"
+    ],
+    "uid": "ee3e3da0fca905394fc62c6f3a30602f"
   },
   {
     "title": "技鋼科技推出首波 AMD EPYC 9006 伺服器 11月量產出貨",
@@ -3532,6 +4731,15 @@
       "TWS:2308:STOCK"
     ],
     "uid": "c3ac1288f0a8c622e11a2a0861998dc3"
+  },
+  {
+    "title": "日本熊本強震！「AEON MALL永旺」爆炸倒塌　警方證實：多人死亡",
+    "url": "https://tw.news.yahoo.com/%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E5%BC%B7%E9%9C%87-aeon-mall%E6%B0%B8%E6%97%BA-%E7%88%86%E7%82%B8%E5%80%92%E5%A1%8C-%E8%AD%A6%E6%96%B9%E8%AD%89%E5%AF%A6-124600893.html",
+    "source": "Yahoo股市",
+    "summary": "【緯來新聞網】日本熊本縣今（28日）下午發生規模6.8強烈地震，最大震度達7級，強震不僅造成多處房屋",
+    "published_at": "2026-07-28T12:46:00+08:00",
+    "stocks": [],
+    "uid": "cd498b9a30bac3be0db325da5150655e"
   },
   {
     "title": "〈焦點股〉美伊交火暫緩油價回檔 南亞、台苯跌停 塑化股重摔",
@@ -3636,6 +4844,57 @@
     "uid": "16e52c90c0d75c847bddefe4d8cb62e2"
   },
   {
+    "title": "不畏跌停　力成 Q2 營收 231 億創三年新高、毛利率看增",
+    "url": "https://tw.news.yahoo.com/%E4%B8%8D%E7%95%8F%E8%B7%8C%E5%81%9C-%E5%8A%9B%E6%88%90-q2-%E7%87%9F%E6%94%B6-231-123700981.html",
+    "source": "Yahoo股市",
+    "summary": "【緯來新聞網】封測大廠力成（6239）今（28）日舉行法說會，公布第二季合併營收為 231.16 億",
+    "published_at": "2026-07-28T12:37:00+08:00",
+    "stocks": [
+      "6239"
+    ],
+    "uid": "18d9bda48a6fda591a025ee41f60557d"
+  },
+  {
+    "title": "熊本地震導致多家航班轉降    經濟部幫「這些台廠」報平安",
+    "url": "https://tw.news.yahoo.com/%E7%86%8A%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%B0%8E%E8%87%B4%E5%A4%9A%E5%AE%B6%E8%88%AA%E7%8F%AD%E8%BD%89%E9%99%8D-%E7%B6%93%E6%BF%9F%E9%83%A8%E5%B9%AB-%E9%80%99%E4%BA%9B%E5%8F%B0%E5%BB%A0-%E5%A0%B1%E5%B9%B3%E5%AE%89-123600953.html",
+    "source": "Yahoo股市",
+    "summary": "日本熊本縣今（28）日下午發生規模7.1強震，震央位於熊本縣熊本地方，造成當地多處建築嚴重受損，熊本阿蘇機場暫時關閉跑道進行巡檢，台灣虎航、中華航空及星宇航空等出現大規模延飛與轉降狀況，經濟部也馬上幫台廠報平安。",
+    "published_at": "2026-07-28T12:36:00+08:00",
+    "stocks": [],
+    "uid": "bf5bbb7c57fc8e269d64d078ceb324ca"
+  },
+  {
+    "title": "連賣4天還不夠！台積電再被外資提款335億元、失守2300元大關　「這記體體指標」也被脫手1.8萬張",
+    "url": "https://tw.stock.yahoo.com/news/%E9%80%A3%E8%B3%A34%E5%A4%A9%E9%82%84%E4%B8%8D%E5%A4%A0-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%86%8D%E8%A2%AB%E5%A4%96%E8%B3%87%E6%8F%90%E6%AC%BE335%E5%84%84%E5%85%83-%E5%A4%B1%E5%AE%882300%E5%85%83%E5%A4%A7%E9%97%9C-%E9%80%99%E8%A8%98%E9%AB%94%E9%AB%94%E6%8C%87%E6%A8%99-%E4%B9%9F%E8%A2%AB%E8%84%AB%E6%89%8B1-123600457.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]記者王凱暄／綜合報導台股加權指數今（28）日開低走低，重挫2030.83點，刷新台股史上第3大跌點，終場收41603.36點，跌幅4.65%，成交金額達8110.5...",
+    "published_at": "2026-07-28T12:36:00+08:00",
+    "stocks": [
+      "2330"
+    ],
+    "uid": "32bf509034cd0c2f921b582028e3c004"
+  },
+  {
+    "title": "Fed政策會議前夕施壓！川普放話：美國利率應世界最低",
+    "url": "https://tw.news.yahoo.com/fed%E6%94%BF%E7%AD%96%E6%9C%83%E8%AD%B0%E5%89%8D%E5%A4%95%E6%96%BD%E5%A3%93-%E5%B7%9D%E6%99%AE%E6%94%BE%E8%A9%B1-%E7%BE%8E%E5%9C%8B%E5%88%A9%E7%8E%87%E6%87%89%E4%B8%96%E7%95%8C%E6%9C%80%E4%BD%8E-123500770.html",
+    "source": "Yahoo股市",
+    "summary": "聯準會（Fed）利率決策會議前夕，美國總統川普（Donald Trump）再度公開喊話，要求美國利率降至全球最低水準。他同時力挺自己提拔的聯準會新主席華許（Kevin Warsh），並質疑部分官員拒絕降息背後「別有意圖」，此番言論再度凸顯他政治干預貨幣政策獨立性的意圖。",
+    "published_at": "2026-07-28T12:35:00+08:00",
+    "stocks": [],
+    "uid": "7cb345541b8ee9963bbdb7fbc08227ce"
+  },
+  {
+    "title": "台股重挫創史上第三慘！陳重銘揭「暴跌真相」 反彈先觀察3大關鍵訊號",
+    "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E9%87%8D%E6%8C%AB%E5%89%B5%E5%8F%B2%E4%B8%8A%E7%AC%AC%E4%B8%89%E6%85%98-%E9%99%B3%E9%87%8D%E9%8A%98%E6%8F%AD-%E6%9A%B4%E8%B7%8C%E7%9C%9F%E7%9B%B8-%E5%8F%8D%E5%BD%88%E5%85%88%E8%A7%80%E5%AF%9F3%E5%A4%A7%E9%97%9C%E9%8D%B5%E8%A8%8A%E8%99%9F-123300650.html",
+    "source": "Yahoo股市",
+    "summary": "台股今（28）日重挫2030.83點，創下史上第三大單日跌點，AI概念股、台積電等權值股全面走弱，引發市場恐慌。對此，財經專家「不敗教主」陳重銘分析指出，這波下跌主因並非AI產業基本面惡化，而是外資大舉撤出、全球資金重新配置所造成，投資人現階段更應回歸企業基本面，不宜因短線波動追高殺低。（記者唐家興）",
+    "published_at": "2026-07-28T12:33:00+08:00",
+    "stocks": [
+      "2330"
+    ],
+    "uid": "cee02b17d6b43e0022c199677d23b085"
+  },
+  {
     "title": "DRAM 漲勢仍是 H2 主旋律，NAND 進入高原整理",
     "url": "https://finance.technews.tw/2026/07/28/dram-rally-to-remain-h2-main-theme/",
     "source": "財經新報",
@@ -3643,6 +4902,15 @@
     "published_at": "2026-07-28T12:30:53+08:00",
     "stocks": [],
     "uid": "b45e871ccb588bbc710ad1d22b911fa1"
+  },
+  {
+    "title": "大豐電：大大寬頻規劃第3季遞件申請上市",
+    "url": "https://tw.news.yahoo.com/%E5%A4%A7%E8%B1%90%E9%9B%BB-%E5%A4%A7%E5%A4%A7%E5%AF%AC%E9%A0%BB%E8%A6%8F%E5%8A%83%E7%AC%AC3%E5%AD%A3%E9%81%9E%E4%BB%B6%E7%94%B3%E8%AB%8B%E4%B8%8A%E5%B8%82-122931345.html",
+    "source": "Yahoo股市",
+    "summary": "（中央社記者趙敏雅台北28日電）大豐電今天表示，上半年合併營收新台幣10.97億元，年增1.7%，再創同期新高。其中，子公司大大寬頻截至上半年用戶已近19萬戶，寬頻收入貢獻達4.6億元，占大豐電合併營收42%；大大寬頻今年1月登錄興櫃，目前規劃第3季遞件申請上市。",
+    "published_at": "2026-07-28T12:29:31+08:00",
+    "stocks": [],
+    "uid": "febc8e8a2262a02dec2ad3e5e01e68c4"
   },
   {
     "title": "台股錯殺行情浮現 0050與00631L爆量吸金",
@@ -3666,6 +4934,35 @@
       "TWS:3042:STOCK"
     ],
     "uid": "4cb7e462fe6463def919acd027bb404b"
+  },
+  {
+    "title": "HPC營收占比逾5成！「測試介面廠」Q2每股賺15.02元　訂單一路看到2028年",
+    "url": "https://tw.stock.yahoo.com/news/hpc%E7%87%9F%E6%94%B6%E5%8D%A0%E6%AF%94%E9%80%BE5%E6%88%90-%E6%B8%AC%E8%A9%A6%E4%BB%8B%E9%9D%A2%E5%BB%A0-q2%E6%AF%8F%E8%82%A1%E8%B3%BA15-02%E5%85%83-%E8%A8%82%E5%96%AE-122400502.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]記者黃詩雯／綜合報導測試介面廠中華精測（6510）受惠AI與高效能運算（HPC）需求持續成長，第二季營運表現亮眼，每股稅後純益（EPS）達15.02元，...",
+    "published_at": "2026-07-28T12:24:00+08:00",
+    "stocks": [
+      "6510"
+    ],
+    "uid": "07e23e859639d1333a8836e2cb34d1bd"
+  },
+  {
+    "title": "四貸同堂引關注　金管會：多重借款客戶比例僅低個位數",
+    "url": "https://tw.news.yahoo.com/%E5%9B%9B%E8%B2%B8%E5%90%8C%E5%A0%82%E5%BC%95%E9%97%9C%E6%B3%A8-%E9%87%91%E7%AE%A1%E6%9C%83-%E5%A4%9A%E9%87%8D%E5%80%9F%E6%AC%BE%E5%AE%A2%E6%88%B6%E6%AF%94%E4%BE%8B%E5%83%85%E4%BD%8E%E5%80%8B%E4%BD%8D%E6%95%B8-122229859.html",
+    "source": "Yahoo股市",
+    "summary": "（中央社記者蘇思云台北28日電）外界關注「四貸同堂」可能衍生信用風險。金管會表示，目前資料顯示持有多種貸款的客戶比例低，僅低個位數，評估銀行整體授信風險仍在可控範圍，金管會持續監控各銀行房貸、信貸、股票質押等成長變化與逾放比率，若異常則納入監理重點。",
+    "published_at": "2026-07-28T12:22:29+08:00",
+    "stocks": [],
+    "uid": "4c07ab3227bce66ba356a029ba610d93"
+  },
+  {
+    "title": "證交所：融資斷頭風險可控　籲投資人理性面對波動",
+    "url": "https://tw.news.yahoo.com/%E8%AD%89%E4%BA%A4%E6%89%80-%E8%9E%8D%E8%B3%87%E6%96%B7%E9%A0%AD%E9%A2%A8%E9%9A%AA%E5%8F%AF%E6%8E%A7-%E7%B1%B2%E6%8A%95%E8%B3%87%E4%BA%BA%E7%90%86%E6%80%A7%E9%9D%A2%E5%B0%8D%E6%B3%A2%E5%8B%95-122127731.html",
+    "source": "Yahoo股市",
+    "summary": "（中央社記者曾仁凱台北28日電）台股今天大跌2030點，收在41603點。證交所強調，截至7月27日，全市場信用交易整戶擔保維持率約175%，仍遠高於現行最低追繳擔保維持率130%，融資斷頭風險可控，呼籲投資人理性面對市場波動。",
+    "published_at": "2026-07-28T12:21:27+08:00",
+    "stocks": [],
+    "uid": "e407b88e74ffb342ade326fecd4e0ada"
   },
   {
     "title": "股匯雙殺！新台幣早盤重貶1.5角 暫收32.423元",
