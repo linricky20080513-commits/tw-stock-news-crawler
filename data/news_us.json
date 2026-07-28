@@ -1,12 +1,239 @@
 [
   {
+    "title": "Microsoft touts cost-saving AI model for cybersecurity",
+    "url": "https://www.cnbc.com/2026/07/27/microsoft-touts-cost-saving-ai-model-for-cybersecurity.html",
+    "source": "CNBC Tech",
+    "summary": "Microsoft says that when integrated with OpenAI's GPT-5.4, its new cybersecurity model can beat Anthropic's new Mythos 5.",
+    "published_at": "2026-07-28T07:46:25+08:00",
+    "stocks": [],
+    "uid": "90587285555a797512238481ccc690d9",
+    "title_en": "Microsoft touts cost-saving AI model for cybersecurity",
+    "summary_en": "Microsoft says that when integrated with OpenAI's GPT-5.4, its new cybersecurity model can beat Anthropic's new Mythos 5.",
+    "title_zh": "微軟推出節省成本的網路安全人工智慧模型",
+    "summary_zh": "微軟表示，當與 OpenAI 的 GPT-5.4 整合時，其新的網路安全模型可以擊敗 Anthropic 的新 Mythos 5。"
+  },
+  {
+    "title": "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models",
+    "url": "https://www.cnbc.com/2026/07/27/anthropic-ceo-dario-amodei-isnt-advocating-open-weight-model-ban.html",
+    "source": "CNBC Top",
+    "summary": "Critics have questioned why Anthropic didn't sign an industry letter last week in support of open-weight models.",
+    "published_at": "2026-07-28T07:43:50+08:00",
+    "stocks": [],
+    "uid": "a18c3c2c8dd43b35ba45e4df041813f1",
+    "title_en": "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models",
+    "summary_en": "Critics have questioned why Anthropic didn't sign an industry letter last week in support of open-weight models.",
+    "title_zh": "Anthropic 執行長 Dario Amodei 表示，人工智慧公司並不主張禁止開放權重模型",
+    "summary_zh": "批評者質疑為什麼 Anthropic 上週沒有簽署一份行業信函來支持開放權重模型。"
+  },
+  {
+    "title": "Johnson & Johnson to pay $5.5 bln to settle talc-related cancer lawsuits",
+    "url": "https://www.investing.com/news/stock-market-news/johnson--johnson-to-pay-55-bln-to-settle-talcrelated-cancer-lawsuits-4815287",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-28T07:37:26+08:00",
+    "stocks": [],
+    "uid": "df8984a63dbf7d41096854c57b7650aa",
+    "title_en": "Johnson & Johnson to pay $5.5 bln to settle talc-related cancer lawsuits",
+    "summary_en": "",
+    "title_zh": "強生公司將支付 55 億美元和解與滑石粉相關的癌症訴訟",
+    "summary_zh": ""
+  },
+  {
+    "title": "USTR’s Greer says Trump’s latest tariffs won’t have an economic impact",
+    "url": "https://www.investing.com/news/economy-news/ustrs-greer-says-trumps-latest-tariffs-wont-have-an-economic-impact-4815286",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-28T07:36:39+08:00",
+    "stocks": [],
+    "uid": "0038093c3b9e24e03a5ac741b50c65e1",
+    "title_en": "USTR’s Greer says Trump’s latest tariffs won’t have an economic impact",
+    "summary_en": "",
+    "title_zh": "美國貿易代表辦公室的格里爾表示，川普最新的關稅不會對經濟產生影響",
+    "summary_zh": ""
+  },
+  {
+    "title": "Form 4 Edwards Lifesciences Corp For: 27 July",
+    "url": "https://www.investing.com/news/filings/form-4-edwards-lifesciences-corp-for-27-july-93CH-4815285",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-28T07:34:53+08:00",
+    "stocks": [],
+    "uid": "2167cf54eb6dfa89e328958e4a7445e5",
+    "title_en": "Form 4 Edwards Lifesciences Corp For: 27 July",
+    "summary_en": "",
+    "title_zh": "表 4 Edwards Lifesciences Corp 日期：7 月 27 日",
+    "summary_zh": ""
+  },
+  {
+    "title": "Form 4 Rent the Runway Inc For: 27 July",
+    "url": "https://www.investing.com/news/filings/form-4-rent-the-runway-inc-for-27-july-93CH-4815284",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-28T07:34:38+08:00",
+    "stocks": [],
+    "uid": "0554bb799513d0c82b429f1b3d0c0cfd",
+    "title_en": "Form 4 Rent the Runway Inc For: 27 July",
+    "summary_en": "",
+    "title_zh": "表 4 Rent the Runway Inc 日期：7 月 27 日",
+    "summary_zh": ""
+  },
+  {
+    "title": "Edwards Lifesciences CEO Bernard Zovighian sells $245,134 in shares",
+    "url": "https://www.investing.com/news/insider-trading-news/edwards-lifesciences-ceo-bernard-zovighian-sells-245134-in-shares-93CH-4815283",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-28T07:31:29+08:00",
+    "stocks": [],
+    "uid": "378f28a66342ff1f13976a8d6abb7e48",
+    "title_en": "Edwards Lifesciences CEO Bernard Zovighian sells $245,134 in shares",
+    "summary_en": "",
+    "title_zh": "Edwards Lifesciences 執行長 Bernard Zovighian 出售價值 245,134 美元的股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Rent the Runway director Dhiren Fonseca disposes of $103,220 in shares",
+    "url": "https://www.investing.com/news/insider-trading-news/rent-the-runway-director-dhiren-fonseca-disposes-of-103220-in-shares-93CH-4815282",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-28T07:31:28+08:00",
+    "stocks": [],
+    "uid": "b47ec2d7c34d2fc10c0385e6a6c8ac90",
+    "title_en": "Rent the Runway director Dhiren Fonseca disposes of $103,220 in shares",
+    "summary_en": "",
+    "title_zh": "Rent the Runway 董事 Dhiren Fonseca 出售價值 103,220 美元的股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Form 4 SoFi Technologies Inc. For: 27 July",
+    "url": "https://www.investing.com/news/filings/form-4-sofi-technologies-inc-for-27-july-93CH-4815281",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-28T07:30:41+08:00",
+    "stocks": [],
+    "uid": "ddd472935c51135e6c26c71703a97f74",
+    "title_en": "Form 4 SoFi Technologies Inc. For: 27 July",
+    "summary_en": "",
+    "title_zh": "表 4 SoFi Technologies Inc. 有效期限：7 月 27 日",
+    "summary_zh": ""
+  },
+  {
+    "title": "Form 4 SoFi Technologies Inc. For: 27 July",
+    "url": "https://www.investing.com/news/filings/form-4-sofi-technologies-inc-for-27-july-93CH-4815280",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-28T07:30:35+08:00",
+    "stocks": [],
+    "uid": "a7b98ca253cc882391916771ccbde271",
+    "title_en": "Form 4 SoFi Technologies Inc. For: 27 July",
+    "summary_en": "",
+    "title_zh": "表 4 SoFi Technologies Inc. 有效期限：7 月 27 日",
+    "summary_zh": ""
+  },
+  {
+    "title": "Form 4 SoFi Technologies Inc. For: 27 July",
+    "url": "https://www.investing.com/news/filings/form-4-sofi-technologies-inc-for-27-july-93CH-4815279",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-28T07:30:32+08:00",
+    "stocks": [],
+    "uid": "e7d0787d020d8491a4e40025c972bfd2",
+    "title_en": "Form 4 SoFi Technologies Inc. For: 27 July",
+    "summary_en": "",
+    "title_zh": "表 4 SoFi Technologies Inc. 有效期限：7 月 27 日",
+    "summary_zh": ""
+  },
+  {
+    "title": "Form 4 SoFi Technologies Inc. For: 27 July",
+    "url": "https://www.investing.com/news/filings/form-4-sofi-technologies-inc-for-27-july-93CH-4815278",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-28T07:30:26+08:00",
+    "stocks": [],
+    "uid": "0553c754983673677d6286ba437d77b7",
+    "title_en": "Form 4 SoFi Technologies Inc. For: 27 July",
+    "summary_en": "",
+    "title_zh": "表 4 SoFi Technologies Inc. 有效期限：7 月 27 日",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why IMAX Stock Crushed the Market on Monday",
+    "url": "https://www.fool.com/investing/2026/07/27/why-imax-stock-crushed-the-market-on-monday/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "A brave hero from ancient Greece delivered for the company.",
+    "published_at": "2026-07-28T07:27:29+08:00",
+    "stocks": [],
+    "uid": "e03cf306bb8d7ba872767b9326676568",
+    "title_en": "Why IMAX Stock Crushed the Market on Monday",
+    "summary_en": "A brave hero from ancient Greece delivered for the company.",
+    "title_zh": "為什麼 IMAX 股票週一壓垮市場",
+    "summary_zh": "一位來自古希臘的勇敢英雄為公司交付了貨物。"
+  },
+  {
+    "title": "Why ConocoPhillips Stock Got Mashed on Monday",
+    "url": "https://www.fool.com/investing/2026/07/27/why-conocophillips-stock-got-mashed-on-monday/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Oil prices eased over the weekend with a lull in the U.S.-Iran war.",
+    "published_at": "2026-07-28T07:05:03+08:00",
+    "stocks": [],
+    "uid": "7dc60e8700e1e0e18e5080899d47a699",
+    "title_en": "Why ConocoPhillips Stock Got Mashed on Monday",
+    "summary_en": "Oil prices eased over the weekend with a lull in the U.S.-Iran war.",
+    "title_zh": "為什麼康菲石油公司的股票週一大跌",
+    "summary_zh": "隨著美伊戰爭的平息，油價在周末有所回落。"
+  },
+  {
+    "title": "SCHD Yields 3.3% and Could Finish Its 15th Year of Consecutive Dividend Increases in 2026",
+    "url": "https://www.fool.com/investing/2026/07/27/schd-yields-33-and-could-finish-its-15th-year-of-c/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The Schwab U.S. Dividend Equity ETF (SCHD) is on pace for yet another boost to its payout. That's only part of its appeal.",
+    "published_at": "2026-07-28T07:05:00+08:00",
+    "stocks": [
+      "SCHD"
+    ],
+    "uid": "091f4b3eea5fd90e6eca41514cf4c2ab",
+    "title_en": "SCHD Yields 3.3% and Could Finish Its 15th Year of Consecutive Dividend Increases in 2026",
+    "summary_en": "The Schwab U.S. Dividend Equity ETF (SCHD) is on pace for yet another boost to its payout. That's only part of its appeal.",
+    "title_zh": "SCHD 收益率為 3.3%，並可能在 2026 年完成連續第 15 年的股息成長",
+    "summary_zh": "嘉信理財美國股息股票 ETF (SCHD) 的股利有望再次提高。這只是其吸引力的一部分。"
+  },
+  {
+    "title": "CNBC's The China Connection newsletter: A U.S.-China debate that's becoming bigger than tariffs",
+    "url": "https://www.cnbc.com/2026/07/27/cnbcs-the-china-connection-newsletter-a-us-china-debate-thats-becoming-bigger-than-tariffs.html",
+    "source": "CNBC Top",
+    "summary": "The AI race is heating up so fast this summer that it's reshaping national priorities in the U.S. and China.",
+    "published_at": "2026-07-28T07:00:02+08:00",
+    "stocks": [],
+    "uid": "901e588923992cf7c4940d46f7301134",
+    "title_en": "CNBC's The China Connection newsletter: A U.S.-China debate that's becoming bigger than tariffs",
+    "summary_en": "The AI race is heating up so fast this summer that it's reshaping national priorities in the U.S. and China.",
+    "title_zh": "CNBC 的《中國連線》時事通訊：一場比關稅更重要的美中辯論",
+    "summary_zh": "今年夏天，人工智慧競賽升溫得如此之快，以至於它正在重塑美國和中國的國家優先事項。"
+  },
+  {
+    "title": "Jim Cramer issues a warning to investors trading with borrowed money",
+    "url": "https://www.cnbc.com/2026/07/27/jim-cramer-warning-investors-trading-with-borrowed-money.html",
+    "source": "CNBC Tech",
+    "summary": "\"If you're borrowing money to buy something related to the data center, then tomorrow morning, 9:30 a.m., sell it no matter what,\" said CNBC's Jim Cramer.",
+    "published_at": "2026-07-28T07:00:02+08:00",
+    "stocks": [],
+    "uid": "f9c239e9d7f008cabd47f5d89b358675",
+    "title_en": "Jim Cramer issues a warning to investors trading with borrowed money",
+    "summary_en": "\"If you're borrowing money to buy something related to the data center, then tomorrow morning, 9:30 a.m., sell it no matter what,\" said CNBC's Jim Cramer.",
+    "title_zh": "吉姆·克萊默（Jim Cramer）向借錢交易的投資者發出警告",
+    "summary_zh": "CNBC 的 Jim Cramer 表示：“如果你借錢購買與資料中心相關的東西，那麼明天早上 9 點 30 分，無論如何都要賣掉它。”"
+  },
+  {
     "title": "Palestinians say settler violence and military raids are bringing them to breaking point",
     "url": "https://www.investing.com/news/world-news/palestinians-say-settler-violence-and-military-raids-are-bringing-them-to-breaking-point-4814521",
     "source": "Investing.com",
     "summary": "",
     "published_at": "2026-07-28T06:55:03+08:00",
     "stocks": [],
-    "uid": "9ed71f59203b53ec25947e4ca0aa367c"
+    "uid": "9ed71f59203b53ec25947e4ca0aa367c",
+    "title_en": "Palestinians say settler violence and military raids are bringing them to breaking point",
+    "summary_en": "",
+    "title_zh": "巴勒斯坦人表示，定居者的暴力和軍事攻擊使他們陷入崩潰的邊緣",
+    "summary_zh": ""
   },
   {
     "title": "US advances nomination of Trump top spy nominee Clayton",
@@ -15,7 +242,11 @@
     "summary": "",
     "published_at": "2026-07-28T06:54:34+08:00",
     "stocks": [],
-    "uid": "2325286a52f9e58ce18d3352b5208b9c"
+    "uid": "2325286a52f9e58ce18d3352b5208b9c",
+    "title_en": "US advances nomination of Trump top spy nominee Clayton",
+    "summary_en": "",
+    "title_zh": "美國推動川普最高間諜候選人克萊頓的提名",
+    "summary_zh": ""
   },
   {
     "title": "CG Oncology bladder cancer trial results published in Lancet",
@@ -24,7 +255,11 @@
     "summary": "",
     "published_at": "2026-07-28T06:52:35+08:00",
     "stocks": [],
-    "uid": "d28b5cb4f22cd45ec54febbfe5001bd4"
+    "uid": "d28b5cb4f22cd45ec54febbfe5001bd4",
+    "title_en": "CG Oncology bladder cancer trial results published in Lancet",
+    "summary_en": "",
+    "title_zh": "CG Oncology 膀胱癌試驗結果發表在《刺胳針》上",
+    "summary_zh": ""
   },
   {
     "title": "Earnings call transcript: TFI International tops Q2 2026 EPS forecast, shares fall",
@@ -59,7 +294,11 @@
     "summary": "",
     "published_at": "2026-07-28T06:48:51+08:00",
     "stocks": [],
-    "uid": "456221684fa675c05d8d1c69270c60d0"
+    "uid": "456221684fa675c05d8d1c69270c60d0",
+    "title_en": "Meta disregarded its own research on teen harm, Tennessee tells jury",
+    "summary_en": "",
+    "title_zh": "田納西州告訴陪審團，Meta 忽視了自己對青少年傷害的研究",
+    "summary_zh": ""
   },
   {
     "title": "Johnson & Johnson announces $5.5 billion settlement of talc lawsuits",
@@ -114,6 +353,32 @@
     "summary_zh": ""
   },
   {
+    "title": "Should You Buy AbbVie Stock Hand Over Fist Before July 31?",
+    "url": "https://www.fool.com/investing/2026/07/27/should-you-buy-abbvie-stock-hand-over-fist-before/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The recent rally could pave the way for \"sell the news\" volatility, but don't let this scare you out of a long-term position.",
+    "published_at": "2026-07-28T06:45:00+08:00",
+    "stocks": [],
+    "uid": "e300349d0330f3ee96e45c32c3caba35",
+    "title_en": "Should You Buy AbbVie Stock Hand Over Fist Before July 31?",
+    "summary_en": "The recent rally could pave the way for \"sell the news\" volatility, but don't let this scare you out of a long-term position.",
+    "title_zh": "您應該在 7 月 31 日之前購買艾伯維 (AbbVie) 股票嗎？",
+    "summary_zh": "最近的反彈可能為「賣出消息」波動鋪平道路，但不要讓這嚇到你放棄長期頭寸。"
+  },
+  {
+    "title": "Federal Reserve: 1 Thing All Investors Need to Know Before July 29",
+    "url": "https://www.fool.com/investing/2026/07/27/federal-reserve-1-thing-all-investors-need-to-know/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Institutions and investors mostly don't expect any change in interest rates, but that's not really the important thing.",
+    "published_at": "2026-07-28T06:30:00+08:00",
+    "stocks": [],
+    "uid": "2a7fb2786353b39f34970903a9ff8520",
+    "title_en": "Federal Reserve: 1 Thing All Investors Need to Know Before July 29",
+    "summary_en": "Institutions and investors mostly don't expect any change in interest rates, but that's not really the important thing.",
+    "title_zh": "聯準會：7 月 29 日之前所有投資者需要了解的一件事",
+    "summary_zh": "機構和投資者大多預計利率不會發生任何變化，但這並不是真正重要的事情。"
+  },
+  {
     "title": "Jim Cramer warns AI's circular financing frenzy echoes the dot-com bubble",
     "url": "https://www.cnbc.com/2026/07/27/jim-cramer-warns-ai-circular-financing-echoes-dot-com-bubble.html",
     "source": "CNBC Top",
@@ -125,6 +390,32 @@
     "summary_en": "CNBC's Jim Cramer said reports of Nvidia backing OpenAI's data center expansion revived memories of the financing arrangements that preceded the dot-com crash.",
     "title_zh": "吉姆·克萊默警告人工智慧的循環融資狂潮與網路泡沫相呼應",
     "summary_zh": ""
+  },
+  {
+    "title": "This Deduction Could Reduce My Taxable Income by $7,500 in 2026. Here's Why I Happily Skip It.",
+    "url": "https://www.fool.com/retirement/2026/07/27/this-deduction-could-reduce-my-taxable-income-by-7/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "I'm giving up savings now to get a bigger reward later.",
+    "published_at": "2026-07-28T06:00:00+08:00",
+    "stocks": [],
+    "uid": "9195db36ce8ff1861b8e52e1b01004e4",
+    "title_en": "This Deduction Could Reduce My Taxable Income by $7,500 in 2026. Here's Why I Happily Skip It.",
+    "summary_en": "I'm giving up savings now to get a bigger reward later.",
+    "title_zh": "这项扣除可以使我在 2026 年的应税收入减少 7,500 美元。這就是我高興地跳過它的原因。",
+    "summary_zh": "我現在放棄積蓄，以便日後獲得更大的獎勵。"
+  },
+  {
+    "title": "Crypto Market Today, July 27: Bitcoin Steadies as Ahead of Fed Meeting",
+    "url": "https://www.fool.com/coverage/stock-market-today/2026/07/27/crypto-market-today-july-27-bitcoin-steadies-as-ahead-of-fed-meeting/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Easing geopolitical tensions and lower oil prices bolster sentiment, while corporate buying boosts Ethereum, today, July 27, 2026.",
+    "published_at": "2026-07-28T05:51:17+08:00",
+    "stocks": [],
+    "uid": "42a7bb7401d925f11b660f20028fd9a5",
+    "title_en": "Crypto Market Today, July 27: Bitcoin Steadies as Ahead of Fed Meeting",
+    "summary_en": "Easing geopolitical tensions and lower oil prices bolster sentiment, while corporate buying boosts Ethereum, today, July 27, 2026.",
+    "title_zh": "今日加密貨幣市場，7 月 27 日：聯準會會議前比特幣穩定",
+    "summary_zh": "今天，即 2026 年 7 月 27 日，地緣政治緊張局勢的緩解和油價下跌提振了市場情緒，同時企業購買提振了以太坊。"
   },
   {
     "title": "Nvidia’s potential new deal with OpenAI would revive a spooky tech-bubble habit, analyst warns",
@@ -190,6 +481,24 @@
     "summary_en": "",
     "title_zh": "表 4 Eos Energy Enterprises Inc 日期：7 月 27 日",
     "summary_zh": ""
+  },
+  {
+    "title": "UiPath vs. Snowflake: Which Artificial Intelligence Tech Stock Is a Better Buy in 2026?",
+    "url": "https://www.fool.com/coverage/better-buy/2026/07/27/uipath-vs-snowflake-which-artificial-intelligence-tech-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "UiPath trades at a 15.4x forward P/E with positive net income, while Snowflake's 29% revenue growth comes at a $1.3 billion annual loss.",
+    "published_at": "2026-07-28T05:44:01+08:00",
+    "stocks": [],
+    "uid": "f0229f5a6ff17d7ad9f7e48436d69dc5"
+  },
+  {
+    "title": "Why Core Scientific Stock Stumbled Today",
+    "url": "https://www.fool.com/investing/2026/07/27/why-core-scientific-stock-stumbled-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The crypto miner began the week by being slapped with an analyst's recommendation downgrade.",
+    "published_at": "2026-07-28T05:43:03+08:00",
+    "stocks": [],
+    "uid": "edadffdf737acb0ba584fd563df38433"
   },
   {
     "title": "Nucor beats quarterly results on strong pricing, demand",
@@ -270,6 +579,15 @@
     "summary_zh": ""
   },
   {
+    "title": "Power Integrations CEO Jennifer Lloyd Sells $936,000 Stock. What Does This Mean for Investors?",
+    "url": "https://www.fool.com/coverage/filings/2026/07/27/power-integrations-ceo-jennifer-lloyd-sells-usd936-000-stock-what-does-this-mean-for-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Lloyd executed a non-discretionary \"sell to cover\" transaction to fund tax obligations from equity vesting, retaining 136,655 shares worth $9.9 million.",
+    "published_at": "2026-07-28T05:35:01+08:00",
+    "stocks": [],
+    "uid": "cd104aca614e819e0705aa67d11c9c6f"
+  },
+  {
     "title": "More cracks emerge in AI-related bonds as Meta, Microsoft earnings loom",
     "url": "https://www.marketwatch.com/story/more-cracks-emerge-in-ai-related-bonds-as-meta-microsoft-earnings-loom-04275db2?mod=mw_rss_topstories",
     "source": "MarketWatch",
@@ -348,6 +666,33 @@
     "summary_zh": "這位加密貨幣金庫領導者已經悄悄累積了以太坊總供應量的很大一部分。"
   },
   {
+    "title": "Stock Market Today, July 27: D-Wave Surges on Nasdaq Debut and Expanded AT&T Deal",
+    "url": "https://www.fool.com/coverage/stock-market-today/2026/07/27/stock-market-today-july-27-d-wave-surges-on-nasdaq-debut-and-expanded-att-deal/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "D-Wave jumped 20% after an expanded AT&amp;T partnership for quantum network optimization, today, July 27, 2026.",
+    "published_at": "2026-07-28T05:06:24+08:00",
+    "stocks": [],
+    "uid": "615f26a6579019ed0d58050df93ef3aa"
+  },
+  {
+    "title": "NVIDIA vs. Snowflake: Which AI-Driven Stock Is a Better Buy in 2026?",
+    "url": "https://www.fool.com/coverage/better-buy/2026/07/27/nvidia-vs-snowflake-which-ai-driven-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "NVIDIA's 55% net margin and $96.7B free cash flow contrast sharply with Snowflake's $1.3B net loss, but valuation gaps tell a different story.",
+    "published_at": "2026-07-28T05:06:01+08:00",
+    "stocks": [],
+    "uid": "37b0bedb8434f5e39c6f9290a7e79f5b"
+  },
+  {
+    "title": "Stock Market Today, July 27: Dow Rises on Oil Retreat, and Sandisk Plunges 11% on Memory Weakness",
+    "url": "https://www.fool.com/coverage/stock-market-today/2026/07/27/stock-market-today-july-27-dow-rises-on-oil-retreat-and-sandisk-plunges-11-on-memory-weakness/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Crude tumbled as geopolitical tensions eased, while semiconductor losses dragged the Nasdaq lower, today, July 27, 2026.",
+    "published_at": "2026-07-28T05:04:56+08:00",
+    "stocks": [],
+    "uid": "ee4c83c3733d08734e53a4ac4d2e9329"
+  },
+  {
     "title": "Prediction: Micron Stock Will Be Worth This Much by Late 2027 (Hint: The Time to Buy Is Now)",
     "url": "https://www.fool.com/investing/2026/07/27/prediction-micron-stock-will-be-worth-this-much-by/?source=iedfolrf0000001",
     "source": "Motley Fool",
@@ -385,6 +730,15 @@
     "summary_en": "The market is already jittery about AI spending.",
     "title_zh": "亞馬遜 7 月 30 日發布的下一份收益報告可能會導致該股下跌。這就是為什麼。",
     "summary_zh": "市場已經對人工智慧支出感到緊張。"
+  },
+  {
+    "title": "Five Star Bancorp Director Larry Allbaugh Buys $4.3 Million in Shares. What Does This Mean for Investors?",
+    "url": "https://www.fool.com/coverage/filings/2026/07/27/five-star-bancorp-director-larry-allbaugh-buys-usd4-3-million-in-shares-what-does-this-mean-for-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Allbaugh's indirect purchase expanded his total stake in various entities to ~3.1 million shares valued at $151 million.",
+    "published_at": "2026-07-28T04:38:01+08:00",
+    "stocks": [],
+    "uid": "1ae6b1b7d4661037b2f870b1a16d8e50"
   },
   {
     "title": "AT&T Stock Has Been Quietly Rallying Since the Start of July. After a Strong Q2, Is It Due to Soar Even Higher?",
@@ -426,6 +780,15 @@
     "summary_zh": "這家科技公司最近聘請 Fortinet 作為其代工服務的客戶。"
   },
   {
+    "title": "Marvell Technology vs. Planet Labs: Which Growth Stock Is a Better Buy in 2026, the Artificial Intelligence Company or the Rising Star of the Space-Based Economy?",
+    "url": "https://www.fool.com/coverage/better-buy/2026/07/27/marvell-technology-vs-planet-labs-which-growth-stock-is-a-better-buy-in-2026-the-artificial-intelligence-company-or-the-rising-star-of-the-space-based-economy/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Marvell is profitable with fortress-like balance sheet strength, while Planet Labs burns cash despite satellite growth. One carries far less financial risk.",
+    "published_at": "2026-07-28T04:22:01+08:00",
+    "stocks": [],
+    "uid": "44eeaad78b45e7853ee321cf7a70c366"
+  },
+  {
     "title": "Rivian Automotive's Next Earnings Report on July 30 Could Send the Stock Soaring. Here's Why.",
     "url": "https://www.fool.com/investing/2026/07/27/rivian-automotives-next-earnings-report-on-july-30-could-send-the-stock-soaring-heres-why/?source=iedfolrf0000001",
     "source": "Motley Fool",
@@ -463,6 +826,15 @@
     "summary_en": "A federal appeals court on Saturday kept the restrictions blocked in 23 states that sued, finding states must prepare for potentially disruptive election changes.",
     "title_zh": "川普政府要求最高法院介入以允許郵寄投票限制",
     "summary_zh": "週六，聯邦上訴法院維持了 23 個提起訴訟的州的限制措施，裁定各州必須為潛在的破壞性選舉變化做好準備。"
+  },
+  {
+    "title": "Planet Labs PBC vs. Snowflake: Is a Space Stock or AI Cloud Stock the Better Buy in 2026?",
+    "url": "https://www.fool.com/coverage/better-buy/2026/07/27/planet-labs-pbc-vs-snowflake-is-a-space-stock-or-ai-cloud-stock-the-better-buy-in-2026/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Both companies are unprofitable but growing rapidly, though one carries significantly lower valuation multiples and less reliance on government contracts.",
+    "published_at": "2026-07-28T04:10:01+08:00",
+    "stocks": [],
+    "uid": "e8c0d624454f1282c653cdae12162347"
   },
   {
     "title": "Trump says U.S. has sold more than $13 billion of Venezuela oil since Maduro's capture",
@@ -606,6 +978,15 @@
     "summary_en": "",
     "title_zh": "144 表格 Business First Bancshares 日期：7 月 27 日",
     "summary_zh": ""
+  },
+  {
+    "title": "I'd Think Twice Before Claiming Social Security Early if You're Still Employed. Here's Why.",
+    "url": "https://www.fool.com/retirement/2026/07/27/think-twice-before-claiming-social-security-early/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "You might not wind up with as much money as you'd expect.",
+    "published_at": "2026-07-28T04:00:00+08:00",
+    "stocks": [],
+    "uid": "0281dfa84399853402fe65c1330f288e"
   },
   {
     "title": "Nvidia's potential $250B backstop for OpenAI is another strike against the AI trade",
@@ -5687,6 +6068,15 @@
     "summary_zh": ""
   },
   {
+    "title": "SpaceX Bears May Be Right On Value And Wrong On Timing",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-bears-may-value-wrong-180410380.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-27T02:04:10+08:00",
+    "stocks": [],
+    "uid": "cc17e777354dd2c5045cb916f8253e35"
+  },
+  {
     "title": "Better Healthcare Sector ETF: Vanguard's Broad VHT vs. Invesco's Biotechnology-Focused IBBQ",
     "url": "https://finance.yahoo.com/healthcare/articles/better-healthcare-sector-etf-vanguards-180401871.html",
     "source": "Yahoo Finance",
@@ -5841,6 +6231,15 @@
     "summary_en": "ProShares' 2x leverage amplifies daily returns but introduces leverage decay risk and deeper drawdowns. Vanguard's broad 427-stock portfolio delivered steadier gains with a 0.89 beta versus 1.74.",
     "title_zh": "隨著金融股上漲，Steady Vanguard Financials ETF 還是槓桿 ProShares Ultra Financials 是現在更好的買入對象？",
     "summary_zh": "ProShares 的 2 倍槓桿可放大每日回報，但會帶來槓桿衰減風險和更深的回撤。 Vanguard 廣泛的 427 隻股票投資組合帶來了更穩定的收益，貝塔係數為 0.89，而貝塔係數為 1.74。"
+  },
+  {
+    "title": "Amazon Stock Just Hit a Major Hurdle Ahead of Earnings",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-just-hit-major-173002306.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-27T01:30:02+08:00",
+    "stocks": [],
+    "uid": "e698db50f524e512a7c7cef4c1db6910"
   },
   {
     "title": "GRAL DEADLINE NOTICE: ROSEN, NATIONAL TRIAL COUNSEL, Encourages GRAIL, Inc. Investors to Secure Counsel Before Important August 4 Deadline in Securities Class Action - GRAL",
@@ -6361,6 +6760,24 @@
     "summary_en": "",
     "title_zh": "古巴總統在革命週年紀念日指責美國“政治種族滅絕”",
     "summary_zh": ""
+  },
+  {
+    "title": "Trump Breaks Promise On National Debt: Expert Says 'He Has Failed Badly'",
+    "url": "https://finance.yahoo.com/economy/policy/articles/trump-breaks-promise-national-debt-153020764.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-26T23:30:20+08:00",
+    "stocks": [],
+    "uid": "11ae64efe6b9545597c92d810e5cf9b5"
+  },
+  {
+    "title": "Couple, 37 And 39, Say $52,000 In IVF Debt Across Three Rounds Has Them 'Financially Underwater' Even With A Baby On The Way",
+    "url": "https://finance.yahoo.com/healthcare/articles/couple-37-39-52-000-153019822.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-26T23:30:19+08:00",
+    "stocks": [],
+    "uid": "7fa5898f2a1f956073b0ac6b98e2529b"
   },
   {
     "title": "Intel Just Delivered Its Best Quarter in Years, But There Are Still Better AI Stocks to Buy",
