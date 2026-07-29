@@ -1,5 +1,356 @@
 [
   {
+    "title": "台達電上半年大賺456億 每股純益17.59元 攀歷史高點",
+    "url": "https://money.udn.com/money/story/5612/9659233",
+    "source": "經濟日報股市",
+    "summary": "電源大廠台達電昨（29）日公布半年報，受惠AI基礎建設需求旺盛，上半年稅後純益衝上456.91億元，年增88.9%，每股純益17.59元，創歷史新高，業績表現亮眼。",
+    "published_at": "2026-07-29T23:37:47+08:00",
+    "stocks": [],
+    "uid": "b5fb2702083ed13425cba47f50308edb",
+    "title_zh": "台達電上半年大賺456億 每股純益17.59元 攀歷史高點",
+    "summary_zh": "電源大廠台達電昨（29）日公布半年報，受惠AI基礎建設需求旺盛，上半年稅後純益衝上456.91億元，年增88.9%，每股純益17.59元，創歷史新高，業績表現亮眼。",
+    "title_en": "Delta Electronics made a huge profit of 45.6 billion in the first half of the year, with a net profit of 17.59 yuan per share, reaching a historical high.",
+    "summary_en": "Power supply giant Delta announced its semi-annual report yesterday (29th). Benefiting from the strong demand for AI infrastructure, its after-tax net profit in the first half of the year surged to 45.691 billion yuan, an annual increase of 88.9%. The net profit per share was 17.59 yuan, a record high, and its performance was outstanding."
+  },
+  {
+    "title": "超出對苦的認知！就業前景不穩   中國年輕人合租床拚極限省錢",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5522334",
+    "source": "自由財經",
+    "summary": "路透29日報導，中國就業市場的不穩定掀起了年輕人與陌生人共租一張床，以節省開支的現象，6月下旬微博一則標籤為「拼好床真的超出我對苦的認知了」的話題超過1400萬人次瀏覽，道盡了...…",
+    "published_at": "2026-07-29T23:35:48+08:00",
+    "stocks": [],
+    "uid": "3a4b69cd6fd8f0839d7ff9aad983468b",
+    "title_zh": "超出對苦的認知！就業前景不穩   中國年輕人合租床拚極限省錢",
+    "summary_zh": "路透29日報導，中國就業市場的不穩定掀起了年輕人與陌生人共租一張床，以節省開支的現象，6月下旬微博一則標籤為「拼好床真的超出我對苦的認知了」的話題超過1400萬人次瀏覽，道盡了...…",
+    "title_en": "Beyond the awareness of suffering! With unstable employment prospects, Chinese young people share beds to save money",
+    "summary_en": "Reuters reported on the 29th that the instability in China's job market has triggered the phenomenon of young people renting a bed with strangers to save money. In late June, a Weibo topic with the tag \"Putting together a bed is really beyond my understanding of suffering\" has exceeded 14 million views. The end..."
+  },
+  {
+    "title": "台達電今開法說 聚焦三大重點",
+    "url": "https://money.udn.com/money/story/5612/9659235",
+    "source": "經濟日報股市",
+    "summary": "電源大廠台達電今（30）日召開法說會，預料法人將聚焦AI伺服器電源與水冷散熱出貨動態、高壓直流（HVDC）技術進展以及全球產能布局進度等三大方向。",
+    "published_at": "2026-07-29T23:34:59+08:00",
+    "stocks": [],
+    "uid": "b74400276558dafeb1b29c3dee3936e1",
+    "title_zh": "台達電今開法說 聚焦三大重點",
+    "summary_zh": "電源大廠台達電今（30）日召開法說會，預料法人將聚焦AI伺服器電源與水冷散熱出貨動態、高壓直流（HVDC）技術進展以及全球產能布局進度等三大方向。",
+    "title_en": "Delta Power's Dharma talk today focuses on three key points",
+    "summary_en": "Power supply giant Delta Electronics will hold a press conference today (30th). It is expected that the legal person will focus on three major directions: AI server power supply and water cooling shipment trends, high-voltage direct current (HVDC) technology progress, and global production capacity layout progress."
+  },
+  {
+    "title": "廣達海外籌資 要募712億 台灣近20年來最大規模",
+    "url": "https://money.udn.com/money/story/5612/9659237",
+    "source": "經濟日報股市",
+    "summary": "外媒報導，廣達電腦計劃透過發行全球存託股票（GDS）籌資最多22億美元（約新台幣712億元），可望成為台灣近20年來規模最大的股票發行案。",
+    "published_at": "2026-07-29T23:32:15+08:00",
+    "stocks": [],
+    "uid": "ba0d0b5b059413e002dcddedf767b566",
+    "title_zh": "廣達海外籌資 要募712億 台灣近20年來最大規模",
+    "summary_zh": "外媒報導，廣達電腦計劃透過發行全球存託股票（GDS）籌資最多22億美元（約新台幣712億元），可望成為台灣近20年來規模最大的股票發行案。",
+    "title_en": "Quanta Overseas Fund Raising to Raise 71.2 Billion, Taiwan’s Largest Funding in the Past 20 Years",
+    "summary_en": "Foreign media reported that Quanta Computer plans to raise up to US$2.2 billion (approximately NT$71.2 billion) through the issuance of global depositary shares (GDS), which is expected to become Taiwan's largest stock issuance in the past 20 years."
+  },
+  {
+    "title": "ODM廠募資...一波波",
+    "url": "https://money.udn.com/money/story/5612/9659238",
+    "source": "經濟日報股市",
+    "summary": "代工廠廣達宣布發行22億美元海外存託憑證（GDR），確保採購零組件及建廠資金。看好AI與美國製造的趨勢，近期ODM紛紛啟動募資。今年鴻海領跑，完成360億元的永續連結聯貸案；緯穎今年在股東會也通過新籌資方案，後續有機會募得超過700億元資金。",
+    "published_at": "2026-07-29T23:31:21+08:00",
+    "stocks": [
+      "6669"
+    ],
+    "uid": "c7e1cdf4afc6bf5ed9c26ecb034853d3",
+    "title_zh": "ODM廠募資...一波波",
+    "summary_zh": "代工廠廣達宣布發行22億美元海外存託憑證（GDR），確保採購零組件及建廠資金。看好AI與美國製造的趨勢，近期ODM紛紛啟動募資。今年鴻海領跑，完成360億元的永續連結聯貸案；緯穎今年在股東會也通過新籌資方案，後續有機會募得超過700億元資金。",
+    "title_en": "ODM factories raise funds...wave after wave",
+    "summary_en": "Foundry Quanta announced the issuance of US$2.2 billion in overseas depositary receipts (GDRs) to ensure funds for purchasing components and building factories. Optimistic about the trends of AI and American manufacturing, ODMs have recently started raising funds. This year, Hon Hai took the lead and completed a 36 billion yuan continuous joint loan project; Wiwynn also passed a new financing plan at the shareholders' meeting this year, and has the opportunity to raise more than 70 billion yuan in subsequent funds."
+  },
+  {
+    "title": "醫材大廠CSD中衛跨足手部清潔市場 IKIGAI香氛洗手露布局居家美學商機",
+    "url": "https://money.udn.com/money/story/10871/9659276",
+    "source": "經濟日報股市",
+    "summary": "台灣醫材大廠CSD中衛宣布，旗下生活質感品牌IKIGAI跨足手部清潔市場，推出全新香氛洗手露系列，分別推出「玫瑰小木屋」、「微醺寶寶」及「1980s」三款香氛。這是品牌繼口腔護理產品線之後，首度跨足手部清潔領域。",
+    "published_at": "2026-07-29T23:03:00+08:00",
+    "stocks": [],
+    "uid": "26d67fd7bacdca00875705a6de6bdb2e",
+    "title_zh": "醫材大廠CSD中衛跨足手部清潔市場 IKIGAI香氛洗手露布局居家美學商機",
+    "summary_zh": "台灣醫材大廠CSD中衛宣布，旗下生活質感品牌IKIGAI跨足手部清潔市場，推出全新香氛洗手露系列，分別推出「玫瑰小木屋」、「微醺寶寶」及「1980s」三款香氛。這是品牌繼口腔護理產品線之後，首度跨足手部清潔領域。",
+    "title_en": "Major medical materials manufacturer CSD Zhongwei enters the hand hygiene market and IKIGAI fragranced hand gel expands home aesthetic business opportunities",
+    "summary_en": "CSD, a major Taiwanese medical materials manufacturer, announced that its lifestyle brand IKIGAI has entered the hand hygiene market and launched a new series of scented hand sanitizers, including \"Rose Cabin\", \"Tipsy Baby\" and \"1980s\". This is the brand's first entry into the field of hand hygiene after the oral care product line."
+  },
+  {
+    "title": "貝里斯國務部長：台灣是重要合作夥伴　感謝多年協助",
+    "url": "https://money.udn.com/money/story/7307/9659270",
+    "source": "經濟日報總經",
+    "summary": "貝里斯經濟轉型部國務部長馬蒂內茲率團訪台，外交部政次陳明祺感謝貝國長期堅定挺台國際參與，將持續拓展各領域合作；馬蒂內茲也...",
+    "published_at": "2026-07-29T23:00:44+08:00",
+    "stocks": [],
+    "uid": "5f08b0e79d761c4e780c3320f3c24dbd",
+    "title_zh": "貝里斯國務部長：台灣是重要合作夥伴　感謝多年協助",
+    "summary_zh": "貝里斯經濟轉型部國務部長馬蒂內茲率團訪台，外交部政次陳明祺感謝貝國長期堅定挺台國際參與，將持續拓展各領域合作；馬蒂內茲也...",
+    "title_en": "Minister of State Bayliss: Taiwan is an important partner and thanks for years of assistance",
+    "summary_en": "Martinez, Belize's Minister of State for Economic Transformation, led a delegation to visit Taiwan. Chen Mingqi, Minister of Foreign Affairs, thanked Belize for its long-term support for Taiwan's international participation and will continue to expand cooperation in various fields; Martinez also..."
+  },
+  {
+    "title": "台灣青年赴帛琉健康探查　期望深化醫衛合作",
+    "url": "https://money.udn.com/money/story/7307/9659252",
+    "source": "經濟日報總經",
+    "summary": "中華長照暨偏鄉醫療基金會與輔大合作「GRACE實踐計畫」，16名來自不同醫療專業背景的青年赴帛琉14天進行社區健康探查，...",
+    "published_at": "2026-07-29T22:54:53+08:00",
+    "stocks": [],
+    "uid": "9db13f39df945e12f17ac2db13676776",
+    "title_zh": "台灣青年赴帛琉健康探查　期望深化醫衛合作",
+    "summary_zh": "中華長照暨偏鄉醫療基金會與輔大合作「GRACE實踐計畫」，16名來自不同醫療專業背景的青年赴帛琉14天進行社區健康探查，...",
+    "title_en": "Taiwanese youth go to Palau for health exploration, hoping to deepen medical and health cooperation",
+    "summary_en": "The China Long-Term Care and Rural Medical Care Foundation collaborated with Fuzhou University on the \"GRACE Practice Project\". 16 young people from different medical professional backgrounds went to Palau for 14 days to conduct community health exploration..."
+  },
+  {
+    "title": "台積電先進製程晶圓廠工程進度超前 中科管理局視察打造零職災工地",
+    "url": "https://money.udn.com/money/story/11162/9659234",
+    "source": "經濟日報股市",
+    "summary": "台積電（2330）中科1.4奈米先進製程晶圓廠工程進度超前，中科管理局長許茂新29日特別率工安、環保業務主管，前往台積電位於中科的先進製程晶圓廠興建工程現場，視察建廠情形及勞工安全衛生措施，並為辛苦的勞工們加油、打氣。",
+    "published_at": "2026-07-29T22:50:14+08:00",
+    "stocks": [
+      "2330"
+    ],
+    "uid": "9ce47ababe2afe9c7178701b139f58b7",
+    "title_zh": "台積電先進製程晶圓廠工程進度超前 中科管理局視察打造零職災工地",
+    "summary_zh": "台積電（2330）中科1.4奈米先進製程晶圓廠工程進度超前，中科管理局長許茂新29日特別率工安、環保業務主管，前往台積電位於中科的先進製程晶圓廠興建工程現場，視察建廠情形及勞工安全衛生措施，並為辛苦的勞工們加油、打氣。",
+    "title_en": "TSMC's advanced process wafer fab project is ahead of schedule. The China Science and Technology Administration inspected the construction site to create a zero-occupancy hazard site",
+    "summary_en": "TSMC (2330) Zhongke's 1.4nm advanced process wafer fab project is progressing ahead of schedule. On the 29th, Xu Maoxin, director of the Zhongke Administration Bureau, led industrial safety and environmental protection business managers to the construction site of TSMC's advanced process wafer fab in Zhongke to inspect the factory construction situation and labor safety and health measures, and to cheer and encourage the hard-working workers."
+  },
+  {
+    "title": "美股早盤下挫　市場等候聯準會決策及科技業財報出爐",
+    "url": "https://www.cna.com.tw/news/afe/202607290383.aspx",
+    "source": "中央社",
+    "summary": "（中央社紐約29日綜合外電報導）在市場消化中東戰事導致油價上漲的消息，並等候科技巨擘財報及聯邦準備理事會（Fed）決策出爐之際，美股早盤今天走跌。",
+    "published_at": "2026-07-29T22:49:13+08:00",
+    "stocks": [],
+    "uid": "a0d615b7b574d34bf976900ce1d1c1da",
+    "title_zh": "美股早盤下挫　市場等候聯準會決策及科技業財報出爐",
+    "summary_zh": "（中央社紐約29日綜合外電報導）在市場消化中東戰事導致油價上漲的消息，並等候科技巨擘財報及聯邦準備理事會（Fed）決策出爐之際，美股早盤今天走跌。",
+    "title_en": "U.S. stocks fell in early trading as the market awaits the Federal Reserve's decision and the release of technology industry earnings reports",
+    "summary_en": "(Central News Agency, New York, Comprehensive Foreign News Report on the 29th) U.S. stocks fell in early trading today as the market digested the news of rising oil prices caused by the war in the Middle East and awaited the release of financial reports from technology giants and the decision of the Federal Reserve Board (Fed)."
+  },
+  {
+    "title": "中東戰火再起推升國際油價　布倫特站上每桶90美元",
+    "url": "https://www.cna.com.tw/news/afe/202607290380.aspx",
+    "source": "中央社",
+    "summary": "（中央社紐約29日綜合外電報導）美國與伊朗的軍事衝突先前似乎轉向外交途徑解決，如今又恢復戰火，引起市場擔憂原油供應中斷，使國際油價今天反彈飆漲。",
+    "published_at": "2026-07-29T22:42:06+08:00",
+    "stocks": [],
+    "uid": "eba6ac2e0196f5a2966936be7faea631",
+    "title_zh": "中東戰火再起推升國際油價　布倫特站上每桶90美元",
+    "summary_zh": "（中央社紐約29日綜合外電報導）美國與伊朗的軍事衝突先前似乎轉向外交途徑解決，如今又恢復戰火，引起市場擔憂原油供應中斷，使國際油價今天反彈飆漲。",
+    "title_en": "Renewed war in the Middle East pushes up international oil prices; Brent reaches US$90 per barrel",
+    "summary_en": "(Central News Agency, New York, Comprehensive Foreign News Report on the 29th) The military conflict between the United States and Iran, which previously seemed to turn to diplomatic solutions, has now resumed fighting, causing market concerns about crude oil supply interruptions, causing international oil prices to rebound and surge today."
+  },
+  {
+    "title": "中彰30分鐘生活圈成形 彰化房市「蛋白區」順勢崛起吸引在地建商卡位",
+    "url": "https://money.udn.com/money/story/5612/9659208",
+    "source": "經濟日報股市",
+    "summary": "彰化縣房市正迎來前所未有的結構性轉變。過去，彰化面臨人口外流與台中房價擠壓挑戰，如今隨著重大交通建設與都市計畫雙效推進，房市也從「人口外流」走向「承接外溢」，其中交通條件改善、房價相對親民的花壇、和美等二線鄉鎮，也成為在地建商如格睿建設等積極布局的新戰場。",
+    "published_at": "2026-07-29T22:31:06+08:00",
+    "stocks": [],
+    "uid": "3746c4f6f9f8f6acefba671897ff7ad8",
+    "title_zh": "中彰30分鐘生活圈成形 彰化房市「蛋白區」順勢崛起吸引在地建商卡位",
+    "summary_zh": "彰化縣房市正迎來前所未有的結構性轉變。過去，彰化面臨人口外流與台中房價擠壓挑戰，如今隨著重大交通建設與都市計畫雙效推進，房市也從「人口外流」走向「承接外溢」，其中交通條件改善、房價相對親民的花壇、和美等二線鄉鎮，也成為在地建商如格睿建設等積極布局的新戰場。",
+    "title_en": "The 30-minute living circle in Zhongzhang takes shape, and the \"Protein District\" of Changhua's real estate market rises to attract local developers.",
+    "summary_en": "The real estate market in Changhua County is undergoing unprecedented structural changes. In the past, Changhua faced the challenges of population outflow and the squeeze on housing prices in Taichung. Now, with the dual-efficiency advancement of major transportation construction and urban planning, the housing market has also shifted from \"population outflow\" to \"acceptance of spillover.\" Among them, second-tier towns such as Huatan and Hemei, where traffic conditions have improved and housing prices are relatively affordable, have also become new battlefields for local developers such as Green Construction."
+  },
+  {
+    "title": "中彰30分鐘生活圈成形 彰化房市「蛋白區」順勢崛起吸引在地建商卡位",
+    "url": "https://money.udn.com/money/story/5612/9659206",
+    "source": "經濟日報股市",
+    "summary": "彰化縣房市正迎來前所未有的結構性轉變。過去，彰化面臨人口外流與台中房價擠壓挑戰，如今隨著重大交通建設與都市計畫雙效推進，房市也從「人口外流」走向「承接外溢」，其中交通條件改善、房價相對親民的花壇、和美等二線鄉鎮，也成為在地建商如格睿建設等積極布局的新戰場。",
+    "published_at": "2026-07-29T22:31:01+08:00",
+    "stocks": [],
+    "uid": "b4fb9a04fcfb87eb90fdb9359180cc6b",
+    "title_zh": "中彰30分鐘生活圈成形 彰化房市「蛋白區」順勢崛起吸引在地建商卡位",
+    "summary_zh": "彰化縣房市正迎來前所未有的結構性轉變。過去，彰化面臨人口外流與台中房價擠壓挑戰，如今隨著重大交通建設與都市計畫雙效推進，房市也從「人口外流」走向「承接外溢」，其中交通條件改善、房價相對親民的花壇、和美等二線鄉鎮，也成為在地建商如格睿建設等積極布局的新戰場。",
+    "title_en": "The 30-minute living circle in Zhongzhang takes shape, and the \"Protein District\" of Changhua's real estate market rises to attract local developers.",
+    "summary_en": "The real estate market in Changhua County is undergoing unprecedented structural changes. In the past, Changhua faced the challenges of population outflow and the squeeze on housing prices in Taichung. Now, with the dual-efficiency advancement of major transportation construction and urban planning, the housing market has also shifted from \"population outflow\" to \"acceptance of spillover.\" Among them, second-tier towns such as Huatan and Hemei, where traffic conditions have improved and housing prices are relatively affordable, have also become new battlefields for local developers such as Green Construction."
+  },
+  {
+    "title": "美限制外國製移動機器人 台廠精密機械鏈憑什麼能搶單？ 從零件到量產一次到位",
+    "url": "https://money.udn.com/money/story/10871/9659183",
+    "source": "經濟日報股市",
+    "summary": "美國關上外國製移動機器人進口大門，卻替台灣精密機械業打開一扇窗！台廠的優勢不只是「非中國供應鏈」，而是能將螺桿、減速機、軸承、關節馬達、控制器及加工設備一次備齊，並具備汽車與半導體產業累積的大量生產能力。",
+    "published_at": "2026-07-29T22:21:05+08:00",
+    "stocks": [],
+    "uid": "574d58326ec987f01db74a994d9c02db",
+    "title_zh": "美限制外國製移動機器人 台廠精密機械鏈憑什麼能搶單？ 從零件到量產一次到位",
+    "summary_zh": "美國關上外國製移動機器人進口大門，卻替台灣精密機械業打開一扇窗！台廠的優勢不只是「非中國供應鏈」，而是能將螺桿、減速機、軸承、關節馬達、控制器及加工設備一次備齊，並具備汽車與半導體產業累積的大量生產能力。",
+    "title_en": "The United States restricts foreign-made mobile robots. Why can Taiwanese precision machinery chains grab orders? From parts to mass production in one go",
+    "summary_en": "The United States has closed the door to the import of foreign-made mobile robots, but opened a window for Taiwan's precision machinery industry! The advantage of the Taiwanese factory is not only the \"non-Chinese supply chain\", but also the ability to prepare screws, reducers, bearings, joint motors, controllers and processing equipment at once, and it has the mass production capacity accumulated in the automotive and semiconductor industries."
+  },
+  {
+    "title": "伊朗彈襲約旦美軍基地 川普揚言嚴厲報復 國際油價飆破90美元",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5522296",
+    "source": "自由財經",
+    "summary": "彭博報導，在伊朗攻擊約旦美軍基地後，美國總統川普揚言，將對伊朗展開嚴厲報復。他29日接受福斯新聞（Fox News）電話訪問說，「我們將痛擊他們；他們將遭受重創」。\n\n\n...…",
+    "published_at": "2026-07-29T22:19:34+08:00",
+    "stocks": [],
+    "uid": "d04ce39e95557c914415687f2379db2d",
+    "title_zh": "伊朗彈襲約旦美軍基地 川普揚言嚴厲報復 國際油價飆破90美元",
+    "summary_zh": "彭博報導，在伊朗攻擊約旦美軍基地後，美國總統川普揚言，將對伊朗展開嚴厲報復。他29日接受福斯新聞（Fox News）電話訪問說，「我們將痛擊他們；他們將遭受重創」。\n\n\n...…",
+    "title_en": "Iran bombs US military base in Jordan, Trump threatens severe retaliation, international oil prices soar above US$90",
+    "summary_en": "Bloomberg reported that after Iran attacked a U.S. military base in Jordan, U.S. President Trump threatened to launch severe retaliation against Iran. He said in a phone interview with Fox News on the 29th, \"We are going to hit them hard; they are going to be hit hard.\"\n\n\n..."
+  },
+  {
+    "title": "今彩539第115183期　頭獎1注中獎",
+    "url": "https://money.udn.com/money/story/122328/9659189",
+    "source": "經濟日報總經",
+    "summary": "今彩539第115183期開獎，中獎號碼33、36、05、14、32；派彩結果，頭獎1注中獎，獎金新台幣800萬元",
+    "published_at": "2026-07-29T22:13:08+08:00",
+    "stocks": [],
+    "uid": "4a080b63946c1d1102940ec32ec1d8b8",
+    "title_zh": "今彩539第115183期　頭獎1注中獎",
+    "summary_zh": "今彩539第115183期開獎，中獎號碼33、36、05、14、32；派彩結果，頭獎1注中獎，獎金新台幣800萬元",
+    "title_en": "Jincai 539 No. 115183 The first prize is won by 1 note",
+    "summary_en": "The 115183rd lottery draw of Jincai 539, the winning numbers are 33, 36, 05, 14, 32; the result of the lottery is that the first prize is won by 1 note, with a bonus of NT$8 million."
+  },
+  {
+    "title": "鉅亨速報 - Factset 最新調查：聯電(2303-TW)EPS預估上修至4.93元，預估目標價為120元",
+    "url": "https://news.cnyes.com/news/id/6551204",
+    "source": "鉅亨網",
+    "summary": "FactSet 最新調查：聯電(2303-TW)EPS預估上修，預估EPS、預估營收、目標價、歷史獲利表現、即時新聞資訊。",
+    "published_at": "2026-07-29T22:11:10+08:00",
+    "stocks": [
+      "TWS:2303:STOCK"
+    ],
+    "uid": "994af40ce3003379ec188a1143e42561",
+    "title_zh": "鉅亨速報 - Factset 最新調查：聯電(2303-TW)EPS預估上修至4.93元，預估目標價為120元",
+    "summary_zh": "FactSet 最新調查：聯電(2303-TW)EPS預估上修，預估EPS、預估營收、目標價、歷史獲利表現、即時新聞資訊。",
+    "title_en": "Juheng Express - Factset latest survey: UMC (2303-TW) EPS estimate is revised upward to 4.93 yuan, with an estimated target price of 120 yuan",
+    "summary_en": "FactSet latest survey: UMC (2303-TW) EPS estimate has been revised upward, estimated EPS, estimated revenue, target price, historical profit performance, and real-time news information."
+  },
+  {
+    "title": "今彩539第115183期　頭獎1注中獎",
+    "url": "https://www.cna.com.tw/news/ahel/202607290372.aspx",
+    "source": "中央社",
+    "summary": "（中央社台北29日電）今彩539第115183期開獎，中獎號碼33、36、05、14、32；派彩結果，頭獎1注中獎，獎金新台幣800萬元。",
+    "published_at": "2026-07-29T22:07:49+08:00",
+    "stocks": [],
+    "uid": "39dd475515df04d2016052f9ba8a79d2",
+    "title_zh": "今彩539第115183期　頭獎1注中獎",
+    "summary_zh": "（中央社台北29日電）今彩539第115183期開獎，中獎號碼33、36、05、14、32；派彩結果，頭獎1注中獎，獎金新台幣800萬元。",
+    "title_en": "Jincai 539 No. 115183 The first prize is won by 1 note",
+    "summary_en": "(Central News Agency, Taipei, 29th) The 115183rd lottery draw of Jincai 539, the winning numbers are 33, 36, 05, 14, and 32; the result of the lottery is that the first prize is won by 1 bet, with a bonus of NT$8 million."
+  },
+  {
+    "title": "韓股今年第9度熔斷　個股槓桿型ETF如何加劇市場波動",
+    "url": "https://www.cna.com.tw/news/aopl/202607290371.aspx",
+    "source": "中央社",
+    "summary": "（中央社新加坡29日綜合外電報導）韓國股市Kospi指數今天再度大跌，觸發今年以來第9度熔斷，熱門投資工具個股槓桿型ETF被認為是放大市場波動的重要因素之一。",
+    "published_at": "2026-07-29T22:06:47+08:00",
+    "stocks": [],
+    "uid": "732754429403629bdd9c42d328e83b98",
+    "title_zh": "韓股今年第9度熔斷　個股槓桿型ETF如何加劇市場波動",
+    "summary_zh": "（中央社新加坡29日綜合外電報導）韓國股市Kospi指數今天再度大跌，觸發今年以來第9度熔斷，熱門投資工具個股槓桿型ETF被認為是放大市場波動的重要因素之一。",
+    "title_en": "Korean stocks have experienced a circuit breaker for the 9th time this year. How individual stock leveraged ETFs intensify market volatility",
+    "summary_en": "(Central News Agency, Singapore, comprehensive foreign news report on the 29th) The Korean stock market Kospi index fell sharply again today, triggering the ninth circuit breaker this year. Popular investment tools, leveraged ETFs, are considered to be one of the important factors that amplify market fluctuations."
+  },
+  {
+    "title": "川普政府限制中國機器人進口 智庫：美國產業迎來大轉機",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5522273",
+    "source": "自由財經",
+    "summary": "美國聯邦通訊委員會（FCC）28日說，基於國安官員指出的潛在供應鏈漏洞，將限制部分外國製機器人與電源逆變器進口，以保護美國人工智慧（AI）建設免受國家安全威脅，此舉恐加劇...…",
+    "published_at": "2026-07-29T21:58:21+08:00",
+    "stocks": [],
+    "uid": "3063f2d1988375a2817194a873d39cc6",
+    "title_zh": "川普政府限制中國機器人進口 智庫：美國產業迎來大轉機",
+    "summary_zh": "美國聯邦通訊委員會（FCC）28日說，基於國安官員指出的潛在供應鏈漏洞，將限制部分外國製機器人與電源逆變器進口，以保護美國人工智慧（AI）建設免受國家安全威脅，此舉恐加劇...…",
+    "title_en": "The Trump administration restricts imports of Chinese robots. Think tank: U.S. industry is ushering in a big turnaround",
+    "summary_en": "The U.S. Federal Communications Commission (FCC) said on the 28th that based on potential supply chain vulnerabilities pointed out by national security officials, it will restrict the import of some foreign-made robots and power inverters to protect U.S. artificial intelligence (AI) construction from national security threats. This move may intensify..."
+  },
+  {
+    "title": "瑞銀上調台灣2026年GDP成長預測至11％ 創近40年新高",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5522277",
+    "source": "自由財經",
+    "summary": "瑞銀最新發布的亞太經濟展望報告指出，受惠於出口動能持續優於預期、企業資本支出維持擴張，以及人工智慧熱潮帶來的外溢效應逐漸顯現，瑞銀決定將台灣2026年全年GDP成長率預測...…",
+    "published_at": "2026-07-29T21:56:17+08:00",
+    "stocks": [],
+    "uid": "aa113eb641afea5667ad493a97c37fe0",
+    "title_zh": "瑞銀上調台灣2026年GDP成長預測至11％ 創近40年新高",
+    "summary_zh": "瑞銀最新發布的亞太經濟展望報告指出，受惠於出口動能持續優於預期、企業資本支出維持擴張，以及人工智慧熱潮帶來的外溢效應逐漸顯現，瑞銀決定將台灣2026年全年GDP成長率預測...…",
+    "title_en": "UBS raises Taiwan's 2026 GDP growth forecast to 11%, a new high in nearly 40 years",
+    "summary_en": "The latest Asia-Pacific economic outlook report released by UBS pointed out that thanks to export momentum continuing to be better than expected, corporate capital expenditures maintaining expansion, and the spillover effects brought about by the artificial intelligence boom gradually emerging, UBS decided to forecast Taiwan's GDP growth rate for 2026..."
+  },
+  {
+    "title": "台股暴跌 上市櫃融資單日史詩級大減520億元破紀錄",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5522276",
+    "source": "自由財經",
+    "summary": "台股兩天重挫超過四千點，根據證交所及櫃買統計，今日上市櫃融資金額合計大減520億元，創下單日最大減少金額，其中上市融資餘額降至5070億元、上櫃降至1674億元。\n\n\n根...…",
+    "published_at": "2026-07-29T21:55:26+08:00",
+    "stocks": [],
+    "uid": "1c68f6175d3e95445d01dbb9b98e3986",
+    "title_zh": "台股暴跌 上市櫃融資單日史詩級大減520億元破紀錄",
+    "summary_zh": "台股兩天重挫超過四千點，根據證交所及櫃買統計，今日上市櫃融資金額合計大減520億元，創下單日最大減少金額，其中上市融資餘額降至5070億元、上櫃降至1674億元。\n\n\n根...…",
+    "title_en": "Taiwan stocks plummeted, listed OTC financing dropped an epic NT$52 billion in a single day, breaking record",
+    "summary_en": "Taiwan stocks fell more than 4,000 points in two days. According to statistics from the stock exchange and over-the-counter purchases, the total amount of listed OTC financing dropped by 52 billion yuan today, setting the largest decrease in a single day. Among them, the balance of listed financing dropped to 507 billion yuan and the OTC listing dropped to 167.4 billion yuan.\n\n\nroot...…"
+  },
+  {
+    "title": "AI股回檔是健康的？ 1個更大風險要提防",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5522280",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕面對全球科技股重挫，瑞銀表示，人工智慧領域的回檔是健康的，但投資者應該關注另一個更大的風險。瑞銀週三公佈第二季獲利成長，執行長塞爾吉奧·埃爾莫蒂（Sergio Ermott...…",
+    "published_at": "2026-07-29T21:54:32+08:00",
+    "stocks": [],
+    "uid": "7073327c56b4eaf44255d7bc3e57d8ae",
+    "title_zh": "AI股回檔是健康的？ 1個更大風險要提防",
+    "summary_zh": "〔財經頻道／綜合報導〕面對全球科技股重挫，瑞銀表示，人工智慧領域的回檔是健康的，但投資者應該關注另一個更大的風險。瑞銀週三公佈第二季獲利成長，執行長塞爾吉奧·埃爾莫蒂（Sergio Ermott...…",
+    "title_en": "Is the retracement of AI stocks healthy? 1 bigger risk to watch out for",
+    "summary_en": "[Financial Channel/Comprehensive Report] Faced with the plunge in global technology stocks, UBS said that the pullback in the field of artificial intelligence is healthy, but investors should pay attention to another greater risk. UBS reported second-quarter profit growth on Wednesday, with Chief Executive Sergio Ermott..."
+  },
+  {
+    "title": "台股融資餘額降至5070億元　大減385億元",
+    "url": "https://money.udn.com/money/story/5607/9659171",
+    "source": "經濟日報",
+    "summary": "台股今天殺聲隆隆，連續第2天重挫，終場集中市場指數下跌1564.18點，收在40039.18點，險守4萬點大關，融資斷頭...",
+    "published_at": "2026-07-29T21:54:26+08:00",
+    "stocks": [],
+    "uid": "c9fefefa9f730e2a1e3b959c26342091",
+    "title_zh": "台股融資餘額降至5070億元　大減385億元",
+    "summary_zh": "台股今天殺聲隆隆，連續第2天重挫，終場集中市場指數下跌1564.18點，收在40039.18點，險守4萬點大關，融資斷頭...",
+    "title_en": "The financing balance of Taiwan stocks dropped to 507 billion yuan, a significant decrease of 38.5 billion yuan",
+    "summary_en": "Taiwan stocks were roaring today, falling heavily for the second consecutive day. At the end of the day, the Concentrated Market Index fell 1,564.18 points to close at 40,039.18 points, barely holding on to the 40,000-point mark. Financing was cut off..."
+  },
+  {
+    "title": "融資維持率突然消失 CMoney緊急下架歷史數據",
+    "url": "https://money.udn.com/money/story/5607/9659168",
+    "source": "經濟日報",
+    "summary": "台股連日重挫，市場高度關注融資追繳壓力之際，投資資訊平台CMoney今（29）日下午突然公告，即日起停止提供融資維持率、融券維持率及整體維持率，相關歷史資料也將陸續下架，並強調後續應以證券交易所正式公告為準。",
+    "published_at": "2026-07-29T21:49:53+08:00",
+    "stocks": [],
+    "uid": "574c4c7e8b2b63ed4d545af27b085269",
+    "title_zh": "融資維持率突然消失 CMoney緊急下架歷史數據",
+    "summary_zh": "台股連日重挫，市場高度關注融資追繳壓力之際，投資資訊平台CMoney今（29）日下午突然公告，即日起停止提供融資維持率、融券維持率及整體維持率，相關歷史資料也將陸續下架，並強調後續應以證券交易所正式公告為準。",
+    "title_en": "Financing maintenance rate suddenly disappeared, CMoney urgently delisted historical data",
+    "summary_en": "Taiwan stocks have plummeted for days, and the market is paying close attention to the pressure of financing recovery. The investment information platform CMoney suddenly announced this afternoon (29th) that it will stop providing financing maintenance rate, securities lending maintenance rate and overall maintenance rate from now on. Relevant historical data will also be gradually removed from the shelves, and it is emphasized that the follow-up should be subject to the official announcement of the stock exchange."
+  },
+  {
+    "title": "王光祥千金王雅萱暫代三圓董事長 公司：未來將尋覓建設專業人士接任",
+    "url": "https://money.udn.com/money/story/5612/9659166",
+    "source": "經濟日報股市",
+    "summary": "三圓建設（4416）29日公告重大人事異動，原董事長王雅麟卸任董事長職務，由王雅萱接任董事長，她也是三圓掌門人王光祥的長女，並同步擔任法人董事代表人。此次改派後，董事會同任期董事變動比率達5/9，已達三分之一以上董事發生變動。",
+    "published_at": "2026-07-29T21:48:42+08:00",
+    "stocks": [
+      "4416"
+    ],
+    "uid": "d5922b246689be032415e125f588d3e0"
+  },
+  {
+    "title": "北富銀推24小時線上換匯 假日深夜也能即時交易",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5522268",
+    "source": "自由財經",
+    "summary": "為提供更便利、即時的外幣交易體驗，台北富邦銀行宣布推出「7天X 24小時線上換匯」服務，客戶透過Fubon+行動銀行或網路銀行，即可一週7天全時段辦理換匯，不受銀行營業時...…",
+    "published_at": "2026-07-29T21:48:38+08:00",
+    "stocks": [],
+    "uid": "49ff9fa10a7b6e728fce83f4ae42329b"
+  },
+  {
     "title": "中國對台灰色地帶脅迫加劇　學者：美應改採「結構性模糊」",
     "url": "https://money.udn.com/money/story/7307/9659161",
     "source": "經濟日報總經",
@@ -26,6 +377,15 @@
     "summary_zh": "牧德今（29）日召開董事會，通過 115 年上半年度財務報表，每股稅後盈餘（EPS）達 9.8 元，毛利率為  [&#8230;]",
     "title_en": "High-end AOI shipments are stable, and Mude’s EPS in the first half of the year reached 9.8 yuan",
     "summary_en": "Mude held a board meeting today (29th) and approved the financial statements for the first half of 2015. The after-tax earnings per share (EPS) reached 9.8 yuan, and the gross profit margin was […]"
+  },
+  {
+    "title": "台股融資餘額降至5070億元　大減385億元",
+    "url": "https://www.cna.com.tw/news/afe/202607290367.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者曾仁凱台北29日電）台股今天殺聲隆隆，連續第2天重挫，終場集中市場指數下跌1564.18點，收在40039.18點，險守4萬點大關，融資斷頭賣壓湧現。",
+    "published_at": "2026-07-29T21:40:37+08:00",
+    "stocks": [],
+    "uid": "b3a261d9eeece4e7a5608ab3f60edad4"
   },
   {
     "title": "汲取黑洞能量打造終極運算，科學家探討「戴森大腦」宇宙資料中心成真可能",
@@ -147,6 +507,15 @@
     "summary_en": "The Kumamoto earthquake disrupted TSMC (2330) JASM operations. TSMC further updated the latest situation at the plant on the evening of the 29th. TSMC pointed out that \"the water supply, electricity and industrial safety systems at the JASM plant are operating normally, and inspections and corrections related to production equipment continue to be carried out.\" Medium. Due to the large magnitude of this earthquake, it is expected that it will take some time for adjustments. After taking stock, TSMC has also deployed resources to support JASM. At the same time, the supply of raw materials is not affected. At the same time, the JASM factory construction site has not been affected, and construction has resumed on the 29th after confirming safety.\""
   },
   {
+    "title": "國銀富豪戶6月大增1576人　累計資產管理規模達2.8兆",
+    "url": "https://www.cna.com.tw/news/afe/202607290359.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者蘇思云台北29日電）資本市場熱絡，金管會統計顯示，21家國銀截至2026年6月底高資產客戶數達2萬6866人，單月大增1576人，創歷來單月增幅最大，高資產客戶管理資產規模（AUM）也增至新台幣2兆8063億元，月增1430億元，創單月增額次高。",
+    "published_at": "2026-07-29T21:14:17+08:00",
+    "stocks": [],
+    "uid": "d4f200b68391c5c713d8905e7b0123bd"
+  },
+  {
     "title": "台光電第2季賺近3股本　去年營收登全球CCL龍頭",
     "url": "https://money.udn.com/money/story/5710/9659102",
     "source": "經濟日報",
@@ -242,6 +611,35 @@
     "summary_zh": "日本熊本28日發生強震，晶圓代工廠台積電今天表示，由於這次震幅較大，熊本JASM晶圓廠預計需要一定的時間調整校正，台積電...",
     "title_en": "TSMC: Kumamoto factory needs adjustments and corrections, support has been deployed to comprehensively review the impact of the earthquake",
     "summary_en": "A strong earthquake occurred in Kumamoto, Japan on the 28th. The wafer foundry TSMC said today that due to the large magnitude of the earthquake, the Kumamoto JASM wafer factory is expected to take some time to adjust and correct. TSMC..."
+  },
+  {
+    "title": "台光電第2季賺近3股本　去年營收登全球CCL龍頭",
+    "url": "https://www.cna.com.tw/news/afe/202607290357.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者江明晏台北29日電）銅箔基板（CCL）廠台光電第2季每股盈餘27.55元，賺近3個股本，且連續6季每季賺逾1個股本。研調機構Prismark近期發布，台光電2025年營收已超越生益與建滔，登上全球CCL產業龍頭。",
+    "published_at": "2026-07-29T21:02:13+08:00",
+    "stocks": [
+      "2383"
+    ],
+    "uid": "9b0f4c5598c5d758d3661ba6e5a7ed60"
+  },
+  {
+    "title": "中聯油脂案風波　南僑李勘文籲落實食品雲追溯",
+    "url": "https://www.cna.com.tw/news/afe/202607290356.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者何秀玲台北29日電）南僑總裁李勘文表示，政府應落實既有食品雲及追溯追蹤系統，確保食品供應鏈上下游批號串接，發生食安事件時，才能精準追查問題產品流向；同時應釐清業者通報程序、責任及保障，避免衝擊國內供應鏈互信。",
+    "published_at": "2026-07-29T21:01:11+08:00",
+    "stocks": [],
+    "uid": "b0d5f67edbf50b093246f9e9e5fc9bdd"
+  },
+  {
+    "title": "台積電：熊本廠需調整校正已調派支援　全面檢視地震影響",
+    "url": "https://www.cna.com.tw/news/afe/202607290354.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者張建中新竹29日電）日本熊本28日發生強震，晶圓代工廠台積電今天表示，由於這次震幅較大，熊本JASM晶圓廠預計需要一定的時間調整校正，台積電已調派資源支援JASM，目前原物料供應無虞，至於JASM建廠工地未受影響，確認安全後今天已恢復施工。此外，也正全面檢視這次地震所造成的影響，並與客戶保持密切溝通。",
+    "published_at": "2026-07-29T20:58:06+08:00",
+    "stocks": [],
+    "uid": "1f6d7b17a07fb695f8b3c01d1154ea81"
   },
   {
     "title": "焚化飛灰轉型循環經濟 環境部廣邀產官學暢談創新研發與水洗運營精進",
@@ -385,6 +783,15 @@
     "uid": "a72f68859c00c761f234cf9583b47591"
   },
   {
+    "title": "今彩539第115183期開獎",
+    "url": "https://www.cna.com.tw/news/ahel/202607290349.aspx",
+    "source": "中央社",
+    "summary": "（中央社台北29日電）今彩539第115183期開獎，中獎號碼33、36、05、14、32。3星彩中獎號碼846，4星彩中獎號碼7685。",
+    "published_at": "2026-07-29T20:43:55+08:00",
+    "stocks": [],
+    "uid": "dd915b92b016e22bc07f63dd7c1c870d"
+  },
+  {
     "title": "熊本強震 台積電JASM盤點完成 正常供電供水、產線調校中",
     "url": "https://news.cnyes.com/news/id/6551144",
     "source": "鉅亨網",
@@ -414,6 +821,15 @@
     "published_at": "2026-07-29T20:39:28+08:00",
     "stocks": [],
     "uid": "5f519966f337976c0f23d40c43eb12cb"
+  },
+  {
+    "title": "林之晨、蔡祈岩新書「逆分工」　解析AI梳子型人才",
+    "url": "https://www.cna.com.tw/news/afe/202607290347.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者江明晏台北29日電）台灣大哥大總經理林之晨、資訊長蔡祈岩推出新書「逆分工」，解析AI如何重新定價人才價值。蔡祈岩指出，未來最搶手的人才，是能清楚定義問題、調用AI與不同專業能力、判斷AI產出，並將這些能力整合為可落地成果的「梳子型人才」。",
+    "published_at": "2026-07-29T20:38:49+08:00",
+    "stocks": [],
+    "uid": "2dd026236eecf1bc96526b368ecf45da"
   },
   {
     "title": "外資賣超222億元 減碼6檔主動式ETF  加碼聯電近4萬張",
@@ -3353,6 +3769,15 @@
     "uid": "450f08b27fdd794bc37b0b12142361a5"
   },
   {
+    "title": "就是忍不住！她搶進加碼0050超後悔　網揭1關鍵心態：心魔最危險",
+    "url": "https://tw.news.yahoo.com/%E5%B0%B1%E6%98%AF%E5%BF%8D%E4%B8%8D%E4%BD%8F-%E5%A5%B9%E6%90%B6%E9%80%B2%E5%8A%A0%E7%A2%BC0050%E8%B6%85%E5%BE%8C%E6%82%94-%E7%B6%B2%E6%8F%AD1%E9%97%9C%E9%8D%B5%E5%BF%83%E6%85%8B-%E5%BF%83%E9%AD%94%E6%9C%80%E5%8D%B1%E9%9A%AA-152700910.html",
+    "source": "Yahoo股市",
+    "summary": "近期許多股民都熱衷於ETF，恰逢近日台股連續重挫，許多人開心逢低加碼。有網友卻發文表示後悔自己太快加碼，但貼文貼出後，留言的網友卻有不同的看法。",
+    "published_at": "2026-07-29T15:27:00+08:00",
+    "stocks": [],
+    "uid": "6e3b34c9764c4680ae70a6a3ed2f7b05"
+  },
+  {
     "title": "三大法人賣超收斂至317億元！台股續挫1,564點、115檔殺跌停 險守4萬關",
     "url": "https://money.udn.com/money/story/5607/9658394",
     "source": "經濟日報",
@@ -3414,6 +3839,15 @@
     "published_at": "2026-07-29T15:18:19+08:00",
     "stocks": [],
     "uid": "0d1b5acf89ef66947e76690d9546fe49"
+  },
+  {
+    "title": "南僑向福壽求償！李勘文還原3度驗油時序 籲補強追溯制度",
+    "url": "https://tw.stock.yahoo.com/news/%E5%8D%97%E5%83%91%E5%90%91%E7%A6%8F%E5%A3%BD%E6%B1%82%E5%84%9F%EF%BC%81%E6%9D%8E%E5%8B%98%E6%96%87%E9%82%84%E5%8E%9F3%E5%BA%A6%E9%A9%97%E6%B2%B9%E6%99%82%E5%BA%8F-%E7%B1%B2%E8%A3%9C%E5%BC%B7%E8%BF%BD%E6%BA%AF%E5%88%B6%E5%BA%A6-151633970.html",
+    "source": "Yahoo股市",
+    "summary": "南僑總裁李勘文29日攤開中聯油脂事件時間軸，強調南僑在3度驗出異常後，依序通知上游福壽追查，目的就是把事實講清楚，並正式登報要求福壽道歉及賠償相關損失。",
+    "published_at": "2026-07-29T15:16:33+08:00",
+    "stocks": [],
+    "uid": "a3fd74e7346417f14995a77ffdfecc6a"
   },
   {
     "title": "精測法說會／產能一年多翻3倍 黃水可：第3季、第4季會一路更好",
@@ -3520,6 +3954,15 @@
     "uid": "57a940c03f495280c04351aa4e941bac"
   },
   {
+    "title": "揭​台股大漲不理性「大跌亦是如此」　阮慕驊從基本面看行情：恐慌不會這麼久",
+    "url": "https://tw.news.yahoo.com/%E6%8F%AD-%E5%8F%B0%E8%82%A1%E5%A4%A7%E6%BC%B2%E4%B8%8D%E7%90%86%E6%80%A7-%E5%A4%A7%E8%B7%8C%E4%BA%A6%E6%98%AF%E5%A6%82%E6%AD%A4-%E9%98%AE%E6%85%95%E9%A9%8A%E5%BE%9E%E5%9F%BA%E6%9C%AC%E9%9D%A2%E7%9C%8B%E8%A1%8C%E6%83%85-%E6%81%90%E6%85%8C%E4%B8%8D%E6%9C%83%E9%80%99%E9%BA%BC%E4%B9%85-150909724.html",
+    "source": "Yahoo股市",
+    "summary": "台股近期大重挫，指數今（29）日延續跌勢，盤中更一度跌破4萬點，收盤勉強站回整數大關，不少日前才進場追高的投資人紛紛大虧，市場陷入恐慌。對此，財經專家阮慕驊在節目《財經一路發》直言，這幾個月的行情，是被極端樂觀跟極端恐慌所主導，但基本面始終沒有變，「這幾天情緒性發洩到極端之後，方向性就會出來了。」阮慕驊表示，今日這麼多檔權值股跌停，再加上熱門股躺平，「你說......",
+    "published_at": "2026-07-29T15:09:09+08:00",
+    "stocks": [],
+    "uid": "06a2bfb9acfab7c1676e652d8e5af667"
+  },
+  {
     "title": "因應熊本地震 旅遊業者：航班取消可全額退款",
     "url": "https://money.udn.com/money/story/5648/9658344",
     "source": "經濟日報總經",
@@ -3538,6 +3981,15 @@
       "2002"
     ],
     "uid": "6abf5ed3d521d7945a4f87abafb9c178"
+  },
+  {
+    "title": "台股暴跌融資狂減520億元！創上市櫃融資單日最大減少金額",
+    "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%9A%B4%E8%B7%8C%E8%9E%8D%E8%B3%87%E7%8B%82%E6%B8%9B520%E5%84%84%E5%85%83-%E5%89%B5%E4%B8%8A%E5%B8%82%E6%AB%83%E8%9E%8D%E8%B3%87%E5%96%AE%E6%97%A5%E6%9C%80%E5%A4%A7%E6%B8%9B%E5%B0%91%E9%87%91%E9%A1%8D-150300270.html",
+    "source": "Yahoo股市",
+    "summary": "台股連續兩天重挫逾4千點，證交所與櫃買中心統計，今（29）日上市櫃融資金額大減520億元，創下了單日最大的減少金額。",
+    "published_at": "2026-07-29T15:03:00+08:00",
+    "stocks": [],
+    "uid": "3b21d4999b2890cfad06b016e572e4d6"
   },
   {
     "title": "教偏鄉老人「玩手機」中華電信攜手竹縣府AI賦能長者",
@@ -3567,6 +4019,24 @@
       "TWS:2382:STOCK"
     ],
     "uid": "96c8b02182f2048576d5bd1fcc081eee"
+  },
+  {
+    "title": "台股暴跌逾1500點！高股息ETF抗震力強　「這檔」逆勢小漲",
+    "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E6%9A%B4%E8%B7%8C%E9%80%BE1500%E9%BB%9E-%E9%AB%98%E8%82%A1%E6%81%AFetf%E6%8A%97%E9%9C%87%E5%8A%9B%E5%BC%B7-%E9%80%99%E6%AA%94-%E9%80%86%E5%8B%A2%E5%B0%8F%E6%BC%B2-150000277.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]實習記者藍彥欣／綜合報導台股今（29）日再度上演「股災級」震盪，大盤終場重挫1564.18點，收在40,039.18點，寫下史上第七大單日跌點紀錄，權值...",
+    "published_at": "2026-07-29T15:00:00+08:00",
+    "stocks": [],
+    "uid": "be119a12ec8ebd5e7b7d7b49d83d2cd1"
+  },
+  {
+    "title": "哪間AI公司最危險？陳鳳馨點名1巨頭：股價暴跌4成，再降1級變「垃圾公司」",
+    "url": "https://tw.news.yahoo.com/%E5%93%AA%E9%96%93ai%E5%85%AC%E5%8F%B8%E6%9C%80%E5%8D%B1%E9%9A%AA-%E9%99%B3%E9%B3%B3%E9%A6%A8%E9%BB%9E%E5%90%8D1%E5%B7%A8%E9%A0%AD-%E8%82%A1%E5%83%B9%E6%9A%B4%E8%B7%8C4%E6%88%90-%E5%86%8D%E9%99%8D1%E7%B4%9A%E8%AE%8A-%E5%9E%83%E5%9C%BE%E5%85%AC%E5%8F%B8-145702257.html",
+    "source": "Yahoo股市",
+    "summary": "美國大型科技公司最新的財報引發市場對AI巨額支出的擔憂。資深媒體人陳鳳馨於節目《東南西北龍鳳配》中指出，估計今年5家科技公司的資本支出金額，超過營運現金流能賺的資金，讓5家公司的現金流加起來變成負28億美元，其中最危險的是甲骨文。甲骨文今年以來股價跌了41%，標普全球又把甲骨文債券的信用評級從BBB降到BBB-，再往下降它就變成垃圾等級公司。​​Alphab......",
+    "published_at": "2026-07-29T14:57:02+08:00",
+    "stocks": [],
+    "uid": "1b7020840a03b57e21a62588ff39c3f2"
   },
   {
     "title": "台股重挫1564點險守4萬點　38檔千金股10檔跌停",
@@ -3605,6 +4075,15 @@
     "uid": "e4eba7c7425839da45c523ca33fb0938"
   },
   {
+    "title": "退休夢變育兒人生！ 110萬美國祖父母咬牙扛起養孫重擔",
+    "url": "https://tw.stock.yahoo.com/news/%E9%80%80%E4%BC%91%E5%A4%A2%E8%AE%8A%E8%82%B2%E5%85%92%E4%BA%BA%E7%94%9F-110%E8%90%AC%E7%BE%8E%E5%9C%8B%E7%A5%96%E7%88%B6%E6%AF%8D%E5%92%AC%E7%89%99%E6%89%9B%E8%B5%B7%E9%A4%8A%E5%AD%AB%E9%87%8D%E6%93%94-145359699.html",
+    "source": "Yahoo股市",
+    "summary": "原本期待退休後安享晚年，卻因子女無法照顧孩子，再度扛起育兒責任。美國愈來愈多祖父母在退休年紀重新成為主要照顧者，不僅生活重心完全改變，也必須面對經濟、健康與法律等多重壓力。",
+    "published_at": "2026-07-29T14:53:59+08:00",
+    "stocks": [],
+    "uid": "35568e814dc718bd42ecb90c892f6ee1"
+  },
+  {
     "title": "太魯閣號集電弓纏繞電車線！北埔=花蓮受影響 台鐵改派列車接駁旅客",
     "url": "https://money.udn.com/money/story/122328/9658281",
     "source": "經濟日報總經",
@@ -3612,6 +4091,18 @@
     "published_at": "2026-07-29T14:53:46+08:00",
     "stocks": [],
     "uid": "4e69cad11840cead5c03d580d79633a5"
+  },
+  {
+    "title": "處置股再增3檔！聯友金屬-創延到8月 華星光也入列",
+    "url": "https://tw.news.yahoo.com/%E8%99%95%E7%BD%AE%E8%82%A1%E5%86%8D%E5%A2%9E3%E6%AA%94-%E8%81%AF%E5%8F%8B%E9%87%91%E5%B1%AC-%E5%89%B5%E5%BB%B6%E5%88%B08%E6%9C%88-%E8%8F%AF%E6%98%9F%E5%85%89%E4%B9%9F%E5%85%A5%E5%88%97-145300204.html",
+    "source": "Yahoo股市",
+    "summary": "處置股再增3檔！聯友金屬-創延到8月 華星光也入列",
+    "published_at": "2026-07-29T14:53:00+08:00",
+    "stocks": [
+      "7610",
+      "4979"
+    ],
+    "uid": "0cfca22f553f3f357f17fb64860a62ab"
   },
   {
     "title": "無人載具預算審查非紅鏈再起　國防自主卡位軍工股？",
@@ -3668,6 +4159,33 @@
     "uid": "3eba88c7d4cb8e3b169d4a053bb75d6b"
   },
   {
+    "title": "川普一句話油價續飆！美股四大指數全面綠油油　台積電ADR慘崩3.85%、聯電ADR逆勢走揚",
+    "url": "https://tw.stock.yahoo.com/news/%E5%B7%9D%E6%99%AE-%E5%8F%A5%E8%A9%B1%E6%B2%B9%E5%83%B9%E7%BA%8C%E9%A3%86-%E7%BE%8E%E8%82%A1%E5%9B%9B%E5%A4%A7%E6%8C%87%E6%95%B8%E5%85%A8%E9%9D%A2%E7%B6%A0%E6%B2%B9%E6%B2%B9-%E5%8F%B0%E7%A9%8D%E9%9B%BBadr%E6%85%98%E5%B4%A93-85-145000672.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]記者薛明峻／台北報導隨著中東戰事再度升溫，美國總統川普（DonaldTrump）告訴福斯新聞記者將對伊朗發動突襲「嚴厲打擊」，推升油價持續飆升，美...",
+    "published_at": "2026-07-29T14:50:00+08:00",
+    "stocks": [],
+    "uid": "f8eeffe13474223b6795cf4d7184c422"
+  },
+  {
+    "title": "美股早盤下挫　市場等候聯準會決策及科技業財報出爐",
+    "url": "https://tw.news.yahoo.com/%E7%BE%8E%E8%82%A1%E6%97%A9%E7%9B%A4%E4%B8%8B%E6%8C%AB-%E5%B8%82%E5%A0%B4%E7%AD%89%E5%80%99%E8%81%AF%E6%BA%96%E6%9C%83%E6%B1%BA%E7%AD%96%E5%8F%8A%E7%A7%91%E6%8A%80%E6%A5%AD%E8%B2%A1%E5%A0%B1%E5%87%BA%E7%88%90-144913844.html",
+    "source": "Yahoo股市",
+    "summary": "（中央社紐約29日綜合外電報導）在市場消化中東戰事導致油價上漲的消息，並等候科技巨擘財報及聯邦準備理事會（Fed）決策出爐之際，美股早盤今天走跌。",
+    "published_at": "2026-07-29T14:49:13+08:00",
+    "stocks": [],
+    "uid": "7a64eba14aae32ac26b6383cc65580c4"
+  },
+  {
+    "title": "國巨冰火交戰2》產能衝破9成　客戶上演加價搶貨",
+    "url": "https://tw.news.yahoo.com/%E5%9C%8B%E5%B7%A8%E5%86%B0%E7%81%AB%E4%BA%A4%E6%88%B02-%E7%94%A2%E8%83%BD%E8%A1%9D%E7%A0%B49%E6%88%90-%E5%AE%A2%E6%88%B6%E4%B8%8A%E6%BC%94%E5%8A%A0%E5%83%B9%E6%90%B6%E8%B2%A8-144848148.html",
+    "source": "Yahoo股市",
+    "summary": "AI改變被動元件市場遊戲規則！以前，客戶談的是價格；如今，愈來愈多業者改談「先拿貨」，國巨29日法說會透露，有客戶為了確保未來供貨無虞，簽下一年期供貨協議，甚至支付溢價（Premium）。 AI訂單愈接愈快 客戶開始搶鎖產能 國巨表示，今年…",
+    "published_at": "2026-07-29T14:48:48+08:00",
+    "stocks": [],
+    "uid": "045d5122d88ec1b47699192e8a368182"
+  },
+  {
     "title": "藍白還在吵無人機預算 台電攜大甲高工首創無人機應用專班",
     "url": "https://ec.ltn.com.tw/article/breakingnews/5521702",
     "source": "自由財經",
@@ -3689,6 +4207,33 @@
     "uid": "5ece611f754280760d971427917e8108"
   },
   {
+    "title": "台股大屠殺再挫千點！法人點名「2止跌關鍵」歷史數據曝Q3魔咒　今年這時有望再創高",
+    "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%A4%A7%E5%B1%A0%E6%AE%BA%E5%86%8D%E6%8C%AB%E5%8D%83%E9%BB%9E-%E6%B3%95%E4%BA%BA%E9%BB%9E%E5%90%8D-2%E6%AD%A2%E8%B7%8C%E9%97%9C%E9%8D%B5-%E6%AD%B7%E5%8F%B2%E6%95%B8%E6%93%9A%E6%9B%9Dq3%E9%AD%94%E5%92%92-%E4%BB%8A%E5%B9%B4%E9%80%99%E6%99%82%E6%9C%89%E6%9C%9B%E5%86%8D%E5%89%B5%E9%AB%98-144500228.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]實習記者藍彥欣／綜合報導受美股科技股賣壓與地緣政治疑慮影響，台灣近期劇烈震盪，籌碼持續洗盤，台股今（29）日開盤不到20分鐘就跌逾千點，盤...",
+    "published_at": "2026-07-29T14:45:00+08:00",
+    "stocks": [],
+    "uid": "3ed1fcdd18a8832b924f68a5e5901bd4"
+  },
+  {
+    "title": "玻纖布廠也慘跌！「這2檔」獲外資低接、自營商也撒1億元加碼　連2買台玻掃入572張",
+    "url": "https://tw.stock.yahoo.com/news/%E7%8E%BB%E7%BA%96%E5%B8%83%E5%BB%A0%E4%B9%9F%E6%85%98%E8%B7%8C-%E9%80%992%E6%AA%94-%E7%8D%B2%E5%A4%96%E8%B3%87%E4%BD%8E%E6%8E%A5-%E8%87%AA%E7%87%9F%E5%95%86%E4%B9%9F%E6%92%921%E5%84%84%E5%85%83%E5%8A%A0%E7%A2%BC-%E9%80%A32%E8%B2%B7%E5%8F%B0%E7%8E%BB%E6%8E%83%E5%85%A5572%E5%BC%B5-144500286.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]記者王凱暄／綜合報導台股加權指數今（29）日跌勢未停，盤中一度再挫逾2000點、失守4萬點整數關卡，但在尾盤突現指數急拉，終場力守4萬關卡，收...",
+    "published_at": "2026-07-29T14:45:00+08:00",
+    "stocks": [],
+    "uid": "3041665dc0b5ca2a80c719d66398850a"
+  },
+  {
+    "title": "中東戰火再起推升國際油價　布倫特站上每桶90美元",
+    "url": "https://tw.news.yahoo.com/%E4%B8%AD%E6%9D%B1%E6%88%B0%E7%81%AB%E5%86%8D%E8%B5%B7%E6%8E%A8%E5%8D%87%E5%9C%8B%E9%9A%9B%E6%B2%B9%E5%83%B9-%E5%B8%83%E5%80%AB%E7%89%B9%E7%AB%99%E4%B8%8A%E6%AF%8F%E6%A1%B690%E7%BE%8E%E5%85%83-144206743.html",
+    "source": "Yahoo股市",
+    "summary": "（中央社紐約29日綜合外電報導）美國與伊朗的軍事衝突先前似乎轉向外交途徑解決，如今又恢復戰火，引起市場擔憂原油供應中斷，使國際油價今天反彈飆漲。",
+    "published_at": "2026-07-29T14:42:06+08:00",
+    "stocks": [],
+    "uid": "d6a42799cc57154577c8bf9b1169c32c"
+  },
+  {
     "title": "今年美股上演「價值股逆襲」  科技巨頭為最大推手",
     "url": "https://finance.technews.tw/2026/07/29/us-value-stocks-outpace-growth-stocks/",
     "source": "科技新報",
@@ -3696,6 +4241,35 @@
     "published_at": "2026-07-29T14:40:15+08:00",
     "stocks": [],
     "uid": "47df0e654d72a6d971409cd5c0811a54"
+  },
+  {
+    "title": "【國巨法說】客戶搶簽長約願付溢價　上半年 EPS 達 8.48 元、暫不實施庫藏股",
+    "url": "https://tw.news.yahoo.com/%E5%9C%8B%E5%B7%A8%E6%B3%95%E8%AA%AA-%E5%AE%A2%E6%88%B6%E6%90%B6%E7%B0%BD%E9%95%B7%E7%B4%84%E9%A1%98%E4%BB%98%E6%BA%A2%E5%83%B9-%E4%B8%8A%E5%8D%8A%E5%B9%B4-eps-%E9%81%94-143800767.html",
+    "source": "Yahoo股市",
+    "summary": "【緯來新聞網】原物料成本一路墊高，照理說該是壓垮毛利率的壞消息，但被動元件大廠國巨（2327）今（2",
+    "published_at": "2026-07-29T14:38:00+08:00",
+    "stocks": [
+      "2327"
+    ],
+    "uid": "e9b44a67af0baa4b8e0cb8544bef5869"
+  },
+  {
+    "title": "聯準會決策前夕道瓊大跌800點　油價高漲伊朗戰雲密布",
+    "url": "https://tw.news.yahoo.com/%E8%81%AF%E6%BA%96%E6%9C%83%E6%B1%BA%E7%AD%96%E5%89%8D%E5%A4%95%E9%81%93%E7%93%8A%E5%A4%A7%E8%B7%8C800%E9%BB%9E-%E6%B2%B9%E5%83%B9%E9%AB%98%E6%BC%B2%E4%BC%8A%E6%9C%97%E6%88%B0%E9%9B%B2%E5%AF%86%E5%B8%83-143737323.html",
+    "source": "Yahoo股市",
+    "summary": "美國聯準會（Fed）週三（29日）公布最新利率決策前夕，美國股市開盤走低，道瓊工業指數大跌逾600點。主要原因在於美國總統川普表示將「大力攻擊」伊朗後，原油價格大幅飆升。",
+    "published_at": "2026-07-29T14:37:37+08:00",
+    "stocks": [],
+    "uid": "818f9abfcff00ea2ed0a5d69dc909e87"
+  },
+  {
+    "title": "台股險失守4萬大關！專家「豪砸107萬買2檔」沒在怕",
+    "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%9A%AA%E5%A4%B1%E5%AE%884%E8%90%AC%E5%A4%A7%E9%97%9C-%E5%B0%88%E5%AE%B6-%E8%B1%AA%E7%A0%B8107%E8%90%AC%E8%B2%B72%E6%AA%94-%E6%B2%92%E5%9C%A8%E6%80%95-143629100.html",
+    "source": "Yahoo股市",
+    "summary": "財經中心／綜合報導台股近日走勢劇烈震盪，今（29）日盤中甚至數度危急險些跌破 4 萬點大關，讓廣大股民心驚膽跳、恐慌情緒蔓延。然而，知名理財作家施昇輝卻選擇逆風操作，稍早貼出交易截圖，透露自己趁著今日大盤急跌時，果斷砸下約 107 萬元重金，買入「這2擋」，讓網友們驚喊「非常正確的示範」。",
+    "published_at": "2026-07-29T14:36:29+08:00",
+    "stocks": [],
+    "uid": "5a7bee9d926782eed7c5e419e5c7f11a"
   },
   {
     "title": "台股第七大跌點守住 ４ 萬點大關！AI 融資疑慮十大抗震 ETF 出列",
@@ -3791,6 +4365,42 @@
     "uid": "4c54e6037a43adb840b7b2723e618fdc"
   },
   {
+    "title": "兌現「1億爆砸0050」之約！台股跌破4萬郭哲榮狂買1100張：今年有望破5萬",
+    "url": "https://tw.stock.yahoo.com/news/%E5%85%8C%E7%8F%BE-1%E5%84%84%E7%88%86%E7%A0%B80050-%E4%B9%8B%E7%B4%84-%E5%8F%B0%E8%82%A1%E8%B7%8C%E7%A0%B44%E8%90%AC%E9%83%AD%E5%93%B2%E6%A6%AE%E7%8B%82%E8%B2%B71100%E5%BC%B5-%E4%BB%8A%E5%B9%B4%E6%9C%89%E6%9C%9B%E7%A0%B45%E8%90%AC-143000390.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]財經中心／綜合報導台股近期震盪劇烈，繼昨（28）日重跌2030.83點，創下史上第三大單日跌點，今（29）日盤中再挫2218.51點，直接跌破4萬點大關，...",
+    "published_at": "2026-07-29T14:30:00+08:00",
+    "stocks": [],
+    "uid": "166ea82db1b5c84175afde6b054d289e"
+  },
+  {
+    "title": "【欣興法說】目標毛利率 60％！英特爾 EMIB-T 載板挑戰 50％ 良率、最快明年量產",
+    "url": "https://tw.news.yahoo.com/%E6%AC%A3%E8%88%88%E6%B3%95%E8%AA%AA-%E7%9B%AE%E6%A8%99%E6%AF%9B%E5%88%A9%E7%8E%87-60-%E8%8B%B1%E7%89%B9%E7%88%BE-emib-142700432.html",
+    "source": "Yahoo股市",
+    "summary": "【緯來新聞網】針對先進封裝布局，欣興資深副總暨行銷長楊筑華今（29）日在法說會上證實，與英特爾 EM",
+    "published_at": "2026-07-29T14:27:00+08:00",
+    "stocks": [],
+    "uid": "b42a8ba8de1a59364b8821684e2936bc"
+  },
+  {
+    "title": "廣達集團金孫達明賺翻！2Q獲利衝1.23億元狂增80％　寫單季歷史新高",
+    "url": "https://tw.news.yahoo.com/%E5%BB%A3%E9%81%94%E9%9B%86%E5%9C%98%E9%87%91%E5%AD%AB%E9%81%94%E6%98%8E%E8%B3%BA%E7%BF%BB-2q%E7%8D%B2%E5%88%A9%E8%A1%9D1-23%E5%84%84%E5%85%83%E7%8B%82%E5%A2%9E80-%E5%AF%AB%E5%96%AE%E5%AD%A3%E6%AD%B7%E5%8F%B2%E6%96%B0%E9%AB%98-142500076.html",
+    "source": "Yahoo股市",
+    "summary": "協作機器人大廠達明第二季爆賺！達明公告，第二季稅後純益為1.23億元，不僅比首季大增80％，更是單季歷史新高，相較於去年同期的虧損則是轉虧為盈，單季EPS為1.18元，上半年稅後純益為1.91億元，比去年同期暴增4.3倍，EPS為1.83元。",
+    "published_at": "2026-07-29T14:25:00+08:00",
+    "stocks": [],
+    "uid": "07b71af6963a64e2311b182d3fdd61a9"
+  },
+  {
+    "title": "盛田昭夫打造SONY品牌傳奇 翻轉日本製造國際形象",
+    "url": "https://tw.stock.yahoo.com/news/%E7%9B%9B%E7%94%B0%E6%98%AD%E5%A4%AB%E6%89%93%E9%80%A0sony%E5%93%81%E7%89%8C%E5%82%B3%E5%A5%87-%E7%BF%BB%E8%BD%89%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%80%A0%E5%9C%8B%E9%9A%9B%E5%BD%A2%E8%B1%A1-142400730.html",
+    "source": "Yahoo股市",
+    "summary": "圖／示意圖商傳媒｜吳承岳／台北報導日本企業家盛田昭夫與井深大共同創立東京通信工業（後更名為SONY），不僅打造出全球知名電子品牌，也成功改變國際市場對日本製造的印象。透過品牌經營、產品創新與國際化策略，盛田昭夫帶領SONY從戰後新創企業躍升為世界級科技品牌，並推動「日本製造」逐步建立高品質、高價值的品牌形象。盛田昭夫認為，企業不只是製造產品，更應建立品牌價值與生活風格。他將SONY定位為兼具創新、設計與科技感的品牌，希望消費者購買的不只是電子產品，而是一種代表先進與品味的生活方式。這項理念在當時極具前瞻性，也讓SONY逐漸在全球市場建立鮮明品牌識別。1979年推出的第一代Walkman隨身聽，雖然售價高達3.3萬日圓，但憑藉創新使用體驗與時尚設計風靡全球，成為日本科技產品的重要代表。除了產品策略外，盛田昭夫也積極推動企業國際化。他主張日本企業必須以全球市場為目標，培養具備國際視野的人才，並建立符合世界標準的品牌與管理制度。隨著SONY品牌逐漸受到全球消費者信賴，日本製產品也逐步擺脫早期「廉價、低品質」的刻板印象，轉而與高品質、可靠及創新畫上等號，帶動日本電子產業整體競爭力提升。在企業經",
+    "published_at": "2026-07-29T14:24:00+08:00",
+    "stocks": [],
+    "uid": "5e24aa846a7c25ab3303584174bc47a5"
+  },
+  {
     "title": "以為我兒是人生勝利組 ! 37歲擁千萬元爽退休 65歲父親卻看見「殘酷真相」",
     "url": "https://ec.ltn.com.tw/article/breakingnews/5521155",
     "source": "自由財經",
@@ -3798,6 +4408,15 @@
     "published_at": "2026-07-29T14:22:59+08:00",
     "stocks": [],
     "uid": "4ec763a828c533ee4fd171ca6d3c1650"
+  },
+  {
+    "title": "北京反駁「中國產能過剩」 西方會買賬嗎？",
+    "url": "https://tw.news.yahoo.com/%E5%8C%97%E4%BA%AC%E5%8F%8D%E9%A7%81-%E4%B8%AD%E5%9C%8B%E7%94%A2%E8%83%BD%E9%81%8E%E5%89%A9-%E8%A5%BF%E6%96%B9%E6%9C%83%E8%B2%B7%E8%B3%AC%E5%97%8E-142100536.html",
+    "source": "Yahoo股市",
+    "summary": "中國商務部7月28日發布一份立場文件，全面反駁西方國家針對「中國產能過剩」以及「中國沖擊2.0」的批評。中國的貿易順差2025年剛剛創下1.2萬億美元的歷史新高。西方分析人士擔心，長此以往，歐美的產業根基會被動搖。",
+    "published_at": "2026-07-29T14:21:00+08:00",
+    "stocks": [],
+    "uid": "b9a15555254b787c286016499a14a89d"
   },
   {
     "title": "熊本強震地殼變動，八代市移動 84 公分",
@@ -3827,6 +4446,26 @@
     "uid": "a1bae1e4e7d73ecd13cf4731da044a7f"
   },
   {
+    "title": "「電供大廠」Q2EPS賺近1股本、H1合計17.59元均創新高　市場聚焦明法說會展望",
+    "url": "https://tw.stock.yahoo.com/news/%E9%9B%BB%E4%BE%9B%E5%A4%A7%E5%BB%A0-q2eps%E8%B3%BA%E8%BF%911%E8%82%A1%E6%9C%AC-h1%E5%90%88%E8%A8%8817-59%E5%85%83%E5%9D%87%E5%89%B5%E6%96%B0%E9%AB%98-%E5%B8%82%E5%A0%B4%E8%81%9A%E7%84%A6%E6%98%8E%E6%B3%95%E8%AA%AA%E6%9C%83%E5%B1%95%E6%9C%9B-141800888.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]記者王凱暄／綜合報導電源供應指標廠台達電（2308）受惠於伺服器電源、液冷散熱產品出貨量增，第2季財報表現亮眼，獲利、EPS均創單季新高、而上...",
+    "published_at": "2026-07-29T14:18:00+08:00",
+    "stocks": [
+      "2308"
+    ],
+    "uid": "fbb9c9fb40afb87ddac5636e29066f4a"
+  },
+  {
+    "title": "國巨冰火交戰1》19天千金股變507元聖誕樹　股東等來一句話",
+    "url": "https://tw.news.yahoo.com/%E5%9C%8B%E5%B7%A8%E5%86%B0%E7%81%AB%E4%BA%A4%E6%88%B01-19%E5%A4%A9%E5%8D%83%E9%87%91%E8%82%A1%E8%AE%8A507%E5%85%83%E8%81%96%E8%AA%95%E6%A8%B9-%E8%82%A1%E6%9D%B1%E7%AD%89%E4%BE%86-%E5%8F%A5%E8%A9%B1-141727337.html",
+    "source": "Yahoo股市",
+    "summary": "國巨股價7月1日衝上1,220元，短短19個交易日一路重挫，29日跌停鎖在507元，遭股民封為「奪魂巨」，也有網友在Threads看著走勢圖直呼：「泰銘哥讓我提早過聖誕節。」在法說會上，市場最關注是否買回庫藏股，但國巨高層簡短回應：「We …",
+    "published_at": "2026-07-29T14:17:27+08:00",
+    "stocks": [],
+    "uid": "b6e3bd7953a94f9477eccb8c0c2514e2"
+  },
+  {
     "title": "想把房子單獨留給特定子女？怎麼寫遺囑才能避免特留分爭議？",
     "url": "https://finance.ettoday.net/news/3209709",
     "source": "ETtoday",
@@ -3834,6 +4473,17 @@
     "published_at": "2026-07-29T14:17:00+08:00",
     "stocks": [],
     "uid": "0bfbbbd4229bea910099e47ca111063c"
+  },
+  {
+    "title": "【欣興法說】再砸 197 億資本支出至 537 億　光復、楊梅、山鶯、中國四路擴產",
+    "url": "https://tw.news.yahoo.com/%E6%AC%A3%E8%88%88%E6%B3%95%E8%AA%AA-%E5%86%8D%E7%A0%B8-197-%E5%84%84%E8%B3%87%E6%9C%AC%E6%94%AF%E5%87%BA%E8%87%B3-537-141700487.html",
+    "source": "Yahoo股市",
+    "summary": "【緯來新聞網】需求大、賺得多，擴產已不可逆。IC 載板大廠欣興（3037）今（29）日舉辦法說會，公",
+    "published_at": "2026-07-29T14:17:00+08:00",
+    "stocks": [
+      "3037"
+    ],
+    "uid": "17662049ab2368c1de2ae42c765edeeb"
   },
   {
     "title": "800萬退休金才夠用？最新數據揭示「驚人數字差距」",
@@ -3854,6 +4504,15 @@
     "uid": "e9bcb99d6a549a6d3d7a72a2108fe531"
   },
   {
+    "title": "堀場製作所繳亮眼財報 稱霸汽車與半導體量測市場",
+    "url": "https://tw.stock.yahoo.com/news/%E5%A0%80%E5%A0%B4%E8%A3%BD%E4%BD%9C%E6%89%80%E7%B9%B3%E4%BA%AE%E7%9C%BC%E8%B2%A1%E5%A0%B1-%E7%A8%B1%E9%9C%B8%E6%B1%BD%E8%BB%8A%E8%88%87%E5%8D%8A%E5%B0%8E%E9%AB%94%E9%87%8F%E6%B8%AC%E5%B8%82%E5%A0%B4-141517772.html",
+    "source": "Yahoo股市",
+    "summary": "圖／本報資料庫商傳媒｜吳承岳／台北報導日本精密測量與分析儀器製造商堀場製作所（Horiba, Ltd.）繳出亮眼財報。根據《JBpress Innovation Review》報導，截至 2025 年 12 月的會計期間，該公司的銷售額、營業利潤與經常性利潤皆創下歷史新高。 堀場製作所在全球汽車和半導體兩大關鍵產業中，展現了頂尖的市場主導力。在汽車產業方面，該公司在汽車引擎廢氣測量設備市場，掌握了高達 80% 的全球市佔率。 同樣，在半導體製造領域，堀場製作所生產的質量流量控制器（mass flow controller）也取得了顯著成績。質量流量控制器是一種用於精確控制氣體流量的關鍵裝置，在半導體製造過程中不可或缺。該公司在此關鍵零組件的全球市場份額達到 60%。 堀場製作所代表取締役社長足立正之（Masayuki Adachi）對此表示，公司之所以能將市佔率擴大至如此規模，並非單純提供特定裝置所能達成。「如果我們只是一家提供排氣測量裝置的企業，就不可能將市佔率擴展到這麼高。事實上，我們業務的實際情況並非如此單一。」這番話顯示，堀場製作所的成功源於其多元化的業務策略與全球擴張。透過在",
+    "published_at": "2026-07-29T14:15:17+08:00",
+    "stocks": [],
+    "uid": "bd444729b8738b12130c5a9bf2166afc"
+  },
+  {
     "title": "用電需求暴增！PJM 推新制望加速供電、避免電費轉嫁民眾",
     "url": "https://technews.tw/2026/07/29/ai-power-consumption-pjm-mechanism-accelerate-supply-prevent-cost-shifting-consumers/",
     "source": "科技新報",
@@ -3861,6 +4520,15 @@
     "published_at": "2026-07-29T14:15:04+08:00",
     "stocks": [],
     "uid": "599168f248839852a62d0c7805636a17"
+  },
+  {
+    "title": "日本推成長投資指南 經濟利潤EP望成企業評價新焦點",
+    "url": "https://tw.stock.yahoo.com/news/%E6%97%A5%E6%9C%AC%E6%8E%A8%E6%88%90%E9%95%B7%E6%8A%95%E8%B3%87%E6%8C%87%E5%8D%97-%E7%B6%93%E6%BF%9F%E5%88%A9%E6%BD%A4ep%E6%9C%9B%E6%88%90%E4%BC%81%E6%A5%AD%E8%A9%95%E5%83%B9%E6%96%B0%E7%84%A6%E9%BB%9E-141453786.html",
+    "source": "Yahoo股市",
+    "summary": "圖／示意圖商傳媒｜吳承岳／台北報導日本經濟產業省於 2026 年 7 月 21 日發布了全新的「成長投資指南」，旨在引導企業提升價值創造。該指南明確指出，除了傳統的股本回報率（ROE）之外，企業應將「經濟利潤」（EP）視為評估企業價值創造的重要指標。 這項新指南延續了 2014 年「Ito Report」的倡議，並與日本金融廳及東京證券交易所修訂的 Corporate Governance Code 協調一致。「Ito Report」過去著重於資本成本意識經營，強調股本回報率、與投資者的建設性對話以及高品質的資訊揭露。在這些改革的推動下，日本企業的資本效率已顯著提升，股本回報率從 2010 年代初期的約 5% 普遍成長至近期超過 9%。 然而，過度側重股本回報率可能導致企業透過減少股東權益（如發放股息或實施庫藏股）來提高比率，這不一定能有效促進成長投資。經濟產業省此次引入經濟利潤（EP），正為了解決此一課題。經濟利潤的計算方式為：稅後淨營業利潤（NOPAT）減去投入資本（Invested Capital）乘以加權平均資本成本（WACC），也就是投入資本回報率（ROIC）減去加權平均資本",
+    "published_at": "2026-07-29T14:14:53+08:00",
+    "stocks": [],
+    "uid": "fdff07f65db3e02f2f54e48657d0b3f1"
   },
   {
     "title": "AI 花越多錢越好？蘋果不燒錢卻登 5 兆美元市值",
@@ -3890,6 +4558,17 @@
     "uid": "b6b766ecf6aa1f8b8f105a64b6d95f97"
   },
   {
+    "title": "【欣興法說】 Q2 EPS 衝 8.45 元、季增近 1.6 倍　AI 營收比重下半年上看 70％",
+    "url": "https://tw.news.yahoo.com/%E6%AC%A3%E8%88%88%E6%B3%95%E8%AA%AA-q2-eps-%E8%A1%9D-8-141200329.html",
+    "source": "Yahoo股市",
+    "summary": "【緯來新聞網】IC 載板大廠欣興（3037）第二季毛利率衝上 24.8％，是 2024 年以來新高，",
+    "published_at": "2026-07-29T14:12:00+08:00",
+    "stocks": [
+      "3037"
+    ],
+    "uid": "3e924de8df2e03aada68dc705565b36c"
+  },
+  {
     "title": "SK海力士暴跌17％引爆踩踏！槓桿ETF淪韓散戶「絞肉機」一度蒸發40％",
     "url": "https://ec.ltn.com.tw/article/breakingnews/5521644",
     "source": "自由財經",
@@ -3897,6 +4576,15 @@
     "published_at": "2026-07-29T14:11:31+08:00",
     "stocks": [],
     "uid": "bffce3503ea47e081f0fff771b9a69e1"
+  },
+  {
+    "title": "台股重挫、食安連環爆　楊蕙如驚爆：賴政府「最大危機」提早引爆！",
+    "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E9%87%8D%E6%8C%AB-%E9%A3%9F%E5%AE%89%E9%80%A3%E7%92%B0%E7%88%86-%E6%A5%8A%E8%95%99%E5%A6%82%E9%A9%9A%E7%88%86-%E8%B3%B4%E6%94%BF%E5%BA%9C-%E6%9C%80%E5%A4%A7%E5%8D%B1%E6%A9%9F-141106338.html",
+    "source": "Yahoo股市",
+    "summary": "台股今（29）日盤中重挫逾2000點，最低探至39384點，終場仍大幅下跌1564.18點，收在40039.18點。對此，「卡神」楊蕙如直言，台股持續下跌，再加上毒沙拉油、行政院長卓榮泰的無能、民進黨台北市長參選人沈伯洋的負面外溢效應，「請綠營和賴總統做好衝擊準備吧！」",
+    "published_at": "2026-07-29T14:11:06+08:00",
+    "stocks": [],
+    "uid": "0dd1892733726ca69865d2f0a9d43fca"
   },
   {
     "title": "台股大跌0050卻連兩日爆量 「四貸同堂」資金轉進ETF？",
@@ -3948,6 +4636,15 @@
       "TWS:6770:STOCK"
     ],
     "uid": "0445f2753de150fffb94b5333f75a713"
+  },
+  {
+    "title": "台股明天將反彈？專家籲投資人「1操作」揭翻紅2訊號",
+    "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E6%98%8E%E5%A4%A9%E5%B0%87%E5%8F%8D%E5%BD%88-%E5%B0%88%E5%AE%B6%E7%B1%B2%E6%8A%95%E8%B3%87%E4%BA%BA-1%E6%93%8D%E4%BD%9C-%E6%8F%AD%E7%BF%BB%E7%B4%852%E8%A8%8A%E8%99%9F-140913290.html",
+    "source": "Yahoo股市",
+    "summary": "財經中心／綜合報導台股近日劇烈震盪，加權指數繼昨（28）日大跌 2030.83 點創下史上第 3 大跌點後，今（29）日盤中一度又爆砍超過 2200 點，最低破防跌穿 4 萬點大關，終場收在 40039.18 點，再寫下史上第 7 大跌點紀錄。對此，理財專家「不敗教主」陳重銘在臉書發文，分析了大盤受挫的原因，提醒投資人「做1操作」，並曝光了反彈訊號。",
+    "published_at": "2026-07-29T14:09:13+08:00",
+    "stocks": [],
+    "uid": "f78038c8c7199175019399a17dc8d9e4"
   },
   {
     "title": "金獎14連霸背後揭密　永慶房屋三箭齊發落實誠實房仲理念",
