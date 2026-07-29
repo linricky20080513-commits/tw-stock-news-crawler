@@ -1,5 +1,863 @@
 [
   {
+    "title": "Procter & Gamble revenue misses estimates as volume stays unchanged",
+    "url": "https://www.cnbc.com/2026/07/29/procter-gamble-pg-q4-2026-earnings.html",
+    "source": "CNBC Markets",
+    "summary": "Procter & Gamble reported quarterly earnings per share that topped Wall Street's estimates, but its revenue fell short of expectations.",
+    "published_at": "2026-07-29T21:44:33+08:00",
+    "stocks": [],
+    "uid": "9698e08cd68e4b76aea09bab82ae22c0",
+    "title_en": "Procter & Gamble revenue misses estimates as volume stays unchanged",
+    "summary_en": "Procter & Gamble reported quarterly earnings per share that topped Wall Street's estimates, but its revenue fell short of expectations.",
+    "title_zh": "寶潔公司營收未達預期，銷售量維持不變",
+    "summary_zh": "寶潔公司公佈的季度每股收益超出了華爾街的預期，但其收入卻低於預期。"
+  },
+  {
+    "title": "Shipping Risks Rise Across Crucial Middle East Oil Routes",
+    "url": "https://www.nytimes.com/2026/07/29/business/iran-war-hormuz-red-sea-shipping.html",
+    "source": "NYT Business",
+    "summary": "Attacks on ships in the Strait of Hormuz and the Bab al-Mandab strait are disrupting the passage of oil tankers in the Persian Gulf and the Red Sea.",
+    "published_at": "2026-07-29T21:42:21+08:00",
+    "stocks": [],
+    "uid": "fc1c97a2497a252439fb16cda40337d0",
+    "title_en": "Shipping Risks Rise Across Crucial Middle East Oil Routes",
+    "summary_en": "Attacks on ships in the Strait of Hormuz and the Bab al-Mandab strait are disrupting the passage of oil tankers in the Persian Gulf and the Red Sea.",
+    "title_zh": "中東重要石油航線的運輸風險上升",
+    "summary_zh": "霍爾木茲海峽和曼德海峽船隻的攻擊正在擾亂波斯灣和紅海的油輪通行。"
+  },
+  {
+    "title": "FIFA is embroiled in a $20 billion World Cup controversy. Here's what's going on",
+    "url": "https://www.cnbc.com/2026/07/29/world-cup-fifa-stake-sales-uefa-soccer.html",
+    "source": "CNBC Top",
+    "summary": "UEFA – European soccer's governing body – accused FIFA of \"crossing a line\" and said the tournament is not its to sell.",
+    "published_at": "2026-07-29T21:42:03+08:00",
+    "stocks": [],
+    "uid": "bfa4417a6e5eeb0c43e990965cb97df8",
+    "title_en": "FIFA is embroiled in a $20 billion World Cup controversy. Here's what's going on",
+    "summary_en": "UEFA – European soccer's governing body – accused FIFA of \"crossing a line\" and said the tournament is not its to sell.",
+    "title_zh": "國際足總捲入了價值 200 億美元的世界盃爭議。這是發生的事情",
+    "summary_zh": "歐洲足球管理機構歐足總指責國際足總“越界”，並表示這項賽事不是為了出售。"
+  },
+  {
+    "title": "Netflix: The Days of Rapid Growth Are Over",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-days-rapid-growth-over-133700732.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-29T21:37:00+08:00",
+    "stocks": [],
+    "uid": "6dfe9b54c625958dc3241f743311709c",
+    "title_en": "Netflix: The Days of Rapid Growth Are Over",
+    "summary_en": "",
+    "title_zh": "Netflix：快速成長的時代已經結束",
+    "summary_zh": ""
+  },
+  {
+    "title": "CBRE Q2 2026 slides: core EPS surges 30% on broad growth",
+    "url": "https://www.investing.com/news/company-news/cbre-q2-2026-slides-core-eps-surges-30-on-broad-growth-93CH-4820508",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-29T21:35:18+08:00",
+    "stocks": [],
+    "uid": "86cdf8d7a7d64194de452a0ee090d40b",
+    "title_en": "CBRE Q2 2026 slides: core EPS surges 30% on broad growth",
+    "summary_en": "",
+    "title_zh": "世邦魏理仕 2026 年第二季業績下滑：核心每股盈餘因廣泛成長而飆升 30%",
+    "summary_zh": ""
+  },
+  {
+    "title": "Dropbox stock hits 52-week high at 32.53 USD",
+    "url": "https://www.investing.com/news/company-news/dropbox-stock-hits-52week-high-at-3253-usd-93CH-4820507",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-29T21:35:14+08:00",
+    "stocks": [],
+    "uid": "3282a0ad9a5ce4d6beb981c974772c33",
+    "title_en": "Dropbox stock hits 52-week high at 32.53 USD",
+    "summary_en": "",
+    "title_zh": "Dropbox 股價觸及 52 週高點 32.53 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "O-I Glass stock hits 52-week low at 7.72 USD",
+    "url": "https://www.investing.com/news/company-news/oi-glass-stock-hits-52week-low-at-772-usd-93CH-4820506",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-29T21:35:13+08:00",
+    "stocks": [],
+    "uid": "30dabcd9698576c595d32d4867cf30b1",
+    "title_en": "O-I Glass stock hits 52-week low at 7.72 USD",
+    "summary_en": "",
+    "title_zh": "O-I Glass 股價觸及 52 週低點 7.72 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Snowflake stock hits 52-week high at 285.74 USD",
+    "url": "https://www.investing.com/news/company-news/snowflake-stock-hits-52week-high-at-28574-usd-93CH-4820505",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-29T21:35:05+08:00",
+    "stocks": [],
+    "uid": "2e0a575cc9a6442cc3fbbee3b343e3a8",
+    "title_en": "Snowflake stock hits 52-week high at 285.74 USD",
+    "summary_en": "",
+    "title_zh": "Snowflake股價觸及52周高點285.74美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Slide Insurance Holdings stock hits 52-week high at $21.94",
+    "url": "https://www.investing.com/news/company-news/slide-insurance-holdings-stock-hits-52week-high-at-2194-93CH-4820504",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-29T21:35:01+08:00",
+    "stocks": [],
+    "uid": "ce9c210bcfe0a710021e04260af8b660",
+    "title_en": "Slide Insurance Holdings stock hits 52-week high at $21.94",
+    "summary_en": "",
+    "title_zh": "Slide Insurance Holdings 股價觸及 52 週新至 21.94 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Scotiabank upgrades AST Spacemobile stock rating on valuation",
+    "url": "https://www.investing.com/news/analyst-ratings/scotiabank-upgrades-ast-spacemobile-stock-rating-on-valuation-93CH-4820503",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-29T21:34:49+08:00",
+    "stocks": [],
+    "uid": "03704fe4d61c951c79ab30eb94aca0dd",
+    "title_en": "Scotiabank upgrades AST Spacemobile stock rating on valuation",
+    "summary_en": "",
+    "title_zh": "豐業銀行調高 AST Spacemobile 股票估值評級",
+    "summary_zh": ""
+  },
+  {
+    "title": "Zurn Water Solutions stock hits 52-week high at $53.90",
+    "url": "https://www.investing.com/news/company-news/zurn-water-solutions-stock-hits-52week-high-at-5390-93CH-4820502",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-29T21:34:44+08:00",
+    "stocks": [],
+    "uid": "04670fca7704820a4fbb4813511e2821",
+    "title_en": "Zurn Water Solutions stock hits 52-week high at $53.90",
+    "summary_en": "",
+    "title_zh": "Zurn Water Solutions 股價觸及 52 週新至 53.90 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "KPIT Q1 FY27 slides: flat growth, margin pressure, recovery ahead",
+    "url": "https://www.investing.com/news/company-news/kpit-q1-fy27-slides-flat-growth-margin-pressure-recovery-ahead-93CH-4820501",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-29T21:34:19+08:00",
+    "stocks": [],
+    "uid": "787e485ea25121070daf6c99a8c54e3f",
+    "title_en": "KPIT Q1 FY27 slides: flat growth, margin pressure, recovery ahead",
+    "summary_en": "",
+    "title_zh": "KPIT 2027 財年第一季下滑：成長持平、獲利壓力、未來復甦",
+    "summary_zh": ""
+  },
+  {
+    "title": "U.S. stocks open lower as rate-hike jitters, tech earnings gauntlet loom",
+    "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-tick-down-as-markets-eye-fed-decision-megacap-earnings-usiran-4818517",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-29T21:34:12+08:00",
+    "stocks": [],
+    "uid": "a122b9061d4f273f56554cd741ce9a06",
+    "title_en": "U.S. stocks open lower as rate-hike jitters, tech earnings gauntlet loom",
+    "summary_en": "",
+    "title_zh": "由於升息不安，科技股獲利挑戰迫在眉睫，美國股市低開",
+    "summary_zh": ""
+  },
+  {
+    "title": "Clean Harbors stock hits all-time high at 328.1 USD",
+    "url": "https://www.investing.com/news/company-news/clean-harbors-stock-hits-alltime-high-at-3281-usd-93CH-4820500",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-29T21:33:32+08:00",
+    "stocks": [],
+    "uid": "7babaeb980e3bbbf36690bd1c0c03b6d",
+    "title_en": "Clean Harbors stock hits all-time high at 328.1 USD",
+    "summary_en": "",
+    "title_zh": "Clean Harbors 股價創歷史新高至 328.1 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "This AI startup has roughly 50 employees, no product and has never published a word of research. It's worth $32 billion",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ai-startup-roughly-50-employees-133000150.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-29T21:30:00+08:00",
+    "stocks": [],
+    "uid": "c6148ea90d7de9444aca368cfe40fa8a",
+    "title_en": "This AI startup has roughly 50 employees, no product and has never published a word of research. It's worth $32 billion",
+    "summary_en": "",
+    "title_zh": "這家人工智慧新創公司擁有約 50 名員工，沒有任何產品，也從未發表過任何研究成果。價值320億美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Alvotech announces successful closure of FDA inspection of manufacturing facility",
+    "url": "https://markets.businessinsider.com/news/stocks/alvotech-announces-successful-closure-of-fda-inspection-of-manufacturing-facility-1036378322",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;left&quot;&gt;REYKJAVIK, Iceland, July  29, 2026  (GLOBE NEWSWIRE) -- Alvotech (NASDAQ: ALVO; ALVO-SDB) (the &quot;Company&quot;), a global biotechnology company specializing in the development and manufacture of biosimilar medicines for patients worldwide,...",
+    "published_at": "2026-07-29T21:25:33+08:00",
+    "stocks": [],
+    "uid": "aeca342f524d02568164367602871a38",
+    "title_en": "Alvotech announces successful closure of FDA inspection of manufacturing facility",
+    "summary_en": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;left&quot;&gt;REYKJAVIK, Iceland, July  29, 2026  (GLOBE NEWSWIRE) -- Alvotech (NASDAQ: ALVO; ALVO-SDB) (the &quot;Company&quot;), a global biotechnology company specializing in the development and manufacture of biosimilar medicines for patients worldwide,...",
+    "title_zh": "Alvotech 宣布 FDA 對生產設施的檢查成功結束",
+    "summary_zh": "<link type=\"text/css\" rel=\"stylesheet\" href=\"https://www.globenewswire.com/styles/gnw_nitf.css\" /><palign=\"left\">冰島雷克雅維克，2026 年 7 月 29日（環球通訊社）－Alvotech（NASDAQ：ALVO；ALVO-SDB）（「公司」）是一家全球生物技術公司，專門開發和製造為全世界患者提供生物仿製藥，..."
+  },
+  {
+    "title": "Eliyan Achieves Unicorn Status with $145 Million Series C to Advance Electro-optical Interconnects for AI Infrastructure",
+    "url": "https://markets.businessinsider.com/news/stocks/eliyan-achieves-unicorn-status-with-145-million-series-c-to-advance-electro-optical-interconnects-for-ai-infrastructure-1036378323",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;SANTA CLARA, Calif., July  29, 2026  (GLOBE NEWSWIRE) -- Eliyan Corporation, a leader in foundational connectivity technologies enabling next-generation AI compute, memory, and networking systems, today announced it has completed its Series C with a...",
+    "published_at": "2026-07-29T21:25:00+08:00",
+    "stocks": [],
+    "uid": "dacff06f9b19807eec506971b7aa5302",
+    "title_en": "Eliyan Achieves Unicorn Status with $145 Million Series C to Advance Electro-optical Interconnects for AI Infrastructure",
+    "summary_en": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;SANTA CLARA, Calif., July  29, 2026  (GLOBE NEWSWIRE) -- Eliyan Corporation, a leader in foundational connectivity technologies enabling next-generation AI compute, memory, and networking systems, today announced it has completed its Series C with a...",
+    "title_zh": "Eliyan 以 1.45 億美元的 C 輪融資獲得獨角獸地位，以推進人工智慧基礎設施的光電互連",
+    "summary_zh": "<link type=\"text/css\" rel=\"stylesheet\" href=\"https://www.globenewswire.com/styles/gnw_nitf.css\" />加利福尼亞州聖克拉拉，2026 年 7 月 29 日 (GLOBE NEWSWIRE) -- Eliyan Corporation 是支持下一代計算、內存和網絡領導系統的基礎連接技術的公司，今天已宣布連接技術 C..."
+  },
+  {
+    "title": "Pelican Acquisition II Corporation Announces Closing of Initial Public Offering",
+    "url": "https://markets.businessinsider.com/news/stocks/pelican-acquisition-ii-corporation-announces-closing-of-initial-public-offering-1036378324",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;NEW YORK, July  29, 2026  (GLOBE NEWSWIRE) -- Pelican Acquisition II Corporation (Nasdaq: PLCIU, the &quot;Company&quot;) announced today that it has closed on July 27, 2026 its initial public offering of 8,625,000 units at $10.00 per unit, including the...",
+    "published_at": "2026-07-29T21:25:00+08:00",
+    "stocks": [],
+    "uid": "8eb7d7c123502ed28e4dcdc7290e70cb",
+    "title_en": "Pelican Acquisition II Corporation Announces Closing of Initial Public Offering",
+    "summary_en": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;NEW YORK, July  29, 2026  (GLOBE NEWSWIRE) -- Pelican Acquisition II Corporation (Nasdaq: PLCIU, the &quot;Company&quot;) announced today that it has closed on July 27, 2026 its initial public offering of 8,625,000 units at $10.00 per unit, including the...",
+    "title_zh": "Pelican Acquisition II Corporation 宣布首次公開發行結束",
+    "summary_zh": "<link type=\"text/css\" rel=\"stylesheet\" href=\"https://www.globenewswire.com/styles/gnw_nitf.css\" />紐約，2026 年 7 月 29 日 (GLOBE NEWSWIRE) -- Pelican Acquisition II Corporation（納斯達克股票代碼：PLCIU，「日結束其首次公開募股8,625,000 件，每件 10.00 美元，包括..."
+  },
+  {
+    "title": "Humana tops quarterly estimates, maintains profit outlook as medical costs stay in line",
+    "url": "https://www.cnbc.com/2026/07/29/humana-hum-earnings-q2-2026.html",
+    "source": "CNBC Top",
+    "summary": "Humana maintained its 2026 adjusted profit outlook of at least $9 per share, which some analysts called a \"disappointment\" amid high expectations for insurers.",
+    "published_at": "2026-07-29T21:23:20+08:00",
+    "stocks": [],
+    "uid": "6d567fffc93c2a1cb6ca339743b68b0d",
+    "title_en": "Humana tops quarterly estimates, maintains profit outlook as medical costs stay in line",
+    "summary_en": "Humana maintained its 2026 adjusted profit outlook of at least $9 per share, which some analysts called a \"disappointment\" amid high expectations for insurers.",
+    "title_zh": "Humana 超出季度預期，由於醫療成本不變，維持利潤前景",
+    "summary_zh": "Humana 維持 2026 年調整後每股獲利至少 9 美元的預期，一些分析師稱這在保險公司寄予厚望的情況下令人「失望」。"
+  },
+  {
+    "title": "ATTENTION EQPT INVESTORS: Contact Berger Montague About an EquipmentShare.com Inc. Class Action Lawsuit",
+    "url": "https://markets.businessinsider.com/news/stocks/attention-eqpt-investors-contact-berger-montague-about-an-equipmentshare.com-inc.-class-action-lawsuit-1036378319",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/306857/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px;  height: 1px;border: 0px solid;&quot;&gt;Philadelphia, Pennsylvania--(Newsfile Corp. - July 29, 2026) - National plaintiffs' law firm &lt;a href=&quot;https://api.newsfilecorp.com/redirect/oPrgJcvVVD&quot; rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot;&gt;Berger...",
+    "published_at": "2026-07-29T21:21:00+08:00",
+    "stocks": [],
+    "uid": "e614d1785af2fc215b3cb7010f795b5c",
+    "title_en": "ATTENTION EQPT INVESTORS: Contact Berger Montague About an EquipmentShare.com Inc. Class Action Lawsuit",
+    "summary_en": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/306857/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px;  height: 1px;border: 0px solid;&quot;&gt;Philadelphia, Pennsylvania--(Newsfile Corp. - July 29, 2026) - National plaintiffs' law firm &lt;a href=&quot;https://api.newsfilecorp.com/redirect/oPrgJcvVVD&quot; rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot;&gt;Berger...",
+    "title_zh": "EQPT 投資者請注意：關於 EquipmentShare.com Inc. 集體訴訟，請聯絡 Berger Montague",
+    "summary_zh": "<img src=\"https://api.newsfilecorp.com/newsinfo/306857/208\" id=\"208\" width=\"2\" height=\"2\" style=\"width: 1px; height: 1px;borderorder: 0px Solid;\">\"> 1px; height: 1px;borderorder: 0px Solid;\">\"> 202 月 202 月 202 月 202 月 202 月：76 月國家律師事務所 20217 月 207 月）。 href=\"https://api.newsfilecorp.com/redirect/oPrgJcvVVD\" rel=\"noopener nofollow\" target=\"_blank\">伯格..."
+  },
+  {
+    "title": "Marsh & McLennan (MRSH) Reinvents Operations with AI Productivity Push",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/marsh-mclennan-mrsh-reinvents-operations-132051970.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-29T21:20:51+08:00",
+    "stocks": [
+      "MRSH"
+    ],
+    "uid": "1891431c41d0e0a83a9ff7fc0c943ec9",
+    "title_en": "Marsh & McLennan (MRSH) Reinvents Operations with AI Productivity Push",
+    "summary_en": "",
+    "title_zh": "Marsh & McLennan (MRSH) 透過人工智慧生產力推動重塑運營",
+    "summary_zh": ""
+  },
+  {
+    "title": "EQS-PVR: Hypoport SE: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
+    "url": "https://markets.businessinsider.com/news/stocks/eqs-pvr-hypoport-se-release-according-to-article-40-section-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution-1036378326",
+    "source": "Business Insider",
+    "summary": "&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;\n\n\nEQS Voting Rights Announcement: Hypoport SE\n\n\n\n&lt;br/&gt;\n\n\nHypoport SE: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution &lt;br/&gt;&lt;br/&gt;\n\n\n\n\n\n\n29.07.2026 / 15:20 CET/CEST&lt;br/&gt;\n\n\nDissemination of a Voting Rights Announcement...",
+    "published_at": "2026-07-29T21:20:03+08:00",
+    "stocks": [],
+    "uid": "bdac447c773e9e194ab3b8f597356f8b",
+    "title_en": "EQS-PVR: Hypoport SE: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
+    "summary_en": "&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;\n\n\nEQS Voting Rights Announcement: Hypoport SE\n\n\n\n&lt;br/&gt;\n\n\nHypoport SE: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution &lt;br/&gt;&lt;br/&gt;\n\n\n\n\n\n\n29.07.2026 / 15:20 CET/CEST&lt;br/&gt;\n\n\nDissemination of a Voting Rights Announcement...",
+    "title_zh": "EQS-PVR：Hypoport SE：根據 WpHG [德國證券交易法] 第 40 條第 1 節發布，目標是在歐洲範圍內分發",
+    "summary_zh": "<表邊框=“0”><tr><td>\n\n\nEQS 投票權公告：Hypoport SE\n\n\n\n<br/>\n\n\nHypoport SE：根據 WpHG [德國證券交易法] 第 40 條第 1 節發布，目標是在歐洲範圍內發行 <br/><br/>\n\n\n\n\n\n\n2026 年 7 月 29 日 / 15:20 CET/CEST<br/>\n\n\n投票權公告的傳播..."
+  },
+  {
+    "title": "EQPT SECURITIES LAWSUIT: EquipmentShare.com Investors May Be Able to Recover Losses; Contact Block & Leviton LLP",
+    "url": "https://markets.businessinsider.com/news/stocks/eqpt-securities-lawsuit-equipmentshare.com-investors-may-be-able-to-recover-losses-contact-block-leviton-llp-1036378320",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/306972/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px;  height: 1px;border: 0px solid;&quot;&gt;Boston, Massachusetts--(Newsfile Corp. - July 29, 2026) - Block  Leviton announces that a securities fraud lawsuit has been filed against EquipmentShare.com Inc (NASDAQ: EQPT) and certain of its executives.",
+    "published_at": "2026-07-29T21:20:00+08:00",
+    "stocks": [],
+    "uid": "835f74815ef5591801b1aabbb12c65e1",
+    "title_en": "EQPT SECURITIES LAWSUIT: EquipmentShare.com Investors May Be Able to Recover Losses; Contact Block & Leviton LLP",
+    "summary_en": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/306972/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px;  height: 1px;border: 0px solid;&quot;&gt;Boston, Massachusetts--(Newsfile Corp. - July 29, 2026) - Block  Leviton announces that a securities fraud lawsuit has been filed against EquipmentShare.com Inc (NASDAQ: EQPT) and certain of its executives.",
+    "title_zh": "EQPT 證券訴訟：EquipmentShare.com 投資者或許能夠挽回損失；聯絡 Block & Leviton LLP",
+    "summary_zh": "<img src=\"https://api.newsfilecorp.com/newsinfo/306972/208\" id=\"208\" width=\"2\" height=\"2\" style=\"width: 1px; height: 1px;bLeviorder: 0px Solid;\">馬薩諸塞州波士頓 - 206 月 7 月EquipmentShare.com Inc 提起證券詐欺訴訟（納斯達克股票代碼：EQPT）及其某些高階主管。"
+  },
+  {
+    "title": "Futurewave Acquisition Corporation Announces Separate Trading of its Ordinary Shares, Rights and Warrants",
+    "url": "https://markets.businessinsider.com/news/stocks/futurewave-acquisition-corporation-announces-separate-trading-of-its-ordinary-shares-rights-and-warrants-1036378297",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;left&quot;&gt;NEW YORK, July  29, 2026  (GLOBE NEWSWIRE) -- Futurewave Acquisition Corporation (Nasdaq: FWACU) (the &quot;Company&quot;), a Cayman Islands exempted company, announced that holders of the Company's units sold in its initial public offering...",
+    "published_at": "2026-07-29T21:19:08+08:00",
+    "stocks": [],
+    "uid": "663c04da70be666f2198fe0343d18c0f",
+    "title_en": "Futurewave Acquisition Corporation Announces Separate Trading of its Ordinary Shares, Rights and Warrants",
+    "summary_en": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;left&quot;&gt;NEW YORK, July  29, 2026  (GLOBE NEWSWIRE) -- Futurewave Acquisition Corporation (Nasdaq: FWACU) (the &quot;Company&quot;), a Cayman Islands exempted company, announced that holders of the Company's units sold in its initial public offering...",
+    "title_zh": "Futurewave Acquisition Corporation 宣布其普通股、權利和認股權證單獨交易",
+    "summary_zh": "<link type=\"text/css\" rel=\"stylesheet\" href=\"https://www.globenewswire.com/styles/gnw_nitf.css\" /><palign=\"left\">紐約，2026 年 7 月 29 日（環球通訊社）－開曼群島豁免公司 Futurewave Acquisition Corporation（納斯達克股票代碼：FWACU）（「公司」）宣布，公司單位持有人已出售在其首次公開募股中..."
+  },
+  {
+    "title": "Rhino Bitcoin Adds 500,000,000 Splendor Labs (SPLD) Tokens to Corporate Balance Sheet",
+    "url": "https://markets.businessinsider.com/news/stocks/rhino-bitcoin-adds-500-000-000-splendor-labs-spld-tokens-to-corporate-balance-sheet-1036378296",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;left&quot;&gt;MIAMI, July  29, 2026  (GLOBE NEWSWIRE) -- Rhino Bitcoin, Inc. (OTC:RHNO) a Bitcoin-only financial services company providing institutional-grade Bitcoin custody, trading, and wealth management solutions, today announced that it has...",
+    "published_at": "2026-07-29T21:18:00+08:00",
+    "stocks": [
+      "SPLD"
+    ],
+    "uid": "207f5fea9c46fabe4a2e8c0a7fcbe38c",
+    "title_en": "Rhino Bitcoin Adds 500,000,000 Splendor Labs (SPLD) Tokens to Corporate Balance Sheet",
+    "summary_en": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;left&quot;&gt;MIAMI, July  29, 2026  (GLOBE NEWSWIRE) -- Rhino Bitcoin, Inc. (OTC:RHNO) a Bitcoin-only financial services company providing institutional-grade Bitcoin custody, trading, and wealth management solutions, today announced that it has...",
+    "title_zh": "Rhino Bitcoin 將 500,000,000 Splendor Labs (SPLD) 代幣加入公司資產負債表中",
+    "summary_zh": "<link type=\"text/css\" rel=\"stylesheet\" href=\"https://www.globenewswire.com/styles/gnw_nitf.css\" /><palign=\"left\">邁阿密，2026 年 7 月 29 日（環球通訊社）－Rhino Bitcoin, Inc.（場外交易代碼：RHNO）是一家提供機構級比特幣託管、交易和財富管理解決方案的純比特幣金融服務公司，今天宣布它已經..."
+  },
+  {
+    "title": "Netflix: The Days of Rapid Growth Are Over",
+    "url": "https://www.fool.com/investing/2026/07/29/netflix-days-of-rapid-growth-are-over/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The streaming leader's Q2 revenue was below what Wall Street was expecting.",
+    "published_at": "2026-07-29T21:17:00+08:00",
+    "stocks": [],
+    "uid": "5394c796e3474f7e5756719f2f27a7f1"
+  },
+  {
+    "title": "Cathie Wood Just Bought Nvidia Stock, Is It Finally Time to Buy?",
+    "url": "https://www.fool.com/investing/2026/07/29/cathie-wood-just-bought-nvidia-stock-is-it-finally/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Nvidia is now trading for just 16 times next year's profit target. Things could get even better.",
+    "published_at": "2026-07-29T21:17:00+08:00",
+    "stocks": [],
+    "uid": "527722b6df99212c9a3f08fd0bbc3ba3"
+  },
+  {
+    "title": "ICON Public Limited Company (ICLR) Surges on Net Book-to-Bill Strength",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/icon-public-limited-company-iclr-131643360.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-29T21:16:43+08:00",
+    "stocks": [
+      "ICLR"
+    ],
+    "uid": "1c9e18f6fee1e829ef0bcaddb4ad351a"
+  },
+  {
+    "title": "Bitcoin and ethereum prices today, Wednesday, July 29, 2026:  Crypto investors watching the Fed decision closely",
+    "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-july-29-2026-crypto-investors-watching-the-fed-decision-closely-131641825.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-29T21:16:41+08:00",
+    "stocks": [],
+    "uid": "5c765a45f006adabc2dce2bced9aa24b"
+  },
+  {
+    "title": "Investors are selling Meta as it heads to its earnings report",
+    "url": "https://finance.yahoo.com/markets/article/investors-are-selling-meta-as-it-heads-to-its-earnings-report-131629707.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-29T21:16:29+08:00",
+    "stocks": [],
+    "uid": "5d57a7ad9d27ea39da95f416ab9aef79"
+  },
+  {
+    "title": "Federal Home Loan Bank of Atlanta Announces Executive Leadership Changes",
+    "url": "https://markets.businessinsider.com/news/stocks/federal-home-loan-bank-of-atlanta-announces-executive-leadership-changes-1036378291",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;ATLANTA, July  29, 2026  (GLOBE NEWSWIRE) -- The Federal Home Loan Bank of Atlanta (FHLBank Atlanta) today announced a series of executive leadership changes to enhance operational excellence and position the Bank to continue fulfilling its mission...",
+    "published_at": "2026-07-29T21:15:09+08:00",
+    "stocks": [],
+    "uid": "cd0488ef41ab24055f5f89821505cc4b"
+  },
+  {
+    "title": "Nebius Group announces date of second quarter 2026 results and conference call",
+    "url": "https://markets.businessinsider.com/news/stocks/nebius-group-announces-date-of-second-quarter-2026-results-and-conference-call-1036378293",
+    "source": "Business Insider",
+    "summary": "&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;\n\n\nNebius Group \n\n\n\n&lt;br/&gt;\n\n\nNebius Group announces date of second quarter 2026 results and conference call  &lt;br/&gt;&lt;br/&gt;29-Jul-2026 / 15:15 CET/CEST&lt;br/&gt;\n\n\n\nThe issuer is solely responsible for the content of this announcement.&lt;br/&gt;&lt;br/&gt;&lt;!-- sh_cad_1 --&gt;\n\n&lt;hr/&gt;&lt;div&gt;&lt;h1...",
+    "published_at": "2026-07-29T21:15:04+08:00",
+    "stocks": [],
+    "uid": "cfbdd3f1380f4ac088fad6c3dabf7cd1"
+  },
+  {
+    "title": "Keurig Dr Pepper (KDP) Pops on Strong Beverage Sales",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/keurig-dr-pepper-kdp-pops-131447922.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-29T21:14:47+08:00",
+    "stocks": [
+      "KDP"
+    ],
+    "uid": "42b2c2ca43a7ad86f7bbe257c878ae15"
+  },
+  {
+    "title": "Why shareholders are suing Novo Nordisk over next-generation weight-loss drug",
+    "url": "https://www.cnbc.com/2026/07/29/novo-nordisk-lawsuit-cagrisema-weight-loss-drug.html",
+    "source": "CNBC Top",
+    "summary": "Investors claim Novo Nordisk misled the market about CagriSema's tolerability, after disappointing clinical trial results wiped billions off its market cap.",
+    "published_at": "2026-07-29T21:11:19+08:00",
+    "stocks": [],
+    "uid": "ee6fe630170a87d89f1fc628ac889105"
+  },
+  {
+    "title": "Strong Fundamentals Keep Loar Holdings (LOAR) Flying High",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/strong-fundamentals-keep-loar-holdings-130939668.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-29T21:09:39+08:00",
+    "stocks": [
+      "LOAR"
+    ],
+    "uid": "58b24cfdef7c9a71354d7543966ec1ac"
+  },
+  {
+    "title": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+    "url": "https://www.cnbc.com/2026/07/29/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+    "source": "CNBC Top",
+    "summary": "Ford had a great earnings night. Plus, earnings updates from memory giants SK Hynix and Seagate.",
+    "published_at": "2026-07-29T21:08:20+08:00",
+    "stocks": [],
+    "uid": "2319771168946990f31869fa70f88890"
+  },
+  {
+    "title": "RBC Bearings (RBC) Rolls Ahead on Aerospace Strength",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/rbc-bearings-rbc-rolls-ahead-130734492.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-29T21:07:34+08:00",
+    "stocks": [
+      "RBC"
+    ],
+    "uid": "8d0389015ac8f45b46629e18f0b6df21"
+  },
+  {
+    "title": "Eliyan raises $145 million at $1 billion valuation to ease AI chip data bottlenecks",
+    "url": "https://finance.yahoo.com/technology/ai/articles/eliyan-raises-145-million-1-130637741.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-29T21:06:37+08:00",
+    "stocks": [],
+    "uid": "b7cf96724d3175ba497e59077d2c71a8"
+  },
+  {
+    "title": "Private Credit Worries Weigh on Hamilton Lane (HLNE)",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/private-credit-worries-weigh-hamilton-130549739.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-29T21:05:49+08:00",
+    "stocks": [
+      "HLNE"
+    ],
+    "uid": "43757dbf54f21aaf00b69ef9e8be3757"
+  },
+  {
+    "title": "What a $3,000 Investment in SpaceX Could Be Worth by 2030",
+    "url": "https://www.fool.com/investing/2026/07/29/what-a-3000-investment-in-spacex-could-be-worth-by/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Calculating a future investment value requires making assumptions.",
+    "published_at": "2026-07-29T21:05:00+08:00",
+    "stocks": [],
+    "uid": "988b5362a31b84d8ab758cbaf559ac32"
+  },
+  {
+    "title": "Should You Ignore Vertiv? Why ON Semiconductor May Be The Better AI Infrastructure Stock Today",
+    "url": "https://www.fool.com/investing/2026/07/29/should-you-ignore-vertiv-why-on-semiconductor-may/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "One stock will suit investors expecting upside potential in hyperscaler spending, while the other offers exposure to the long-term growth prospects of physical AI.",
+    "published_at": "2026-07-29T21:05:00+08:00",
+    "stocks": [],
+    "uid": "794d6398056feb36f4d5af77c9a85d0a"
+  },
+  {
+    "title": "SK Hynix's record profit fails to impress investors",
+    "url": "https://finance.yahoo.com/markets/article/sk-hynixs-record-profit-fails-to-impress-investors-130352334.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-29T21:03:52+08:00",
+    "stocks": [],
+    "uid": "0c113ddd9f87d93b364b202eb50bd19c"
+  },
+  {
+    "title": "We're exiting our position in a household products giant after a soft quarter",
+    "url": "https://www.cnbc.com/2026/07/29/were-exiting-our-position-in-a-household-products-giant-after-a-soft-quarter.html",
+    "source": "CNBC Top",
+    "summary": "Shares are down about 3% in premarket trading.",
+    "published_at": "2026-07-29T21:02:22+08:00",
+    "stocks": [],
+    "uid": "23ca20b5d32269af02ed13790b6f400d"
+  },
+  {
+    "title": "Caterpillar (CAT) Shrugs Off Tariff Hit as Demand ‘Heats Up’",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-cat-shrugs-off-tariff-130130811.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-29T21:01:30+08:00",
+    "stocks": [
+      "CAT"
+    ],
+    "uid": "072f9617ea3a4a2176a15c1864caf28c"
+  },
+  {
+    "title": "Gen Z stays home almost every weekend because going out isn’t worth the money",
+    "url": "https://www.marketwatch.com/story/gen-z-stays-home-almost-every-weekend-because-going-out-isnt-worth-the-money-64f03227?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Forget FOMO: Fear of financial regret is keeping younger Americans at home on Saturday night.",
+    "published_at": "2026-07-29T21:01:00+08:00",
+    "stocks": [],
+    "uid": "d61bfbb09eb63a09dce64c5dd01f2170"
+  },
+  {
+    "title": "State Street vs. First Trust: Is a Broad Healthcare or Biotech Focus Better for Your Portfolio?",
+    "url": "https://www.fool.com/coverage/etfs/2026/07/29/state-street-vs-first-trust-is-a-broad-healthcare-or-biotech-focus-better-for-your-portfolio/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "FBT delivered 48.5% returns over one year but carries a 0.55% expense ratio and experiences greater volatility. XLV offers lower costs, with an 0.08% expense ratio, as well as broader diversification across 60 healthcare stocks.",
+    "published_at": "2026-07-29T21:00:01+08:00",
+    "stocks": [],
+    "uid": "9cd37a39d526f8802f14d93b3eff078b"
+  },
+  {
+    "title": "With a 6% Yield, Is Verizon Stock a Buy as Turnaround Continues?",
+    "url": "https://www.fool.com/investing/2026/07/29/with-6-yield-is-verizon-stock-a-buy-as-turnaround/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The stock looks like a top one to own for dividend investors.",
+    "published_at": "2026-07-29T21:00:00+08:00",
+    "stocks": [],
+    "uid": "12e12da2c59aea60835cd62bf846ab4b"
+  },
+  {
+    "title": "Zoetis (ZTS) Slid on Weak Response to Great Ideas",
+    "url": "https://finance.yahoo.com/healthcare/articles/zoetis-zts-slid-weak-response-125900328.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-29T20:59:00+08:00",
+    "stocks": [
+      "ZTS"
+    ],
+    "uid": "ae606100d14ca2015000da76e14da75c"
+  },
+  {
+    "title": "Stock Market Today: Dow Falls As Iran Hostilities Spark Up Again; SK Hynix Slides On Earnings News (Live Coverage)",
+    "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-decision-warsh-sk-hynix-stock/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-29T20:58:22+08:00",
+    "stocks": [],
+    "uid": "b49422557a9d50f24cbe20ffc90fc439"
+  },
+  {
+    "title": "SpaceX Vs. HawkEye, Cerebrus: Comparing 2026 IPOs",
+    "url": "https://www.investors.com/news/spacex-ipo-elon-musk-sk-hynix-cerebras-bill-ackman-pershing-square/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-29T20:56:05+08:00",
+    "stocks": [],
+    "uid": "65beebe4b84e879c424702354c1efd1e"
+  },
+  {
+    "title": "Birkenstock Holding plc (BIRK) Walks Tall on Margins",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/birkenstock-holding-plc-birk-walks-125557521.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-29T20:55:57+08:00",
+    "stocks": [
+      "BIRK"
+    ],
+    "uid": "c9cc14a6b9b7539216d82299dcdd3275"
+  },
+  {
+    "title": "Kinder Morgan Executive Dumps 5,695 Shares for $184k, According to Recent SEC Filing",
+    "url": "https://www.fool.com/coverage/filings/2026/07/29/kinder-morgan-executive-dumps-5-695-shares-for-usd184k-according-to-recent-sec-filing/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Disposition included 4,145 shares withheld for taxes and 1,550 shares sold under a pre-established 10b5-1 trading plan adopted in December 2025.",
+    "published_at": "2026-07-29T20:55:03+08:00",
+    "stocks": [],
+    "uid": "272e9ea5dc0959aeb95aa6e60692eabb"
+  },
+  {
+    "title": "Is Bloom Energy Corp a Buy After Its Latest Earnings Report?",
+    "url": "https://www.fool.com/investing/2026/07/29/is-bloom-energy-corp-a-buy-after-its-latest-earnings-report/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Bloom Energy posted blowout second-quarter results.",
+    "published_at": "2026-07-29T20:55:01+08:00",
+    "stocks": [],
+    "uid": "2d19438a4ca470754501b81f4457193c"
+  },
+  {
+    "title": "Silver prices today, Wednesday, July 29, 2026: Prices hold steady this morning amid renewed airstrikes and pending rate decision",
+    "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-july-29-2026-prices-hold-steady-this-morning-amid-renewed-airstrikes-and-pending-rate-decision-125424129.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-29T20:54:24+08:00",
+    "stocks": [],
+    "uid": "cee37bee4dead5002557a6f49e375bcd"
+  },
+  {
+    "title": "How to Change Your Image as a Heartless Luxury Titan Overnight",
+    "url": "https://www.nytimes.com/2026/07/29/style/bernard-arnault-open-letter-x.html",
+    "source": "NYT Business",
+    "summary": "Bernard Arnault, the chairman of LVMH, makes an unexpected social media move.",
+    "published_at": "2026-07-29T20:53:00+08:00",
+    "stocks": [],
+    "uid": "caec644823c695a8a51a8760ad6f47c3"
+  },
+  {
+    "title": "The Fed meeting, Ford earnings, Trump's investment portfolio and more in Morning Squawk",
+    "url": "https://www.cnbc.com/2026/07/29/5-things-to-know-before-the-stock-market-opens.html",
+    "source": "CNBC Tech",
+    "summary": "Here are five key things investors need to know to start the trading day.",
+    "published_at": "2026-07-29T20:47:27+08:00",
+    "stocks": [],
+    "uid": "50318e25e535bd8817c68aee3e6de90f"
+  },
+  {
+    "title": "What Does Figma Chief Revenue Officer's Sale of Over 11,000 Company Shares Mean for Investors?",
+    "url": "https://www.fool.com/coverage/filings/2026/07/29/what-does-figma-chief-revenue-officer-s-sale-of-over-11-000-company-shares-mean-for-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The software company focused on digital design reported a notable insider stock sale.",
+    "published_at": "2026-07-29T20:45:01+08:00",
+    "stocks": [],
+    "uid": "657cd389fb9e676625f4881647805433"
+  },
+  {
+    "title": "2 Rare-Earth Stocks to Buy Right Now, and 1 to Sell",
+    "url": "https://www.fool.com/investing/2026/07/29/2-rare-earth-stocks-to-buy-right-now-and-1-to-sell/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Rare-earth stocks are heating up as the U.S. races to loosen China's grip on the industry, but not every company in this high-stakes trade is a buy.",
+    "published_at": "2026-07-29T20:45:00+08:00",
+    "stocks": [],
+    "uid": "7f9c56a1fd4387a7dd8e5fc41fe0b423"
+  },
+  {
+    "title": "Two rival AI super PACs are backing the same congressman. What gives?",
+    "url": "https://www.marketwatch.com/story/two-rival-ai-super-pacs-are-backing-the-same-congressman-what-gives-dbc93094?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The artificial-intelligence industry is following in the crypto sector’s footsteps in working to influence elections.",
+    "published_at": "2026-07-29T20:30:00+08:00",
+    "stocks": [],
+    "uid": "3b021984650742724c1123ce94c26980"
+  },
+  {
+    "title": "Prediction: This International ETF Will Beat U.S. Stocks for the Next 5 Years",
+    "url": "https://www.fool.com/investing/2026/07/29/prediction-this-international-etf-will-beat-us/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Worried that U.S. large-cap stocks won't keep up their winning streak? Diversify with this global value stock ETF that pays impressive dividends.",
+    "published_at": "2026-07-29T20:30:00+08:00",
+    "stocks": [],
+    "uid": "6f5ae0e46b9c8af9960c879610d67230"
+  },
+  {
+    "title": "Sick of A.I.-Generated Content? The ‘Slop Janitor’ Is Here to Help.",
+    "url": "https://www.nytimes.com/2026/07/29/business/dealbook/pangram-ai-slop-detection.html",
+    "source": "NYT Business",
+    "summary": "Pangram, an A.I. detection start-up, promises near-perfect accuracy in sniffing out writing and imagery that wasn’t made by humans. It’s raising some big questions along the way.",
+    "published_at": "2026-07-29T20:23:03+08:00",
+    "stocks": [],
+    "uid": "a044ff602313f024ce8f1ca2bb149e0a"
+  },
+  {
+    "title": "If a Bear Market Is Coming, History Says This 1 Thing Is How Investors Can Still Win",
+    "url": "https://www.fool.com/investing/2026/07/29/if-a-bear-market-is-coming-history-says-this-1-thi/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The stock market is trading at historically expensive levels right now.",
+    "published_at": "2026-07-29T20:20:00+08:00",
+    "stocks": [],
+    "uid": "5becd05ee4bc46189de6598cdafe9727"
+  },
+  {
+    "title": "Tim Cook’s last earnings call comes at momentous time for Apple with stock at record",
+    "url": "https://www.cnbc.com/2026/07/29/tim-cooks-last-earnings-call-comes-at-momentous-time-for-apple-.html",
+    "source": "CNBC Top",
+    "summary": "Apple just hit a $5 trillion market cap for the first time, but CEO Tim Cook still has plenty of concerns to address on his final earnings call at the helm.",
+    "published_at": "2026-07-29T20:18:44+08:00",
+    "stocks": [],
+    "uid": "1c49d4f0ba5ea489ec8c1594758eddc1"
+  },
+  {
+    "title": "Magnite's CEO Sold Nearly 40,000 Company Shares. Here's What That Means for Investors.",
+    "url": "https://www.fool.com/coverage/filings/2026/07/29/magnite-s-ceo-sold-nearly-40-000-company-shares-here-s-what-that-means-for-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The digital advertising sell-side platform reported a notable insider stock sale.",
+    "published_at": "2026-07-29T20:12:04+08:00",
+    "stocks": [],
+    "uid": "e1416ca00a3457b258a3cd29e675bf61"
+  },
+  {
+    "title": "Paramount Skydance's CFO Sold Over 95,000 Shares Amid Delays with Its Warner Bros. Discovery Merger",
+    "url": "https://www.fool.com/coverage/filings/2026/07/29/paramount-skydance-s-cfo-sold-over-95-000-shares-amid-delays-with-its-warner-bros-discovery-merger/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The entertainment giant reported a notable insider sale as legal challenges surfaced against its merger with Warner Bros. Discovery.",
+    "published_at": "2026-07-29T20:12:01+08:00",
+    "stocks": [],
+    "uid": "fa6fb3e01f10f427c58dd774d9bac7d9"
+  },
+  {
+    "title": "Forget Weight Loss Drugs: Here's Another Reason to Buy Eli Lilly Stock",
+    "url": "https://www.fool.com/investing/2026/07/29/forget-weight-loss-drugs-heres-another-reason-to-b/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Lilly's pipeline is on track to pick up a handful of interesting new programs.",
+    "published_at": "2026-07-29T20:06:00+08:00",
+    "stocks": [],
+    "uid": "dffc127451e9b3312f40262303a19d14"
+  },
+  {
+    "title": "YES Network, MSG Networks to exit Gotham app for DAZN streaming service",
+    "url": "https://www.cnbc.com/2026/07/29/yes-network-msg-networks-dazn-streaming.html",
+    "source": "CNBC Top",
+    "summary": "The regional sports networks that air games for local New York and New Jersey teams, including MLB's Yankees and NHL's Rangers, will have a new streaming home.",
+    "published_at": "2026-07-29T20:04:03+08:00",
+    "stocks": [],
+    "uid": "b98af9cf5bac73ea2ca1418c6015c5b4"
+  },
+  {
+    "title": "Automotive Sales Driven by Growth in Hybrids in the Second Quarter of 2026",
+    "url": "https://www.fool.com/investing/2026/07/29/automotive-sales-driven-by-growth-in-hybrids-in-the-second-quarter-of-2026/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The growth in that category was in marked contrast to EV sales, which continue to slide.",
+    "published_at": "2026-07-29T20:03:01+08:00",
+    "stocks": [],
+    "uid": "efc0971d71d08c83719759b6ee9b0136"
+  },
+  {
+    "title": "Big Tech Turmoil Clouds the A.I. Earnings Picture",
+    "url": "https://www.nytimes.com/2026/07/29/business/dealbook/big-tech-ai-earnings.html",
+    "source": "NYT Business",
+    "summary": "The Nasdaq 100 is flirting with correction territory as investors brace for earnings reports from Meta, Microsoft and Amazon.",
+    "published_at": "2026-07-29T20:00:06+08:00",
+    "stocks": [],
+    "uid": "251c4d09ad05d39f35e2faa4b6c8d246"
+  },
+  {
+    "title": "Why Alphabet's AI Strategy Could Backfire",
+    "url": "https://www.fool.com/investing/2026/07/29/why-alphabets-ai-strategy-could-backfire/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "AI summaries are crippling search traffic, and in the long run, that's not in the best interest of publishers or even Google.",
+    "published_at": "2026-07-29T20:00:00+08:00",
+    "stocks": [],
+    "uid": "ac28c31c87af870aa900355f1206f81d"
+  },
+  {
+    "title": "Strategy CEO Phong Le Says Bitcoin Can Drop Below $10,000 Without Putting Stress on MSTR. Here's Why He's Right.",
+    "url": "https://www.fool.com/investing/2026/07/29/strategy-ceo-bitcoin-below-10000-mstr/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The largest Bitcoin treasury company is still navigating the ongoing cryptocurrency bear market.",
+    "published_at": "2026-07-29T19:56:00+08:00",
+    "stocks": [],
+    "uid": "5a149fa44f49abc34c5cb0d466204d4d"
+  },
+  {
+    "title": "Think a 1% advisory fee sounds cheap? It is actually eating 15% of your investment returns.",
+    "url": "https://www.marketwatch.com/story/think-a-1-advisory-fee-sounds-cheap-it-is-actually-eating-15-of-your-investment-returns-ceead305?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Investing legend Charles Ellis says that most stock pickers are playing a “loser’s game.”",
+    "published_at": "2026-07-29T19:43:00+08:00",
+    "stocks": [],
+    "uid": "855614b492ea09d949672bc2a5d3bb74"
+  },
+  {
+    "title": "1 Reason I Haven't Bought Figma and Don't See a Scenario Where I Ever Will",
+    "url": "https://www.fool.com/investing/2026/07/29/1-reason-i-havent-bought-figma-and-dont-see-a-scen/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Its collaboration platform works well enough. But it's not the only name in this increasingly competitive business.",
+    "published_at": "2026-07-29T19:34:00+08:00",
+    "stocks": [],
+    "uid": "e97737e52b46a50a8bdeb9358d3df127"
+  },
+  {
+    "title": "Oil prices rise after U.S. and Saudi Arabia attack Iran-backed militias in Iraq",
+    "url": "https://www.marketwatch.com/story/oil-prices-rise-after-u-s-and-saudi-arabia-attack-iran-backed-militias-in-iraq-f0f409ea?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "West Texas Intermediate and Brent crude’s front-month contracts climbed on Wednesday on the risk of more fighting.",
+    "published_at": "2026-07-29T19:32:00+08:00",
+    "stocks": [],
+    "uid": "63477eb1309470fa3f5921c135388014"
+  },
+  {
+    "title": "Watch Out, Eli Lilly and Novo Nordisk: Amgen's Monthly Weight Loss Drug Has 6 Phase 3 Trials Running -- and It's Coming for Your Patients",
+    "url": "https://www.fool.com/investing/2026/07/29/watch-out-eli-lilly-and-novo-nordisk-amgens-monthl/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Will this pharma company become a new leader in the weight loss market?",
+    "published_at": "2026-07-29T19:30:00+08:00",
+    "stocks": [],
+    "uid": "5345e1abc8dfff64393cb9da5cb3ec85"
+  },
+  {
+    "title": "If SpaceX Stock Falls Below $100, One Analyst Shares This Warning",
+    "url": "https://www.fool.com/investing/2026/07/29/if-spacex-stock-falls-below-100-analyst-shares-thi/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Negative sentiment may be clouding investors' ability to see SpaceX's long-term potential.",
+    "published_at": "2026-07-29T19:25:00+08:00",
+    "stocks": [],
+    "uid": "44d7bb8dceb0a4453a25b3af199a4881"
+  },
+  {
+    "title": "Johnson & Johnson vs. Eli Lilly: Reliable Stability vs. Rapid Revenue Growth",
+    "url": "https://www.fool.com/coverage/charts/2026/07/29/johnson-and-johnson-vs-eli-lilly-reliable-stability-vs-rapid-revenue-growth/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Johnson & Johnson's revenue has grown modestly while Eli Lilly's revenue has nearly doubled in two years, narrowing a once-wide gap.",
+    "published_at": "2026-07-29T19:24:01+08:00",
+    "stocks": [],
+    "uid": "325b90b853f206131cd0fd9ddccbd929"
+  },
+  {
+    "title": "Analyst Report: MSCI Inc",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_4456_AnalystReport_1785323789000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-29T19:16:29+08:00",
+    "stocks": [],
+    "uid": "9670cd7bee9d303b99ea23595ce1ed1d"
+  },
+  {
+    "title": "Analyst Report: Celestica Inc",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_2844_AnalystReport_1785323789000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-29T19:16:29+08:00",
+    "stocks": [],
+    "uid": "548f7143f049cdeafc7e28d167f0bd5e"
+  },
+  {
+    "title": "Analyst Report: Invesco Ltd",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_3591_AnalystReport_1785323789000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-29T19:16:29+08:00",
+    "stocks": [],
+    "uid": "694ac7df67987528a5fcbafb0ecaf018"
+  },
+  {
+    "title": "Analyst Report: KeyCorp",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_3759_AnalystReport_1785323789000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-29T19:16:29+08:00",
+    "stocks": [],
+    "uid": "44e433439d88f2ced8a648952c562a55"
+  },
+  {
+    "title": "Energy Transfer Just Raised Its Dividend for the 19th Straight Quarter. Time to Buy the 6.8% Yield?",
+    "url": "https://www.fool.com/investing/2026/07/29/energy-transfer-just-raised-its-dividend-for-the-1/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Energy Transfer continues to grow its already lucrative income stream.",
+    "published_at": "2026-07-29T19:15:00+08:00",
+    "stocks": [],
+    "uid": "261d88c31f1054dc0d88900f847aba21"
+  },
+  {
     "title": "‘Nothing seems to shake this market.’ Why it’s time to go all-in on stocks, according to these bullish strategists.",
     "url": "https://www.marketwatch.com/story/oil-is-up-40-and-tech-is-tumbling-why-its-time-to-go-all-in-on-stocks-according-to-these-bullish-strategists-41d812f7?mod=mw_rss_topstories",
     "source": "MarketWatch",
@@ -37,6 +895,15 @@
     "summary_en": "",
     "title_zh": "Nichols 2026 年上半年業績下滑：國際業務激增使營收成長 4.7%",
     "summary_zh": ""
+  },
+  {
+    "title": "Prediction: Amazon's Earnings Report Shows That AWS Growth Accelerates",
+    "url": "https://www.fool.com/investing/2026/07/29/prediction-amazons-earnings-report-shows-that-aws/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Amazon is expected to report year-over-year AWS revenue growth of 31%-33%, but I think it could be even higher.",
+    "published_at": "2026-07-29T19:11:00+08:00",
+    "stocks": [],
+    "uid": "dfa088e3779442b9bd615823c15a0bce"
   },
   {
     "title": "AerCap Holdings NV earnings beat by $1.14, revenue topped estimates",
@@ -143,6 +1010,15 @@
     "summary_zh": ""
   },
   {
+    "title": "Want $100 in Super-Safe Quarterly Dividend Income? Invest $5,635 Into the Following 2 Ultra-High-Yield Stocks.",
+    "url": "https://www.fool.com/investing/2026/07/29/want-100-in-super-safe-quarterly-dividend-income/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "These two high-octane income stocks are yielding an average of 5.33% and have raised their payouts 135 and 83 times, respectively, since going public.",
+    "published_at": "2026-07-29T19:06:00+08:00",
+    "stocks": [],
+    "uid": "25dccfc0089e281fc51c00f18c051cef"
+  },
+  {
     "title": "A profit squeeze is coming for tech. This manager is betting on these unglamorous stocks instead.",
     "url": "https://www.marketwatch.com/story/a-profit-squeeze-is-coming-for-tech-this-manager-is-betting-on-these-unglamorous-stocks-instead-ea19a2ab?mod=mw_rss_topstories",
     "source": "MarketWatch",
@@ -247,6 +1123,15 @@
     "summary_zh": ""
   },
   {
+    "title": "Is Joby Stock Your Ticket to Becoming a Millionaire?",
+    "url": "https://www.fool.com/investing/2026/07/29/is-joby-stock-your-ticket-to-becoming-a-mill/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Joby has lost roughly 50% of its value in 2026. Here's why that's a buying opportunity like no other.",
+    "published_at": "2026-07-29T18:53:00+08:00",
+    "stocks": [],
+    "uid": "2a8ee7e3e943c1a8e68869665849e942"
+  },
+  {
     "title": "Dow Jones Futures Fall, Oil Jumps On Iran News; Seagate, SK Hynix, KLA, Bloom Energy Are AI Earnings Movers",
     "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-seagate-sk-hynix-kla-bloom-energy-earnings-fed-meeting/?src=A00220&yptr=yahoo",
     "source": "Yahoo Finance",
@@ -332,6 +1217,15 @@
     "published_at": "2026-07-29T18:33:29+08:00",
     "stocks": [],
     "uid": "a1efd9388f902bd05e8d5dbd5ee245c2"
+  },
+  {
+    "title": "RWR vs. XLRE: Which Real Estate ETF Is the Better Buy?",
+    "url": "https://www.fool.com/coverage/etfs/2026/07/29/rwr-vs-xlre-which-real-estate-etf-is-the-better-buy/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "RWR offers broader diversification, while XLRE's more concentrated portfolio charges lower fees.",
+    "published_at": "2026-07-29T18:30:14+08:00",
+    "stocks": [],
+    "uid": "e05182d807cdae96c5417ca3e449d06d"
   },
   {
     "title": "Warren probes Pentagon program to hire highly paid private sector workers",
@@ -604,6 +1498,15 @@
     "uid": "e12321d9bcc0f2d1a1bb1341f4fbb593"
   },
   {
+    "title": "What to Watch at the Federal Reserve’s July Meeting",
+    "url": "https://www.nytimes.com/2026/07/29/business/federal-reserve-july-meeting.html",
+    "source": "NYT Business",
+    "summary": "Kevin M. Warsh, who will preside over his second meeting as chairman of the central bank, faces pressure to raise interest rates as inflation remains elevated.",
+    "published_at": "2026-07-29T17:02:10+08:00",
+    "stocks": [],
+    "uid": "fef2603a48ad6e2e5c265e51b68d04c0"
+  },
+  {
     "title": "Trump’s Tariffs Are Sending Some Companies Back to China",
     "url": "https://www.nytimes.com/2026/07/29/business/economy/trumps-tariffs-are-sending-some-companies-back-to-china.html",
     "source": "NYT Business",
@@ -611,6 +1514,15 @@
     "published_at": "2026-07-29T17:02:02+08:00",
     "stocks": [],
     "uid": "9c7a5609dc35cc9dd53f624633c32b44"
+  },
+  {
+    "title": "Trump’s Tariffs Are Sending Some Companies Back to China",
+    "url": "https://www.nytimes.com/2026/07/29/business/economy/trump-tariffs-china.html",
+    "source": "NYT Business",
+    "summary": "For some U.S. brands seeking a location for their factories, the economic logic is once again pointing to China.",
+    "published_at": "2026-07-29T17:02:02+08:00",
+    "stocks": [],
+    "uid": "f881bac57e8e898b818a240b6b5cfd6f"
   },
   {
     "title": "A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands",
