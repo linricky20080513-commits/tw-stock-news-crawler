@@ -1,5 +1,483 @@
 [
   {
+    "title": "Divided Fed holds interest rates steady, but three members voted to hike",
+    "url": "https://www.cnbc.com/2026/07/29/fed-rate-decision-july-2026.html",
+    "source": "CNBC Finance",
+    "summary": "Despite increasing support for a rate increase, the Federal Open Market Committee voted 9-3 to leave the federal funds rate in a range between 3.5% and 3.75%.",
+    "published_at": "2026-07-30T02:58:16+08:00",
+    "stocks": [],
+    "uid": "d3ce097031dbf79b1e4f7e5a60be048c",
+    "title_en": "Divided Fed holds interest rates steady, but three members voted to hike",
+    "summary_en": "Despite increasing support for a rate increase, the Federal Open Market Committee voted 9-3 to leave the federal funds rate in a range between 3.5% and 3.75%.",
+    "title_zh": "意見分歧的聯準會維持利率穩定，但三名成員投票決定升息",
+    "summary_zh": "儘管升息的支持率越來越高，聯邦公開市場委員會還是以 9 比 3 的投票結果將聯邦基金利率維持在 3.5% 至 3.75% 的範圍內。"
+  },
+  {
+    "title": "Airbus H1 2026 slides: deliveries surge 15% as cash flow stays negative",
+    "url": "https://www.investing.com/news/company-news/airbus-h1-2026-slides-deliveries-surge-15-as-cash-flow-stays-negative-93CH-4821506",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-30T02:56:13+08:00",
+    "stocks": [],
+    "uid": "3b5966840f207c06e9335df02dd5062d",
+    "title_en": "Airbus H1 2026 slides: deliveries surge 15% as cash flow stays negative",
+    "summary_en": "",
+    "title_zh": "空中巴士 2026 年上半年業績下滑：現金流維持負值，交屋量大增 15%",
+    "summary_zh": ""
+  },
+  {
+    "title": "Earnings call transcript: First Commonwealth beats Q2 2026 estimates, shares rise",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-first-commonwealth-beats-q2-2026-estimates-shares-rise-93CH-4821505",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-30T02:55:47+08:00",
+    "stocks": [],
+    "uid": "8704c61a80b79c5e465318d4aff6f7e6",
+    "title_en": "Earnings call transcript: First Commonwealth beats Q2 2026 estimates, shares rise",
+    "summary_en": "",
+    "title_zh": "財報電話會議紀錄：First Commonwealth 超越 2026 年第二季預期，股價上漲",
+    "summary_zh": ""
+  },
+  {
+    "title": "Fed’s Warsh says there is no ’soft target’ for inflation, only a 2% goal",
+    "url": "https://www.investing.com/news/economy-news/feds-warsh-says-there-is-no-soft-target-for-inflation-only-a-2-goal-4821504",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-30T02:54:46+08:00",
+    "stocks": [],
+    "uid": "54da9278cfeffde26eeee6c057ed9adb",
+    "title_en": "Fed’s Warsh says there is no ’soft target’ for inflation, only a 2% goal",
+    "summary_en": "",
+    "title_zh": "聯準會沃什表示通膨沒有“軟目標”，只有2%的目標",
+    "summary_zh": ""
+  },
+  {
+    "title": "Etsy stock hits 52-week high at 87.14 USD",
+    "url": "https://www.investing.com/news/company-news/etsy-stock-hits-52week-high-at-8714-usd-93CH-4821503",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-30T02:53:41+08:00",
+    "stocks": [],
+    "uid": "e7d89d52bd183b6f1e633915389ea6bc",
+    "title_en": "Etsy stock hits 52-week high at 87.14 USD",
+    "summary_en": "",
+    "title_zh": "Etsy 股價觸及 52 週新至 87.14 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Bread Financial Holdings stock hits 52-week high at 109.92 USD",
+    "url": "https://www.investing.com/news/company-news/bread-financial-holdings-stock-hits-52week-high-at-10992-usd-93CH-4821502",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-30T02:53:40+08:00",
+    "stocks": [],
+    "uid": "89fb511f3f3a9b7ebce1e685077030bb",
+    "title_en": "Bread Financial Holdings stock hits 52-week high at 109.92 USD",
+    "summary_en": "",
+    "title_zh": "Bread Financial Holdings股價觸及52週新高至109.92美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "OpenAI’s Sam Altman discusses rogue agent and new AI models with US senators",
+    "url": "https://www.investing.com/news/economy-news/openais-sam-altman-discusses-rogue-agent-and-new-ai-models-with-us-senators-4821501",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-30T02:49:17+08:00",
+    "stocks": [],
+    "uid": "8dedf64bd097338976e54449c32d1f45",
+    "title_en": "OpenAI’s Sam Altman discusses rogue agent and new AI models with US senators",
+    "summary_en": "",
+    "title_zh": "OpenAI 的 Sam Altman 與美國參議員討論流氓代理和新的人工智慧模型",
+    "summary_zh": ""
+  },
+  {
+    "title": "Bolivia and IMF reach $1.9 billion loan agreement, political hurdles remain",
+    "url": "https://www.investing.com/news/economy-news/bolivia-imf-reach-agreement-on-program-worth-19-billion-4821288",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-30T02:48:57+08:00",
+    "stocks": [],
+    "uid": "b19099c903c2b7a097276de182df91aa",
+    "title_en": "Bolivia and IMF reach $1.9 billion loan agreement, political hurdles remain",
+    "summary_en": "",
+    "title_zh": "玻利維亞與國際貨幣基金組織達成19億美元貸款協議，政治障礙仍存在",
+    "summary_zh": ""
+  },
+  {
+    "title": "Here's what changed in the second Fed statement under Warsh",
+    "url": "https://www.cnbc.com/2026/07/29/fed-decision-redline-heres-what-changed-in-the-second-statement-under-warsh.html",
+    "source": "CNBC Finance",
+    "summary": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in June.",
+    "published_at": "2026-07-30T02:48:02+08:00",
+    "stocks": [],
+    "uid": "baf9e67459c0b0ca631845ecc30f271e",
+    "title_en": "Here's what changed in the second Fed statement under Warsh",
+    "summary_en": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in June.",
+    "title_zh": "以下是沃什領導下的第二份聯準會聲明中發生的變化",
+    "summary_zh": "這是聯邦公開市場委員會週三聲明與聯準會 6 月上一次政策制定會議後發布的聲明的比較。"
+  },
+  {
+    "title": "Form 144 AtriCure For: 29 July",
+    "url": "https://www.investing.com/news/filings/form-144-atricure-for-29-july-93CH-4821500",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-30T02:45:11+08:00",
+    "stocks": [],
+    "uid": "1d298b97f00100a355b56728eff0e5bb",
+    "title_en": "Form 144 AtriCure For: 29 July",
+    "summary_en": "",
+    "title_zh": "144 AtriCure 表格適用於：7 月 29 日",
+    "summary_zh": ""
+  },
+  {
+    "title": "BTIG cuts Boston Scientific stock price target on weaker outlook",
+    "url": "https://www.investing.com/news/analyst-ratings/btig-cuts-boston-scientific-stock-price-target-on-weaker-outlook-93CH-4821499",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-30T02:44:49+08:00",
+    "stocks": [],
+    "uid": "b7030e3a4e8c2e3ed8e272d784069361",
+    "title_en": "BTIG cuts Boston Scientific stock price target on weaker outlook",
+    "summary_en": "",
+    "title_zh": "由於前景疲軟，BTIG 下調波士頓科學公司股價目標",
+    "summary_zh": ""
+  },
+  {
+    "title": "Assurant stock hits all-time high at 284.27 USD",
+    "url": "https://www.investing.com/news/company-news/assurant-stock-hits-alltime-high-at-28427-usd-93CH-4821498",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-30T02:44:42+08:00",
+    "stocks": [],
+    "uid": "9740b4f0c10ba42aec9e3feba125d2e5",
+    "title_en": "Assurant stock hits all-time high at 284.27 USD",
+    "summary_en": "",
+    "title_zh": "安信龍股價觸及歷史新高 284.27 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Ford’s big-truck bet is paying off — and Wall Street is taking notice",
+    "url": "https://www.marketwatch.com/story/fords-big-truck-bet-is-paying-off-and-wall-street-is-taking-notice-6a1de0fb?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "A turnaround story could be in the works at Ford, which gets less love than GM on Wall Street.",
+    "published_at": "2026-07-30T02:32:00+08:00",
+    "stocks": [],
+    "uid": "2622b63b8b1352d7899ddf4e5f480f91",
+    "title_en": "Ford’s big-truck bet is paying off — and Wall Street is taking notice",
+    "summary_en": "A turnaround story could be in the works at Ford, which gets less love than GM on Wall Street.",
+    "title_zh": "福特的大卡車賭注正在獲得回報——華爾街正在註意到",
+    "summary_zh": "福特可能正在醞釀一個扭虧為盈的故事，但它在華爾街的受歡迎程度不如通用汽車。"
+  },
+  {
+    "title": "Why Blackbaud Stock Is Skyrocketing Today",
+    "url": "https://www.fool.com/investing/2026/07/29/why-blackbaud-stock-is-skyrocketing-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Blackbaud's Q2 report arrived with some big things for investors to be excited about.",
+    "published_at": "2026-07-30T02:30:26+08:00",
+    "stocks": [],
+    "uid": "e1fbec8f9f0b82289c1d119eb6155d95",
+    "title_en": "Why Blackbaud Stock Is Skyrocketing Today",
+    "summary_en": "Blackbaud's Q2 report arrived with some big things for investors to be excited about.",
+    "title_zh": "為什麼 Blackbaud 股票今天飆升",
+    "summary_zh": "Blackbaud 的第二季報告帶來了一些讓投資者興奮的大事。"
+  },
+  {
+    "title": "Hims and Hers shares fall 10% as FTC sues company over data, billing practices",
+    "url": "https://www.cnbc.com/2026/07/29/hims-and-hers-ftc-lawsuit-stock.html",
+    "source": "CNBC Top",
+    "summary": "The FTC sued Hims & Hers over alleged health data sharing with Meta and Snap, billing practices and subscription cancellations.",
+    "published_at": "2026-07-30T02:24:09+08:00",
+    "stocks": [],
+    "uid": "d03e8bc84800220e3b19abf26339111b",
+    "title_en": "Hims and Hers shares fall 10% as FTC sues company over data, billing practices",
+    "summary_en": "The FTC sued Hims & Hers over alleged health data sharing with Meta and Snap, billing practices and subscription cancellations.",
+    "title_zh": "FTC 就數據和計費行為起訴 Hims 和 Hers 公司，股價下跌 10%",
+    "summary_zh": "FTC 起訴 Hims & Hers 涉嫌與 Meta 和 Snap 分享健康數據、計費做法和訂閱取消。"
+  },
+  {
+    "title": "Why O-I Glass Stock Was Falling Today",
+    "url": "https://www.fool.com/investing/2026/07/29/why-o-i-glass-was-falling-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Problems in Europe weighed on profits.",
+    "published_at": "2026-07-30T02:22:55+08:00",
+    "stocks": [],
+    "uid": "b048f2ec8ab12949e0642c7f89ddd862",
+    "title_en": "Why O-I Glass Stock Was Falling Today",
+    "summary_en": "Problems in Europe weighed on profits.",
+    "title_zh": "為什麼 O-I Glass 股票今天下跌",
+    "summary_zh": "歐洲的問題影響了利潤。"
+  },
+  {
+    "title": "Sandisk Stock Has Surged More Than 2,000% in a Year. History Suggests This Is Where the Stock Could Be in 2028",
+    "url": "https://www.fool.com/investing/2026/07/29/sandisk-stock-has-surged-more-than-2000-in-a-year/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Sandisk can deliver impressive gains over the next couple of years due to strong NAND flash pricing.",
+    "published_at": "2026-07-30T02:22:00+08:00",
+    "stocks": [],
+    "uid": "6fca7ecee2f3a3057781b78ed0dac730",
+    "title_en": "Sandisk Stock Has Surged More Than 2,000% in a Year. History Suggests This Is Where the Stock Could Be in 2028",
+    "summary_en": "Sandisk can deliver impressive gains over the next couple of years due to strong NAND flash pricing.",
+    "title_zh": "Sandisk 股價一年內飆漲超過 2,000%。歷史表明，這就是該股 2028 年可能達到的水平",
+    "summary_zh": "由於強勁的 NAND 快閃記憶體定價，Sandisk 可以在未來幾年內實現令人印象深刻的收益。"
+  },
+  {
+    "title": "Is Google Parent Company Alphabet Stock Too Cheap to Ignore Right Now?",
+    "url": "https://www.fool.com/investing/2026/07/29/is-alphabet-stock-too-cheap-to-ignore-right-now/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Alphabet stock plummeted last week after its earnings release.",
+    "published_at": "2026-07-30T02:13:00+08:00",
+    "stocks": [],
+    "uid": "3dd9c3068a8dd21d057a402a01231842",
+    "title_en": "Is Google Parent Company Alphabet Stock Too Cheap to Ignore Right Now?",
+    "summary_en": "Alphabet stock plummeted last week after its earnings release.",
+    "title_zh": "谷歌母公司 Alphabet 的股票現在是否太便宜而不容忽視？",
+    "summary_zh": "Alphabet 的股價上週在財報發布後暴跌。"
+  },
+  {
+    "title": "Micron Stock Has Surged 637% in a Year. History Has a Clear Answer Where It Will Be in 2027",
+    "url": "https://www.fool.com/investing/2026/07/29/micron-stock-has-surged-637-in-a-year-history-has/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Micron stock has taken a beating of late, but its biggest catalyst isn't going anywhere.",
+    "published_at": "2026-07-30T02:12:00+08:00",
+    "stocks": [],
+    "uid": "07de6c3583410f4193377b1b8bd3a212",
+    "title_en": "Micron Stock Has Surged 637% in a Year. History Has a Clear Answer Where It Will Be in 2027",
+    "summary_en": "Micron stock has taken a beating of late, but its biggest catalyst isn't going anywhere.",
+    "title_zh": "美光股價一年內飆升 637%歷史有明確的答案 2027 年會發生什麼",
+    "summary_zh": "美光科技的股票最近遭受重創，但其最大的催化劑並沒有消失。"
+  },
+  {
+    "title": "Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans",
+    "url": "https://www.fool.com/investing/2026/07/29/tesla-stock-suffered-its-worst-week-since-2022-fal/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Elon Musk has lost $300 billion in the last six weeks.",
+    "published_at": "2026-07-30T02:05:00+08:00",
+    "stocks": [],
+    "uid": "8e5308e343f8deaac37f0037cee9b0d8",
+    "title_en": "Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans",
+    "summary_en": "Elon Musk has lost $300 billion in the last six weeks.",
+    "title_zh": "由於投資人對馬斯克的機器人計程車和人工智慧支出計畫猶豫不決，特斯拉股價遭遇 2022 年以來最糟糕的一周，下跌 18%",
+    "summary_zh": "伊隆馬斯克在過去六週內損失了 3000 億美元。"
+  },
+  {
+    "title": "Sam Altman to meet with White House's Wiles this week ahead of AI framework deadline",
+    "url": "https://www.cnbc.com/2026/07/29/altman-white-house-wiles-ai-framework.html",
+    "source": "CNBC Top",
+    "summary": "OpenAI CEO Sam Altman is meeting with a range of senior Trump administration officials, lawmakers and economists.",
+    "published_at": "2026-07-30T02:03:25+08:00",
+    "stocks": [],
+    "uid": "91705eba987010dcccef2ef7ee5cda4b",
+    "title_en": "Sam Altman to meet with White House's Wiles this week ahead of AI framework deadline",
+    "summary_en": "OpenAI CEO Sam Altman is meeting with a range of senior Trump administration officials, lawmakers and economists.",
+    "title_zh": "薩姆·奧爾特曼將於本週在人工智慧框架截止日期之前會見白宮的懷爾斯",
+    "summary_zh": "OpenAI 執行長 Sam Altman 正在會見川普政府的一系列高級官員、立法者和經濟學家。"
+  },
+  {
+    "title": "Semiconductor Crash: 3 Stocks to Buy Now While They Are Still on Sale",
+    "url": "https://www.fool.com/investing/2026/07/29/semiconductor-crash-3-stocks-to-buy-now-while-they/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Nvidia, AMD, and Broadcom all look like buys on this sell-off.",
+    "published_at": "2026-07-30T02:00:00+08:00",
+    "stocks": [],
+    "uid": "de0220f44908d7c0f02ef542b98f25f0",
+    "title_en": "Semiconductor Crash: 3 Stocks to Buy Now While They Are Still on Sale",
+    "summary_en": "Nvidia, AMD, and Broadcom all look like buys on this sell-off.",
+    "title_zh": "半導體崩盤：三隻仍在出售的股票",
+    "summary_zh": "Nvidia、AMD 和 Broadcom 看起來都適合在這次拋售中買入。"
+  },
+  {
+    "title": "Why Fiverr Stock Is Falling Hard Today",
+    "url": "https://www.fool.com/investing/2026/07/29/why-fiverr-stock-is-falling-hard-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Disappointing second-quarter results and Fiverr's lowered 2026 guidance fueled the sell-off.",
+    "published_at": "2026-07-30T01:56:00+08:00",
+    "stocks": [],
+    "uid": "873c689c86b93a212729dfd0d48dd129",
+    "title_en": "Why Fiverr Stock Is Falling Hard Today",
+    "summary_en": "Disappointing second-quarter results and Fiverr's lowered 2026 guidance fueled the sell-off.",
+    "title_zh": "為什麼 Fiverr 股票今天會大幅下跌",
+    "summary_zh": "令人失望的第二季業績和 Fiverr 下調的 2026 年指引加劇了拋售。"
+  },
+  {
+    "title": "Why Micron Stock Dropped Again Today",
+    "url": "https://www.fool.com/investing/2026/07/29/why-micron-stock-dropped-again-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "A new Korean regulation could have unintended consequences for Micron investors.",
+    "published_at": "2026-07-30T01:49:16+08:00",
+    "stocks": [],
+    "uid": "a9d21ae92a6f21d28282d4bcfc7ee6ee",
+    "title_en": "Why Micron Stock Dropped Again Today",
+    "summary_en": "A new Korean regulation could have unintended consequences for Micron investors.",
+    "title_zh": "為什麼美光科技股價今天又下跌",
+    "summary_zh": "韓國的新法規可能會為美光投資者帶來意想不到的後果。"
+  },
+  {
+    "title": "Apple shares just hit a record. Here's how trader Mike Khouw is playing the move",
+    "url": "https://www.cnbc.com/2026/07/29/apple-shares-just-hit-a-record-heres-how-trader-mike-khouw-is-playing-the-move.html",
+    "source": "CNBC Top",
+    "summary": "Even as broader tech names and momentum plays have faltered, Apple has hit new all-time highs.",
+    "published_at": "2026-07-30T01:48:00+08:00",
+    "stocks": [],
+    "uid": "427a6dcc807508d1a8959ac2f654d8ff",
+    "title_en": "Apple shares just hit a record. Here's how trader Mike Khouw is playing the move",
+    "summary_en": "Even as broader tech names and momentum plays have faltered, Apple has hit new all-time highs.",
+    "title_zh": "蘋果股價剛創下歷史新高。以下是交易者 Mike Khouw 的操作方式",
+    "summary_zh": "儘管更廣泛的科技公司和勢頭有所減弱，但蘋果仍創下了歷史新高。"
+  },
+  {
+    "title": "Uber Agrees to Invest up to $1.2 Billion in Rivian and Purchase up to 50,000 R2s. Here's Why Rivian May Be a Sneaky Robotaxi Winner.",
+    "url": "https://www.fool.com/investing/2026/07/29/uber-agrees-to-invest-up-to-12-billion-in-rivian/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The deal with Uber is an early test for Rivian that can unlock a wave of new revenue opportunities through robotaxis.",
+    "published_at": "2026-07-30T01:45:00+08:00",
+    "stocks": [],
+    "uid": "32764429c8492b9b8b664503f6f5b9dc"
+  },
+  {
+    "title": "Why Sandisk Stock Is Sinking Today",
+    "url": "https://www.fool.com/investing/2026/07/29/why-sandisk-stock-is-sinking-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Sandisk stock is still up massively over the last year, but it's now down 55% from its high.",
+    "published_at": "2026-07-30T01:41:43+08:00",
+    "stocks": [],
+    "uid": "b36b6737f1813b903973664b12300e86"
+  },
+  {
+    "title": "Individual investors are dumping stocks at the fastest pace since the COVID crash",
+    "url": "https://www.marketwatch.com/story/individual-investors-are-dumping-stocks-at-the-fastest-pace-since-the-covid-crash-42b46756?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Individual investors just recorded “their largest net selling of single stocks since the COVID crash,” according to Vanda Research.",
+    "published_at": "2026-07-30T01:40:00+08:00",
+    "stocks": [],
+    "uid": "d0f4a98ea5dc67e948b62b4913925b7d"
+  },
+  {
+    "title": "Why Shares in This AI Infrastructure Stock Crashed Today",
+    "url": "https://www.fool.com/investing/2026/07/29/why-shares-in-this-ai-infrastructure-stock-crashed/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The market is worried that some sales challenges in the second quarter may not prove temporary.",
+    "published_at": "2026-07-30T01:38:10+08:00",
+    "stocks": [],
+    "uid": "f99b801dedc44537b40d58106c02ee82"
+  },
+  {
+    "title": "Should Investors Buy SuperMicro Stock Before Aug. 11?",
+    "url": "https://www.fool.com/investing/2026/07/29/should-investors-buy-supermicro-stock-before-aug-1/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Supermicro's AI demand remains compelling, but cash burn, dilution, and legal risk have transformed the investment case. Here's what investors should watch before the next major verdict.",
+    "published_at": "2026-07-30T01:37:00+08:00",
+    "stocks": [],
+    "uid": "34d844cc287393acf01a78dd39b8dc77"
+  },
+  {
+    "title": "The Fed Has Held Interest Rates at 3.50%-3.75% for 5 Straight Meetings Under Kevin Warsh, a Signal That Borrowers Shouldn't Expect Relief Soon",
+    "url": "https://www.fool.com/investing/2026/07/29/fed-held-interest-rates-no-relief-coming/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Investors and consumers should expect steady (and possibly higher) interest rates for the foreseeable future.",
+    "published_at": "2026-07-30T01:31:00+08:00",
+    "stocks": [],
+    "uid": "ac142507ab080f41022b5f6e013c8ea0"
+  },
+  {
+    "title": "Better Buy Amid the Tech Crown Shift : Apple vs. Nvidia",
+    "url": "https://www.fool.com/investing/2026/07/29/better-buy-amid-tech-crown-shift-apple-vs-nvidia/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Nvidia holds a slight edge in this battle of tech titans, but both represent premier AI opportunities.",
+    "published_at": "2026-07-30T01:30:00+08:00",
+    "stocks": [],
+    "uid": "c22976da0c03e8212225b0409ec68e47"
+  },
+  {
+    "title": "Market Indexes Tumble on Geopolitical Tensions and Chip Stock Selloff",
+    "url": "https://www.fool.com/investing/2026/07/29/market-indexes-tumble-on-geopolitical-tensions/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The Dow dropped over 900 points as Iran tensions pushed oil prices sharply higher. Semiconductor stocks extended their brutal weekly decline.",
+    "published_at": "2026-07-30T01:29:46+08:00",
+    "stocks": [],
+    "uid": "36db18997abd92bc18014378a761ba7c"
+  },
+  {
+    "title": "I’ve seen families destroyed by this common estate-planning mistake. Here’s how to protect yours.",
+    "url": "https://www.marketwatch.com/story/ive-seen-families-destroyed-by-this-common-estate-planning-mistake-heres-how-to-protect-yours-4f997564?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "It’s not enough to do everything “right” on paper.",
+    "published_at": "2026-07-30T01:18:00+08:00",
+    "stocks": [],
+    "uid": "c62bbabade309c6a868d25251c32ea6d"
+  },
+  {
+    "title": "Why SoFi’s stock is dropping, even after its earnings beat expectations",
+    "url": "https://www.marketwatch.com/story/why-sofis-stock-is-dropping-even-after-its-earnings-beat-expectations-ecc442eb?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Investors were disappointed by the neobank’s restrained guidance.",
+    "published_at": "2026-07-30T01:18:00+08:00",
+    "stocks": [],
+    "uid": "03d619f73bc8de4272f6553393c96ffb"
+  },
+  {
+    "title": "Is Ford Motor Stock a Buy After Its Latest Earnings Report?",
+    "url": "https://www.fool.com/investing/2026/07/29/is-ford-motor-stock-a-buy-after-its-latest-earnings-report/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Ford missed consensus revenue estimates but raised its full-year guidance.",
+    "published_at": "2026-07-30T01:16:01+08:00",
+    "stocks": [],
+    "uid": "f6d368db17dfb25d69e106f55e3a4657"
+  },
+  {
+    "title": "Intel's Data Center Revenue Soared 59% in the Second Quarter. So, Why Did Wall Street Sell the Stock?",
+    "url": "https://www.fool.com/investing/2026/07/29/intels-data-center-revenue-soared-59-in-the-second/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "There was a lot to like in Intel's Q2 earnings. However, investors are taking issue with Intel's ambitious spending plans.",
+    "published_at": "2026-07-30T01:15:00+08:00",
+    "stocks": [],
+    "uid": "e3f305739a8bf20c3b43c95ce6bee94c"
+  },
+  {
+    "title": "Is a Caterpillar Stock Split Inevitable?",
+    "url": "https://www.fool.com/investing/2026/07/29/is-a-caterpillar-stock-split-inevitable/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The stock's price has risen nearly 50% this year.",
+    "published_at": "2026-07-30T01:13:00+08:00",
+    "stocks": [],
+    "uid": "f3b7611a68f27b01b215958761a3dd8e"
+  },
+  {
+    "title": "Should You Buy Uber Stock Before Aug. 5?",
+    "url": "https://www.fool.com/investing/2026/07/29/should-you-buy-uber-stock-before-aug-5/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The world's top ride-hailing company is still growing rapidly.",
+    "published_at": "2026-07-30T01:07:14+08:00",
+    "stocks": [],
+    "uid": "3112cf19ddea66d78190002a3fa6d879"
+  },
+  {
+    "title": "Why Shares of Parsons Are Plunging Today",
+    "url": "https://www.fool.com/investing/2026/07/29/why-shares-of-parsons-are-plunging-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The company beat on the bottom line, but investors are emphasizing something else altogether.",
+    "published_at": "2026-07-30T01:05:29+08:00",
+    "stocks": [],
+    "uid": "ce34da83b8ce62ccff276b79a72e52e6"
+  },
+  {
+    "title": "Why Teradyne Stock Is Gaining Today",
+    "url": "https://www.fool.com/investing/2026/07/29/why-teradyne-stock-is-gaining-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Teradyne just served up a stellar quarterly report.",
+    "published_at": "2026-07-30T01:02:38+08:00",
+    "stocks": [],
+    "uid": "228d7dad03649e58505d4535d43880f5"
+  },
+  {
+    "title": "3 Dividend Stocks to Buy for a Lifetime of Passive Income",
+    "url": "https://www.fool.com/investing/2026/07/29/3-dividend-stocks-to-buy-for-a-lifetime-of-passive/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "These companies' recent headwinds shouldn't lead to decreased payouts.",
+    "published_at": "2026-07-30T01:00:00+08:00",
+    "stocks": [],
+    "uid": "e1289ba9eca14b365c5070c8c30f7908"
+  },
+  {
     "title": "Investors Are Bracing for Uncertain Fed Announcement",
     "url": "https://www.nytimes.com/live/2026/07/29/business/fed-meeting-rates-kevin-warsh/investors-are-bracing-for-uncertain-fed-announcement",
     "source": "NYT Business",
@@ -156,6 +634,24 @@
     "summary_zh": ""
   },
   {
+    "title": "Oklo Is Down Over 75% From Its High. It's Still Not the Best Nuclear Stock to Buy.",
+    "url": "https://www.fool.com/investing/2026/07/29/oklo-is-down-over-75-from-its-high-its-still-not-t/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Oklo remains a very risky way to play the nuclear power resurgence.",
+    "published_at": "2026-07-30T00:45:00+08:00",
+    "stocks": [],
+    "uid": "e72c406332b3853bb68c9e70a5a7f00c"
+  },
+  {
+    "title": "Why Lemonade Stock Is Crashing Today",
+    "url": "https://www.fool.com/investing/2026/07/29/why-lemonade-stock-is-crashing-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Lemonade is facing a brutal sell-off despite posting strong sales growth in Q2.",
+    "published_at": "2026-07-30T00:39:53+08:00",
+    "stocks": [],
+    "uid": "0f5b429ce1fad27b1ee21640084166e0"
+  },
+  {
     "title": "Todd Blanche attorney general nomination on edge as Cornyn questions Trump-IRS settlement",
     "url": "https://www.cnbc.com/2026/07/29/todd-blanche-attorney-general-trump-irs-audit-cornyn.html",
     "source": "CNBC Top",
@@ -250,6 +746,15 @@
     "summary_en": "",
     "title_zh": "為什麼儘管 Phillips 66 (PSX) 的數字有所改善，但華爾街仍對其持分歧態度",
     "summary_zh": ""
+  },
+  {
+    "title": "56-year-old fast-food giant has closed over half its restaurants",
+    "url": "https://finance.yahoo.com/economy/articles/56-old-fast-food-giant-162827239.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-30T00:28:27+08:00",
+    "stocks": [],
+    "uid": "6517a2b30893fae0a0df800753250e06"
   },
   {
     "title": "Vinted taps DHL’s Germany collection points to expand second-hand market",
@@ -5194,6 +5699,15 @@
     "uid": "8e05fa7931a4a0e234e9f5945ddc30ae"
   },
   {
+    "title": "7 best life insurance companies of 2026",
+    "url": "https://finance.yahoo.com/personal-finance/insurance/article/best-life-insurance-companies-185541475.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-29T02:55:41+08:00",
+    "stocks": [],
+    "uid": "50f48340b9ce3505a28a82d3f60066fa"
+  },
+  {
     "title": "3 of the Best Dividend Growth Stocks to Buy and Hold for Decades",
     "url": "https://www.fool.com/investing/2026/07/28/3-of-the-best-dividend-growth-stocks-to-buy-and-ho/?source=iedfolrf0000001",
     "source": "Motley Fool",
@@ -7676,6 +8190,15 @@
     "uid": "4de4c6aab13a0b46a940a19ce1f79ca5"
   },
   {
+    "title": "Silver prices today, Tuesday, July 28, 2026: Silver edges lower ahead of today's Fed meeting",
+    "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-july-28-2026-silver-edges-lower-ahead-of-todays-fed-meeting-120508650.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T20:05:08+08:00",
+    "stocks": [],
+    "uid": "178d29c51205d7737039abe3be5e865e"
+  },
+  {
     "title": "Microsoft to report Q4 earnings as investors look for return on AI investments",
     "url": "https://finance.yahoo.com/technology/article/microsoft-to-report-q4-earnings-as-investors-look-for-return-on-ai-investments-120144134.html",
     "source": "Yahoo Finance",
@@ -8442,6 +8965,24 @@
     "uid": "2e9d62ba72502c04181b7276267d3c65"
   },
   {
+    "title": "The bond market's danger zone is becoming the new normal: Chart of the Day",
+    "url": "https://finance.yahoo.com/markets/article/the-bond-markets-danger-zone-is-becoming-the-new-normal-chart-of-the-day-100000676.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T18:00:00+08:00",
+    "stocks": [],
+    "uid": "e6a4bcb579afb831c25080cd43275639"
+  },
+  {
+    "title": "A 'Super El Niño' is expected to squeeze commodities even further this year",
+    "url": "https://finance.yahoo.com/markets/article/a-super-el-nino-is-expected-to-squeeze-commodities-even-further-this-year-100000389.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T18:00:00+08:00",
+    "stocks": [],
+    "uid": "47ad24d0ebd6007dec50fb65a372519c"
+  },
+  {
     "title": "GE Aerospace Slumps: Buy the Dip or Avoid?",
     "url": "https://www.fool.com/investing/2026/07/28/ge-aerospace-slumps-buy-the-dip-or-avoid/?source=iedfolrf0000001",
     "source": "Motley Fool",
@@ -8476,6 +9017,15 @@
     "published_at": "2026-07-28T17:44:13+08:00",
     "stocks": [],
     "uid": "c6e7579cf5b9cb933efb79e7b7b38bcf"
+  },
+  {
+    "title": "Meta, BlackRock partner on $14 billion El Paso data center venture",
+    "url": "https://finance.yahoo.com/technology/ai/articles/meta-blackrock-partner-14-billion-093946704.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T17:39:46+08:00",
+    "stocks": [],
+    "uid": "b78709d786afd9196ac773bcd1b2c3c9"
   },
   {
     "title": "SpaceX Will Give Investors Big News on Aug. 4. Here's What a $10,000 Investment Could Be Worth on Aug. 5.",
@@ -8599,6 +9149,15 @@
     "summary_en": "",
     "title_zh": "Ardagh 集團報告金屬包裝排放量減少了 16%",
     "summary_zh": ""
+  },
+  {
+    "title": "Accenture Earnings Preview: What to Expect",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/accenture-earnings-preview-expect-091316200.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T17:13:16+08:00",
+    "stocks": [],
+    "uid": "f2becf190bbf74f22c91887fdc730bbd"
   },
   {
     "title": "The Stock Market Sounds an Alarm Triggered Just Once Before. History Says This Will Happen Next.",
@@ -8873,6 +9432,15 @@
     "published_at": "2026-07-28T16:48:00+08:00",
     "stocks": [],
     "uid": "00c70b9255750bbdc74c0a944b8c0281"
+  },
+  {
+    "title": "US Dollar Price Forecast: Fed, GDP and PCE Data in Focus – What’s Next for DXY, GBP/USD and EUR/USD?",
+    "url": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-fed-084156178.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T16:41:56+08:00",
+    "stocks": [],
+    "uid": "3237a9d0b4bf2027973aa94aa463e111"
   },
   {
     "title": "Salesforce’s Agentforce Bet Made It the Dow’s Worst Performer. Is the Market Overreacting?",
@@ -153416,6 +153984,15 @@
     "summary_zh": ""
   },
   {
+    "title": "The best balance transfer credit cards for August 2026: Don't pay any interest until 2027",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-balance-transfer-credit-cards-0-introductory-apr-150104640.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-05-08T23:01:04+08:00",
+    "stocks": [],
+    "uid": "b989482525d9c43aca1869e551886d5b"
+  },
+  {
     "title": "Best hedges against inflation: 6 ways to protect your purchasing power",
     "url": "https://finance.yahoo.com/personal-finance/banking/article/best-hedges-against-inflation-231136070.html",
     "source": "Yahoo Finance",
@@ -153880,6 +154457,15 @@
     "uid": "24569d4abd76f7e31256c65cc3780623"
   },
   {
+    "title": "The best credit cards for Airbnb rentals (August 2026): Earn points and cash back for your stay",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-card-for-airbnb-rentals-183212147.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2025-04-15T02:32:12+08:00",
+    "stocks": [],
+    "uid": "1ba795499062d038cc5cf1fc370bd4d8"
+  },
+  {
     "title": "How tariffs increase car insurance costs",
     "url": "https://finance.yahoo.com/personal-finance/insurance/article/car-insurance-tariffs-210219697.html",
     "source": "Yahoo Finance",
@@ -153887,6 +154473,15 @@
     "published_at": "2025-04-12T05:02:19+08:00",
     "stocks": [],
     "uid": "56ade0588b702c539879a395c1e77e4c"
+  },
+  {
+    "title": "My spouse just died — do I have to pay off their credit card debt?",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/my-spouse-just-died--do-i-have-to-pay-off-their-credit-card-debt-211343681.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2025-03-20T05:13:43+08:00",
+    "stocks": [],
+    "uid": "251817d429fec315e5a16b9ec8759163"
   },
   {
     "title": "How much money should you keep in a high-yield savings account?",
@@ -154216,6 +154811,15 @@
     "uid": "ce9a6a0c8b0a80733b4a9958b99c9a2e"
   },
   {
+    "title": "12 types of CDs: Which one is right for you?",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/types-of-cds-172454512.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2024-10-26T01:24:54+08:00",
+    "stocks": [],
+    "uid": "c57c4a993d28d10caa8285920095a05a"
+  },
+  {
     "title": "Best Chase credit cards for 2026",
     "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-chase-credit-card-173042163.html",
     "source": "Yahoo Finance",
@@ -154454,6 +155058,15 @@
     "published_at": "2024-05-17T06:26:02+08:00",
     "stocks": [],
     "uid": "1417ddc56d3a214e9f49f00f2c1679b4"
+  },
+  {
+    "title": "Is it safe to store money in apps like Venmo, PayPal, and Cash App?",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/can-you-hold-money-cash-app-paypal-venmo-182920026.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2024-04-26T02:29:20+08:00",
+    "stocks": [],
+    "uid": "a4fab760bb376032ad8ad938ef474fe9"
   },
   {
     "title": "I bond vs. high-yield savings account: Which is better for beating inflation?",
