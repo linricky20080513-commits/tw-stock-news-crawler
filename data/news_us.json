@@ -1,5 +1,348 @@
 [
   {
+    "title": "Chipotle hikes same-store sales forecast as diners return for burrito bowls",
+    "url": "https://www.cnbc.com/2026/07/29/chipotle-mexican-grill-cmg-q2-2026-earnings.html",
+    "source": "CNBC Markets",
+    "summary": "Chipotle Mexican Grill stock has fallen more than 7% this year, dragging its market value down to roughly $44 billion.",
+    "published_at": "2026-07-30T04:11:31+08:00",
+    "stocks": [],
+    "uid": "5460455e8788735830c7c6b7dcf8ecf0",
+    "title_en": "Chipotle hikes same-store sales forecast as diners return for burrito bowls",
+    "summary_en": "Chipotle Mexican Grill stock has fallen more than 7% this year, dragging its market value down to roughly $44 billion.",
+    "title_zh": "隨著食客回歸墨西哥捲餅碗，Chipotle 上調同店銷售預測",
+    "summary_zh": ""
+  },
+  {
+    "title": "Starbucks raises full-year outlook as same-store sales climb 7.9%",
+    "url": "https://www.cnbc.com/2026/07/29/starbucks-sbux-q3-2026-earnings.html",
+    "source": "CNBC Markets",
+    "summary": "Starbucks posted its fourth straight quarter of same-store sales growth, as it continues a turnaround under CEO Brian Niccol.",
+    "published_at": "2026-07-30T04:07:27+08:00",
+    "stocks": [],
+    "uid": "f7aeb4063b3640140afa85e39cdb9f42",
+    "title_en": "Starbucks raises full-year outlook as same-store sales climb 7.9%",
+    "summary_en": "Starbucks posted its fourth straight quarter of same-store sales growth, as it continues a turnaround under CEO Brian Niccol.",
+    "title_zh": "星巴克上調全年預期 同店銷售額成長 7.9%",
+    "summary_zh": "星巴克連續第四個季度實現同店銷售成長，在執行長布萊恩·尼科爾 (Brian Niccol) 的領導下繼續扭虧為盈。"
+  },
+  {
+    "title": "Qualcomm to raise prices during memory crunch as chipmaker issues light earnings guidance",
+    "url": "https://www.cnbc.com/2026/07/29/qualcomm-qcom-earnings-report-q3-2026-.html",
+    "source": "CNBC Markets",
+    "summary": "\"Cost went up, prices are going to go up,\" Qualcomm CEO Cristiano Amon said in an interview.",
+    "published_at": "2026-07-30T04:02:38+08:00",
+    "stocks": [],
+    "uid": "6019cc92ebcf7b5bb8a8a542d6a047e7",
+    "title_en": "Qualcomm to raise prices during memory crunch as chipmaker issues light earnings guidance",
+    "summary_en": "\"Cost went up, prices are going to go up,\" Qualcomm CEO Cristiano Amon said in an interview.",
+    "title_zh": "晶片製造商發布少量獲利指引，高通將在記憶體緊縮期間提高價格",
+    "summary_zh": "高通首席執行官克里斯蒂亞諾·阿蒙在接受采訪時表示：“成本上升，價格也會上漲。”"
+  },
+  {
+    "title": "Morgan Stanley Picks Top Vertical Software Stocks Ahead of 2Q26 Earnings",
+    "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-picks-top-vertical-software-stocks-ahead-of-2q26-earnings-93CH-4821552",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-30T03:55:31+08:00",
+    "stocks": [],
+    "uid": "71b52469c58d742fd654af7f58c85701",
+    "title_en": "Morgan Stanley Picks Top Vertical Software Stocks Ahead of 2Q26 Earnings",
+    "summary_en": "",
+    "title_zh": "摩根士丹利在 2026 年第二季財報公佈前挑選了頂級垂直軟體股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "DCX signs MOU for $20M investment in AI education platform",
+    "url": "https://www.investing.com/news/company-news/dcx-signs-mou-for-20m-investment-in-ai-education-platform-93CH-4821551",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-30T03:52:46+08:00",
+    "stocks": [],
+    "uid": "24dd0406e8208d777a106d0e6c2fa941",
+    "title_en": "DCX signs MOU for $20M investment in AI education platform",
+    "summary_en": "",
+    "title_zh": "DCX 簽署諒解備忘錄，投資 2,000 萬美元人工智慧教育平台",
+    "summary_zh": ""
+  },
+  {
+    "title": "US Democratic lawmakers press SEC to probe Trump Media’s fast feed",
+    "url": "https://www.investing.com/news/stock-market-news/us-democratic-lawmakers-press-sec-to-probe-trump-medias-fast-feed-4820352",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-30T03:48:54+08:00",
+    "stocks": [],
+    "uid": "80b459573c44cd41235bfbfd3b642c54",
+    "title_en": "US Democratic lawmakers press SEC to probe Trump Media’s fast feed",
+    "summary_en": "",
+    "title_zh": "美國民主黨議員敦促美國證券交易委員會調查川普媒體的快速推播",
+    "summary_zh": ""
+  },
+  {
+    "title": "US diners avoid restaurants as cyclosporiasis fears cut lettuce sales",
+    "url": "https://www.investing.com/news/stock-market-news/us-diners-avoid-restaurants-as-cyclosporiasis-fears-cut-lettuce-sales-4819212",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-30T03:48:32+08:00",
+    "stocks": [],
+    "uid": "55c107cdd0431f3393023317e9c944a1",
+    "title_en": "US diners avoid restaurants as cyclosporiasis fears cut lettuce sales",
+    "summary_en": "",
+    "title_zh": "由於擔心環孢子蟲病導致生菜銷售下降，美國食客不再去餐館",
+    "summary_zh": ""
+  },
+  {
+    "title": "Tesla stock hits 52-week low at $297.82",
+    "url": "https://www.investing.com/news/company-news/tesla-stock-hits-52week-low-at-29782-93CH-4821550",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-30T03:47:06+08:00",
+    "stocks": [],
+    "uid": "cfc15b443fff7e4a8603ff076685f5e6",
+    "title_en": "Tesla stock hits 52-week low at $297.82",
+    "summary_en": "",
+    "title_zh": "特斯拉股價觸及 52 週低點 297.82 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Form 144 STEM For: 29 July",
+    "url": "https://www.investing.com/news/filings/form-144-stem-for-29-july-93CH-4821548",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-30T03:45:15+08:00",
+    "stocks": [],
+    "uid": "a30b4e44f4cefb6581ecb77d43a60523",
+    "title_en": "Form 144 STEM For: 29 July",
+    "summary_en": "",
+    "title_zh": "144 表 STEM 有效期限：7 月 29 日",
+    "summary_zh": ""
+  },
+  {
+    "title": "Form 4 Stonepeak-Plus Infrastructure Fund LP For: 29 July",
+    "url": "https://www.investing.com/news/filings/form-4-stonepeakplus-infrastructure-fund-lp-for-29-july-93CH-4821547",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-30T03:45:13+08:00",
+    "stocks": [],
+    "uid": "9b080c7d4da51a895bb90801dfc2cea0",
+    "title_en": "Form 4 Stonepeak-Plus Infrastructure Fund LP For: 29 July",
+    "summary_en": "",
+    "title_zh": "表 4 Stonepeak-Plus 基礎建設基金有限合夥人：7 月 29 日",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why Avis Budget Stock Crashed Today",
+    "url": "https://www.fool.com/investing/2026/07/29/why-avis-budget-stock-crashed-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Avis Budget lost money in 2025. 2026 will probably be better than that -- but still not good enough for Wall Street.",
+    "published_at": "2026-07-30T03:44:52+08:00",
+    "stocks": [],
+    "uid": "10941c5e6ea642ccf7d03080b44fb34d",
+    "title_en": "Why Avis Budget Stock Crashed Today",
+    "summary_en": "Avis Budget lost money in 2025. 2026 will probably be better than that -- but still not good enough for Wall Street.",
+    "title_zh": "為什麼安飛士預算股票今天暴跌",
+    "summary_zh": "Avis Budget 在 2025 年虧損。 2026 年可能會比這更好，但對華爾街來說仍然不夠好。"
+  },
+  {
+    "title": "US House Democrat asks Musk to answer for polluting xAI data centers",
+    "url": "https://www.investing.com/news/stock-market-news/us-house-democrat-asks-musk-to-answer-for-polluting-xai-data-centers-4821242",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-30T03:42:37+08:00",
+    "stocks": [],
+    "uid": "4482e86e7c8b429e5a650b42dea075df",
+    "title_en": "US House Democrat asks Musk to answer for polluting xAI data centers",
+    "summary_en": "",
+    "title_zh": "美國眾議院民主黨人要求馬斯克對污染 xAI 資料中心負責",
+    "summary_zh": ""
+  },
+  {
+    "title": "Nebius and CoreWeave analysis: falling knives or dip-buying opportunities?",
+    "url": "https://www.investing.com/news/stock-market-news/nebius-and-coreweave-analysis-falling-knives-or-dipbuying-opportunities-93CH-4821545",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-30T03:42:22+08:00",
+    "stocks": [],
+    "uid": "9f2a6f2ae1382987ebfc6e06b325f585",
+    "title_en": "Nebius and CoreWeave analysis: falling knives or dip-buying opportunities?",
+    "summary_en": "",
+    "title_zh": "Nebius 與 CoreWeave 分析：落刀還是逢低買進機會？",
+    "summary_zh": ""
+  },
+  {
+    "title": "4 Takeaways From the Federal Reserve Meeting",
+    "url": "https://www.nytimes.com/2026/07/29/business/economy/fed-meeting-interest-rates-takeaways.html",
+    "source": "NYT Business",
+    "summary": "Fed officials held interest rates steady, but they have splintered over how to fight inflation.",
+    "published_at": "2026-07-30T03:41:04+08:00",
+    "stocks": [],
+    "uid": "317d5acefcd98ebd0b4ecbde10e0891c",
+    "title_en": "4 Takeaways From the Federal Reserve Meeting",
+    "summary_en": "Fed officials held interest rates steady, but they have splintered over how to fight inflation.",
+    "title_zh": "聯準會會議的 4 個要點",
+    "summary_zh": "聯準會官員維持利率穩定，但在如何應對通膨問題上存在分歧。"
+  },
+  {
+    "title": "Clear Secure's CEO Sold Company Shares Worth $6.4 Million. What Does That Mean for Investors?",
+    "url": "https://www.fool.com/coverage/filings/2026/07/29/clear-secure-s-ceo-sold-company-shares-worth-usd6-4-million-what-does-that-mean-for-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "A key insider recently trimmed their stake as shares surged more than 80% over the past year.",
+    "published_at": "2026-07-30T03:41:01+08:00",
+    "stocks": [],
+    "uid": "0f8b2852001c1a96e868a14b96e12bcd",
+    "title_en": "Clear Secure's CEO Sold Company Shares Worth $6.4 Million. What Does That Mean for Investors?",
+    "summary_en": "A key insider recently trimmed their stake as shares surged more than 80% over the past year.",
+    "title_zh": "Clear Secure 的執行長出售了價值 640 萬美元的公司股票。這對投資者意味著什麼？",
+    "summary_zh": "由於該公司股價在過去一年中飆升了 80% 以上，一位重要內部人士最近減持了其股份。"
+  },
+  {
+    "title": "Best-performing S&P 500 sectors after the Fed rate pause",
+    "url": "https://www.investing.com/news/stock-market-news/bestperforming-sp-500-sectors-after-the-fed-rate-pause-93CH-4821543",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-30T03:40:48+08:00",
+    "stocks": [],
+    "uid": "cc159fdc98f2c2bbb55f1d1caf7af19e",
+    "title_en": "Best-performing S&P 500 sectors after the Fed rate pause",
+    "summary_en": "",
+    "title_zh": "聯準會暫停升息後表現最佳的標準普爾 500 指數板塊",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why VF Corp Stock Tumbled Today",
+    "url": "https://www.fool.com/investing/2026/07/29/why-vf-corp-stock-tumbled-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Shares of the Vans and North Face parent slipped on a wide loss in its Q1 report.",
+    "published_at": "2026-07-30T03:32:39+08:00",
+    "stocks": [],
+    "uid": "9f7c6d4b17eea11f7ab2787482e4f2b8",
+    "title_en": "Why VF Corp Stock Tumbled Today",
+    "summary_en": "Shares of the Vans and North Face parent slipped on a wide loss in its Q1 report.",
+    "title_zh": "為什麼 VF Corp 股票今天暴跌",
+    "summary_zh": "Vans 和 North Face 母公司的股價因第一季報告大幅虧損而下跌。"
+  },
+  {
+    "title": "Snowflake Director Benoit Dageville Sells $18.4 Million Stock",
+    "url": "https://www.fool.com/coverage/filings/2026/07/29/snowflake-director-benoit-dageville-sells-usd18-4-million-stock/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Dageville disposed of 66,668 shares through a pre-established Rule 10b5-1 trading plan, retaining ~4.5 million shares worth $1.24 billion.",
+    "published_at": "2026-07-30T03:30:01+08:00",
+    "stocks": [],
+    "uid": "a7f1699a255d124708ab2451f92da3a8",
+    "title_en": "Snowflake Director Benoit Dageville Sells $18.4 Million Stock",
+    "summary_en": "Dageville disposed of 66,668 shares through a pre-established Rule 10b5-1 trading plan, retaining ~4.5 million shares worth $1.24 billion.",
+    "title_zh": "Snowflake 董事 Benoit Dageville 出售價值 1,840 萬美元的股票",
+    "summary_zh": "Dageville 透過預先制定的規則 10b5-1 交易計劃出售了 66,668 股股票，保留了約 450 萬股，價值 12.4 億美元。"
+  },
+  {
+    "title": "I’m managing a former colleague who just can’t keep up with her workload. How do I handle this without being a jerk?",
+    "url": "https://www.marketwatch.com/story/im-managing-a-former-colleague-who-just-cant-keep-up-with-her-workload-how-do-i-handle-this-without-being-a-jerk-eb2303ee?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "“I wish she would just find somewhere else to work.”",
+    "published_at": "2026-07-30T03:26:00+08:00",
+    "stocks": [],
+    "uid": "d492933b94eb1a1d66933f6f1e2f011e",
+    "title_en": "I’m managing a former colleague who just can’t keep up with her workload. How do I handle this without being a jerk?",
+    "summary_en": "“I wish she would just find somewhere else to work.”",
+    "title_zh": "我正在管理一位前同事，她無法跟上她的工作量。我該如何處理這件事而不是一個混蛋？",
+    "summary_zh": "“我希望她能找到其他地方工作。”"
+  },
+  {
+    "title": "Even a Successful Starship Launch Wasn't Enough to Lift SpaceX Stock. Investors Are Still Worried About This 1 Thing",
+    "url": "https://www.fool.com/investing/2026/07/29/even-a-starship-launch-wasnt-enough-for-spacex/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "SpaceX's Starship rocket is making progress, but its AI spending is reaching into the stratosphere.",
+    "published_at": "2026-07-30T03:23:00+08:00",
+    "stocks": [],
+    "uid": "295c0d492272addffc37b35624693005",
+    "title_en": "Even a Successful Starship Launch Wasn't Enough to Lift SpaceX Stock. Investors Are Still Worried About This 1 Thing",
+    "summary_en": "SpaceX's Starship rocket is making progress, but its AI spending is reaching into the stratosphere.",
+    "title_zh": "即使星際飛船發射成功也不足以提振 SpaceX 的股價。投資者仍然擔心這一件事",
+    "summary_zh": "SpaceX 的 Starship 火箭正在取得進展，但其人工智慧支出正在達到平流層。"
+  },
+  {
+    "title": "Americans are living longer than our retirement system can handle — and many of us are unprepared",
+    "url": "https://www.marketwatch.com/story/americans-are-living-longer-than-our-retirement-system-can-handle-and-many-of-us-are-unprepared-76c50a35?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Watch out for these 4 major financial pitfalls.",
+    "published_at": "2026-07-30T03:21:00+08:00",
+    "stocks": [],
+    "uid": "f5a249387fab8358dce6be7bb04b1327",
+    "title_en": "Americans are living longer than our retirement system can handle — and many of us are unprepared",
+    "summary_en": "Watch out for these 4 major financial pitfalls.",
+    "title_zh": "美國人的壽命超出了我們退休制度的承受能力——而我們中的許多人都沒有做好準備",
+    "summary_zh": "警惕這 4 個主要的財務陷阱。"
+  },
+  {
+    "title": "Dutch Bros vs. Beyond Meat: Which Consumer Stock Is a Better Buy in 2026?",
+    "url": "https://www.fool.com/coverage/better-buy/2026/07/29/dutch-bros-vs-beyond-meat-which-consumer-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "One trades at a 6.8x sales multiple on 28% revenue growth; the other at 1.0x while burning cash and restructuring.",
+    "published_at": "2026-07-30T03:17:58+08:00",
+    "stocks": [],
+    "uid": "ed96a1c37b4b114c9b8316dad48714f4",
+    "title_en": "Dutch Bros vs. Beyond Meat: Which Consumer Stock Is a Better Buy in 2026?",
+    "summary_en": "One trades at a 6.8x sales multiple on 28% revenue growth; the other at 1.0x while burning cash and restructuring.",
+    "title_zh": "Dutch Bros 與 Beyond Meat：2026 年哪種消費性股票比較值得買？",
+    "summary_zh": "其銷售額成長 6.8 倍，收入成長 28%；另一個是 1.0 倍，同時燒錢和重組。"
+  },
+  {
+    "title": "Fed keeps rates steady. The big question now: What will Microsoft and Meta say on AI capex?",
+    "url": "https://www.cnbc.com/2026/07/29/fed-keeps-rates-steady-the-big-question-now-what-will-microsoft-and-meta-say-on-ai-capex-.html",
+    "source": "CNBC Top",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "published_at": "2026-07-30T03:11:58+08:00",
+    "stocks": [],
+    "uid": "f089679b5cb06a8b91d7bd9b65ca2dd9",
+    "title_en": "Fed keeps rates steady. The big question now: What will Microsoft and Meta say on AI capex?",
+    "summary_en": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "title_zh": "聯準會維持利率穩定。現在的大問題是：微軟和 Meta 對人工智慧資本支出有何看法？",
+    "summary_zh": "每個工作日，投資俱樂部都會發布最後衝刺；下午交易最後一小時的可行更新。"
+  },
+  {
+    "title": "The big focus now is on the potential for a September rate hike after the Fed stands pat",
+    "url": "https://www.marketwatch.com/story/the-big-focus-now-is-on-the-potential-for-a-september-rate-hike-after-the-fed-stands-pat-401c30d6?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Markets should be ‘on alert for a hike in September, particularly with war clouds pushing up energy prices again,’ one economist says",
+    "published_at": "2026-07-30T03:11:00+08:00",
+    "stocks": [],
+    "uid": "69213b26ec04bf3120e08d0ed65e6386",
+    "title_en": "The big focus now is on the potential for a September rate hike after the Fed stands pat",
+    "summary_en": "Markets should be ‘on alert for a hike in September, particularly with war clouds pushing up energy prices again,’ one economist says",
+    "title_zh": "現在的焦點是聯準會按兵不動後 9 月升息的可能性",
+    "summary_zh": "一位經濟學家表示，市場應該“對 9 月的升息保持警惕，特別是在戰爭陰雲再次推高能源價格的情況下”"
+  },
+  {
+    "title": "Coca-Cola Dominated the Summer's Biggest Sporting Event. Here's Why the Dividend Stock Is a Buy in August.",
+    "url": "https://www.fool.com/investing/2026/07/29/coca-cola-dominated-the-summers-biggest-sporting-e/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The beverage giant is expanding its digital and social media reach.",
+    "published_at": "2026-07-30T03:10:28+08:00",
+    "stocks": [],
+    "uid": "e691711ed7cf58b8cdc4208b7016c390",
+    "title_en": "Coca-Cola Dominated the Summer's Biggest Sporting Event. Here's Why the Dividend Stock Is a Buy in August.",
+    "summary_en": "The beverage giant is expanding its digital and social media reach.",
+    "title_zh": "可口可樂主導了夏季最大的運動賽事。這就是為什麼八月值得買入股息股票的原因。",
+    "summary_zh": "這家飲料巨頭正在擴大其數位和社群媒體影響力。"
+  },
+  {
+    "title": "Jensen Huang Says AI Needs \"1,000 Times More Power Than We Currently Have.\" These 3 Industrial Stocks Will Deliver It.",
+    "url": "https://www.fool.com/investing/2026/07/29/jensen-huang-says-ai-needs-1000-times-more-power-t/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The industry's biggest future bottleneck won't be memory chips but rather a lack of electricity.",
+    "published_at": "2026-07-30T03:05:00+08:00",
+    "stocks": [],
+    "uid": "7fa82366c3896f1c1d5c6596822ac4b5"
+  },
+  {
+    "title": "Astera Labs vs. IonQ: Is the Artificial Intelligence Giant or the Quantum Computing Chipmaker the Better Stock to Buy in 2026?",
+    "url": "https://www.fool.com/coverage/better-buy/2026/07/29/astera-labs-vs-ionq-is-the-artificial-intelligence-giant-or-the-quantum-computing-chipmaker-the-better-stock-to-buy-in-2026/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "One is profitable with fortress balance sheet strength; the other burns cash while chasing quantum breakthroughs.",
+    "published_at": "2026-07-30T03:01:01+08:00",
+    "stocks": [],
+    "uid": "1cfd56e01519c691874abebe73545b93"
+  },
+  {
     "title": "Divided Fed holds interest rates steady, but three members voted to hike",
     "url": "https://www.cnbc.com/2026/07/29/fed-rate-decision-july-2026.html",
     "source": "CNBC Finance",
@@ -76,6 +419,15 @@
     "summary_en": "",
     "title_zh": "Bread Financial Holdings股價觸及52週新高至109.92美元",
     "summary_zh": ""
+  },
+  {
+    "title": "Why Cheesecake Factory Stock Popped Today",
+    "url": "https://www.fool.com/investing/2026/07/29/why-cheesecake-factory-stock-is-up-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The popular restaurant chain is becoming more profitable as its quarterly sales top $1 billion.",
+    "published_at": "2026-07-30T02:52:06+08:00",
+    "stocks": [],
+    "uid": "df9e5c63b9c23c5a010fc6f462dc3f6b"
   },
   {
     "title": "OpenAI’s Sam Altman discusses rogue agent and new AI models with US senators",
@@ -156,6 +508,42 @@
     "summary_zh": ""
   },
   {
+    "title": "Airbnb vs. Booking: Which Consumer Stock Is a Better Buy in 2026?",
+    "url": "https://www.fool.com/coverage/better-buy/2026/07/29/airbnb-vs-booking-which-consumer-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Airbnb trades at a premium valuation while Booking offers deeper scale and lower multiples, but one model may better weather regulatory headwinds in 2026.",
+    "published_at": "2026-07-30T02:43:08+08:00",
+    "stocks": [],
+    "uid": "0980f3296c004bfab7f68130fc54f11f"
+  },
+  {
+    "title": "Iran Just Launched a Surprise Missile Attack on U.S. Forces, Ending the Ceasefire Lull. Here's What It Means for Oil Stocks.",
+    "url": "https://www.fool.com/investing/2026/07/29/iran-just-launched-a-surprise-missile-attack-on-us-forces-ending-the-ceasefire-lull-heres-what-it-means-for-oil-stocks/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Oil stock prices should go up in response, but this time there's a catch...",
+    "published_at": "2026-07-30T02:43:01+08:00",
+    "stocks": [],
+    "uid": "69e508a03e1ea582fa59f40ac76d5269"
+  },
+  {
+    "title": "Larry Ellison Owns 40.6% of Oracle and Has Backstopped $40.4 Billion of a Media Deal. Here's Why That's an Oracle Shareholder's Problem.",
+    "url": "https://www.fool.com/investing/2026/07/29/larry-ellison-owns-406-of-oracle-and-has-backstopp/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The promise hasn't changed since December. The stock behind the man who made it has been cut by more than half.",
+    "published_at": "2026-07-30T02:38:00+08:00",
+    "stocks": [],
+    "uid": "4fb2ee040c7859ddf015e8457996972c"
+  },
+  {
+    "title": "IREN's 5-Gigawatt Roadmap Could Be a Massive Growth Catalyst",
+    "url": "https://www.fool.com/investing/2026/07/29/irens-5-gigawatt-roadmap-could-be-a-massive-growth/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "IREN is racing to turn scarce power and contracted AI demand into a much larger business. Discover the opportunity, financing strategy, and execution risks investors cannot ignore.",
+    "published_at": "2026-07-30T02:37:00+08:00",
+    "stocks": [],
+    "uid": "94d374c22d80afd515c555bb593c46fe"
+  },
+  {
     "title": "Ford’s big-truck bet is paying off — and Wall Street is taking notice",
     "url": "https://www.marketwatch.com/story/fords-big-truck-bet-is-paying-off-and-wall-street-is-taking-notice-6a1de0fb?mod=mw_rss_topstories",
     "source": "MarketWatch",
@@ -219,6 +607,15 @@
     "summary_en": "Sandisk can deliver impressive gains over the next couple of years due to strong NAND flash pricing.",
     "title_zh": "Sandisk 股價一年內飆漲超過 2,000%。歷史表明，這就是該股 2028 年可能達到的水平",
     "summary_zh": "由於強勁的 NAND 快閃記憶體定價，Sandisk 可以在未來幾年內實現令人印象深刻的收益。"
+  },
+  {
+    "title": "Analyst Report: HF Sinclair Corp",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_3051_AnalystReport_1785349050000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-30T02:17:30+08:00",
+    "stocks": [],
+    "uid": "7a2a7c97a158ee5e0b5d82357d6293ce"
   },
   {
     "title": "Is Google Parent Company Alphabet Stock Too Cheap to Ignore Right Now?",
@@ -8181,6 +8578,26 @@
     "uid": "01d5163ad34876f60c8bf1079d74a5f5"
   },
   {
+    "title": "AtriCure, Inc. (ATRC) Beat Earnings Estimates. Here’s What Could Drive ATRC Stock Next",
+    "url": "https://finance.yahoo.com/healthcare/articles/atricure-inc-atrc-beat-earnings-120800905.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T20:08:00+08:00",
+    "stocks": [
+      "ATRC"
+    ],
+    "uid": "7c6f0089d7639dff30073f0890d25176"
+  },
+  {
+    "title": "AT&T Stock Outlook: Is Wall Street Bullish or Bearish?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/t-stock-outlook-wall-street-120752024.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T20:07:52+08:00",
+    "stocks": [],
+    "uid": "ecb700cf58e28ab985de0b5d532b4692"
+  },
+  {
     "title": "Boeing Q2 revenue tops estimates as jet deliveries climb, cash turns positive",
     "url": "https://finance.yahoo.com/markets/stocks/article/boeing-q2-revenue-tops-estimates-as-jet-deliveries-climb-cash-turns-positive-120622920.html",
     "source": "Yahoo Finance",
@@ -8260,6 +8677,15 @@
     "published_at": "2026-07-28T20:00:00+08:00",
     "stocks": [],
     "uid": "a37d3a6f0f3c822b9622a8c1b33c7867"
+  },
+  {
+    "title": "If You Invested $20,000 in Meta 5 Years Ago, How Much Could You Have Now?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/invested-20-000-meta-5-120000779.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T20:00:00+08:00",
+    "stocks": [],
+    "uid": "b139ac4242f5da4a6b0d0ff8de9ae657"
   },
   {
     "title": "Marvell Technology vs. Snowflake: Which High-Growth Artificial Intelligence Stock Is a Better Buy in 2026?",
@@ -8540,6 +8966,15 @@
     "summary_zh": ""
   },
   {
+    "title": "Boeing posts larger-than-expected Q2 loss as Air Force One costs rise",
+    "url": "https://finance.yahoo.com/news/boeing-posts-larger-expected-q2-113401112.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T19:34:01+08:00",
+    "stocks": [],
+    "uid": "31e4c8db836a2be54dc3c3d60bb14a7b"
+  },
+  {
     "title": "Boeing posts bigger loss than expected as Air Force One costs weigh on results",
     "url": "https://www.cnbc.com/2026/07/28/boeing-ba-2q-2026-earnings.html",
     "source": "CNBC Markets",
@@ -8575,6 +9010,15 @@
     "uid": "fefd59e6cd95dddc3d62c7b2d2bd2218"
   },
   {
+    "title": "Casey's General Stores Earnings Preview: What to Expect",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/caseys-general-stores-earnings-preview-113124254.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T19:31:24+08:00",
+    "stocks": [],
+    "uid": "5f5d4f07db931956ee092630fbc3393e"
+  },
+  {
     "title": "Technical Assessment: Bullish in the Intermediate-Term",
     "url": "https://finance.yahoo.com/research/reports/ARGUS_47748_TechnicalAnalysis_1785238264000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
     "source": "Yahoo Finance",
@@ -8608,6 +9052,15 @@
     "summary_en": "",
     "title_zh": "不排除聯準會意外升息的可能性這對標準普爾 500 指數意味著什麼",
     "summary_zh": ""
+  },
+  {
+    "title": "Amazon Might Be Outspending Alphabet on AI, But It Doesn’t Makes AMZN Stock a Sell",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-might-outspending-alphabet-ai-113002028.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T19:30:02+08:00",
+    "stocks": [],
+    "uid": "33165add3364ab6c26d55b06beaa743f"
   },
   {
     "title": "Here's Exactly Why Wall Street Thinks Intuitive Surgical Stock Could Soar 102% Over the Next 12 Months",
@@ -8675,6 +9128,15 @@
     "published_at": "2026-07-28T19:15:00+08:00",
     "stocks": [],
     "uid": "2d3858841433e10fce9187c4c4a5d0df"
+  },
+  {
+    "title": "ONDO Price News: A 20% Drop Likely as Wedge Breakout Halts",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/ondo-price-news-20-drop-111437289.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-28T19:14:37+08:00",
+    "stocks": [],
+    "uid": "840652b7c3d53f692e25ec8217ba7597"
   },
   {
     "title": "Should You Buy Apple Stock Before July 30?",
