@@ -1,5 +1,596 @@
 [
   {
+    "title": "Investors Are Bracing for Uncertain Fed Announcement",
+    "url": "https://www.nytimes.com/live/2026/07/29/business/fed-meeting-rates-kevin-warsh/investors-are-bracing-for-uncertain-fed-announcement",
+    "source": "NYT Business",
+    "summary": "The central bank is expected to leave interest rates unchanged, but investors are preparing for a possible surprise.",
+    "published_at": "2026-07-30T00:57:58+08:00",
+    "stocks": [],
+    "uid": "09a170cf5c3cf223143a0bec0ff6ffa9",
+    "title_en": "Investors Are Bracing for Uncertain Fed Announcement",
+    "summary_en": "The central bank is expected to leave interest rates unchanged, but investors are preparing for a possible surprise.",
+    "title_zh": "投資者正準備迎接不確定的聯準會聲明",
+    "summary_zh": "預計央行將維持利率不變，但投資者正在為可能的意外做好準備。"
+  },
+  {
+    "title": "Mirum Pharmaceuticals earnings in focus as pipeline expands",
+    "url": "https://www.investing.com/news/earnings/mirum-pharmaceuticals-earnings-in-focus-as-pipeline-expands-93CH-4821322",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-30T00:55:35+08:00",
+    "stocks": [],
+    "uid": "a20f4d79afa7247bbed2ae737c246db5",
+    "title_en": "Mirum Pharmaceuticals earnings in focus as pipeline expands",
+    "summary_en": "",
+    "title_zh": "隨著管線擴張，Mirum Pharmaceuticals 的獲利成為焦點",
+    "summary_zh": ""
+  },
+  {
+    "title": "Italy and US to sign AI supply chain agreement on Friday",
+    "url": "https://www.investing.com/news/economy-news/italy-and-us-to-sign-ai-supply-chain-agreement-on-friday-93CH-4821321",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-30T00:55:00+08:00",
+    "stocks": [],
+    "uid": "7f64f358a866b868379573f1f8cd359c",
+    "title_en": "Italy and US to sign AI supply chain agreement on Friday",
+    "summary_en": "",
+    "title_zh": "義大利和美國週五簽署人工智慧供應鏈協議",
+    "summary_zh": ""
+  },
+  {
+    "title": "Air Products earnings up next after $2.9B project cancellation",
+    "url": "https://www.investing.com/news/earnings/air-products-earnings-up-next-after-29b-project-cancellation-93CH-4821320",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-30T00:54:42+08:00",
+    "stocks": [],
+    "uid": "1276e3b156fee9430e08c116ea9039df",
+    "title_en": "Air Products earnings up next after $2.9B project cancellation",
+    "summary_en": "",
+    "title_zh": "$2.9B 專案取消後，空氣產品公司獲利接下來上漲",
+    "summary_zh": ""
+  },
+  {
+    "title": "S&P upgrades Polaris outlook on deleveraging, utility demand",
+    "url": "https://www.investing.com/news/stock-market-news/sp-upgrades-polaris-outlook-on-deleveraging-utility-demand-93CH-4821319",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-30T00:54:11+08:00",
+    "stocks": [],
+    "uid": "d23706c47d72a697ef1cb5042af02134",
+    "title_en": "S&P upgrades Polaris outlook on deleveraging, utility demand",
+    "summary_en": "",
+    "title_zh": "標準普爾上調北極星去槓桿化和公用事業需求前景",
+    "summary_zh": ""
+  },
+  {
+    "title": "Woodward faces earnings test after raising full-year guidance",
+    "url": "https://www.investing.com/news/earnings/woodward-faces-earnings-test-after-raising-fullyear-guidance-93CH-4821318",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-30T00:53:49+08:00",
+    "stocks": [],
+    "uid": "a2e60b04dc317b300cafdedfe510652d",
+    "title_en": "Woodward faces earnings test after raising full-year guidance",
+    "summary_en": "",
+    "title_zh": "伍德沃德在提高全年指引後面臨獲利測試",
+    "summary_zh": ""
+  },
+  {
+    "title": "Earnings call transcript: Wabash National Q2 2026 revenue beats, shares fall 8%",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-wabash-national-q2-2026-revenue-beats-shares-fall-8-93CH-4821317",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-30T00:53:42+08:00",
+    "stocks": [],
+    "uid": "82f4d86f6e555a710c63c8e84cd64de0",
+    "title_en": "Earnings call transcript: Wabash National Q2 2026 revenue beats, shares fall 8%",
+    "summary_en": "",
+    "title_zh": "財報電話會議紀錄：Wabash National 2026 年第二季營收超出預期，股價下跌 8%",
+    "summary_zh": ""
+  },
+  {
+    "title": "Trump vows forceful response after U.S. says it intercepted Iranian missile attack",
+    "url": "https://www.investing.com/news/economy-news/iran-fires-missiles-at-us-forces-in-middle-east-ending-ceasefire-lull-4818361",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-30T00:53:08+08:00",
+    "stocks": [],
+    "uid": "968cdf814567641eb41a54975fa2fb4c",
+    "title_en": "Trump vows forceful response after U.S. says it intercepted Iranian missile attack",
+    "summary_en": "",
+    "title_zh": "美國稱攔截伊朗飛彈攻擊後，川普誓言將採取強而有力的回應",
+    "summary_zh": ""
+  },
+  {
+    "title": "All eyes on Middleby earnings after Midera Food Processing spinoff",
+    "url": "https://www.investing.com/news/earnings/all-eyes-on-middleby-earnings-after-midera-food-processing-spinoff-93CH-4821316",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-30T00:52:56+08:00",
+    "stocks": [],
+    "uid": "e947e8471d632fc7d74d548767f75b26",
+    "title_en": "All eyes on Middleby earnings after Midera Food Processing spinoff",
+    "summary_en": "",
+    "title_zh": "米德拉食品加工分拆後，所有人都關注米德爾比的獲利",
+    "summary_zh": ""
+  },
+  {
+    "title": "Earnings call transcript: Enel Américas posts strong Q2 2026 growth",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-enel-americas-posts-strong-q2-2026-growth-93CH-4821315",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-30T00:52:09+08:00",
+    "stocks": [],
+    "uid": "4dd4820b94d64c878b9cd07f626afdb6",
+    "title_en": "Earnings call transcript: Enel Américas posts strong Q2 2026 growth",
+    "summary_en": "",
+    "title_zh": "財報電話會議紀錄：Enel Américas 公佈 2026 年第二季強勁成長",
+    "summary_zh": ""
+  },
+  {
+    "title": "Xcel Energy faces wildfire test as earnings loom tomorrow",
+    "url": "https://www.investing.com/news/earnings/xcel-energy-faces-wildfire-test-as-earnings-loom-tomorrow-93CH-4821313",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-30T00:52:03+08:00",
+    "stocks": [],
+    "uid": "fa3638b5642a682b65dbd24f716196e7",
+    "title_en": "Xcel Energy faces wildfire test as earnings loom tomorrow",
+    "summary_en": "",
+    "title_zh": "Xcel Energy 面臨野火考驗，明天獲利即將到來",
+    "summary_zh": ""
+  },
+  {
+    "title": "Crypto analyst unveils one factor that could send XRP to $100 trillion",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-analyst-unveils-one-factor-164818773.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-30T00:48:18+08:00",
+    "stocks": [],
+    "uid": "28bc575c825a61ed966ef74f25fc7b63",
+    "title_en": "Crypto analyst unveils one factor that could send XRP to $100 trillion",
+    "summary_en": "",
+    "title_zh": "加密貨幣分析師揭示了一個可能使 XRP 達到 100 兆美元的因素",
+    "summary_zh": ""
+  },
+  {
+    "title": "Todd Blanche attorney general nomination on edge as Cornyn questions Trump-IRS settlement",
+    "url": "https://www.cnbc.com/2026/07/29/todd-blanche-attorney-general-trump-irs-audit-cornyn.html",
+    "source": "CNBC Top",
+    "summary": "Sen. John Cornyn says the DOJ has failed to satisfy his concerns about a deal to shield President Donald Trump and others from IRS tax audits.",
+    "published_at": "2026-07-30T00:39:37+08:00",
+    "stocks": [],
+    "uid": "8664ff6520982f1eaea587fa49277ccf",
+    "title_en": "Todd Blanche attorney general nomination on edge as Cornyn questions Trump-IRS settlement",
+    "summary_en": "Sen. John Cornyn says the DOJ has failed to satisfy his concerns about a deal to shield President Donald Trump and others from IRS tax audits.",
+    "title_zh": "布蘭奇 (Todd Blanche) 總檢察長提名因科寧質疑川普與國稅局和解而緊張",
+    "summary_zh": "參議員約翰·科寧表示，司法部未能滿足他對保護唐納德·特朗普總統和其他人免受國稅局稅務審計的協議的擔憂。"
+  },
+  {
+    "title": "Why AMD (AMD) and Core Scientific (CORZ) Are Pairing AI Chips With Up to 2.5 Gigawatts",
+    "url": "https://finance.yahoo.com/technology/ai/articles/why-amd-amd-core-scientific-163703591.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-30T00:37:03+08:00",
+    "stocks": [
+      "AMD",
+      "CORZ"
+    ],
+    "uid": "d2cd5d5bfaf8af3fda32dd6eba062ca6",
+    "title_en": "Why AMD (AMD) and Core Scientific (CORZ) Are Pairing AI Chips With Up to 2.5 Gigawatts",
+    "summary_en": "",
+    "title_zh": "為什麼 AMD (AMD) 和 Core Scientific (CORZ) 將 AI 晶片搭配高達 2.5 吉瓦",
+    "summary_zh": ""
+  },
+  {
+    "title": "Rocket Lab vs. Lockheed Martin: Which Is the Better Long-Term Investment?",
+    "url": "https://www.fool.com/investing/2026/07/29/rocket-lab-vs-lockheed-martin-which-is-the-better/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Space is becoming a critical infrastructure, but its biggest opportunities may be split between two very different business models. Here is what investors need to understand.",
+    "published_at": "2026-07-30T00:37:00+08:00",
+    "stocks": [],
+    "uid": "af7e46294aac95c8393aa2f72d00b9fc",
+    "title_en": "Rocket Lab vs. Lockheed Martin: Which Is the Better Long-Term Investment?",
+    "summary_en": "Space is becoming a critical infrastructure, but its biggest opportunities may be split between two very different business models. Here is what investors need to understand.",
+    "title_zh": "火箭實驗室與洛克希德馬丁公司：哪個是更好的長期投資？",
+    "summary_zh": "太空正在成為一個關鍵的基礎設施，但其最大的機會可能會被兩種截然不同的商業模式所分割。以下是投資人需要了解的內容。"
+  },
+  {
+    "title": "AbbVie Has Raised Its Dividend for 53 Straight Years and Still Looks Attractively Valued. Is This Dividend King the Smartest Buy in Healthcare Right Now?",
+    "url": "https://www.fool.com/investing/2026/07/29/abbvie-has-raised-its-dividend-for-53-straight-yea/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "AbbVie still looks like a compelling buy at its all-time high.",
+    "published_at": "2026-07-30T00:36:18+08:00",
+    "stocks": [],
+    "uid": "89bd4b9bf96c59a91460fa8b6ab26aa7",
+    "title_en": "AbbVie Has Raised Its Dividend for 53 Straight Years and Still Looks Attractively Valued. Is This Dividend King the Smartest Buy in Healthcare Right Now?",
+    "summary_en": "AbbVie still looks like a compelling buy at its all-time high.",
+    "title_zh": "艾伯維 (AbbVie) 已連續 53 年提高股息，估值仍具吸引力。這個股息之王是目前醫療保健領域最明智的買入嗎？",
+    "summary_zh": "艾伯維（AbbVie）處於歷史最高點時，看起來仍然值得買入。"
+  },
+  {
+    "title": "Nearly 1 Billion SpaceX Shares Unlock On Aug. 6. Here's What Retail Investors Should Do.",
+    "url": "https://www.fool.com/investing/2026/07/29/billion-spacex-shares-unlock-aug-6-investor/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Investors should monitor SpaceX's lock-up periods.",
+    "published_at": "2026-07-30T00:32:00+08:00",
+    "stocks": [],
+    "uid": "b93ee64f10a278ff1c317fe1516c7f22",
+    "title_en": "Nearly 1 Billion SpaceX Shares Unlock On Aug. 6. Here's What Retail Investors Should Do.",
+    "summary_en": "Investors should monitor SpaceX's lock-up periods.",
+    "title_zh": "8 月 6 日，近 10 億股 SpaceX 股票解鎖。這是散戶應該要做的事。",
+    "summary_zh": "投資人應關注 SpaceX 的禁售期。"
+  },
+  {
+    "title": "Here's a closer look at our decision to change course on P&G",
+    "url": "https://www.cnbc.com/2026/07/29/heres-a-closer-look-at-our-decision-to-change-course-on-pg-.html",
+    "source": "CNBC Markets",
+    "summary": "Our remaining position was tiny, and our thesis isn't holding up.",
+    "published_at": "2026-07-30T00:31:41+08:00",
+    "stocks": [],
+    "uid": "c087d7377dd73d6ef7dff5ace7b64328",
+    "title_en": "Here's a closer look at our decision to change course on P&G",
+    "summary_en": "Our remaining position was tiny, and our thesis isn't holding up.",
+    "title_zh": "以下是我們改變寶潔方針的決定的詳細分析",
+    "summary_zh": "我們剩下的部位很小，我們的論文也站不住腳。"
+  },
+  {
+    "title": "Why Wall Street Is Split on Phillips 66 (PSX) Even as Its Numbers Improve",
+    "url": "https://finance.yahoo.com/energy/articles/why-wall-street-split-phillips-162957977.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-30T00:29:57+08:00",
+    "stocks": [
+      "PSX"
+    ],
+    "uid": "a15c76c6a3e1d6a0b6ab647714187752",
+    "title_en": "Why Wall Street Is Split on Phillips 66 (PSX) Even as Its Numbers Improve",
+    "summary_en": "",
+    "title_zh": "為什麼儘管 Phillips 66 (PSX) 的數字有所改善，但華爾街仍對其持分歧態度",
+    "summary_zh": ""
+  },
+  {
+    "title": "Vinted taps DHL’s Germany collection points to expand second-hand market",
+    "url": "https://finance.yahoo.com/small-business/articles/vinted-taps-dhl-germany-collection-162615559.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-30T00:26:15+08:00",
+    "stocks": [],
+    "uid": "23ae38a26297afbe70353b6a47379e87",
+    "title_en": "Vinted taps DHL’s Germany collection points to expand second-hand market",
+    "summary_en": "",
+    "title_zh": "Vinted 利用 DHL 德國收集點拓展二手市場",
+    "summary_zh": ""
+  },
+  {
+    "title": "Sanctions Bill Would Give Trump Sweeping New Tariff Powers",
+    "url": "https://www.nytimes.com/2026/07/29/us/politics/trump-tariffs-sanctions.html",
+    "source": "NYT Business",
+    "summary": "A bipartisan bill in the Senate would allow President Trump to impose tariffs on the biggest importers of Russian energy.",
+    "published_at": "2026-07-30T00:19:03+08:00",
+    "stocks": [],
+    "uid": "e8db4ad24d8903fe5561d2bc8285aabe",
+    "title_en": "Sanctions Bill Would Give Trump Sweeping New Tariff Powers",
+    "summary_en": "A bipartisan bill in the Senate would allow President Trump to impose tariffs on the biggest importers of Russian energy.",
+    "title_zh": "制裁法案將賦予川普全面的新關稅權力",
+    "summary_zh": "參議院的兩黨法案將允許川普總統對俄羅斯能源最大進口國徵收關稅。"
+  },
+  {
+    "title": "Dow Leader Rides Surging Oil Prices And Trump's Venezuela Spoils",
+    "url": "https://www.investors.com/news/dow-jones-stock-chevron-oil-price-surge-trump-venezuela-cvx-stock-price/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-30T00:16:33+08:00",
+    "stocks": [],
+    "uid": "3a9a672827f5cfed747b9e23bfd1d261",
+    "title_en": "Dow Leader Rides Surging Oil Prices And Trump's Venezuela Spoils",
+    "summary_en": "",
+    "title_zh": "道瓊指數領漲油價飆升，川普的委內瑞拉戰利品",
+    "summary_zh": ""
+  },
+  {
+    "title": "Oil jumps 7% on escalating Middle East airstrikes",
+    "url": "https://finance.yahoo.com/news/oil-rises-us-iran-tension-032028533.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-30T00:16:12+08:00",
+    "stocks": [],
+    "uid": "31232c19016f8b4520c92c0c69ad1a61",
+    "title_en": "Oil jumps 7% on escalating Middle East airstrikes",
+    "summary_en": "",
+    "title_zh": "中東空襲升級 油價上漲 7%",
+    "summary_zh": ""
+  },
+  {
+    "title": "Is the Private Credit Boom a Gift or a Risk for BDC Income Investors?",
+    "url": "https://www.fool.com/investing/2026/07/29/is-the-private-credit-boom-a-gift-or-a-risk-for-bd/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Private credit is a fast-growing business for large asset managers like Blackstone.",
+    "published_at": "2026-07-30T00:15:00+08:00",
+    "stocks": [],
+    "uid": "f11a4eda136e72d29dc21584cae0caab",
+    "title_en": "Is the Private Credit Boom a Gift or a Risk for BDC Income Investors?",
+    "summary_en": "Private credit is a fast-growing business for large asset managers like Blackstone.",
+    "title_zh": "私人信貸繁榮對 BDC 收入投資者來說是禮物還是風險？",
+    "summary_zh": "對於黑石這樣的大型資產管理公司來說，私人信貸是一項快速成長的業務。"
+  },
+  {
+    "title": "Jim Cramer sees opportunity to snap up more shares of this chipmaker",
+    "url": "https://www.cnbc.com/2026/07/29/jim-cramer-sees-opportunity-to-snap-up-more-shares-of-this-chipmaker-.html",
+    "source": "CNBC Top",
+    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+    "published_at": "2026-07-30T00:14:35+08:00",
+    "stocks": [],
+    "uid": "f2c42d2d9d91c516bad0a3bd6e2baeeb",
+    "title_en": "Jim Cramer sees opportunity to snap up more shares of this chipmaker",
+    "summary_en": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+    "title_zh": "吉姆·克萊默 (Jim Cramer) 看到了收購這家晶片製造商更多股份的機會",
+    "summary_zh": "投資俱樂部在每個工作日上午 10:20（東部時間）舉行「晨會」。"
+  },
+  {
+    "title": "Caterpillar Trades at 3x Its Historical Multiple — Michael Burry Is Betting Against It",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-trades-3x-historical-multiple-161312284.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-30T00:13:12+08:00",
+    "stocks": [],
+    "uid": "d19e280e3f69bb19ea223b34714a3992"
+  },
+  {
+    "title": "All Eyes Are on Kevin Warsh: 1 Reason the Federal Reserve's Actions Don't Matter to Long-Term Investors.",
+    "url": "https://www.fool.com/investing/2026/07/29/kevin-warsh-1-reason-federal-reserve-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Those who stay patient and disciplined, while ignoring the noise, will find that the market stacks the odds in their favor.",
+    "published_at": "2026-07-30T00:10:00+08:00",
+    "stocks": [],
+    "uid": "2a7b9b061f6c2407fd4b3ddf2150e617"
+  },
+  {
+    "title": "'Unprecedented' OpenAI Cyberattack Brings Palo Alto, CrowdStrike Into Focus",
+    "url": "https://www.investors.com/research/ibd-industry-themes/openai-cyberattack-palo-alto-stock-crowdstrike/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-30T00:08:25+08:00",
+    "stocks": [],
+    "uid": "5bdc9c9789dfd96f2e5fcb2ef50c74d3"
+  },
+  {
+    "title": "EQS-News: Quarterly Activities Report for the period ending 30 June 2026",
+    "url": "https://markets.businessinsider.com/news/stocks/eqs-news-quarterly-activities-report-for-the-period-ending-30-june-2026-1036379250",
+    "source": "Business Insider",
+    "summary": "&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;\n\n\nEQS-News: Vulcan Energy Resources Limited\n\n\n / Key word(s): Quarterly / Interim Statement\n\n\n&lt;br/&gt;\n\n\nQuarterly Activities Report for the period ending 30 June 2026 &lt;br/&gt;&lt;br/&gt;\n\n\n\n\n\n\n29.07.2026 / 18:07 CET/CEST&lt;br/&gt;\n\n\n\nThe issuer is solely responsible for the content of this announcement.&lt;br/&gt;&lt;br/&gt;&lt;!",
+    "published_at": "2026-07-30T00:07:53+08:00",
+    "stocks": [],
+    "uid": "704b6f538410bff97746c7fb3528c36a"
+  },
+  {
+    "title": "Microsoft is set to report earnings after the bell, and all eyes are on its spending plans",
+    "url": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html",
+    "source": "CNBC Markets",
+    "summary": "Investors are looking to see if Microsoft follows Alphabet in raising its capital spending plans",
+    "published_at": "2026-07-30T00:05:34+08:00",
+    "stocks": [],
+    "uid": "5388f3258b62327735e814c8a5dc6d92"
+  },
+  {
+    "title": "Qualcomm Q3 earnings to highlight AI's impact on smartphone market, data center plans",
+    "url": "https://finance.yahoo.com/technology/article/qualcomm-q3-earnings-to-highlight-ais-impact-on-smartphone-market-data-center-plans-160509349.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-30T00:05:09+08:00",
+    "stocks": [],
+    "uid": "cb355e837ebba0b63e0d0b2fcfc9c485"
+  },
+  {
+    "title": "EQS-PVR: K+S Aktiengesellschaft: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
+    "url": "https://markets.businessinsider.com/news/stocks/eqs-pvr-k-s-aktiengesellschaft-release-according-to-article-40-section-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution-1036379252",
+    "source": "Business Insider",
+    "summary": "&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;\n\n\nEQS Voting Rights Announcement: K+S Aktiengesellschaft\n\n\n\n&lt;br/&gt;\n\n\nK+S Aktiengesellschaft: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution &lt;br/&gt;&lt;br/&gt;\n\n\n\n\n\n\n29.07.2026 / 18:05 CET/CEST&lt;br/&gt;\n\n\nDissemination of a Voting...",
+    "published_at": "2026-07-30T00:05:03+08:00",
+    "stocks": [],
+    "uid": "46dc745aee0d1e7b7d7263a8bf27c5ea"
+  },
+  {
+    "title": "EQS-PVR: DEUTZ AG: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
+    "url": "https://markets.businessinsider.com/news/stocks/eqs-pvr-deutz-ag-release-according-to-article-40-section-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution-1036379251",
+    "source": "Business Insider",
+    "summary": "&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;\n\n\nEQS Voting Rights Announcement: DEUTZ AG\n\n\n\n&lt;br/&gt;\n\n\nDEUTZ AG: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution &lt;br/&gt;&lt;br/&gt;\n\n\n\n\n\n\n29.07.2026 / 18:04 CET/CEST&lt;br/&gt;\n\n\nDissemination of a Voting Rights Announcement...",
+    "published_at": "2026-07-30T00:04:53+08:00",
+    "stocks": [],
+    "uid": "641cb3207ba1b3afca7713ff5ae82589"
+  },
+  {
+    "title": "Vertiv Stock Recently Hit an All-Time High. Does Wall Street See More Upside?",
+    "url": "https://www.fool.com/investing/2026/07/29/vertiv-stock-all-time-high-wall-street-upside/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The stock's peeled back quite a bit from May's peak, but the analyst community maintains its valuation on VRT shares.",
+    "published_at": "2026-07-30T00:04:00+08:00",
+    "stocks": [],
+    "uid": "fe693246b76bfbb6031d1650253353df"
+  },
+  {
+    "title": "How a 40-year-old father launched a $1.6 billion-a-year meat snacks empire from a bankrupt Wisconsin business",
+    "url": "https://www.cnbc.com/2026/07/29/how-link-snacks-grew-from-jack-links-beef-jerky-to-meat-snacks-empire.html",
+    "source": "CNBC Top",
+    "summary": "Jack Link turned a bankruptcy into an opportunity to build a beef jerky empire. Four decades later, Link Snacks brings in more than $1 billion in annual sales.",
+    "published_at": "2026-07-30T00:03:25+08:00",
+    "stocks": [],
+    "uid": "871bda87aeedc430d87668942fca25b8"
+  },
+  {
+    "title": "A key cryptocurrency bill could flop because of Trump’s crypto ventures and banks’ objections",
+    "url": "https://www.marketwatch.com/story/a-key-cryptocurrency-bill-could-flop-because-of-trumps-crypto-ventures-and-banks-objections-76b7445b?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The Clarity Act’s progress in May helped lift the price of bitcoin, but now the measure is facing obstacles in the full Senate.",
+    "published_at": "2026-07-30T00:03:00+08:00",
+    "stocks": [],
+    "uid": "c45c582a8a6c80e4bba51c88ef36ee71"
+  },
+  {
+    "title": "Explainer-Can J&J finally put the talc litigation behind it?",
+    "url": "https://finance.yahoo.com/healthcare/articles/explainer-j-j-finally-put-160252107.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-30T00:02:52+08:00",
+    "stocks": [],
+    "uid": "128b880db4c791979c7c632720dc78b0"
+  },
+  {
+    "title": "What the Fed’s rate decision means for your finances.",
+    "url": "https://www.nytimes.com/live/2026/07/29/business/fed-meeting-rates-kevin-warsh/what-the-feds-rate-decision-means-for-your-finances",
+    "source": "NYT Business",
+    "summary": "The central bank’s stance can influence consumer savings and borrowing, from credit cards to home loans and more.",
+    "published_at": "2026-07-30T00:02:04+08:00",
+    "stocks": [],
+    "uid": "a966ee4c94c46ad7130a9591f9d0efc4"
+  },
+  {
+    "title": "AI's power crunch could get a boost from old EV batteries",
+    "url": "https://www.businessinsider.com/ai-power-crunch-unlikely-solution-old-ev-batteries-2026-7",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-07-30T00:02:00+08:00",
+    "stocks": [],
+    "uid": "c876c37799f906f9b1b1fbc04051e53d"
+  },
+  {
+    "title": "What to watch at the meeting.",
+    "url": "https://www.nytimes.com/live/2026/07/29/business/fed-meeting-rates-kevin-warsh/what-to-watch-at-the-meeting",
+    "source": "NYT Business",
+    "summary": "Kevin M. Warsh, presiding over his second meeting as chairman of the central bank, faces pressure to raise interest rates as inflation remains elevated.",
+    "published_at": "2026-07-30T00:01:24+08:00",
+    "stocks": [],
+    "uid": "e381efbafbda7e727d0f1c52ec80abc4"
+  },
+  {
+    "title": "EQS-PVR: AUTO1 Group SE: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
+    "url": "https://markets.businessinsider.com/news/stocks/eqs-pvr-auto1-group-se-release-according-to-article-40-section-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution-1036379244",
+    "source": "Business Insider",
+    "summary": "&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;\n\n\nEQS Voting Rights Announcement: AUTO1 Group SE\n\n\n\n&lt;br/&gt;\n\n\nAUTO1 Group SE: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution &lt;br/&gt;&lt;br/&gt;\n\n\n\n\n\n\n29.07.2026 / 18:00 CET/CEST&lt;br/&gt;\n\n\nDissemination of a Voting Rights...",
+    "published_at": "2026-07-30T00:00:05+08:00",
+    "stocks": [],
+    "uid": "8bef13280d1b3582090cd20f55c40950"
+  },
+  {
+    "title": "EQS-PVR: Kontron AG: Release according to Article 135, Section 2 BörseG with the objective of Europe-wide distribution",
+    "url": "https://markets.businessinsider.com/news/stocks/eqs-pvr-kontron-ag-release-according-to-article-135-section-2-b-rseg-with-the-objective-of-europe-wide-distribution-1036379243",
+    "source": "Business Insider",
+    "summary": "&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;\n\n\nEQS Voting Rights Announcement: Kontron AG\n\n\n\n&lt;br/&gt;\n\n\nKontron AG: Release according to Article 135, Section 2 B&#246;rseG with the objective of Europe-wide distribution &lt;br/&gt;&lt;br/&gt;\n\n\n\n\n\n\n29.07.2026 / 18:00 CET/CEST&lt;br/&gt;\n\n\nDissemination of a Voting Rights Announcement transmitted by &lt;a href=&quot;https://nwr.",
+    "published_at": "2026-07-30T00:00:04+08:00",
+    "stocks": [],
+    "uid": "596ed03db5d1ce848b64eff2ae84c66d"
+  },
+  {
+    "title": "Meta reports second-quarter results after the close",
+    "url": "https://www.cnbc.com/2026/07/29/meta-q2-earnings-report-2026.html",
+    "source": "CNBC Markets",
+    "summary": "Meta continues to see healthy growth from online ads, but investors are looking for more clarity on the company's plans to diversify.",
+    "published_at": "2026-07-30T00:00:01+08:00",
+    "stocks": [],
+    "uid": "b9b00947e586260baba9cd4ae664483f"
+  },
+  {
+    "title": "Royal ISD Selects Edustaff as Substitute Staffing Partner, Marking Edustaff's Expansion into Texas",
+    "url": "https://markets.businessinsider.com/news/stocks/royal-isd-selects-edustaff-as-substitute-staffing-partner-marking-edustaff-s-expansion-into-texas-1036379236",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;justify&quot;&gt;ROYAL, Texas, July  29, 2026  (GLOBE NEWSWIRE) -- Royal Independent School District has partnered with Edustaff to enhance substitute staffing across the district, ensuring students continue to receive consistent, high-quality...",
+    "published_at": "2026-07-30T00:00:00+08:00",
+    "stocks": [],
+    "uid": "409039357e4d89de94b209ff7b0ce92f"
+  },
+  {
+    "title": "Forward Industries Schedules Fiscal Third Quarter 2026 Conference Call for August 12, 2026 at 5:00 p.m. ET",
+    "url": "https://markets.businessinsider.com/news/stocks/forward-industries-schedules-fiscal-third-quarter-2026-conference-call-for-august-12-2026-at-5-00-p-m-et-1036379235",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;justify&quot;&gt;&lt;b&gt;AUSTIN, TX, July  29, 2026  (GLOBE NEWSWIRE) -- &lt;/b&gt;Forward Industries, Inc. (NASDAQ: FWDI) (the &quot;Company&quot; or &quot;Forward&quot;), the leading Solana treasury company, today announced that it will host a conference call on Wednesday,...",
+    "published_at": "2026-07-30T00:00:00+08:00",
+    "stocks": [],
+    "uid": "4c76fa044a7574899452e5dd824878b5"
+  },
+  {
+    "title": "Bronstein, Gewirtz & Grossman LLC Urges GRAIL, Inc. Investors to Act: Class Action Filed Alleging Investor Harm",
+    "url": "https://markets.businessinsider.com/news/stocks/bronstein-gewirtz-grossman-llc-urges-grail-inc.-investors-to-act-class-action-filed-alleging-investor-harm-1036236193",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/300618/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px;  height: 1px;border: 0px solid;&quot;&gt;New York, New York--(Newsfile Corp. - July 29, 2026) - Bronstein, Gewirtz  Grossman, LLC, a nationally recognized investor-rights law firm, announces that a class action lawsuit has been filed against...",
+    "published_at": "2026-07-30T00:00:00+08:00",
+    "stocks": [],
+    "uid": "ce8c2773380d2f3119d2c7a4495d0925"
+  },
+  {
+    "title": "Bronstein, Gewirtz & Grossman LLC Urges BitGo Holdings, Inc. Investors to Act: Class Action Filed Alleging Investor Harm",
+    "url": "https://markets.businessinsider.com/news/stocks/bronstein-gewirtz-grossman-llc-urges-bitgo-holdings-inc.-investors-to-act-class-action-filed-alleging-investor-harm-1036243228",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/301010/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px;  height: 1px;border: 0px solid;&quot;&gt;New York, New York--(Newsfile Corp. - July 29, 2026) - Bronstein, Gewirtz  Grossman, LLC, a nationally recognized investor-rights law firm, announces that a class action lawsuit has been filed against...",
+    "published_at": "2026-07-30T00:00:00+08:00",
+    "stocks": [],
+    "uid": "5042111900a377496c51b4dbd5c9ce16"
+  },
+  {
+    "title": "Why Lennox Stock Crashed Today",
+    "url": "https://www.fool.com/investing/2026/07/29/why-lennox-stock-crashed-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Lennox stock wouldn't be expensive if its earnings were growing -- but they're shrinking instead.",
+    "published_at": "2026-07-29T23:57:38+08:00",
+    "stocks": [],
+    "uid": "9bc86546d96a690eea166e65e8abcf3d"
+  },
+  {
+    "title": "Apple says UK App Store proposal amounts to price regulation",
+    "url": "https://finance.yahoo.com/technology/articles/apple-says-uk-app-store-155341930.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-29T23:55:06+08:00",
+    "stocks": [],
+    "uid": "c6084ac3eb8fea1857cc0274619f001c"
+  },
+  {
+    "title": "Why Gartner Stock Is Climbing Higher Today",
+    "url": "https://www.fool.com/investing/2026/07/29/why-gartner-stock-is-climbing-higher-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Some investors believe the company's shares are undervalued.",
+    "published_at": "2026-07-29T23:54:00+08:00",
+    "stocks": [],
+    "uid": "529d6bb9f76a45f4d93c56a92197a41c"
+  },
+  {
+    "title": "Here's Why GE Healthcare Shares Popped Higher Today",
+    "url": "https://www.fool.com/investing/2026/07/29/heres-why-ge-healthcare-shares-popped-higher-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Cost increases have hit the company in 2026, but today's earnings report provides evidence of an oncoming improvement.",
+    "published_at": "2026-07-29T23:49:59+08:00",
+    "stocks": [],
+    "uid": "c3f09d35c5185668ad1caf8398c48784"
+  },
+  {
+    "title": "Ram, Jeep parent Stellantis needs to prove turnaround plan is working: H1 earnings preview",
+    "url": "https://finance.yahoo.com/markets/stocks/article/ram-jeep-parent-stellantis-needs-to-prove-turnaround-plan-is-working-h1-earnings-preview-154647532.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-29T23:46:47+08:00",
+    "stocks": [],
+    "uid": "93968b1b4147a423b57f3fd327a91f54"
+  },
+  {
+    "title": "Starbucks expected to post another solid quarter with sustained turnaround momentum",
+    "url": "https://finance.yahoo.com/markets/stocks/article/starbucks-expected-to-post-another-solid-quarter-with-sustained-turnaround-momentum-154557895.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-29T23:45:57+08:00",
+    "stocks": [],
+    "uid": "84b50a3e49775dfa0e5ab6c475c10bf5"
+  },
+  {
+    "title": "Israel Englander's Top Disclosed Holding Is an iShares Russell 2000 ETF, a Bet on Small-Cap Stocks Broadening Out the Rally",
+    "url": "https://www.fool.com/investing/2026/07/29/israel-englanders-top-disclosed-holding-is-russell/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Israel Englander's Millennium Management has significant options exposure to the iShares Russell 2000 ETF, but investors need to examine why that's the case.",
+    "published_at": "2026-07-29T23:45:00+08:00",
+    "stocks": [],
+    "uid": "4e2541c08a11af558a316355e3f39389"
+  },
+  {
     "title": "Earnings call transcript: Canadian Utilities posts 16% Q2 2026 earnings gain",
     "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-canadian-utilities-posts-16-q2-2026-earnings-gain-93CH-4821116",
     "source": "Investing.com",
@@ -143,6 +734,60 @@
     "summary_zh": ""
   },
   {
+    "title": "The Real Reason Alphabet Could Win More of the AI Boom",
+    "url": "https://www.fool.com/investing/2026/07/29/the-real-reason-alphabet-could-win-more-of-the-ai/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Alphabet's hidden AI stack could reshape its costs, growth, and valuation. See why TPUs, Gemini, and Cloud may matter far more to investors than Wall Street realizes.",
+    "published_at": "2026-07-29T23:37:26+08:00",
+    "stocks": [],
+    "uid": "b78d51e5359d34b805d14ff951b5b020"
+  },
+  {
+    "title": "Grayscale Calls HYPE Cheap Beside Coinbase, Robinhood and Circle",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/grayscale-calls-hype-cheap-beside-153700194.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-29T23:37:00+08:00",
+    "stocks": [],
+    "uid": "3a0419fa46f5bdf70a8f08e9899383dc"
+  },
+  {
+    "title": "BNSF CEO assails new rail merger filing, says transcon will raise rates, prices",
+    "url": "https://finance.yahoo.com/economy/policy/articles/bnsf-ceo-assails-rail-merger-153542828.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-29T23:35:42+08:00",
+    "stocks": [],
+    "uid": "e3429f43da4a5ca17c06b902c09f783c"
+  },
+  {
+    "title": "Prediction: Meta Stock Will Pop After Q2 Earnings. 3 Reasons Why",
+    "url": "https://www.fool.com/investing/2026/07/29/prediction-meta-stock-will-pop-after-earnings-3-re/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Meta has fallen in the last nine trading sessions, but the streak looks ready to come to an end.",
+    "published_at": "2026-07-29T23:34:54+08:00",
+    "stocks": [],
+    "uid": "133e2df73e678d13cf50650543ad7ed3"
+  },
+  {
+    "title": "SoFi Just Posted Record Growth and Profitability -- So Why Is the Stock Down 10%?",
+    "url": "https://www.fool.com/investing/2026/07/29/sofi-just-posted-record-growth-and-profitability-s/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "SoFi's stellar second-quarter numbers aren't enough to impress investors.",
+    "published_at": "2026-07-29T23:30:40+08:00",
+    "stocks": [],
+    "uid": "964c5dbee584ca182f1761e1e6445bf2"
+  },
+  {
+    "title": "Ford Just Delivered Bad News for Tesla Investors",
+    "url": "https://www.fool.com/investing/2026/07/29/ford-just-delivered-bad-news-for-tesla-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Robotaxis are projected to maintain a 71.9% CAGR through 2034, but the field is getting more crowded.",
+    "published_at": "2026-07-29T23:30:00+08:00",
+    "stocks": [],
+    "uid": "17ad84c37a30f02a2f293e8a29654e9f"
+  },
+  {
     "title": "U.S. Crude Oil Stockpiles Fall More Than Expected",
     "url": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-fall-more-than-expected-ddf156a2?siteid=yhoof2&yptr=yahoo",
     "source": "Yahoo Finance",
@@ -154,6 +799,24 @@
     "summary_en": "",
     "title_zh": "美國原油庫存降幅超出預期",
     "summary_zh": ""
+  },
+  {
+    "title": "Is SK Hynix Stock a Buy After Its Latest Earnings Report?",
+    "url": "https://www.fool.com/investing/2026/07/29/is-sk-hynix-stock-a-buy-after-its-latest-earnings-report/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The company reported a 557% annual increase in operating income in the second quarter.",
+    "published_at": "2026-07-29T23:26:01+08:00",
+    "stocks": [],
+    "uid": "74422c6303e69ee2479d159cddaed265"
+  },
+  {
+    "title": "T-Mobile Fell 11% on an Earnings Beat, Then Rebounded 6% the Next Day. Here's What's Going On.",
+    "url": "https://www.fool.com/investing/2026/07/29/t-mobile-fell-11-on-an-earnings-beat-then-rebounde/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Two trading sessions reached opposite conclusions about the same report. One of them had the better argument.",
+    "published_at": "2026-07-29T23:26:00+08:00",
+    "stocks": [],
+    "uid": "11aa59233b07cfe6842fcd1e37a93723"
   },
   {
     "title": "Secret Service 'illegally' surveilled Comey in Trump ‘8647’ threat case: Court filing",
@@ -1230,6 +1893,15 @@
     "published_at": "2026-07-29T21:03:52+08:00",
     "stocks": [],
     "uid": "0c113ddd9f87d93b364b202eb50bd19c"
+  },
+  {
+    "title": "Nvidia, Micron, AMD sink as SK Hynix results fail to impress, AI trade unwinds",
+    "url": "https://finance.yahoo.com/markets/article/nvidia-micron-amd-sink-as-sk-hynix-results-fail-to-impress-ai-trade-unwinds-130352334.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-29T21:03:52+08:00",
+    "stocks": [],
+    "uid": "3665fad6d7deb0c476a5e1480b9e2616"
   },
   {
     "title": "We're exiting our position in a household products giant after a soft quarter",
@@ -3194,6 +3866,15 @@
     "summary_en": "",
     "title_zh": "兩個港口獲利未達預期，收入低於預期",
     "summary_zh": ""
+  },
+  {
+    "title": "National beer and wine distributor files Chapter 11 bankruptcy",
+    "url": "https://finance.yahoo.com/small-business/articles/giant-wine-spirits-brand-files-170700174.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-29T08:09:53+08:00",
+    "stocks": [],
+    "uid": "33caed79ff30b0d070f7dfde28c47d37"
   },
   {
     "title": "Booz Allen prices $1.2 billion in senior notes for acquisition",
@@ -152695,6 +153376,15 @@
     "summary_zh": "電子巨頭聯想在人工智慧業務的推動下實現了強勁的收入成長，該公司週五股價飆升超過 15%。"
   },
   {
+    "title": "What soaring Treasury yields mean for your finances",
+    "url": "https://finance.yahoo.com/personal-finance/investing/article/what-soaring-treasury-yields-mean-for-your-finances-141336109.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-05-19T22:13:36+08:00",
+    "stocks": [],
+    "uid": "10525809bb5a028469d168ac80a992ec"
+  },
+  {
     "title": "Earnings live updates: Intuit stock tumbles after announcing job cuts, e.l.f. Beauty says it will lower prices",
     "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-intuit-stock-tumbles-after-announcing-job-cuts-elf-beauty-says-it-will-lower-prices-115413376.html",
     "source": "Yahoo Finance",
@@ -153045,6 +153735,15 @@
     "published_at": "2025-08-19T03:58:26+08:00",
     "stocks": [],
     "uid": "140d0356284cd4f24afcadbc78252399"
+  },
+  {
+    "title": "Mortgage rate predictions through 2030: Where are they headed?",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rate-predictions-through-2030-where-are-they-headed-195826935.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2025-08-19T03:58:26+08:00",
+    "stocks": [],
+    "uid": "8fce3208e826d3083b888ef5d0a67eb9"
   },
   {
     "title": "Tornado watch issued for NYC area. How to insure your home against tornado damage.",
