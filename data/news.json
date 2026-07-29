@@ -1,5 +1,48 @@
 [
   {
+    "title": "聯準會決議維持利率不變，但會議中罕見有支持升息的聲音",
+    "url": "https://finance.technews.tw/2026/07/30/the-federal-reserve-decided-to-keep-interest-rates-unchanged/",
+    "source": "科技新報",
+    "summary": "美國聯邦準備理事會（Fed）於30日清晨如外界預期的宣布維持利率不變，聯準會主席Kevin Warsh在會後的 [&#8230;]",
+    "published_at": "2026-07-30T06:40:51+08:00",
+    "stocks": [],
+    "uid": "f9cbffeca6c610d2e10fbd4c7bb37839",
+    "title_zh": "聯準會決議維持利率不變，但會議中罕見有支持升息的聲音",
+    "summary_zh": "美國聯邦準備理事會（Fed）於30日清晨如外界預期的宣布維持利率不變，聯準會主席Kevin Warsh在會後的 [&#8230;]",
+    "title_en": "The Federal Reserve decided to keep interest rates unchanged, but there was little support for raising interest rates at the meeting.",
+    "summary_en": "The U.S. Federal Reserve (Fed) announced in the early morning of the 30th that it would keep interest rates unchanged as expected. Federal Reserve Chairman Kevin Warsh said after the meeting […]"
+  },
+  {
+    "title": "Fed利率連5凍沒用！美股道瓊重挫1153點　費半大跌逾5%、台積電ADR跌4.5%",
+    "url": "https://www.mirrormedia.mg/story/20260730edi002",
+    "source": "鏡週刊財經",
+    "summary": "<p>儘管美國聯準會（Fed）決定利率維持不變，不過受伊朗戰爭、AI疑慮等因素，美股道瓊指數大跌逾千點，費辦也大跌逾5%；台積電ADR下跌17.64美元，收374.67美元。</p>",
+    "published_at": "2026-07-30T06:39:00+08:00",
+    "stocks": [
+      "2330"
+    ],
+    "uid": "869aeb31648a731016924230058b5c7e",
+    "title_zh": "Fed利率連5凍沒用！美股道瓊重挫1153點　費半大跌逾5%、台積電ADR跌4.5%",
+    "summary_zh": "<p>儘管美國聯準會（Fed）決定利率維持不變，不過受伊朗戰爭、AI疑慮等因素，美股道瓊指數大跌逾千點，費辦也大跌逾5%；台積電ADR下跌17.64美元，收374.67美元。</p>",
+    "title_en": "The Fed’s 5% freeze on interest rates is useless! US stock market Dow Jones fell 1,153 points, Fei Ban fell more than 5%, TSMC ADR fell 4.5%",
+    "summary_en": "<p>Although the U.S. Federal Reserve (Fed) decided to keep interest rates unchanged, due to factors such as the Iran war and AI concerns, the U.S. stock market Dow Jones Index fell more than a thousand points, and the Federal Reserve also fell more than 5%; TSMC ADR fell by $17.64, closing at $374.67. </p>"
+  },
+  {
+    "title": "美股收盤》Fed利率不變 晶片股續跌美股收黑 台積電ADR跌4.50％",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5522383",
+    "source": "自由財經",
+    "summary": "美國聯邦準備理事會（Fed）維持利率不變，微軟（Microsoft）與Meta Platforms公布季度財報前，人工智慧（AI）相關晶片股延續近期跌勢，美股主要指數大幅收低。中...…",
+    "published_at": "2026-07-30T06:16:12+08:00",
+    "stocks": [
+      "2330"
+    ],
+    "uid": "e4f36b6dbcc27b7670444c1886965b64",
+    "title_zh": "美股收盤》Fed利率不變 晶片股續跌美股收黑 台積電ADR跌4.50％",
+    "summary_zh": "美國聯邦準備理事會（Fed）維持利率不變，微軟（Microsoft）與Meta Platforms公布季度財報前，人工智慧（AI）相關晶片股延續近期跌勢，美股主要指數大幅收低。中...…",
+    "title_en": "U.S. stocks close》Fed interest rates remain unchanged, chip stocks continue to fall, U.S. stocks close in the black, TSMC ADR falls 4.50%",
+    "summary_en": "The U.S. Federal Reserve (Fed) kept interest rates unchanged, and before Microsoft and Meta Platforms released their quarterly financial reports, artificial intelligence (AI)-related chip stocks extended their recent declines, and major U.S. stock indexes closed sharply lower. middle...…"
+  },
+  {
     "title": "基準利率不動美債殖利率飆高　通膨難解拖累道瓊大跌",
     "url": "https://ec.ltn.com.tw/article/breakingnews/5522380",
     "source": "自由財經",
@@ -343,7 +386,11 @@
     "summary": "（中央社華盛頓29日綜合外電報導）美國聯邦準備理事會（Fed）今天決定維持利率不變，但12名決策官員中有3人持異議，主張升息1碼。聯準會主席華許形容，12名成員在決策期間進行激烈討論，宛如「真正的家庭爭吵」。",
     "published_at": "2026-07-30T04:15:53+08:00",
     "stocks": [],
-    "uid": "315e04198d8d2fd4017a94d01198ac96"
+    "uid": "315e04198d8d2fd4017a94d01198ac96",
+    "title_zh": "聯準會利率不變3票反對　華許形容決策過程如家庭爭吵",
+    "summary_zh": "（中央社華盛頓29日綜合外電報導）美國聯邦準備理事會（Fed）今天決定維持利率不變，但12名決策官員中有3人持異議，主張升息1碼。聯準會主席華許形容，12名成員在決策期間進行激烈討論，宛如「真正的家庭爭吵」。",
+    "title_en": "3 votes against the Fed keeping interest rates unchanged. Washer described the decision-making process as a family quarrel.",
+    "summary_en": "(Central News Agency, Washington, 29th, comprehensive foreign news reports) The U.S. Federal Reserve (Fed) decided to keep interest rates unchanged today, but 3 of the 12 decision-making officials dissented and advocated a 1-point increase in interest rates. Federal Reserve Chairman Joshua Washer described the heated discussions among the 12 members during the decision-making process as \"a real family quarrel.\""
   },
   {
     "title": "全聯全電商4大策略升級拚年營收破50億元 全家取貨限時免運再送霜淇淋",
@@ -419,7 +466,11 @@
     "summary": "（中央社紐約29日綜合外電報導）美國聯邦準備理事會（Fed）今天決定維持基準利率不變，但有3位區域聯邦準備銀行總裁投反對票，主張應當升息。這凸顯聯準會內部要求採取行動應對通膨的壓力正在持續累積。",
     "published_at": "2026-07-30T03:24:48+08:00",
     "stocks": [],
-    "uid": "fc08f39a9d36db39d0a74b2eca2f3350"
+    "uid": "fc08f39a9d36db39d0a74b2eca2f3350",
+    "title_zh": "聯準會利率不動但分歧加劇　9月升息機率破5成",
+    "summary_zh": "（中央社紐約29日綜合外電報導）美國聯邦準備理事會（Fed）今天決定維持基準利率不變，但有3位區域聯邦準備銀行總裁投反對票，主張應當升息。這凸顯聯準會內部要求採取行動應對通膨的壓力正在持續累積。",
+    "title_en": "The Fed keeps interest rates unchanged but disagreements intensify. Chances of raising interest rates in September exceed 50%",
+    "summary_en": "(Central News Agency, New York, Comprehensive Foreign News Report on the 29th) The U.S. Federal Reserve (Fed) decided today to keep the benchmark interest rate unchanged, but three regional Federal Reserve bank presidents voted against it, arguing that interest rates should be raised. This underscores the growing pressure within the Fed to take action to combat inflation."
   },
   {
     "title": "7月30日 五件財經大事搶先看",
@@ -1327,6 +1378,136 @@
     "summary_en": "(Central News Agency, New York, Comprehensive Foreign News Report on the 29th) The military conflict between the United States and Iran, which previously seemed to turn to diplomatic solutions, has now resumed fighting, causing market concerns about crude oil supply interruptions, causing international oil prices to rebound and surge today."
   },
   {
+    "title": "銀行打詐 警示帳戶糾紛暴增",
+    "url": "https://tw.news.yahoo.com/%E9%8A%80%E8%A1%8C%E6%89%93%E8%A9%90-%E8%AD%A6%E7%A4%BA%E5%B8%B3%E6%88%B6%E7%B3%BE%E7%B4%9B%E6%9A%B4%E5%A2%9E-223904736.html",
+    "source": "Yahoo股市",
+    "summary": "銀行加強打詐，導致「違反自動化服務規範爭議」成為銀行業金融消費爭議首位，光是今年第一季就有二四三件，超越過去「信用卡消費爭議」長期居首位的情形。而所謂的「違反自動化服務規範爭議」，可能的情形包括遭列警示帳戶，使得自動扣繳存匯款失敗，而進行申訴。",
+    "published_at": "2026-07-29T22:39:04+08:00",
+    "stocks": [],
+    "uid": "9c6630e44bd40aaa67eb1e7398952203",
+    "title_zh": "銀行打詐 警示帳戶糾紛暴增",
+    "summary_zh": "銀行加強打詐，導致「違反自動化服務規範爭議」成為銀行業金融消費爭議首位，光是今年第一季就有二四三件，超越過去「信用卡消費爭議」長期居首位的情形。而所謂的「違反自動化服務規範爭議」，可能的情形包括遭列警示帳戶，使得自動扣繳存匯款失敗，而進行申訴。",
+    "title_en": "Bank fraud warning: account disputes surge",
+    "summary_en": "Banks have intensified their efforts to combat fraud, causing \"disputes over violation of automated service standards\" to top the list of financial consumer disputes in the banking industry. In the first quarter of this year alone, there were 243 cases, surpassing the long-term ranking of \"credit card consumer disputes\" in the past. As for the so-called \"disputes over violations of automated service standards\", possible situations include an account being listed as a warning, causing the automatic withholding of deposits and remittances to fail, and filing an appeal."
+  },
+  {
+    "title": "台股重災區 主動式ETF慘摔",
+    "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E9%87%8D%E7%81%BD%E5%8D%80-%E4%B8%BB%E5%8B%95%E5%BC%8Fetf%E6%85%98%E6%91%94-223731415.html",
+    "source": "Yahoo股市",
+    "summary": "台股連日下跌，主動式ＥＴＦ（指數股票型基金）迎來嚴酷的一日壓力測試。加權指數昨單日又重挫超過一千五百點，盤中一度跌破四萬點大關，跌幅百分之三點七六；值得注意的是，近一年被市場追捧的台股主動式ＥＴＦ，廿一檔中有廿檔同步重摔，單日平均跌幅將近六個百分點，成為昨日股市重災區。",
+    "published_at": "2026-07-29T22:37:31+08:00",
+    "stocks": [],
+    "uid": "35caa5cc0ac520f7dbf628d94eaf9b89",
+    "title_zh": "台股重災區 主動式ETF慘摔",
+    "summary_zh": "台股連日下跌，主動式ＥＴＦ（指數股票型基金）迎來嚴酷的一日壓力測試。加權指數昨單日又重挫超過一千五百點，盤中一度跌破四萬點大關，跌幅百分之三點七六；值得注意的是，近一年被市場追捧的台股主動式ＥＴＦ，廿一檔中有廿檔同步重摔，單日平均跌幅將近六個百分點，成為昨日股市重災區。",
+    "title_en": "Taiwan stock market hit hardest, active ETFs plummet",
+    "summary_en": "Taiwan stocks have been falling for days, and active ETFs (index stock funds) are facing a harsh one-day stress test. The weighted index fell again by more than 1,500 points in a single day yesterday, once falling below the 40,000-point mark during the session, with a drop of 3.76%. It is worth noting that 20 of the 21 stocks of Taiwan stock active ETFs that have been sought after by the market in the past year fell simultaneously, with an average single-day drop of nearly 6 percentage points, becoming the hardest hit area for yesterday's stock market."
+  },
+  {
+    "title": "觀察站／失速下跌…台股帳面縮水 一堂昂貴求生課",
+    "url": "https://tw.news.yahoo.com/%E8%A7%80%E5%AF%9F%E7%AB%99-%E5%A4%B1%E9%80%9F%E4%B8%8B%E8%B7%8C-%E5%8F%B0%E8%82%A1%E5%B8%B3%E9%9D%A2%E7%B8%AE%E6%B0%B4-%E5%A0%82%E6%98%82%E8%B2%B4%E6%B1%82%E7%94%9F%E8%AA%B2-223731996.html",
+    "source": "Yahoo股市",
+    "summary": "台股七月呈現史上罕見急跌行情，單月累積跌點超過六千點，創下最大單月跌點紀錄，更在短短一個月內四度單日重挫逾千點，市場幾乎是以搭電梯速度下滑，投資人情緒從年初的樂觀迅速轉為恐慌。",
+    "published_at": "2026-07-29T22:37:31+08:00",
+    "stocks": [],
+    "uid": "d166f9118aeb6f71eaad50dfcf1e4265",
+    "title_zh": "觀察站／失速下跌…台股帳面縮水 一堂昂貴求生課",
+    "summary_zh": "台股七月呈現史上罕見急跌行情，單月累積跌點超過六千點，創下最大單月跌點紀錄，更在短短一個月內四度單日重挫逾千點，市場幾乎是以搭電梯速度下滑，投資人情緒從年初的樂觀迅速轉為恐慌。",
+    "title_en": "Observation Station/Stalling decline...Taiwan stocks’ book balance has shrunk, an expensive survival lesson",
+    "summary_en": "Taiwan's stock market experienced a rare sharp decline in history in July, with a cumulative drop of more than 6,000 points in a single month, setting a record for the largest monthly drop. In just one month, it fell more than 1,000 points in a single day four times. The market fell almost at an elevator speed, and investor sentiment quickly turned from optimism at the beginning of the year to panic."
+  },
+  {
+    "title": "台韓重災！亞股大逃殺 追繳令狂發",
+    "url": "https://tw.news.yahoo.com/%E5%8F%B0%E9%9F%93%E9%87%8D%E7%81%BD-%E4%BA%9E%E8%82%A1%E5%A4%A7%E9%80%83%E6%AE%BA-%E8%BF%BD%E7%B9%B3%E4%BB%A4%E7%8B%82%E7%99%BC-223731550.html",
+    "source": "Yahoo股市",
+    "summary": "亞洲股市昨天再現「大逃殺」，台灣、南韓成為重災區。南韓KOSPI指數盤中再度觸發熔斷，終場重挫百分之六；台股盤中一度跌破四萬點，終場跌勢雖稍微收斂，仍大跌一五六四點，收在四萬零三九點，寫下史上第七大跌點，成交值一點○八兆元。",
+    "published_at": "2026-07-29T22:37:31+08:00",
+    "stocks": [],
+    "uid": "302a0fa49d04cd474aa8c364c222d8f3",
+    "title_zh": "台韓重災！亞股大逃殺 追繳令狂發",
+    "summary_zh": "亞洲股市昨天再現「大逃殺」，台灣、南韓成為重災區。南韓KOSPI指數盤中再度觸發熔斷，終場重挫百分之六；台股盤中一度跌破四萬點，終場跌勢雖稍微收斂，仍大跌一五六四點，收在四萬零三九點，寫下史上第七大跌點，成交值一點○八兆元。",
+    "title_en": "Severe disaster in Taiwan and South Korea! Asian stocks battle royale, demand orders issued wildly",
+    "summary_en": "Asian stock markets experienced a \"Battle Royale\" yesterday, with Taiwan and South Korea becoming the hardest hit areas. South Korea's KOSPI index triggered a circuit breaker again during the session and ended up plunging 6%; Taiwan's stock market once fell below 40,000 points during the session. Although the decline converged slightly at the end, it still fell 1,564 points to close at 40,039 points, marking the seventh largest drop in history, with a transaction value of 1.08 trillion yuan."
+  },
+  {
+    "title": "晶片股走弱韓股崩跌 散戶恐慌逃命",
+    "url": "https://tw.news.yahoo.com/%E6%99%B6%E7%89%87%E8%82%A1%E8%B5%B0%E5%BC%B1%E9%9F%93%E8%82%A1%E5%B4%A9%E8%B7%8C-%E6%95%A3%E6%88%B6%E6%81%90%E6%85%8C%E9%80%83%E5%91%BD-223731473.html",
+    "source": "Yahoo股市",
+    "summary": "晶片股走弱不只拖累台股，南韓股市也無法倖免於難。南韓散戶投資人爭相拋售持股，韓股KOSPI指數昨盤中一度崩跌近百分之十三，儘管跌幅收斂，終場仍大跌近百分之六。而韓股的槓桿型ＥＴＦ（指數股票型基金）去化成為韓股暴跌的核心，南韓財長具潤哲昨也為政府當初未經審慎考量便允許推出個股槓桿型ＥＴＦ致歉。",
+    "published_at": "2026-07-29T22:37:31+08:00",
+    "stocks": [],
+    "uid": "ef9a6e3a3fb949efd450ea3def21a16e",
+    "title_zh": "晶片股走弱韓股崩跌 散戶恐慌逃命",
+    "summary_zh": "晶片股走弱不只拖累台股，南韓股市也無法倖免於難。南韓散戶投資人爭相拋售持股，韓股KOSPI指數昨盤中一度崩跌近百分之十三，儘管跌幅收斂，終場仍大跌近百分之六。而韓股的槓桿型ＥＴＦ（指數股票型基金）去化成為韓股暴跌的核心，南韓財長具潤哲昨也為政府當初未經審慎考量便允許推出個股槓桿型ＥＴＦ致歉。",
+    "title_en": "Chip stocks weaken, Korean stocks collapse, retail investors panic and run for their lives",
+    "summary_en": "The weakening of chip stocks not only dragged down the Taiwan stock market, but the South Korean stock market was not immune to the disaster. South Korean retail investors rushed to sell their holdings. The Korean KOSPI index collapsed by nearly 13% yesterday. Although the decline converged, it still fell by nearly 6% at the end. The depletion of leveraged ETFs (index stock funds) in the Korean stock market has become the core of the Korean stock market's plunge. South Korean Finance Minister Koo Yoon-cheol also apologized yesterday for the government's decision to allow the launch of individual stock leveraged ETFs without careful consideration."
+  },
+  {
+    "title": "台股融資血淚 苦主貼畢業文勸世",
+    "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E8%9E%8D%E8%B3%87%E8%A1%80%E6%B7%9A-%E8%8B%A6%E4%B8%BB%E8%B2%BC%E7%95%A2%E6%A5%AD%E6%96%87%E5%8B%B8%E4%B8%96-223731256.html",
+    "source": "Yahoo股市",
+    "summary": "「我畢業了，不是財富自由，是被券商退學」、「我開了融資、交出了靈魂，在永無止盡的追繳令中，陷入瘋狂」，最近幾日，網路投資社群常見貼出融資追繳簡訊或股票帳戶截圖的發文，看著總損益出現負數，樓下有安慰的也有嘲諷的，苦主則貼出畢業文勸世，奉勸大家不要融資。",
+    "published_at": "2026-07-29T22:37:31+08:00",
+    "stocks": [],
+    "uid": "151c442463ba279810ae0d18618633b2",
+    "title_zh": "台股融資血淚 苦主貼畢業文勸世",
+    "summary_zh": "「我畢業了，不是財富自由，是被券商退學」、「我開了融資、交出了靈魂，在永無止盡的追繳令中，陷入瘋狂」，最近幾日，網路投資社群常見貼出融資追繳簡訊或股票帳戶截圖的發文，看著總損益出現負數，樓下有安慰的也有嘲諷的，苦主則貼出畢業文勸世，奉勸大家不要融資。",
+    "title_en": "Taiwan stocks raise blood and tears, the sufferer posts graduation essay to persuade the world",
+    "summary_en": "\"I graduated, not to have freedom of wealth, but to be dropped out of school by a brokerage firm.\" \"I opened financing, surrendered my soul, and fell into madness amid the never-ending demand for debt.\" In recent days, it is common in online investment communities to post financing demand text messages or screenshots of stock accounts. Seeing the negative total profit and loss, there are those who comfort and ridicule downstairs. The victims posted graduation essays to persuade the world and advise everyone not to raise funds."
+  },
+  {
+    "title": "AI撐台灣景氣 國發會：全球經濟3隱憂",
+    "url": "https://tw.news.yahoo.com/ai%E6%92%90%E5%8F%B0%E7%81%A3%E6%99%AF%E6%B0%A3-%E5%9C%8B%E7%99%BC%E6%9C%83-%E5%85%A8%E7%90%83%E7%B6%93%E6%BF%9F3%E9%9A%B1%E6%86%82-223637264.html",
+    "source": "Yahoo股市",
+    "summary": "台灣經濟受惠ＡＩ浪潮，出口、生產與投資動能持續升溫，但全球景氣前方仍有不少暗礁。國發會最新「當前經濟情勢」分析指出，儘管ＡＩ、高效能運算及雲端基礎建設需求持續攀升，全球經濟仍面臨中東衝突、貿易政策不確定性及金融市場波動等三大隱憂，後續發展須密切關注。",
+    "published_at": "2026-07-29T22:36:37+08:00",
+    "stocks": [],
+    "uid": "532795d4c25ae6b516874aa122c45c6c",
+    "title_zh": "AI撐台灣景氣 國發會：全球經濟3隱憂",
+    "summary_zh": "台灣經濟受惠ＡＩ浪潮，出口、生產與投資動能持續升溫，但全球景氣前方仍有不少暗礁。國發會最新「當前經濟情勢」分析指出，儘管ＡＩ、高效能運算及雲端基礎建設需求持續攀升，全球經濟仍面臨中東衝突、貿易政策不確定性及金融市場波動等三大隱憂，後續發展須密切關注。",
+    "title_en": "AI supports Taiwan’s prosperity National Development Council: 3 hidden worries about the global economy",
+    "summary_en": "Taiwan's economy has benefited from the AI ​​wave, and its exports, production and investment momentum have continued to heat up. However, there are still many hidden dangers ahead of the global boom. The National Development Council's latest \"Current Economic Situation\" analysis points out that although the demand for AI, high-performance computing and cloud infrastructure continues to rise, the global economy still faces three major hidden worries, including conflict in the Middle East, trade policy uncertainty and financial market fluctuations, and subsequent developments must be paid close attention to."
+  },
+  {
+    "title": "AI商機不均 僅2成製造業切入半導體鏈",
+    "url": "https://tw.news.yahoo.com/ai%E5%95%86%E6%A9%9F%E4%B8%8D%E5%9D%87-%E5%83%852%E6%88%90%E8%A3%BD%E9%80%A0%E6%A5%AD%E5%88%87%E5%85%A5%E5%8D%8A%E5%B0%8E%E9%AB%94%E9%8F%88-223637898.html",
+    "source": "Yahoo股市",
+    "summary": "ＡＩ與半導體持續撐起台灣經濟成長，但這股紅利尚未全面流入其他產業。中經院最新調查顯示，製造業僅不到兩成切入半導體供應鏈，非製造業主要透過物流、工程及專業服務承接商機，顯示外溢效益仍集中在特定供應鏈與服務節點，距離形成全面性的產業景氣循環仍有一段距離。",
+    "published_at": "2026-07-29T22:36:37+08:00",
+    "stocks": [],
+    "uid": "9fd71f94bcf046bc100e6da2864a3a29",
+    "title_zh": "AI商機不均 僅2成製造業切入半導體鏈",
+    "summary_zh": "ＡＩ與半導體持續撐起台灣經濟成長，但這股紅利尚未全面流入其他產業。中經院最新調查顯示，製造業僅不到兩成切入半導體供應鏈，非製造業主要透過物流、工程及專業服務承接商機，顯示外溢效益仍集中在特定供應鏈與服務節點，距離形成全面性的產業景氣循環仍有一段距離。",
+    "title_en": "AI business opportunities are uneven. Only 20% of the manufacturing industry has entered the semiconductor chain.",
+    "summary_en": "AI and semiconductors continue to support Taiwan's economic growth, but this dividend has not yet fully flowed into other industries. The latest survey by the China Economic Academy shows that less than 20% of the manufacturing industry has entered the semiconductor supply chain. Non-manufacturing industries mainly take on business opportunities through logistics, engineering and professional services. This shows that spillover benefits are still concentrated in specific supply chains and service nodes, and there is still some distance to go before forming a comprehensive industrial boom cycle."
+  },
+  {
+    "title": "超商衝刺自助化 減少工作負擔",
+    "url": "https://tw.news.yahoo.com/%E8%B6%85%E5%95%86%E8%A1%9D%E5%88%BA%E8%87%AA%E5%8A%A9%E5%8C%96-%E6%B8%9B%E5%B0%91%E5%B7%A5%E4%BD%9C%E8%B2%A0%E6%93%94-223555887.html",
+    "source": "Yahoo股市",
+    "summary": "缺工成為流通業的新常態，迫使業者由「勞力密集」走向「科技密集」，而ＡＩ、自助化就成為打造「少人化」流通模式的最大武器，其中自助化更是發展最快的重點。統一超7-ELEVEN表示，內部統計，前三大門市使用頻次最高省力化作業分別為自助微波、自助結帳、自助取貨，三大省力服務一年可減少工時近兩百萬小時。",
+    "published_at": "2026-07-29T22:35:55+08:00",
+    "stocks": [],
+    "uid": "41def3835bc9118369bbf45ac3a04406",
+    "title_zh": "超商衝刺自助化 減少工作負擔",
+    "summary_zh": "缺工成為流通業的新常態，迫使業者由「勞力密集」走向「科技密集」，而ＡＩ、自助化就成為打造「少人化」流通模式的最大武器，其中自助化更是發展最快的重點。統一超7-ELEVEN表示，內部統計，前三大門市使用頻次最高省力化作業分別為自助微波、自助結帳、自助取貨，三大省力服務一年可減少工時近兩百萬小時。",
+    "title_en": "Supermarkets sprint towards self-service to reduce work burden",
+    "summary_en": "The shortage of workers has become the new normal in the circulation industry, forcing operators to move from \"labor-intensive\" to \"technology-intensive\". AI and self-service have become the biggest weapons to create a \"less-staffed\" circulation model, with self-service being the fastest-growing focus. Uni-President Super 7-ELEVEN stated that internal statistics show that the top three most frequently used labor-saving operations in its stores are self-service microwaves, self-service checkout, and self-service pickup. These three labor-saving services can reduce nearly two million hours of work per year."
+  },
+  {
+    "title": "缺工時代 零售業轉型打 「效率戰」",
+    "url": "https://tw.news.yahoo.com/%E7%BC%BA%E5%B7%A5%E6%99%82%E4%BB%A3-%E9%9B%B6%E5%94%AE%E6%A5%AD%E8%BD%89%E5%9E%8B%E6%89%93-%E6%95%88%E7%8E%87%E6%88%B0-223555220.html",
+    "source": "Yahoo股市",
+    "summary": "在少子化、高齡化的壓力下，台灣進入大缺工時代，過去流通業競爭的是展店速度、坪效與價格，現今人力成最稀缺資源，卻也逼出台灣流通業新競爭力，迫使零售、餐飲、物流重新設計營運模式，誰能用更少的人經營更多生意，誰就有競爭優勢。",
+    "published_at": "2026-07-29T22:35:55+08:00",
+    "stocks": [],
+    "uid": "fe5d95ae2da74c75eceb71cec94f8bb5",
+    "title_zh": "缺工時代 零售業轉型打 「效率戰」",
+    "summary_zh": "在少子化、高齡化的壓力下，台灣進入大缺工時代，過去流通業競爭的是展店速度、坪效與價格，現今人力成最稀缺資源，卻也逼出台灣流通業新競爭力，迫使零售、餐飲、物流重新設計營運模式，誰能用更少的人經營更多生意，誰就有競爭優勢。",
+    "title_en": "In the era of labor shortage, the retail industry transforms and fights the \"efficiency war\"",
+    "summary_en": "Under the pressure of a declining birthrate and an aging population, Taiwan has entered an era of great labor shortage. In the past, the distribution industry competed on store opening speed, square footage and price. Nowadays, manpower has become the scarcest resource, but it has also forced Taiwan's distribution industry to have new competitiveness, forcing retail, catering, and logistics to redesign their operating models. Whoever can run more business with fewer people will have a competitive advantage."
+  },
+  {
     "title": "中彰30分鐘生活圈成形 彰化房市「蛋白區」順勢崛起吸引在地建商卡位",
     "url": "https://money.udn.com/money/story/5612/9659208",
     "source": "經濟日報股市",
@@ -1353,6 +1534,19 @@
     "summary_en": "The real estate market in Changhua County is undergoing unprecedented structural changes. In the past, Changhua faced the challenges of population outflow and the squeeze on housing prices in Taichung. Now, with the dual-efficiency advancement of major transportation construction and urban planning, the housing market has also shifted from \"population outflow\" to \"acceptance of spillover.\" Among them, second-tier towns such as Huatan and Hemei, where traffic conditions have improved and housing prices are relatively affordable, have also become new battlefields for local developers such as Green Construction."
   },
   {
+    "title": "AI競賽太燒錢　Meta財報恐再掀科技股震盪",
+    "url": "https://tw.news.yahoo.com/ai%E7%AB%B6%E8%B3%BD%E5%A4%AA%E7%87%92%E9%8C%A2-meta%E8%B2%A1%E5%A0%B1%E6%81%90%E5%86%8D%E6%8E%80%E7%A7%91%E6%8A%80%E8%82%A1%E9%9C%87%E7%9B%AA-223049466.html",
+    "source": "Yahoo股市",
+    "summary": "[NOWNEWS今日新聞]美國科技巨頭Meta於當地時間週三盤後公布最新季度業績， 每股盈利（EPS）、淨利均遜於市場預期，加上持續投資AI導致自由現金流劇減，該公司股價在盤後交易時段一度重...",
+    "published_at": "2026-07-29T22:30:49+08:00",
+    "stocks": [],
+    "uid": "5e442773ae4bd3dd56c68a2d636f3b43",
+    "title_zh": "AI競賽太燒錢　Meta財報恐再掀科技股震盪",
+    "summary_zh": "[NOWNEWS今日新聞]美國科技巨頭Meta於當地時間週三盤後公布最新季度業績， 每股盈利（EPS）、淨利均遜於市場預期，加上持續投資AI導致自由現金流劇減，該公司股價在盤後交易時段一度重...",
+    "title_en": "AI competition is too expensive; Meta’s financial report may cause another shock to technology stocks",
+    "summary_en": "[NOWNEWS Today's News] American technology giant Meta announced its latest quarterly results after the market closed on Wednesday local time. Both earnings per share (EPS) and net profit were lower than market expectations. In addition, continued investment in AI led to a sharp decline in free cash flow. The company's stock price fell sharply during the after-hours trading session..."
+  },
+  {
     "title": "美限制外國製移動機器人 台廠精密機械鏈憑什麼能搶單？ 從零件到量產一次到位",
     "url": "https://money.udn.com/money/story/10871/9659183",
     "source": "經濟日報股市",
@@ -1364,6 +1558,19 @@
     "summary_zh": "美國關上外國製移動機器人進口大門，卻替台灣精密機械業打開一扇窗！台廠的優勢不只是「非中國供應鏈」，而是能將螺桿、減速機、軸承、關節馬達、控制器及加工設備一次備齊，並具備汽車與半導體產業累積的大量生產能力。",
     "title_en": "The United States restricts foreign-made mobile robots. Why can Taiwanese precision machinery chains grab orders? From parts to mass production in one go",
     "summary_en": "The United States has closed the door to the import of foreign-made mobile robots, but opened a window for Taiwan's precision machinery industry! The advantage of the Taiwanese factory is not only the \"non-Chinese supply chain\", but also the ability to prepare screws, reducers, bearings, joint motors, controllers and processing equipment at once, and it has the mass production capacity accumulated in the automotive and semiconductor industries."
+  },
+  {
+    "title": "槓桿ETF、美股正2全套牢！他嘆「知道要長投還是好難受」　網點長期投資心法",
+    "url": "https://tw.stock.yahoo.com/news/%E6%A7%93%E6%A1%BFetf-%E7%BE%8E%E8%82%A1%E6%AD%A32%E5%85%A8%E5%A5%97%E7%89%A2-%E4%BB%96%E5%98%86-%E7%9F%A5%E9%81%93%E8%A6%81%E9%95%B7%E6%8A%95%E9%82%84%E6%98%AF%E5%A5%BD%E9%9B%A3%E5%8F%97-%E7%B6%B2%E9%BB%9E%E9%95%B7%E6%9C%9F%E6%8A%95%E8%B3%87%E5%BF%83%E6%B3%95-222000826.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]實習記者王保伶／綜合報導近期全球股市震盪劇烈，不少投資人獲利大幅縮水，甚至由盈轉虧。一名網友發文分享自己的投資現況，表示原本打算長期投...",
+    "published_at": "2026-07-29T22:20:00+08:00",
+    "stocks": [],
+    "uid": "7b485cf14f0b314373cba43e9ec391c0",
+    "title_zh": "槓桿ETF、美股正2全套牢！他嘆「知道要長投還是好難受」　網點長期投資心法",
+    "summary_zh": "[FTNN新聞網]實習記者王保伶／綜合報導近期全球股市震盪劇烈，不少投資人獲利大幅縮水，甚至由盈轉虧。一名網友發文分享自己的投資現況，表示原本打算長期投...",
+    "title_en": "Leveraged ETFs and US stocks are fully locked in! He lamented, “I still feel uncomfortable knowing that I have to invest for the long term.” The long-term investment mentality of outlets",
+    "summary_en": "[FTNN News Network] Intern reporter Wang Baoling/Comprehensive report The global stock market has been experiencing violent fluctuations recently, and many investors' profits have shrunk significantly, or even turned from profits to losses. A netizen posted a post to share his current investment status, saying that he originally planned to invest in the long term..."
   },
   {
     "title": "伊朗彈襲約旦美軍基地 川普揚言嚴厲報復 國際油價飆破90美元",
@@ -1405,6 +1612,21 @@
     "summary_en": "<img alt=\"U.S. stocks opened \"all four major indexes fell\"! Fees rose once and turned black again\" src=\"https://cdn2.ettoday.net/images/6396/c6396472.jpg\" /><br /> After the opening of the US stock market, all four major indexes fell, with the Dow Jones falling 668.26 points or 1.27%, the S&P 500 index falling 29.24 points or 0.39%, and the Nasdaq index falling 105.89 points or 0.43%. The Philadelphia Semiconductor Index once rose, but then continued to decline, falling 174.52 points or 1.58% as of press time <a href=\"https://finance.ettoday.net/news/3209985\" target=\"_blank\">\"Full text...\"</a>"
   },
   {
+    "title": "台股盤前／Fed連五凍鷹派抬頭！台指夜盤跌683點　再度面臨4萬點保衛戰",
+    "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%89%8D%EF%BC%8Ffed%E9%80%A3%E4%BA%94%E5%87%8D%E9%B7%B9%E6%B4%BE%E6%8A%AC%E9%A0%AD%EF%BC%81%E5%8F%B0%E6%8C%87%E5%A4%9C%E7%9B%A4%E8%B7%8C683%E9%BB%9E-%E5%86%8D%E5%BA%A6%E9%9D%A2%E8%87%A84%E8%90%AC%E9%BB%9E%E4%BF%9D%E8%A1%9B%E6%88%B0-221200047.html",
+    "source": "Yahoo股市",
+    "summary": "美股週三（29）日尾盤全面急殺，道瓊指數暴跌1153點、費城半導體指數重挫5.33%，聯準會雖宣布連續第五次維持利率不變，但決策聲明意外偏向鷹派，加上中東局勢再度升溫推升油價，衝擊市場信心。台股昨日重挫1564點後，台指期夜盤再跌683點，台積電期貨盤後下跌31元，融資再減少385億元，在國際利空持續籠罩下，今(30)日台股開盤恐延續弱勢，市場將再度面臨4萬點保衛戰。",
+    "published_at": "2026-07-29T22:12:00+08:00",
+    "stocks": [
+      "2330"
+    ],
+    "uid": "377ef9a303cd70163b99b448da1e7411",
+    "title_zh": "台股盤前／Fed連五凍鷹派抬頭！台指夜盤跌683點　再度面臨4萬點保衛戰",
+    "summary_zh": "美股週三（29）日尾盤全面急殺，道瓊指數暴跌1153點、費城半導體指數重挫5.33%，聯準會雖宣布連續第五次維持利率不變，但決策聲明意外偏向鷹派，加上中東局勢再度升溫推升油價，衝擊市場信心。台股昨日重挫1564點後，台指期夜盤再跌683點，台積電期貨盤後下跌31元，融資再減少385億元，在國際利空持續籠罩下，今(30)日台股開盤恐延續弱勢，市場將再度面臨4萬點保衛戰。",
+    "title_en": "Taiwan stock market pre-market/Fed freezes for five consecutive times, hawks rise! Taiwan Index fell 683 points in night trading and once again faced a battle to defend 40,000 points",
+    "summary_en": "U.S. stocks plunged in late trading on Wednesday (29th), with the Dow Jones Index plummeting 1,153 points and the Philadelphia Semiconductor Index plunging 5.33%. Although the Federal Reserve announced that it would keep interest rates unchanged for the fifth time in a row, its decision statement was unexpectedly hawkish. In addition, the situation in the Middle East heated up again and pushed up oil prices, which impacted market confidence. After the Taiwan stock market plunged 1,564 points yesterday, the Taiwan stock index futures fell another 683 points in overnight trading. TSMC futures fell by 31 yuan after the market closed, and financing decreased by another 38.5 billion yuan. Under the continued negative influence from the international market, Taiwan stocks may continue to be weak at the opening today (30th), and the market will once again face a battle to defend 40,000 points."
+  },
+  {
     "title": "鉅亨速報 - Factset 最新調查：聯電(2303-TW)EPS預估上修至4.93元，預估目標價為120元",
     "url": "https://news.cnyes.com/news/id/6551204",
     "source": "鉅亨網",
@@ -1444,6 +1666,138 @@
     "summary_zh": "（中央社新加坡29日綜合外電報導）韓國股市Kospi指數今天再度大跌，觸發今年以來第9度熔斷，熱門投資工具個股槓桿型ETF被認為是放大市場波動的重要因素之一。",
     "title_en": "Korean stocks have experienced a circuit breaker for the 9th time this year. How individual stock leveraged ETFs intensify market volatility",
     "summary_en": "(Central News Agency, Singapore, comprehensive foreign news report on the 29th) The Korean stock market Kospi index fell sharply again today, triggering the ninth circuit breaker this year. Popular investment tools, leveraged ETFs, are considered to be one of the important factors that amplify market fluctuations."
+  },
+  {
+    "title": "台股崩盤撿鑽石？分析師爆「台積電、聯發科」可以買了",
+    "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%B4%A9%E7%9B%A4%E6%92%BF%E9%91%BD%E7%9F%B3-%E5%88%86%E6%9E%90%E5%B8%AB%E7%88%86-%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E8%81%AF%E7%99%BC%E7%A7%91-%E5%8F%AF%E4%BB%A5%E8%B2%B7%E4%BA%86-220530868.html",
+    "source": "Yahoo股市",
+    "summary": "台股昨（28日）盤中一度下殺超過2200點摔破4萬點大關，最低觸及39,384.85點，寫下兩個月來的新低點，回測半年線39,200點支撐。分析師李蜀芳認為，如果投資人資金充裕，有足夠的現金不是用融資，投資價值已經浮現，是一個很好的進場時機，主要壓力仍在月線附近。",
+    "published_at": "2026-07-29T22:05:30+08:00",
+    "stocks": [
+      "2330",
+      "2454"
+    ],
+    "uid": "cc5d9f761f42bbf4abbdeec49681dbba",
+    "title_zh": "台股崩盤撿鑽石？分析師爆「台積電、聯發科」可以買了",
+    "summary_zh": "台股昨（28日）盤中一度下殺超過2200點摔破4萬點大關，最低觸及39,384.85點，寫下兩個月來的新低點，回測半年線39,200點支撐。分析師李蜀芳認為，如果投資人資金充裕，有足夠的現金不是用融資，投資價值已經浮現，是一個很好的進場時機，主要壓力仍在月線附近。",
+    "title_en": "Pick up diamonds when Taiwan stock market crashes? Analysts say \"TSMC and MediaTek\" can be bought",
+    "summary_en": "Taiwan stocks fell more than 2,200 points and broke the 40,000-point mark yesterday (28th), hitting a low of 39,384.85 points, setting a new low in two months, and back-testing the half-year line support of 39,200 points. Analyst Li Shufang believes that if investors have sufficient funds and have enough cash not for financing, the investment value has emerged, which is a good time to enter the market. The main pressure is still near the monthly line."
+  },
+  {
+    "title": "社會新鮮人想存第一桶金！她問台股、美股怎麼配　內行人建議：選一檔就好",
+    "url": "https://tw.stock.yahoo.com/news/%E7%A4%BE%E6%9C%83%E6%96%B0%E9%AE%AE%E4%BA%BA%E6%83%B3%E5%AD%98%E7%AC%AC-%E6%A1%B6%E9%87%91-%E5%A5%B9%E5%95%8F%E5%8F%B0%E8%82%A1-%E7%BE%8E%E8%82%A1%E6%80%8E%E9%BA%BC%E9%85%8D-%E5%85%A7%E8%A1%8C%E4%BA%BA%E5%BB%BA%E8%AD%B0-220500443.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]實習記者鄭巧薰／綜合報導不少社會新鮮人開始工作後，都希望透過投資累積資產。近日，一名網友在Dcard發文表示，自己出社會剛滿1年，試用期時幾...",
+    "published_at": "2026-07-29T22:05:00+08:00",
+    "stocks": [],
+    "uid": "706b15bcb21b4e3da7b31080e13fdb55",
+    "title_zh": "社會新鮮人想存第一桶金！她問台股、美股怎麼配　內行人建議：選一檔就好",
+    "summary_zh": "[FTNN新聞網]實習記者鄭巧薰／綜合報導不少社會新鮮人開始工作後，都希望透過投資累積資產。近日，一名網友在Dcard發文表示，自己出社會剛滿1年，試用期時幾...",
+    "title_en": "Newcomers want to save their first pot of gold! She asked how to balance Taiwan stocks and U.S. stocks. An insider suggested: Just choose one.",
+    "summary_en": "[FTNN News Network] Intern reporter Zheng Qiaoxun/Comprehensive report Many new people in society hope to accumulate assets through investment after they start working. Recently, a netizen posted on Dcard that he had just been out of society for one year and how long was his probation period..."
+  },
+  {
+    "title": "估值仍合理！野村：日股迎來黃金轉折期　「3大價值」驅動長線潛力",
+    "url": "https://tw.news.yahoo.com/%E4%BC%B0%E5%80%BC%E4%BB%8D%E5%90%88%E7%90%86-%E9%87%8E%E6%9D%91-%E6%97%A5%E8%82%A1%E8%BF%8E%E4%BE%86%E9%BB%83%E9%87%91%E8%BD%89%E6%8A%98%E6%9C%9F-3%E5%A4%A7%E5%83%B9%E5%80%BC-%E9%A9%85%E5%8B%95%E9%95%B7%E7%B7%9A%E6%BD%9B%E5%8A%9B-220500986.html",
+    "source": "Yahoo股市",
+    "summary": "野村日本策略價值基金經理人河野光成指出，受惠於日本企業獲利雙位數成長、景氣信心攀升及東京證券交易所改革三大引擎驅動，日股正展現強勁的長線投資魅力。日本不僅擺脫通縮陰影，企業更積極提升資本配置效率，股東分派率屢創新高。野村日本策略價值基金透過嚴謹選股邏輯，聚焦資產、獲利與特許價值，不僅布局受惠於半導體與AI浪潮的賦能科技產業，更精選高資本回饋的金融與消費耐久財企業。在經濟結構性轉折與政策支持下，該基金憑藉深厚的價值投資底蘊，協助投資人精準掌握日股黃金發展契機，是追求資產穩健增長的優質選擇。",
+    "published_at": "2026-07-29T22:05:00+08:00",
+    "stocks": [],
+    "uid": "fdd5992c854dff550d576a981a44f322",
+    "title_zh": "估值仍合理！野村：日股迎來黃金轉折期　「3大價值」驅動長線潛力",
+    "summary_zh": "野村日本策略價值基金經理人河野光成指出，受惠於日本企業獲利雙位數成長、景氣信心攀升及東京證券交易所改革三大引擎驅動，日股正展現強勁的長線投資魅力。日本不僅擺脫通縮陰影，企業更積極提升資本配置效率，股東分派率屢創新高。野村日本策略價值基金透過嚴謹選股邏輯，聚焦資產、獲利與特許價值，不僅布局受惠於半導體與AI浪潮的賦能科技產業，更精選高資本回饋的金融與消費耐久財企業。在經濟結構性轉折與政策支持下，該基金憑藉深厚的價值投資底蘊，協助投資人精準掌握日股黃金發展契機，是追求資產穩健增長的優質選擇。",
+    "title_en": "The valuation is still reasonable! Nomura: Japanese stocks are entering a golden turning point, with “three major values” driving long-term potential",
+    "summary_en": "Mitsunari Kono, manager of Nomura Japan Strategic Value Fund, pointed out that Japanese stocks are showing strong long-term investment charm, driven by the three major engines of double-digit profit growth of Japanese companies, rising confidence in the economy and the reform of the Tokyo Stock Exchange. Not only has Japan gotten rid of the shadow of deflation, companies have also actively improved capital allocation efficiency, and the shareholder distribution rate has repeatedly hit new highs. Nomura Japan Strategic Value Fund uses rigorous stock selection logic to focus on assets, profits and franchise value. It not only deploys the enabling technology industries that benefit from the wave of semiconductors and AI, but also selects financial and consumer durable companies with high capital returns. With the structural changes in the economy and policy support, this fund relies on its profound value investment foundation to help investors accurately grasp the golden development opportunities of Japanese stocks, and is a high-quality choice for pursuing steady asset growth."
+  },
+  {
+    "title": "全電商突圍3》不只幫品牌賣貨　全聯還要告訴它下一步賣什麼",
+    "url": "https://tw.news.yahoo.com/%E5%85%A8%E9%9B%BB%E5%95%86%E7%AA%81%E5%9C%8D3-%E4%B8%8D%E5%8F%AA%E5%B9%AB%E5%93%81%E7%89%8C%E8%B3%A3%E8%B2%A8-%E5%85%A8%E8%81%AF%E9%82%84%E8%A6%81%E5%91%8A%E8%A8%B4%E5%AE%83%E4%B8%8B-%E6%AD%A5%E8%B3%A3%E4%BB%80%E9%BA%BC-220200763.html",
+    "source": "Yahoo股市",
+    "summary": "全聯今（29）日揭露全電商下一階段布局，除了利用AI強化個人化推薦，也將在8月推出供應商數據看板（Dashboard），並成立數據行銷顧問團隊，協助品牌掌握市場趨勢、調整商品組合，甚至尋找下一條產品線。從幫供應商把商品賣出去，到進一步告訴品…",
+    "published_at": "2026-07-29T22:02:00+08:00",
+    "stocks": [],
+    "uid": "2c29303441a1f79b00324a93e5c6fe99",
+    "title_zh": "全電商突圍3》不只幫品牌賣貨　全聯還要告訴它下一步賣什麼",
+    "summary_zh": "全聯今（29）日揭露全電商下一階段布局，除了利用AI強化個人化推薦，也將在8月推出供應商數據看板（Dashboard），並成立數據行銷顧問團隊，協助品牌掌握市場趨勢、調整商品組合，甚至尋找下一條產品線。從幫供應商把商品賣出去，到進一步告訴品…",
+    "title_en": "Full E-commerce Breakout 3\" not only helps brands sell goods, Quanlian also tells it what to sell next.",
+    "summary_en": "Quanlian today (29th) revealed the next stage of its all-e-commerce layout. In addition to using AI to strengthen personalized recommendations, it will also launch a supplier data dashboard (Dashboard) in August and set up a data marketing consulting team to help brands grasp market trends, adjust product mix, and even find the next product line. From helping suppliers sell goods to further informing products..."
+  },
+  {
+    "title": "Fed按兵不動但放鷹！美股全黑　道瓊崩千點",
+    "url": "https://tw.news.yahoo.com/fed%E6%8C%89%E5%85%B5%E4%B8%8D%E5%8B%95%E4%BD%86%E6%94%BE%E9%B7%B9-%E7%BE%8E%E8%82%A1%E5%85%A8%E9%BB%91-%E9%81%93%E7%93%8A%E5%B4%A9%E5%8D%83%E9%BB%9E-220157337.html",
+    "source": "Yahoo股市",
+    "summary": "[NOWNEWS今日新聞]美國總統川普（DonaldTrump）放話要痛擊伊朗，以回應美軍在中東基地遇襲一事，而聯準會（Fed）雖決定利率維持不變，但有3名投票委員主張升息，主席華許（KevinWar...",
+    "published_at": "2026-07-29T22:01:57+08:00",
+    "stocks": [],
+    "uid": "13562632565e2dcdafed3652d8577625",
+    "title_zh": "Fed按兵不動但放鷹！美股全黑　道瓊崩千點",
+    "summary_zh": "[NOWNEWS今日新聞]美國總統川普（DonaldTrump）放話要痛擊伊朗，以回應美軍在中東基地遇襲一事，而聯準會（Fed）雖決定利率維持不變，但有3名投票委員主張升息，主席華許（KevinWar...",
+    "title_en": "The Fed is standing still but letting the hawks fly! U.S. stocks all black, Dow Jones collapses by 1,000 points",
+    "summary_en": "[NOWNEWS Today's News] U.S. President Donald Trump vowed to attack Iran in response to attacks on U.S. military bases in the Middle East. Although the Federal Reserve (Fed) decided to keep interest rates unchanged, three voting members advocated raising interest rates. Chairman Kevin War..."
+  },
+  {
+    "title": "Fed利率連五凍但鷹派抬頭 道瓊血崩1153點 費半暴跌逾5％",
+    "url": "https://tw.stock.yahoo.com/news/fed%E5%88%A9%E7%8E%87%E9%80%A3%E4%BA%94%E5%87%8D%E4%BD%86%E9%B7%B9%E6%B4%BE%E6%8A%AC%E9%A0%AD-%E9%81%93%E7%93%8A%E8%A1%80%E5%B4%A91153%E9%BB%9E-%E8%B2%BB%E5%8D%8A%E6%9A%B4%E8%B7%8C%E9%80%BE5-220105289.html",
+    "source": "Yahoo股市",
+    "summary": "美國與伊朗戰事升溫，推升國際油價，進一步加劇通膨壓力。美國聯邦準備理事會（Fed）今天在政策會議上再次維持利率不變，連續第5次利率按兵不動，但罕見3名決策官員主張升息，加上主席華許重申壓低通膨的立場，長天期美債殖利率竄升。此外，中東戰事重新升溫也帶動油價大漲，道瓊狂瀉1153點，那斯達克指數與標普 500 指數均跌超 1.5%，與台股連動密切的費半更重挫超 5%，台積電ADR收盤大跌4.50％。台指期夜盤跌683點，跌幅1.69％、收39645點。",
+    "published_at": "2026-07-29T22:01:05+08:00",
+    "stocks": [
+      "2330"
+    ],
+    "uid": "e3fd879dec82de404e444635f483a988",
+    "title_zh": "Fed利率連五凍但鷹派抬頭 道瓊血崩1153點 費半暴跌逾5％",
+    "summary_zh": "美國與伊朗戰事升溫，推升國際油價，進一步加劇通膨壓力。美國聯邦準備理事會（Fed）今天在政策會議上再次維持利率不變，連續第5次利率按兵不動，但罕見3名決策官員主張升息，加上主席華許重申壓低通膨的立場，長天期美債殖利率竄升。此外，中東戰事重新升溫也帶動油價大漲，道瓊狂瀉1153點，那斯達克指數與標普 500 指數均跌超 1.5%，與台股連動密切的費半更重挫超 5%，台積電ADR收盤大跌4.50％。台指期夜盤跌683點，跌幅1.69％、收39645點。",
+    "title_en": "Fed rates have been frozen for the fifth consecutive time, but hawks are on the rise. Dow Jones plummeted by 1,153 points, and the Federal Reserve plummeted by more than 5%.",
+    "summary_en": "The war between the United States and Iran has intensified, pushing up international oil prices and further exacerbating inflationary pressures. The U.S. Federal Reserve (Fed) once again kept interest rates unchanged at its policy meeting today, keeping interest rates unchanged for the fifth time in a row. However, it was rare that three policymakers advocated raising interest rates. In addition, Chairman Bush reiterated his stance of lowering inflation, and long-term U.S. bond yields surged. In addition, the resurgence of war in the Middle East also led to a sharp rise in oil prices. The Dow Jones plunged 1,153 points, the Nasdaq Index and the S&P 500 Index both fell by more than 1.5%. Feiban, which is closely linked to the Taiwan stock market, fell by more than 5%. TSMC ADR closed down 4.50%. Taiwan Index futures fell 683 points, or 1.69%, to close at 39,645 points in overnight trading."
+  },
+  {
+    "title": "8月提高警覺！專家示警「金融5大隱憂」　點名雙重風暴：台積也難逃",
+    "url": "https://tw.news.yahoo.com/8%E6%9C%88%E6%8F%90%E9%AB%98%E8%AD%A6%E8%A6%BA-%E5%B0%88%E5%AE%B6%E7%A4%BA%E8%AD%A6-%E9%87%91%E8%9E%8D5%E5%A4%A7%E9%9A%B1%E6%86%82-%E9%BB%9E%E5%90%8D%E9%9B%99%E9%87%8D%E9%A2%A8%E6%9A%B4-%E5%8F%B0%E7%A9%8D%E4%B9%9F%E9%9B%A3%E9%80%83-220100810.html",
+    "source": "Yahoo股市",
+    "summary": "台股連續兩日血洗，28日暴跌2030點，為歷史第3大收盤跌點；29日跌勢持續，盤中一度下探至39384點，終場收40039點，重挫1564.18點，2個交易日累積崩跌近3600點，讓投資人哀鴻遍野。行政院前副院長、金管會前主委施俊吉更提醒「8月在即不妨提高警覺」，點名台積電與AI伺服器供應鏈恐首當其衝。",
+    "published_at": "2026-07-29T22:01:00+08:00",
+    "stocks": [],
+    "uid": "431252d02547db1edff30d193d8ab8c9",
+    "title_zh": "8月提高警覺！專家示警「金融5大隱憂」　點名雙重風暴：台積也難逃",
+    "summary_zh": "台股連續兩日血洗，28日暴跌2030點，為歷史第3大收盤跌點；29日跌勢持續，盤中一度下探至39384點，終場收40039點，重挫1564.18點，2個交易日累積崩跌近3600點，讓投資人哀鴻遍野。行政院前副院長、金管會前主委施俊吉更提醒「8月在即不妨提高警覺」，點名台積電與AI伺服器供應鏈恐首當其衝。",
+    "title_en": "Be alert in August! Experts warn of \"five major financial worries\" and name double storms: TSMC cannot escape",
+    "summary_en": "Taiwan stocks suffered a bloodbath for two consecutive days, plunging 2,030 points on the 28th, the third largest closing point in history; the decline continued on the 29th, once hitting 39,384 points during the session, and finally closing at 40,039 points, a plunge of 1,564.18 points. The cumulative collapse in two trading days was nearly 3,600 points, leaving investors devastated. Shi Junji, former vice president of the Executive Yuan and former chairman of the Financial Supervisory Commission, even reminded that \"you can be more vigilant in August\", naming TSMC and the AI ​​server supply chain as the first to bear the brunt."
+  },
+  {
+    "title": "全電商突圍2》1,280個據點變電商底牌　全聯加速OMO布局",
+    "url": "https://tw.news.yahoo.com/%E5%85%A8%E9%9B%BB%E5%95%86%E7%AA%81%E5%9C%8D2-1-280%E5%80%8B%E6%93%9A%E9%BB%9E%E8%AE%8A%E9%9B%BB%E5%95%86%E5%BA%95%E7%89%8C-%E5%85%A8%E8%81%AF%E5%8A%A0%E9%80%9Fomo%E5%B8%83%E5%B1%80-220100645.html",
+    "source": "Yahoo股市",
+    "summary": "全聯昨（29）日揭開OMO布局新進度，從小時達、分批取到擁有70萬件商品的全電商，分別承接即時配送、高頻補貨及長尾商品需求，再以全台約1,280個全聯、大全聯據點，以及千萬活躍會員串起線上線下服務。相較純電商從流量與物流中心起家，全聯手中最…",
+    "published_at": "2026-07-29T22:01:00+08:00",
+    "stocks": [],
+    "uid": "cbd722193905a3480a7dae0a2e34db6e"
+  },
+  {
+    "title": "空中光電板1／屋頂光電新制恐有變數？迷糊上路代價高　「這類住宅」衝擊最大",
+    "url": "https://tw.news.yahoo.com/%E7%A9%BA%E4%B8%AD%E5%85%89%E9%9B%BB%E6%9D%BF1-%E5%B1%8B%E9%A0%82%E5%85%89%E9%9B%BB%E6%96%B0%E5%88%B6%E6%81%90%E6%9C%89%E8%AE%8A%E6%95%B8-%E8%BF%B7%E7%B3%8A%E4%B8%8A%E8%B7%AF%E4%BB%A3%E5%83%B9%E9%AB%98-%E9%80%99%E9%A1%9E%E4%BD%8F%E5%AE%85-%E8%A1%9D%E6%93%8A%E6%9C%80%E5%A4%A7-220000099.html",
+    "source": "Yahoo股市",
+    "summary": "據了解，28日下午4點，能源署、國土署及全台各縣市建管單位人員召開屋頂光電新制會議，由行政院政委陳金德進行跨部會協調，因屋頂光電新制配套多有不足，擔心繼「土方之亂」後再成為「光電之亂」，傳聞會議結論將排除「住宅類」建物。知情人士透露，能源署非常堅持將住宅納入...",
+    "published_at": "2026-07-29T22:00:00+08:00",
+    "stocks": [],
+    "uid": "036c638a35ef8206c8b59eff0f8cc405"
+  },
+  {
+    "title": "空中光電板2／屋頂種電政策成敗「管委會」扛？　沒錢維護下場慘淪「空中廢棄物」",
+    "url": "https://tw.news.yahoo.com/%E7%A9%BA%E4%B8%AD%E5%85%89%E9%9B%BB%E6%9D%BF2-%E5%B1%8B%E9%A0%82%E7%A8%AE%E9%9B%BB%E6%94%BF%E7%AD%96%E6%88%90%E6%95%97-%E7%AE%A1%E5%A7%94%E6%9C%83-%E6%89%9B-%E6%B2%92%E9%8C%A2%E7%B6%AD%E8%AD%B7%E4%B8%8B%E5%A0%B4%E6%85%98%E6%B7%AA-220000792.html",
+    "source": "Yahoo股市",
+    "summary": "為推動淨零轉型，內政部與經濟部共同訂定「建築物設置太陽光電發電設備標準」，8月1日起正式施行新制，凡建築面積達1,000平方公尺（約302坪）以上的新建、增建或改建建築物，要求須加裝太陽光電設備。目前傳言住宅有機會排除在規範之外，但若照常實施，住宅區的建蔽率通常在4...",
+    "published_at": "2026-07-29T22:00:00+08:00",
+    "stocks": [],
+    "uid": "e65c4cc21512173182a14571c84ad7e2"
+  },
+  {
+    "title": "全電商突圍1》全電商不打低價戰　後發的全聯憑什麼挑戰50億元？",
+    "url": "https://tw.news.yahoo.com/%E5%85%A8%E9%9B%BB%E5%95%86%E7%AA%81%E5%9C%8D1-%E5%85%A8%E9%9B%BB%E5%95%86%E4%B8%8D%E6%89%93%E4%BD%8E%E5%83%B9%E6%88%B0-%E5%BE%8C%E7%99%BC%E7%9A%84%E5%85%A8%E8%81%AF%E6%86%91%E4%BB%80%E9%BA%BC%E6%8C%91%E6%88%B050%E5%84%84%E5%85%83-220000256.html",
+    "source": "Yahoo股市",
+    "summary": "全聯昨（29）日舉行全電商策略記者會，宣布以AI、數據、零售媒體及物流服務加速布局，並喊出今年營收挑戰50億元。只是，在電商業者普遍以低價、免運及速度搶客之際，後發的全電商卻表態不靠燒錢補貼，也不追求把商品數無限擴大，而要押注全聯、大全聯的…",
+    "published_at": "2026-07-29T22:00:00+08:00",
+    "stocks": [],
+    "uid": "99408278aa9c8a5de1928f0a89675960"
   },
   {
     "title": "川普政府限制中國機器人進口 智庫：美國產業迎來大轉機",
@@ -1509,6 +1863,19 @@
     "summary_zh": "台股今天殺聲隆隆，連續第2天重挫，終場集中市場指數下跌1564.18點，收在40039.18點，險守4萬點大關，融資斷頭...",
     "title_en": "The financing balance of Taiwan stocks dropped to 507 billion yuan, a significant decrease of 38.5 billion yuan",
     "summary_en": "Taiwan stocks were roaring today, falling heavily for the second consecutive day. At the end of the day, the Concentrated Market Index fell 1,564.18 points to close at 40,039.18 points, barely holding on to the 40,000-point mark. Financing was cut off..."
+  },
+  {
+    "title": "3檔處置股被抓去關！它6天暴跌45%延長處置　關到8月12日",
+    "url": "https://tw.news.yahoo.com/3%E6%AA%94%E8%99%95%E7%BD%AE%E8%82%A1%E8%A2%AB%E6%8A%93%E5%8E%BB%E9%97%9C-%E5%AE%836%E5%A4%A9%E6%9A%B4%E8%B7%8C45-%E5%BB%B6%E9%95%B7%E8%99%95%E7%BD%AE-%E9%97%9C%E5%88%B08%E6%9C%8812%E6%97%A5-215000464.html",
+    "source": "Yahoo股市",
+    "summary": "證交所、櫃買中心昨（29）日公布最新處置股名單，共有3檔個股遭列入處置措施。其中，上市公司聯友金屬-創（7610）因短線跌勢過深，原有處置措施再度延長至8月12日；上櫃光通訊股環宇-KY（4991）及華星光（4979）則自今（30）日起列入處置，執行至8月14日止。其中聯友金屬-創及環宇-KY採20分鐘分盤撮合，華星光則為5分鐘分盤撮合。",
+    "published_at": "2026-07-29T21:50:00+08:00",
+    "stocks": [
+      "7610",
+      "4979",
+      "4991"
+    ],
+    "uid": "63a8bcbbc47ab1b65ee3aeeb22aed78e"
   },
   {
     "title": "融資維持率突然消失 CMoney緊急下架歷史數據",
@@ -1632,6 +1999,30 @@
     "summary_en": "Li Yiyang, the representative in Japan, attended the \"Taiwan High Speed ​​Rail N700ST New Vehicle Factory Release\" welcome dinner in Fukuoka, Japan this evening and said that a strong earthquake occurred in Kumamoto yesterday and Taiwan has made preparations..."
   },
   {
+    "title": "逢低布局！韓版0050來了　「他」鎖定HBM記憶體雙雄",
+    "url": "https://tw.news.yahoo.com/%E9%80%A2%E4%BD%8E%E5%B8%83%E5%B1%80-%E9%9F%93%E7%89%880050%E4%BE%86%E4%BA%86-%E4%BB%96-%E9%8E%96%E5%AE%9Ahbm%E8%A8%98%E6%86%B6%E9%AB%94%E9%9B%99%E9%9B%84-213500676.html",
+    "source": "Yahoo股市",
+    "summary": "大華銀投信推出全台首檔聚焦南韓權值龍頭的「大華韓國KOSPI 50（009829）」，將於8月3日至8月7日募集，每股發行價10元。該基金重倉三星與SK海力士等HBM記憶體雙雄，直通全球AI算力核心，掌握生成式AI商機。南韓半導體產業基本面強勁，且韓股目前具備極具吸引力的低本益比優勢，配合南韓政府推動企業價值提升計畫，中長期評價重估潛力看漲。透過009829布局韓國市場，不僅能有效捕捉半導體雙雄的爆發力，更能藉由一籃子優質市值分散風險，是台灣投資人參與全球AI長線成長與掌握韓股估值修復紅利的絕佳戰略利器。",
+    "published_at": "2026-07-29T21:35:00+08:00",
+    "stocks": [
+      "3038",
+      "9905"
+    ],
+    "uid": "472774dbc1caa2b74e3385eb3945006a"
+  },
+  {
+    "title": "【盤前】「這記憶體大廠」成外資目標　遭砍1.5萬張！55萬人看綠光護眼",
+    "url": "https://tw.news.yahoo.com/%E7%9B%A4%E5%89%8D-%E9%80%99%E8%A8%98%E6%86%B6%E9%AB%94%E5%A4%A7%E5%BB%A0-%E6%88%90%E5%A4%96%E8%B3%87%E7%9B%AE%E6%A8%99-%E9%81%AD%E7%A0%8D1-5%E8%90%AC%E5%BC%B5-213500000.html",
+    "source": "Yahoo股市",
+    "summary": "台股昨（29）日遭到沉重賣壓，盤中一度重挫2314點、失守4萬點整數大關，終場收在40039.18點，下跌1564.18點、跌幅3.76%，寫下史上第七大收盤跌點。不過，擁有逾55萬名股東的華邦電（6770），慘淪斬首目標，單日狠砍1萬5329張，股價苦吞跌停，下殺14元、跌幅9.72%，收在130元。",
+    "published_at": "2026-07-29T21:35:00+08:00",
+    "stocks": [
+      "6770",
+      "2344"
+    ],
+    "uid": "077b9475e4adbbace6561af86276dc9e"
+  },
+  {
     "title": "白海豚升級成強烈颱風 最新路徑及影響曝光",
     "url": "https://money.udn.com/money/story/122328/9659126",
     "source": "經濟日報總經",
@@ -1671,6 +2062,15 @@
     "summary_en": "[Financial Channel/Comprehensive Report] China has successively launched a powerful triple attack (1-2-3 punch) on the global artificial intelligence market! On July 16, Beijing-based startup Moonshot AI released the Kimi K3 model, whose performance is comparable to Op..."
   },
   {
+    "title": "基準利率不動美債殖利率飆高　通膨難解拖累道瓊大跌",
+    "url": "https://tw.news.yahoo.com/%E5%9F%BA%E6%BA%96%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8B%95%E7%BE%8E%E5%82%B5%E6%AE%96%E5%88%A9%E7%8E%87%E9%A3%86%E9%AB%98-%E9%80%9A%E8%86%A8%E9%9B%A3%E8%A7%A3%E6%8B%96%E7%B4%AF%E9%81%93%E7%93%8A%E5%A4%A7%E8%B7%8C-212705084.html",
+    "source": "Yahoo股市",
+    "summary": "（中央社記者廖漢原華盛頓29日專電）美股道瓊工業指數今天在聯準會決定基準利率不變後逆勢走低，終場下跌1152點，創去年宣布關稅後最大跌點。美國通膨陰影不散，聯準會升息壓力大增，基準利率不動導致美債殖利率上揚，拖累3大指數。",
+    "published_at": "2026-07-29T21:27:05+08:00",
+    "stocks": [],
+    "uid": "52e917f727f9889818a7387fcfc58121"
+  },
+  {
     "title": "永豐餘苦茶油驗出苯駢芘超標 北市衛生局：不分批號全面預防性下架",
     "url": "https://money.udn.com/money/story/7307/9659108",
     "source": "經濟日報總經",
@@ -1697,6 +2097,15 @@
     "summary_en": "You drink a cup of hot tea every morning to warm your stomach and have a drink after get off work to relax. Are these seemingly harmless habits actually accelerating the occurrence of cancer? Research shows that when \"drinking scalding hot tea\" is combined with \"more than 15 grams of alcohol per day\", the risk of developing esophageal cancer is five times higher than that of others. The real scary thing is not cancer, but that we continue to repeat seemingly healthy but high-risk behaviors without knowing it. Hailed as the \"Medical Sherlock Holmes\" by the domestic media, Zeng Jinyuan, director of Yuanding Clinic, pointed out in the book \"Precision Medicine: Preventing Cancer Early, Solving Gene Myths and Prescribing the Right Medicine\": \"Rather than comprehensively preventing cancer, it is better to target high-risk factors and targeted prevention is the most effective way.\" He divided cancer prevention into two categories: \"targeted prevention\" and \"cliché prevention.\""
   },
   {
+    "title": "美股4大指數全收黑！晶片股領跌　道瓊重挫1153點、費半跌逾5.3%",
+    "url": "https://tw.news.yahoo.com/%E7%BE%8E%E8%82%A14%E5%A4%A7%E6%8C%87%E6%95%B8%E5%85%A8%E6%94%B6%E9%BB%91-%E6%99%B6%E7%89%87%E8%82%A1%E9%A0%98%E8%B7%8C-%E9%81%93%E7%93%8A%E9%87%8D%E6%8C%AB1153%E9%BB%9E-%E8%B2%BB%E5%8D%8A%E8%B7%8C%E9%80%BE5-3-212300029.html",
+    "source": "Yahoo股市",
+    "summary": "美國聯邦準備理事會（Fed）維持利率不變，且人工智慧（AI）相關晶片股繼續下跌，美股4大指數終場全收黑，道瓊工業指數大跌1153點，費城半導體指數下跌588點。",
+    "published_at": "2026-07-29T21:23:00+08:00",
+    "stocks": [],
+    "uid": "16fa62b56bce596ea6f30b662f23bff7"
+  },
+  {
     "title": "熊本地震干擾台積電 JASM 營運 公司29日晚間更新最新動態",
     "url": "https://money.udn.com/money/story/5612/9659116",
     "source": "經濟日報股市",
@@ -1710,6 +2119,15 @@
     "summary_zh": "熊本地震干擾台積電（2330）JASM營運，台積電29日晚間進一步更新廠區最新情況，台積電指出，「JASM廠區供水、電力及工安系統運作正常，生產設備相關之檢查與校正等作業持續進行中。由於本次震幅較大，預計需要一定的時間調整校正，經盤點後，台積公司亦已調派資源支援JASM，目前原物料供應無虞。同時，JASM建廠工地未受影響，在確認安全後已於29日恢復施工」。",
     "title_en": "The Kumamoto earthquake disrupts TSMC’s JASM operations. The company updated the latest news on the evening of the 29th.",
     "summary_en": "The Kumamoto earthquake disrupted TSMC (2330) JASM operations. TSMC further updated the latest situation at the plant on the evening of the 29th. TSMC pointed out that \"the water supply, electricity and industrial safety systems at the JASM plant are operating normally, and inspections and corrections related to production equipment continue to be carried out.\" Medium. Due to the large magnitude of this earthquake, it is expected that it will take some time for adjustments. After taking stock, TSMC has also deployed resources to support JASM. At the same time, the supply of raw materials is not affected. At the same time, the JASM factory construction site has not been affected, and construction has resumed on the 29th after confirming safety.\""
+  },
+  {
+    "title": "美國揚言打擊伊朗　國際油價大幅上揚",
+    "url": "https://tw.news.yahoo.com/%E7%BE%8E%E5%9C%8B%E6%8F%9A%E8%A8%80%E6%89%93%E6%93%8A%E4%BC%8A%E6%9C%97-%E5%9C%8B%E9%9A%9B%E6%B2%B9%E5%83%B9%E5%A4%A7%E5%B9%85%E4%B8%8A%E6%8F%9A-211502543.html",
+    "source": "Yahoo股市",
+    "summary": "（中央社紐約29日綜合外電報導）中東地區爆發新一輪衝突，提醒市場該地區供應風險仍未消退，國際油價今天大幅上揚。",
+    "published_at": "2026-07-29T21:15:02+08:00",
+    "stocks": [],
+    "uid": "67ff7b79898a342b8649dda5609018c5"
   },
   {
     "title": "國銀富豪戶6月大增1576人　累計資產管理規模達2.8兆",
