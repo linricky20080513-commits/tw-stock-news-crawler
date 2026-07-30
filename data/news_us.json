@@ -1,5 +1,366 @@
 [
   {
+    "title": "Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems",
+    "url": "https://www.cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html",
+    "source": "CNBC Top",
+    "summary": "Anthropic said it discovered three instances where its Claude AI models accessed the internet during an evaluation and accessed outside systems.",
+    "published_at": "2026-07-31T07:50:41+08:00",
+    "stocks": [],
+    "uid": "a0937736c0c31d66690e6bdd1abb9a76",
+    "title_en": "Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems",
+    "summary_en": "Anthropic said it discovered three instances where its Claude AI models accessed the internet during an evaluation and accessed outside systems.",
+    "title_zh": "Anthropic 表示，其 Claude 模型“獲得了對其他組織系統的未經授權的訪問”",
+    "summary_zh": "Anthropic 表示，它發現了三個實例，其中 Claude AI 模型在評估期間訪問互聯網並訪問外部系統。"
+  },
+  {
+    "title": "Form 4 PayPal Holdings Inc For: 30 July",
+    "url": "https://www.investing.com/news/filings/form-4-paypal-holdings-inc-for-30-july-93CH-4826546",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-31T07:33:58+08:00",
+    "stocks": [],
+    "uid": "eb4d3f548969f1de4b257d6fa7034b6c",
+    "title_en": "Form 4 PayPal Holdings Inc For: 30 July",
+    "summary_en": "",
+    "title_zh": "表 4 PayPal Holdings Inc. 效期：7 月 30 日",
+    "summary_zh": ""
+  },
+  {
+    "title": "Form 4 WesBanco Inc For: 30 July",
+    "url": "https://www.investing.com/news/filings/form-4-wesbanco-inc-for-30-july-93CH-4826545",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-31T07:33:57+08:00",
+    "stocks": [],
+    "uid": "6086869e57873ef3b0dae1dbe66bb787",
+    "title_en": "Form 4 WesBanco Inc For: 30 July",
+    "summary_en": "",
+    "title_zh": "表 4 WesBanco Inc 有效期限：7 月 30 日",
+    "summary_zh": ""
+  },
+  {
+    "title": "Wesbanco SEVP Jayson Zatta sells $522,537 in company stock",
+    "url": "https://www.investing.com/news/insider-trading-news/wesbanco-sevp-jayson-zatta-sells-522537-in-company-stock-93CH-4826544",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-31T07:30:54+08:00",
+    "stocks": [],
+    "uid": "0b497ecace0a842d75c3150806f0612c",
+    "title_en": "Wesbanco SEVP Jayson Zatta sells $522,537 in company stock",
+    "summary_en": "",
+    "title_zh": "Wesbanco SEVP Jayson Zatta 出售價值 522,537 美元的公司股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "PayPal president Keller sells $42,529 in common stock",
+    "url": "https://www.investing.com/news/insider-trading-news/paypal-president-keller-sells-42529-in-common-stock-93CH-4826543",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-31T07:30:50+08:00",
+    "stocks": [],
+    "uid": "08dd639b7aa653dc3d7baf91f97d09e0",
+    "title_en": "PayPal president Keller sells $42,529 in common stock",
+    "summary_en": "",
+    "title_zh": "PayPal 總裁凱勒出售 42,529 美元的普通股",
+    "summary_zh": ""
+  },
+  {
+    "title": "Fast-fashion retailer Shein’s 3-year IPO odyssey cost it the ‘golden time’ to go public",
+    "url": "https://www.cnbc.com/2026/07/31/shein-ipo-hong-kong-ftc-investigation-tariffs-fast-fashion-.html",
+    "source": "CNBC Top",
+    "summary": "Investors are questioning whether Beijing's blessing can carry a $40-billion-plus valuation for a clothing retailer whose growth engine is stalling.",
+    "published_at": "2026-07-31T07:30:34+08:00",
+    "stocks": [],
+    "uid": "e002512c6e3568d0eb841a5f653789d2",
+    "title_en": "Fast-fashion retailer Shein’s 3-year IPO odyssey cost it the ‘golden time’ to go public",
+    "summary_en": "Investors are questioning whether Beijing's blessing can carry a $40-billion-plus valuation for a clothing retailer whose growth engine is stalling.",
+    "title_zh": "快時尚零售商 Shein 歷時 3 年的 IPO 歷程讓其失去了上市的“黃金時機”",
+    "summary_zh": "投資者質疑北京方面的支持是否能為一家成長引擎停滯的服裝零售商帶來超過 400 億美元的估值。"
+  },
+  {
+    "title": "Form 4 American Bitcoin Corp For: 30 July",
+    "url": "https://www.investing.com/news/filings/form-4-american-bitcoin-corp-for-30-july-93CH-4826542",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-31T07:30:33+08:00",
+    "stocks": [],
+    "uid": "f459ecb566b4f2d86bdbef0bb5c75d0f",
+    "title_en": "Form 4 American Bitcoin Corp For: 30 July",
+    "summary_en": "",
+    "title_zh": "表 4 美國比特幣公司 日期：7 月 30 日",
+    "summary_zh": ""
+  },
+  {
+    "title": "Form 13D/A C3is Inc. For: 30 July",
+    "url": "https://www.investing.com/news/filings/form-13da-c3is-inc-for-30-july-93CH-4826541",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-31T07:30:27+08:00",
+    "stocks": [],
+    "uid": "a1649f3c73627448f444f4a4870a4cd7",
+    "title_en": "Form 13D/A C3is Inc. For: 30 July",
+    "summary_en": "",
+    "title_zh": "表格 13D/A C3is Inc. 有效期限：7 月 30 日",
+    "summary_zh": ""
+  },
+  {
+    "title": "Form 4 American Bitcoin Corp For: 30 July",
+    "url": "https://www.investing.com/news/filings/form-4-american-bitcoin-corp-for-30-july-93CH-4826540",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-31T07:30:22+08:00",
+    "stocks": [],
+    "uid": "b2ac15f59c0e056cc1f045d137cccd0c",
+    "title_en": "Form 4 American Bitcoin Corp For: 30 July",
+    "summary_en": "",
+    "title_zh": "表 4 美國比特幣公司 日期：7 月 30 日",
+    "summary_zh": ""
+  },
+  {
+    "title": "Form 4 American Bitcoin Corp For: 30 July",
+    "url": "https://www.investing.com/news/filings/form-4-american-bitcoin-corp-for-30-july-93CH-4826539",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-31T07:30:20+08:00",
+    "stocks": [],
+    "uid": "78a13e02cd49b1080bb67c49ae4b47b0",
+    "title_en": "Form 4 American Bitcoin Corp For: 30 July",
+    "summary_en": "",
+    "title_zh": "表 4 美國比特幣公司 日期：7 月 30 日",
+    "summary_zh": ""
+  },
+  {
+    "title": "Form 4 Li Bang International Corp Inc. For: 30 July",
+    "url": "https://www.investing.com/news/filings/form-4-li-bang-international-corp-inc-for-30-july-93CH-4826538",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-31T07:30:14+08:00",
+    "stocks": [],
+    "uid": "1d2e7ffc4fb53df41d5855b6a8c1a8ba",
+    "title_en": "Form 4 Li Bang International Corp Inc. For: 30 July",
+    "summary_en": "",
+    "title_zh": "表 4 Li Bang International Corp Inc. 效期：7 月 30 日",
+    "summary_zh": ""
+  },
+  {
+    "title": "Form 4 Open Lending Corp For: 30 July",
+    "url": "https://www.investing.com/news/filings/form-4-open-lending-corp-for-30-july-93CH-4826537",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-31T07:30:13+08:00",
+    "stocks": [],
+    "uid": "5570acaa394690d74b4de44462a4cca8"
+  },
+  {
+    "title": "Amazon soars after CEO Andy Jassy makes the case for its massive AI investment",
+    "url": "https://www.cnbc.com/2026/07/30/amazon-soars-after-ceo-makes-the-case-for-its-massive-ai-investment.html",
+    "source": "CNBC Markets",
+    "summary": "Amazon jumped about 10% to $258 in after-hours trading, putting shares at their highest level since early June.",
+    "published_at": "2026-07-31T07:27:04+08:00",
+    "stocks": [],
+    "uid": "c52235a95d03c728e20b4c9958c6394b",
+    "title_en": "Amazon soars after CEO Andy Jassy makes the case for its massive AI investment",
+    "summary_en": "Amazon jumped about 10% to $258 in after-hours trading, putting shares at their highest level since early June.",
+    "title_zh": "在執行長安迪賈西 (Andy Jassy) 闡述其大規模人工智慧投資後，亞馬遜股價飆升",
+    "summary_zh": "亞馬遜在盤後交易中上漲約 10% 至 258 美元，使股價達到 6 月初以來的最高水平。"
+  },
+  {
+    "title": "Darden's CEO Sold Shares as LongHorn Jumped 9.5% and Olive Garden Lagged",
+    "url": "https://www.fool.com/coverage/filings/2026/07/30/darden-s-ceo-sold-shares-as-longhorn-jumped-9-5-and-olive-garden-lagged/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Cardenas exercised stock options at $124.24 per share and immediately sold, reducing his direct holdings but maintaining 86,145 shares valued at $17.83 million.",
+    "published_at": "2026-07-31T07:22:15+08:00",
+    "stocks": [],
+    "uid": "20bfa293d0ece6a32b6e2a5042aea249",
+    "title_en": "Darden's CEO Sold Shares as LongHorn Jumped 9.5% and Olive Garden Lagged",
+    "summary_en": "Cardenas exercised stock options at $124.24 per share and immediately sold, reducing his direct holdings but maintaining 86,145 shares valued at $17.83 million.",
+    "title_zh": "達頓執行長出售股票，LongHorn 股價上漲 9.5%，Olive Garden 股價落後",
+    "summary_zh": "卡德納斯以每股 124.24 美元的價格行使了股票選擇權，並立即出售，減少了他的直接持股，但保留了 86,145 股，價值 1,783 萬美元。"
+  },
+  {
+    "title": "Everyone Wants to Build the Best AI Model. Amazon Wants Something More Valuable.",
+    "url": "https://www.fool.com/investing/2026/07/30/everyone-wants-to-build-the-best-ai-model-amazon-w/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Everyone is debating which AI company will build the best AI model. But that may be the wrong question for investors to focus on.",
+    "published_at": "2026-07-31T07:15:00+08:00",
+    "stocks": [],
+    "uid": "0df0619c3fbfdb061e902b996eff0ce4",
+    "title_en": "Everyone Wants to Build the Best AI Model. Amazon Wants Something More Valuable.",
+    "summary_en": "Everyone is debating which AI company will build the best AI model. But that may be the wrong question for investors to focus on.",
+    "title_zh": "每個人都想建立最好的人工智慧模型。亞馬遜想要更有價值的東西。",
+    "summary_zh": "每個人都在爭論哪家人工智慧公司將建立最好的人工智慧模型。但這可能是投資人關注的錯誤問題。"
+  },
+  {
+    "title": "Warren Buffett's Legacy Oil Bet Is Paying Off Under Greg Abel. Nobody's Talking About It.",
+    "url": "https://www.fool.com/investing/2026/07/30/warren-buffetts-legacy-oil-bet-is-paying-off-under/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "These two stocks have been among the brighter spots for the company so far this year.",
+    "published_at": "2026-07-31T07:05:00+08:00",
+    "stocks": [],
+    "uid": "d4de85f01963433ac8e9d29cd88a4f20",
+    "title_en": "Warren Buffett's Legacy Oil Bet Is Paying Off Under Greg Abel. Nobody's Talking About It.",
+    "summary_en": "These two stocks have been among the brighter spots for the company so far this year.",
+    "title_zh": "沃倫·巴菲特的傳統石油賭注在格雷格·阿貝爾的領導下得到了回報。沒有人談論它。",
+    "summary_zh": "這兩隻股票一直是該公司今年迄今的亮點之一。"
+  },
+  {
+    "title": "Why Chipotle Stock Popped Today",
+    "url": "https://www.fool.com/investing/2026/07/30/why-chipotle-stock-cmg-popped-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Sales at the burrito baron's restaurants are rising once again.",
+    "published_at": "2026-07-31T07:02:16+08:00",
+    "stocks": [],
+    "uid": "47b052a959afb21479514a6db2380db9",
+    "title_en": "Why Chipotle Stock Popped Today",
+    "summary_en": "Sales at the burrito baron's restaurants are rising once again.",
+    "title_zh": "為什麼 Chipotle 股票今天飆升",
+    "summary_zh": "墨西哥捲餅男爵餐廳的銷售額再次上升。"
+  },
+  {
+    "title": "Empty seats? Concert giant Live Nation says ticket sales are actually at record levels.",
+    "url": "https://www.marketwatch.com/story/empty-seats-concert-giant-live-nation-says-ticket-sales-are-actually-at-record-levels-461252db?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "In the wake of online chatter about high-profile tour cancellations, Ticketmaster’s parent company said artists aren’t ditching shows any more than usual.",
+    "published_at": "2026-07-31T07:01:00+08:00",
+    "stocks": [],
+    "uid": "775c36e9c83aafeafd8976b80413b741",
+    "title_en": "Empty seats? Concert giant Live Nation says ticket sales are actually at record levels.",
+    "summary_en": "In the wake of online chatter about high-profile tour cancellations, Ticketmaster’s parent company said artists aren’t ditching shows any more than usual.",
+    "title_zh": "座位空著？音樂會巨頭 Live Nation 表示，門票銷售實際上達到了創紀錄的水平。",
+    "summary_zh": "在網路上關於高調巡演取消的討論之後，Ticketmaster 的母公司表示，藝術家們不會比平常更放棄演出。"
+  },
+  {
+    "title": "Nvidia CEO Jensen Huang Personally Joined a Closed-Door Morgan Stanley Roadshow to Address 3 Investor Concerns. Nvidia Stock Is Down 4% Since He Spoke.",
+    "url": "https://www.fool.com/investing/2026/07/30/nvidia-ceo-jensen-huang-personally-joined-a-closed/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Huang told the investor conference that rising demand for AI compute will drive corporate revenues and GDP higher.",
+    "published_at": "2026-07-31T07:00:00+08:00",
+    "stocks": [],
+    "uid": "105adb9495760a29c4ef81eb116407ff",
+    "title_en": "Nvidia CEO Jensen Huang Personally Joined a Closed-Door Morgan Stanley Roadshow to Address 3 Investor Concerns. Nvidia Stock Is Down 4% Since He Spoke.",
+    "summary_en": "Huang told the investor conference that rising demand for AI compute will drive corporate revenues and GDP higher.",
+    "title_zh": "英偉達執行長黃仁勳親自參加摩根士丹利閉門路演，解決投資者的三大擔憂。自他講話以來，Nvidia 股價下跌 4%。",
+    "summary_zh": "黃仁勳在投資者大會上表​​示，對人工智慧運算的需求不斷增長將推動企業收入和 GDP 更高。"
+  },
+  {
+    "title": "Reddit CEO says Google's AI Overviews can't replace '10 blue links' for referral traffic",
+    "url": "https://www.cnbc.com/2026/07/30/reddit-ceo-says-googles-ai-overviews-cant-replace-10-blue-links-.html",
+    "source": "CNBC Tech",
+    "summary": "Reddit CEO Steve Huffman said his company has to find ways to work around changes at Google, which is delivering less traffic than in the past.",
+    "published_at": "2026-07-31T06:53:05+08:00",
+    "stocks": [],
+    "uid": "8bff37ae927586027deeb34315dcbbb9",
+    "title_en": "Reddit CEO says Google's AI Overviews can't replace '10 blue links' for referral traffic",
+    "summary_en": "Reddit CEO Steve Huffman said his company has to find ways to work around changes at Google, which is delivering less traffic than in the past.",
+    "title_zh": "Reddit 執行長表示，Google的 AI Overviews 無法取代推薦流量的“10 個藍色連結”",
+    "summary_zh": "Reddit 執行長 Steve Huffman 表示，他的公司必須找到方法來應對谷歌的變化，因為谷歌的流量比過去少了。"
+  },
+  {
+    "title": "Microsoft's Xbox chief lays out plan to pass rivals on margin by 2030 in memo to employees",
+    "url": "https://www.cnbc.com/2026/07/30/microsoft-xbox-asha-sharma-2030-plans.html",
+    "source": "CNBC Top",
+    "summary": "Microsoft's gaming unit wants to invest in its Minecraft franchise and expand through partnerships, including in China.",
+    "published_at": "2026-07-31T06:48:30+08:00",
+    "stocks": [],
+    "uid": "d1221b81a760486aae79836d705fb12f",
+    "title_en": "Microsoft's Xbox chief lays out plan to pass rivals on margin by 2030 in memo to employees",
+    "summary_en": "Microsoft's gaming unit wants to invest in its Minecraft franchise and expand through partnerships, including in China.",
+    "title_zh": "微軟 Xbox 執行長在給員工的備忘錄中製定了到 2030 年在利潤率上超越競爭對手的計劃",
+    "summary_zh": "微軟的遊戲部門希望投資其《我的世界》系列，並透過合作關係進行擴張，包括在中國。"
+  },
+  {
+    "title": "Amazon got $600 million in Trump tariff refunds and will pass return along to some customers",
+    "url": "https://www.cnbc.com/2026/07/30/amazon-trump-tariff-refunds.html",
+    "source": "CNBC Tech",
+    "summary": "The company previously hadn't disclosed whether it would recoup tariff costs after the Supreme Court ruled many of President Donald Trump's levies were illegal.",
+    "published_at": "2026-07-31T06:46:47+08:00",
+    "stocks": [],
+    "uid": "8ada635178ed2cc91f7484d965b83446",
+    "title_en": "Amazon got $600 million in Trump tariff refunds and will pass return along to some customers",
+    "summary_en": "The company previously hadn't disclosed whether it would recoup tariff costs after the Supreme Court ruled many of President Donald Trump's levies were illegal.",
+    "title_zh": "亞馬遜獲得 6 億美元川普關稅退款，並將把退貨轉嫁給部分客戶",
+    "summary_zh": "在最高法院裁定唐納德·川普總統的許多徵稅行為非法後，該公司此前沒有透露是否會收回關稅成本。"
+  },
+  {
+    "title": "Jim Cramer says this hedge fund's blowup reveals the hidden risks of leverage",
+    "url": "https://www.cnbc.com/2026/07/30/jim-cramer-situational-awareness-blowup-reveals-hidden-risks-of-leverage.html",
+    "source": "CNBC Top",
+    "summary": "CNBC's Jim Cramer said the forced unwind of Situational Awareness shows how borrowing money can quickly magnify losses and trigger forced selling.",
+    "published_at": "2026-07-31T06:37:02+08:00",
+    "stocks": [],
+    "uid": "82f982e1b670af21ab8a41cc87b3e0c1",
+    "title_en": "Jim Cramer says this hedge fund's blowup reveals the hidden risks of leverage",
+    "summary_en": "CNBC's Jim Cramer said the forced unwind of Situational Awareness shows how borrowing money can quickly magnify losses and trigger forced selling.",
+    "title_zh": "吉姆·克萊默（Jim Cramer）表示，這家對沖基金的崩潰揭示了槓桿的隱藏風險",
+    "summary_zh": "CNBC 的 Jim Cramer 表示，情境意識的強制解除表明借錢可以迅速放大損失並引發強制拋售。"
+  },
+  {
+    "title": "Cloudflare's CFO Sold Nearly 13,000 Company Shares for $3.6 Million. What Does This Mean for Investors?",
+    "url": "https://www.fool.com/coverage/filings/2026/07/30/cloudflare-s-cfo-sold-nearly-13-000-shares-for-usd3-6-million-what-does-this-mean-for-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "A prominent insider disposed of holdings in this cloud security infrastructure company.",
+    "published_at": "2026-07-31T06:33:01+08:00",
+    "stocks": [],
+    "uid": "140784a7745250138b9de660270913e4",
+    "title_en": "Cloudflare's CFO Sold Nearly 13,000 Company Shares for $3.6 Million. What Does This Mean for Investors?",
+    "summary_en": "A prominent insider disposed of holdings in this cloud security infrastructure company.",
+    "title_zh": "Cloudflare 的首席财务官以 360 万美元的价格出售了近 13,000 股公司股票。這對投資者意味著什麼？",
+    "summary_zh": "一位知名內部人士出售了這家雲端安全基礎設施公司的股份。"
+  },
+  {
+    "title": "Vertex Just Paid $10 Billion for Crinetics. Here's Why Viking Therapeutics Could Be the Next Big Pharma Takeover Target",
+    "url": "https://www.fool.com/investing/2026/07/30/vertex-just-paid-10-billion-for-crinetics-heres-wh/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "There are other reasons to pay attention to Viking Therapeutics.",
+    "published_at": "2026-07-31T06:30:00+08:00",
+    "stocks": [],
+    "uid": "ed3f28214b1f981586d93f082c479f7b",
+    "title_en": "Vertex Just Paid $10 Billion for Crinetics. Here's Why Viking Therapeutics Could Be the Next Big Pharma Takeover Target",
+    "summary_en": "There are other reasons to pay attention to Viking Therapeutics.",
+    "title_zh": "Vertex 剛剛斥資 100 億美元收購 Crinetics。這就是為什麼 Viking Therapeutics 可能成為下一個大型製藥公司收購目標",
+    "summary_zh": "關注 Viking Therapeutics 還有其他原因。"
+  },
+  {
+    "title": "Jersey Mike’s spent almost ‘zero dollars’ on digital marketing. That’s now changing.",
+    "url": "https://www.marketwatch.com/story/jersey-mikes-spent-almost-zero-dollars-on-digital-marketing-thats-now-changing-9738485d?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The CEO of the newly public sandwich chain says the company needs to be more proactive about reaching younger customers.",
+    "published_at": "2026-07-31T06:24:00+08:00",
+    "stocks": [],
+    "uid": "cbd460db7c08046f923c6fed3336425d",
+    "title_en": "Jersey Mike’s spent almost ‘zero dollars’ on digital marketing. That’s now changing.",
+    "summary_en": "The CEO of the newly public sandwich chain says the company needs to be more proactive about reaching younger customers.",
+    "title_zh": "澤西·麥克在數位行銷上的花費幾乎「零美元」。現在這種情況正在改變。",
+    "summary_zh": "這家新上市的三明治連鎖店的執行長表示，公司需要更積極地吸引年輕顧客。"
+  },
+  {
+    "title": "Oklo vs. NuScale: Which One Actually Has Paying Customers Lined Up?",
+    "url": "https://www.fool.com/investing/2026/07/30/oklo-vs-nuscale-which-one-actually-has-paying-cust/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "There's a reason the hype around these two nuclear technology stocks is fading.",
+    "published_at": "2026-07-31T06:05:00+08:00",
+    "stocks": [],
+    "uid": "b600fc7d9efaa11a4a0a0352038454a8"
+  },
+  {
+    "title": "China’s U.S.-bound shipments fall in July after brief recovery, survey shows",
+    "url": "https://www.cnbc.com/2026/07/30/china-us-exports-drop.html",
+    "source": "CNBC Finance",
+    "summary": "The latest China Beige Book study found factory activity decelerated in July.",
+    "published_at": "2026-07-31T06:01:01+08:00",
+    "stocks": [],
+    "uid": "c7880b6d966cbf7414515d1c933122f3"
+  },
+  {
+    "title": "Vertiv vs. BWX Technologies: What Revenue Trends Tell Investors About the Impact of Artificial Intelligence on These Companies",
+    "url": "https://www.fool.com/coverage/charts/2026/07/30/vertiv-vs-bwx-technologies-what-revenue-trends-tell-investors-about-the-impact-of-artificial-intelligence-on-these-companies/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Vertiv's latest quarter hit $3.3 billion as data center demand surges, while BWX Technologies maintains steady defense contracts.",
+    "published_at": "2026-07-31T05:56:01+08:00",
+    "stocks": [],
+    "uid": "f6d79f06430d31302c29cd9bc2587016"
+  },
+  {
     "title": "Apple revenue, profits beat expectations on iPhone sales but services miss targets",
     "url": "https://www.investing.com/news/stock-market-news/apple-revenue-profits-beat-expectations-on-iphone-mac-sales-4826219",
     "source": "Investing.com",
@@ -174,6 +535,24 @@
     "summary_zh": "隨著支付技術世界的發展，萬事達卡將自己定位為“代理商務”"
   },
   {
+    "title": "Morgan Stanley Nearly Doubled Its Price Target for CRISPR Therapeutics. Is the Gene-Editing Stock a No-Brainer Buy?",
+    "url": "https://www.fool.com/investing/2026/07/30/morgan-stanley-nearly-doubled-its-price-target-for/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The next six months may be decisive for the biotech.",
+    "published_at": "2026-07-31T05:38:00+08:00",
+    "stocks": [],
+    "uid": "cb0e0f1a66d3585f4bc366aad1fa2669"
+  },
+  {
+    "title": "Astera Labs vs. CoreWeave: Which Technology Stock Is a Better Buy in 2026?",
+    "url": "https://www.fool.com/coverage/better-buy/2026/07/30/astera-labs-vs-coreweave-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "One profitable but concentrated, the other scaling fast but burning cash.",
+    "published_at": "2026-07-31T05:30:01+08:00",
+    "stocks": [],
+    "uid": "53a03e8bbcc32b3dd4f89bb09a770fd0"
+  },
+  {
     "title": "Software stocks are fading — but these 4 could shine through the rest of the year",
     "url": "https://www.marketwatch.com/story/software-stocks-are-fading-but-these-4-could-shine-through-the-rest-of-the-year-2c4dbe22?mod=mw_rss_topstories",
     "source": "MarketWatch",
@@ -185,6 +564,60 @@
     "summary_en": "Evercore recommends Microsoft, ServiceNow, Salesforce and Samsara.",
     "title_zh": "軟體股正在下跌——但這四隻股票可能會在今年剩餘時間大放異彩",
     "summary_zh": "Evercore 推薦 Microsoft、ServiceNow、Salesforce 和 Samsara。"
+  },
+  {
+    "title": "Stock Market Today, July 30: Amazon Soars Over 8% After Hours on Earnings Beat",
+    "url": "https://www.fool.com/coverage/stock-market-today/2026/07/30/stock-market-today-july-30-amazon-soars-over-8-after-hours-on-earnings-beat/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "On July 30, 2026, the e-commerce giant's earnings topped forecasts as it showed investors its heavy AI infrastructure spending is paying off.",
+    "published_at": "2026-07-31T05:22:07+08:00",
+    "stocks": [],
+    "uid": "8696b477eaada66cd1abd84509fa860e"
+  },
+  {
+    "title": "Prediction: Tesla Will Lose Its Trillion-Dollar Market Cap Before 2027.",
+    "url": "https://www.fool.com/investing/2026/07/30/prediction-tesla-will-lose-its-trillion-dollar-mar/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The line sits near $250 per share -- about 16% below where the stock trades. Here's the math behind the call.",
+    "published_at": "2026-07-31T05:14:00+08:00",
+    "stocks": [],
+    "uid": "5e9121697354cc7fc45899078bbe3025"
+  },
+  {
+    "title": "Enbridge's Dividend Has Grown for 31 Straight Years. Here's Why It Won't Stop.",
+    "url": "https://www.fool.com/investing/2026/07/30/enbridges-dividend-has-grown-for-31-straight-years/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "With contracts with companies like Meta Platforms and over 50 opportunities to explore in the natural gas arena, Enbridge can keep generating the revenue needed to hike its dividend payout for the foreseeable future.",
+    "published_at": "2026-07-31T05:05:00+08:00",
+    "stocks": [],
+    "uid": "d517f465f77befda516e4ce195ad4c8e"
+  },
+  {
+    "title": "Is Amazon a Buy After Its Latest Earnings Report?",
+    "url": "https://www.fool.com/investing/2026/07/30/is-amazon-a-buy-after-its-latest-earnings-report/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The market is applauding Amazon's strong Q2 report.",
+    "published_at": "2026-07-31T05:02:43+08:00",
+    "stocks": [],
+    "uid": "c9482e1517f9afb2cee17fa3ee65a199"
+  },
+  {
+    "title": "Should You Buy McDonald's Stock Before Aug. 4?",
+    "url": "https://www.fool.com/investing/2026/07/30/should-you-buy-mcdonalds-stock-before-aug-4/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "McDonald's results may not impress this quarter, but the company is still a resilient global leader.",
+    "published_at": "2026-07-31T05:02:00+08:00",
+    "stocks": [],
+    "uid": "2bfc225cf6361240085272365323cde7"
+  },
+  {
+    "title": "Symbotic's CTO Sold Nearly 20,000 Company Shares. Here's What That Means for Investors.",
+    "url": "https://www.fool.com/coverage/filings/2026/07/30/symbotic-s-cto-sold-nearly-20-000-company-shares-here-s-what-that-means-for-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The warehouse robotics company reported a notable insider stock sale amid a 25% drop in share price over the past year.",
+    "published_at": "2026-07-31T05:01:01+08:00",
+    "stocks": [],
+    "uid": "9a0c5eb26a09286e6fb92cede4a5167c"
   },
   {
     "title": "Alphabet Just Gave Investors 514 Billion Reasons to Load Up on Shares",
@@ -356,6 +789,15 @@
     "summary_zh": ""
   },
   {
+    "title": "Eaton vs. Tesla: A Difference in Absolute Revenue and Revenue Volatility",
+    "url": "https://www.fool.com/coverage/charts/2026/07/30/eaton-vs-tesla-a-difference-in-absolute-revenue-and-revenue-volatility/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Eaton's steady quarterly gains contrast sharply with Tesla's boom-and-bust revenue swings, raising questions about which trajectory investors should trust.",
+    "published_at": "2026-07-31T04:45:01+08:00",
+    "stocks": [],
+    "uid": "de9da986f5d94c158cc776d8158a0629"
+  },
+  {
     "title": "Fed Chair Kevin Warsh Is Stuck Between a Rock and a Hard Place. And It Could Be a Problem for the Market",
     "url": "https://www.fool.com/investing/2026/07/30/kevin-warsh-is-stuck-between-a-rock-and-a-hard-pla/?source=iedfolrf0000001",
     "source": "Motley Fool",
@@ -393,6 +835,17 @@
     "summary_en": "One of the wildest months in recent memory for the U.S. stock market is ending on yet another remarkable note: A highflying hedge fund run by an AI wunderkind in his mid-20s has apparently just been carried out on a stretcher.",
     "title_zh": "態勢感知對沖基金的崩盤讓華爾街押注人工智慧產業已觸底",
     "summary_zh": "美國股市近期記憶中最瘋狂的幾個月之一正在以另一個引人注目的事實結束：由一位 20 多歲的人工智慧神童管理的一家飛速發展的對沖基金顯然剛剛被擔架抬出。"
+  },
+  {
+    "title": "GE HealthCare (GEHC) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/07/30/ge-healthcare-gehc-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Record backlog and orders surge, but Patient Care Solutions struggles weigh on margins.",
+    "published_at": "2026-07-31T04:38:19+08:00",
+    "stocks": [
+      "GEHC"
+    ],
+    "uid": "1df9cad8f6bd8a722100784704b66ee2"
   },
   {
     "title": "Trump says sanctions bill should include tariffs on Iran, despite 'trivial' trade with U.S.",
@@ -6892,6 +7345,17 @@
     "summary_zh": ""
   },
   {
+    "title": "TotalEnergies (TTE) Posts A War-Driven Earnings Surge, But The Real Test Is What Happens To LNG Once It Fades",
+    "url": "https://finance.yahoo.com/energy/articles/totalenergies-tte-posts-war-driven-165209577.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-30T00:52:09+08:00",
+    "stocks": [
+      "TTE"
+    ],
+    "uid": "ad894184051893e8b143788025ab416d"
+  },
+  {
     "title": "Xcel Energy faces wildfire test as earnings loom tomorrow",
     "url": "https://www.investing.com/news/earnings/xcel-energy-faces-wildfire-test-as-earnings-loom-tomorrow-93CH-4821313",
     "source": "Investing.com",
@@ -6991,6 +7455,15 @@
     "summary_zh": "艾伯維（AbbVie）處於歷史最高點時，看起來仍然值得買入。"
   },
   {
+    "title": "US FTC sues Hims & Hers for sending user health info to Meta, Snap",
+    "url": "https://finance.yahoo.com/healthcare/articles/exclusive-us-ftc-suing-hims-163411261.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-30T00:34:11+08:00",
+    "stocks": [],
+    "uid": "afdf835813e5dd20dc1ef1f008f63cff"
+  },
+  {
     "title": "Nearly 1 Billion SpaceX Shares Unlock On Aug. 6. Here's What Retail Investors Should Do.",
     "url": "https://www.fool.com/investing/2026/07/29/billion-spacex-shares-unlock-aug-6-investor/?source=iedfolrf0000001",
     "source": "Motley Fool",
@@ -7015,6 +7488,15 @@
     "summary_en": "Our remaining position was tiny, and our thesis isn't holding up.",
     "title_zh": "以下是我們改變寶潔方針的決定的詳細分析",
     "summary_zh": "我們剩下的部位很小，我們的論文也站不住腳。"
+  },
+  {
+    "title": "Glencore Sees $3.3 Billion Trading Profit as Iran War Rattles Oil Markets",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/glencore-sees-3-3-billion-163000552.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-30T00:30:00+08:00",
+    "stocks": [],
+    "uid": "7fb900150abf5b5bf461b20b999c3620"
   },
   {
     "title": "Why Wall Street Is Split on Phillips 66 (PSX) Even as Its Numbers Improve",
@@ -7054,6 +7536,33 @@
     "summary_zh": ""
   },
   {
+    "title": "Fed Keeps Interest Rates Steady And Leaves Future Plans A Mystery",
+    "url": "https://finance.yahoo.com/economy/policy/articles/fed-keeps-interest-rates-steady-162259682.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-30T00:22:59+08:00",
+    "stocks": [],
+    "uid": "60d9cd0f8bc03c0c68156a50a08ab543"
+  },
+  {
+    "title": "Strategy Hasn’t Bought Bitcoin in Five Weeks. Is Bitcoin Losing Its Biggest Corporate Buyer?",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/strategy-hasn-t-bought-bitcoin-162108668.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-30T00:21:08+08:00",
+    "stocks": [],
+    "uid": "9feef232cc37a0682f9b1d6e47cc4838"
+  },
+  {
+    "title": "Why Biogen Stock Is Resisting a Market Downturn After Earnings",
+    "url": "https://www.barrons.com/articles/biogen-earnings-stock-price-9f58a946?siteid=yhoof2&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-30T00:21:00+08:00",
+    "stocks": [],
+    "uid": "c6294b95c69050a0087120ff0413d4b9"
+  },
+  {
     "title": "Sanctions Bill Would Give Trump Sweeping New Tariff Powers",
     "url": "https://www.nytimes.com/2026/07/29/us/politics/trump-tariffs-sanctions.html",
     "source": "NYT Business",
@@ -7065,6 +7574,15 @@
     "summary_en": "A bipartisan bill in the Senate would allow President Trump to impose tariffs on the biggest importers of Russian energy.",
     "title_zh": "制裁法案將賦予川普全面的新關稅權力",
     "summary_zh": "參議院的兩黨法案將允許川普總統對俄羅斯能源最大進口國徵收關稅。"
+  },
+  {
+    "title": "Intel Continues to Get Pummeled: Why One Analyst Maintains His Conviction That 130% Gains Will Come",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/intel-continues-pummeled-why-one-161816078.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-30T00:18:16+08:00",
+    "stocks": [],
+    "uid": "a71b09cdaab1c7c136dd0b492a6f4559"
   },
   {
     "title": "Dow Leader Rides Surging Oil Prices And Trump's Venezuela Spoils",
@@ -7091,6 +7609,24 @@
     "summary_en": "",
     "title_zh": "中東空襲升級 油價上漲 7%",
     "summary_zh": ""
+  },
+  {
+    "title": "Top Performing Leveraged/Inverse ETFs: 07/26/2026",
+    "url": "https://finance.yahoo.com/markets/options/articles/top-performing-leveraged-inverse-etfs-161544295.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-30T00:15:44+08:00",
+    "stocks": [],
+    "uid": "91bb1f392dc165bdeeafbc91552d903d"
+  },
+  {
+    "title": "QCOM Stock Alert: What to Know as Qualcomm Partners With BMW",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/qcom-stock-alert-know-qualcomm-161505927.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-30T00:15:05+08:00",
+    "stocks": [],
+    "uid": "52d1d3b98269756d30f3de55318bc4c0"
   },
   {
     "title": "Is the Private Credit Boom a Gift or a Risk for BDC Income Investors?",
@@ -7353,6 +7889,15 @@
     "uid": "c3f09d35c5185668ad1caf8398c48784"
   },
   {
+    "title": "Apple says UK App Store proposal amounts to price regulation",
+    "url": "https://finance.yahoo.com/technology/articles/apple-says-uk-app-store-154808227.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-29T23:48:08+08:00",
+    "stocks": [],
+    "uid": "799218a81f34b64c1c20b5a932f9cf1a"
+  },
+  {
     "title": "Ram, Jeep parent Stellantis needs to prove turnaround plan is working: H1 earnings preview",
     "url": "https://finance.yahoo.com/markets/stocks/article/ram-jeep-parent-stellantis-needs-to-prove-turnaround-plan-is-working-h1-earnings-preview-154647532.html",
     "source": "Yahoo Finance",
@@ -7378,6 +7923,15 @@
     "published_at": "2026-07-29T23:45:57+08:00",
     "stocks": [],
     "uid": "7bc2abcb1793c5e1fa08de81020af149"
+  },
+  {
+    "title": "Crude Oil Prices Soar as US-Iran Tensions Escalate",
+    "url": "https://finance.yahoo.com/energy/articles/crude-oil-prices-soar-us-154512027.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-29T23:45:12+08:00",
+    "stocks": [],
+    "uid": "7b57f3ae11f254c82857c1176956d68f"
   },
   {
     "title": "Israel Englander's Top Disclosed Holding Is an iShares Russell 2000 ETF, a Bet on Small-Cap Stocks Broadening Out the Rally",
@@ -7428,6 +7982,15 @@
     "summary_zh": ""
   },
   {
+    "title": "UBS Buys Back Its Credit Suisse Hangover",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-buys-back-credit-suisse-154209212.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-29T23:42:09+08:00",
+    "stocks": [],
+    "uid": "e8de40dbc32f634ed59692b73b319dde"
+  },
+  {
     "title": "Sprouts Farmers Market faces earnings test as comps weaken",
     "url": "https://www.investing.com/news/earnings/sprouts-farmers-market-faces-earnings-test-as-comps-weaken-93CH-4821112",
     "source": "Investing.com",
@@ -7439,6 +8002,15 @@
     "summary_en": "",
     "title_zh": "由於比較疲軟，豆芽農夫市集面臨獲利考驗",
     "summary_zh": ""
+  },
+  {
+    "title": "Dear Sandisk Stock Fans, Mark Your Calendars for August 5",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/dear-sandisk-stock-fans-mark-154110980.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-29T23:41:10+08:00",
+    "stocks": [],
+    "uid": "8f186292b1e450119931e83dd44b65b1"
   },
   {
     "title": "Warren, Schiff urge SEC to probe Trump Media's paid service giving faster access to Trump's posts",
