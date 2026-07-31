@@ -1,5 +1,680 @@
 [
   {
+    "title": "450,000 defrauded student loan borrowers are eligible for debt forgiveness — here's who qualifies",
+    "url": "https://www.cnbc.com/2026/07/31/sweet-v-mcmahon-student-loans-borrower-defense.html",
+    "source": "CNBC Top",
+    "summary": "Hundreds of thousands of student loan borrowers are eligible for debt cancellation under a $23 billion class-action settlement against the federal government.",
+    "published_at": "2026-07-31T23:45:15+08:00",
+    "stocks": [],
+    "uid": "aa84699fac08db22be36ffc0cfb51a9f",
+    "title_en": "450,000 defrauded student loan borrowers are eligible for debt forgiveness — here's who qualifies",
+    "summary_en": "Hundreds of thousands of student loan borrowers are eligible for debt cancellation under a $23 billion class-action settlement against the federal government.",
+    "title_zh": "45 萬名被詐騙的學生貸款借款人有資格獲得債務減免——以下是符合資格的人",
+    "summary_zh": "根據針對聯邦政府的 230 億美元集體訴訟和解協議，數十萬名學生貸款借款人有資格獲得債務取消。"
+  },
+  {
+    "title": "Democrats demand information on Trump and Lutnick families' ties to critical mineral deals",
+    "url": "https://www.cnbc.com/2026/07/31/senate-democrats-trump-lutnick-critical-mineral-deals.html",
+    "source": "CNBC Top",
+    "summary": "The senators asked the Departments of Commerce, Defense, Energy, Interior and the Export-Import Bank to preserve all records related to those deals.",
+    "published_at": "2026-07-31T23:41:21+08:00",
+    "stocks": [],
+    "uid": "c9ceb77227da09e82364a11e20d5c6f7",
+    "title_en": "Democrats demand information on Trump and Lutnick families' ties to critical mineral deals",
+    "summary_en": "The senators asked the Departments of Commerce, Defense, Energy, Interior and the Export-Import Bank to preserve all records related to those deals.",
+    "title_zh": "民主黨人要求提供有關川普和盧特尼克家族與關鍵礦產交易的關係的信息",
+    "summary_zh": "參議員要求商務部、國防部、能源部、內政部和進出口銀行保留與這些交易相關的所有記錄。"
+  },
+  {
+    "title": "DA Davidson raises Procore stock price target on margin outlook",
+    "url": "https://www.investing.com/news/analyst-ratings/da-davidson-raises-procore-stock-price-target-on-margin-outlook-93CH-4828927",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-31T23:38:51+08:00",
+    "stocks": [],
+    "uid": "9073cba4f0caf50488980f047fe02d54",
+    "title_en": "DA Davidson raises Procore stock price target on margin outlook",
+    "summary_en": "",
+    "title_zh": "DA Davidson 因獲利前景提高 Procore 股價目標",
+    "summary_zh": ""
+  },
+  {
+    "title": "DA Davidson cuts AGCO stock price target to $151 on ag headwinds",
+    "url": "https://www.investing.com/news/analyst-ratings/da-davidson-cuts-agco-stock-price-target-to-151-on-ag-headwinds-93CH-4828926",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-31T23:38:50+08:00",
+    "stocks": [],
+    "uid": "e429babdafd9c5426ec1bfebcc13ffa3",
+    "title_en": "DA Davidson cuts AGCO stock price target to $151 on ag headwinds",
+    "summary_en": "",
+    "title_zh": "由於農業逆風，DA Davidson 將愛科股價目標下調至 151 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "DA Davidson cuts O’Reilly Automotive stock price target on margin concerns",
+    "url": "https://www.investing.com/news/analyst-ratings/da-davidson-cuts-oreilly-automotive-stock-price-target-on-margin-concerns-93CH-4828925",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-31T23:38:48+08:00",
+    "stocks": [],
+    "uid": "a1b00b9abf5064ae788716cb432955c4",
+    "title_en": "DA Davidson cuts O’Reilly Automotive stock price target on margin concerns",
+    "summary_en": "",
+    "title_zh": "DA Davidson 因利潤率擔憂下調 O’Reilly Automotive 股價目標",
+    "summary_zh": ""
+  },
+  {
+    "title": "JFrog stock holds at buy as DA Davidson cites AI cloud tailwinds",
+    "url": "https://www.investing.com/news/analyst-ratings/jfrog-stock-holds-at-buy-as-da-davidson-cites-ai-cloud-tailwinds-93CH-4828924",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-31T23:38:48+08:00",
+    "stocks": [],
+    "uid": "4a8b53e46ce5aa678ae2214675d9c508",
+    "title_en": "JFrog stock holds at buy as DA Davidson cites AI cloud tailwinds",
+    "summary_en": "",
+    "title_zh": "DA Davidson 稱人工智慧雲端有利，JFrog 股票維持買入狀態",
+    "summary_zh": ""
+  },
+  {
+    "title": "Weyerhaeuser Q2 2026 slides: lumber recovery drives earnings beat",
+    "url": "https://www.investing.com/news/company-news/weyerhaeuser-q2-2026-slides-lumber-recovery-drives-earnings-beat-93CH-4828923",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-31T23:36:31+08:00",
+    "stocks": [],
+    "uid": "2c2716c03ec9d6eaef1572b8cd0ef758",
+    "title_en": "Weyerhaeuser Q2 2026 slides: lumber recovery drives earnings beat",
+    "summary_en": "",
+    "title_zh": "惠好 (Weyerhaeuser) 2026 年第二季業績下滑：木材復甦推動獲利好轉",
+    "summary_zh": ""
+  },
+  {
+    "title": "Earnings call transcript: Cousins Properties tops Q2 2026 estimates, lifts outlook",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-cousins-properties-tops-q2-2026-estimates-lifts-outlook-93CH-4828922",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-31T23:36:11+08:00",
+    "stocks": [],
+    "uid": "3acb8c7c7ef1e3733bf0e72441c0de6a",
+    "title_en": "Earnings call transcript: Cousins Properties tops Q2 2026 estimates, lifts outlook",
+    "summary_en": "",
+    "title_zh": "財報電話會議紀錄：Cousins Properties 超越 2026 年第二季預期，調高前景",
+    "summary_zh": ""
+  },
+  {
+    "title": "Union Jack shareholders holding 14% oppose Reabold takeover bid",
+    "url": "https://www.investing.com/news/company-news/union-jack-shareholders-holding-14-oppose-reabold-takeover-bid-93CH-4828920",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-31T23:34:37+08:00",
+    "stocks": [],
+    "uid": "0865495685026842576723bedbefde41",
+    "title_en": "Union Jack shareholders holding 14% oppose Reabold takeover bid",
+    "summary_en": "",
+    "title_zh": "持有 14% 股份的 Union Jack 股東反對 Reabold 收購要約",
+    "summary_zh": ""
+  },
+  {
+    "title": "Companies Rush to Close Daring Deals Under Trump",
+    "url": "https://www.nytimes.com/2026/07/31/business/corporate-mergers-deals-trump.html",
+    "source": "NYT Business",
+    "summary": "Companies are seizing on what many say is perhaps the most favorable regulatory environment for businesses in years.",
+    "published_at": "2026-07-31T23:34:31+08:00",
+    "stocks": [],
+    "uid": "fc7f06776f707464e7fa32c5332c1ccf",
+    "title_en": "Companies Rush to Close Daring Deals Under Trump",
+    "summary_en": "Companies are seizing on what many say is perhaps the most favorable regulatory environment for businesses in years.",
+    "title_zh": "川普領導下的公司紛紛完成大膽交易",
+    "summary_zh": "許多公司正在抓住可能是多年來對企業最有利的監管環境。"
+  },
+  {
+    "title": "Reddit stock tumbles the most on record as lack of new AI deals, US daily users metric disappoints",
+    "url": "https://finance.yahoo.com/markets/article/reddit-stock-tumbles-the-most-on-record-as-lack-of-new-ai-deals-us-daily-users-metric-disappoints-153413759.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-31T23:34:13+08:00",
+    "stocks": [],
+    "uid": "5fb640fa4a83bcc6a01cf4dca820bd5e",
+    "title_en": "Reddit stock tumbles the most on record as lack of new AI deals, US daily users metric disappoints",
+    "summary_en": "",
+    "title_zh": "由於缺乏新的人工智慧交易，Reddit 股價創歷史新高，美國每日用戶指標令人失望",
+    "summary_zh": ""
+  },
+  {
+    "title": "Earnings call transcript: ABB India posts strong Q2 2026 orders as margins tighten",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-abb-india-posts-strong-q2-2026-orders-as-margins-tighten-93CH-4828919",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-31T23:33:34+08:00",
+    "stocks": [],
+    "uid": "888bf048f7efbeddbf259bac966e9101",
+    "title_en": "Earnings call transcript: ABB India posts strong Q2 2026 orders as margins tighten",
+    "summary_en": "",
+    "title_zh": "財報電話會議記錄：隨著利潤收緊，ABB 印度 2026 年第二季訂單強勁",
+    "summary_zh": ""
+  },
+  {
+    "title": "DA Davidson cuts Hershey stock price target on competitive concerns",
+    "url": "https://www.investing.com/news/analyst-ratings/da-davidson-cuts-hershey-stock-price-target-on-competitive-concerns-93CH-4828918",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-31T23:32:51+08:00",
+    "stocks": [],
+    "uid": "03f9c7afa9c6992fb9ad77ecccfbb24c",
+    "title_en": "DA Davidson cuts Hershey stock price target on competitive concerns",
+    "summary_en": "",
+    "title_zh": "出於競爭擔憂，DA Davidson 下調了好時股價目標",
+    "summary_zh": ""
+  },
+  {
+    "title": "Chime plans 10% job cuts on AI gains - Bloomberg",
+    "url": "https://www.investing.com/news/stock-market-news/chime-plans-10-job-cuts-on-ai-gains--bloomberg-93CH-4828917",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-07-31T23:32:49+08:00",
+    "stocks": [],
+    "uid": "ce7e5327f9183a27a4e73f0aaf498915",
+    "title_en": "Chime plans 10% job cuts on AI gains - Bloomberg",
+    "summary_en": "",
+    "title_zh": "Chime 計劃因 AI 進步而裁員 10% - 彭博社",
+    "summary_zh": ""
+  },
+  {
+    "title": "Circle Lands New York Trust Charter as Stablecoin Issuer Expands Regulatory Footprint",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/circle-lands-york-trust-charter-153202072.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-31T23:32:02+08:00",
+    "stocks": [],
+    "uid": "5a53d9634fe3a8b6353fd950293a7b5e",
+    "title_en": "Circle Lands New York Trust Charter as Stablecoin Issuer Expands Regulatory Footprint",
+    "summary_en": "",
+    "title_zh": "隨著穩定幣發行人擴大監管範圍，Circle 獲得紐約信託憲章",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why Starbucks CEO says the pumpkin spice latte won't be on the menu year-round",
+    "url": "https://finance.yahoo.com/markets/article/why-starbucks-ceo-says-the-pumpkin-spice-latte-wont-be-on-the-menu-year-round-153050808.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-31T23:30:50+08:00",
+    "stocks": [],
+    "uid": "4d41be24924c32f75c2a70ec6db32301",
+    "title_en": "Why Starbucks CEO says the pumpkin spice latte won't be on the menu year-round",
+    "summary_en": "",
+    "title_zh": "為什麼星巴克執行長表示南瓜香料拿鐵不會全年出現在菜單上",
+    "summary_zh": ""
+  },
+  {
+    "title": "A Turnaround Is Brewing At Starbucks. Here’s Where It’ll End The Year",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/turnaround-brewing-starbucks-where-ll-153044353.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-31T23:30:44+08:00",
+    "stocks": [],
+    "uid": "e0b7fcd10d9c974801070e33bd929d55",
+    "title_en": "A Turnaround Is Brewing At Starbucks. Here’s Where It’ll End The Year",
+    "summary_en": "",
+    "title_zh": "星巴克正在醞釀扭轉局勢。這是今年結束的地方",
+    "summary_zh": ""
+  },
+  {
+    "title": "Cencora (COR) Remains Attractive Despite Temporary Headwinds",
+    "url": "https://finance.yahoo.com/healthcare/articles/cencora-cor-remains-attractive-despite-153023210.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-31T23:30:23+08:00",
+    "stocks": [
+      "COR"
+    ],
+    "uid": "ee464459c7247bb6965ae6c041a684b2",
+    "title_en": "Cencora (COR) Remains Attractive Despite Temporary Headwinds",
+    "summary_en": "",
+    "title_zh": "儘管遇到暫時的阻力，Cencora (COR) 仍然具有吸引力",
+    "summary_zh": ""
+  },
+  {
+    "title": "Credit union vs. bank mortgage: How to choose",
+    "url": "https://finance.yahoo.com/news/credit-union-vs-bank-mortgage-125728226.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-31T23:29:31+08:00",
+    "stocks": [],
+    "uid": "d0f005bf7035ed9e646ce94c7590a372",
+    "title_en": "Credit union vs. bank mortgage: How to choose",
+    "summary_en": "",
+    "title_zh": "信用社與銀行抵押貸款：如何選擇",
+    "summary_zh": ""
+  },
+  {
+    "title": "Robinhood's New Blockchain Has Tripled in Size Since Mid-July. Is This a Game-Changer for Robinhood Stock?",
+    "url": "https://www.fool.com/investing/2026/07/31/robinhoods-new-blockchain-has-tripled-in-size-sinc/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "More investors are trading tokenized stocks on its new blockchain.",
+    "published_at": "2026-07-31T23:28:54+08:00",
+    "stocks": [],
+    "uid": "d68ecf34a72a27af8aa152f040d3f841",
+    "title_en": "Robinhood's New Blockchain Has Tripled in Size Since Mid-July. Is This a Game-Changer for Robinhood Stock?",
+    "summary_en": "More investors are trading tokenized stocks on its new blockchain.",
+    "title_zh": "自 7 月中旬以來，Robinhood 的新區塊鏈規模已增加兩倍。這是羅賓漢股票的遊戲規則改變者嗎？",
+    "summary_zh": "更多投資者在其新區塊鏈上交易代幣化股票。"
+  },
+  {
+    "title": "The Hardest Money Problem in Retirement Isn’t Saving $500,000. It’s Turning It Into a Monthly Paycheck",
+    "url": "https://finance.yahoo.com/markets/currencies/articles/hardest-money-problem-retirement-isn-152754278.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-31T23:27:54+08:00",
+    "stocks": [],
+    "uid": "13534c2fb7f8be54e81cd38b0adab1e7",
+    "title_en": "The Hardest Money Problem in Retirement Isn’t Saving $500,000. It’s Turning It Into a Monthly Paycheck",
+    "summary_en": "",
+    "title_zh": "退休時最困難的金錢問題不是存下 50 萬美元。它把它變成了每月的薪水",
+    "summary_zh": ""
+  },
+  {
+    "title": "Strategy reports wider-than-expected Q2 loss amid Bitcoin volatility",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/strategy-reports-wider-expected-q2-152700303.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-31T23:27:00+08:00",
+    "stocks": [],
+    "uid": "0d4de97173989d227e8c54aacf65bfde",
+    "title_en": "Strategy reports wider-than-expected Q2 loss amid Bitcoin volatility",
+    "summary_en": "",
+    "title_zh": "策略報告稱，由於比特幣波動，第二季虧損超出預期",
+    "summary_zh": ""
+  },
+  {
+    "title": "Data Center Builder Leaps 31% On Earnings As AI Trade Divides",
+    "url": "https://www.investors.com/news/data-center-ai-artificial-intelligence-ies-holdings-quanta-mastec-tech-microsoft-amazon/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-31T23:26:56+08:00",
+    "stocks": [],
+    "uid": "1e8b5328c83fe5cd21bab6e5bd0c5122",
+    "title_en": "Data Center Builder Leaps 31% On Earnings As AI Trade Divides",
+    "summary_en": "",
+    "title_zh": "隨著人工智慧貿易的分化，資料中心建築商的獲利成長了 31%",
+    "summary_zh": ""
+  },
+  {
+    "title": "Microsoft shares are surging. Here’s how to still make money, says Mike Khouw",
+    "url": "https://www.cnbc.com/2026/07/31/microsoft-shares-are-surging-heres-how-to-still-make-money-says-mike-khouw.html",
+    "source": "CNBC Top",
+    "summary": "Following Microsoft's (MSFT) Q4 earnings and record-setting appreciation, the immediate binary event risk is officially behind us.",
+    "published_at": "2026-07-31T23:26:31+08:00",
+    "stocks": [
+      "MSFT"
+    ],
+    "uid": "4c141b8a060f3b368dd0398784c5ad4a",
+    "title_en": "Microsoft shares are surging. Here’s how to still make money, says Mike Khouw",
+    "summary_en": "Following Microsoft's (MSFT) Q4 earnings and record-setting appreciation, the immediate binary event risk is officially behind us.",
+    "title_zh": "微軟股價飆升。麥克‧庫烏 (Mike Khouw) 表示，以下是仍然可以賺錢的方法",
+    "summary_zh": "在微軟 (MSFT) 第四季獲利和創紀錄的升值之後，眼前的二元事件風險正式成為過去。"
+  },
+  {
+    "title": "Business loan requirements: 9 things you will need",
+    "url": "https://finance.yahoo.com/news/business-loan-requirements-8-things-192327728.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-31T23:25:23+08:00",
+    "stocks": [],
+    "uid": "59c189946ca5b6fb702efdf4dd019e89",
+    "title_en": "Business loan requirements: 9 things you will need",
+    "summary_en": "",
+    "title_zh": "商業貸款要求：您需要的 9 件事",
+    "summary_zh": ""
+  },
+  {
+    "title": "Oklo vs. NuScale vs. Bloom Energy: Which AI-Power Stock Is the Better Buy Now?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-vs-nuscale-vs-bloom-152500656.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-31T23:25:00+08:00",
+    "stocks": [],
+    "uid": "1618c14e6a644217e8adcd56747f2a24"
+  },
+  {
+    "title": "Datadog (DDOG) Rose on Accelerating Growth and AI-Driven Demand",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/datadog-ddog-rose-accelerating-growth-152322798.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-31T23:23:22+08:00",
+    "stocks": [
+      "DDOG"
+    ],
+    "uid": "cacbc0debf1dc47eff8b12976f850629"
+  },
+  {
+    "title": "Why Braze Stock Recovered 15% This Week",
+    "url": "https://www.fool.com/investing/2026/07/31/why-braze-stock-recovered-15-this-week/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Any stock considered a part of the AI theme has been rebounding this week.",
+    "published_at": "2026-07-31T23:23:08+08:00",
+    "stocks": [],
+    "uid": "6f6111be9e0169985b32802269fdb187"
+  },
+  {
+    "title": "Average auto loan interest rates by credit score in 2026",
+    "url": "https://finance.yahoo.com/news/average-car-loan-interest-rates-212521067.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-31T23:21:32+08:00",
+    "stocks": [],
+    "uid": "b37110377413dd3a1114a5a85f0760a2"
+  },
+  {
+    "title": "Why do mortgages get sold? And what you can do about it?",
+    "url": "https://finance.yahoo.com/news/why-mortgage-gets-sold-144001081.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-31T23:18:28+08:00",
+    "stocks": [],
+    "uid": "6fc22c6bdc1d3f41118d2037e325e166"
+  },
+  {
+    "title": "HSAs can be a great retirement tool – if you’re healthy or wealthy",
+    "url": "https://www.marketwatch.com/story/hsas-can-be-a-great-retirement-tool-if-youre-healthy-or-wealthy-5a3e2991?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Health savings accounts can offset healthcare costs in your old age. But most people can’t afford to wait.",
+    "published_at": "2026-07-31T23:16:00+08:00",
+    "stocks": [],
+    "uid": "b8b001496e83e57fa2e6bba1f965a514"
+  },
+  {
+    "title": "Which MLP ETF Is the Better Buy: Global X's MLPX or Alerian's AMLP?",
+    "url": "https://www.fool.com/coverage/etfs/2026/07/31/which-mlp-etf-is-the-better-buy-global-x-s-mlpx-or-alerian-s-amlp/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "AMLP's yield looks attractive on the surface, but a hidden tax structure has been costing long-term investors far more than they may realize.",
+    "published_at": "2026-07-31T23:15:58+08:00",
+    "stocks": [],
+    "uid": "e8a524e5b0621637aed007f8748919c6"
+  },
+  {
+    "title": "How to get an emergency loan with bad credit",
+    "url": "https://finance.yahoo.com/news/emergency-loan-bad-credit-050028875.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-31T23:12:45+08:00",
+    "stocks": [],
+    "uid": "136df92d8d067d2fe116bf88961fd280"
+  },
+  {
+    "title": "What is a foreclosure?",
+    "url": "https://finance.yahoo.com/news/foreclosure-works-avoid-185329423.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-31T23:10:39+08:00",
+    "stocks": [],
+    "uid": "b9fce5a819008c7ebc31ffd6e1cbfa00"
+  },
+  {
+    "title": "Stock Market Checklist Helps Uncover Winners In Hot Biotechs",
+    "url": "https://www.investors.com/how-to-invest/investors-corner/stock-market-checklist-uncovers-biotech-winners/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-31T23:09:28+08:00",
+    "stocks": [],
+    "uid": "150fd9a414717f728ae6e0e1ef94715a"
+  },
+  {
+    "title": "Travel delay insurance: What's covered and what's not",
+    "url": "https://finance.yahoo.com/personal-finance/insurance/article/travel-delay-insurance-150541453.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-31T23:05:41+08:00",
+    "stocks": [],
+    "uid": "4bceb6252be29ce575a3e192f0181d9a"
+  },
+  {
+    "title": "Oklo vs. NuScale vs. Bloom Energy: Which AI-Power Stock Is the Better Buy Now?",
+    "url": "https://www.fool.com/investing/2026/07/31/oklo-vs-nuscale-vs-bloom-energy-which-ai-power-sto/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Bloom is making money in the here and now, while Oklo and NuScale are not.",
+    "published_at": "2026-07-31T23:05:00+08:00",
+    "stocks": [],
+    "uid": "3d84976231fb7eabb839eadd6eccb244"
+  },
+  {
+    "title": "Fed hawks push yields higher, stocks give back gains",
+    "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-surge-yen-spotlight-013146618.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-31T23:03:58+08:00",
+    "stocks": [],
+    "uid": "f6430465f13ebd96f167976a5cc9a532"
+  },
+  {
+    "title": "Trillion Dollar Tokenization Opportunity: Equiniti CEO Dan Kramer, Live at Nasdaq",
+    "url": "https://finance.yahoo.com/technology/ai/articles/trillion-dollar-tokenization-opportunity-equiniti-150304995.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-31T23:03:04+08:00",
+    "stocks": [],
+    "uid": "1566c472069b2ed871c6374004188ccd"
+  },
+  {
+    "title": "Why Dolby Labs Stock Popped Today",
+    "url": "https://www.fool.com/investing/2026/07/31/why-dolby-labs-stock-popped-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Dolby's growth sputters, but investors buy the audio stock anyway.",
+    "published_at": "2026-07-31T23:02:09+08:00",
+    "stocks": [],
+    "uid": "845d5273e6c01b475b872c0aeef8472b"
+  },
+  {
+    "title": "Down 50%, Is It Time to Buy Sofi Stock Again?",
+    "url": "https://www.fool.com/investing/2026/07/31/down-50-is-it-time-to-buy-sofi-stock-again/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "SoFi shares are down by half since peaking in 2025, but the business is doing extremely well.",
+    "published_at": "2026-07-31T23:02:00+08:00",
+    "stocks": [],
+    "uid": "a174bdd5e8638536e996f946be8227cb"
+  },
+  {
+    "title": "Meta Dropped, Amazon and Microsoft Rallied: Don’t Panic, Accumulate",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/meta-dropped-amazon-microsoft-rallied-150037870.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-31T23:00:37+08:00",
+    "stocks": [],
+    "uid": "2d1ab0e59f5f9f534efc8271f33eaace"
+  },
+  {
+    "title": "Cadence Design Systems (CDNS): Agentic Capabilities Improve New Growth Engine",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cadence-design-systems-cdns-agentic-150033165.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-31T23:00:33+08:00",
+    "stocks": [
+      "CDNS"
+    ],
+    "uid": "9b4ab62331ebf1095a1d4a1be8fdc8c1"
+  },
+  {
+    "title": "Where Will IonQ Be in 1 Year?",
+    "url": "https://www.fool.com/investing/2026/07/31/where-will-ionq-be-in-1-year/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "It has been the most commercially successful pure-play quantum computing company, and it just made a major acquisition.",
+    "published_at": "2026-07-31T23:00:00+08:00",
+    "stocks": [],
+    "uid": "684800777adff1bdb4042cef95d52ccf"
+  },
+  {
+    "title": "AMD Stock Rebounds With Chips Ahead Of Q2 Report; SpaceX Earnings, Lockup Expiration Loom Large",
+    "url": "https://www.investors.com/research/earnings-preview/amd-stock-rebounds-chips-q2-earnings-shop-ddog-net-software-earnings/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-31T22:59:15+08:00",
+    "stocks": [],
+    "uid": "e3646a6275d3f23c6bd7b474b3342692"
+  },
+  {
+    "title": "Why Shares of Itron Stock Jumped 17.4% This Week",
+    "url": "https://www.fool.com/investing/2026/07/31/why-shares-of-itron-stock-jumped-174-this-week/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The company reported strong earnings results.",
+    "published_at": "2026-07-31T22:57:12+08:00",
+    "stocks": [],
+    "uid": "8b4392ba41dc8812aa976154018c4329"
+  },
+  {
+    "title": "Which Healthcare ETF Is the Better Buy: Fidelity's FHLC or Invesco's Equal-Weight RSPH?",
+    "url": "https://www.fool.com/coverage/etfs/2026/07/31/which-healthcare-etf-is-the-better-buy-fidelity-s-fhlc-or-invesco-s-equal-weight-rsph/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "FHLC's 0.08% expense ratio and market-cap approach delivered stronger returns, while RSPH's equal-weight strategy offers lower volatility and broader diversification across 60 holdings.",
+    "published_at": "2026-07-31T22:55:36+08:00",
+    "stocks": [],
+    "uid": "c89d348a32223c98c6e23da37d36bed4"
+  },
+  {
+    "title": "6 crucial money lessons Gen Z isn’t getting from their parents",
+    "url": "https://www.marketwatch.com/story/congrats-gen-z-youre-turning-30-here-are-the-most-important-money-moves-to-make-next-9e30bb0a?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Your parents may have shared advice that was fine when they were 30, but “the world has changed significantly” since then.",
+    "published_at": "2026-07-31T22:52:00+08:00",
+    "stocks": [],
+    "uid": "a0ad6024c582b83003f54e4808f56f2a"
+  },
+  {
+    "title": "A spot is opening up in the S&P 500, and these stocks are top candidates to fill the void",
+    "url": "https://www.marketwatch.com/story/a-spot-is-opening-up-in-the-s-p-500-and-these-stocks-are-top-candidates-to-fill-the-void-5e72dd5d?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Videogame publisher EA is set to be taken private, opening the door for a new company to join the benchmark index.",
+    "published_at": "2026-07-31T22:51:00+08:00",
+    "stocks": [],
+    "uid": "247d95b45e2ac3137d10092cb4ff0b35"
+  },
+  {
+    "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days",
+    "url": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
+    "source": "CNBC Finance",
+    "summary": "Leopold Aschenbrenner, a former OpenAI researcher-turned-hedge fund manager, saw a dramatic decline this week in his AI-focused fund, Situational Awareness.",
+    "published_at": "2026-07-31T22:44:44+08:00",
+    "stocks": [],
+    "uid": "fb241fda2223759fd0148e8b59c6ed8b"
+  },
+  {
+    "title": "U.S. lawmakers request information from DoorDash on use of Chinese AI models",
+    "url": "https://www.cnbc.com/2026/07/31/us-lawmakers-doordash-chinese-ai-models.html",
+    "source": "CNBC Top",
+    "summary": "The food delivery company is the latest to be asked to share details of AI use by a House Committee joint investigation.",
+    "published_at": "2026-07-31T22:40:44+08:00",
+    "stocks": [],
+    "uid": "a970a904eb7dfbbc0e3fdae16481958c"
+  },
+  {
+    "title": "Lemonade's Full-Year In-Force Premium Outlook Misses Expectations. Is the Growth Story Slowing or Just Repricing?",
+    "url": "https://www.fool.com/investing/2026/07/31/lemonade-cut-its-full-year-in-force-premium-outloo/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The AI-powered online insurer barely missed Wall Street's aggressive estimates.",
+    "published_at": "2026-07-31T22:27:19+08:00",
+    "stocks": [],
+    "uid": "f7d85d92532899ffa7b62fad6dc60ea7"
+  },
+  {
+    "title": "Amazon’s stock rides booming cloud growth toward best day in 11 years",
+    "url": "https://www.marketwatch.com/story/amazons-stock-rides-booming-cloud-growth-toward-best-day-in-11-years-cc8b7e95?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "AWS “finally saw the long-awaited growth inflection,” an analyst noted.",
+    "published_at": "2026-07-31T22:26:00+08:00",
+    "stocks": [],
+    "uid": "8c97e8da950e8a7568b64a920e3fc9b3"
+  },
+  {
+    "title": "Not Micron, Not Sandisk. This Chip Stock Could Be the Biggest Winner of the AI Memory Boom",
+    "url": "https://www.fool.com/investing/2026/07/31/not-micron-not-sandisk-this-chip-stock-could-be-th/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Lam Research gets a nice chunk of its revenue from sales of memory manufacturing equipment, and that's great news for its future.",
+    "published_at": "2026-07-31T22:23:00+08:00",
+    "stocks": [],
+    "uid": "16c54c51a926eae4c255541ae66eadb5"
+  },
+  {
+    "title": "If I Could Tell Every Investor 1 Thing About the Stock Market Right Now, It's This",
+    "url": "https://www.fool.com/investing/2026/07/31/tell-every-investor-1-thing-stock-market-right-now/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "It's always a good idea for investors to work on improving their temperament.",
+    "published_at": "2026-07-31T22:23:00+08:00",
+    "stocks": [],
+    "uid": "e0df7fc77912e1720699b24a0a42eae8"
+  },
+  {
+    "title": "1 Unstoppable Dividend ETF Up 26% in 2026 to Buy and Hold for the Next 20 Years",
+    "url": "https://www.fool.com/investing/2026/07/31/1-unstoppable-dividend-etf-buy-and-hold-20-years/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This popular investment vehicle is leaving the S&amp;P 500 index in the dust in 2026.",
+    "published_at": "2026-07-31T22:18:00+08:00",
+    "stocks": [],
+    "uid": "fdd7b84af64f5a0b38cf414569f837b3"
+  },
+  {
+    "title": "Silver Is Down Big From Its Peak. Is Now the Time to Buy the Dip?",
+    "url": "https://www.fool.com/investing/2026/07/31/silver-is-down-big-from-its-peak-is-now-the-time/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Silver has fallen by half from its January high, in part due to investor nervousness about AI data centers.",
+    "published_at": "2026-07-31T22:05:00+08:00",
+    "stocks": [],
+    "uid": "0489729734047a52781b4d8e8eaaa9a4"
+  },
+  {
+    "title": "Which Consumer Staples ETF Is the Better Buy: Fidelity's FSTA or iShares' IYK?",
+    "url": "https://www.fool.com/coverage/etfs/2026/07/31/which-consumer-staples-etf-is-the-better-buy-fidelity-s-fsta-or-ishares-iyk/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "FSTA's lower 0.08% fee contrasts with IYK's broader sector exposure and higher dividend yield, creating distinct trade-offs for defensive investors.",
+    "published_at": "2026-07-31T22:01:57+08:00",
+    "stocks": [],
+    "uid": "5b0b1ee57a3f71cde45ea8e562c1f894"
+  },
+  {
+    "title": "Here’s what’s worth streaming in August 2026 on Netflix, Hulu, HBO Max and more",
+    "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-august-2026-on-netflix-hulu-hbo-max-and-more-21b78a08?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Turn off your brain and enjoy new seasons of Apple’s ‘Ted Lasso,’ Amazon’s ‘Reacher,’ Netflix’s ‘Outer Banks’ and much more",
+    "published_at": "2026-07-31T22:00:00+08:00",
+    "stocks": [],
+    "uid": "cb4531d21c8cc68b5ce41ff10c66bfb4"
+  },
+  {
+    "title": "Novo Nordisk’s stock slumps after failed trial — adding to the company’s woes",
+    "url": "https://www.marketwatch.com/story/novo-nordisks-stock-slumps-after-failed-trial-adding-to-the-companys-woes-202419cd?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The Danish healthcare company’s stock slumped on Friday after it announced the Phase 3 trial failure.",
+    "published_at": "2026-07-31T21:54:00+08:00",
+    "stocks": [],
+    "uid": "fbc4a39b3b571679a14abc6c56a937e9"
+  },
+  {
+    "title": "Is CoreWeave Stock a Buy After a Company Insider Shed 6,455 Shares?",
+    "url": "https://www.fool.com/coverage/filings/2026/07/31/is-coreweave-stock-a-buy-after-a-company-insider-shed-6-455-shares/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The company's principal accounting officer executed a non-discretionary sale tied to RSU vesting, maintaining 7,167 direct shares and 100,000 derivative securities.",
+    "published_at": "2026-07-31T21:51:08+08:00",
+    "stocks": [],
+    "uid": "d42b6e733bb52cf3f272c994dd939603"
+  },
+  {
+    "title": "Don't Have Time to Invest? Buy This ETF and Call It a Day.",
+    "url": "https://www.fool.com/investing/2026/07/31/dont-have-time-to-invest-buy-this-etf-and-call-it/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "There's one easy way to put your money to work without taking up a lot of time.",
+    "published_at": "2026-07-31T21:48:00+08:00",
+    "stocks": [],
+    "uid": "ba5ddc1c15a50cef1f309687e42d9c09"
+  },
+  {
+    "title": "Coinbase CEO Brian Armstrong Says Crypto Firms Should Stop Pivoting to AI. Here's Why He's Wrong.",
+    "url": "https://www.fool.com/investing/2026/07/31/coinbase-ceo-brian-armstrong-says-crypto-firms-sho/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "It makes more sense to pivot toward AI than to dabble in volatile cryptocurrencies.",
+    "published_at": "2026-07-31T21:40:23+08:00",
+    "stocks": [],
+    "uid": "b0f0b13fcbc8fcf6cbb355b8193c795b"
+  },
+  {
     "title": "GM to launch its own in-vehicle AI system later this year",
     "url": "https://www.cnbc.com/2026/07/31/gm-in-vehicle-ai-system.html",
     "source": "CNBC Top",
@@ -11,6 +686,15 @@
     "summary_en": "General Motors plans to launch a proprietary in-vehicle artificial intelligence system that's better tailored for its customers later this year.",
     "title_zh": "通用汽車將於今年稍晚推出自己的車載人工智慧系統",
     "summary_zh": "通用汽車計劃在今年稍後推出更適合其客戶的專有車載人工智慧系統。"
+  },
+  {
+    "title": "Leonardo expects more deals as Europe ramps up defense spending",
+    "url": "https://www.cnbc.com/2026/07/31/leonardo-defense-acquisitions.html",
+    "source": "CNBC Top",
+    "summary": "Leonardo is eyeing further M&amp;A as it races to expand capabilities and meet surging defense demand after raising its 2026 outlook.",
+    "published_at": "2026-07-31T21:37:46+08:00",
+    "stocks": [],
+    "uid": "ace5f6536161bc4ab308eec6fa88bb2e"
   },
   {
     "title": "Novo Nordisk shares dive after heart medicine fails trial, dealing another blow to its  pipeline",
@@ -153,6 +837,15 @@
     "summary_zh": ""
   },
   {
+    "title": "Netflix Is Down 46% -- Here's Why I'm Buying More",
+    "url": "https://www.fool.com/investing/2026/07/31/netflix-is-down-46-heres-why-im-buying-more/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "It all comes down to one metric worth watching.",
+    "published_at": "2026-07-31T21:30:00+08:00",
+    "stocks": [],
+    "uid": "45d48ddf29130632b06810621db88386"
+  },
+  {
     "title": "Fortis Q2 2026 slides: $2B LNG expansion approved, 7% rate base growth",
     "url": "https://www.investing.com/news/company-news/fortis-q2-2026-slides-2b-lng-expansion-approved-7-rate-base-growth-93CH-4828471",
     "source": "Investing.com",
@@ -164,6 +857,15 @@
     "summary_en": "",
     "title_zh": "富通集團 2026 年第二季投影片：20 億美元液化天然氣擴建計畫獲得批准，基礎成長率為 7%",
     "summary_zh": ""
+  },
+  {
+    "title": "Is Tempus AI Stock a Buy After Its CEO Sold 250,000 Shares?",
+    "url": "https://www.fool.com/coverage/filings/2026/07/31/is-tempus-ai-stock-a-buy-after-its-ceo-sold-250-000-shares/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Tempus AI's founder-CEO reduced an indirect stake by about 4% through a pre-scheduled trading plan, retaining roughly 6.5 million shares as the company pursues a major acquisition.",
+    "published_at": "2026-07-31T21:27:28+08:00",
+    "stocks": [],
+    "uid": "9f3cf9e2da6c42d799d6a261997c4ee8"
   },
   {
     "title": "Dwindling cash and soaring memory costs: Tech's AI buildout has ballooning price tag",
@@ -229,6 +931,15 @@
     "summary_en": "AI is reshaping a historically cyclical market, but one major risk could still undermine the bull case. See what may determine Micron's next move.",
     "title_zh": "美光的記憶體週期這次可能不同的真正原因",
     "summary_zh": "人工智慧正在重塑歷史上週期性的市場，但一個主要風險仍可能破壞多頭市場。看看什麼可能決定美光科技的下一步。"
+  },
+  {
+    "title": "34-year-old CEO bet on AI video 5 years before ChatGPT—convincing Mark Cuban to invest was the easy part",
+    "url": "https://www.cnbc.com/2026/07/31/ceo-bet-on-ai-video-years-before-chatgptnow-his-startup-is-worth-billions.html",
+    "source": "CNBC Top",
+    "summary": "Victor Riparbelli launched Synthesia in 2017 to help people 'make a Hollywood film from a laptop.' After four years of middling results, he made a major shift.",
+    "published_at": "2026-07-31T21:05:01+08:00",
+    "stocks": [],
+    "uid": "5460da1f54b61d3560d3dd06918f6b6c"
   },
   {
     "title": "Berkshire Hathaway Now Owns $16.3 Billion of This 1 Energy Stock. Should You Follow?",
@@ -1379,6 +2090,15 @@
     "summary_en": "Everyone is chasing AI chips, but the biggest investing opportunity may be hiding in the memory shortage powering the entire AI revolution.",
     "title_zh": "為什麼人工智慧記憶體短缺才剛開始（以及誰會從中受益）",
     "summary_zh": ""
+  },
+  {
+    "title": "Stock market today: Dow, S&P 500, Nasdaq seesaw as 10-year yield surges, Big Tech's AI spending ramps up",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-31-dow-sp-500-nasdaq-081227738.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-31T16:12:27+08:00",
+    "stocks": [],
+    "uid": "7fe3b769f37be047ae0bc006df2dc098"
   },
   {
     "title": "The Federal Reserve's Latest Interest Rate Decision Featured Something We Haven't Seen in 10 Years, and It Should Rightly Worry Wall Street",
@@ -10018,6 +10738,15 @@
     "summary_en": "",
     "title_zh": "聯準會沃什表示通膨沒有“軟目標”，只有2%的目標",
     "summary_zh": ""
+  },
+  {
+    "title": "Rivian stock drops despite Q2 beat; R2 launch edition conversions stronger than expected, CEO says",
+    "url": "https://finance.yahoo.com/markets/stocks/article/rivian-stock-drops-despite-q2-beat-r2-launch-edition-conversions-stronger-than-expected-ceo-says-185442823.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-07-30T02:54:42+08:00",
+    "stocks": [],
+    "uid": "5dfccd515a1eaf7fe88c87d7ab152b52"
   },
   {
     "title": "Etsy stock hits 52-week high at 87.14 USD",
@@ -167097,6 +167826,15 @@
     "published_at": "2023-12-16T05:15:15+08:00",
     "stocks": [],
     "uid": "92448b3d0c22aaa22f6e140e5c5717a6"
+  },
+  {
+    "title": "Why are electric vehicle insurance costs so high?",
+    "url": "https://finance.yahoo.com/personal-finance/insurance/article/electric-vehicle-insurance-191417865.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2023-12-16T03:14:17+08:00",
+    "stocks": [],
+    "uid": "2e26d32e92a3b72f8dc4532aab6c5d1e"
   },
   {
     "title": "Why Uber Stock Popped on Tuesday",
