@@ -1,5 +1,94 @@
 [
   {
+    "title": "Clayton will take over as US intelligence chief on Monday, Pulte says",
+    "url": "https://www.investing.com/news/economy-news/clayton-set-to-take-over-as-top-us-spy-on-monday-pulte-says-4829640",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-02T01:42:25+08:00",
+    "stocks": [],
+    "uid": "56503da0f4284fa102c6cc3fa207b120",
+    "title_en": "Clayton will take over as US intelligence chief on Monday, Pulte says",
+    "summary_en": "",
+    "title_zh": "普爾特表示，克萊頓將於週一接任美國情報總監",
+    "summary_zh": ""
+  },
+  {
+    "title": "Trump disputes his own Justice Department’s findings on Reflecting Pool",
+    "url": "https://www.investing.com/news/politics-news/trump-disputes-his-own-justice-departments-findings-on-reflecting-pool-4829641",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-02T01:36:27+08:00",
+    "stocks": [],
+    "uid": "da82f46c508a01a2366d9f4dc11a2a96",
+    "title_en": "Trump disputes his own Justice Department’s findings on Reflecting Pool",
+    "summary_en": "",
+    "title_zh": "川普對司法部關於倒影池的調查結果提出異議",
+    "summary_zh": ""
+  },
+  {
+    "title": "Warren Buffett's Berkshire Hathaway Is Sounding a Warning. What History Tells Us.",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-berkshire-hathaway-sounding-173000045.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-02T01:30:00+08:00",
+    "stocks": [],
+    "uid": "7dbda11f4a149de0ab532a862a1ee2e1",
+    "title_en": "Warren Buffett's Berkshire Hathaway Is Sounding a Warning. What History Tells Us.",
+    "summary_en": "",
+    "title_zh": "華倫·巴菲特的伯克希爾·哈撒韋公司發出警告。歷史告訴我們什麼。",
+    "summary_zh": ""
+  },
+  {
+    "title": "Is Grail (GRAL) Stock a Buy, Sell, or Hold at Under $70?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/grail-gral-stock-buy-sell-172820956.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-02T01:28:20+08:00",
+    "stocks": [
+      "GRAL"
+    ],
+    "uid": "fe95877635d78388794f9e096fedbe4d",
+    "title_en": "Is Grail (GRAL) Stock a Buy, Sell, or Hold at Under $70?",
+    "summary_en": "",
+    "title_zh": "Grail (GRAL) 股票是在 70 美元以下買入、賣出還是持有？",
+    "summary_zh": ""
+  },
+  {
+    "title": "‘Spider-Man: Brand New Day’ Heads for $875 Million Opening at Global Box Office",
+    "url": "https://www.nytimes.com/2026/08/01/business/media/spider-man-box-office-superhero.html",
+    "source": "NYT Business",
+    "summary": "The movie, the 11th big-budget Spider-Man movie since 2002, was on pace to have one of the biggest domestic first weekends ever.",
+    "published_at": "2026-08-02T01:20:42+08:00",
+    "stocks": [],
+    "uid": "49a966dffbacc3baf5f823bb51951ad0",
+    "title_en": "‘Spider-Man: Brand New Day’ Heads for $875 Million Opening at Global Box Office",
+    "summary_en": "The movie, the 11th big-budget Spider-Man movie since 2002, was on pace to have one of the biggest domestic first weekends ever.",
+    "title_zh": "《蜘蛛人：嶄新的一天》全球首映票房可望達到 8.75 億美元",
+    "summary_zh": "這部電影是自 2002 年以來的第 11 部大製作蜘蛛人電影，有望成為有史以來國內首周末票房最高的電影之一。"
+  },
+  {
+    "title": "Gold Trust vs Silver Trust: Which Precious Metal ETF Should Win Investor Dollars?",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/gold-trust-vs-silver-trust-171701717.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-02T01:17:01+08:00",
+    "stocks": [],
+    "uid": "6354cee869e6a7ebc5c0d6fabb841578"
+  },
+  {
+    "title": "Health savings accounts can be a great retirement tool – if you’re healthy or wealthy",
+    "url": "https://finance.yahoo.com/healthcare/articles/health-savings-accounts-great-retirement-212800955.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-02T01:09:00+08:00",
+    "stocks": [],
+    "uid": "9b7a75568469bb5505ed32645eaf80a1",
+    "title_en": "Health savings accounts can be a great retirement tool – if you’re healthy or wealthy",
+    "summary_en": "",
+    "title_zh": "如果您健康或富有，健康儲蓄帳戶可以成為一個很好的退休工具",
+    "summary_zh": ""
+  },
+  {
     "title": "The Stock Market Has Made Me a Millionaire -- Thanks to One Vital Thing I Did (That You Can Do, Too)",
     "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-made-millionaire-thanks-163500317.html",
     "source": "Yahoo Finance",
@@ -1178,7 +1267,11 @@
     "summary": "",
     "published_at": "2026-08-01T19:30:00+08:00",
     "stocks": [],
-    "uid": "a5a02ebe7aa7ae6c23da9d063588210b"
+    "uid": "a5a02ebe7aa7ae6c23da9d063588210b",
+    "title_en": "Mark Cuban, Michael Burry raise the same red flag warning over giant US sector — is your nest egg at risk?",
+    "summary_en": "",
+    "title_zh": "馬克·庫班 (Mark Cuban) 和邁克爾·伯里 (Michael Burry) 對美國龐大的行業提出了同樣的危險信號——你的儲備金面臨風險嗎？",
+    "summary_zh": ""
   },
   {
     "title": "A SpaceX Earnings Preview: Starlink Growth, AI Costs, Starship Roadmap",
@@ -1226,7 +1319,11 @@
     "summary": "",
     "published_at": "2026-08-01T19:15:00+08:00",
     "stocks": [],
-    "uid": "60116e1afb316deac37a4066a621d993"
+    "uid": "60116e1afb316deac37a4066a621d993",
+    "title_en": "US stocks are at record highs, but everyday Americans are struggling. Why? And how can you profit from it?",
+    "summary_en": "",
+    "title_zh": "美國股市創歷史新高，但美國人的日常生活卻在苦苦掙扎。為什麼？您如何從中獲利？",
+    "summary_zh": ""
   },
   {
     "title": "InvestingPro Fair Value nails 64% return on Haemonetics stock",
@@ -1274,7 +1371,11 @@
     "summary": "",
     "published_at": "2026-08-01T19:05:00+08:00",
     "stocks": [],
-    "uid": "48238e8ba6e98d79e0be1fe16eb2ba1e"
+    "uid": "48238e8ba6e98d79e0be1fe16eb2ba1e",
+    "title_en": "Gold crashes from $5,500 to $4,160 since the Iran conflict began, but experts see a massive buying opportunity",
+    "summary_en": "",
+    "title_zh": "自伊朗衝突爆發以來，金價從 5,500 美元暴跌至 4,160 美元，但專家認為存在巨大的買入機會",
+    "summary_zh": ""
   },
   {
     "title": "InvestingPro spotted Tempus AI’s 43% decline 7 months in advance",
@@ -1556,7 +1657,11 @@
     "summary": "",
     "published_at": "2026-08-01T18:00:00+08:00",
     "stocks": [],
-    "uid": "2cb729afc9894b5a9c0405283ef659f4"
+    "uid": "2cb729afc9894b5a9c0405283ef659f4",
+    "title_en": "Best CD rates today, Saturday, August 1, 2026: Best CD account earns 4.10% APY",
+    "summary_en": "",
+    "title_zh": "今日最佳 CD 利率，2026 年 8 月 1 日星期六：最佳 CD 帳戶賺取 4.10% APY",
+    "summary_zh": ""
   },
   {
     "title": "Spain installs floating barrier in Ceuta after calm night following border rush",
@@ -2111,7 +2216,11 @@
     "summary": "",
     "published_at": "2026-08-01T14:03:00+08:00",
     "stocks": [],
-    "uid": "83ab838faf3e85838437afccd320fd94"
+    "uid": "83ab838faf3e85838437afccd320fd94",
+    "title_en": "J.P. Morgan drops Fed rate bombshell over Warsh, inflation",
+    "summary_en": "",
+    "title_zh": "摩根大通就沃什和通膨問題放棄了聯準會利率重磅炸彈",
+    "summary_zh": ""
   },
   {
     "title": "Form 4 First Financial Bancorp For: 1 August",
@@ -3474,7 +3583,11 @@
     "summary": "",
     "published_at": "2026-08-01T04:33:22+08:00",
     "stocks": [],
-    "uid": "2e02ea309b9eaf4644a953041c9e57c6"
+    "uid": "2e02ea309b9eaf4644a953041c9e57c6",
+    "title_en": "How to save $5,000 in 6 months",
+    "summary_en": "",
+    "title_zh": "如何在 6 個月內節省 5,000 美元",
+    "summary_zh": ""
   },
   {
     "title": "The Next Met Fashion Blockbuster and Gala Will Honor Controversial Designer John Galliano",
@@ -4029,7 +4142,11 @@
     "summary": "",
     "published_at": "2026-08-01T02:49:27+08:00",
     "stocks": [],
-    "uid": "f192fe6cc2d9926717b233b6ce4071e7"
+    "uid": "f192fe6cc2d9926717b233b6ce4071e7",
+    "title_en": "Why is LPL Financial stock surging today?",
+    "summary_en": "",
+    "title_zh": "為什麼LPL Financial股票今天飆漲？",
+    "summary_zh": ""
   },
   {
     "title": "Why is Edison International stock sliding today?",
@@ -4051,7 +4168,11 @@
     "summary": "Bond market investors may want to focus on the front of the yield curve, according to Allspring Global Investments’ Noah Wise.",
     "published_at": "2026-08-01T02:46:45+08:00",
     "stocks": [],
-    "uid": "9230ceb2e62ea04bda7a87cb930ac071"
+    "uid": "9230ceb2e62ea04bda7a87cb930ac071",
+    "title_en": "Investors may want to focus on front end of yield curve — as Street anticipates next Fed meetings",
+    "summary_en": "Bond market investors may want to focus on the front of the yield curve, according to Allspring Global Investments’ Noah Wise.",
+    "title_zh": "投資者可能希望關注殖利率曲線的前端——正如華爾街預計下次聯準會會議一樣",
+    "summary_zh": "Allspring Global Investments 的 Noah Wise 表示，債券市場投資者可能希望專注於殖利率曲線的前端。"
   },
   {
     "title": "Key synergies of potential Tesla and SpaceX merger",
@@ -4125,7 +4246,11 @@
     "summary": "",
     "published_at": "2026-08-01T02:37:48+08:00",
     "stocks": [],
-    "uid": "fc9e961f78bc6317b1e04656c7c60df5"
+    "uid": "fc9e961f78bc6317b1e04656c7c60df5",
+    "title_en": "Analyst Report: Lam Research Corp",
+    "summary_en": "",
+    "title_zh": "分析報告：林研究公司",
+    "summary_zh": ""
   },
   {
     "title": "Analyst Report: T-Mobile US Inc",
@@ -4134,7 +4259,11 @@
     "summary": "",
     "published_at": "2026-08-01T02:37:48+08:00",
     "stocks": [],
-    "uid": "f0fe40ae0ecdd50f1a90361bd03e8238"
+    "uid": "f0fe40ae0ecdd50f1a90361bd03e8238",
+    "title_en": "Analyst Report: T-Mobile US Inc",
+    "summary_en": "",
+    "title_zh": "分析師報告：T-Mobile 美國公司",
+    "summary_zh": ""
   },
   {
     "title": "Analyst Report: Flex Ltd",
@@ -4143,7 +4272,11 @@
     "summary": "",
     "published_at": "2026-08-01T02:37:48+08:00",
     "stocks": [],
-    "uid": "dc0f1d86fa9c9e88a4eef66ca9baeaa7"
+    "uid": "dc0f1d86fa9c9e88a4eef66ca9baeaa7",
+    "title_en": "Analyst Report: Flex Ltd",
+    "summary_en": "",
+    "title_zh": "分析報告：Flex 有限公司",
+    "summary_zh": ""
   },
   {
     "title": "Analyst Report: Unilever PLC",
@@ -4152,7 +4285,11 @@
     "summary": "",
     "published_at": "2026-08-01T02:37:48+08:00",
     "stocks": [],
-    "uid": "226968cd7c8f161458c9a32e34bd251d"
+    "uid": "226968cd7c8f161458c9a32e34bd251d",
+    "title_en": "Analyst Report: Unilever PLC",
+    "summary_en": "",
+    "title_zh": "分析報告：聯合利華公司",
+    "summary_zh": ""
   },
   {
     "title": "Analyst Report: Mastercard Inc",
@@ -4161,7 +4298,11 @@
     "summary": "",
     "published_at": "2026-08-01T02:37:48+08:00",
     "stocks": [],
-    "uid": "c3bb812fed17c4756adbd6cf6e3ee5be"
+    "uid": "c3bb812fed17c4756adbd6cf6e3ee5be",
+    "title_en": "Analyst Report: Mastercard Inc",
+    "summary_en": "",
+    "title_zh": "分析師報告：萬事達卡公司",
+    "summary_zh": ""
   },
   {
     "title": "Should You Buy Lyft Stock Before Aug. 6?",
@@ -4183,7 +4324,11 @@
     "summary": "The landmark deal between NuScale, ENTRA1, and TVA could be NuScale's first big deal, but read the fine print.",
     "published_at": "2026-08-01T02:30:00+08:00",
     "stocks": [],
-    "uid": "2b65d0ce727dda08d64752b0dbd5cb09"
+    "uid": "2b65d0ce727dda08d64752b0dbd5cb09",
+    "title_en": "This Historic 6-Gigawatt SMR Program Could Be a Game Changer for NuScale Stock",
+    "summary_en": "The landmark deal between NuScale, ENTRA1, and TVA could be NuScale's first big deal, but read the fine print.",
+    "title_zh": "這個歷史性的 6 吉瓦 SMR 計劃可能會改變 NuScale 股票的遊戲規則",
+    "summary_zh": "NuScale、ENTRA1 和 TVA 之間具有里程碑意義的交易可能是 NuScale 的第一筆重大交易，但請閱讀細則。"
   },
   {
     "title": "AI stocks may have bottomed out. What investors should watch for next.",
@@ -4361,7 +4506,11 @@
     "summary": "The global market for obesity drugs is soaring, yet Lilly has a dominant market share.",
     "published_at": "2026-08-01T01:30:00+08:00",
     "stocks": [],
-    "uid": "24d44ac121cf5ad48aded0dc0bfa480e"
+    "uid": "24d44ac121cf5ad48aded0dc0bfa480e",
+    "title_en": "Eli Lilly Stock Has Skyrocketed. Novo Nordisk Has Crashed. 1 Number Explains Why They're Not Even Close Anymore.",
+    "summary_en": "The global market for obesity drugs is soaring, yet Lilly has a dominant market share.",
+    "title_zh": "禮來公司股票飆升。諾和諾德破產了。 1 個數字解釋了為什麼他們不再接近了。",
+    "summary_zh": "全球肥胖藥物市場正在飆升，但禮來公司佔據了主導市場份額。"
   },
   {
     "title": "BasicNet H1 2026 slides: sales rise 25% as integration costs hit profit",
@@ -4461,7 +4610,11 @@
     "summary": "Amazon jumped almost 15% while Apple fell 9%. Here's what split the two tech giants and left the major indexes stuck in the middle.",
     "published_at": "2026-08-01T01:11:30+08:00",
     "stocks": [],
-    "uid": "1099bf276950a3bc51f51d0b618fc977"
+    "uid": "1099bf276950a3bc51f51d0b618fc977",
+    "title_en": "Amazon's 14.9% Jump Lifts the Dow While Apple Drags It Back",
+    "summary_en": "Amazon jumped almost 15% while Apple fell 9%. Here's what split the two tech giants and left the major indexes stuck in the middle.",
+    "title_zh": "亞馬遜上漲 14.9% 提振道指，蘋果則拖累道指",
+    "summary_zh": "亞馬遜上漲近 15%，而蘋果則下跌 9%。這就是這兩家科技巨頭之間的分歧，以及讓主要指數陷入困境的原因。"
   },
   {
     "title": "Tether Reports $1.5B Q2 Profit as USDT Supply Grows, Gold Holdings Rise",
@@ -4522,7 +4675,11 @@
     "summary": "Prediction markets are hot right now, and that could signal big things ahead for Robinhood stock.",
     "published_at": "2026-08-01T01:07:00+08:00",
     "stocks": [],
-    "uid": "13392add391e5f2112df7b22db154038"
+    "uid": "13392add391e5f2112df7b22db154038",
+    "title_en": "Bernstein Just Boosted Its Robinhood Price Target to $160. Here's What's Driving the HOOD Price Upgrade.",
+    "summary_en": "Prediction markets are hot right now, and that could signal big things ahead for Robinhood stock.",
+    "title_zh": "Bernstein 剛剛將 Robinhood 的目標價提高至 160 美元。以下是推動 HOOD 價格上漲的因素。",
+    "summary_zh": "預測市場目前很熱門，這可能預示著 Robinhood 股票未來將發生重大變化。"
   },
   {
     "title": "TDK Q1 fiscal 2027 slides: AI boom drives record results across segments",
@@ -4622,7 +4779,11 @@
     "summary": "AI demand could drive years of regulated earnings growth.",
     "published_at": "2026-08-01T01:05:00+08:00",
     "stocks": [],
-    "uid": "b4854b78e606f1c69091e163c62d607a"
+    "uid": "b4854b78e606f1c69091e163c62d607a",
+    "title_en": "NextEra Just Raised Its Large-Load Forecast to 8 Gigawatts. Here's Why That Matters.",
+    "summary_en": "AI demand could drive years of regulated earnings growth.",
+    "title_zh": "NextEra 剛剛將其大負載預測提高至 8 吉瓦。這就是為什麼這很重要。",
+    "summary_zh": "人工智慧需求可能會推動多年的受監管獲利成長。"
   },
   {
     "title": "Alimentation Couche-Tard Calls Żabka Deal Its Largest, Most Transformational Acquisition",
@@ -4698,7 +4859,11 @@
     "summary": "Buffett has long advocated for simplicity, quality, and low fees when investing for the long term. This ETF checks all the boxes.",
     "published_at": "2026-08-01T01:00:00+08:00",
     "stocks": [],
-    "uid": "ededdaecc3a3b0fe31964d58e598c4d5"
+    "uid": "ededdaecc3a3b0fe31964d58e598c4d5",
+    "title_en": "The Smartest ETF to Buy With $2,000 Right Now -- and Why Warren Buffett Would Approve",
+    "summary_en": "Buffett has long advocated for simplicity, quality, and low fees when investing for the long term. This ETF checks all the boxes.",
+    "title_zh": "現在用 2,000 美元購買最明智的 ETF——以及為什麼沃倫·巴菲特會批准",
+    "summary_zh": "巴菲特長期以來一直主張長期投資的簡單性、品質和低費用。該 ETF 滿足所有條件。"
   },
   {
     "title": "Trump says U.S. has 'not agreed to' grant Ukraine Patriot missile licenses",
@@ -173760,6 +173925,15 @@
     "uid": "1a279d3c6340a9fa72b3c57cfb604cb0"
   },
   {
+    "title": "Best private student loans for August 2026",
+    "url": "https://finance.yahoo.com/personal-finance/student-loans/article/best-private-student-loans-135459013.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-05-13T21:54:59+08:00",
+    "stocks": [],
+    "uid": "378df4a969719d5535fcbaff3748c120"
+  },
+  {
     "title": "Should you buy Series I bonds as inflation heats up again?",
     "url": "https://finance.yahoo.com/personal-finance/investing/article/should-you-buy-series-i-bonds-as-inflation-heats-up-again-191012835.html",
     "source": "Yahoo Finance",
@@ -173815,6 +173989,15 @@
     "published_at": "2026-05-01T07:10:56+08:00",
     "stocks": [],
     "uid": "33f7cc1763f571d88787bbac4a8d79d9"
+  },
+  {
+    "title": "Best secured personal loans and lenders of August 2026: Get lower rates by adding collateral",
+    "url": "https://finance.yahoo.com/personal-finance/personal-loans/article/best-secured-personal-loans-224147862.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-04-29T06:41:47+08:00",
+    "stocks": [],
+    "uid": "1a76dc4e1a7b5f912efa7c648641eee4"
   },
   {
     "title": "Capital One $425 million settlement payouts to customers 'substantially delayed' after appeal",
@@ -173891,6 +174074,15 @@
     "published_at": "2026-04-02T18:00:00+08:00",
     "stocks": [],
     "uid": "03b2055a27116408e4a15624839a6dfe"
+  },
+  {
+    "title": "Best same-day emergency loans for August 2026: Get fast funding after approval",
+    "url": "https://finance.yahoo.com/personal-finance/personal-loans/article/best-same-day-emergency-loans-220714166.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-03-28T06:07:14+08:00",
+    "stocks": [],
+    "uid": "0fc0349f2af9a867c090d2765ce7954a"
   },
   {
     "title": "Tech stocks today: Intel stock soars 25%, Meta to cut 10% of workforce, Microsoft offerings buyouts",
@@ -174137,6 +174329,15 @@
     "published_at": "2025-08-07T14:38:34+08:00",
     "stocks": [],
     "uid": "bc5c21af63bd90a8523135c51562bf37"
+  },
+  {
+    "title": "Best personal loans for bad credit for August 2026",
+    "url": "https://finance.yahoo.com/personal-finance/personal-loans/article/best-personal-loans-for-bad-credit-211415243.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2025-07-31T05:14:15+08:00",
+    "stocks": [],
+    "uid": "62aaba2efd6e10abf0ba92c6e690a57b"
   },
   {
     "title": "Zynlo Bank review (2026): Highly competitive rates with absolutely no fees",
