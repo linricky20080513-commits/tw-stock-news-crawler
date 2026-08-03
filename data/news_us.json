@@ -1,5 +1,384 @@
 [
   {
+    "title": "Snap's stock jumps 10% on earnings beat and strong sales forecast",
+    "url": "https://www.cnbc.com/2026/08/03/snap-q2-earnings-report-2026.html",
+    "source": "CNBC Top",
+    "summary": "Snap beat analysts' estimates across the board in its second-quarter earnings report.",
+    "published_at": "2026-08-04T04:21:00+08:00",
+    "stocks": [],
+    "uid": "10655bda563cec9a3b3ef166b15bc213",
+    "title_en": "Snap's stock jumps 10% on earnings beat and strong sales forecast",
+    "summary_en": "Snap beat analysts' estimates across the board in its second-quarter earnings report.",
+    "title_zh": "獲利改善和銷售預期強勁，Snap 股價上漲 10%",
+    "summary_zh": "Snap 在第二季財報中全面超出了分析師的預期。"
+  },
+  {
+    "title": "Palantir posts blowout Q2 numbers, with U.S. commercial revenue soaring nearly 150%",
+    "url": "https://www.cnbc.com/2026/08/03/palantir-pltr-earnings-q2-2026.html",
+    "source": "CNBC Markets",
+    "summary": "Palantir's second-quarter earnings beat expectations, and the AI software company lifted revenue guidance.",
+    "published_at": "2026-08-04T04:19:27+08:00",
+    "stocks": [],
+    "uid": "09c19c9a19150696ea3bef33e5b15a84",
+    "title_en": "Palantir posts blowout Q2 numbers, with U.S. commercial revenue soaring nearly 150%",
+    "summary_en": "Palantir's second-quarter earnings beat expectations, and the AI software company lifted revenue guidance.",
+    "title_zh": "Palantir第二季業績井噴，美國商業收入飆升近150%",
+    "summary_zh": "Palantir 第二季度收益超出預期，這家人工智慧軟體公司上調了收入指引。"
+  },
+  {
+    "title": "Palantir’s stock gains as AI drives turbocharged growth",
+    "url": "https://www.marketwatch.com/story/palantirs-stock-gains-as-ai-drives-turbocharged-growth-e006b70a?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Companies are turning to Palantir for greater autonomy over their AI models and data, according to CEO Alex Karp.",
+    "published_at": "2026-08-04T04:07:00+08:00",
+    "stocks": [],
+    "uid": "adcbe9c7e2cfdbebb99777bbbe9e5d83",
+    "title_en": "Palantir’s stock gains as AI drives turbocharged growth",
+    "summary_en": "Companies are turning to Palantir for greater autonomy over their AI models and data, according to CEO Alex Karp.",
+    "title_zh": "人工智慧推動強勁成長，Palantir 股價上漲",
+    "summary_zh": "執行長 Alex Karp 表示，該公司正在轉向 Palantir，以獲得對其人工智慧模型和數據的更大自主權。"
+  },
+  {
+    "title": "Twenty five states sue Trump administration over latest global tariffs",
+    "url": "https://www.cnbc.com/2026/08/03/trump-tariffs-25-states-lawsuit-supreme-court.html",
+    "source": "CNBC Top",
+    "summary": "Twenty five states sued the Trump administration, arguing its latest global tariffs unlawfully replace duties already struck down by courts.",
+    "published_at": "2026-08-04T03:58:47+08:00",
+    "stocks": [],
+    "uid": "fcb5435121c49734a9aeba5dfe7e382b",
+    "title_en": "Twenty five states sue Trump administration over latest global tariffs",
+    "summary_en": "Twenty five states sued the Trump administration, arguing its latest global tariffs unlawfully replace duties already struck down by courts.",
+    "title_zh": "二十五個州就最新的全球關稅起訴川普政府",
+    "summary_zh": "二十五個州起訴川普政府，稱其最新的全球關稅非法取代了法院已經撤銷的關稅。"
+  },
+  {
+    "title": "Is Hims & Hers Health Stock in Trouble?",
+    "url": "https://www.fool.com/investing/2026/08/03/is-hims-hers-health-stock-in-trouble/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "In the past 12 months, the stock has nosedived more than 50%.",
+    "published_at": "2026-08-04T03:53:45+08:00",
+    "stocks": [],
+    "uid": "235f5e0781fc6b431675f4ac323965bc",
+    "title_en": "Is Hims & Hers Health Stock in Trouble?",
+    "summary_en": "In the past 12 months, the stock has nosedived more than 50%.",
+    "title_zh": "他和她的健康庫存有問題嗎？",
+    "summary_zh": "過去12個月，該股暴跌超過50%。"
+  },
+  {
+    "title": "Denmark targets August 21 for second Security Council UN chief poll",
+    "url": "https://www.investing.com/news/stock-market-news/denmark-targets-august-21-for-second-security-council-un-chief-poll-4832153",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-04T03:50:09+08:00",
+    "stocks": [],
+    "uid": "9bfb765281955e8e5d7605ce321302e0",
+    "title_en": "Denmark targets August 21 for second Security Council UN chief poll",
+    "summary_en": "",
+    "title_zh": "丹麥計劃於 8 月 21 日舉行第二次安理會聯合國主席選舉",
+    "summary_zh": ""
+  },
+  {
+    "title": "Trump blasts Exxon, Chevron for making ’too much money,’ demands lower gasoline prices",
+    "url": "https://www.investing.com/news/stock-market-news/trump-blasts-exxon-chevron-for-making-too-much-money-demands-lower-gasoline-prices-4832152",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-04T03:49:34+08:00",
+    "stocks": [],
+    "uid": "c04ae51aaded58a2b0f8a2d8683b3a11",
+    "title_en": "Trump blasts Exxon, Chevron for making ’too much money,’ demands lower gasoline prices",
+    "summary_en": "",
+    "title_zh": "川普抨擊埃克森美孚和雪佛龍賺了“太多錢”，要求降低汽油價格",
+    "summary_zh": ""
+  },
+  {
+    "title": "Form 4 Timberland Bancorp Inc For: 3 August",
+    "url": "https://www.investing.com/news/filings/form-4-timberland-bancorp-inc-for-3-august-93CH-4832151",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-04T03:48:57+08:00",
+    "stocks": [],
+    "uid": "c9c0732113d02b4a7be15b2cb4c1a149",
+    "title_en": "Form 4 Timberland Bancorp Inc For: 3 August",
+    "summary_en": "",
+    "title_zh": "表 4 Timberland Bancorp Inc 日期：8 月 3 日",
+    "summary_zh": ""
+  },
+  {
+    "title": "Democratic US states sue to challenge Trump’s latest tariffs",
+    "url": "https://www.investing.com/news/world-news/group-of-25-us-states-challenge-trumps-latest-tariffs-4832134",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-04T03:48:37+08:00",
+    "stocks": [],
+    "uid": "2ea35d99cc057dff5425df9b700b4904",
+    "title_en": "Democratic US states sue to challenge Trump’s latest tariffs",
+    "summary_en": "",
+    "title_zh": "美國民主黨各州提起訴訟挑戰川普最新關稅",
+    "summary_zh": ""
+  },
+  {
+    "title": "Macy’s stock hits 52-week high at 26.14 USD",
+    "url": "https://www.investing.com/news/company-news/macys-stock-hits-52week-high-at-2614-usd-93CH-4832150",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-04T03:46:55+08:00",
+    "stocks": [],
+    "uid": "674ffc15142d92e375747e6c4d720dca",
+    "title_en": "Macy’s stock hits 52-week high at 26.14 USD",
+    "summary_en": "",
+    "title_zh": "梅西百貨股價觸及 52 週新至 26.14 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Timberland Bancorp CRO Matthew Seath sells $134,250 in shares",
+    "url": "https://www.investing.com/news/insider-trading-news/timberland-bancorp-cro-matthew-seath-sells-134250-in-shares-93CH-4832148",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-04T03:45:54+08:00",
+    "stocks": [],
+    "uid": "4eaa3930e4d252b9520f872c51a88ef6",
+    "title_en": "Timberland Bancorp CRO Matthew Seath sells $134,250 in shares",
+    "summary_en": "",
+    "title_zh": "Timberland Bancorp CRO Matthew Seath 出售價值 134,250 美元的股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Form 144 PRECIGEN For: 3 August",
+    "url": "https://www.investing.com/news/filings/form-144-precigen-for-3-august-93CH-4832147",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-04T03:45:10+08:00",
+    "stocks": [],
+    "uid": "97f74084ba388aba7be044c1c5f959d5",
+    "title_en": "Form 144 PRECIGEN For: 3 August",
+    "summary_en": "",
+    "title_zh": "144 表 PRECIGEN 適用於：8 月 3 日",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why IonQ Stock Popped Today",
+    "url": "https://www.fool.com/investing/2026/08/03/why-ionq-stock-popped-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "IonQ is the biggest and best-funded pure play on quantum computing -- and Wedbush loves it.",
+    "published_at": "2026-08-04T03:44:17+08:00",
+    "stocks": [],
+    "uid": "b0737a3d435a4a07504464ae57d83aad",
+    "title_en": "Why IonQ Stock Popped Today",
+    "summary_en": "IonQ is the biggest and best-funded pure play on quantum computing -- and Wedbush loves it.",
+    "title_zh": "為什麼 IonQ 股票今天上漲",
+    "summary_zh": "IonQ 是規模最大、資金最充足的量子運算專業公司，Wedbush 很喜歡它。"
+  },
+  {
+    "title": "Trump sours on Pirro over Reflecting Pool case, won't say her job is safe",
+    "url": "https://www.cnbc.com/2026/08/03/trump-pirro-reflecting-pool-vandalism-case.html",
+    "source": "CNBC Top",
+    "summary": "President Donald Trump said Jeanine Pirro, the U.S. attorney for the District of Columbia, \"choked\" and \"folded like an umbrella\" in the Reflecting Pool case.",
+    "published_at": "2026-08-04T03:42:37+08:00",
+    "stocks": [],
+    "uid": "ba4aaa65e5ab3c166f952c6c73a5a282",
+    "title_en": "Trump sours on Pirro over Reflecting Pool case, won't say her job is safe",
+    "summary_en": "President Donald Trump said Jeanine Pirro, the U.S. attorney for the District of Columbia, \"choked\" and \"folded like an umbrella\" in the Reflecting Pool case.",
+    "title_zh": "川普因倒影池案對皮羅感到不滿，不會說她的工作是安全的",
+    "summary_zh": "唐納德·特朗普總統表示，哥倫比亞特區聯邦檢察官珍妮·皮羅在倒影池案中“哽咽”並“像雨傘一樣折疊起來”。"
+  },
+  {
+    "title": "Gates Industrial stock hits all-time high at 29.18 USD",
+    "url": "https://www.investing.com/news/company-news/gates-industrial-stock-hits-alltime-high-at-2918-usd-93CH-4832146",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-04T03:42:25+08:00",
+    "stocks": [],
+    "uid": "c797eddcd853626c2ca0fc058979feb9",
+    "title_en": "Gates Industrial stock hits all-time high at 29.18 USD",
+    "summary_en": "",
+    "title_zh": "蓋茲工業股價創歷史新高至29.18美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Wisdomtree stock hits 52-week high at 21.24 USD",
+    "url": "https://www.investing.com/news/company-news/wisdomtree-stock-hits-52week-high-at-2124-usd-93CH-4832145",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-04T03:41:11+08:00",
+    "stocks": [],
+    "uid": "22228a663a0bca362da6b4bff128457a",
+    "title_en": "Wisdomtree stock hits 52-week high at 21.24 USD",
+    "summary_en": "",
+    "title_zh": "Wisdomtree 股價觸及 52 週高點 21.24 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Microsoft’s stock is on a run not seen in 26 years — erasing its year-to-date losses",
+    "url": "https://www.marketwatch.com/story/microsofts-stock-is-on-a-run-not-seen-in-26-years-erasing-its-year-to-date-losses-d9827b6c?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The rally in Microsoft shares “has legs” because its capital spending is showing a payoff.",
+    "published_at": "2026-08-04T03:40:00+08:00",
+    "stocks": [],
+    "uid": "360ead40624bc0954ea4673db5100eb3",
+    "title_en": "Microsoft’s stock is on a run not seen in 26 years — erasing its year-to-date losses",
+    "summary_en": "The rally in Microsoft shares “has legs” because its capital spending is showing a payoff.",
+    "title_zh": "微軟股價出現 26 年來未見的上漲——抹去了今年迄今的跌幅",
+    "summary_zh": "微軟股價的上漲“有支撐”，因為其資本支出正在顯現回報。"
+  },
+  {
+    "title": "Cathie Wood's Ark Invest Is Buying SpaceX Stock as Shares Sink Below Their IPO Price. Should Investors Follow Her in?",
+    "url": "https://www.fool.com/investing/2026/08/03/cathie-wood-ark-buy-spacex-stock-drop-ipo-price/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The Ark Invest founder is betting big on SpaceX.",
+    "published_at": "2026-08-04T03:38:04+08:00",
+    "stocks": [],
+    "uid": "710021f74f3cd5794ec06d778a5720d1",
+    "title_en": "Cathie Wood's Ark Invest Is Buying SpaceX Stock as Shares Sink Below Their IPO Price. Should Investors Follow Her in?",
+    "summary_en": "The Ark Invest founder is betting big on SpaceX.",
+    "title_zh": "隨著 SpaceX 股價跌破 IPO 價格，凱西伍德 (Cathie Wood) 的 Ark Invest 正在買入 SpaceX 股票。投資者應該跟隨她嗎？",
+    "summary_zh": "這位 Ark Invest 創辦人對 SpaceX 下了重註。"
+  },
+  {
+    "title": "Trump blasts Jeanine Pirro, says she ’choked’ in dropping reflecting pool case",
+    "url": "https://www.investing.com/news/politics-news/trump-blasts-jeanine-pirro-says-she-choked-in-dropping-reflecting-pool-case-4832144",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-04T03:38:03+08:00",
+    "stocks": [],
+    "uid": "33f3e8830e2e1215876d4845b5e70fe6",
+    "title_en": "Trump blasts Jeanine Pirro, says she ’choked’ in dropping reflecting pool case",
+    "summary_en": "",
+    "title_zh": "川普炮轟珍妮·皮羅（Jeanine Pirro），稱她因掉落倒影池案例而“窒息”",
+    "summary_zh": ""
+  },
+  {
+    "title": "Redwire vs. Rocket Lab: Which Space-Focused Stock Is a Better Buy in 2026?",
+    "url": "https://www.fool.com/coverage/better-buy/2026/08/03/redwire-vs-rocket-lab-which-space-focused-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "One company controls satellite components; the other bets everything on a rocket that hasn't flown yet.",
+    "published_at": "2026-08-04T03:36:01+08:00",
+    "stocks": [],
+    "uid": "8b0bd1709c6a0c9a17a991b328e55e55",
+    "title_en": "Redwire vs. Rocket Lab: Which Space-Focused Stock Is a Better Buy in 2026?",
+    "summary_en": "One company controls satellite components; the other bets everything on a rocket that hasn't flown yet.",
+    "title_zh": "Redwire 與 Rocket Lab：2026 年哪種太空股票比較值得買進？",
+    "summary_zh": "一家公司控制衛星零件；另一個則將一切押在尚未升空的火箭上。"
+  },
+  {
+    "title": "Cyclospora outbreak is linked to two deaths in Michigan as case counts continue to rise",
+    "url": "https://www.marketwatch.com/story/cyclospora-outbreak-is-linked-to-two-deaths-in-michigan-as-case-counts-continue-to-rise-77b49a5a?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "It’s rare for cyclosporiasis to cause death. These are the first deaths associated with the largest-ever cyclospora outbreak in the U.S.",
+    "published_at": "2026-08-04T03:30:00+08:00",
+    "stocks": [],
+    "uid": "bf76626c79ebc49aa3068c4a6496660c",
+    "title_en": "Cyclospora outbreak is linked to two deaths in Michigan as case counts continue to rise",
+    "summary_en": "It’s rare for cyclosporiasis to cause death. These are the first deaths associated with the largest-ever cyclospora outbreak in the U.S.",
+    "title_zh": "隨著病例數持續增加，密西根州環孢子蟲疫情導致兩人死亡",
+    "summary_zh": "環孢子蟲病很少導致死亡。這是與美國有史以來最大規模的環孢子蟲爆發相關的第一起死亡。"
+  },
+  {
+    "title": "Michael Saylor's Strategy Just Boosted Its Cash Reserve to $3.75 Billion. Here's Why I'm Bearish on the Stock.",
+    "url": "https://www.fool.com/investing/2026/08/03/michael-saylors-strategy-just-boosted-its-cash-res/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Strategy's Bitcoin business model is showing signs of cracking.",
+    "published_at": "2026-08-04T03:30:00+08:00",
+    "stocks": [],
+    "uid": "05651147846e74c80216737886ecbeae",
+    "title_en": "Michael Saylor's Strategy Just Boosted Its Cash Reserve to $3.75 Billion. Here's Why I'm Bearish on the Stock.",
+    "summary_en": "Strategy's Bitcoin business model is showing signs of cracking.",
+    "title_zh": "Michael Saylor 的策略剛剛將其現金儲備增加至 37.5 億美元。這就是我看跌該股的原因。",
+    "summary_zh": "Strategy的比特幣商業模式正顯示出破裂的跡象。"
+  },
+  {
+    "title": "Why D-Wave Quantum Stock Popped Today",
+    "url": "https://www.fool.com/investing/2026/08/03/why-d-wave-quantum-stock-popped-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "D-Wave Quantum stock may be worth buying -- unless you like to invest in profitable companies.",
+    "published_at": "2026-08-04T03:24:00+08:00",
+    "stocks": [],
+    "uid": "8a28b50a9281dea27036479a21bb7800",
+    "title_en": "Why D-Wave Quantum Stock Popped Today",
+    "summary_en": "D-Wave Quantum stock may be worth buying -- unless you like to invest in profitable companies.",
+    "title_zh": "為什麼 D-Wave 量子股票今天會暴漲",
+    "summary_zh": "D-Wave Quantum 股票可能值得購買—除非您想投資獲利的公司。"
+  },
+  {
+    "title": "A trio of positive developments has Boeing shares soaring",
+    "url": "https://www.cnbc.com/2026/08/03/a-trio-of-positive-developments-has-boeing-shares-soaring.html",
+    "source": "CNBC Top",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "published_at": "2026-08-04T03:23:04+08:00",
+    "stocks": [],
+    "uid": "5b6f74b2fcff842d3e97876509072a73",
+    "title_en": "A trio of positive developments has Boeing shares soaring",
+    "summary_en": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "title_zh": "三大積極進展推動波音股價飆漲",
+    "summary_zh": "每個工作日，投資俱樂部都會發布最後衝刺；下午交易最後一小時的可行更新。"
+  },
+  {
+    "title": "Ionis Pharmaceuticals Director Hayden Buys $1.1 Million Shares. What Does This Mean for Investors?",
+    "url": "https://www.fool.com/coverage/filings/2026/08/03/ionis-pharmaceuticals-director-hayden-buys-usd1-1-million-shares-what-does-this-mean-for-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Insider holdings surged 34% through indirect acquisition, signaling confidence amid company's $8.8 billion valuation and RNA-therapy pipeline advancement.",
+    "published_at": "2026-08-04T03:17:01+08:00",
+    "stocks": [],
+    "uid": "a2fc8c95cd3c79a5dbc606a51df284b8",
+    "title_en": "Ionis Pharmaceuticals Director Hayden Buys $1.1 Million Shares. What Does This Mean for Investors?",
+    "summary_en": "Insider holdings surged 34% through indirect acquisition, signaling confidence amid company's $8.8 billion valuation and RNA-therapy pipeline advancement.",
+    "title_zh": "Ionis Pharmaceuticals 董事 Hayden 購買 110 萬美元的股票。這對投資者意味著什麼？",
+    "summary_zh": "透過間接收購，內部人士持股飆升 34%，顯示人們對公司 88 億美元的估值和 RNA 治療管道的進展充滿信心。"
+  },
+  {
+    "title": "Joby Aviation's Next Earnings Report on Aug. 5 Could Send the Stock Plummeting. Here's Why.",
+    "url": "https://www.fool.com/investing/2026/08/03/joby-aviations-next-earnings-report-on-aug-5-could-send-the-stock-soaring-heres-why/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Joby Aviation may need to deliver major commercialization or regulatory news to help its stock recover from a steep 2026 decline.",
+    "published_at": "2026-08-04T03:15:02+08:00",
+    "stocks": [],
+    "uid": "f8f2b2b0ba9ec96869e4ea7e8536174f"
+  },
+  {
+    "title": "Which Financial Stock Would Hold Up Better in a Recession: PayPal or American Express?",
+    "url": "https://www.fool.com/investing/2026/08/03/which-financial-stock-would-hold-up-better-in-a-re/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The blue chip leader will remain more resilient than the fintech challenger.",
+    "published_at": "2026-08-04T03:10:00+08:00",
+    "stocks": [],
+    "uid": "00a5942d6780ad10de71a64f1df4f631"
+  },
+  {
+    "title": "3 Things Too Many People Get Wrong About Retirement Planning",
+    "url": "https://www.fool.com/retirement/2026/08/03/3-things-too-many-people-get-wrong-about-retiremen/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Don't let misinformation derail your efforts.",
+    "published_at": "2026-08-04T03:07:00+08:00",
+    "stocks": [],
+    "uid": "3e257df4c274f67268b8aa372042e4e6"
+  },
+  {
+    "title": "Tesla's Big Robotaxi Progress Is Hidden in Plain Sight",
+    "url": "https://www.fool.com/investing/2026/08/03/teslas-big-robotaxi-progress-is-hidden-in-plain-si/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "A reset in expectations around the robotaxi rollout might be good for the stock in the medium term.",
+    "published_at": "2026-08-04T03:05:00+08:00",
+    "stocks": [],
+    "uid": "f1be043842720b6ec69679f52b39bbfe"
+  },
+  {
+    "title": "Alphabet's Earnings Skyrocketed in Q2. Here's Why They Could End Up in the Red Next Quarter",
+    "url": "https://www.fool.com/investing/2026/08/03/alphabets-earnings-skyrocketed-in-q2-heres-why-the/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Alphabet's earnings were up nearly 300% last quarter, largely due to investments.",
+    "published_at": "2026-08-04T03:00:00+08:00",
+    "stocks": [],
+    "uid": "28f4df2e253af84502689d888463e0ea"
+  },
+  {
+    "title": "1 Thing Every Micron Stock Investor Needs To Understand Right Now",
+    "url": "https://www.fool.com/investing/2026/08/03/1-thing-every-micron-stock-investor-needs-to-under/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Micron's day-to-day movements have split from the longer-term potential of the business.",
+    "published_at": "2026-08-04T02:45:00+08:00",
+    "stocks": [],
+    "uid": "88514aa3a5ceb5d2a7cee875752b04cf"
+  },
+  {
     "title": "Trump says Exxon and Chevron made 'too much money' off high oil prices during Iran conflict: 'I don't like it'",
     "url": "https://www.cnbc.com/2026/08/03/trump-says-exxon-and-chevron-made-too-much-money-off-high-oil-prices-during-iran-conflict-i-dont-like-it.html",
     "source": "CNBC Top",
@@ -50,6 +429,24 @@
     "summary_en": "The Michigan Health Department said that both individuals had underlying health conditions.",
     "title_zh": "密西根州確認環孢子蟲爆發中首批兩人死亡",
     "summary_zh": "密西根州衛生部表示，兩人都有潛在的健康問題。"
+  },
+  {
+    "title": "Pfizer's Stock Has Been a Dud Over the Past 5 Years, but Is It Still Worth Buying for Its 6.9% Yield?",
+    "url": "https://www.fool.com/investing/2026/08/03/pfizers-stock-has-been-a-dud-over-the-past-5-years/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The stock's yield is more than six times the S&amp;P 500 average.",
+    "published_at": "2026-08-04T02:32:25+08:00",
+    "stocks": [],
+    "uid": "3af225ae7b15442963e831f903b343f1"
+  },
+  {
+    "title": "All But 2 \"Magnificent Seven\" Stocks Are Underperforming the Market This Year. Here's 1 Company I'd Load Up On and 1 I'd Avoid",
+    "url": "https://www.fool.com/investing/2026/08/03/all-but-2-magnificent-seven-stocks-underperforming/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Both had similar issues, but one is much easier to justify because of its business direction.",
+    "published_at": "2026-08-04T02:30:00+08:00",
+    "stocks": [],
+    "uid": "56f04d6062e23ab55b01f1ef9e1abc61"
   },
   {
     "title": "Fed lending officer survey finds stable standard for many types of commercial, industrial loans",
@@ -128,6 +525,15 @@
     "summary_en": "Wall Street gets one more sign that Boeing’s turnaround continues apace.",
     "title_zh": "波音公司清除關鍵障礙，股價上漲，領跑道瓊指數",
     "summary_zh": "華爾街又收到一個跡象，顯示波音公司的轉虧為盈仍在快速進行中。"
+  },
+  {
+    "title": "Elon Musk Reveals Why He Needs So Much Control of SpaceX",
+    "url": "https://www.fool.com/investing/2026/08/03/elon-musk-reveals-why-he-needs-so-much-control-of/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Massive voting control gives CEO Elon Musk the power to do what he wants with SpaceX, without worrying about a shareholder revolt.",
+    "published_at": "2026-08-04T02:15:00+08:00",
+    "stocks": [],
+    "uid": "448b54091fbe465dc531ac6b84cb058e"
   },
   {
     "title": "Explainer-What to know about the US outbreak of cyclosporiasis intestinal illness",
@@ -234,6 +640,15 @@
     "summary_zh": "經過多年的拖延，美國聯邦航空管理局終於對波音 737 Max 7 進行了認證，這是該公司最暢銷飛機的最小版本。"
   },
   {
+    "title": "Here's How a Small Bet on This Nuclear Stock Could Pay Off Big",
+    "url": "https://www.fool.com/investing/2026/08/03/heres-how-a-small-bet-on-this-nuclear-stock-could/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Nuclear energy could be a $10 trillion global opportunity.",
+    "published_at": "2026-08-04T02:05:00+08:00",
+    "stocks": [],
+    "uid": "e9501a8d4b53383a01a27cb70d90f2d4"
+  },
+  {
     "title": "FAA clears smallest Boeing 737 Max to fly after years of delays",
     "url": "https://www.cnbc.com/2026/08/03/faa-boeing-737-max-certification.html",
     "source": "CNBC Top",
@@ -245,6 +660,33 @@
     "summary_en": "Airlines can finally start flying passengers soon after planes are certified, but it can take them months to work them into schedules.",
     "title_zh": "延誤多年後，美國聯邦航空管理局 (FAA) 批准最小的波音 737 Max 復飛",
     "summary_zh": "飛機獲得認證後不久，航空公司終於可以開始載客，但可能需要幾個月的時間才能將其納入時間表。"
+  },
+  {
+    "title": "The Top Vanguard ETF Outpacing the S&P 500 in 2026 (and It's Not The One You Think!)",
+    "url": "https://www.fool.com/investing/2026/08/03/top-vanguard-etf-outpacing-sp-500-2026-vtwv/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Throughout the market rotations and volatility of 2026, one group of stocks has been crushing the S&amp;P 500 this year.",
+    "published_at": "2026-08-04T02:00:00+08:00",
+    "stocks": [],
+    "uid": "c6d980cd0e8d121aa56ca273267c5bb6"
+  },
+  {
+    "title": "Why Microsoft Stock Is Surging Today",
+    "url": "https://www.fool.com/investing/2026/08/03/why-microsoft-stock-is-surging-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Microsoft stock has been on a roll following its recent earnings report.",
+    "published_at": "2026-08-04T01:55:28+08:00",
+    "stocks": [],
+    "uid": "3302c070db04d003de4ed9e6856df903"
+  },
+  {
+    "title": "Why Meta Platforms Stock Popped Today",
+    "url": "https://www.fool.com/investing/2026/08/03/why-meta-platforms-stock-popped-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Meta's heavy AI capex spending could eat up all its free cash flow this year -- and next year, too.",
+    "published_at": "2026-08-04T01:52:52+08:00",
+    "stocks": [],
+    "uid": "cf5c8423033d2f93d86ee00d06247bba"
   },
   {
     "title": "If I buy a house for $1 million in cash at 70, will I run out of money by 90?",
@@ -6097,6 +6539,15 @@
     "summary_zh": "對英偉達晶片的需求巨大，但兩個迫在眉睫的風險可能會讓該公司偏離軌道。"
   },
   {
+    "title": "Even With SpaceX Down 50% From Its High, I'd Still Rather Buy This Unstoppable Growth Stock Before the End of August",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/even-spacex-down-50-high-112000942.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-02T19:20:00+08:00",
+    "stocks": [],
+    "uid": "39761296488e64be568ff69978fd9512"
+  },
+  {
     "title": "Blue Owl's BDC Already Cut Its Base Dividend to $0.31. Here's What to Watch as the Rest Report.",
     "url": "https://www.fool.com/investing/2026/08/02/blue-owls-bdc-already-cut-its-base-dividend-to-031/?source=iedfolrf0000001",
     "source": "Motley Fool",
@@ -6108,6 +6559,15 @@
     "summary_en": "Is Blue Owl Capital the canary in the coal mine or a one-off situation that investors in other BDCs can ignore?",
     "title_zh": "Blue Owl 的 BDC 已將基本股息削減至 0.31 美元。這是休息報告中值得關注的內容。",
     "summary_zh": "藍貓頭鷹資本是煤礦裡的金絲雀，還是其他BDC投資者可以忽視的一次性情況？"
+  },
+  {
+    "title": "Nvidia Has $500 Billion in AI Chip Bookings Covering 2025 and 2026, a Backlog Investors Can Track for Future Revenue",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-500-billion-ai-chip-111000728.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-02T19:10:00+08:00",
+    "stocks": [],
+    "uid": "5fba9ccd07b5a0aeea4a7e5f8f7c8dca"
   },
   {
     "title": "InvestingPro’s Fair Value spotted 64% gain in Ziff Davis stock",
@@ -6134,6 +6594,15 @@
     "summary_en": "",
     "title_zh": "對於 GLP-1 用戶來說，店內買衣服之旅又回來了",
     "summary_zh": ""
+  },
+  {
+    "title": "He Earned Too Much for Social Security Before His Layoff. This Little-Known Rule Could Still Unlock $16,800.",
+    "url": "https://finance.yahoo.com/healthcare/articles/earned-too-much-social-security-110331332.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-02T19:03:31+08:00",
+    "stocks": [],
+    "uid": "dc703198fe4ddcc0de5ba07e7d4e7ee1"
   },
   {
     "title": "InvestingPro’s Fair Value predicted 46% drop in CytomX stock",
@@ -6173,6 +6642,15 @@
     "summary_en": "Sure, SpaceX is down 50%, but I'd rather buy the profitable growth story. Here's why Cava looks like the smarter long-term investment.",
     "title_zh": "即使 SpaceX 股價較高下跌 50%，我仍寧願在 8 月底前買下這檔不可阻擋的成長股票",
     "summary_zh": "當然，SpaceX 下跌了 50%，但我寧願相信獲利成長的故事。這就是為什麼卡瓦看起來是更明智的長期投資。"
+  },
+  {
+    "title": "Tim Cook’s lasting legacy: Keeping Apple’s eye on the ball",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/tim-cook-lasting-legacy-keeping-110000881.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-02T19:00:00+08:00",
+    "stocks": [],
+    "uid": "773b97f8372b8ddc86573e7d2d32d0f9"
   },
   {
     "title": "Nvidia Has $500 Billion in AI Chip Bookings Covering 2025 and 2026, a Backlog Investors Can Track for Future Revenue",
