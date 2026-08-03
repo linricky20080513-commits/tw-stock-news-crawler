@@ -1,5 +1,429 @@
 [
   {
+    "title": "Big Tech's Anthropic and OpenAI stakes are distorting the corporate earnings picture",
+    "url": "https://www.cnbc.com/2026/08/03/big-techs-anthropic-and-openai-stakes-distort-corporate-earnings.html",
+    "source": "CNBC Top",
+    "summary": "If you were to strip out Big Tech's investment gains from private AI companies, the earnings story is a lot less bullish.",
+    "published_at": "2026-08-04T05:57:34+08:00",
+    "stocks": [],
+    "uid": "65aabde6ba6a9d7b6d4cc274dd9c1dfe"
+  },
+  {
+    "title": "Republicans Let Trump Keep Unparalleled Benefit: I.R.S. Immunity",
+    "url": "https://www.nytimes.com/2026/08/03/business/trump-irs-todd-blanche.html",
+    "source": "NYT Business",
+    "summary": "The rebellion against Todd Blanche’s nomination to be attorney general, now seemingly contained, at no point fundamentally questioned President Trump’s new protections from the I.R.S.",
+    "published_at": "2026-08-04T05:56:34+08:00",
+    "stocks": [],
+    "uid": "d070c57c73a57d1bafa1509700be57f5",
+    "title_en": "Republicans Let Trump Keep Unparalleled Benefit: I.R.S. Immunity",
+    "summary_en": "The rebellion against Todd Blanche’s nomination to be attorney general, now seemingly contained, at no point fundamentally questioned President Trump’s new protections from the I.R.S.",
+    "title_zh": "共和黨人讓川普保留無與倫比的福利：國稅局免疫",
+    "summary_zh": "針對托德·布蘭奇（Todd Blanche）提名為司法部長的反抗現在看來已得到遏制，但從未從根本上質疑川普總統免受國稅局的新保護。"
+  },
+  {
+    "title": "Earnings call transcript: SI-BONE tops Q2 2026 estimates, shares fall after hours",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-sibone-tops-q2-2026-estimates-shares-fall-after-hours-93CH-4832436",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-04T05:42:45+08:00",
+    "stocks": [],
+    "uid": "7315fb204226142414ebee9ba093a83a",
+    "title_en": "Earnings call transcript: SI-BONE tops Q2 2026 estimates, shares fall after hours",
+    "summary_en": "",
+    "title_zh": "財報電話會議紀錄：SI-BONE 超出 2026 年第二季預期，盤後股價下跌",
+    "summary_zh": ""
+  },
+  {
+    "title": "ClearPoint Neuro Aug 2026 slides: $500m revenue target amid Q2 miss",
+    "url": "https://www.investing.com/news/company-news/clearpoint-neuro-aug-2026-slides-500m-revenue-target-amid-q2-miss-93CH-4832435",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-04T05:41:10+08:00",
+    "stocks": [],
+    "uid": "9632972fb8da6fc0e1ef5fe4b17f1ba9"
+  },
+  {
+    "title": "Earnings call transcript: Ibotta shares jump after Q2 2026 revenue returns to growth",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-ibotta-shares-jump-after-q2-2026-revenue-returns-to-growth-93CH-4832433",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-04T05:39:04+08:00",
+    "stocks": [],
+    "uid": "c53975641bcc17a4ae1959661bcc816b",
+    "title_en": "Earnings call transcript: Ibotta shares jump after Q2 2026 revenue returns to growth",
+    "summary_en": "",
+    "title_zh": "財報電話會議紀錄：2026 年第二季營收恢復成長後，Ibotta 股價上漲",
+    "summary_zh": ""
+  },
+  {
+    "title": "EverQuote Q2 2026 slides: record results, AI gains amid stock selloff",
+    "url": "https://www.investing.com/news/company-news/everquote-q2-2026-slides-record-results-ai-gains-amid-stock-selloff-93CH-4832432",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-04T05:38:57+08:00",
+    "stocks": [],
+    "uid": "affa5cbc72495f167b628bb7e334201c",
+    "title_en": "EverQuote Q2 2026 slides: record results, AI gains amid stock selloff",
+    "summary_en": "",
+    "title_zh": "EverQuote 2026 年第二季業績下滑：創紀錄業績，人工智慧在股票拋售中上漲",
+    "summary_zh": ""
+  },
+  {
+    "title": "Earnings call transcript: GeneDx tops revenue forecast in Q2 2026, shares jump",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-genedx-tops-revenue-forecast-in-q2-2026-shares-jump-93CH-4832431",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-04T05:38:52+08:00",
+    "stocks": [],
+    "uid": "702cb954de21144b1ca66b66c8680144"
+  },
+  {
+    "title": "US House panel seeks briefing on OpenAI’s AI agent security breach",
+    "url": "https://www.investing.com/news/politics-news/us-house-panel-seeks-briefing-on-openais-ai-agent-security-breach-4832430",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-04T05:37:00+08:00",
+    "stocks": [],
+    "uid": "6669ca9d6dab62ed8552c89dc2ac08d8",
+    "title_en": "US House panel seeks briefing on OpenAI’s AI agent security breach",
+    "summary_en": "",
+    "title_zh": "美國眾議院小組尋求有關 OpenAI 人工智慧代理安全漏洞的簡報",
+    "summary_zh": ""
+  },
+  {
+    "title": "Earnings call transcript: Offerpad misses Q2 2026 estimates but margins improve",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-offerpad-misses-q2-2026-estimates-but-margins-improve-93CH-4832429",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-04T05:36:35+08:00",
+    "stocks": [],
+    "uid": "334b06b6d83b681d91223b542e2f001d"
+  },
+  {
+    "title": "California’s highest court rules for Gilead, says drugmakers don’t have ’duty to innovate’",
+    "url": "https://www.investing.com/news/stock-market-news/californias-highest-court-rules-for-gilead-says-drugmakers-dont-have-duty-to-innovate-4832104",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-04T05:36:34+08:00",
+    "stocks": [],
+    "uid": "9d6dc009f83d19b9e8a31646f7ae9b96",
+    "title_en": "California’s highest court rules for Gilead, says drugmakers don’t have ’duty to innovate’",
+    "summary_en": "",
+    "title_zh": "加州最高法院對吉利德做出裁決，稱製藥商沒有“創新義務”",
+    "summary_zh": ""
+  },
+  {
+    "title": "Earnings call transcript: V2X beats Q2 2026 estimates but shares fall 4.3%",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-v2x-beats-q2-2026-estimates-but-shares-fall-43-93CH-4832428",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-04T05:36:27+08:00",
+    "stocks": [],
+    "uid": "a9ea47f8ee09f7cb8ea0065a7b6c5673",
+    "title_en": "Earnings call transcript: V2X beats Q2 2026 estimates but shares fall 4.3%",
+    "summary_en": "",
+    "title_zh": "財報電話會議記錄：V2X 超出 2026 年第二季預期，但股價下跌 4.3%",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why is Ichor Holdings stock sliding today?",
+    "url": "https://www.investing.com/news/stock-market-news/why-is-ichor-holdings-stock-sliding-today-93CH-4832427",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-04T05:36:05+08:00",
+    "stocks": [],
+    "uid": "733dd5ce057a70001fbd392f8645eaa7"
+  },
+  {
+    "title": "Why IMAX Stock Soared on Monday",
+    "url": "https://www.fool.com/investing/2026/08/03/why-imax-stock-soared-on-monday/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "There's only one way to see the current hot Hollywood blockbuster on a huge screen.",
+    "published_at": "2026-08-04T05:33:33+08:00",
+    "stocks": [],
+    "uid": "7adf912b2374ebc0deb6316661b7a44e"
+  },
+  {
+    "title": "As ‘Spider-Man’ joins ‘The Odyssey’ in Imax, are premium movie screens worth the extra price?",
+    "url": "https://www.marketwatch.com/story/as-spider-man-joins-the-odyssey-in-imax-are-premium-movie-screens-worth-the-extra-price-74304e34?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Some movie fans call premium screenings a “gimmick.” Others are driving six hours to see “The Odyssey” in Imax 70mm.",
+    "published_at": "2026-08-04T05:33:00+08:00",
+    "stocks": [],
+    "uid": "c9db84f2e250caee4ea63a95e3f6155a",
+    "title_en": "As ‘Spider-Man’ joins ‘The Odyssey’ in Imax, are premium movie screens worth the extra price?",
+    "summary_en": "Some movie fans call premium screenings a “gimmick.” Others are driving six hours to see “The Odyssey” in Imax 70mm.",
+    "title_zh": "隨著《蜘蛛人》與《奧德賽》一起在 Imax 上亮相，優質的電影銀幕值得付出額外的代價嗎？",
+    "summary_zh": "一些影迷稱優質放映是一種「噱頭」。其他人則開車六個小時來觀看 Imax 70 毫米的《奧德賽》。"
+  },
+  {
+    "title": "Sweetgreen's Next Earnings Report on Aug. 6 Could Send the Stock Soaring. 3 Reasons Why.",
+    "url": "https://www.fool.com/investing/2026/08/03/sweetgreens-next-earnings-report-on-aug-6-could-send-the-stock-soaring-heres-why/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Sweetgreen has been a broken stock for several quarters now. Is a turnaround finally here?",
+    "published_at": "2026-08-04T05:30:04+08:00",
+    "stocks": [],
+    "uid": "8afffd196eb49f4432ee72174105458a"
+  },
+  {
+    "title": "Palantir's Karp renews attacks on frontier AI labs that are 'trying to drug addict us'",
+    "url": "https://www.cnbc.com/2026/08/03/palantir-karp-open-ai-anthropic-open-weight.html",
+    "source": "CNBC Tech",
+    "summary": "Karp said Chinese models can't be blamed for distilling U.S. models when the frontier labs \"distilled all the value of IP, everywhere.\"",
+    "published_at": "2026-08-04T05:30:03+08:00",
+    "stocks": [],
+    "uid": "d9107859d06407267ed6821e84963fce",
+    "title_en": "Palantir's Karp renews attacks on frontier AI labs that are 'trying to drug addict us'",
+    "summary_en": "Karp said Chinese models can't be blamed for distilling U.S. models when the frontier labs \"distilled all the value of IP, everywhere.\"",
+    "title_zh": "Palantir 的 Karp 再次攻擊前沿人工智慧實驗室，這些實驗室“試圖讓我們吸毒”",
+    "summary_zh": "卡普表示，當前沿實驗室「提煉了世界各地知識產權的所有價值」時，不能怪中國模式提煉了美國模式。"
+  },
+  {
+    "title": "Albertsons CEO Susan Morris Buys $450,000 on the Open Market. What Does This Mean for ACI Investors?",
+    "url": "https://www.fool.com/coverage/filings/2026/08/03/albertsons-ceo-susan-morris-buys-usd450-000-on-the-open-market-what-does-this-mean-for-aci-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Morris acquired stock at $11.42 per share during a 41% one-year decline, bringing her direct holdings to 1.1 million shares valued at $12.7 million.",
+    "published_at": "2026-08-04T05:30:01+08:00",
+    "stocks": [],
+    "uid": "8c3751ab522723d3399f0b7f5f321a3a",
+    "title_en": "Albertsons CEO Susan Morris Buys $450,000 on the Open Market. What Does This Mean for ACI Investors?",
+    "summary_en": "Morris acquired stock at $11.42 per share during a 41% one-year decline, bringing her direct holdings to 1.1 million shares valued at $12.7 million.",
+    "title_zh": "Albertsons 執行長 Susan Morris 在公開市場上購買了 45 萬美元。这对 ACI 投资者意味着什么？",
+    "summary_zh": ""
+  },
+  {
+    "title": "The Magnificent Seven Start Burning Cash (for Real)",
+    "url": "https://www.fool.com/investing/2026/08/03/the-magnificent-seven-start-burning-cash-for-real/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Earnings season is in full swing, and one common theme that spooked investors: cash burn.",
+    "published_at": "2026-08-04T05:28:34+08:00",
+    "stocks": [],
+    "uid": "1facc32a3e4861abfc06111381c8b023",
+    "title_en": "The Magnificent Seven Start Burning Cash (for Real)",
+    "summary_en": "Earnings season is in full swing, and one common theme that spooked investors: cash burn.",
+    "title_zh": "七巨頭開始燒錢（真的）",
+    "summary_zh": "財報季正如火如荼地進行，而令投資者感到恐慌的一個常見主題是：燒錢。"
+  },
+  {
+    "title": "Education Dept. to Wipe Out Student Loans of 170,000 More Defrauded Borrowers",
+    "url": "https://www.nytimes.com/2026/08/03/business/student-loans-borrower-defense.html",
+    "source": "NYT Business",
+    "summary": "The sprawling case, centered on students defrauded by for-profit schools, has now become the largest class-action settlement in American history.",
+    "published_at": "2026-08-04T05:24:02+08:00",
+    "stocks": [],
+    "uid": "b017e15968fb31cb768080182d6575a3",
+    "title_en": "Education Dept. to Wipe Out Student Loans of 170,000 More Defrauded Borrowers",
+    "summary_en": "The sprawling case, centered on students defrauded by for-profit schools, has now become the largest class-action settlement in American history.",
+    "title_zh": "教育部將取消17萬名受騙借款人的學生貸款",
+    "summary_zh": "這起涉及營利性學校欺騙學生的龐大案件現已成為美國歷史上最大的集體訴訟和解案。"
+  },
+  {
+    "title": "Realty Income Has Paid a Monthly Dividend for 673 Straight Months. Here's What That Means for Income Investors.",
+    "url": "https://www.fool.com/investing/2026/08/03/realty-income-has-paid-a-monthly-dividend-for-673/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This REIT has distributed a payout longer than many of its shareholders have been alive.",
+    "published_at": "2026-08-04T05:05:00+08:00",
+    "stocks": [],
+    "uid": "6f577a26529ae2091acfaf360d84eeb9",
+    "title_en": "Realty Income Has Paid a Monthly Dividend for 673 Straight Months. Here's What That Means for Income Investors.",
+    "summary_en": "This REIT has distributed a payout longer than many of its shareholders have been alive.",
+    "title_zh": "房地產收入已連續 673 個月每月支付股息。這對收益投資者意味著什麼。",
+    "summary_zh": "該房地產投資信託基金派發股息的時間比其許多股東的生存時間還要長。"
+  },
+  {
+    "title": "Should ETF Investors Flock to Municipal Bonds or Treasuries in 2026?",
+    "url": "https://www.fool.com/coverage/etfs/2026/08/03/should-etf-investors-flock-to-municipal-bonds-or-treasuries-in-2026/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "MUB offers lower costs and stronger 5-year returns, while IEI provides government backing and higher current yield. Which fits your tax situation?",
+    "published_at": "2026-08-04T05:01:01+08:00",
+    "stocks": [],
+    "uid": "a2c81b9612b4fdd97ae75b76405c81c5",
+    "title_en": "Should ETF Investors Flock to Municipal Bonds or Treasuries in 2026?",
+    "summary_en": "MUB offers lower costs and stronger 5-year returns, while IEI provides government backing and higher current yield. Which fits your tax situation?",
+    "title_zh": "2026 年 ETF 投資者是否應該湧向市政債券或國債？",
+    "summary_zh": "MUB 提供更低的成本和更強的 5 年回報，而 IEI 提供政府支持和更高的當前收益率。哪一個適合您的稅務狀況？"
+  },
+  {
+    "title": "Why The Bancorp Stock Popped Again Today",
+    "url": "https://www.fool.com/investing/2026/08/03/why-the-bancorp-stock-popped-again-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Two analysts raised their price targets on the company's equity.",
+    "published_at": "2026-08-04T04:58:00+08:00",
+    "stocks": [],
+    "uid": "2597e8be01f3d17e947a743f910f7ff8",
+    "title_en": "Why The Bancorp Stock Popped Again Today",
+    "summary_en": "Two analysts raised their price targets on the company's equity.",
+    "title_zh": "為什麼 Bancorp 股票今天再次上漲",
+    "summary_zh": "兩位分析師上調了該公司股票的目標價。"
+  },
+  {
+    "title": "Larry Berg named next Major League Soccer commissioner",
+    "url": "https://www.cnbc.com/2026/08/03/larry-berg-major-league-soccer-commissioner.html",
+    "source": "CNBC Top",
+    "summary": "Larry Berg will take over as MLS commissioner from Don Garber next year. He will sell his stake in Los Angeles FC.",
+    "published_at": "2026-08-04T04:46:57+08:00",
+    "stocks": [],
+    "uid": "6bdb37ce8e86d5d321618ca7c59ad1e9",
+    "title_en": "Larry Berg named next Major League Soccer commissioner",
+    "summary_en": "Larry Berg will take over as MLS commissioner from Don Garber next year. He will sell his stake in Los Angeles FC.",
+    "title_zh": "拉里·伯格被任命為美國職業足球大聯盟下一任專員",
+    "summary_zh": "拉里·伯格（Larry Berg）將於明年接替唐·加伯（Don Garber）擔任美國職業足球大聯盟（MLS）專員。他將出售其在洛杉磯足球俱樂部的股份。"
+  },
+  {
+    "title": "Rivian Cuts Spending by $250 Million -- Here's What the New Guidance Means for Investors",
+    "url": "https://www.fool.com/investing/2026/08/03/what-hot-tickers-latest-guidance-means-for-investo/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Rivian surprised the market by slashing capital expenditure guidance.",
+    "published_at": "2026-08-04T04:45:00+08:00",
+    "stocks": [],
+    "uid": "dff40c83783c29e3bb81881885f0cb7c"
+  },
+  {
+    "title": "This indicator is giving the bull market another lease on life",
+    "url": "https://www.marketwatch.com/story/this-indicator-is-giving-the-bull-market-another-lease-on-life-47479269?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Stock-market timers recently rushed to the exits, which is bullish from a contrarian perspective.",
+    "published_at": "2026-08-04T04:44:00+08:00",
+    "stocks": [],
+    "uid": "73a58fd8996a06206f1e2d22d4da3b63",
+    "title_en": "This indicator is giving the bull market another lease on life",
+    "summary_en": "Stock-market timers recently rushed to the exits, which is bullish from a contrarian perspective.",
+    "title_zh": "該指標讓牛市再次煥發活力",
+    "summary_zh": "股市定時器最近急於退出，從逆勢角度來看這是看漲的。"
+  },
+  {
+    "title": "AI Power Demand Is Fueling a Nuclear Boom. This IPO Stock Just Joined the List.",
+    "url": "https://www.fool.com/investing/2026/08/03/ai-power-demand-is-fueling-a-nuclear-boom-this-ipo-stock-just-joined-the-list/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Another SMR stock is expected to make its public debut.",
+    "published_at": "2026-08-04T04:39:01+08:00",
+    "stocks": [],
+    "uid": "7c32dd142108e49659da7f9164b3da79",
+    "title_en": "AI Power Demand Is Fueling a Nuclear Boom. This IPO Stock Just Joined the List.",
+    "summary_en": "Another SMR stock is expected to make its public debut.",
+    "title_zh": "人工智能电力需求正在推动核热繁荣。該 IPO 股票剛剛加入名單。",
+    "summary_zh": "另一支 SMR 股票預計將首次公開亮相。"
+  },
+  {
+    "title": "Five Idle Thoughts of a Summer’s Day, Vol. 3",
+    "url": "https://www.fool.com/investing/2026/08/03/five-idle-thoughts-of-a-summers-day-vol-3/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Setting aside the markets for a week, this episode wanders through technology, sports, business, demographics, literature, and a few unexpected places in between.",
+    "published_at": "2026-08-04T04:35:57+08:00",
+    "stocks": [],
+    "uid": "f295a0343c75183a333df882a1385f02",
+    "title_en": "Five Idle Thoughts of a Summer’s Day, Vol. 3",
+    "summary_en": "Setting aside the markets for a week, this episode wanders through technology, sports, business, demographics, literature, and a few unexpected places in between.",
+    "title_zh": "夏日的五個閒思，卷。 3",
+    "summary_zh": "拋開市場一周，這一集的內容涉及技術、體育、商業、人口統計、文學以及介於兩者之間的一些意想不到的地方。"
+  },
+  {
+    "title": "Advance Auto Parts vs. Delta Air Lines: Should Investors Look to the Skies or the Garage in 2026?",
+    "url": "https://www.fool.com/coverage/better-buy/2026/08/03/advance-auto-parts-vs-delta-air-lines-should-investors-look-to-the-skies-or-the-garage-in-2026/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Delta's 7.9% net margin and $3.8B free cash flow dwarf Advance Auto Parts' 0.5% margin and negative cash flow, but valuation tells a different story.",
+    "published_at": "2026-08-04T04:32:01+08:00",
+    "stocks": [],
+    "uid": "590b40b073ad557f53072a96d92ef2d7",
+    "title_en": "Advance Auto Parts vs. Delta Air Lines: Should Investors Look to the Skies or the Garage in 2026?",
+    "summary_en": "Delta's 7.9% net margin and $3.8B free cash flow dwarf Advance Auto Parts' 0.5% margin and negative cash flow, but valuation tells a different story.",
+    "title_zh": "Advance Auto Parts 與達美航空：2026 年投資者應該關注天空還是車庫？",
+    "summary_zh": "達美航空 7.9% 的淨利潤率和 3.8B 美元的自由現金流使 Advance Auto Parts 的 0.5% 利潤率和負現金流相形見絀，但估值卻講述了不同的故事。"
+  },
+  {
+    "title": "Traders in the world’s most important financial market are bracing for a wild stretch ahead",
+    "url": "https://www.marketwatch.com/story/traders-in-the-worlds-most-important-financial-market-are-bracing-for-a-wild-stretch-ahead-4a1507dc?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Volatility is ticking higher in the $30 trillion Treasury market as investors bet that yields will push higher.",
+    "published_at": "2026-08-04T04:32:00+08:00",
+    "stocks": [],
+    "uid": "055c08e8a365c18041556c3276e1ea6d",
+    "title_en": "Traders in the world’s most important financial market are bracing for a wild stretch ahead",
+    "summary_en": "Volatility is ticking higher in the $30 trillion Treasury market as investors bet that yields will push higher.",
+    "title_zh": "全球最重要的金融市場的交易者正在為未來的瘋狂發展做好準備",
+    "summary_zh": "由於投資者押注殖利率將走高，30 兆美元的國債市場的波動性正在加劇。"
+  },
+  {
+    "title": "Down 38% From Its High, Is Bloom Energy Stock a Buy?",
+    "url": "https://www.fool.com/investing/2026/08/03/down-38-from-its-high-is-bloom-energy-stock-a-buy/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The energy stock has been falling sharply of late.",
+    "published_at": "2026-08-04T04:30:30+08:00",
+    "stocks": [],
+    "uid": "b7f164a5027569321e97cb5c1c116664",
+    "title_en": "Down 38% From Its High, Is Bloom Energy Stock a Buy?",
+    "summary_en": "The energy stock has been falling sharply of late.",
+    "title_zh": "Bloom Energy 股票較高位下跌 38%，值得買進嗎？",
+    "summary_zh": ""
+  },
+  {
+    "title": "Prediction: Within 18 Months, Microsoft Will Be More Valuable Than Apple",
+    "url": "https://www.fool.com/investing/2026/08/03/prediction-within-18-months-microsoft-will-be-more/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Apple has been a much hotter stock than Microsoft over the past year, but things could change drastically in the not-too-distant future.",
+    "published_at": "2026-08-04T04:30:00+08:00",
+    "stocks": [],
+    "uid": "1d9d45d9a3afc5198b138ae1f43c4aa0",
+    "title_en": "Prediction: Within 18 Months, Microsoft Will Be More Valuable Than Apple",
+    "summary_en": "Apple has been a much hotter stock than Microsoft over the past year, but things could change drastically in the not-too-distant future.",
+    "title_zh": "預測：18 個月內，微軟將比蘋果更有價值",
+    "summary_zh": "在過去的一年裡，蘋果的股票比微軟更熱門，但在不久的將來情況可能會發生巨大變化。"
+  },
+  {
+    "title": "Why Commvault Systems Rocked the Market Today",
+    "url": "https://www.fool.com/investing/2026/08/03/why-commvault-systems-rocked-the-market-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The company announced a new integration with a tech titan it has partnered with for years.",
+    "published_at": "2026-08-04T04:28:50+08:00",
+    "stocks": [],
+    "uid": "d960dccfc8a19450a75906992f0581d2",
+    "title_en": "Why Commvault Systems Rocked the Market Today",
+    "summary_en": "The company announced a new integration with a tech titan it has partnered with for years.",
+    "title_zh": "為什麼 Commvault 系統如今震撼市場",
+    "summary_zh": "該公司宣布與其合作多年的科技巨頭進行新的整合。"
+  },
+  {
+    "title": "Vornado Announces Second Quarter 2026 Financial Results",
+    "url": "https://markets.businessinsider.com/news/stocks/vornado-announces-second-quarter-2026-financial-results-1036402174",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;NEW YORK, Aug.  03, 2026  (GLOBE NEWSWIRE) -- Vornado Realty Trust (NYSE: VNO) reported today:&lt;p align=&quot;justify&quot;&gt;&lt;em&gt;&lt;u&gt;Quarter Ended June 30, 2026 Financial Results&lt;/u&gt;&lt;/em&gt; &lt;p align=&quot;justify&quot;&gt;NET INCOME attributable to common shareholders for the...",
+    "published_at": "2026-08-04T04:25:06+08:00",
+    "stocks": [],
+    "uid": "10a3de05578b2541f3cbf2684d238335",
+    "title_en": "Vornado Announces Second Quarter 2026 Financial Results",
+    "summary_en": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;NEW YORK, Aug.  03, 2026  (GLOBE NEWSWIRE) -- Vornado Realty Trust (NYSE: VNO) reported today:&lt;p align=&quot;justify&quot;&gt;&lt;em&gt;&lt;u&gt;Quarter Ended June 30, 2026 Financial Results&lt;/u&gt;&lt;/em&gt; &lt;p align=&quot;justify&quot;&gt;NET INCOME attributable to common shareholders for the...",
+    "title_zh": "Vornado 公佈 2026 年第二季財務業績",
+    "summary_zh": ""
+  },
+  {
+    "title": "Hillman to Acquire Kanebridge, Establishes Industrial Master Distribution Presence in U.S.",
+    "url": "https://markets.businessinsider.com/news/stocks/hillman-to-acquire-kanebridge-establishes-industrial-master-distribution-presence-in-u-s-1036402171",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;center&quot;&gt;&lt;em&gt;Strategic Acquisition of Fastener Distributor Advances Hillman's Presence in Untapped Industrial Market&#160;&lt;/em&gt;&lt;p align=&quot;center&quot;&gt;&lt;em&gt;Increases Industrial Total Addressable Market to $3 Billion while Diversifying Customer and...",
+    "published_at": "2026-08-04T04:25:00+08:00",
+    "stocks": [],
+    "uid": "3eedfcd3fc1b9238abf3f7b3b840df57"
+  },
+  {
+    "title": "Max Out Financial Reimagines the Insurance Agency for the AI Era",
+    "url": "https://markets.businessinsider.com/news/stocks/max-out-financial-reimagines-the-insurance-agency-for-the-ai-era-1036402173",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;center&quot;&gt;&lt;img alt=&quot;Michael Schaefer&quot; data-mce-style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; height=&quot;450&quot;...",
+    "published_at": "2026-08-04T04:24:58+08:00",
+    "stocks": [],
+    "uid": "3d39dd93896d568480aa3bce5938b879"
+  },
+  {
+    "title": "AirSculpt Technologies Announces Earnings Release Date, Conference Call, and Webcast for Second Quarter Fiscal 2026 Results",
+    "url": "https://markets.businessinsider.com/news/stocks/airsculpt-technologies-announces-earnings-release-date-conference-call-and-webcast-for-second-quarter-fiscal-2026-results-1036402172",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;justify&quot;&gt;MIAMI BEACH, Fla., Aug.  03, 2026  (GLOBE NEWSWIRE) -- AirSculpt Technologies, Inc. (&quot;AirSculpt&quot; or the &quot;Company&quot;) (NASDAQ: AIRS) an industry leader and provider of premium body contouring procedures, today announced it will...",
+    "published_at": "2026-08-04T04:24:45+08:00",
+    "stocks": [],
+    "uid": "adf08350669da5a01009eca65e6f00fe"
+  },
+  {
     "title": "Snap's stock jumps 10% on earnings beat and strong sales forecast",
     "url": "https://www.cnbc.com/2026/08/03/snap-q2-earnings-report-2026.html",
     "source": "CNBC Top",
@@ -11,6 +435,24 @@
     "summary_en": "Snap beat analysts' estimates across the board in its second-quarter earnings report.",
     "title_zh": "獲利改善和銷售預期強勁，Snap 股價上漲 10%",
     "summary_zh": "Snap 在第二季財報中全面超出了分析師的預期。"
+  },
+  {
+    "title": "Smartbird Nominates Tech Industry Veterans Elizabeth Mora and Dan Kasun for Election to Its Board of Directors",
+    "url": "https://markets.businessinsider.com/news/stocks/smartbird-nominates-tech-industry-veterans-elizabeth-mora-and-dan-kasun-for-election-to-its-board-of-directors-1036402134",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;left&quot;&gt;SAN FRANCISCO, Aug.  03, 2026  (GLOBE NEWSWIRE) -- Smartbird, Inc. (NASDAQ: BIRD), an AI infrastructure provider, today announced the nomination of Elizabeth Mora and Dan Kasun for election to its board of directors at the company’s...",
+    "published_at": "2026-08-04T04:20:00+08:00",
+    "stocks": [],
+    "uid": "ca991e7e0694a95cea8047267dd5693b"
+  },
+  {
+    "title": "ROSEN, A LONGSTANDING LAW FIRM, Encourages Hertz Global Holdings, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - HTZ",
+    "url": "https://markets.businessinsider.com/news/stocks/rosen-a-longstanding-law-firm-encourages-hertz-global-holdings-inc.-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-htz-1036402166",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/307750/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px;  height: 1px;border: 0px solid;&quot;&gt;New York, New York--(Newsfile Corp. - August 3, 2026) - &lt;b&gt;WHY:&lt;/b&gt;&#160;Rosen Law Firm, a global investor rights law firm, reminds purchasers of common stock of Hertz Global Holdings, Inc. (NASDAQ:",
+    "published_at": "2026-08-04T04:20:00+08:00",
+    "stocks": [],
+    "uid": "d4567d3c6c6f1caa84d36e71889e94be"
   },
   {
     "title": "Palantir posts blowout Q2 numbers, with U.S. commercial revenue soaring nearly 150%",
@@ -26,6 +468,42 @@
     "summary_zh": "Palantir 第二季度收益超出預期，這家人工智慧軟體公司上調了收入指引。"
   },
   {
+    "title": "RXT CLASS ACTION: Investors with Losses in Rackspace Technology Should Contact Block & Leviton Before Sept. 28",
+    "url": "https://markets.businessinsider.com/news/stocks/rxt-class-action-investors-with-losses-in-rackspace-technology-should-contact-block-leviton-before-sept.-28-1036402167",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/307749/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px;  height: 1px;border: 0px solid;&quot;&gt;Boston, Massachusetts--(Newsfile Corp. - August 3, 2026) - Block  Leviton announces that a securities fraud lawsuit has been filed against Rackspace Technology (Nasdaq: RXT) and certain of its executives.",
+    "published_at": "2026-08-04T04:19:00+08:00",
+    "stocks": [],
+    "uid": "3cb9ef403fb781acdb3f13047d8616f2"
+  },
+  {
+    "title": "Zillow Group Securities Fraud Class Action Arising from Alleged Anticompetitive Agreement and Related Regulatory Risks - Investors May Contact Lewis Kahn, Esq., at Kahn Swick & Foti, LLC",
+    "url": "https://markets.businessinsider.com/news/stocks/zillow-group-securities-fraud-class-action-arising-from-alleged-anticompetitive-agreement-and-related-regulatory-risks-investors-may-contact-lewis-kahn-esq.-at-kahn-swick-foti-llc-1036247229",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/307742/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px;  height: 1px;border: 0px solid;&quot;&gt;New York, New York and New Orleans, Louisiana--(Newsfile Corp. - August 3, 2026) - Kahn Swick  Foti, LLC (&quot;KSF&quot;) and KSF partner, former Attorney General of Louisiana, Charles C. Foti, Jr., remind...",
+    "published_at": "2026-08-04T04:19:00+08:00",
+    "stocks": [],
+    "uid": "4c7c78aa9a619f51e89d12fe381d5fd7"
+  },
+  {
+    "title": "ROSEN, LEADING TRIAL ATTORNEYS, Encourages Primoris Services Corporation Investors to Secure Counsel Before Important Deadline in Securities Class Action - PRIM",
+    "url": "https://markets.businessinsider.com/news/stocks/rosen-leading-trial-attorneys-encourages-primoris-services-corporation-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-prim-1036402168",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/307748/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px;  height: 1px;border: 0px solid;&quot;&gt;New York, New York--(Newsfile Corp. - August 3, 2026) - &lt;b&gt;WHY:&lt;/b&gt;&#160;Rosen Law Firm, a global investor rights law firm, reminds purchasers of common stock of Primoris Services Corporation (NYSE:",
+    "published_at": "2026-08-04T04:18:00+08:00",
+    "stocks": [],
+    "uid": "c9d020ae7c82445305c8ceadebd40c36"
+  },
+  {
+    "title": "WIX CLASS ACTION: Wix.com Investors Should Contact Block & Leviton Before Sept. 22 Deadline",
+    "url": "https://markets.businessinsider.com/news/stocks/wix-class-action-wix.com-investors-should-contact-block-leviton-before-sept.-22-deadline-1036402169",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/307741/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px;  height: 1px;border: 0px solid;&quot;&gt;Boston, Massachusetts--(Newsfile Corp. - August 3, 2026) - Block  Leviton reminds investors that a securities fraud lawsuit has been filed against Wix.com Ltd. (NASDAQ: WIX) and certain of its executives.",
+    "published_at": "2026-08-04T04:17:00+08:00",
+    "stocks": [],
+    "uid": "4e98736c0458e9299af4a34025105b3b"
+  },
+  {
     "title": "Palantir’s stock gains as AI drives turbocharged growth",
     "url": "https://www.marketwatch.com/story/palantirs-stock-gains-as-ai-drives-turbocharged-growth-e006b70a?mod=mw_rss_topstories",
     "source": "MarketWatch",
@@ -37,6 +515,42 @@
     "summary_en": "Companies are turning to Palantir for greater autonomy over their AI models and data, according to CEO Alex Karp.",
     "title_zh": "人工智慧推動強勁成長，Palantir 股價上漲",
     "summary_zh": "執行長 Alex Karp 表示，該公司正在轉向 Palantir，以獲得對其人工智慧模型和數據的更大自主權。"
+  },
+  {
+    "title": "Cathie Wood's Ark Invest Sold $11.8 Million of AMD Stock on a Single Day Last Month. Should Other Investors Also Sell?",
+    "url": "https://www.fool.com/investing/2026/08/03/cathie-woods-ark-sold-12-million-of-amd-stock/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The sale was part of the $68.1 million in AMD share sales it reported in July.",
+    "published_at": "2026-08-04T04:07:00+08:00",
+    "stocks": [],
+    "uid": "026a914de0c132d32029b7a20b8bfe6c"
+  },
+  {
+    "title": "Redwire vs. Advance Auto Parts: Should Investors Be Looking to Space or Down the Street for Profits in 2026?",
+    "url": "https://www.fool.com/coverage/better-buy/2026/08/03/redwire-vs-advance-auto-parts-should-investors-be-looking-to-space-or-down-the-street-for-profits-in-2026/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Redwire chases high-growth space contracts while burning cash; Advance Auto Parts is cheaper but saddled with debt and a shrinking store base.",
+    "published_at": "2026-08-04T04:05:01+08:00",
+    "stocks": [],
+    "uid": "ba03bf12bfb54b2446106b3a6678f404"
+  },
+  {
+    "title": "Booking vs. CAVA: Which Consumer Stock Is a Better Buy in 2026?",
+    "url": "https://www.fool.com/coverage/better-buy/2026/08/03/booking-vs-cava-which-consumer-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Booking's superior margins stand in sharp contrast to CAVA's aggressive expansion, but the valuation tells a very different story.",
+    "published_at": "2026-08-04T04:03:01+08:00",
+    "stocks": [],
+    "uid": "f451ce970cd20af8d1155c4a06f63a19"
+  },
+  {
+    "title": "Winning Physically and Financially: How Working to 70 and Delaying Social Security Stack the Deck in Your Favor",
+    "url": "https://www.fool.com/retirement/2026/08/03/winning-physically-and-financially-how-working-to/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "You may know that waiting to claim Social Security until age 70 is financially beneficial, but did you know it may also help keep you healthy? Here's how.",
+    "published_at": "2026-08-04T04:00:00+08:00",
+    "stocks": [],
+    "uid": "002d351e2305a287abe8471daebc0538"
   },
   {
     "title": "Twenty five states sue Trump administration over latest global tariffs",
@@ -5772,6 +6286,24 @@
     "summary_zh": ""
   },
   {
+    "title": "Dear Teva Pharmaceutical Stock Fans, Mark Your Calendars for September 14",
+    "url": "https://finance.yahoo.com/healthcare/articles/dear-teva-pharmaceutical-stock-fans-141402893.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-02T22:14:02+08:00",
+    "stocks": [],
+    "uid": "6581cedf58ac09afc65422962c0b9763"
+  },
+  {
+    "title": "CoreWeave Just Scored a Leidos Partnership. What That Means for CRWV Stock Here.",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-just-scored-leidos-partnership-141239028.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-02T22:12:39+08:00",
+    "stocks": [],
+    "uid": "cd356e3afa7c0ad16591b2c642f1678a"
+  },
+  {
     "title": "3 Reasons to Buy Reddit Stock in August",
     "url": "https://www.fool.com/investing/2026/08/02/3-reasons-to-buy-reddit-stock-in-august/?source=iedfolrf0000001",
     "source": "Motley Fool",
@@ -5809,6 +6341,15 @@
     "summary_en": "Failing to plan for this could derail your retirement budget in a hurry.",
     "title_zh": "這項費用使退休人員平均花費 185,500 美元。如何確保您已做好準備。",
     "summary_zh": "如果不為此做好計劃，您的退休預算可能會迅速脫軌。"
+  },
+  {
+    "title": "Why Steel Stocks Are the Perfect Blend Between a Hot AI Trade and a Crash-Proof Portfolio",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/why-steel-stocks-perfect-blend-140002138.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-02T22:00:02+08:00",
+    "stocks": [],
+    "uid": "22c2d058f9a256d9793fb2a2b2472aaa"
   },
   {
     "title": "S&P 500 profit growth is getting even wilder as Amazon makes its mark",
@@ -6021,6 +6562,15 @@
     "summary_zh": ""
   },
   {
+    "title": "Microsoft vs. Apple: Comparing Revenue Trends and the Impact of Artificial Intelligence",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-vs-apple-comparing-revenue-131301005.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-02T21:13:01+08:00",
+    "stocks": [],
+    "uid": "748dc564c3bec3e79431a040974753ba"
+  },
+  {
     "title": "The Bond Market Just Called Fed Chair Kevin Warsh's Bluff on Interest Rates",
     "url": "https://www.fool.com/investing/2026/08/02/bond-market-call-kevin-warsh-bluff-interest-rates/?source=iedfolrf0000001",
     "source": "Motley Fool",
@@ -6034,6 +6584,15 @@
     "summary_en": "Bond traders aren't counting on Warsh and the Federal Open Market Committee (FOMC) to sit on their proverbial hands for much longer.",
     "title_zh": "債券市場剛剛稱聯準會主席凱文沃什在利率問題上虛張聲勢",
     "summary_zh": "債券交易員並不指望沃什和聯邦公開市場委員會（FOMC）能夠長期袖手旁觀。"
+  },
+  {
+    "title": "Peter Beck's Rocket Lab Reports Earnings on Aug. 10. Here's the One Number That Will Move the Stock.",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/peter-becks-rocket-lab-reports-130500464.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-02T21:05:00+08:00",
+    "stocks": [],
+    "uid": "9d1214e1878f76536a749f8f68673f92"
   },
   {
     "title": "Is now the time to buy European equities?",
@@ -6060,6 +6619,15 @@
     "summary_en": "",
     "title_zh": "搖搖欲墜的美國股市面臨就業報告和財報週",
     "summary_zh": ""
+  },
+  {
+    "title": "Mistakes That Make Budgeting Harder",
+    "url": "https://finance.yahoo.com/markets/articles/mistakes-budgeting-harder-130011196.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-02T21:00:11+08:00",
+    "stocks": [],
+    "uid": "88e0a3c52c728e08ff8845c0730ed6f4"
   },
   {
     "title": "Wedbush Flags Near-Term Risks From Nvidia’s Alleged OpenAI Data Center Support",
@@ -6113,6 +6681,24 @@
     "summary_en": "Apple’s gamble on the budget MacBook Neo is paying off and forcing rivals to rethink their offerings.",
     "title_zh": "蘋果廉價 MacBook Neo 如何引發廉價筆記型電腦大戰",
     "summary_zh": "蘋果在廉價版 MacBook Neo 上的賭博正在獲得回報，並迫使競爭對手重新考慮他們的產品。"
+  },
+  {
+    "title": "HSBC Says Stocks Have More Room to Rise as Market Sell Signal Fades",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/hsbc-says-stocks-more-room-130000765.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-02T21:00:00+08:00",
+    "stocks": [],
+    "uid": "42a7602e6813de1787d2046ed3b3afa8"
+  },
+  {
+    "title": "South Koreans are Sending Stablecoins to Foreign Exchanges at Record Rate",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/south-koreans-sending-stablecoins-foreign-130000728.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-02T21:00:00+08:00",
+    "stocks": [],
+    "uid": "49340958ff6218d4b0a669e45c27966a"
   },
   {
     "title": "BigBear.ai vs. D-Wave Quantum: Which Technology Stock Is a Better Buy in 2026?",
