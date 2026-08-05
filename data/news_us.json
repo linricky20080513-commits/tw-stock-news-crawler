@@ -1,5 +1,762 @@
 [
   {
+    "title": "The New York Times’ Revenue Rises 11%",
+    "url": "https://www.nytimes.com/2026/08/05/business/media/new-york-times-earnings-q2.html",
+    "source": "NYT Business",
+    "summary": "The company said it added 280,000 digital subscribers in the second quarter.",
+    "published_at": "2026-08-05T19:08:48+08:00",
+    "stocks": [],
+    "uid": "aaeb479b9ebaaa2e2c9e78b6244da645",
+    "title_en": "The New York Times’ Revenue Rises 11%",
+    "summary_en": "The company said it added 280,000 digital subscribers in the second quarter.",
+    "title_zh": "《紐約時報》營收成長 11%",
+    "summary_zh": ""
+  },
+  {
+    "title": "Uber issues weaker-than-expected bookings, earnings forecasts for third quarter",
+    "url": "https://www.cnbc.com/2026/08/05/uber-stock-q2-2026-earnings.html",
+    "source": "CNBC Markets",
+    "summary": "Uber's earnings were in line with estimates, but the company's guidance for the third quarter trailed expectations.",
+    "published_at": "2026-08-05T19:06:28+08:00",
+    "stocks": [],
+    "uid": "6aa0c43b0db5acc8aac2664e613308dd",
+    "title_en": "Uber issues weaker-than-expected bookings, earnings forecasts for third quarter",
+    "summary_en": "Uber's earnings were in line with estimates, but the company's guidance for the third quarter trailed expectations.",
+    "title_zh": "Uber發布第三季預訂量和獲利預測均低於預期",
+    "summary_zh": "優步的獲利符合預期，但該公司第三季的指引低於預期。"
+  },
+  {
+    "title": "The S&P 500 just hit a new high. ‘Big Short’ investor Michael Burry thinks it could bring a 1987-style fall.",
+    "url": "https://www.marketwatch.com/story/the-s-p-500-just-hit-a-new-high-big-short-investor-michael-burry-thinks-it-could-bring-a-1987-style-fall-775c3b95?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The famed investor says watch out after that S&amp;P 500 surge on Tuesday. He’s not budging from some bearish tech views.",
+    "published_at": "2026-08-05T19:05:00+08:00",
+    "stocks": [],
+    "uid": "909203aa4b7d594f45c0489327c4b283",
+    "title_en": "The S&P 500 just hit a new high. ‘Big Short’ investor Michael Burry thinks it could bring a 1987-style fall.",
+    "summary_en": "The famed investor says watch out after that S&amp;P 500 surge on Tuesday. He’s not budging from some bearish tech views.",
+    "title_zh": "標普 500 指數剛創下新高。 「大空頭」投資者 Michael Burry 認為這可能會帶來 1987 年式的下跌。",
+    "summary_zh": "這位著名投資者表示，週二標準普爾 500 指數飆升後要保持警惕。他並沒有改變一些看跌科技股的觀點。"
+  },
+  {
+    "title": "Lilly’s revenue soars 48%, driven by demand of its GLP-1s",
+    "url": "https://www.marketwatch.com/story/lillys-revenue-soars-48-driven-by-demand-of-its-glp-1s-7361c223?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Its sales were driven by higher-than-expected demand for Mounjaro and Zepbound, its GLP-1 drugs for Type 2 diabetes and weight loss.",
+    "published_at": "2026-08-05T19:04:00+08:00",
+    "stocks": [],
+    "uid": "d8526460d6b25ddff9b7451736ca1a9d",
+    "title_en": "Lilly’s revenue soars 48%, driven by demand of its GLP-1s",
+    "summary_en": "Its sales were driven by higher-than-expected demand for Mounjaro and Zepbound, its GLP-1 drugs for Type 2 diabetes and weight loss.",
+    "title_zh": "受 GLP-1 需求推動，禮來公司營收飆漲 48%",
+    "summary_zh": "該公司銷售的主要動力是其治療第 2 型糖尿病和減肥的 GLP-1 藥物 Mounjaro 和 Zepbound 的需求高於預期。"
+  },
+  {
+    "title": "UFlex opens WPP bag manufacturing facility in Mexico",
+    "url": "https://finance.yahoo.com/small-business/articles/uflex-opens-wpp-bag-manufacturing-110206397.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T19:02:06+08:00",
+    "stocks": [],
+    "uid": "5ca79bc97ffb58c7c2cc432818ba20d5",
+    "title_en": "UFlex opens WPP bag manufacturing facility in Mexico",
+    "summary_en": "",
+    "title_zh": "UFlex 在墨西哥開設 WPP 袋子製造廠",
+    "summary_zh": ""
+  },
+  {
+    "title": "Is it a bad time to buy a home? Buyers say yes, data shows.",
+    "url": "https://www.marketwatch.com/story/is-it-a-bad-time-to-buy-a-home-buyers-say-yes-data-show-ffa599d1?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "More people are hitting pause on buying a home, as surging mortgage rates continue to hinder the housing market.",
+    "published_at": "2026-08-05T19:00:00+08:00",
+    "stocks": [],
+    "uid": "3906265513e22d0b8b5c04179a43f7fe",
+    "title_en": "Is it a bad time to buy a home? Buyers say yes, data shows.",
+    "summary_en": "More people are hitting pause on buying a home, as surging mortgage rates continue to hinder the housing market.",
+    "title_zh": "現在是買房的不好時機嗎？數據顯示，買家表示願意。",
+    "summary_zh": "由於抵押貸款利率飆升繼續阻礙房地產市場，越來越多的人暫停購房。"
+  },
+  {
+    "title": "Mark Zuckerberg's Meta Just Suffered an 11-Day Losing Streak That Erased $17.8 Billion From His Net Worth. Is the AI Bet Still Worth It?",
+    "url": "https://www.fool.com/investing/2026/08/05/mark-zuckerbergs-meta-just-suffered-an-11-day-losi/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Investors are increasingly concerned about Meta's AI spending and its impact on the company's cash flow.",
+    "published_at": "2026-08-05T19:00:00+08:00",
+    "stocks": [],
+    "uid": "29ee4de36cc4ee520dd620765f04cc85",
+    "title_en": "Mark Zuckerberg's Meta Just Suffered an 11-Day Losing Streak That Erased $17.8 Billion From His Net Worth. Is the AI Bet Still Worth It?",
+    "summary_en": "Investors are increasingly concerned about Meta's AI spending and its impact on the company's cash flow.",
+    "title_zh": "馬克祖克柏 (Mark Zuckerberg) 的 Meta 剛剛遭遇 11 天連跌，淨資產蒸發 178 億美元。人工智慧的賭注還值得嗎？",
+    "summary_zh": "投資者越來越關注 Meta 的人工智慧支出及其對公司現金流的影響。"
+  },
+  {
+    "title": "Is Now the Time for Investors to Pull Money Out of S&P 500 Index Funds?",
+    "url": "https://www.fool.com/investing/2026/08/05/is-now-the-time-for-investors-to-pull-money-out-of/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The S&amp;P 500 is flying high, but how long the rally might last is questionable.",
+    "published_at": "2026-08-05T19:00:00+08:00",
+    "stocks": [],
+    "uid": "770b3bd1b76db550a077b09234ce3b19",
+    "title_en": "Is Now the Time for Investors to Pull Money Out of S&P 500 Index Funds?",
+    "summary_en": "The S&amp;P 500 is flying high, but how long the rally might last is questionable.",
+    "title_zh": "現在是投資人從標普 500 指數基金撤資的時候嗎？",
+    "summary_zh": "標普 500 指數正在走高，但漲勢能持續多久還是值得懷疑的。"
+  },
+  {
+    "title": "CVS blows past estimates, hikes guidance as insurance unit continues to improve",
+    "url": "https://www.cnbc.com/2026/08/05/cvs-health-cvs-earnings-q2-2026.html",
+    "source": "CNBC Markets",
+    "summary": "CVS also announced a new collaboration with Eli Lilly that will make Zepbound and Foundayo accessible to eligible patients on the CVS Health app.",
+    "published_at": "2026-08-05T18:59:02+08:00",
+    "stocks": [],
+    "uid": "303b18e758ac66da7f90c84978f90962",
+    "title_en": "CVS blows past estimates, hikes guidance as insurance unit continues to improve",
+    "summary_en": "CVS also announced a new collaboration with Eli Lilly that will make Zepbound and Foundayo accessible to eligible patients on the CVS Health app.",
+    "title_zh": "隨著保險部門持續改善，CVS 超出了過去的預期並上調了指導",
+    "summary_zh": "CVS 也宣布與禮來公司 (Eli Lilly) 進行新的合作，使符合條件的患者可以透過 CVS Health 應用程式使用 Zepbound 和 Foundayo。"
+  },
+  {
+    "title": "VONG vs. MGK: Is Broad Growth Diversification or Mega-Cap Concentration the Better Buy for Investors?",
+    "url": "https://www.fool.com/coverage/etfs/2026/08/05/vong-vs-mgk-is-broad-growth-diversification-or-mega-cap-concentration-the-better-buy-for-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "MGK delivered higher five-year returns along with a steeper maximum drawdown than VONG over the same period.",
+    "published_at": "2026-08-05T18:58:05+08:00",
+    "stocks": [],
+    "uid": "d652991b18c31b44c49c320c6b9cfbfc",
+    "title_en": "VONG vs. MGK: Is Broad Growth Diversification or Mega-Cap Concentration the Better Buy for Investors?",
+    "summary_en": "MGK delivered higher five-year returns along with a steeper maximum drawdown than VONG over the same period.",
+    "title_zh": "VONG 與 MGK：對投資人來說，廣泛的成長多角化還是大型股集中化是更好的選擇？",
+    "summary_zh": "與 VONG 相比，MGK 同期的五年報酬率更高，最大回撤幅度也更大。"
+  },
+  {
+    "title": "Eli Lilly easily tops quarterly estimates, raises outlook as Zepbound and Mounjaro sales surge",
+    "url": "https://www.cnbc.com/2026/08/05/eli-lilly-lly-earnings-q2-2026.html",
+    "source": "CNBC Markets",
+    "summary": "Eli Lilly now expects 2026 revenue to come in between $85 billion and $87 billion, up from a previous guidance of $82 billion and $85 billion.",
+    "published_at": "2026-08-05T18:57:06+08:00",
+    "stocks": [],
+    "uid": "fc5e2480ae78a1e8e9ee3ea3347d5613",
+    "title_en": "Eli Lilly easily tops quarterly estimates, raises outlook as Zepbound and Mounjaro sales surge",
+    "summary_en": "Eli Lilly now expects 2026 revenue to come in between $85 billion and $87 billion, up from a previous guidance of $82 billion and $85 billion.",
+    "title_zh": "隨著 Zepbound 和 Mounjaro 銷量激增，禮來公司輕鬆超越季度預期並提高前景",
+    "summary_zh": "禮來公司目前預計 2026 年營收將在 850 億美元至 870 億美元之間，高於先前的 820 億美元至 850 億美元指引。"
+  },
+  {
+    "title": "Mastermyne wins Dendrobium mining services contract in NSW",
+    "url": "https://finance.yahoo.com/energy/articles/mastermyne-wins-dendrobium-mining-services-105637833.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T18:56:37+08:00",
+    "stocks": [],
+    "uid": "c753f3e0b4d430bfbdc49efceedf84cd",
+    "title_en": "Mastermyne wins Dendrobium mining services contract in NSW",
+    "summary_en": "",
+    "title_zh": "Mastermyne 贏得新南威爾斯州石斛蘭採礦服務合約",
+    "summary_zh": ""
+  },
+  {
+    "title": "Dow Jones Futures Rise; SpaceX, AMD Dive As Arista, Eli Lilly Jump With S&P 500 At Highs",
+    "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-spacex-amd-arista-eli-lily-earnings/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T18:55:13+08:00",
+    "stocks": [],
+    "uid": "3a1f2bdf0c0ca239441db40c5b9d6037",
+    "title_en": "Dow Jones Futures Rise; SpaceX, AMD Dive As Arista, Eli Lilly Jump With S&P 500 At Highs",
+    "summary_en": "",
+    "title_zh": "道瓊期貨上漲；SpaceX、AMD 跳水，Arista、禮來公司 (Eli Lilly) 隨標普 500 指數高點上漲",
+    "summary_zh": ""
+  },
+  {
+    "title": "Tariff refund drives Q2 profit at Delta Galil",
+    "url": "https://finance.yahoo.com/economy/policy/articles/tariff-refund-drives-q2-profit-105511889.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T18:55:11+08:00",
+    "stocks": [],
+    "uid": "40d7aefc06cfb8883d7ff4f7b4ed848c",
+    "title_en": "Tariff refund drives Q2 profit at Delta Galil",
+    "summary_en": "",
+    "title_zh": "關稅退款推動達美加利爾第二季獲利成長",
+    "summary_zh": ""
+  },
+  {
+    "title": "Got $500? 2 Magnificent AI Stocks to Buy Hand Over Fist Before the Anthropic IPO",
+    "url": "https://www.fool.com/investing/2026/08/05/magnificent-ai-stocks-buy-anthropic-ipo/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Amazon and Alphabet are smart backdoor ways to gain exposure to Anthropic while owning two AI giants built to win (with or without the start-up).",
+    "published_at": "2026-08-05T18:51:00+08:00",
+    "stocks": [],
+    "uid": "9d7fb6e798fd4b15d0de7adb1b561d57",
+    "title_en": "Got $500? 2 Magnificent AI Stocks to Buy Hand Over Fist Before the Anthropic IPO",
+    "summary_en": "Amazon and Alphabet are smart backdoor ways to gain exposure to Anthropic while owning two AI giants built to win (with or without the start-up).",
+    "title_zh": "有 500 美元嗎？ Anthropic IPO 前值得買的 2 隻優秀人工智慧股票",
+    "summary_zh": "亞馬遜和 Alphabet 是聰明的後門方式，可以透過後門方式獲得 Anthropic 的曝光度，同時擁有兩家旨在獲勝的人工智慧巨頭（無論有沒有新創公司）。"
+  },
+  {
+    "title": "Analyst: If SpaceX Delivers Even a Quarter of Elon Musk’s Promised Compute, Nvidia Could Hit $1 Trillion in Revenue",
+    "url": "https://finance.yahoo.com/technology/ai/articles/analyst-spacex-delivers-even-quarter-105001111.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T18:50:01+08:00",
+    "stocks": [],
+    "uid": "ce5d4c2e21b26977d3b1c3a889f8a0ab",
+    "title_en": "Analyst: If SpaceX Delivers Even a Quarter of Elon Musk’s Promised Compute, Nvidia Could Hit $1 Trillion in Revenue",
+    "summary_en": "",
+    "title_zh": "分析師：如果 SpaceX 交付的運算量達到馬斯克承諾的四分之一，英偉達的營收可能會達到 1 兆美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Peter Schiff says a ‘much bigger selloff’ in Bitcoin is coming. Here’s why — and how investors can prepare",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/peter-schiff-says-much-bigger-105000780.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T18:50:00+08:00",
+    "stocks": [],
+    "uid": "fb80fe46316d982b24fd5816d5b1999c",
+    "title_en": "Peter Schiff says a ‘much bigger selloff’ in Bitcoin is coming. Here’s why — and how investors can prepare",
+    "summary_en": "",
+    "title_zh": "彼得希夫表示，比特幣即將迎來「更大規模的拋售」。原因如下—以及投資者如何做好準備",
+    "summary_zh": ""
+  },
+  {
+    "title": "Better Buy: iShares Bitcoin ETF vs. Morgan Stanley Bitcoin ETF",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/better-buy-ishares-bitcoin-etf-105000800.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T18:50:00+08:00",
+    "stocks": [],
+    "uid": "3c7d8268adaf4bd33101ffff144753f7",
+    "title_en": "Better Buy: iShares Bitcoin ETF vs. Morgan Stanley Bitcoin ETF",
+    "summary_en": "",
+    "title_zh": "更好的選擇：iShares 比特幣 ETF 與摩根士丹利比特幣 ETF",
+    "summary_zh": ""
+  },
+  {
+    "title": "European stocks trade near peaks as corporate earnings boost risk appetite",
+    "url": "https://www.investing.com/news/stock-market-news/european-stocks-trade-near-peaks-as-corporate-earnings-boost-risk-appetite-4836415",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-05T18:48:07+08:00",
+    "stocks": [],
+    "uid": "ec86f0f52dab6caaba6594cb1369afad",
+    "title_en": "European stocks trade near peaks as corporate earnings boost risk appetite",
+    "summary_en": "",
+    "title_zh": "由於企業獲利提振風險偏好，歐洲股市交易接近峰值",
+    "summary_zh": ""
+  },
+  {
+    "title": "Earnings call transcript: Vaibhav Global Q1 2026 profit rises, shares fall 7%",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-vaibhav-global-q1-2026-profit-rises-shares-fall-7-93CH-4837019",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-05T18:47:49+08:00",
+    "stocks": [],
+    "uid": "aca76bf64c6b75fcc5fa1671347c320d",
+    "title_en": "Earnings call transcript: Vaibhav Global Q1 2026 profit rises, shares fall 7%",
+    "summary_en": "",
+    "title_zh": "財報電話會議紀錄：Vaibhav Global 2026 年第一季獲利上升，股價下跌 7%",
+    "summary_zh": ""
+  },
+  {
+    "title": "Kobe Steel reports Q1 profit miss, cuts full-year forecast",
+    "url": "https://www.investing.com/news/earnings/kobe-steel-reports-q1-profit-miss-cuts-fullyear-forecast-93CH-4837018",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-05T18:47:36+08:00",
+    "stocks": [],
+    "uid": "d352ae78f2900a5b32ee1f91e2e3bcc9",
+    "title_en": "Kobe Steel reports Q1 profit miss, cuts full-year forecast",
+    "summary_en": "",
+    "title_zh": "神戶製鋼所報告第一季利潤低於預期，下調全年預期",
+    "summary_zh": ""
+  },
+  {
+    "title": "Earnings call transcript: United Breweries posts solid Q1 2026 growth",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-united-breweries-posts-solid-q1-2026-growth-93CH-4837017",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-05T18:46:36+08:00",
+    "stocks": [],
+    "uid": "e8e11d8cc9639b6caba0485b219bf5a7",
+    "title_en": "Earnings call transcript: United Breweries posts solid Q1 2026 growth",
+    "summary_en": "",
+    "title_zh": "財報電話會議紀錄：聯合啤酒公司 2026 年第一季穩健成長",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why is Gran Tierra Energy stock surging nearly 50% today?",
+    "url": "https://www.investing.com/news/stock-market-news/why-is-gran-tierra-energy-stock-surging-nearly-50-today-93CH-4837016",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-05T18:46:35+08:00",
+    "stocks": [],
+    "uid": "910c45500e3c25218d92fe91413e5bf7",
+    "title_en": "Why is Gran Tierra Energy stock surging nearly 50% today?",
+    "summary_en": "",
+    "title_zh": "為什麼 Gran Tierra Energy 的股價今天飆漲近 50%？",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why is Barrick Mining stock rising today?",
+    "url": "https://www.investing.com/news/stock-market-news/why-is-barrick-mining-stock-rising-today-93CH-4837015",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-05T18:46:34+08:00",
+    "stocks": [],
+    "uid": "092bc06810eb239e40bf56e0dce0ba4d",
+    "title_en": "Why is Barrick Mining stock rising today?",
+    "summary_en": "",
+    "title_zh": "為什麼巴里克礦業股票今天上漲？",
+    "summary_zh": ""
+  },
+  {
+    "title": "Earnings call transcript: Wonderla Holidays posts strong Q1 2027 revenue beat",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-wonderla-holidays-posts-strong-q1-2027-revenue-beat-93CH-4837014",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-05T18:46:13+08:00",
+    "stocks": [],
+    "uid": "7b1a9b3699a769413b3b25338b06397f",
+    "title_en": "Earnings call transcript: Wonderla Holidays posts strong Q1 2027 revenue beat",
+    "summary_en": "",
+    "title_zh": "財報電話會議紀錄：Wonderla Holidays 公佈 2027 年第一季營收強勁表現",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why is Taboola stock tumbling today?",
+    "url": "https://www.investing.com/news/stock-market-news/why-is-taboola-stock-tumbling-today-93CH-4837012",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-05T18:45:56+08:00",
+    "stocks": [],
+    "uid": "1665818e4fb61c469e31735e05591afb"
+  },
+  {
+    "title": "Circle jumps 7% in premarket trade after Q2 bank charter, in-line earnings",
+    "url": "https://www.investing.com/news/earnings/circle-jumps-7-in-premarket-trade-after-q2-bank-charter-inline-earnings-4837011",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-05T18:45:03+08:00",
+    "stocks": [],
+    "uid": "adc48f6bdd2c08787128e7a34cb34ca4"
+  },
+  {
+    "title": "History Says Software-as-a-Service (SaaS) Stocks Will Be the Ultimate AI Winners. 3 SaaS Stocks to Buy Now.",
+    "url": "https://www.fool.com/investing/2026/08/05/history-says-software-as-a-service-saas-stocks-wil/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Palantir, Microsoft, and ServiceNow look like potential big AI SaaS winners.",
+    "published_at": "2026-08-05T18:45:00+08:00",
+    "stocks": [],
+    "uid": "1f8de9ac2271ba993089cfc0b59f0ac7"
+  },
+  {
+    "title": "Why is Primo Brands stock surging today?",
+    "url": "https://www.investing.com/news/stock-market-news/why-is-primo-brands-stock-surging-today-93CH-4837006",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-05T18:44:33+08:00",
+    "stocks": [],
+    "uid": "010902bd4166993b26bc46353d9da2e9"
+  },
+  {
+    "title": "Morning Bid: Outer SpaceX",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/morning-bid-outer-spacex-104035545.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T18:40:35+08:00",
+    "stocks": [],
+    "uid": "b4f8faacfd17c62a4a21fb72d7450f1a"
+  },
+  {
+    "title": "Wall Street warms to healthcare stocks as tech trade faces turbulence",
+    "url": "https://finance.yahoo.com/news/wall-street-warms-healthcare-stocks-103857604.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T18:38:57+08:00",
+    "stocks": [],
+    "uid": "69c79acde3e12a6a1f935e07360f813b"
+  },
+  {
+    "title": "Disney's Q3 earnings top estimates on demand for experiences, company exits A+E Media stake",
+    "url": "https://finance.yahoo.com/markets/stocks/article/disneys-q3-earnings-top-estimates-on-demand-for-experiences-company-exits-ae-media-stake-103619379.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T18:36:19+08:00",
+    "stocks": [],
+    "uid": "83a39903cc38019819dd4a61c8959a5f"
+  },
+  {
+    "title": "AMD plummets 8% in premarket trading despite beating expectations",
+    "url": "https://www.cnbc.com/2026/08/05/amd-stock-today-earnings-q2.html",
+    "source": "CNBC Markets",
+    "summary": "The chip giant has been a big beneficiary of the AI boom, with stock trading 132% up so far in 2026.",
+    "published_at": "2026-08-05T18:32:35+08:00",
+    "stocks": [],
+    "uid": "63af3819ddb2755a7ecace076692fcd2"
+  },
+  {
+    "title": "CVS raises annual profit forecast on improved drug revenues",
+    "url": "https://finance.yahoo.com/healthcare/articles/cvs-raises-annual-profit-forecast-103226223.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T18:32:26+08:00",
+    "stocks": [],
+    "uid": "727b8c0c951b92a2d4c59cc9224d8372"
+  },
+  {
+    "title": "Oil prices rebound after Houthis say they attacked Saudi tanker",
+    "url": "https://finance.yahoo.com/news/oil-steadies-two-day-slump-012604187.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T18:30:59+08:00",
+    "stocks": [],
+    "uid": "b470143f68145639ce650441c0b03ab5"
+  },
+  {
+    "title": "Disney Theme Parks Report Strong Results, While Comcast’s Universal Parks Dip",
+    "url": "https://www.nytimes.com/2026/08/05/business/media/disney-parks-universal.html",
+    "source": "NYT Business",
+    "summary": "Theme parks have long been seen as a bellwether for consumer confidence. Disney’s domestic parks and cruises revenue rose 11 percent in the latest quarter.",
+    "published_at": "2026-08-05T18:30:04+08:00",
+    "stocks": [],
+    "uid": "ef61b46505fcb2c44ee2c7aa9d04aef6"
+  },
+  {
+    "title": "Better Buy: iShares Bitcoin ETF vs. Morgan Stanley Bitcoin ETF",
+    "url": "https://www.fool.com/investing/2026/08/05/better-buy-crypto-etf-vs-crypto-etf/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Settling the debate between the iShares Bitcoin Trust ETF and the Morgan Stanley Bitcoin Trust ETF may boil down to some simple math.",
+    "published_at": "2026-08-05T18:30:00+08:00",
+    "stocks": [],
+    "uid": "283f842dd822e7a4aa741ba581ac12c9"
+  },
+  {
+    "title": "Kenya's stock exchange plans East Africa's first AI-focused ETF",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/kenyas-stock-exchange-plans-east-102634788.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T18:26:34+08:00",
+    "stocks": [],
+    "uid": "3eea8de7a6c2920ed9e95902d3e0ac0a"
+  },
+  {
+    "title": "Anthropic's Mythos created fake identities to fool humans in new cyber incident",
+    "url": "https://www.cnbc.com/2026/08/05/anthropic-mythos-openai-security-breaches.html",
+    "source": "CNBC Top",
+    "summary": "It's the latest cybersecurity incident involving frontier models developed by Anthropic and OpenAI.",
+    "published_at": "2026-08-05T18:18:07+08:00",
+    "stocks": [],
+    "uid": "92d99ea5111186c746096731b2e4450f"
+  },
+  {
+    "title": "If a Bear Market Is Coming, 2 Stocks You Don't Want to Own -- and 1 You Do",
+    "url": "https://www.fool.com/investing/2026/08/05/if-a-bear-market-is-coming-2-stocks-you-dont-want/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "If the AI-fueled rally reverses, some high-flying stocks could fall hard. Here are two to avoid.",
+    "published_at": "2026-08-05T18:15:00+08:00",
+    "stocks": [],
+    "uid": "6fd7ea5c06f767ecfd618fb4d7f72fe7"
+  },
+  {
+    "title": "'I got on my knees and begged': Kevin O'Leary wept over a Rolex, and thinks they beat this 1 big asset. Do you own any?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/got-knees-begged-kevin-oleary-101000594.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T18:10:00+08:00",
+    "stocks": [],
+    "uid": "8c2abce5e321d679223d714a5b186751"
+  },
+  {
+    "title": "Robinhood Stock Has Soared 45% From Its 52-Week Low. Here's Why I'm Predicting Another Sell-Off.",
+    "url": "https://www.fool.com/investing/2026/08/05/robinhood-stock-soared-45-low-predicting-sell-off/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "History suggests Robinhood's main growth drivers might not be sustainable.",
+    "published_at": "2026-08-05T18:10:00+08:00",
+    "stocks": [],
+    "uid": "87b08ce7f0d4672001377e9598ae1b04"
+  },
+  {
+    "title": "Exclusive-JPMorgan CEO Dimon leads new cross-industry effort to tackle AI risks",
+    "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-jpmorgan-ceo-dimon-leads-100343220.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T18:03:43+08:00",
+    "stocks": [],
+    "uid": "06197d0e3edcdef3deaca4bc48be7ac5"
+  },
+  {
+    "title": "SpaceX slides as AI spending worries overshadow early returns",
+    "url": "https://finance.yahoo.com/technology/ai/articles/spacex-slides-ai-spending-worries-100228981.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T18:02:28+08:00",
+    "stocks": [],
+    "uid": "85cb57b8415a58f684382e9f9200d4c1"
+  },
+  {
+    "title": "SpaceX's first earnings reveal the cost of becoming an AI giant: Chart of the Day",
+    "url": "https://finance.yahoo.com/markets/article/spacexs-first-earnings-reveal-the-cost-of-becoming-an-ai-giant-chart-of-the-day-100100357.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T18:01:00+08:00",
+    "stocks": [],
+    "uid": "3a407f15bbd54ca4b5b966b67be97450"
+  },
+  {
+    "title": "Disney+ Cracks Open the Door to TikTok Creator Videos",
+    "url": "https://www.nytimes.com/2026/08/05/business/media/disney-tiktok-videos.html",
+    "source": "NYT Business",
+    "summary": "Disney said it would allow “thoughtfully curated” fan-created videos, using clips from its library, to appear on the streaming service.",
+    "published_at": "2026-08-05T18:00:14+08:00",
+    "stocks": [],
+    "uid": "d6593ed96f6d510a9f09c793146673b8"
+  },
+  {
+    "title": "Sandisk stock is bouncing — how to play earnings with limited risk: Alpha Options Playbook",
+    "url": "https://finance.yahoo.com/markets/article/sandisk-stock-is-bouncing--how-to-play-earnings-with-limited-risk-alpha-options-playbook-100000967.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T18:00:00+08:00",
+    "stocks": [],
+    "uid": "c0330b35bc3cb6792b89ee46833d0350"
+  },
+  {
+    "title": "Mortgage and refinance rates today, Wednesday, August 5, 2026: Rates mixed as Iran negotiations focus on Hormuz",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-wednesday-august-5-2026-rates-mixed-as-iran-negotiations-focus-on-hormuz-100000767.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T18:00:00+08:00",
+    "stocks": [],
+    "uid": "7b279e8312a0cca4aa2ffc4ddc0dc693"
+  },
+  {
+    "title": "Best CD rates today, Wednesday, August 5, 2026: Earn up to 4.15% APY",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-august-5-2026-earn-up-to-415-apy-100000064.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T18:00:00+08:00",
+    "stocks": [],
+    "uid": "0c59b194dbf4792d5048d53f49b120ed"
+  },
+  {
+    "title": "Wall Street is set for a bonus boom. Big banks have the edge.",
+    "url": "https://finance.yahoo.com/markets/article/wall-street-is-set-for-a-bonus-boom-big-banks-have-the-edge-100000424.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T18:00:00+08:00",
+    "stocks": [],
+    "uid": "7b788e7971ea2d3b6933fd9e84019389"
+  },
+  {
+    "title": "As bank bonuses soar, PE's biggest firms play catch-up",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bank-bonuses-soar-pes-biggest-100000763.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T18:00:00+08:00",
+    "stocks": [],
+    "uid": "00651892edd03239dabf01e4a107c8d6"
+  },
+  {
+    "title": "If a Stock Market Crash Is Coming, History Says the Smartest Investors Are Already Making This 1 Move",
+    "url": "https://www.fool.com/investing/2026/08/05/if-a-stock-market-crash-is-coming-history-says-the/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "It's simpler than you might think to prepare for a market downturn.",
+    "published_at": "2026-08-05T18:00:00+08:00",
+    "stocks": [],
+    "uid": "c692370c329a8a1d640183e6e0d64eb9"
+  },
+  {
+    "title": "Apple's Quarterly iPhone Sales Were Even Better Than They Seem",
+    "url": "https://www.fool.com/investing/2026/08/05/apple-quarterly-iphone-sales-better-than-seem/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The company's 2018 decision to stop reporting unit sales in 2019 means investors aren't seeing the full bullish story. Fortunately, IDC is still keeping score.",
+    "published_at": "2026-08-05T17:55:00+08:00",
+    "stocks": [],
+    "uid": "5ff7152621b901d2b3c4c243e82c5889"
+  },
+  {
+    "title": "Oil prices move higher after Yemen's Iran-backed Houthis claim Saudi tanker strike",
+    "url": "https://www.cnbc.com/2026/08/05/oil-prices-iran-war-houthis-saudi-tanker.html",
+    "source": "CNBC Top",
+    "summary": "Crude prices rose Wednesday after Yemen's Houthis claimed they had struck a Saudi Arabian oil tanker in the Red Sea.",
+    "published_at": "2026-08-05T17:53:06+08:00",
+    "stocks": [],
+    "uid": "2397215d4b50ad2f28a6605a5cb9002d"
+  },
+  {
+    "title": "China targets US firms and drone exports after FCC, Xinjiang actions",
+    "url": "https://finance.yahoo.com/economy/policy/articles/china-targets-us-firms-drone-094657733.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T17:46:57+08:00",
+    "stocks": [],
+    "uid": "5934d51464e3c24470ceeea53c8e37c9"
+  },
+  {
+    "title": "Elon Musk addresses memory-chip stock concerns with one simple observation",
+    "url": "https://www.marketwatch.com/story/elon-musk-addresses-memory-chip-stock-concerns-with-one-simple-observation-df134d47?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Elon Musk’s remarks during the SpaceX earnings call may alleviate some of the concerns about the sustainability of AI capex and the distant threat of oversupply for semiconductor stocks.",
+    "published_at": "2026-08-05T17:45:00+08:00",
+    "stocks": [],
+    "uid": "d12764403c0c3590511a44d894b37940"
+  },
+  {
+    "title": "As 26-Year Stock Market Milestone Approaches, History Points to What Comes Next",
+    "url": "https://www.fool.com/investing/2026/08/05/26-year-stock-market-milestone-approaches-histo/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The S&amp;P 500's valuation hasn't been this high since 2000.",
+    "published_at": "2026-08-05T17:40:00+08:00",
+    "stocks": [],
+    "uid": "6d4ba29912985522ddaf30f541eac602"
+  },
+  {
+    "title": "Stock market today: Dow and S&P 500 edge higher as Trump says Hormuz deal is close, Nasdaq digests tech earnings",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-5-dow-sp-500-nasdaq-oil-093653327.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T17:36:53+08:00",
+    "stocks": [],
+    "uid": "eb8e7fa0e390fc7b8226818e558b4c14"
+  },
+  {
+    "title": "Andy Jassy Just Delivered Incredible News for Amazon Stock Investors",
+    "url": "https://www.fool.com/investing/2026/08/05/andy-jassy-delivered-incredible-news-amazon-stock/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Amazon's cloud computing business could be heading for mind-boggling revenue growth thanks to artificial intelligence.",
+    "published_at": "2026-08-05T17:30:00+08:00",
+    "stocks": [],
+    "uid": "8504d279ab59f43b93084cae202dc97f"
+  },
+  {
+    "title": "Wildfire Smoke and Airport Chaos: My Summer Vacation From Hell",
+    "url": "https://www.nytimes.com/2026/08/05/travel/midwest-wildfire-smoke-tornadoes.html",
+    "source": "NYT Business",
+    "summary": "Used to chronicling other people’s vacation disasters, a travel reporter faced the new normal on her own long-awaited family trip.",
+    "published_at": "2026-08-05T17:20:19+08:00",
+    "stocks": [],
+    "uid": "f8a2ea5adbdb4d0a23c59f05e7508bf3"
+  },
+  {
+    "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
+    "url": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "“He has never been particularly generous or nurturing.”",
+    "published_at": "2026-08-05T17:15:00+08:00",
+    "stocks": [],
+    "uid": "ce836f89b94c3399d7a57a192e3919f7"
+  },
+  {
+    "title": "Amazon Just Landed a Big Win in the Race Against Tesla and Waymo",
+    "url": "https://www.fool.com/investing/2026/08/05/amazon-lands-big-win-race-against-tesla-waymo/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Tesla and Waymo were just put on notice, with Amazon's Zoox receiving federal approval for its driverless vehicles. It will begin charging for its service soon.",
+    "published_at": "2026-08-05T17:15:00+08:00",
+    "stocks": [],
+    "uid": "3a1309d748b3d9a95bf15b13c34c5472"
+  },
+  {
+    "title": "Opinion: The Greatest Fleecing of Retail Investors in Wall Street's Storied History Begins Tomorrow, Aug. 6",
+    "url": "https://www.fool.com/investing/2026/08/05/greatest-fleecing-retail-investors-wall-st-history/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "We're about to witness a massive wealth transfer from retail investors to SpaceX's insiders.",
+    "published_at": "2026-08-05T17:06:00+08:00",
+    "stocks": [],
+    "uid": "f8b50c5ca45e3641c63c9eabb6d17e91"
+  },
+  {
+    "title": "This is the whopping amount Joe Rogan earns from the podcast he airs at his $14.4 million Austin home",
+    "url": "https://www.marketwatch.com/story/this-is-the-whopping-amount-joe-rogan-earns-from-the-podcast-he-airs-at-his-14-4-million-austin-home-0fccf407?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Controversial podcaster Joe Rogan, 58, has been named the top-earning podcaster of 2026 by Forbes.",
+    "published_at": "2026-08-05T17:02:00+08:00",
+    "stocks": [],
+    "uid": "a0e13fd0c9deac769aac90e5e2fc51d2"
+  },
+  {
+    "title": "Trump's deportation agenda raised prices, contracted local economies, immigration group says",
+    "url": "https://www.cnbc.com/2026/08/05/trump-mass-deportation-prices.html",
+    "source": "CNBC Top",
+    "summary": "A report released Wednesday by the immigration advocacy group America's Voice argues President Trump's immigration policy is hurting the economy.",
+    "published_at": "2026-08-05T17:00:01+08:00",
+    "stocks": [],
+    "uid": "706f2c4ad90f4bf893ea423979d83f37"
+  },
+  {
+    "title": "Trading in Pre-IPO Companies Is Taking Off in Popularity. Here's Why That's Bullish for Crypto.",
+    "url": "https://www.fool.com/investing/2026/08/05/trading-in-pre-ipo-companies-is-taking-off-in-popu/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Crypto is creating a parallel market where investors can value companies before they go public.",
+    "published_at": "2026-08-05T17:00:00+08:00",
+    "stocks": [],
+    "uid": "808e5f34c69b0c5830d42d3dc3f9b9ae"
+  },
+  {
+    "title": "Russian attack kills at least 17 in Kyiv as Ukraine hammers more Wildberries warehouses",
+    "url": "https://www.cnbc.com/2026/08/05/russia-ukraine-kyiv-putin-wildberries.html",
+    "source": "CNBC Top",
+    "summary": "The bombardment comes as each side ramps up air attacks on critical infrastructure and logistics hubs.",
+    "published_at": "2026-08-05T16:55:42+08:00",
+    "stocks": [],
+    "uid": "e3969f3ac8e79b1b34cba949b87b22f3"
+  },
+  {
+    "title": "Alphabet Stock Could Soar as It Targets the $300 Billion AI Chip Market Dominated by Nvidia",
+    "url": "https://www.fool.com/investing/2026/08/05/alphabet-stock-soar-target-ai-chip-market-nvidia/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Nvidia dominates the AI accelerator market, but Alphabet just became a more serious threat.",
+    "published_at": "2026-08-05T16:48:00+08:00",
+    "stocks": [],
+    "uid": "e7df39fb7145bb2b1de126ef82257cbe"
+  },
+  {
+    "title": "Can Dogecoin Reach $1 in the Second Half of 2026? The Answer Might Shock You.",
+    "url": "https://www.fool.com/investing/2026/08/05/can-dogecoin-reach-1-half-2026-answer-shock-you/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The cryptocurrency industry's most popular meme token just plummeted to a new 52-week low.",
+    "published_at": "2026-08-05T16:40:00+08:00",
+    "stocks": [],
+    "uid": "4d85f226385f6038054b2753c582485a"
+  },
+  {
+    "title": "Why Big Tech's AI Data Centers Are Turning to Bloom Energy for Power",
+    "url": "https://www.fool.com/investing/2026/08/05/why-big-techs-ai-data-centers-are-turning-to-bloom/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "A science that only seemed experimental just a few years ago is now an increasingly commercialized must-have.",
+    "published_at": "2026-08-05T16:37:00+08:00",
+    "stocks": [],
+    "uid": "a89ba05819c0391c1c36e8dbe94ea828"
+  },
+  {
+    "title": "AMD falls as investors seek bigger AI payoff",
+    "url": "https://finance.yahoo.com/technology/ai/articles/amd-falls-as-investors-seek-bigger-ai-payoff-082709887.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T16:27:09+08:00",
+    "stocks": [],
+    "uid": "abc90f50a778ebe8548eb077f29830fa"
+  },
+  {
+    "title": "Tim Cook's Last Quarter as CEO Was Apple's Best June Quarter Ever. The Stock Fell Anyway.",
+    "url": "https://www.fool.com/investing/2026/08/05/tim-cooks-last-quarter-as-ceo-was-apples-best-june/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "A record send-off met an after-hours drop of as much as 8%. The market was looking past the quarter.",
+    "published_at": "2026-08-05T16:27:00+08:00",
+    "stocks": [],
+    "uid": "4466082dc2e910982d99192d91d53a52"
+  },
+  {
+    "title": "What History's Highest Social Security COLAs Can Tell You Today",
+    "url": "https://www.fool.com/retirement/2026/08/05/what-historys-highest-social-security-colas-can-te/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Because of how they're calculated, COLAs rarely allow recipients to \"get ahead.\" Here's why.",
+    "published_at": "2026-08-05T16:25:00+08:00",
+    "stocks": [],
+    "uid": "511d92cc6a2c4cf3f73ea3424087f927"
+  },
+  {
     "title": "SpaceX dives 10% after AI spending surge rattles investors",
     "url": "https://www.cnbc.com/2026/08/05/spacex-spcx-stock-today-earnings.html",
     "source": "CNBC Markets",
@@ -11,6 +768,15 @@
     "summary_en": "CEO Elon Musk said SpaceX would hit $1 trillion in annual revenue in 2030 versus a previous forecast of 2031 as he looked to strike an bullish tone.",
     "title_zh": "AI 支出激增令投資人不安後 SpaceX 股價暴跌 10%",
     "summary_zh": "執行長馬斯克表示，SpaceX 的年收入將在 2030 年達到 1 兆美元，而先前的預測是 2031 年，他希望表達出樂觀的基調。"
+  },
+  {
+    "title": "3 Reasons Chewy Stock Fits Peter Lynch's Blueprint for a 10-Bagger Stock",
+    "url": "https://www.fool.com/investing/2026/08/05/3-reasons-chewy-stock-fits-peter-lynchs-blueprint/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Many of Lynch's best picks came from consumer stocks.",
+    "published_at": "2026-08-05T16:15:00+08:00",
+    "stocks": [],
+    "uid": "8533b2d59834002e23bed2c522a26f5b"
   },
   {
     "title": "Earnings call transcript: Videndum H1 2026 loss, but debt cut and cash flow improve",
@@ -50,6 +816,15 @@
     "summary_en": "",
     "title_zh": "DAX 在 ATH 超買，RSI 73，MFI 92：每小時水平",
     "summary_zh": ""
+  },
+  {
+    "title": "Fed Chair Kevin Warsh Is Considering Fewer Annual FOMC Meetings, Which Would Be Disastrous for Wall Street",
+    "url": "https://www.fool.com/investing/2026/08/05/fed-chair-kevin-warsh-consider-fewer-fomc-meetings/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Sacrificing additional transparency is a dangerous game to play.",
+    "published_at": "2026-08-05T16:06:00+08:00",
+    "stocks": [],
+    "uid": "3c278cdcb0d2864e2de2b545c5942fe1"
   },
   {
     "title": "Garanti BBVA receives approval for $20 million bond issuance",
@@ -137,6 +912,33 @@
     "summary_en": "",
     "title_zh": "路透社通報美國多晶矽計畫後，瓦克化學股價觸及三週新高",
     "summary_zh": ""
+  },
+  {
+    "title": "Is Palantir a Buy as Its Revenue Surges 93% and Continues to Accelerate?",
+    "url": "https://www.fool.com/investing/2026/08/05/palantir-stock-buy-revenue-surge-growth/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Palantir turned in another terrific quarter, with huge U.S. commercial revenue growth.",
+    "published_at": "2026-08-05T15:55:00+08:00",
+    "stocks": [],
+    "uid": "8e74c58f90fd309db14186701b7c1098"
+  },
+  {
+    "title": "SpaceX's Lockup Expires on Aug. 6. Here's Why 911.5 Million Insider Shares Could Hit the Market -- and What That Means for Investors.",
+    "url": "https://www.fool.com/investing/2026/08/05/spacexs-lockup-expires-on-aug-6-heres-why-9115-mil/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The law of supply and demand could hit SpaceX hard.",
+    "published_at": "2026-08-05T15:45:00+08:00",
+    "stocks": [],
+    "uid": "c70d0f3a9318b4cfb7caceeb3e19787d"
+  },
+  {
+    "title": "Caterpillar Now Makes Almost as Much Selling Power as It Does Selling Construction Equipment",
+    "url": "https://www.fool.com/investing/2026/08/05/caterpillar-now-makes-almost-as-much-selling-power/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The power business now earns more profit than the famous yellow machines do.",
+    "published_at": "2026-08-05T15:34:00+08:00",
+    "stocks": [],
+    "uid": "7d19e1e0f1912300fbf61ad1228a3823"
   },
   {
     "title": "Novo Nordisk stock falls after raised forecast fails to change the debate over its obesity business",
@@ -10285,6 +11087,15 @@
     "uid": "201ee566e280cf9ac3ade351f0b9a0c6"
   },
   {
+    "title": "SpaceX's stock drops on as AI capex costs jump in Q2",
+    "url": "https://finance.yahoo.com/technology/article/spacexs-stock-drops-on-as-ai-capex-costs-jump-in-q2-132323178.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-03T21:23:23+08:00",
+    "stocks": [],
+    "uid": "3826bd727f97daa80bea6c3c85a3f203"
+  },
+  {
     "title": "Microsoft and Alphabet Can Absorb an AI Shock. Oracle Is the One to Watch.",
     "url": "https://www.fool.com/investing/2026/08/03/microsoft-and-alphabet-can-absorb-an-ai-shock/?source=iedfolrf0000001",
     "source": "Motley Fool",
@@ -11749,6 +12560,24 @@
     "published_at": "2026-08-03T18:00:00+08:00",
     "stocks": [],
     "uid": "8b92c44e485d41421f1ee42d3e30c239"
+  },
+  {
+    "title": "HELOC and home equity loan rates today, Wednesday, August 5, 2026: Why locking in a low rate matters",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-wednesday-august-5-2026-why-locking-in-a-low-rate-matters-100000140.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-03T18:00:00+08:00",
+    "stocks": [],
+    "uid": "e4da2a232f5453d0f970673f5cf84e0a"
+  },
+  {
+    "title": "Best high-yield savings interest rates today, Wednesday, August 5, 2026: Earn up to 4.15% APY",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-wednesday-august-5-2026-earn-up-to-415-apy-100000400.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-03T18:00:00+08:00",
+    "stocks": [],
+    "uid": "14726ebdd35b0c960815b38c5b137a4c"
   },
   {
     "title": "AstraZeneca slides after report of Bristol Myers merger talks leaves analysts 'perplexed'",
