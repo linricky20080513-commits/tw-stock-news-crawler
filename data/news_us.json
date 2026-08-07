@@ -1,5 +1,366 @@
 [
   {
+    "title": "Iran's chief negotiator accuses Trump of 'theater diplomacy' with Hormuz traffic near standstill",
+    "url": "https://www.cnbc.com/2026/08/07/us-iran-war-trump-hormuz-diplomacy-oil-.html",
+    "source": "CNBC Top",
+    "summary": "The conflict is broadening across the region, with Gulf energy infrastructure and key shipping chokepoints under renewed threat.",
+    "published_at": "2026-08-07T10:08:42+08:00",
+    "stocks": [],
+    "uid": "7d20e347b1d19814eea3f8e9aebbec8f",
+    "title_en": "Iran's chief negotiator accuses Trump of 'theater diplomacy' with Hormuz traffic near standstill",
+    "summary_en": "The conflict is broadening across the region, with Gulf energy infrastructure and key shipping chokepoints under renewed threat.",
+    "title_zh": "伊朗首席談判代表指責川普在霍爾木茲海峽交通幾近癱瘓的情況下進行“戰區外交”",
+    "summary_zh": "整個地區的衝突正在擴大，海灣能源基礎設施和主要航運阻塞點再次受到威脅。"
+  },
+  {
+    "title": "‘Her bank accounts were stripped bare by Medicaid’: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?",
+    "url": "https://www.marketwatch.com/story/her-bank-accounts-were-stripped-bare-by-medicaid-my-late-friend-had-20-000-in-credit-card-debt-will-her-life-insurance-pay-for-it-17ee9792?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "“She left behind a 30-year-old son and 32-year-old daughter.”",
+    "published_at": "2026-08-07T10:00:00+08:00",
+    "stocks": [],
+    "uid": "a4ced0b3955733a58c8f4b7bff50f1c1",
+    "title_en": "‘Her bank accounts were stripped bare by Medicaid’: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?",
+    "summary_en": "“She left behind a 30-year-old son and 32-year-old daughter.”",
+    "title_zh": "「她的銀行帳戶被醫療補助掏空了」：我已故的朋友有 2 萬美元的信用卡債務。她的人壽保險會支付這筆費用嗎？",
+    "summary_zh": "“她留下了一個30歲的兒子和32歲的女兒。”"
+  },
+  {
+    "title": "CoreWeave CEO Michael Intrator sells $28.2m in stock",
+    "url": "https://www.investing.com/news/insider-trading-news/coreweave-ceo-michael-intrator-sells-282m-in-stock-93CH-4845018",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-07T09:50:39+08:00",
+    "stocks": [],
+    "uid": "254409de9692705749f3af2103f1ccb5",
+    "title_en": "CoreWeave CEO Michael Intrator sells $28.2m in stock",
+    "summary_en": "",
+    "title_zh": "CoreWeave 執行長 Michael Intrator 出售價值 2,820 萬美元的股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "CoreWeave EVP Chen Goldberg sells $2.35 million in stock",
+    "url": "https://www.investing.com/news/insider-trading-news/coreweave-evp-chen-goldberg-sells-235-million-in-stock-93CH-4845017",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-07T09:46:48+08:00",
+    "stocks": [],
+    "uid": "bffc7a5567a63860add97c2a8990bb3c",
+    "title_en": "CoreWeave EVP Chen Goldberg sells $2.35 million in stock",
+    "summary_en": "",
+    "title_zh": "CoreWeave 執行副總裁 Chen Goldberg 出售價值 235 萬美元的股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Crowdstrike CEO George Kurtz sells $4.2 million in stock",
+    "url": "https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-42-million-in-stock-93CH-4845016",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-07T09:46:24+08:00",
+    "stocks": [],
+    "uid": "4318b6fadac26e65303dbc278f75214a",
+    "title_en": "Crowdstrike CEO George Kurtz sells $4.2 million in stock",
+    "summary_en": "",
+    "title_zh": "Crowdstrike 執行長 George Kurtz 出售價值 420 萬美元的股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Protagenic Therapeutics’ Garo Armen buys $1,293 in common stock",
+    "url": "https://www.investing.com/news/insider-trading-news/protagenic-therapeutics-garo-armen-buys-1293-in-common-stock-93CH-4845015",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-07T09:45:58+08:00",
+    "stocks": [],
+    "uid": "acc74d58e8e51f29b9495cbf6e077696",
+    "title_en": "Protagenic Therapeutics’ Garo Armen buys $1,293 in common stock",
+    "summary_en": "",
+    "title_zh": "Protagenic Therapeutics 的 Garo Armen 購買 1,293 美元的普通股",
+    "summary_zh": ""
+  },
+  {
+    "title": "Fujifilm shares slide 18% on weak Q1 earnings; considers partial spinoff",
+    "url": "https://www.investing.com/news/stock-market-news/fujifilm-shares-slide-18-on-weak-q1-earnings-considers-partial-spinoff-4845014",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-07T09:34:01+08:00",
+    "stocks": [],
+    "uid": "ec4bf6803138421b8256ba389165f871",
+    "title_en": "Fujifilm shares slide 18% on weak Q1 earnings; considers partial spinoff",
+    "summary_en": "",
+    "title_zh": "由於第一季獲利疲軟，富士軟片股價下跌 18%；考慮部分分拆",
+    "summary_zh": ""
+  },
+  {
+    "title": "NAVER Q2 2026 slides: revenue climbs 16% as AI investments pressure margins",
+    "url": "https://www.investing.com/news/company-news/naver-q2-2026-slides-revenue-climbs-16-as-ai-investments-pressure-margins-93CH-4845013",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-07T09:31:26+08:00",
+    "stocks": [],
+    "uid": "a727bf8889a89165ab03667fdc83c9cb",
+    "title_en": "NAVER Q2 2026 slides: revenue climbs 16% as AI investments pressure margins",
+    "summary_en": "",
+    "title_zh": "NAVER 2026 年第二季業績下滑：人工智慧投資壓低利潤率，營收成長 16%",
+    "summary_zh": ""
+  },
+  {
+    "title": "Eagle Point Credit Management sells Acres Commercial preferred stock for $2,136",
+    "url": "https://www.investing.com/news/insider-trading-news/eagle-point-credit-management-sells-acres-commercial-preferred-stock-for-2136-93CH-4845010",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-07T09:31:11+08:00",
+    "stocks": [],
+    "uid": "12792e00e548e2ad91d23343feeee61e",
+    "title_en": "Eagle Point Credit Management sells Acres Commercial preferred stock for $2,136",
+    "summary_en": "",
+    "title_zh": "Eagle Point Credit Management 以 2,136 美元出售 Acres Commercial 優先股",
+    "summary_zh": ""
+  },
+  {
+    "title": "Hf Sinclair SVP Dale Kunneman sells $755,851 in stock",
+    "url": "https://www.investing.com/news/insider-trading-news/hf-sinclair-svp-dale-kunneman-sells-755851-in-stock-93CH-4845011",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-07T09:31:11+08:00",
+    "stocks": [],
+    "uid": "04b382f918051edaf4bdfea09982b080",
+    "title_en": "Hf Sinclair SVP Dale Kunneman sells $755,851 in stock",
+    "summary_en": "",
+    "title_zh": "Hf Sinclair 高級副總裁 Dale Kunneman 出售價值 755,851 美元的庫存",
+    "summary_zh": ""
+  },
+  {
+    "title": "Paymentus SVP and CFO Kalra sells $1.15 million in shares",
+    "url": "https://www.investing.com/news/insider-trading-news/paymentus-svp-and-cfo-kalra-sells-115-million-in-shares-93CH-4845012",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-07T09:31:11+08:00",
+    "stocks": [],
+    "uid": "ea64ba7c4408151b7df86ae45e77ccc0",
+    "title_en": "Paymentus SVP and CFO Kalra sells $1.15 million in shares",
+    "summary_en": "",
+    "title_zh": "Paymentus 資深副總裁兼財務長 Kalra 出售價值 115 萬美元的股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Virginia and Texas Are About to Become Cannabis Battlegrounds. Here's Which Stocks Are Positioned to Win.",
+    "url": "https://www.fool.com/investing/2026/08/06/virginia-and-texas-are-about-to-become-cannabis-ba/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Virginia and Texas could reshape the industry's next growth phase.",
+    "published_at": "2026-08-07T09:30:00+08:00",
+    "stocks": [],
+    "uid": "ba18650f89012e80c84ec7f7942931e2",
+    "title_en": "Virginia and Texas Are About to Become Cannabis Battlegrounds. Here's Which Stocks Are Positioned to Win.",
+    "summary_en": "Virginia and Texas could reshape the industry's next growth phase.",
+    "title_zh": "維吉尼亞州和德克薩斯州即將成為大麻戰場。以下是哪些股票有望獲勝。",
+    "summary_zh": "維吉尼亞州和德克薩斯州可能會重塑該行業的下一個​​成長階段。"
+  },
+  {
+    "title": "Meta ordered to pay $567 million into abatement fund as remedy to child harms case in New Mexico",
+    "url": "https://www.cnbc.com/2026/08/06/meta-to-pay-into-567-million-fund-after-child-harms-case-new-mexico.html",
+    "source": "CNBC Top",
+    "summary": "A judge in New Mexico ordered Meta to pay $567 million into an abatement fund after a jury ruled the company violated the state’s unfair practices act.",
+    "published_at": "2026-08-07T09:28:57+08:00",
+    "stocks": [],
+    "uid": "f71bcafedf394598718061e702a6343e",
+    "title_en": "Meta ordered to pay $567 million into abatement fund as remedy to child harms case in New Mexico",
+    "summary_en": "A judge in New Mexico ordered Meta to pay $567 million into an abatement fund after a jury ruled the company violated the state’s unfair practices act.",
+    "title_zh": "Meta 被命令向減排基金支付 5.67 億美元，作為新墨西哥州兒童傷害案件的補救措施",
+    "summary_zh": "新墨西哥州陪審團裁定 Meta 違反了該州的不公平行為法，一名法官命令該公司向減排基金支付 5.67 億美元。"
+  },
+  {
+    "title": "Trump weighs executive order on vaccines, autism research, Bloomberg reports",
+    "url": "https://www.investing.com/news/economy-news/trump-weighs-executive-order-on-vaccines-autism-research-bloomberg-reports-4845008",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-07T09:24:29+08:00",
+    "stocks": [],
+    "uid": "805519dc66a032c584a35c83fe0cd439",
+    "title_en": "Trump weighs executive order on vaccines, autism research, Bloomberg reports",
+    "summary_en": "",
+    "title_zh": "根據彭博社報道，川普正在權衡有關疫苗、自閉症研究的行政命令",
+    "summary_zh": ""
+  },
+  {
+    "title": "Should You Buy the Dip in Pinterest Stock?",
+    "url": "https://www.fool.com/investing/2026/08/06/should-you-buy-the-dip-in-pinterest-stock/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Investors were disappointed by the lack of growth in North American users.",
+    "published_at": "2026-08-07T09:24:18+08:00",
+    "stocks": [],
+    "uid": "c379aa252e9fa1e17010451f2e7e4695",
+    "title_en": "Should You Buy the Dip in Pinterest Stock?",
+    "summary_en": "Investors were disappointed by the lack of growth in North American users.",
+    "title_zh": "你應該買入 Pinterest 股票的下跌嗎？",
+    "summary_zh": "投資者對北美用戶缺乏成長感到失望。"
+  },
+  {
+    "title": "AMD Stock Analysis: Buy the Dip?",
+    "url": "https://www.fool.com/investing/2026/08/06/amd-stock-analysis-buy-the-dip/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Investors are enthusiastic about AMD stock.",
+    "published_at": "2026-08-07T09:23:15+08:00",
+    "stocks": [],
+    "uid": "1420eccf9b8c1c1b47870dd98a395c80",
+    "title_en": "AMD Stock Analysis: Buy the Dip?",
+    "summary_en": "Investors are enthusiastic about AMD stock.",
+    "title_zh": "AMD 股票分析：逢低買入？",
+    "summary_zh": "投資者對 AMD 股票充滿熱情。"
+  },
+  {
+    "title": "Snap Stock Analysis: Buy or Sell?",
+    "url": "https://www.fool.com/investing/2026/08/06/snap-stock-analysis-buy-or-sell/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The social media company eased some concerns with its latest report.",
+    "published_at": "2026-08-07T09:21:02+08:00",
+    "stocks": [],
+    "uid": "16b2474e866465c7ddb000f1d066c327",
+    "title_en": "Snap Stock Analysis: Buy or Sell?",
+    "summary_en": "The social media company eased some concerns with its latest report.",
+    "title_zh": "Snap 股票分析：買還是賣？",
+    "summary_zh": "這家社群媒體公司透過最新報告緩解了一些擔憂。"
+  },
+  {
+    "title": "Serve Robotics is Crashing: Buy the Dip?",
+    "url": "https://www.fool.com/investing/2026/08/06/serve-robotics-is-crashing-buy-the-dip/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Investors with a higher risk tolerance can consider this growth stock with huge upside.",
+    "published_at": "2026-08-07T09:20:31+08:00",
+    "stocks": [],
+    "uid": "a61b9e18349e986fd36e9b464556b151",
+    "title_en": "Serve Robotics is Crashing: Buy the Dip?",
+    "summary_en": "Investors with a higher risk tolerance can consider this growth stock with huge upside.",
+    "title_zh": "服務機器人正在崩潰：逢低買進？",
+    "summary_zh": "風險承受能力較高的投資人可以考慮這只上漲空間龐大的成長股。"
+  },
+  {
+    "title": "Should Investors Buy Micron Stock Instead of Taiwan Semiconductor Stock?",
+    "url": "https://www.fool.com/investing/2026/08/06/should-investors-buy-micron-stock-instead-of-taiwa/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "These are excellent companies, but only one can be the better investment in this comparison.",
+    "published_at": "2026-08-07T09:19:55+08:00",
+    "stocks": [],
+    "uid": "3b3562e1fa1da646dfea91e51c8c3fdb",
+    "title_en": "Should Investors Buy Micron Stock Instead of Taiwan Semiconductor Stock?",
+    "summary_en": "These are excellent companies, but only one can be the better investment in this comparison.",
+    "title_zh": "投資人應該買美光股票而不是台積電股票嗎？",
+    "summary_zh": "這些都是優秀的公司，但在這次比較中，只有一家可以成為更好的投資。"
+  },
+  {
+    "title": "Why Remitly Global Stock Popped 8% Today",
+    "url": "https://www.fool.com/investing/2026/08/06/why-remitly-global-stock-popped-8-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Remitly is scaling up and expanding margins.",
+    "published_at": "2026-08-07T09:18:25+08:00",
+    "stocks": [],
+    "uid": "907126fc5e32a6386435a2e5a2e9432a",
+    "title_en": "Why Remitly Global Stock Popped 8% Today",
+    "summary_en": "Remitly is scaling up and expanding margins.",
+    "title_zh": "為什麼 Remitly 全球股票今天上漲 8%",
+    "summary_zh": "Remitly 正在擴大規模並擴大利潤。"
+  },
+  {
+    "title": "My 12 Top-Ranked Stocks to Buy Now in August (2026)",
+    "url": "https://www.fool.com/investing/2026/08/06/my-12-top-ranked-stocks-to-buy-now-in-august-2026/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "There is something for everyone in this excellent group of stocks.",
+    "published_at": "2026-08-07T09:17:47+08:00",
+    "stocks": [],
+    "uid": "9320a8274817c5ebf8018648408654ab",
+    "title_en": "My 12 Top-Ranked Stocks to Buy Now in August (2026)",
+    "summary_en": "There is something for everyone in this excellent group of stocks.",
+    "title_zh": "我 8 月最值得買的 12 隻股票（2026 年）",
+    "summary_zh": "在這組優秀的股票中，每個人都能找到適合自己的東西。"
+  },
+  {
+    "title": "Should You Buy Palantir Stock After Its Spectacular Investor Update?",
+    "url": "https://www.fool.com/investing/2026/08/06/should-you-buy-palantir-stock-after-its-spectacula/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Accelerating revenue growth is exciting Palantir stock investors.",
+    "published_at": "2026-08-07T09:14:00+08:00",
+    "stocks": [],
+    "uid": "30b15366ae9939790723160541e7a6a7",
+    "title_en": "Should You Buy Palantir Stock After Its Spectacular Investor Update?",
+    "summary_en": "Accelerating revenue growth is exciting Palantir stock investors.",
+    "title_zh": "Palantir 股票發布精彩的投資者更新後，你應該購買嗎？",
+    "summary_zh": "營收的加速成長令 Palantir 股票投資者興奮不已。"
+  },
+  {
+    "title": "Why Is Everyone Talking About Amazon Stock?",
+    "url": "https://www.fool.com/investing/2026/08/06/why-is-everyone-talking-about-amazon-stock/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The cloud services growth is accelerating.",
+    "published_at": "2026-08-07T09:13:15+08:00",
+    "stocks": [],
+    "uid": "e5abcc131be18a2cd5772cd2a4972002",
+    "title_en": "Why Is Everyone Talking About Amazon Stock?",
+    "summary_en": "The cloud services growth is accelerating.",
+    "title_zh": "為什麼每個人都在談論亞馬遜股票？",
+    "summary_zh": "雲端服務成長正在加速。"
+  },
+  {
+    "title": "Revealed! My Shocking Investment Decision",
+    "url": "https://www.fool.com/investing/2026/08/06/revealed-my-shocking-investment-decision/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The move might surprise you.",
+    "published_at": "2026-08-07T09:12:34+08:00",
+    "stocks": [],
+    "uid": "d371e8be624994a76d8e4ab1e23453ea",
+    "title_en": "Revealed! My Shocking Investment Decision",
+    "summary_en": "The move might surprise you.",
+    "title_zh": "揭曉！我令人震驚的投資決定",
+    "summary_zh": "此舉可能會讓你感到驚訝。"
+  },
+  {
+    "title": "Oil rises amid supply disruption fears following Iran's restrictive draft plan for the Strait of Hormuz",
+    "url": "https://www.cnbc.com/2026/08/07/oil-rises-supply-fears-iran-draft-plan-strait-hormuz.html",
+    "source": "CNBC Top",
+    "summary": "News of Iran's restrictive draft plan for the Strait of Hormuz sent oil prices higher, renewing concerns over supply disruptions.",
+    "published_at": "2026-08-07T09:00:40+08:00",
+    "stocks": [],
+    "uid": "d3ae81719f21e4df02eb1871e0dc485a",
+    "title_en": "Oil rises amid supply disruption fears following Iran's restrictive draft plan for the Strait of Hormuz",
+    "summary_en": "News of Iran's restrictive draft plan for the Strait of Hormuz sent oil prices higher, renewing concerns over supply disruptions.",
+    "title_zh": "伊朗對霍爾木茲海峽的限制性計畫草案引發供應中斷擔憂，油價上漲",
+    "summary_zh": "伊朗針對霍爾木茲海峽的限制性草案計畫的消息推高了油價，再次引發了對供應中斷的擔憂。"
+  },
+  {
+    "title": "3 Stocks to Buy Following SpaceX's First Earnings Call",
+    "url": "https://www.fool.com/investing/2026/08/06/3-stocks-to-buy-following-spacexs-first-earnings-c/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Nvidia, Micron, and SK Hynix all look like big winners after SpaceX's first earnings call.",
+    "published_at": "2026-08-07T09:00:00+08:00",
+    "stocks": [],
+    "uid": "ec3ef4738a8e60e440b35f4980108500"
+  },
+  {
+    "title": "A 'weaponized' yen: How the U.S.-Japan intervention may reshape global currency markets",
+    "url": "https://www.cnbc.com/2026/08/07/japan-us-yen-intervention-global-currency-markets.html",
+    "source": "CNBC Top",
+    "summary": "The unprecedented U.S.-Japan intervention to support the yen may end up shaping market behavior.",
+    "published_at": "2026-08-07T08:05:26+08:00",
+    "stocks": [],
+    "uid": "fe74ef4ee1b722788ce8c3bdc5f03407"
+  },
+  {
+    "title": "2 Energy Stocks With More Hype Than Fundamentals Right Now",
+    "url": "https://www.fool.com/investing/2026/08/06/2-energy-stocks-with-more-hype-than-fundamentals-r/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "High expectations leave little room for disappointment.",
+    "published_at": "2026-08-07T08:05:00+08:00",
+    "stocks": [],
+    "uid": "83b4b9b3608bcbbca53333a8e1b27452"
+  },
+  {
+    "title": "Card Network or Card Lender: Which Business Model Is the Better Long-Term Buy?",
+    "url": "https://www.fool.com/investing/2026/08/06/card-network-or-card-lender-which-business-model-i/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "They all work together in the same business, but not all of these names bring the same risk and reward potential to the table.",
+    "published_at": "2026-08-07T08:00:00+08:00",
+    "stocks": [],
+    "uid": "38e8577eb8da07c13dbf42d67f5d86d1"
+  },
+  {
     "title": "From birth to brokerage: Why South Korea is seeing a surge in infant investment accounts",
     "url": "https://www.cnbc.com/2026/08/07/south-korea-investment-stock-baby-accounts.html",
     "source": "CNBC Top",
@@ -11,6 +372,15 @@
     "summary_en": "South Korean babies are turning into mini shareholders, thanks to their parents' investment strategies.",
     "title_zh": "從出生到經紀：為什麼韓國嬰兒投資帳戶激增",
     "summary_zh": "由於父母的投資策略，韓國嬰兒正在變成迷你股東。"
+  },
+  {
+    "title": "Four of Google's Top AI Researchers Just Left to Start One Company. Alphabet Is Investing in It.",
+    "url": "https://www.fool.com/investing/2026/08/06/four-of-googles-top-ai-researchers-just-left-to-st/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Why would a company fund the start-up its own top researchers are leaving to build?",
+    "published_at": "2026-08-07T07:42:00+08:00",
+    "stocks": [],
+    "uid": "232418fe218c7ce8abe5b08a40b56bd9"
   },
   {
     "title": "Abacus Q2 2026 slides: 30% revenue growth, tech platform scales",
@@ -141,6 +511,15 @@
     "summary_en": "",
     "title_zh": "Cloudflare 2026 年第二季投影片：代理互聯網推動營收成長 36%",
     "summary_zh": ""
+  },
+  {
+    "title": "Why Occidental Stock Is Up Today",
+    "url": "https://www.fool.com/investing/2026/08/06/why-occidental-stock-is-up-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Shareholders have larger dividends headed their way.",
+    "published_at": "2026-08-07T07:28:37+08:00",
+    "stocks": [],
+    "uid": "d6846109e0443036421bf1db02ef4950"
   },
   {
     "title": "Spyre's CEO Sold Stock, but Kept 567,000 Shares. Here's What Long-Term Investors Should Know",
@@ -6800,6 +7179,17 @@
     "uid": "6d827635b9aef1cdddce062de3362e2e"
   },
   {
+    "title": "Matador Resources Co.’s (MTDR) Disciplined Capital Allocation and Growth Strategy Support Long Term Shareholder Value",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/matador-resources-co-mtdr-disciplined-142005991.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T22:20:05+08:00",
+    "stocks": [
+      "MTDR"
+    ],
+    "uid": "1e137af743c1a5e7df03322e064f3e76"
+  },
+  {
     "title": "Elon Musk's Tesla and SpaceX Have Shed $1.19 Trillion in Value Since June. Is This a Buying Opportunity?",
     "url": "https://www.fool.com/investing/2026/08/05/elon-musks-tesla-and-spacex-have-shed-119-trillio/?source=iedfolrf0000001",
     "source": "Motley Fool",
@@ -6809,6 +7199,80 @@
     "uid": "be8463e638d12c9175237d52644cce18"
   },
   {
+    "title": "Are Wall Street Analysts Predicting Salesforce Stock Will Climb or Sink?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-salesforce-141934627.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T22:19:34+08:00",
+    "stocks": [],
+    "uid": "39180c3f2758150e0c7186c3521bfe1d"
+  },
+  {
+    "title": "What Makes Magnolia Oil & Gas Corp. (MGY) a Strong Investment Bet?",
+    "url": "https://finance.yahoo.com/energy/articles/makes-magnolia-oil-gas-corp-141838312.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T22:18:38+08:00",
+    "stocks": [
+      "MGY"
+    ],
+    "uid": "5e2d630d107ee86c206de27a0a664d81"
+  },
+  {
+    "title": "Dear CoreWeave Stock Fans, Mark Your Calendars for August 11",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/dear-coreweave-stock-fans-mark-141701478.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T22:17:01+08:00",
+    "stocks": [],
+    "uid": "9ee3704b27625e8595512383054439ed"
+  },
+  {
+    "title": "December Euro Currency Futures Present a Buying Opportunity. What to Know.",
+    "url": "https://finance.yahoo.com/markets/currencies/articles/december-euro-currency-futures-present-141606398.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T22:16:06+08:00",
+    "stocks": [],
+    "uid": "3dabc0e2d93d29d72183cfa86089acf0"
+  },
+  {
+    "title": "Marvell Unveils AI Memory Strategy to Boost Server Efficiency. What That Means for MRVL Stock.",
+    "url": "https://finance.yahoo.com/technology/ai/articles/marvell-unveils-ai-memory-strategy-141520156.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T22:15:20+08:00",
+    "stocks": [],
+    "uid": "30cca7fe44add10fc55e1ca36cad714e"
+  },
+  {
+    "title": "Dear Firefly Aerospace Stock Fans, Mark Your Calendars for August 11",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/dear-firefly-aerospace-stock-fans-141502169.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T22:15:02+08:00",
+    "stocks": [],
+    "uid": "9b27273d19c4cfb2023dacba5b512174"
+  },
+  {
+    "title": "Corcept Therapeutics Stock Shines at New All-Time Highs Despite Its Valuation",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/corcept-therapeutics-stock-shines-time-180003434.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T22:15:02+08:00",
+    "stocks": [],
+    "uid": "5c13af83fae920e66726c301b35fb7ee"
+  },
+  {
+    "title": "Anthropic to build in-house chip design team for Claude, hire engineers",
+    "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-build-house-chip-design-141457659.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T22:14:57+08:00",
+    "stocks": [],
+    "uid": "2f38436f3bdeb49bd69be824b98279f5"
+  },
+  {
     "title": "How China’s A.I. Is Surging Across Africa",
     "url": "https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html",
     "source": "NYT Business",
@@ -6816,6 +7280,181 @@
     "published_at": "2026-08-05T22:12:57+08:00",
     "stocks": [],
     "uid": "a8af401b765442ae4bbc7c50a7df8c1e"
+  },
+  {
+    "title": "Strong Earnings Push the S&P 500 to New Record High",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/strong-earnings-push-p-500-141209724.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T22:12:09+08:00",
+    "stocks": [],
+    "uid": "785d8ad0d127843efd5db27c33fcf9bb"
+  },
+  {
+    "title": "Allegiant Travel (ALGT)–Sun Country Merger Poised to Enhance Operational Synergies",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/allegiant-travel-algt-sun-country-140939169.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T22:09:39+08:00",
+    "stocks": [
+      "ALGT"
+    ],
+    "uid": "be841d7c4568a74510d6e4ddde45f589"
+  },
+  {
+    "title": "Legacy Ridge Capital Partners’ Exit from Summit Midstream Corporation (SMC) Marks End of a Costly Mistake",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/legacy-ridge-capital-partners-exit-140725098.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T22:07:25+08:00",
+    "stocks": [
+      "SMC"
+    ],
+    "uid": "f545c0b86ca9eb07ca43c2e4adc24c63"
+  },
+  {
+    "title": "The companies defying macro uncertainty and raising guidance: AlphaCheck",
+    "url": "https://finance.yahoo.com/markets/article/the-companies-defying-macro-uncertainty-and-raising-guidance-alphacheck-140605238.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T22:06:05+08:00",
+    "stocks": [],
+    "uid": "90337e03949ec7124d642711ab13d16f"
+  },
+  {
+    "title": "Is Wall Street Bullish or Bearish on Healthpeak Properties Stock?",
+    "url": "https://finance.yahoo.com/real-estate/articles/wall-street-bullish-bearish-healthpeak-140310450.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T22:03:10+08:00",
+    "stocks": [],
+    "uid": "07df8c064e008700c7f3d80b141552b7"
+  },
+  {
+    "title": "Teladoc Shares Plunged More Than 28% After Earnings. How to Play TDOC Here.",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/teladoc-shares-plunged-more-28-140018493.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T22:00:18+08:00",
+    "stocks": [],
+    "uid": "4abf79aeaa98a5242fd65408fc772f29"
+  },
+  {
+    "title": "Dear Super Micro Computer Stock Fans, Mark Your Calendars for August 11",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/dear-super-micro-computer-stock-140002043.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T22:00:02+08:00",
+    "stocks": [],
+    "uid": "3d8dc92d17e99a089cdc0b732c94b895"
+  },
+  {
+    "title": "EUR/USD, USD/CHF, and GBP/USD Short-Term Forecast for 05/08/2026",
+    "url": "https://finance.yahoo.com/markets/currencies/articles/eur-usd-usd-chf-gbp-135942600.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T21:59:42+08:00",
+    "stocks": [],
+    "uid": "45b33cc78bd8653254d4831830b70cf7"
+  },
+  {
+    "title": "Arista Networks Stock Surges as Earnings Prove AI Demand Is Real",
+    "url": "https://www.barrons.com/articles/arista-networks-earnings-stock-price-e421b3c3?siteid=yhoof2&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T21:56:00+08:00",
+    "stocks": [],
+    "uid": "0512e68fdcfb06d05657f16ff03d77e9"
+  },
+  {
+    "title": "Disney shares rise after earnings beat despite slight revenue shortfall",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/disney-shares-rise-earnings-beat-135546406.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T21:55:46+08:00",
+    "stocks": [],
+    "uid": "3269fef29b50ab9a1c93f5692b62f056"
+  },
+  {
+    "title": "Lilly's Mounjaro, Zepbound sales surge, widening lead over Novo Nordisk",
+    "url": "https://finance.yahoo.com/healthcare/articles/eli-lilly-raises-annual-revenue-105218805.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T21:55:03+08:00",
+    "stocks": [],
+    "uid": "4cbcf65a7c8260ec151100e3ca3211f5"
+  },
+  {
+    "title": "‘Made in Michigan again’: White House says US manufacturing is roaring back as GM, Ford pour billions into factories",
+    "url": "https://finance.yahoo.com/economy/articles/made-michigan-again-white-house-135500548.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T21:55:00+08:00",
+    "stocks": [],
+    "uid": "b20f7d89908366ec36d414a16919f1a2"
+  },
+  {
+    "title": "CVS Stock Down On Early Warnings About 2027",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-05-2026/card/cvs-stock-down-on-early-warnings-about-2027-hRdGcj2dz0uJuAONiCdo?siteid=yhoof2&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T21:54:53+08:00",
+    "stocks": [],
+    "uid": "468ec96cde39294f83465d4878f59614"
+  },
+  {
+    "title": "Circle Internet Group Posts Mixed Financial Results",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/circle-internet-group-posts-mixed-135400653.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T21:54:00+08:00",
+    "stocks": [],
+    "uid": "323eb3f3d73dc2ba18a12e94b41581af"
+  },
+  {
+    "title": "Nvidia’s Jensen Huang Says There’s No AI Bubble Because AI Is ‘Incredibly Profitable’ and ‘He’s Happy to Pay Hundreds of Millions of Dollars’ for AI",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-jensen-huang-says-no-135354110.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T21:53:54+08:00",
+    "stocks": [],
+    "uid": "f4ea9d1b76d8d1eaac2b22b7005f5283"
+  },
+  {
+    "title": "Eli Lilly shares climb after stronger revenue outlook driven by obesity drugs",
+    "url": "https://finance.yahoo.com/healthcare/articles/eli-lilly-shares-climb-stronger-135327995.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T21:53:27+08:00",
+    "stocks": [],
+    "uid": "daac767f939293951a7a2bbc496e6a63"
+  },
+  {
+    "title": "Eli Lilly stock soars on strong demand for weight-loss drugs",
+    "url": "https://finance.yahoo.com/markets/stocks/article/eli-lilly-stock-soars-on-strong-demand-for-weight-loss-drugs-135325819.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T21:53:25+08:00",
+    "stocks": [],
+    "uid": "e049cec9091cef42f016dec67fdc1416"
+  },
+  {
+    "title": "SpaceX Beat Expectations in Its First Earnings Report Since Going Public. Here's Why the Market Still Isn't Thrilled",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-beat-expectations-first-earnings-135230548.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T21:52:30+08:00",
+    "stocks": [],
+    "uid": "1eaac99d5ef43f33fe65d50334ba480d"
+  },
+  {
+    "title": "S&P 500 hits record high on Disney, Eli Lilly earnings",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-hits-record-high-135125164.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-05T21:51:25+08:00",
+    "stocks": [],
+    "uid": "baf3cd733e0192d2f4e5c22b236d1277"
   },
   {
     "title": "ADP says businesses added the fewest new jobs in six months. A summer slowdown in hiring?",
@@ -203813,6 +204452,15 @@
     "published_at": "2025-08-19T03:58:26+08:00",
     "stocks": [],
     "uid": "8fce3208e826d3083b888ef5d0a67eb9"
+  },
+  {
+    "title": "Mortgage rate predictions through 2030: What the market tells us",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rate-predictions-through-2030-what-the-market-tells-us-195826935.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2025-08-19T03:58:26+08:00",
+    "stocks": [],
+    "uid": "1b82b017fc9581ecb105648c6b91e57b"
   },
   {
     "title": "Tornado watch issued for NYC area. How to insure your home against tornado damage.",
