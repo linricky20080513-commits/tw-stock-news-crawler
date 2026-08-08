@@ -1,5 +1,191 @@
 [
   {
+    "title": "US Senate advances landmark crypto bill before heading on August recess",
+    "url": "https://www.investing.com/news/stock-market-news/us-senate-advances-landmark-crypto-bill-before-heading-on-august-recess-4847679",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-09T03:18:25+08:00",
+    "stocks": [],
+    "uid": "4c8c9b841a263ae6cf270311395dd944",
+    "title_en": "US Senate advances landmark crypto bill before heading on August recess",
+    "summary_en": "",
+    "title_zh": "美國參議院在八月休會前推動具有里程碑意義的加密貨幣法案",
+    "summary_zh": ""
+  },
+  {
+    "title": "Materion Q2 Earnings Call Highlights",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/materion-q2-earnings-call-highlights-190349490.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-09T03:03:49+08:00",
+    "stocks": [],
+    "uid": "e5697f73096d740934bfffb3cf41da15",
+    "title_en": "Materion Q2 Earnings Call Highlights",
+    "summary_en": "",
+    "title_zh": "Materion 第二季財報電話會議亮點",
+    "summary_zh": ""
+  },
+  {
+    "title": "Matador Resources Q2 Earnings Call Highlights",
+    "url": "https://finance.yahoo.com/energy/articles/matador-resources-q2-earnings-call-190348594.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-09T03:03:48+08:00",
+    "stocks": [],
+    "uid": "5ee5800f77f3698df2186a4a08b85f98",
+    "title_en": "Matador Resources Q2 Earnings Call Highlights",
+    "summary_en": "",
+    "title_zh": "Matador Resources 第二季財報電話會議亮點",
+    "summary_zh": ""
+  },
+  {
+    "title": "MP Materials Q2 Earnings Call Highlights",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-q2-earnings-call-190347156.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-09T03:03:47+08:00",
+    "stocks": [],
+    "uid": "15d93b15873f74a5936e94039fdef092",
+    "title_en": "MP Materials Q2 Earnings Call Highlights",
+    "summary_en": "",
+    "title_zh": "MP Materials 第二季財報電話會議亮點",
+    "summary_zh": ""
+  },
+  {
+    "title": "Mach Natural Resources Q2 Earnings Call Highlights",
+    "url": "https://finance.yahoo.com/energy/articles/mach-natural-resources-q2-earnings-190347252.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-09T03:03:47+08:00",
+    "stocks": [],
+    "uid": "acc660fdbf2728806830bdf027aa41e8",
+    "title_en": "Mach Natural Resources Q2 Earnings Call Highlights",
+    "summary_en": "",
+    "title_zh": "馬赫自然資源第二季財報電話會議亮點",
+    "summary_zh": ""
+  },
+  {
+    "title": "Mosaic Q2 Earnings Call Highlights",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/mosaic-q2-earnings-call-highlights-190347540.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-09T03:03:47+08:00",
+    "stocks": [],
+    "uid": "a5cc52034004cf5670db1d0b9c838fc4",
+    "title_en": "Mosaic Q2 Earnings Call Highlights",
+    "summary_en": "",
+    "title_zh": "Mosaic 第二季財報電話會議亮點",
+    "summary_zh": ""
+  },
+  {
+    "title": "European software rally leaves next leg to long-only investors, Deutsche Bank says",
+    "url": "https://www.investing.com/news/stock-market-news/european-software-rally-leaves-next-leg-to-longonly-investors-deutsche-bank-says-4847680",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-09T03:02:19+08:00",
+    "stocks": [],
+    "uid": "8413f453f18cc51f65a48f1c729e7b10",
+    "title_en": "European software rally leaves next leg to long-only investors, Deutsche Bank says",
+    "summary_en": "",
+    "title_zh": "德意志銀行表示，歐洲軟體漲勢將下一階段留給了多頭投資者",
+    "summary_zh": ""
+  },
+  {
+    "title": "Tenable (TENB) Widens Its AI Security Net Just As Profits Turn A Corner",
+    "url": "https://finance.yahoo.com/technology/ai/articles/tenable-tenb-widens-ai-security-185944892.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-09T02:59:44+08:00",
+    "stocks": [
+      "TENB"
+    ],
+    "uid": "f2892fef389c90e6743bfce9847402f2",
+    "title_en": "Tenable (TENB) Widens Its AI Security Net Just As Profits Turn A Corner",
+    "summary_en": "",
+    "title_zh": "Tenable (TENB) 在利潤出現轉折點之際擴大其人工智慧安全網絡",
+    "summary_zh": ""
+  },
+  {
+    "title": "Don’t worry about what other people have saved for retirement. Here’s how to find your perfect number.",
+    "url": "https://www.marketwatch.com/story/dont-worry-about-what-other-people-have-saved-for-retirement-heres-how-to-find-your-perfect-number-73fc460e?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Don’t compare your nest-egg balance to a number that doesn’t actually mean anything. Instead, do this calculation to see if you’re on track for retirement.",
+    "published_at": "2026-08-09T02:37:00+08:00",
+    "stocks": [],
+    "uid": "3fb3ade47399ffa7601bfb758648cd8e",
+    "title_en": "Don’t worry about what other people have saved for retirement. Here’s how to find your perfect number.",
+    "summary_en": "Don’t compare your nest-egg balance to a number that doesn’t actually mean anything. Instead, do this calculation to see if you’re on track for retirement.",
+    "title_zh": "不要擔心其他人為退休儲蓄了什麼。以下是如何找到您的完美號碼。",
+    "summary_zh": "不要將您的儲備金餘額與實際上沒有任何意義的數字進行比較。相反，做這個計算看看你是否步入退休軌道。"
+  },
+  {
+    "title": "CASX Token Presale Marks the Next Milestone for the Cashelix Payment Ecosystem",
+    "url": "https://www.investing.com/news/press-releases/casx-token-presale-marks-the-next-milestone-for-the-cashelix-payment-ecosystem-4847677",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-09T02:31:42+08:00",
+    "stocks": [],
+    "uid": "a54a13ee6b593b18b5d5f34fda30d697",
+    "title_en": "CASX Token Presale Marks the Next Milestone for the Cashelix Payment Ecosystem",
+    "summary_en": "",
+    "title_zh": "CASX 代幣預售標誌著 Cashelix 支付生態系統的下一個里程碑",
+    "summary_zh": ""
+  },
+  {
+    "title": "LegalZoom (LZ) Integrates Microsoft Copilot Amid Growth Shifts",
+    "url": "https://finance.yahoo.com/small-business/articles/legalzoom-lz-integrates-microsoft-copilot-183004346.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-09T02:30:04+08:00",
+    "stocks": [
+      "LZ"
+    ],
+    "uid": "62991f56e0ecf4a0069e453de6c02164",
+    "title_en": "LegalZoom (LZ) Integrates Microsoft Copilot Amid Growth Shifts",
+    "summary_en": "",
+    "title_zh": "LegalZoom (LZ) 在成長轉變中整合 Microsoft Copilot",
+    "summary_zh": ""
+  },
+  {
+    "title": "AST SpaceMobile vs. Rocket Lab: Which Space Stock Has More Upside?",
+    "url": "https://www.fool.com/investing/2026/08/08/ast-spacemobile-vs-rocket-lab-which-space-stock-ha/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The next space opportunity may have little to do with rockets. Discover how two ambitious companies are positioning themselves to profit from a new layer of global connectivity.",
+    "published_at": "2026-08-09T02:30:00+08:00",
+    "stocks": [],
+    "uid": "1640edaa575f5b115e972e0613d0d653",
+    "title_en": "AST SpaceMobile vs. Rocket Lab: Which Space Stock Has More Upside?",
+    "summary_en": "The next space opportunity may have little to do with rockets. Discover how two ambitious companies are positioning themselves to profit from a new layer of global connectivity.",
+    "title_zh": "AST SpaceMobile 與 Rocket Lab：哪一太空股更有上漲空間？",
+    "summary_zh": "下一個太空機會可能與火箭無關。了解兩家雄心勃勃的公司如何定位自己，以從新的全球連接層中獲利。"
+  },
+  {
+    "title": "Four Savers Value Village Insiders Sold This Week. Here's What to Make of It",
+    "url": "https://www.fool.com/coverage/filings/2026/08/08/four-savers-value-village-insiders-sold-this-week-here-s-what-to-make-of-it/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Medway exercised vested options at $1.41 and immediately liquidated the position under a pre-established Rule 10b5-1 plan.",
+    "published_at": "2026-08-09T02:26:42+08:00",
+    "stocks": [],
+    "uid": "246d857f01519d8ee8562d7974df2061",
+    "title_en": "Four Savers Value Village Insiders Sold This Week. Here's What to Make of It",
+    "summary_en": "Medway exercised vested options at $1.41 and immediately liquidated the position under a pre-established Rule 10b5-1 plan.",
+    "title_zh": "四位儲戶看好本週出售的 Village Insider。這是如何實現的",
+    "summary_zh": "Medway 以 1.41 美元的價格行使了既定選擇權，並根據預先制定的規則 10b5-1 計劃立即清算了該頭寸。"
+  },
+  {
+    "title": "Toast CEO Aman Narang Sells 138,000 Shares for $4.9 Million Amid Stock's 24% Dip",
+    "url": "https://www.fool.com/coverage/filings/2026/08/08/toast-ceo-aman-narang-sells-138-000-shares-for-usd4-9-million-amid-stock-s-24-dip/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Liquidation reduced his equity stake by 21% through a pre-arranged trading plan, though he retains over 533,000 shares across direct and indirect holdings.",
+    "published_at": "2026-08-09T02:18:22+08:00",
+    "stocks": [],
+    "uid": "aad3981cd8218b7df8619bdb95f5779b",
+    "title_en": "Toast CEO Aman Narang Sells 138,000 Shares for $4.9 Million Amid Stock's 24% Dip",
+    "summary_en": "Liquidation reduced his equity stake by 21% through a pre-arranged trading plan, though he retains over 533,000 shares across direct and indirect holdings.",
+    "title_zh": "Toast 執行長 Aman Narang 在股價下跌 24% 的情況下以 490 萬美元出售 138,000 股股票",
+    "summary_zh": "儘管他保留了直接和間接持有的超過 533,000 股股票，但清算透過預先安排的交易計劃使他的股權減少了 21%。"
+  },
+  {
     "title": "MacKenzie Scott Steps Back Into Spotlight With New Book",
     "url": "https://www.nytimes.com/2026/08/08/business/mackenzie-scott-new-book.html",
     "source": "NYT Business",
@@ -13,6 +199,45 @@
     "summary_zh": "週六，她在新創辦的 Substack 時事通訊上發布了四頁手稿，並表示小說將在整個八月連續發行。"
   },
   {
+    "title": "A Savers Insider Cashed In Options Struck at $1.41. Here's What to Know",
+    "url": "https://www.fool.com/coverage/filings/2026/08/08/a-savers-insider-cashed-in-options-struck-at-usd1-41-here-s-what-to-know/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "One Savers Value Village executive exercised options at $1.41 and sold at $11.79.",
+    "published_at": "2026-08-09T02:15:46+08:00",
+    "stocks": [],
+    "uid": "aaa4437f538d6888f6e5167910d90de0",
+    "title_en": "A Savers Insider Cashed In Options Struck at $1.41. Here's What to Know",
+    "summary_en": "One Savers Value Village executive exercised options at $1.41 and sold at $11.79.",
+    "title_zh": "一位儲戶內部人士兌現了 1.41 美元的選擇權。以下是您需要了解的內容",
+    "summary_zh": "Savers Value Village 的一位高管以 1.41 美元的價格行使了選擇權，並以 11.79 美元的價格出售。"
+  },
+  {
+    "title": "Stanley Druckenmiller's Portfolio Skips Megacap Tech Almost Entirely. Here's What He's Buying Instead.",
+    "url": "https://www.fool.com/investing/2026/08/08/stanley-druckenmillers-portfolio-skips-megacap-tec/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Druckenmiller only owns one \"Magnificent Seven\" stock.",
+    "published_at": "2026-08-09T02:15:00+08:00",
+    "stocks": [],
+    "uid": "a05cfde77125f645e9b34bfcc345f61a",
+    "title_en": "Stanley Druckenmiller's Portfolio Skips Megacap Tech Almost Entirely. Here's What He's Buying Instead.",
+    "summary_en": "Druckenmiller only owns one \"Magnificent Seven\" stock.",
+    "title_zh": "Stanley Druckenmiller 的投資組合幾乎完全跳過了大型科技公司。這就是他要買的東西。",
+    "summary_zh": "德魯肯米勒只擁有一隻「七雄」股票。"
+  },
+  {
+    "title": "Progressive's Combined Ratio Widened to 87.1 Last Quarter. What That Says About the Growth Machine.",
+    "url": "https://www.fool.com/investing/2026/08/08/progressives-combined-ratio-widened-to-871-last-qu/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Progressive has had a good run, but further growth appears to require some trade-offs.",
+    "published_at": "2026-08-09T02:15:00+08:00",
+    "stocks": [],
+    "uid": "5ce84a9cb0210cc15b4a19ed24de159b",
+    "title_en": "Progressive's Combined Ratio Widened to 87.1 Last Quarter. What That Says About the Growth Machine.",
+    "summary_en": "Progressive has had a good run, but further growth appears to require some trade-offs.",
+    "title_zh": "上季 Progressive 的綜合比率擴大至 87.1。關於成長機器的說法。",
+    "summary_zh": "Progressive 已經取得了良好的進展，但進一步的成長似乎需要一些權衡。"
+  },
+  {
     "title": "Insider Waves Goodbye to Retail Stock, Valued at More Than $620,000",
     "url": "https://finance.yahoo.com/markets/stocks/articles/insider-waves-goodbye-retail-stock-180501374.html",
     "source": "Yahoo Finance",
@@ -24,6 +249,19 @@
     "summary_en": "",
     "title_zh": "Insider 告別價值超過 62 萬美元的零售股票",
     "summary_zh": ""
+  },
+  {
+    "title": "Airline Insider Hits Eject, Sells 40,460 Shares Valued at $3.8 Million",
+    "url": "https://www.fool.com/coverage/filings/2026/08/08/airline-insider-hits-eject-sells-40-460-shares-valued-at-usd3-8-million/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Insider liquidated 28% of equity holdings following option exercise at $51.23 strike, capturing gains as stock surged 76% over one year.",
+    "published_at": "2026-08-09T02:05:01+08:00",
+    "stocks": [],
+    "uid": "f4c9f46d7068757b45d49201b45a16f7",
+    "title_en": "Airline Insider Hits Eject, Sells 40,460 Shares Valued at $3.8 Million",
+    "summary_en": "Insider liquidated 28% of equity holdings following option exercise at $51.23 strike, capturing gains as stock surged 76% over one year.",
+    "title_zh": "Airline Insider 拋售 40,460 股股票，價值 380 萬美元",
+    "summary_zh": "在以 51.23 美元的價格執行選擇權後，Insider 清算了 28% 的股權，隨著股價在一年內飆升 76%，獲得了收益。"
   },
   {
     "title": "57-year-old Burger chain closed 28 restaurants, 100s more coming",
@@ -775,7 +1013,11 @@
     "summary": "Ripple just launched a major new banking product -- and XRP is barely part of the story.",
     "published_at": "2026-08-08T23:00:00+08:00",
     "stocks": [],
-    "uid": "68ec9e9e496eb7b4b5d46e3b37cd8450"
+    "uid": "68ec9e9e496eb7b4b5d46e3b37cd8450",
+    "title_en": "Prediction: This Will Be the Cryptocurrency XRP's Price by Late 2027 (Hint: It's a Big Move)",
+    "summary_en": "Ripple just launched a major new banking product -- and XRP is barely part of the story.",
+    "title_zh": "預測：到 2027 年末，這將是加密貨幣 XRP 的價格（提示：這是一個重大舉措）",
+    "summary_zh": "Ripple 剛剛推出了一項重要的新銀行產品，而 XRP 幾乎不是故事的一部分。"
   },
   {
     "title": "Advance Auto Parts vs. Ford Motor: Which Automotive Stock Is a Better Buy in 2026?",
@@ -875,7 +1117,11 @@
     "summary": "One generates $12.5B in free cash flow despite a net loss; the other bleeds cash while restructuring.",
     "published_at": "2026-08-08T22:37:01+08:00",
     "stocks": [],
-    "uid": "564cba83ba4181ff27e15829933018ef"
+    "uid": "564cba83ba4181ff27e15829933018ef",
+    "title_en": "Advance Auto Parts vs. Ford Motor: Which Automotive Stock Is a Better Buy in 2026?",
+    "summary_en": "One generates $12.5B in free cash flow despite a net loss; the other bleeds cash while restructuring.",
+    "title_zh": "Advance Auto Parts 與福特汽車：2026 年哪種汽車股票比較值得買進？",
+    "summary_zh": "儘管出現淨虧損，但仍產生 $12.5B 的自由現金流；另一個則在重組時流失現金。"
   },
   {
     "title": "Jeff Bezos' Amazon Just Raised Its AI Spending to $220 Billion for 2026. Here's What That Capex Hike Means for Investors.",
@@ -936,7 +1182,11 @@
     "summary": "Micron is making one of the semiconductor industry's boldest AI bets. The opportunity looks enormous, but one familiar risk could determine whether investors are early or dangerously late.",
     "published_at": "2026-08-08T22:30:00+08:00",
     "stocks": [],
-    "uid": "a708125b4766b180aa43063da3818c3c"
+    "uid": "a708125b4766b180aa43063da3818c3c",
+    "title_en": "Is Micron Still a Buy as the Global Memory Race Accelerates?",
+    "summary_en": "Micron is making one of the semiconductor industry's boldest AI bets. The opportunity looks enormous, but one familiar risk could determine whether investors are early or dangerously late.",
+    "title_zh": "隨著全球記憶體競賽加速，美光是否仍值得買入？",
+    "summary_zh": "美光正在進行半導體產業最大膽的人工智慧押注之一。機會看起來巨大，但一項熟悉的風險可能決定投資者是提前行動還是危險地遲到。"
   },
   {
     "title": "Is AMD Stock a Buy on the Dip as AI Revenue Surges?",
@@ -945,7 +1195,11 @@
     "summary": "The dip in AMD's shares looks like a good buying opportunity.",
     "published_at": "2026-08-08T22:30:00+08:00",
     "stocks": [],
-    "uid": "a2ff26a9f9e97f7836f6fe267e7dd301"
+    "uid": "a2ff26a9f9e97f7836f6fe267e7dd301",
+    "title_en": "Is AMD Stock a Buy on the Dip as AI Revenue Surges?",
+    "summary_en": "The dip in AMD's shares looks like a good buying opportunity.",
+    "title_zh": "隨著 AI 收入激增，AMD 股票是否值得買入？",
+    "summary_zh": "AMD 股價的下跌看起來是一個很好的買入機會。"
   },
   {
     "title": "Earnings call transcript: Delhivery Q1 2026 revenue rises 28% as volumes jump",
@@ -8804,7 +9058,11 @@
     "summary": "",
     "published_at": "2026-08-07T19:30:00+08:00",
     "stocks": [],
-    "uid": "9f1737015764eb03b047547aa07d9f95"
+    "uid": "9f1737015764eb03b047547aa07d9f95",
+    "title_en": "Charlie Munger said $100K was where net worth 'explodes' — but in 2026, the real magic number is $200K",
+    "summary_en": "",
+    "title_zh": "查理·芒格 (Charlie Munger) 表示，10 萬美元是淨資產「爆炸」的地方，但到 2026 年，真正的神奇數字是 20 萬美元",
+    "summary_zh": ""
   },
   {
     "title": "Why is ACM Research stock surging today?",
@@ -9008,7 +9266,11 @@
     "summary": "",
     "published_at": "2026-08-07T19:05:27+08:00",
     "stocks": [],
-    "uid": "7585e286607c3a475ffa72029812cd1f"
+    "uid": "7585e286607c3a475ffa72029812cd1f",
+    "title_en": "Are Wall Street Analysts Predicting PepsiCo Stock Will Climb or Sink?",
+    "summary_en": "",
+    "title_zh": "華爾街分析師預測百事可樂股價會上漲還是下跌？",
+    "summary_zh": ""
   },
   {
     "title": "3 Social Security changes are headed for boomers in 2027 — and Trump's promises won't stop them",
@@ -9017,7 +9279,11 @@
     "summary": "",
     "published_at": "2026-08-07T19:05:00+08:00",
     "stocks": [],
-    "uid": "115f251fcbdc341784eeec58dabb43b9"
+    "uid": "115f251fcbdc341784eeec58dabb43b9",
+    "title_en": "3 Social Security changes are headed for boomers in 2027 — and Trump's promises won't stop them",
+    "summary_en": "",
+    "title_zh": "3 2027 年嬰兒潮世代將面臨社會安全改革——川普的承諾不會阻止他們",
+    "summary_zh": ""
   },
   {
     "title": "Jobs Report Poses New Test for Warsh and the Fed",
