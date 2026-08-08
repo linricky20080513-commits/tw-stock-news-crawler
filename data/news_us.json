@@ -1,5 +1,129 @@
 [
   {
+    "title": "Jim Cramer Weighs In on Space Equities: Rocket Lab (RKLB) vs. Voyager Technologies (VOYG)",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-weighs-space-equities-195141942.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-09T03:51:41+08:00",
+    "stocks": [
+      "RKLB",
+      "VOYG"
+    ],
+    "uid": "e8af58351be3fae60301d3781fee66b4",
+    "title_en": "Jim Cramer Weighs In on Space Equities: Rocket Lab (RKLB) vs. Voyager Technologies (VOYG)",
+    "summary_en": "",
+    "title_zh": "吉姆·克萊默 (Jim Cramer) 評論太空股票：Rocket Lab (RKLB) 與 Voyager Technologies (VOYG)",
+    "summary_zh": ""
+  },
+  {
+    "title": "Better GLP-1 Stock to Buy: Eli Lilly or Viking Therapeutics?",
+    "url": "https://finance.yahoo.com/healthcare/articles/better-glp-1-stock-buy-195000742.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-09T03:50:00+08:00",
+    "stocks": [],
+    "uid": "53f8fcc5927396b7f89ef0328f19391d",
+    "title_en": "Better GLP-1 Stock to Buy: Eli Lilly or Viking Therapeutics?",
+    "summary_en": "",
+    "title_zh": "更值得買的 GLP-1 股票：禮來公司還是 Viking Therapeutics？",
+    "summary_zh": ""
+  },
+  {
+    "title": "Delta flight makes emergency landing in Atlanta, no injuries reported",
+    "url": "https://www.investing.com/news/stock-market-news/delta-flight-makes-emergency-landing-in-atlanta-no-injuries-reported-4847682",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-09T03:48:07+08:00",
+    "stocks": [],
+    "uid": "e995d05748be96be764463e56a074d1c",
+    "title_en": "Delta flight makes emergency landing in Atlanta, no injuries reported",
+    "summary_en": "",
+    "title_zh": "達美航空航班緊急迫降亞特蘭大 無人受傷",
+    "summary_zh": ""
+  },
+  {
+    "title": "AMD (AMD) Buys Taalas: Is AI Inference the Next Battleground With Nvidia?",
+    "url": "https://finance.yahoo.com/technology/ai/articles/amd-amd-buys-taalas-ai-194609482.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-09T03:46:09+08:00",
+    "stocks": [
+      "AMD"
+    ],
+    "uid": "8d52865ca5be825aae8629b64c308aa2",
+    "title_en": "AMD (AMD) Buys Taalas: Is AI Inference the Next Battleground With Nvidia?",
+    "summary_en": "",
+    "title_zh": "AMD (AMD) 收購 Taalas：AI 推理是 Nvidia 的下一個戰場嗎？",
+    "summary_zh": ""
+  },
+  {
+    "title": "Nokia’s (NOK) AI Network Bet Gets A Taiwan Proving Ground",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nokia-nok-ai-network-bet-193932563.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-09T03:39:32+08:00",
+    "stocks": [
+      "NOK"
+    ],
+    "uid": "b4cbeffe8a4a7f0a52e3fbfb2c6efaa7",
+    "title_en": "Nokia’s (NOK) AI Network Bet Gets A Taiwan Proving Ground",
+    "summary_en": "",
+    "title_zh": "諾基亞 (NOK) 的人工智慧網路賭注獲得台灣試驗場",
+    "summary_zh": ""
+  },
+  {
+    "title": "Here's the Best Way to Make the 4% Rule Work for You in Retirement",
+    "url": "https://finance.yahoo.com/markets/articles/heres-best-way-4-rule-193800575.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-09T03:38:00+08:00",
+    "stocks": [],
+    "uid": "12a0665f030d3c7c52adea714ff60cd6",
+    "title_en": "Here's the Best Way to Make the 4% Rule Work for You in Retirement",
+    "summary_en": "",
+    "title_zh": "這是讓 4% 規則在退休後發揮作用的最佳方法",
+    "summary_zh": ""
+  },
+  {
+    "title": "Better GLP-1 Stock to Buy: Eli Lilly or Viking Therapeutics?",
+    "url": "https://www.fool.com/investing/2026/08/08/better-glp-1-stock-to-buy-eli-lilly-or-viking-ther/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "It's not much of a rivalry yet.",
+    "published_at": "2026-08-09T03:30:00+08:00",
+    "stocks": [],
+    "uid": "5f8a4ae3745a3c9b5c82a803f89633d3",
+    "title_en": "Better GLP-1 Stock to Buy: Eli Lilly or Viking Therapeutics?",
+    "summary_en": "It's not much of a rivalry yet.",
+    "title_zh": "更值得買的 GLP-1 股票：禮來公司還是 Viking Therapeutics？",
+    "summary_zh": "這還不是一場激烈的競爭。"
+  },
+  {
+    "title": "3 Defense Stocks That Could Benefit From the Crisis in the Strait of Hormuz",
+    "url": "https://www.fool.com/investing/2026/08/08/3-defense-stocks-that-could-benefit-from-the-crisi/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Three stocks are benefiting from the same geopolitical crisis, but their risks are radically different. Discover which opportunities could endure and which may unravel when conditions change.",
+    "published_at": "2026-08-09T03:30:00+08:00",
+    "stocks": [],
+    "uid": "7f5cbe31243d35e56e638232f8675917",
+    "title_en": "3 Defense Stocks That Could Benefit From the Crisis in the Strait of Hormuz",
+    "summary_en": "Three stocks are benefiting from the same geopolitical crisis, but their risks are radically different. Discover which opportunities could endure and which may unravel when conditions change.",
+    "title_zh": "3只可能從霍爾木茲海峽危機中受益的國防股",
+    "summary_zh": "三隻股票受益於同一場地緣政治危機，但它們面臨的風險卻截然不同。發現哪些機會可以持久，哪些機會可能會隨著條件改變而消失。"
+  },
+  {
+    "title": "Is Dutch Bros a Buy After Crashing 19% in 1 Day?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/dutch-bros-buy-crashing-19-192500067.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-09T03:25:00+08:00",
+    "stocks": [],
+    "uid": "c9bdeea7ac8c53240e67702d26f45be0",
+    "title_en": "Is Dutch Bros a Buy After Crashing 19% in 1 Day?",
+    "summary_en": "",
+    "title_zh": "Dutch Bros 1天暴跌19%後值得買嗎？",
+    "summary_zh": ""
+  },
+  {
     "title": "US Senate advances landmark crypto bill before heading on August recess",
     "url": "https://www.investing.com/news/stock-market-news/us-senate-advances-landmark-crypto-bill-before-heading-on-august-recess-4847679",
     "source": "Investing.com",
@@ -11,6 +135,32 @@
     "summary_en": "",
     "title_zh": "美國參議院在八月休會前推動具有里程碑意義的加密貨幣法案",
     "summary_zh": ""
+  },
+  {
+    "title": "Here's the Best Way to Make the 4% Rule Work for You in Retirement",
+    "url": "https://www.fool.com/retirement/2026/08/08/heres-the-best-way-to-make-the-4-rule-work-for-you/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "With the right approach, you may find that it's a great way to manage your money.",
+    "published_at": "2026-08-09T03:18:00+08:00",
+    "stocks": [],
+    "uid": "9bc554f6993b50558b7d80b57f0fd34b",
+    "title_en": "Here's the Best Way to Make the 4% Rule Work for You in Retirement",
+    "summary_en": "With the right approach, you may find that it's a great way to manage your money.",
+    "title_zh": "這是讓 4% 規則在退休後發揮作用的最佳方法",
+    "summary_zh": "透過正確的方法，您可能會發現這是管理資金的好方法。"
+  },
+  {
+    "title": "Is Dutch Bros a Buy After Crashing 19% in 1 Day?",
+    "url": "https://www.fool.com/investing/2026/08/08/is-dutch-bros-a-buy-after-crashing-19-in-1-day/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Investors need to take a step back and view this business with a fresh perspective.",
+    "published_at": "2026-08-09T03:05:00+08:00",
+    "stocks": [],
+    "uid": "f330d734819b37fcf25054571f3fab5d",
+    "title_en": "Is Dutch Bros a Buy After Crashing 19% in 1 Day?",
+    "summary_en": "Investors need to take a step back and view this business with a fresh perspective.",
+    "title_zh": "Dutch Bros 1天暴跌19%後值得買嗎？",
+    "summary_zh": "投資人需要退後一步，以全新的視角看待這項業務。"
   },
   {
     "title": "Materion Q2 Earnings Call Highlights",
@@ -36,6 +186,19 @@
     "title_en": "Matador Resources Q2 Earnings Call Highlights",
     "summary_en": "",
     "title_zh": "Matador Resources 第二季財報電話會議亮點",
+    "summary_zh": ""
+  },
+  {
+    "title": "Motorola Solutions Q2 Earnings Call Highlights",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/motorola-solutions-q2-earnings-call-190348952.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-09T03:03:48+08:00",
+    "stocks": [],
+    "uid": "3f66a64756cb2744cea48fbd64b4f229",
+    "title_en": "Motorola Solutions Q2 Earnings Call Highlights",
+    "summary_en": "",
+    "title_zh": "摩托羅拉解決方案第二季財報電話會議亮點",
     "summary_zh": ""
   },
   {
@@ -88,6 +251,19 @@
     "title_en": "European software rally leaves next leg to long-only investors, Deutsche Bank says",
     "summary_en": "",
     "title_zh": "德意志銀行表示，歐洲軟體漲勢將下一階段留給了多頭投資者",
+    "summary_zh": ""
+  },
+  {
+    "title": "Airlines Scramble for Jet Fuel as Hormuz Disruption Drags On",
+    "url": "https://finance.yahoo.com/energy/articles/airlines-scramble-jet-fuel-hormuz-190000182.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-09T03:00:00+08:00",
+    "stocks": [],
+    "uid": "4d73f110e1e86589376e644e8f9635ec",
+    "title_en": "Airlines Scramble for Jet Fuel as Hormuz Disruption Drags On",
+    "summary_en": "",
+    "title_zh": "隨著霍爾木茲海峽中斷的持續，航空公司爭相購買航空燃油",
     "summary_zh": ""
   },
   {
@@ -9305,7 +9481,11 @@
     "summary": "",
     "published_at": "2026-08-07T19:00:05+08:00",
     "stocks": [],
-    "uid": "9a79790712ec9d6f3d4dfe133fb4fbd7"
+    "uid": "9a79790712ec9d6f3d4dfe133fb4fbd7",
+    "title_en": "Apple Among Three Stocks In Voracious Demand. Funds Also Feast On 14 Others.",
+    "summary_en": "",
+    "title_zh": "蘋果是三個需求旺盛的股票之一。基金也青睞其他 14 家基金。",
+    "summary_zh": ""
   },
   {
     "title": "Kevin O’Leary, aka ‘Mr. Wonderful,’ on crypto, winning in AI and 3 things all business owners must know",
@@ -9353,7 +9533,11 @@
     "summary": "",
     "published_at": "2026-08-07T19:00:00+08:00",
     "stocks": [],
-    "uid": "00a67f6a688b98b60de6286710c6fefa"
+    "uid": "00a67f6a688b98b60de6286710c6fefa",
+    "title_en": "Want to give a stuffed boar to charity? It may be more curse than gift, as the IRS cracks down on non-cash donations",
+    "summary_en": "",
+    "title_zh": "想向慈善機構捐贈一隻毛絨野豬嗎？隨著美國國稅局嚴厲打擊非現金捐贈，這可能更多是詛咒而不是禮物",
+    "summary_zh": ""
   },
   {
     "title": "Pope Leo XIV Was Elected. The Chicago White Sox Were Resurrected.",
@@ -9388,7 +9572,11 @@
     "summary": "",
     "published_at": "2026-08-07T18:55:22+08:00",
     "stocks": [],
-    "uid": "00084993c1e549a54a25a45b9c475533"
+    "uid": "00084993c1e549a54a25a45b9c475533",
+    "title_en": "Levi Strauss reveals cybersecurity breach amid wider wave of attacks",
+    "summary_en": "",
+    "title_zh": "李維·斯特勞斯 (Levi Strauss) 揭露更廣泛攻擊浪潮中的網路安全漏洞",
+    "summary_zh": ""
   },
   {
     "title": "Cloudflare shares jump after forecast raise on higher AI-driven spending",
@@ -9397,7 +9585,11 @@
     "summary": "",
     "published_at": "2026-08-07T18:54:51+08:00",
     "stocks": [],
-    "uid": "ba68d32f6ba0287c42dc1b3429bb9abf"
+    "uid": "ba68d32f6ba0287c42dc1b3429bb9abf",
+    "title_en": "Cloudflare shares jump after forecast raise on higher AI-driven spending",
+    "summary_en": "",
+    "title_zh": "由於人工智慧驅動支出增加，Cloudflare 股價上漲",
+    "summary_zh": ""
   },
   {
     "title": "ABB invests in LevelTen Energy to support clean energy procurement",
@@ -9406,7 +9598,11 @@
     "summary": "",
     "published_at": "2026-08-07T18:54:00+08:00",
     "stocks": [],
-    "uid": "bd134903bd35d8aca0ab402e3545c8dd"
+    "uid": "bd134903bd35d8aca0ab402e3545c8dd",
+    "title_en": "ABB invests in LevelTen Energy to support clean energy procurement",
+    "summary_en": "",
+    "title_zh": "ABB投資LevelTen Energy支持清潔能源採購",
+    "summary_zh": ""
   },
   {
     "title": "Software Stocks Are a Hot Mess. So Is the Whole AI Trade.",
@@ -9415,7 +9611,11 @@
     "summary": "",
     "published_at": "2026-08-07T18:52:00+08:00",
     "stocks": [],
-    "uid": "e3faea6bc4e5672cd90e83fb0c059be3"
+    "uid": "e3faea6bc4e5672cd90e83fb0c059be3",
+    "title_en": "Software Stocks Are a Hot Mess. So Is the Whole AI Trade.",
+    "summary_en": "",
+    "title_zh": "軟體股一團糟。整個人工智慧產業也是如此。",
+    "summary_zh": ""
   },
   {
     "title": "Amazon CEO Andy Jassy Just Made a Shocking Trillion-Dollar Prediction",
@@ -9437,7 +9637,11 @@
     "summary": "",
     "published_at": "2026-08-07T18:43:13+08:00",
     "stocks": [],
-    "uid": "aa2cbd93f5c30e389779ed9cf2f35e0c"
+    "uid": "aa2cbd93f5c30e389779ed9cf2f35e0c",
+    "title_en": "Morning Bid: Dealjà vu",
+    "summary_en": "",
+    "title_zh": "早盤出價：Dealjà vu",
+    "summary_zh": ""
   },
   {
     "title": "Warren Buffett shares the ‘secret sauce’ to Berkshire Hathaway's dominance. Use his strategy to grow your own wealth now",
@@ -9446,7 +9650,11 @@
     "summary": "",
     "published_at": "2026-08-07T18:35:00+08:00",
     "stocks": [],
-    "uid": "bd0fc6bd7e1b67df173e830d7e64992b"
+    "uid": "bd0fc6bd7e1b67df173e830d7e64992b",
+    "title_en": "Warren Buffett shares the ‘secret sauce’ to Berkshire Hathaway's dominance. Use his strategy to grow your own wealth now",
+    "summary_en": "",
+    "title_zh": "華倫·巴菲特分享了波克夏·哈撒韋公司佔據主導地位的「秘密武器」。現在就用他的策略來增加自己的財富",
+    "summary_zh": ""
   },
   {
     "title": "Why is Replimune stock volatile  today?",
@@ -9468,7 +9676,11 @@
     "summary": "",
     "published_at": "2026-08-07T18:32:20+08:00",
     "stocks": [],
-    "uid": "5df5e6cd7c93f8d6ae6a6f36b59a0575"
+    "uid": "5df5e6cd7c93f8d6ae6a6f36b59a0575",
+    "title_en": "UK VC bets big on AI, leaving other sectors starved for cash",
+    "summary_en": "",
+    "title_zh": "英國創投在人工智慧上大舉押注，導致其他產業急需現金",
+    "summary_zh": ""
   },
   {
     "title": "Why is PENN Entertainment stock climbing today?",
@@ -9633,7 +9845,11 @@
     "summary": "",
     "published_at": "2026-08-07T18:27:48+08:00",
     "stocks": [],
-    "uid": "28c0cb4e8f623012af5aa88d09018fe0"
+    "uid": "28c0cb4e8f623012af5aa88d09018fe0",
+    "title_en": "Salad chain Sweetgreen shares slide as cyclosporiasis fears prompt forecast cut",
+    "summary_en": "",
+    "title_zh": "沙拉連鎖店 Sweetgreen 股價下跌，因擔心環孢子蟲病導致預測下調",
+    "summary_zh": ""
   },
   {
     "title": "Stock Index Futures Gain With All Eyes on Key U.S. Jobs Report",
@@ -9642,7 +9858,11 @@
     "summary": "",
     "published_at": "2026-08-07T18:26:44+08:00",
     "stocks": [],
-    "uid": "e218ae05a9804a78e03c2c734f080563"
+    "uid": "e218ae05a9804a78e03c2c734f080563",
+    "title_en": "Stock Index Futures Gain With All Eyes on Key U.S. Jobs Report",
+    "summary_en": "",
+    "title_zh": "所有人都關注美國主要就業報告，股指期貨上漲",
+    "summary_zh": ""
   },
   {
     "title": "Every S&P 500 Sector ETF Ranked by How Much It Actually Depends on Just 3 Stocks",
@@ -10983,7 +11203,11 @@
     "summary": "",
     "published_at": "2026-08-07T12:37:19+08:00",
     "stocks": [],
-    "uid": "d8e9027b87e2a4fa4fb0d1cbfab19d03"
+    "uid": "d8e9027b87e2a4fa4fb0d1cbfab19d03",
+    "title_en": "INmune Bio, Inc. Q2 2026 Earnings Call Summary",
+    "summary_en": "",
+    "title_zh": "INmune Bio, Inc. 2026 年第二季財報電話會議摘要",
+    "summary_zh": ""
   },
   {
     "title": "Hoping for a clean and tidy jobs report",
