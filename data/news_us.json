@@ -1,5 +1,417 @@
 [
   {
+    "title": "How the market is trading gold as Fed rate hike and inflation odds shift",
+    "url": "https://www.cnbc.com/2026/08/12/gold-prices-metals-fed-rate-hike-inflation.html",
+    "source": "CNBC Top",
+    "summary": "Gold prices have been volatile in 2026, but a recent rally shows renewed investor interest amid tamer inflation data and changing Fed rate expectations.",
+    "published_at": "2026-08-13T03:57:25+08:00",
+    "stocks": [],
+    "uid": "61a701aff4e8eeff9e593f3a4de5bde5",
+    "title_en": "How the market is trading gold as Fed rate hike and inflation odds shift",
+    "summary_en": "Gold prices have been volatile in 2026, but a recent rally shows renewed investor interest amid tamer inflation data and changing Fed rate expectations.",
+    "title_zh": "隨著聯準會升息和通膨幾率的變化，市場如何交易黃金",
+    "summary_zh": "2026 年金價一直波動較大，但近期的反彈表明，在通膨數據溫和和聯準會利率預期變化的情況下，投資者的興趣重新燃起。"
+  },
+  {
+    "title": "Trump says Karoline Leavitt resigning as White House press secretary",
+    "url": "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html",
+    "source": "CNBC Top",
+    "summary": "Leavitt, who is the youngest White House press secretary every, gave birth in May to a girl, her second child.",
+    "published_at": "2026-08-13T03:55:52+08:00",
+    "stocks": [],
+    "uid": "2f5f78bd09e495476605690d9951a5a2",
+    "title_en": "Trump says Karoline Leavitt resigning as White House press secretary",
+    "summary_en": "Leavitt, who is the youngest White House press secretary every, gave birth in May to a girl, her second child.",
+    "title_zh": "川普稱卡洛琳·萊維特辭去白宮新聞秘書職務",
+    "summary_zh": "萊維特是最年輕的白宮新聞秘書，她在五月生下了一個女孩，這是她的第二個孩子。"
+  },
+  {
+    "title": "Saudi Arabia ramps up oil exports through Mediterranean pipeline to avoid attacks in Red Sea",
+    "url": "https://www.cnbc.com/2026/08/12/saudi-arabia-iran-oil-red-sea-houthi-suez-canal-strait-hormuz.html",
+    "source": "CNBC Top",
+    "summary": "Oil exports from Egypt's Mediterranean port of Sidi Kerir have more than doubled. The crude is mostly from Saudi Arabia, according to Kpler.",
+    "published_at": "2026-08-13T03:51:51+08:00",
+    "stocks": [],
+    "uid": "04e541a106b76d177e800e53d6b81b7b",
+    "title_en": "Saudi Arabia ramps up oil exports through Mediterranean pipeline to avoid attacks in Red Sea",
+    "summary_en": "Oil exports from Egypt's Mediterranean port of Sidi Kerir have more than doubled. The crude is mostly from Saudi Arabia, according to Kpler.",
+    "title_zh": "沙烏地阿拉伯透過地中海管道增加石油出口以避免紅海襲擊",
+    "summary_zh": "埃及地中海港口西迪克里爾的石油出口量增加了一倍以上。克普勒表示，原油主要來自沙烏地阿拉伯。"
+  },
+  {
+    "title": "Senators press Rubio, Bessent on lack of counter-evasion sanctions on Russia",
+    "url": "https://www.investing.com/news/stock-market-news/senators-press-rubio-bessent-on-lack-of-counterevasion-sanctions-on-russia-4855935",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-13T03:43:26+08:00",
+    "stocks": [],
+    "uid": "50015e85382bdc0393f497780212a02d",
+    "title_en": "Senators press Rubio, Bessent on lack of counter-evasion sanctions on Russia",
+    "summary_en": "",
+    "title_zh": "參議員就缺乏對俄羅斯的反規避制裁向盧比歐和貝森特施壓",
+    "summary_zh": ""
+  },
+  {
+    "title": "Analysis-Top US refiners see profits soar, step up investor rewards",
+    "url": "https://www.investing.com/news/stock-market-news/analysistop-us-refiners-see-profits-soar-step-up-investor-rewards-4855934",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-13T03:42:51+08:00",
+    "stocks": [],
+    "uid": "c312bd81101f095ce94a1e301c37b9bf",
+    "title_en": "Analysis-Top US refiners see profits soar, step up investor rewards",
+    "summary_en": "",
+    "title_zh": "分析-美國頂級煉油商利潤飆升，加大投資者回報",
+    "summary_zh": ""
+  },
+  {
+    "title": "AbCellera Biologics stock analysis: momentum vs. fundamentals",
+    "url": "https://www.investing.com/news/stock-market-news/abcellera-biologics-stock-analysis-momentum-vs-fundamentals-93CH-4855932",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-13T03:39:54+08:00",
+    "stocks": [],
+    "uid": "4e0f3aca04e6d3b631163a8079067633",
+    "title_en": "AbCellera Biologics stock analysis: momentum vs. fundamentals",
+    "summary_en": "",
+    "title_zh": "AbCellera Biologics 股票分析：動量與基本面",
+    "summary_zh": ""
+  },
+  {
+    "title": "Nexxen at Canaccord Genuity conference: enterprise growth in focus",
+    "url": "https://www.investing.com/news/transcripts/nexxen-at-canaccord-genuity-conference-enterprise-growth-in-focus-93CH-4855931",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-13T03:37:52+08:00",
+    "stocks": [],
+    "uid": "0cb90d33129ca739b3d65489de9fc5d3",
+    "title_en": "Nexxen at Canaccord Genuity conference: enterprise growth in focus",
+    "summary_en": "",
+    "title_zh": "Nexxen 在 Canaccord Genuity 會議上：企業成長成為焦點",
+    "summary_zh": ""
+  },
+  {
+    "title": "Nike vs Adidas: valuation, margins, and where value lives",
+    "url": "https://www.investing.com/news/stock-market-news/nike-vs-adidas-valuation-margins-and-where-value-lives-93CH-4855930",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-13T03:37:22+08:00",
+    "stocks": [],
+    "uid": "56ccf6cdbf05d8929bade045770e4bd1",
+    "title_en": "Nike vs Adidas: valuation, margins, and where value lives",
+    "summary_en": "",
+    "title_zh": "耐吉與阿迪達斯：估值、利潤率以及價值所在",
+    "summary_zh": ""
+  },
+  {
+    "title": "Guardant Health at canaccord growth conference: shield drives growth",
+    "url": "https://www.investing.com/news/transcripts/guardant-health-at-canaccord-growth-conference-shield-drives-growth-93CH-4855929",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-13T03:37:02+08:00",
+    "stocks": [],
+    "uid": "f89b63cd950dc9e0311e36765ae6df0a",
+    "title_en": "Guardant Health at canaccord growth conference: shield drives growth",
+    "summary_en": "",
+    "title_zh": "Guardant Health 在 canaccord 成長會議：盾牌驅動成長",
+    "summary_zh": ""
+  },
+  {
+    "title": "Mediaco Holding shareholders elect directors and approve key proposals at annual meeting",
+    "url": "https://www.investing.com/news/sec-filings/mediaco-holding-shareholders-elect-directors-and-approve-key-proposals-at-annual-meeting-93CH-4855928",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-13T03:36:54+08:00",
+    "stocks": [],
+    "uid": "9e1b0011dac757d2bfbfaaaacdaf328a"
+  },
+  {
+    "title": "Earnings call transcript: Computershare posts solid FY 2026 beat, shares fall",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-computershare-posts-solid-fy-2026-beat-shares-fall-93CH-4855927",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-13T03:36:38+08:00",
+    "stocks": [],
+    "uid": "1f8dc5f54707c671cba0908f29d2c9d7",
+    "title_en": "Earnings call transcript: Computershare posts solid FY 2026 beat, shares fall",
+    "summary_en": "",
+    "title_zh": "財報電話會議記錄：Computershare 公佈 2026 財年業績穩健，股價下跌",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why is Shutterstock stock rallying today?",
+    "url": "https://www.investing.com/news/stock-market-news/why-is-shutterstock-stock-rallying-today-93CH-4855924",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-13T03:33:55+08:00",
+    "stocks": [],
+    "uid": "4fd058a3c0144a5fa335a867325ae60d",
+    "title_en": "Why is Shutterstock stock rallying today?",
+    "summary_en": "",
+    "title_zh": "為什麼 Shutterstock 股票今天上漲？",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why is Home Depot stock sliding today?",
+    "url": "https://www.investing.com/news/stock-market-news/why-is-home-depot-stock-sliding-today-93CH-4855923",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-13T03:33:41+08:00",
+    "stocks": [],
+    "uid": "6a5a1e623f62b6be939b2f948496a967",
+    "title_en": "Why is Home Depot stock sliding today?",
+    "summary_en": "",
+    "title_zh": "為什麼家得寶股票今天會下跌？",
+    "summary_zh": ""
+  },
+  {
+    "title": "Nu Holdings' Second-Quarter Earnings Report Tomorrow Could Send the Stock Soaring. Here's Why.",
+    "url": "https://www.fool.com/investing/2026/08/12/nu-holdings-second-quarter-earnings-report-tomorrow-could-send-the-stock-soaring-here-s-why/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "These catalysts could prove to be the actual drivers of the stock.",
+    "published_at": "2026-08-13T03:33:30+08:00",
+    "stocks": [],
+    "uid": "bda0511a00c2ec0db3a2b8f4c21c75c8",
+    "title_en": "Nu Holdings' Second-Quarter Earnings Report Tomorrow Could Send the Stock Soaring. Here's Why.",
+    "summary_en": "These catalysts could prove to be the actual drivers of the stock.",
+    "title_zh": "Nu Holdings 明天發布的第二季財報可能會導致股價飆升。這就是為什麼。",
+    "summary_zh": "這些催化劑可能被證明是該股的實際驅動力。"
+  },
+  {
+    "title": "Remitly Stock Is Up This Year but Sits 45% Below Its Highs. Here's How to Read a Director's Recent Sale",
+    "url": "https://www.fool.com/coverage/filings/2026/08/12/remitly-stock-is-up-this-year-but-sits-45-below-its-highs-here-s-how-to-read-a-director-s-recent-sale/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This director maintains a substantial $45.96 million position after the discretionary sale, which occurred while the stock was up 29% over the past year.",
+    "published_at": "2026-08-13T03:32:41+08:00",
+    "stocks": [],
+    "uid": "e1c4191e6f5a83ad0bed7e7c1ea7da57",
+    "title_en": "Remitly Stock Is Up This Year but Sits 45% Below Its Highs. Here's How to Read a Director's Recent Sale",
+    "summary_en": "This director maintains a substantial $45.96 million position after the discretionary sale, which occurred while the stock was up 29% over the past year.",
+    "title_zh": "Remitly 股價今年有所上漲，但仍比高點低 45%。以下是如何閱讀董事最近的銷售",
+    "summary_zh": "在全權出售後，該董事仍持有 4,596 萬美元的巨額頭寸，而該股在過去一年中上漲了 29%。"
+  },
+  {
+    "title": "Is Nvidia Still the King of AI After CoreWeave and Nebius Report? Here's My Honest Take",
+    "url": "https://www.fool.com/investing/2026/08/12/is-nvidia-still-the-king-of-ai-after-coreweave-and/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Two of Nvidia's biggest challengers just reported earnings, and the results say more about who's really winning than the headlines suggest.",
+    "published_at": "2026-08-13T03:32:36+08:00",
+    "stocks": [],
+    "uid": "8e0d7608b98c3543d4d23fec9a999490",
+    "title_en": "Is Nvidia Still the King of AI After CoreWeave and Nebius Report? Here's My Honest Take",
+    "summary_en": "Two of Nvidia's biggest challengers just reported earnings, and the results say more about who's really winning than the headlines suggest.",
+    "title_zh": "CoreWeave 和 Nebius 報告發布後，Nvidia 仍是 AI 之王嗎？這是我的誠實看法",
+    "summary_zh": "英偉達最大的兩個挑戰者剛剛公佈了財報，結果比頭條新聞更能說明誰才是真正的贏家。"
+  },
+  {
+    "title": "Blank Rome Expands Houston Office with Addition of Business Litigation and Energy Industry Partner Daniel S. Mayerfeld",
+    "url": "https://markets.businessinsider.com/news/stocks/blank-rome-expands-houston-office-with-addition-of-business-litigation-and-energy-industry-partner-daniel-s-mayerfeld-1036449064",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;Houston, Aug.  12, 2026  (GLOBE NEWSWIRE) -- Blank Rome LLP is pleased to announce that &lt;a...",
+    "published_at": "2026-08-13T03:27:01+08:00",
+    "stocks": [],
+    "uid": "dd72a750e760e5c9ac8389731f5467ee",
+    "title_en": "Blank Rome Expands Houston Office with Addition of Business Litigation and Energy Industry Partner Daniel S. Mayerfeld",
+    "summary_en": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;Houston, Aug.  12, 2026  (GLOBE NEWSWIRE) -- Blank Rome LLP is pleased to announce that &lt;a...",
+    "title_zh": "Blank Rome 擴建休士頓辦事處，新增商業訴訟和能源產業合夥人 Daniel S. Mayerfeld",
+    "summary_zh": "<link type=\"text/css\" rel=\"stylesheet\" href=\"https://www.globenewswire.com/styles/gnw_nitf.css\" />休斯頓，2026 年 8 月 12 日（環球通訊社）-- Blank Rome LLP 很高興地宣布 <a..."
+  },
+  {
+    "title": "DEKRA Expands Automotive EMC Testing Capabilities with General Motors GMW3097 Approval",
+    "url": "https://markets.businessinsider.com/news/stocks/dekra-expands-automotive-emc-testing-capabilities-with-general-motors-gmw3097-approval-1036449063",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;Plymouth, Michigan, Aug.  12, 2026  (GLOBE NEWSWIRE) -- DEKRA's Automotive Test Center of Excellence in Plymouth, Michigan has received approval to perform testing in accordance with General Motors' GMW3097 electromagnetic compatibility (EMC)...",
+    "published_at": "2026-08-13T03:26:39+08:00",
+    "stocks": [
+      "EMC"
+    ],
+    "uid": "6d11ba36352be99848ff527416bb0aae",
+    "title_en": "DEKRA Expands Automotive EMC Testing Capabilities with General Motors GMW3097 Approval",
+    "summary_en": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;Plymouth, Michigan, Aug.  12, 2026  (GLOBE NEWSWIRE) -- DEKRA's Automotive Test Center of Excellence in Plymouth, Michigan has received approval to perform testing in accordance with General Motors' GMW3097 electromagnetic compatibility (EMC)...",
+    "title_zh": "DEKRA 獲得通用汽車 GMW3097 批准，擴大汽車 EMC 測試能力",
+    "summary_zh": "<link type=\"text/css\" rel=\"stylesheet\" href=\"https://www.globenewswire.com/styles/gnw_nitf.css\" />密西根州普利茅斯，2026 年 8 月 12 日 (GLOBE NEWSWIRE) -- DEKRA 位於密西根州普利茅斯的汽車卓越測試通用磁力中心獲得批准，3097 月 30973555559500 月 309355... 309735... 257357 月）。"
+  },
+  {
+    "title": "A Remitly Director Cashed In Pre-IPO Options. Here's What to Know",
+    "url": "https://www.fool.com/coverage/filings/2026/08/12/a-remitly-director-cashed-in-pre-ipo-options-here-s-what-to-know/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Exercise of fully vested options at $0.64 per share reduced his direct holdings by half, though he retains 261,094 shares and 169,818 outstanding options.",
+    "published_at": "2026-08-13T03:25:31+08:00",
+    "stocks": [],
+    "uid": "d46467d0d83e3b6faeac71760efe9048",
+    "title_en": "A Remitly Director Cashed In Pre-IPO Options. Here's What to Know",
+    "summary_en": "Exercise of fully vested options at $0.64 per share reduced his direct holdings by half, though he retains 261,094 shares and 169,818 outstanding options.",
+    "title_zh": "一位 Remitly 董事兌現了 IPO 前選擇權。以下是您需要了解的內容",
+    "summary_zh": "儘管他保留了 261,094 股股票和 169,818 份未行使選擇權，但以每股 0.64 美元的價格行使完全歸屬選擇權後，他的直接持股量減少了一半。"
+  },
+  {
+    "title": "Why Kontoor Brands Stock Jumped 13% This Morning",
+    "url": "https://www.fool.com/investing/2026/08/12/why-kontoor-brands-stock-jumped-13-this-morning/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Kontoor Brands raised its full-year guidance and announced a major buyback. The Wrangler and Helly Hansen parent is streamlining its brand portfolio.",
+    "published_at": "2026-08-13T03:25:05+08:00",
+    "stocks": [],
+    "uid": "d47a27f70eca15b70202e59208ee2beb",
+    "title_en": "Why Kontoor Brands Stock Jumped 13% This Morning",
+    "summary_en": "Kontoor Brands raised its full-year guidance and announced a major buyback. The Wrangler and Helly Hansen parent is streamlining its brand portfolio.",
+    "title_zh": "為什麼 Kontoor Brands 股價今早上漲 13%",
+    "summary_zh": "Kontoor Brands 上調了全年指引並宣布進行重大回購。 Wrangler and Helly Hansen 母公司正在精簡其品牌組合。"
+  },
+  {
+    "title": "Alphabet, Amazon, Meta Platforms, and Microsoft: One of These Stocks Looks Like It Has the Least Upside Over the Next 12 Months, but There's a Catch",
+    "url": "https://www.fool.com/investing/2026/08/12/alphabet-amazon-meta-platforms-and-microsoft-this/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Microsoft is already relatively close to its median 12-month price target.",
+    "published_at": "2026-08-13T03:21:00+08:00",
+    "stocks": [],
+    "uid": "25e8356ef0c7805e98750fb70526add5",
+    "title_en": "Alphabet, Amazon, Meta Platforms, and Microsoft: One of These Stocks Looks Like It Has the Least Upside Over the Next 12 Months, but There's a Catch",
+    "summary_en": "Microsoft is already relatively close to its median 12-month price target.",
+    "title_zh": "Alphabet、亞馬遜、Meta Platform 和微軟：其中一隻股票看起來在未來 12 個月內上漲空間最小，但有一個問題",
+    "summary_zh": "微軟已經相對接近其 12 個月目標價中位數。"
+  },
+  {
+    "title": "Opus One Provides Update on Omnibus Equity Incentive Plan and Announces Cancellation and Re-Grant of Stock Options",
+    "url": "https://markets.businessinsider.com/news/stocks/opus-one-provides-update-on-omnibus-equity-incentive-plan-and-announces-cancellation-and-re-grant-of-stock-options-1036449055",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;justify&quot;&gt;MONTREAL, Aug.  12, 2026  (GLOBE NEWSWIRE) -- Opus One Gold Corporation (OOR: TSXV)&#160; (&quot;Opus One &quot; or the &quot;Company &quot;) is providing the following updates in respect of its equity incentive arrangements.&lt;p align=&quot;justify&quot;&gt;Omnibus...",
+    "published_at": "2026-08-13T03:20:53+08:00",
+    "stocks": [],
+    "uid": "ca690ac482e2831be49b7751f2bdbf42",
+    "title_en": "Opus One Provides Update on Omnibus Equity Incentive Plan and Announces Cancellation and Re-Grant of Stock Options",
+    "summary_en": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;justify&quot;&gt;MONTREAL, Aug.  12, 2026  (GLOBE NEWSWIRE) -- Opus One Gold Corporation (OOR: TSXV)&#160; (&quot;Opus One &quot; or the &quot;Company &quot;) is providing the following updates in respect of its equity incentive arrangements.&lt;p align=&quot;justify&quot;&gt;Omnibus...",
+    "title_zh": "Opus One 提供綜合股權激勵計畫的最新資訊並宣布取消和重新授予股票選擇權",
+    "summary_zh": "<link type=\"text/css\" rel=\"stylesheet\" href=\"https://www.globenewswire.com/styles/gnw_nitf.css\" /><palign=\"justify\">蒙特利爾，2026 年 8 月 12 日（環球通訊社）--Opus One Gold Corporation Corporation（多倫多公司證券交易所代碼：OTSXV）提供「新股權公司」的最新消息（多倫多公司」）。 <p對齊=“justify”>綜合..."
+  },
+  {
+    "title": "New York Academy of Medicine to Host 2026 Annual Gala",
+    "url": "https://markets.businessinsider.com/news/stocks/new-york-academy-of-medicine-to-host-2026-annual-gala-1036449047",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;New York City, Aug.  12, 2026  (GLOBE NEWSWIRE) -- New York Academy of Medicine (NYAM) is proud to announce the four honorees of this year’s gala, which will take place on October 28, 2026, at 6 p.m .  This year’s honorees and their work are a...",
+    "published_at": "2026-08-13T03:17:41+08:00",
+    "stocks": [
+      "NYAM"
+    ],
+    "uid": "694b0e139ac6068dde2616f5dc71f57a",
+    "title_en": "New York Academy of Medicine to Host 2026 Annual Gala",
+    "summary_en": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;New York City, Aug.  12, 2026  (GLOBE NEWSWIRE) -- New York Academy of Medicine (NYAM) is proud to announce the four honorees of this year’s gala, which will take place on October 28, 2026, at 6 p.m .  This year’s honorees and their work are a...",
+    "title_zh": "紐約醫學院將舉辦 2026 年年度晚會",
+    "summary_zh": "<link type=\"text/css\" rel=\"stylesheet\" href=\"https://www.globenewswire.com/styles/gnw_nitf.css\" />紐約市，2026 年 8 月 12 日 (GLOBE NEWSWIRE) -- 紐約醫學院 (NYAM) 自豪地宣布今年盛典的四位 202 日下午 686 大典 1686 年 686 年舉行。  今年的獲獎者和他們的工作是..."
+  },
+  {
+    "title": "Kaplan Fox Encourages Investors of Datavault AI Inc. (DVLT) Who Suffered Losses to Contact the Firm Before October 5, 2026",
+    "url": "https://markets.businessinsider.com/news/stocks/kaplan-fox-encourages-investors-of-datavault-ai-inc.-dvlt-who-suffered-losses-to-contact-the-firm-before-october-5-2026-1036449054",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/309043/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px;  height: 1px;border: 0px solid;&quot;&gt;New York, New York--(Newsfile Corp. - August 12, 2026) - &lt;a href=&quot;https://api.newsfilecorp.com/redirect/Q2zzWc7L5O&quot; rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot;&gt;Kaplan Fox  Kilsheimer LLP&lt;/a&gt; announces that a...",
+    "published_at": "2026-08-13T03:15:00+08:00",
+    "stocks": [
+      "DVLT"
+    ],
+    "uid": "e25f4ba246aff46ba3e1e146513c4f2d",
+    "title_en": "Kaplan Fox Encourages Investors of Datavault AI Inc. (DVLT) Who Suffered Losses to Contact the Firm Before October 5, 2026",
+    "summary_en": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/309043/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px;  height: 1px;border: 0px solid;&quot;&gt;New York, New York--(Newsfile Corp. - August 12, 2026) - &lt;a href=&quot;https://api.newsfilecorp.com/redirect/Q2zzWc7L5O&quot; rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot;&gt;Kaplan Fox  Kilsheimer LLP&lt;/a&gt; announces that a...",
+    "title_zh": "Kaplan Fox 鼓勵遭受損失的 Datavault AI Inc. (DVLT) 投資者在 2026 年 10 月 5 日之前聯繫該公司",
+    "summary_zh": "<img src=\"https://api.newsfilecorp.com/newsinfo/309043/208\" id=\"208\" width=\"2\" height=\"2\" style=\"width: 1px; height: 1px;borderorder: 0px Solid;\">紐約州紐約市（006 月 2012 年 4 月） href=\"https://api.newsfilecorp.com/redirect/Q2zzWc7L5O\" rel=\"noopener nofollow\" target=\"_blank\">Kaplan Fox Kilsheimer LLP</a> 宣布..."
+  },
+  {
+    "title": "IBNAi Teams Up with Fireblocks to Strengthen Long Team Security of $IBNAi Companion Coin",
+    "url": "https://markets.businessinsider.com/news/stocks/ibnai-teams-up-with-fireblocks-to-strengthen-long-team-security-of-ibnai-companion-coin-1036449046",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;AUSTIN, Texas, Aug.  12, 2026  (GLOBE NEWSWIRE) -- &lt;b&gt;via IBN --&lt;/b&gt;&lt;a href=&quot;https://www.globenewswire.com/Tracker?data=ywiBgKGsK7HP04YhpGrooqFe5hhofSl-mxg16oorajNNuujq2MBrE8M8Ll5xgiiv9Hu6xoPYCFmmX6_Q7ZAtQW0KW0AsF3a9TltcQ3lXgUo=&quot; rel=&quot;nofollow&quot;...",
+    "published_at": "2026-08-13T03:12:31+08:00",
+    "stocks": [],
+    "uid": "b79e1836d544fd3b6aafaf4cbac2bac5",
+    "title_en": "IBNAi Teams Up with Fireblocks to Strengthen Long Team Security of $IBNAi Companion Coin",
+    "summary_en": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;AUSTIN, Texas, Aug.  12, 2026  (GLOBE NEWSWIRE) -- &lt;b&gt;via IBN --&lt;/b&gt;&lt;a href=&quot;https://www.globenewswire.com/Tracker?data=ywiBgKGsK7HP04YhpGrooqFe5hhofSl-mxg16oorajNNuujq2MBrE8M8Ll5xgiiv9Hu6xoPYCFmmX6_Q7ZAtQW0KW0AsF3a9TltcQ3lXgUo=&quot; rel=&quot;nofollow&quot;...",
+    "title_zh": "IBNAi 與 Fireblocks 合作，加強 $IBNAi 伴侶幣的長期團隊安全性",
+    "summary_zh": "<link type=\"text/css\" rel=\"stylesheet\" href=\"https://www.globenewswire.com/styles/gnw_nitf.css\" />德州奧斯汀，2026 年 8 月 12 日 (GLOBE NEWSWIRE) -- <b>來自 IBN --</b><a href=\"https://www.globenewswire.com/Tracker?data=ywiBgKGsK7HP04YhpGrooqFe5hhofSl-mxg16oorajNNuujq2MBrE8M8Ll5xgiiv9Hu6xoPYCFmmX6_Q7ZAtQW0KW0AsF3a9TltcQ3lXgUo=\"rel=\"nofollow\"..."
+  },
+  {
+    "title": "AffordaCare Insurance Named to the 2026 Inc. 5000 List, 41st Among Insurance Companies in the U.S.",
+    "url": "https://markets.businessinsider.com/news/stocks/affordacare-insurance-named-to-the-2026-inc-5000-list-41st-among-insurance-companies-in-the-u-s-1036449021",
+    "source": "Business Insider",
+    "summary": "&lt;i&gt;Dallas-Based Employee Benefits Leader Debuts on the National List of America's Fastest-Growing Private Companies, Placing 109&lt;sup&gt;th&lt;/sup&gt; in Dallas-Ft. Worth and 258&lt;sup&gt;th&lt;/sup&gt; in Texas&lt;/i&gt; &lt;strong id=&quot;dateline&quot;&gt;DALLAS, TX / &lt;a href='https://www.accessnewswire.com/' rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot;&gt;ACCESS Newswire&lt;/a&gt; / August 12,...",
+    "published_at": "2026-08-13T03:10:00+08:00",
+    "stocks": [],
+    "uid": "d7e0f8911d04ad3071db7c43b04cbbb8",
+    "title_en": "AffordaCare Insurance Named to the 2026 Inc. 5000 List, 41st Among Insurance Companies in the U.S.",
+    "summary_en": "&lt;i&gt;Dallas-Based Employee Benefits Leader Debuts on the National List of America's Fastest-Growing Private Companies, Placing 109&lt;sup&gt;th&lt;/sup&gt; in Dallas-Ft. Worth and 258&lt;sup&gt;th&lt;/sup&gt; in Texas&lt;/i&gt; &lt;strong id=&quot;dateline&quot;&gt;DALLAS, TX / &lt;a href='https://www.accessnewswire.com/' rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot;&gt;ACCESS Newswire&lt;/a&gt; / August 12,...",
+    "title_zh": "AffordaCare Insurance 入選 2026 年 Inc. 5000 強名單，在美國保險公司中排名第 41 位",
+    "summary_zh": "<i>總部位於達拉斯的員工福利領導者首次登上美國發展最快的私人公司全國名單，在達拉斯金融時報排名第 109 位。德州值得第 258 名</sup></i> <strong id=\"dateline\">德州達拉斯 / <a href='https://www.accessnewswire.com/' rel=\"noopener nofollow\" target=\"_blank\">ACCESS Newswire</a> / 8 月 12 日，..."
+  },
+  {
+    "title": "AST SpaceMobile Trades Near $74. Here's The Subscriber Math That Justifies It.",
+    "url": "https://www.fool.com/investing/2026/08/12/ast-spacemobile-trades-near-70-heres-the-subscribe/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The LEO satellite maker still has a bright future.",
+    "published_at": "2026-08-13T03:10:00+08:00",
+    "stocks": [],
+    "uid": "e913fb409bc67ebf4226cd2a11f25386"
+  },
+  {
+    "title": "Should You Buy Home Depot Stock Before Aug. 18?",
+    "url": "https://www.fool.com/investing/2026/08/12/should-you-buy-home-depot-stock-before-aug-18/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Priced for a recovery too soon, stick to the sidelines ahead of earnings.",
+    "published_at": "2026-08-13T03:05:00+08:00",
+    "stocks": [],
+    "uid": "242b9460883946c622665a9442718c45"
+  },
+  {
+    "title": "An economist flags a worrying sign of 'cracking' home prices with parallels to the 2008 meltdown",
+    "url": "https://www.businessinsider.com/home-prices-housing-market-warning-sign-2008-gfc-existing-sales-2026-8",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-08-13T03:04:00+08:00",
+    "stocks": [],
+    "uid": "95aa8d04358ca6c66817b04c807ace43"
+  },
+  {
+    "title": "Why SpaceX Stock Just Gained 11%",
+    "url": "https://www.fool.com/investing/2026/08/12/why-spacex-stock-just-gained-11/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "SpaceX shares soared after Elon Musk revealed AI could soon become the company's biggest revenue driver. But with heavy spending and a lofty valuation, is the excitement justified?",
+    "published_at": "2026-08-13T03:03:29+08:00",
+    "stocks": [],
+    "uid": "9a89c34eafb353943d8b9e1f8800d085"
+  },
+  {
+    "title": "Ocean Wise and Whale Research Collective: Three of the largest animals on Earth just got their first DNA test",
+    "url": "https://markets.businessinsider.com/news/stocks/ocean-wise-and-whale-research-collective-three-of-the-largest-animals-on-earth-just-got-their-first-dna-test-1036449016",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;a...",
+    "published_at": "2026-08-13T03:03:17+08:00",
+    "stocks": [],
+    "uid": "dd0297e12eca063bdc7cc2b349a89e6c"
+  },
+  {
+    "title": "Netcapital Inc. Statement from CEO",
+    "url": "https://markets.businessinsider.com/news/stocks/netcapital-inc-statement-from-ceo-1036449013",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;justify&quot;&gt;Boston, MA, Aug.  12, 2026  (GLOBE NEWSWIRE) --  &lt;a href=&quot;https://www.globenewswire.com/Tracker?data=OddFB8swOlzzAmI8jbYfkT6rO1oHR8KtFSYdr9W0w3gxkIOrpHrBhjnuGcz_1eEGLXAvAKrAWWib3273YuzFdaFbhZ8noHT66JV8Mt5sGv8=&quot; rel=&quot;nofollow&quot;...",
+    "published_at": "2026-08-13T03:00:00+08:00",
+    "stocks": [],
+    "uid": "450d2dd703603ca75402e6a7e15b0e2b"
+  },
+  {
+    "title": "Market Update: BTI, MCHP, APTV, TWLO, CAVA",
+    "url": "https://finance.yahoo.com/research/reports/ARGUS_47898_MarketUpdate_1786560461000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-13T02:47:41+08:00",
+    "stocks": [],
+    "uid": "6cc605f85edafa3f161d1227ed7fdade"
+  },
+  {
+    "title": "Intel Dropped After Strong Earnings. Here Is What $1,000 Invested Could Return Over 3 Years.",
+    "url": "https://www.fool.com/investing/2026/08/12/intel-dropped-after-strong-earnings-here-is-what-1/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The chipmaker announced a $15 billion secondary stock offering this week.",
+    "published_at": "2026-08-13T02:41:00+08:00",
+    "stocks": [],
+    "uid": "0c4ba8ad62a575e292e9c403448376a3"
+  },
+  {
     "title": "U.S. budget deficit surged in July to highest level since March 2021",
     "url": "https://www.cnbc.com/2026/08/12/us-budget-deficit-surged-in-july-to-highest-level-since-march-2021.html",
     "source": "CNBC Top",
@@ -24,6 +436,24 @@
     "summary_en": "",
     "title_zh": "截至7月美國預算赤字擴大至1.8兆美元",
     "summary_zh": ""
+  },
+  {
+    "title": "Is Acquiring Aurora Cannabis a Good Move for Curaleaf?",
+    "url": "https://www.fool.com/investing/2026/08/12/is-acquiring-aurora-cannabis-a-good-move-for-cural/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Aurora Cannabis would expand Curaleaf's international presence, but it hasn't been a strong business in recent years.",
+    "published_at": "2026-08-13T02:39:45+08:00",
+    "stocks": [],
+    "uid": "c9d79656ca164996661cba9f88604658"
+  },
+  {
+    "title": "Why Oracle Stock Just Jumped",
+    "url": "https://www.fool.com/investing/2026/08/12/why-oracle-stock-just-jumped/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Oracle shares rallied Thursday after two neoclouds posted blowout earnings, but does this AI tailwind justify the stock's risks?",
+    "published_at": "2026-08-13T02:39:39+08:00",
+    "stocks": [],
+    "uid": "29d24dbe3fd8307fc03070a987fb3262"
   },
   {
     "title": "CEO of Intel just gave Jim Cramer one more reason to call it his favorite stock",
@@ -137,6 +567,24 @@
     "summary_en": "",
     "title_zh": "Scholar Rock出席canaccord增長會議：批准路徑收窄",
     "summary_zh": ""
+  },
+  {
+    "title": "Is Super Micro Stock a No-Brainer Buy After Posting Incredible Q4 Numbers?",
+    "url": "https://www.fool.com/investing/2026/08/12/is-super-micro-stock-a-no-brainer-buy-after-postin/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The tech company's latest numbers showed significant improvements in revenue, gross margin, and net income.",
+    "published_at": "2026-08-13T02:30:00+08:00",
+    "stocks": [],
+    "uid": "ba75672f0228ba012ea7125aa64d7ed9"
+  },
+  {
+    "title": "GitLab Chief Accounting Officer Simon Mundy Sells 8,725 Shares",
+    "url": "https://www.fool.com/coverage/filings/2026/08/12/gitlab-chief-accounting-officer-simon-mundy-sells-8725-shares/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Mundy's sale was executed under a pre-arranged Rule 10b5-1 trading plan, while maintaining a $4 million position.",
+    "published_at": "2026-08-13T02:29:01+08:00",
+    "stocks": [],
+    "uid": "311fa0a330861c25a618e97dd674958e"
   },
   {
     "title": "Now China wants to become the shop floor for the Muslim world",
@@ -364,6 +812,15 @@
       "XPEL"
     ],
     "uid": "f29ae0aaac4d6422583639d7ca84605f"
+  },
+  {
+    "title": "Bank of America sends blunt message to Nvidia stock investors",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-blunt-message-174700491.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-13T01:47:00+08:00",
+    "stocks": [],
+    "uid": "a953e12b99e54bfd2316141c2d0ba6a6"
   },
   {
     "title": "Why is Air Canada stock surging today?",
@@ -11912,6 +12369,15 @@
     "uid": "259e31bb22961f47c716e1e9355ef9f3"
   },
   {
+    "title": "Are Wall Street Analysts Bullish on News Corporation Stock?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-news-114644603.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-11T19:46:44+08:00",
+    "stocks": [],
+    "uid": "462a32c2188fbb613405614338d4de0a"
+  },
+  {
     "title": "As Lumentum gears up for earnings, here’s a sign the optical trade is clawing back",
     "url": "https://www.marketwatch.com/story/as-lumentum-gears-up-for-earnings-heres-a-sign-the-optical-trade-is-clawing-back-de284355?mod=mw_rss_topstories",
     "source": "MarketWatch",
@@ -12087,6 +12553,15 @@
     "uid": "d7d75bfa60091ef0629a286c21201ee1"
   },
   {
+    "title": "Gold Miners Rally as Bullion Roars Back to Life. Here's How Investors Can Cash In.",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/gold-miners-rally-bullion-roars-113002313.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-11T19:30:02+08:00",
+    "stocks": [],
+    "uid": "c19f72c964e20f3f4e607972486fdaee"
+  },
+  {
     "title": "Why I'm Not Chasing NuScale -- Here's What I'm Buying Instead",
     "url": "https://www.fool.com/investing/2026/08/11/why-im-not-chasing-nuscale-heres-what-im-buying-in/?source=iedfolrf0000001",
     "source": "Motley Fool",
@@ -12143,6 +12618,15 @@
     "published_at": "2026-08-11T19:17:00+08:00",
     "stocks": [],
     "uid": "58719260db6bc8ab9191a18c36bc86c7"
+  },
+  {
+    "title": "French press body asks competition watchdog to take action over Google AI",
+    "url": "https://finance.yahoo.com/media-advertising/articles/french-media-asks-french-anti-111506471.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-11T19:15:06+08:00",
+    "stocks": [],
+    "uid": "2c504edd1c370e7d4a04055878573ff2"
   },
   {
     "title": "This Roth conversion trap easily destroys $1M in tax-free wealth — are you making an extremely costly mistake right now?",
@@ -12205,6 +12689,15 @@
     "summary_en": "",
     "title_zh": "Teledyne 同意以 11 億美元收購 Varex Imaging",
     "summary_zh": ""
+  },
+  {
+    "title": "NetApp Stock: Analyst Estimates & Ratings",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/netapp-stock-analyst-estimates-ratings-110635504.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-11T19:06:35+08:00",
+    "stocks": [],
+    "uid": "1157ff74f9db576d4f2ce00a84402698"
   },
   {
     "title": "‘My primary concern is inflation’: Fed’s Schmid pushes rates higher as mortgages hit 6.69%. Make high rates work for you",
@@ -12285,6 +12778,15 @@
     "summary_zh": ""
   },
   {
+    "title": "Top Iron Condor Setups for August 11th (Screener Results)",
+    "url": "https://finance.yahoo.com/markets/options/articles/top-iron-condor-setups-august-110002674.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-11T19:00:02+08:00",
+    "stocks": [],
+    "uid": "8ecce9e3470fc58a7c0831acc614dadb"
+  },
+  {
     "title": "Karooooo CEO Disposes 31,279 Shares for $2.0 Million",
     "url": "https://www.fool.com/coverage/filings/2026/08/11/karooooo-ceo-disposes-31-279-shares-for-usd2-0-million/?source=iedfolrf0000001",
     "source": "Motley Fool",
@@ -12311,6 +12813,33 @@
     "summary_zh": "股東們長期以來一直在等待公司用所有閒置現金做點什麼——任何事情。"
   },
   {
+    "title": "Anesco secures NIC backing to expand utility-scale solar and storage",
+    "url": "https://finance.yahoo.com/energy/articles/anesco-secures-nic-backing-expand-105722699.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-11T18:57:22+08:00",
+    "stocks": [],
+    "uid": "96f320af0dfabe3f921c25976b61257d"
+  },
+  {
+    "title": "How my solar company is surviving the war on renewable energy",
+    "url": "https://finance.yahoo.com/energy/articles/solar-company-surviving-war-renewable-105700424.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-11T18:57:00+08:00",
+    "stocks": [],
+    "uid": "9f2c1e0aafb2038796338aa7d691c571"
+  },
+  {
+    "title": "How Nvidia’s Huang and Meta’s Zuckerberg Are Combating the AI Backlash",
+    "url": "https://www.barrons.com/articles/nvidia-meta-ai-things-to-know-today-b34e90aa?siteid=yhoof2&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-11T18:57:00+08:00",
+    "stocks": [],
+    "uid": "42a0500e4e561e533a0fb8e11e0bbd28"
+  },
+  {
     "title": "Wall Street bank urges hedging into July’s CPI — as sell trigger hits highest level in eight years",
     "url": "https://www.marketwatch.com/story/wall-street-bank-urges-hedging-into-julys-cpi-as-sell-trigger-hits-highest-level-in-eight-years-bc9374f1?mod=mw_rss_topstories",
     "source": "MarketWatch",
@@ -12335,6 +12864,15 @@
     "summary_en": "Diversification makes the difference here.",
     "title_zh": "Bloom Energy 與 GE Vernova：今天哪一支 AI Power 股票值得您買進 5,000 美元？",
     "summary_zh": "多元化在這裡發揮著重要作用。"
+  },
+  {
+    "title": "U.S. Treasury is paying $3 billion a day in interest on national debt, says the CBO—having spent $10 billion to prop up the currency of its top lender",
+    "url": "https://finance.yahoo.com/economy/policy/articles/u-treasury-paying-3-billion-104918826.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-11T18:49:18+08:00",
+    "stocks": [],
+    "uid": "e3b1f1c1a219e3b39adef8d9ba5edff1"
   },
   {
     "title": "Is the Artificial Intelligence (AI) Bubble About to Pop? Investors Who Make This 1 Move Will Come Out on Top, According to History.",
@@ -12379,6 +12917,15 @@
     "published_at": "2026-08-11T18:40:48+08:00",
     "stocks": [],
     "uid": "f73e7bcfc896f2c93aa30f09fb20988b"
+  },
+  {
+    "title": "Stock Index Futures Gain as Oil Retreats on U.S.-Iran Deal Hopes",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-index-futures-gain-oil-103820793.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-11T18:38:20+08:00",
+    "stocks": [],
+    "uid": "c344a05fa722d3ee08f5070001b11c39"
   },
   {
     "title": "This Crypto Industry Leader Wants to Change Bitcoin's Supply Policy. What Would It Mean for Investors?",
@@ -12557,6 +13104,15 @@
     "uid": "0143c9ae8e9d66dce2634439bad583d2"
   },
   {
+    "title": "Uniper Profits Surge as Germany Prepares to Sell Energy Giant",
+    "url": "https://finance.yahoo.com/energy/articles/uniper-profits-surge-germany-prepares-103000190.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-11T18:30:00+08:00",
+    "stocks": [],
+    "uid": "407ff1753bfb9a28e03195b40b2ce45b"
+  },
+  {
     "title": "Rémy Cointreau picks Monika Alcobev to distribute in India",
     "url": "https://finance.yahoo.com/small-business/articles/r-cointreau-picks-monika-alcobev-102955223.html",
     "source": "Yahoo Finance",
@@ -12607,6 +13163,15 @@
     "summary_en": "",
     "title_zh": "三星SDI完全控制通用汽車印第安納州電池工廠",
     "summary_zh": ""
+  },
+  {
+    "title": "Do Wall Street Analysts Like Consolidated Edison Stock?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-consolidated-edison-102139930.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-11T18:21:39+08:00",
+    "stocks": [],
+    "uid": "de12fe69dbc0b69e623feee21849374e"
   },
   {
     "title": "The Stock Market Is Doing Something Observed Only Once Before. History Is Clear About What Comes Next.",
