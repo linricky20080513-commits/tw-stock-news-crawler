@@ -1,5 +1,265 @@
 [
   {
+    "title": "Forbes Fired Top Editor After Discovering He Received Secret $6 Million Payment",
+    "url": "https://www.nytimes.com/2026/08/12/business/forbes-editor-fired.html",
+    "source": "NYT Business",
+    "summary": "Randall Lane, the magazine’s chief content officer, received the money from the founder of Shook Research, which has partnered with Forbes on content about wealth advisers.",
+    "published_at": "2026-08-13T04:31:41+08:00",
+    "stocks": [],
+    "uid": "2e5b9306bc6ce58b7f61ea52aea279dd",
+    "title_en": "Forbes Fired Top Editor After Discovering He Received Secret $6 Million Payment",
+    "summary_en": "Randall Lane, the magazine’s chief content officer, received the money from the founder of Shook Research, which has partnered with Forbes on content about wealth advisers.",
+    "title_zh": "福布斯發現高級編輯收到 600 萬美元秘密付款後解雇了他",
+    "summary_zh": "該雜誌的首席內容官蘭德爾·萊恩(Randall Lane)從舒克研究公司(Shook Research)的創始人那裡獲得了這筆資金，該公司與福布斯在有關財富顧問的內容方面進行了合作。"
+  },
+  {
+    "title": "Cerebras stock plunges 14% after second earnings report following IPO",
+    "url": "https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html",
+    "source": "CNBC Markets",
+    "summary": "Cerebras Systems reported better-than-expected second-quarter revenue and and raised its full-year guidance.",
+    "published_at": "2026-08-13T04:28:48+08:00",
+    "stocks": [],
+    "uid": "5022e2af0bf4780d00e76aae3287b29c",
+    "title_en": "Cerebras stock plunges 14% after second earnings report following IPO",
+    "summary_en": "Cerebras Systems reported better-than-expected second-quarter revenue and and raised its full-year guidance.",
+    "title_zh": "Cerebras 首次公開募股後發布第二份財報後股價暴跌 14%",
+    "summary_zh": "Cerebras Systems 報告第二季營收優於預期，並上調了全年指引。"
+  },
+  {
+    "title": "Unusual Machines appoints Ernst & Young as auditor and amends bylaws",
+    "url": "https://www.investing.com/news/sec-filings/unusual-machines-appoints-ernst--young-as-auditor-and-amends-bylaws-93CH-4856059",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-13T04:25:11+08:00",
+    "stocks": [],
+    "uid": "9795904e1b5582ce2d3129193b55af41",
+    "title_en": "Unusual Machines appoints Ernst & Young as auditor and amends bylaws",
+    "summary_en": "",
+    "title_zh": "Unusual Machines 任命安永會計師事務所為審計師並修訂章程",
+    "summary_zh": ""
+  },
+  {
+    "title": "Kimball Electronics earnings missed by $0.42, revenue fell short of estimates",
+    "url": "https://www.investing.com/news/earnings/kimball-electronics-earnings-missed-by-042-revenue-fell-short-of-estimates-4856058",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-13T04:25:06+08:00",
+    "stocks": [],
+    "uid": "ab04fe26ec1a2ae99906380c7a33deec",
+    "title_en": "Kimball Electronics earnings missed by $0.42, revenue fell short of estimates",
+    "summary_en": "",
+    "title_zh": "Kimball Electronics 獲利低於預期 0.42 美元，營收低於預期",
+    "summary_zh": ""
+  },
+  {
+    "title": "Alpha & Omega Semiconductor earnings beat by $0.11, revenue topped estimates",
+    "url": "https://www.investing.com/news/earnings/alpha--omega-semiconductor-earnings-beat-by-011-revenue-topped-estimates-4856057",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-13T04:24:51+08:00",
+    "stocks": [],
+    "uid": "cab31a92bce8b7cbe667b2386eae5da4",
+    "title_en": "Alpha & Omega Semiconductor earnings beat by $0.11, revenue topped estimates",
+    "summary_en": "",
+    "title_zh": "Alpha & Omega Semiconductor 獲利超出預期 0.11 美元，營收超出預期",
+    "summary_zh": ""
+  },
+  {
+    "title": "Resideo Tech earnings beat by $0.17, revenue topped estimates",
+    "url": "https://www.investing.com/news/earnings/resideo-tech-earnings-beat-by-017-revenue-topped-estimates-4856056",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-13T04:24:43+08:00",
+    "stocks": [],
+    "uid": "7ee92adc192e6bfa63153a550a46d3a3",
+    "title_en": "Resideo Tech earnings beat by $0.17, revenue topped estimates",
+    "summary_en": "",
+    "title_zh": "Resideo Tech 獲利超出預期 0.17 美元，營收超出預期",
+    "summary_zh": ""
+  },
+  {
+    "title": "Cerebras Systems tumbles 14% on earnings, revenue miss",
+    "url": "https://www.investing.com/news/earnings/cerebras-systems-tumbles-14-on-earnings-revenue-miss-4856055",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-13T04:24:18+08:00",
+    "stocks": [],
+    "uid": "068b2c2f28104b3618bebbe2e141857f",
+    "title_en": "Cerebras Systems tumbles 14% on earnings, revenue miss",
+    "summary_en": "",
+    "title_zh": "Cerebras Systems 獲利下跌 14%，營收未達預期",
+    "summary_zh": ""
+  },
+  {
+    "title": "Jack In The Box earnings beat by $0.06, revenue fell short of estimates",
+    "url": "https://www.investing.com/news/earnings/jack-in-the-box-earnings-beat-by-006-revenue-fell-short-of-estimates-4856037",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-13T04:21:01+08:00",
+    "stocks": [],
+    "uid": "526b98924735add0b270c0b431be9ce1",
+    "title_en": "Jack In The Box earnings beat by $0.06, revenue fell short of estimates",
+    "summary_en": "",
+    "title_zh": "Jack In The Box 獲利超出預期 0.06 美元，營收低於預期",
+    "summary_zh": ""
+  },
+  {
+    "title": "Red Robin Gourmet Burgers earnings beat by $0.10, revenue topped estimates",
+    "url": "https://www.investing.com/news/earnings/red-robin-gourmet-burgers-earnings-beat-by-010-revenue-topped-estimates-4856038",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-13T04:21:01+08:00",
+    "stocks": [],
+    "uid": "fd20adc935079c6132c20db4a79aae78",
+    "title_en": "Red Robin Gourmet Burgers earnings beat by $0.10, revenue topped estimates",
+    "summary_en": "",
+    "title_zh": "Red Robin Gourmet Burgers 獲利超出預期 0.10 美元，營收超出預期",
+    "summary_zh": ""
+  },
+  {
+    "title": "Coherent posts a blowout Q4 and aggressive guidance, yet shares take a 5% haircut",
+    "url": "https://www.investing.com/news/stock-market-news/coherent-posts-a-blowout-q4-and-aggressive-guidance-yet-shares-take-a-5-haircut-4856014",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-13T04:20:48+08:00",
+    "stocks": [],
+    "uid": "904068ed6e583cd71a303a269dc5f2c1",
+    "title_en": "Coherent posts a blowout Q4 and aggressive guidance, yet shares take a 5% haircut",
+    "summary_en": "",
+    "title_zh": "Coherent 公佈了第四季的井噴業績和激進的指引，但股價卻下跌了 5%",
+    "summary_zh": ""
+  },
+  {
+    "title": "PTC Therapeutics to acquire Fabry disease gene therapy ST-920",
+    "url": "https://www.investing.com/news/company-news/ptc-therapeutics-to-acquire-fabry-disease-gene-therapy-st920-93CH-4856035",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-13T04:20:38+08:00",
+    "stocks": [],
+    "uid": "8b41ed5babef0520a4f3e05e88334012",
+    "title_en": "PTC Therapeutics to acquire Fabry disease gene therapy ST-920",
+    "summary_en": "",
+    "title_zh": "PTC Therapeutics 獲得法布瑞氏症基因療法 ST-920",
+    "summary_zh": ""
+  },
+  {
+    "title": "AvalonBay, Equity Residential shareholders approve merger",
+    "url": "https://www.investing.com/news/company-news/avalonbay-equity-residential-shareholders-approve-merger-93CH-4856034",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-13T04:20:36+08:00",
+    "stocks": [],
+    "uid": "75a586143a5565c5b70ff4c9b7bd998a",
+    "title_en": "AvalonBay, Equity Residential shareholders approve merger",
+    "summary_en": "",
+    "title_zh": "AvalonBay 和 Equity Residential 股東批准合併",
+    "summary_zh": ""
+  },
+  {
+    "title": "CoreWeave counters a key bear case on the AI trade. What it means for our data center stocks",
+    "url": "https://www.cnbc.com/2026/08/12/coreweave-counters-a-key-bear-case-on-the-ai-trade-what-it-means-for-our-data-center-stocks.html",
+    "source": "CNBC Top",
+    "summary": "CoreWeave is seeing strong demand for six-year-old Nvidia chips, helping justify all the current AI capex.",
+    "published_at": "2026-08-13T04:16:05+08:00",
+    "stocks": [],
+    "uid": "daef6bf4210de99dcaf36d83fc3c90f6",
+    "title_en": "CoreWeave counters a key bear case on the AI trade. What it means for our data center stocks",
+    "summary_en": "CoreWeave is seeing strong demand for six-year-old Nvidia chips, helping justify all the current AI capex.",
+    "title_zh": "CoreWeave 反駁了人工智慧產業的關鍵悲觀案例。這對我們的資料中心庫存意味著什麼",
+    "summary_zh": "CoreWeave 看到了對已有六年歷史的 Nvidia 晶片的強勁需求，這有助於證明當前所有人工智慧資本支出的合理性。"
+  },
+  {
+    "title": "Why IREN Stock Is Up Nearly 10% Today",
+    "url": "https://www.fool.com/investing/2026/08/12/why-iren-stock-is-up-nearly-10-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The entire AI data center industry still appears to be firing on all cylinders after all, with more of the same in the cards.",
+    "published_at": "2026-08-13T04:14:16+08:00",
+    "stocks": [],
+    "uid": "06ba2f6581a5bfa0288ac47ae70964b8",
+    "title_en": "Why IREN Stock Is Up Nearly 10% Today",
+    "summary_en": "The entire AI data center industry still appears to be firing on all cylinders after all, with more of the same in the cards.",
+    "title_zh": "為什麼 IREN 股價今天上漲近 10%",
+    "summary_zh": "畢竟，整個人工智慧資料中心行業似乎仍然在全力以赴，並且可能會出現更多相同的情況。"
+  },
+  {
+    "title": "How to Earn $500 a Month From Enbridge Stock",
+    "url": "https://www.fool.com/investing/2026/08/12/how-to-earn-500-a-month-from-enbridge-stock/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The Canadian pipeline giant is still a rock-solid income investment.",
+    "published_at": "2026-08-13T04:10:00+08:00",
+    "stocks": [],
+    "uid": "3e8dd4779796a6764f4756c3ea0f996b",
+    "title_en": "How to Earn $500 a Month From Enbridge Stock",
+    "summary_en": "The Canadian pipeline giant is still a rock-solid income investment.",
+    "title_zh": "如何從 Enbridge 股票每月賺取 500 美元",
+    "summary_zh": "這家加拿大管道巨頭仍然是一項堅如磐石的收入投資。"
+  },
+  {
+    "title": "Alphabet and Apple Are Among Berkshire Hathaway's Top Holdings. Here's What That Tells Us About CEO Greg Abel's Investing Style in Tech Stocks.",
+    "url": "https://www.fool.com/investing/2026/08/12/alphabet-and-apple-are-among-berkshire-hathaways-t/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Abel is following Warren Buffett's longstanding playbook of disciplined investing, but the conglomerate's portfolio is increasingly including tech stocks.",
+    "published_at": "2026-08-13T04:06:00+08:00",
+    "stocks": [],
+    "uid": "415735989609f2c944a203b726dce392",
+    "title_en": "Alphabet and Apple Are Among Berkshire Hathaway's Top Holdings. Here's What That Tells Us About CEO Greg Abel's Investing Style in Tech Stocks.",
+    "summary_en": "Abel is following Warren Buffett's longstanding playbook of disciplined investing, but the conglomerate's portfolio is increasingly including tech stocks.",
+    "title_zh": "Alphabet 和蘋果是波克夏海瑟威的頂級控股公司之一。以下是執行長 Greg Abel 對科技股的投資風格。",
+    "summary_zh": "阿貝爾遵循華倫·巴菲特長期以來的紀律投資策略，但該集團的投資組合越來越多地包括科技股。"
+  },
+  {
+    "title": "Chevron Just Paid Down $8.4 Billion in Debt. Should You Invest $500 in the Stock Right Now?",
+    "url": "https://www.fool.com/investing/2026/08/12/chevron-just-paid-down-84-billion-in-debt-should-y/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Chevron does everything at scale, including reducing its debt burden, and that's a good thing for investors.",
+    "published_at": "2026-08-13T04:05:00+08:00",
+    "stocks": [],
+    "uid": "520ca5f4b01794ebbdaea703aca32956",
+    "title_en": "Chevron Just Paid Down $8.4 Billion in Debt. Should You Invest $500 in the Stock Right Now?",
+    "summary_en": "Chevron does everything at scale, including reducing its debt burden, and that's a good thing for investors.",
+    "title_zh": "雪佛龍剛剛償還了 84 億美元的債務。現在您應該投資 500 美元購買股票嗎？",
+    "summary_zh": "雪佛龍所做的一切都規模化，包括減輕債務負擔，這對投資者來說是一件好事。"
+  },
+  {
+    "title": "What a Paramount Executive's Latest Insider Filing Signals for Long-Term Investors",
+    "url": "https://www.fool.com/coverage/filings/2026/08/12/what-a-paramount-executive-s-latest-insider-filing-signals-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Andrew Mark Brandon-Gordon disposed of shares to cover RSU vesting taxes, retaining 417,000 direct shares worth $3.8 million.",
+    "published_at": "2026-08-13T04:02:42+08:00",
+    "stocks": [],
+    "uid": "e38ef24237b63a2ee406f1577896afaf",
+    "title_en": "What a Paramount Executive's Latest Insider Filing Signals for Long-Term Investors",
+    "summary_en": "Andrew Mark Brandon-Gordon disposed of shares to cover RSU vesting taxes, retaining 417,000 direct shares worth $3.8 million.",
+    "title_zh": "派拉蒙高層最新的內幕文件向長期投資者發出了什麼訊號",
+    "summary_zh": "安德魯·馬克·布蘭登-戈登 (Andrew Mark Brandon-Gordon) 出售股份以支付 RSU 歸屬稅，保留了 417,000 股直接股份，價值 380 萬美元。"
+  },
+  {
+    "title": "DigitalOcean Director Adelman Sells 4,200 Shares for $521,000",
+    "url": "https://www.fool.com/coverage/filings/2026/08/12/digitalocean-director-adelman-sells-4-200-shares-for-usd521-000/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Adelman retained 94% of his shares.",
+    "published_at": "2026-08-13T04:00:01+08:00",
+    "stocks": [],
+    "uid": "e43de7278aeb9f24979541d2079f8782",
+    "title_en": "DigitalOcean Director Adelman Sells 4,200 Shares for $521,000",
+    "summary_en": "Adelman retained 94% of his shares.",
+    "title_zh": "DigitalOcean 董事 Adelman 以 521,000 美元出售 4,200 股股票",
+    "summary_zh": "阿德爾曼保留了94%的股份。"
+  },
+  {
+    "title": "Why CAVA Group Stock Popped Today",
+    "url": "https://www.fool.com/investing/2026/08/12/why-cava-group-stock-popped-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The fast-casual chain's revenue is already rebounding from the Cyclospora scare.",
+    "published_at": "2026-08-13T03:57:38+08:00",
+    "stocks": [],
+    "uid": "cf143a9bbeb27cc1e9a6b5b3d505f4a0",
+    "title_en": "Why CAVA Group Stock Popped Today",
+    "summary_en": "The fast-casual chain's revenue is already rebounding from the Cyclospora scare.",
+    "title_zh": "為什麼 CAVA 集團股票今天上漲",
+    "summary_zh": "這家休閒快餐連鎖店的收入已經從環孢菌恐慌中反彈。"
+  },
+  {
     "title": "How the market is trading gold as Fed rate hike and inflation odds shift",
     "url": "https://www.cnbc.com/2026/08/12/gold-prices-metals-fed-rate-hike-inflation.html",
     "source": "CNBC Top",
@@ -13,6 +273,19 @@
     "summary_zh": "2026 年金價一直波動較大，但近期的反彈表明，在通膨數據溫和和聯準會利率預期變化的情況下，投資者的興趣重新燃起。"
   },
   {
+    "title": "Paramount's Stock Hinges on the Warner Deal, Not a CEO's Tax Sale",
+    "url": "https://www.fool.com/coverage/filings/2026/08/12/paramount-skydance-ceo-david-ferris-ellison-sells-127000-shares-for-tax-withholding/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This non-discretionary sale was tied to RSU vesting.",
+    "published_at": "2026-08-13T03:56:24+08:00",
+    "stocks": [],
+    "uid": "1f7e358077eb22c116dfdf0971636019",
+    "title_en": "Paramount's Stock Hinges on the Warner Deal, Not a CEO's Tax Sale",
+    "summary_en": "This non-discretionary sale was tied to RSU vesting.",
+    "title_zh": "派拉蒙的股票取決於華納交易，而不是執行長的稅收出售",
+    "summary_zh": "此次非全權出售與 RSU 歸屬相關。"
+  },
+  {
     "title": "Trump says Karoline Leavitt resigning as White House press secretary",
     "url": "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html",
     "source": "CNBC Top",
@@ -24,6 +297,15 @@
     "summary_en": "Leavitt, who is the youngest White House press secretary every, gave birth in May to a girl, her second child.",
     "title_zh": "川普稱卡洛琳·萊維特辭去白宮新聞秘書職務",
     "summary_zh": "萊維特是最年輕的白宮新聞秘書，她在五月生下了一個女孩，這是她的第二個孩子。"
+  },
+  {
+    "title": "Newcomer Director at Business First Bancshares Sells 10,000 Shares for $319,000",
+    "url": "https://www.fool.com/coverage/filings/2026/08/12/newcomer-director-at-business-first-bancshares-sells-10-000-shares-for-usd319-000/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "With strong returns so far in 2026, George W. Cummings III reducing his direct holdings looks routine more than it does alarming.",
+    "published_at": "2026-08-13T03:55:01+08:00",
+    "stocks": [],
+    "uid": "85d4ebcc57b90b04d572cbc8ef67f568"
   },
   {
     "title": "Saudi Arabia ramps up oil exports through Mediterranean pipeline to avoid attacks in Red Sea",
@@ -65,6 +347,22 @@
     "summary_zh": ""
   },
   {
+    "title": "VBR vs. IWN: Which Small-Cap Value ETF Is the Better Buy?",
+    "url": "https://www.fool.com/coverage/etfs/2026/08/12/vbr-vs-iwn-which-small-cap-value-etf-is-the-better-buy/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The iShares Russell 2000 Value ETF (IWN) outperformed over the past year, but the Vanguard Morningstar Small-Cap Value ETF (VBR) -- with its lower fees -- delivered stronger five-year returns.",
+    "published_at": "2026-08-13T03:41:14+08:00",
+    "stocks": [
+      "IWN",
+      "VBR"
+    ],
+    "uid": "630321adc0bc9dfedb8465d13a49a5d6",
+    "title_en": "VBR vs. IWN: Which Small-Cap Value ETF Is the Better Buy?",
+    "summary_en": "The iShares Russell 2000 Value ETF (IWN) outperformed over the past year, but the Vanguard Morningstar Small-Cap Value ETF (VBR) -- with its lower fees -- delivered stronger five-year returns.",
+    "title_zh": "VBR 與 IWN：哪一種小盤價值 ETF 比較值得買？",
+    "summary_zh": "iShares Russell 2000 Value ETF (IWN) 在過去一年表現優於大盤，但 Vanguard Morningstar Small-Cap Value ETF (VBR) 以其較低的費用實現了更強勁的五年回報。"
+  },
+  {
     "title": "AbCellera Biologics stock analysis: momentum vs. fundamentals",
     "url": "https://www.investing.com/news/stock-market-news/abcellera-biologics-stock-analysis-momentum-vs-fundamentals-93CH-4855932",
     "source": "Investing.com",
@@ -76,6 +374,19 @@
     "summary_en": "",
     "title_zh": "AbCellera Biologics 股票分析：動量與基本面",
     "summary_zh": ""
+  },
+  {
+    "title": "Which Is the Better S&P 500 ETF, Vanguard's VOO or the iShares IVV?",
+    "url": "https://www.fool.com/coverage/etfs/2026/08/12/which-is-the-better-s-and-p-500-etf-vanguard-s-voo-or-the-ishares-ivv/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Both funds charge 0.03% annually and delivered identical 22.8% returns over the past year, but one holds significantly more assets.",
+    "published_at": "2026-08-13T03:39:22+08:00",
+    "stocks": [],
+    "uid": "0aafada52dc54497f4a0af4d8dff8de8",
+    "title_en": "Which Is the Better S&P 500 ETF, Vanguard's VOO or the iShares IVV?",
+    "summary_en": "Both funds charge 0.03% annually and delivered identical 22.8% returns over the past year, but one holds significantly more assets.",
+    "title_zh": "S&P 500 ETF、Vanguard 的 VOO 還是 iShares IVV 哪個比較好？",
+    "summary_zh": "兩隻基金的年利率均為 0.03%，過去一年的回報率相同，均為 22.8%，但其中一隻基金持有的資產要多得多。"
   },
   {
     "title": "Nexxen at Canaccord Genuity conference: enterprise growth in focus",
@@ -123,7 +434,11 @@
     "summary": "",
     "published_at": "2026-08-13T03:36:54+08:00",
     "stocks": [],
-    "uid": "9e1b0011dac757d2bfbfaaaacdaf328a"
+    "uid": "9e1b0011dac757d2bfbfaaaacdaf328a",
+    "title_en": "Mediaco Holding shareholders elect directors and approve key proposals at annual meeting",
+    "summary_en": "",
+    "title_zh": "Mediaco Holding股東在年會上選舉董事並批准關鍵提案",
+    "summary_zh": ""
   },
   {
     "title": "Earnings call transcript: Computershare posts solid FY 2026 beat, shares fall",
@@ -346,7 +661,11 @@
     "summary": "The LEO satellite maker still has a bright future.",
     "published_at": "2026-08-13T03:10:00+08:00",
     "stocks": [],
-    "uid": "e913fb409bc67ebf4226cd2a11f25386"
+    "uid": "e913fb409bc67ebf4226cd2a11f25386",
+    "title_en": "AST SpaceMobile Trades Near $74. Here's The Subscriber Math That Justifies It.",
+    "summary_en": "The LEO satellite maker still has a bright future.",
+    "title_zh": "AST SpaceMobile 交易價格接近 74 美元。這是證明其合理性的訂閱者數學。",
+    "summary_zh": "這家低軌衛星製造商仍然擁有光明的未來。"
   },
   {
     "title": "Should You Buy Home Depot Stock Before Aug. 18?",
@@ -11957,6 +12276,33 @@
     "uid": "b14c36fde5971fde33f3ca43b34760c4"
   },
   {
+    "title": "PennantPark Investment Corporation Q3 2026 Earnings Call Summary",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/pennantpark-investment-corporation-q3-2026-123000937.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-11T20:30:00+08:00",
+    "stocks": [],
+    "uid": "b3ff68cf312b2f9e51c2a2bba4a60a7b"
+  },
+  {
+    "title": "AAON, Inc. Q2 2026 Earnings Call Summary",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/aaon-inc-q2-2026-earnings-123000789.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-11T20:30:00+08:00",
+    "stocks": [],
+    "uid": "fecc50b27fe547fadbdfe9a3f3e121b4"
+  },
+  {
+    "title": "Tactile Systems Technology, Inc. Q2 2026 Earnings Call Summary",
+    "url": "https://finance.yahoo.com/healthcare/articles/tactile-systems-technology-inc-q2-123000487.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-11T20:30:00+08:00",
+    "stocks": [],
+    "uid": "41d1dcad8d3d8e43b09f16dec082dee4"
+  },
+  {
     "title": "Airbnb has added thousands of new hotel listings. Will that ruin its charm?",
     "url": "https://www.marketwatch.com/story/airbnb-has-added-thousands-of-new-hotel-listings-will-that-ruin-its-charm-0af2d3b0?mod=mw_rss_topstories",
     "source": "MarketWatch",
@@ -12046,6 +12392,17 @@
     "summary_en": "",
     "title_zh": "為什麼Broadwind Energy股票今天暴跌？",
     "summary_zh": ""
+  },
+  {
+    "title": "Fortrea (FTRE) Gains Traction in Turnaround",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/fortrea-ftre-gains-traction-turnaround-122428153.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-11T20:24:28+08:00",
+    "stocks": [
+      "FTRE"
+    ],
+    "uid": "54ca4cc99bc369c4be5873b7e86c9bb9"
   },
   {
     "title": "Earnings call transcript: Harsha Engineers posts strong Q1 2026 growth, shares fall",
@@ -12152,6 +12509,15 @@
     "summary_zh": ""
   },
   {
+    "title": "Is Wall Street Bullish or Bearish on Datadog Stock?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-datadog-122206564.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-11T20:22:06+08:00",
+    "stocks": [],
+    "uid": "b4a73c599b754f926f120244b7ad0554"
+  },
+  {
     "title": "ADNOC Logistics Q2 2026 slides: record profit, third guidance raise",
     "url": "https://www.investing.com/news/company-news/adnoc-logistics-q2-2026-slides-record-profit-third-guidance-raise-93CH-4851539",
     "source": "Investing.com",
@@ -12163,6 +12529,15 @@
     "summary_en": "",
     "title_zh": "ADNOC Logistics 2026 年第二季業績下滑：獲利創歷史新高，第三次調漲指引",
     "summary_zh": ""
+  },
+  {
+    "title": "Yum! Brands Stock: Is Wall Street Bullish or Bearish?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/yum-brands-stock-wall-street-122055597.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-11T20:20:55+08:00",
+    "stocks": [],
+    "uid": "4cdb9a6e07e2296dbbfe6885464f076e"
   },
   {
     "title": "Astrotech subsidiary plans lunar power utility network",
@@ -12187,6 +12562,24 @@
     "uid": "1acc0dfa735d3e761dac7ad58659dfbb"
   },
   {
+    "title": "Soybeans Slipping on Tuesday Morning",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/soybeans-slipping-tuesday-morning-121926285.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-11T20:19:26+08:00",
+    "stocks": [],
+    "uid": "3d3cd358a05976e7c7cdd9df5c680104"
+  },
+  {
+    "title": "Corn Continues to Coil Ahead of USDA Data",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/corn-continues-coil-ahead-usda-121925311.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-11T20:19:25+08:00",
+    "stocks": [],
+    "uid": "3f97d97aa1bd3fc1c83617d4ab4dcd2e"
+  },
+  {
     "title": "Is Redwire Stock a Buy After Its Bold Defense Pivot?",
     "url": "https://www.fool.com/investing/2026/08/11/is-redwire-stock-a-buy-after-its-bold-defense-pivo/?source=iedfolrf0000001",
     "source": "Motley Fool",
@@ -12194,6 +12587,15 @@
     "published_at": "2026-08-11T20:18:00+08:00",
     "stocks": [],
     "uid": "c9474fd24b47c4138346632b32b7f37d"
+  },
+  {
+    "title": "Are Wall Street Analysts Bullish on Cigna Group Stock?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-cigna-121605571.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-11T20:16:05+08:00",
+    "stocks": [],
+    "uid": "7c35fd9dc507f75fe61a68fae4ae31fd"
   },
   {
     "title": "Warsh’s changes to forward guidance were tried by one central bank — and here’s what happened",
@@ -12235,6 +12637,15 @@
     "summary_en": "",
     "title_zh": "Frontdoor (FTDR) 的自由現金流推動了上升潛力",
     "summary_zh": ""
+  },
+  {
+    "title": "What Are Wall Street Analysts' Target Price for Lennox Stock?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-121302165.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-11T20:13:02+08:00",
+    "stocks": [],
+    "uid": "5c818471407082373fa0f4bfa79666a1"
   },
   {
     "title": "Micron Stock Is Down 28%, and Here Is What Investors Need to Know",
@@ -12315,6 +12726,15 @@
     "uid": "051754ad73813f8569a26b02448bee72"
   },
   {
+    "title": "Cisco or Coherent: Which Stock Is Poised to Soar After Earnings?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-coherent-stock-poised-soar-120529991.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-11T20:05:29+08:00",
+    "stocks": [],
+    "uid": "3c51c405333c14d70550240093864aa7"
+  },
+  {
     "title": "Here's How Many Shares of Procter & Gamble You'd Need for $10,000 in Yearly Dividends.",
     "url": "https://www.fool.com/investing/2026/08/11/heres-how-many-shares-of-procter-gamble-youd-need/?source=iedfolrf0000001",
     "source": "Motley Fool",
@@ -12322,6 +12742,33 @@
     "published_at": "2026-08-11T20:05:00+08:00",
     "stocks": [],
     "uid": "b6596af407ddf4ecd7be6b3772848c7e"
+  },
+  {
+    "title": "IBM, Together AI ink $240 million deal for Nvidia-powered AI inference cluster",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ibm-together-ai-ink-240-120237670.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-11T20:02:37+08:00",
+    "stocks": [],
+    "uid": "8561fe65140b81c3da7756b07e606877"
+  },
+  {
+    "title": "At 24, My Parents Took Me In After My Divorce. Now They're Asking Me to Lend Them Money to Buy an Investment Property",
+    "url": "https://finance.yahoo.com/real-estate/articles/24-parents-took-divorce-now-120106926.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-11T20:01:06+08:00",
+    "stocks": [],
+    "uid": "ab5a2ad96c1117b07b485b4e2339dccc"
+  },
+  {
+    "title": "3 Stocks That Have Made Long-Term Investors Rich (and Could Do It Again)",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-made-long-term-120046968.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-11T20:00:46+08:00",
+    "stocks": [],
+    "uid": "fef330369e728d3c25e7bef2a8046fda"
   },
   {
     "title": "Ambiq Micro Stock Rises On Chipmaker's Beat-And-Raise Report",
@@ -12342,6 +12789,15 @@
     "uid": "b146d4587108d55ec333c21fe7fef53e"
   },
   {
+    "title": "What to Know as Sandisk Stock Scores a 'New' Buy Rating",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/know-sandisk-stock-scores-buy-120002498.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-11T20:00:02+08:00",
+    "stocks": [],
+    "uid": "c301645bcf2c53f8468069eb74510bb1"
+  },
+  {
     "title": "The Perils of Wall St.’s Race to Pour Billions More Into A.I.",
     "url": "https://www.nytimes.com/2026/08/11/business/dealbook/ai-lending-nvidia-blackrock.html",
     "source": "NYT Business",
@@ -12351,6 +12807,24 @@
     "uid": "c77bf875e3c76203c72938e6c867ffe5"
   },
   {
+    "title": "What Are Wall Street Analysts' Target Price for McDonald's Stock?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-115932224.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-11T19:59:32+08:00",
+    "stocks": [],
+    "uid": "2e943a5c1aa82604e5cbf78caf39f1ee"
+  },
+  {
+    "title": "Ameren Stock: Analyst Estimates & Ratings",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ameren-stock-analyst-estimates-ratings-115440252.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-11T19:54:40+08:00",
+    "stocks": [],
+    "uid": "67f63630c0be1e7eed94d8b84a17e84c"
+  },
+  {
     "title": "Gold prices today, Tuesday, August 11, 2026: Gold remains over $4,400 as Iran situation worsens",
     "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-august-11-2026-gold-remains-over-4400-as-iran-situation-worsens-115212228.html",
     "source": "Yahoo Finance",
@@ -12358,6 +12832,15 @@
     "published_at": "2026-08-11T19:52:12+08:00",
     "stocks": [],
     "uid": "a3f3e17d563456aca4221f171f803200"
+  },
+  {
+    "title": "Linde Stock: Is Wall Street Bullish or Bearish?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/linde-stock-wall-street-bullish-115110960.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-11T19:51:10+08:00",
+    "stocks": [],
+    "uid": "1a8e42808e698cd75b9517bc7725254f"
   },
   {
     "title": "Michael Saylor's Strategy Has Spent $64 Billion Buying Bitcoin at an Average Price of $75,482 a Coin. Here's Why That Position Is Sitting on a $10 Billion Paper Loss Today.",
