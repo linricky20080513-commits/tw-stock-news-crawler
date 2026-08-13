@@ -1,5 +1,547 @@
 [
   {
+    "title": "‘Hormuz remains blocked’: Iran disputes Trump claims as traffic sinks to near 3-month lows",
+    "url": "https://www.cnbc.com/2026/08/13/us-iran-war-trump-hormuz-irgc.html",
+    "source": "CNBC Top",
+    "summary": "The Persian Strait Gulf Authority said \"the Strait of Hormuz remains blocked and will not be reopened until Iran's conditions are accepted.\"",
+    "published_at": "2026-08-13T12:00:45+08:00",
+    "stocks": [],
+    "uid": "2f433a03193fe349e8d44f6397c1e506",
+    "title_en": "‘Hormuz remains blocked’: Iran disputes Trump claims as traffic sinks to near 3-month lows",
+    "summary_en": "The Persian Strait Gulf Authority said \"the Strait of Hormuz remains blocked and will not be reopened until Iran's conditions are accepted.\"",
+    "title_zh": "「霍爾木茲仍然被封鎖」：伊朗對川普的說法提出異議，因為交通量降至近三個月低點",
+    "summary_zh": ""
+  },
+  {
+    "title": "Anthropic in talks to buy Decart AI, source says",
+    "url": "https://www.investing.com/news/stock-market-news/anthropic-in-talks-to-buy-decart-ai-source-says-4856565",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-13T11:54:26+08:00",
+    "stocks": [],
+    "uid": "49d15bb233dc218a2a9577e711e224d5",
+    "title_en": "Anthropic in talks to buy Decart AI, source says",
+    "summary_en": "",
+    "title_zh": "消息人士稱，Anthropic 正在洽談收購 Decart AI",
+    "summary_zh": ""
+  },
+  {
+    "title": "Honda (HMC) Q1 2027 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/12/honda-hmc-q1-2027-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Record motorcycle profits surge on emerging market demand amid China headwinds.",
+    "published_at": "2026-08-13T11:38:37+08:00",
+    "stocks": [
+      "HMC"
+    ],
+    "uid": "37fa171e2116aee7f8a966068e81d2ab",
+    "title_en": "Honda (HMC) Q1 2027 Earnings Call Transcript",
+    "summary_en": "Record motorcycle profits surge on emerging market demand amid China headwinds.",
+    "title_zh": "本田 (HMC) 2027 年第一季財報電話會議紀錄",
+    "summary_zh": "在中國逆風之際，新興市場需求推動摩托車獲利創歷史新高。"
+  },
+  {
+    "title": "Atmos Energy (ATO) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/12/atmos-energy-ato-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "EPS surged 14.5% as regulatory wins and Texas growth offset spread compression.",
+    "published_at": "2026-08-13T11:38:37+08:00",
+    "stocks": [
+      "ATO"
+    ],
+    "uid": "262b5139bd8dd340fa302f7225237ca1",
+    "title_en": "Atmos Energy (ATO) Q3 2026 Earnings Call Transcript",
+    "summary_en": "EPS surged 14.5% as regulatory wins and Texas growth offset spread compression.",
+    "title_zh": "Atmos Energy (ATO) 2026 年第三季財報電話會議紀錄",
+    "summary_zh": "由於監管方面的勝利和德州的成長抵消了利差壓縮，每股收益飆升 14.5%。"
+  },
+  {
+    "title": "Nutrien (NTR) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/12/nutrien-ntr-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Potash sales hit records as automation gains offset phosphate margin pressure.",
+    "published_at": "2026-08-13T11:38:37+08:00",
+    "stocks": [
+      "NTR"
+    ],
+    "uid": "9b9267291295094ff59fee12a6d1c6b1",
+    "title_en": "Nutrien (NTR) Q2 2026 Earnings Call Transcript",
+    "summary_en": "Potash sales hit records as automation gains offset phosphate margin pressure.",
+    "title_zh": "Nutrien (NTR) 2026 年第二季財報電話會議紀錄",
+    "summary_zh": ""
+  },
+  {
+    "title": "This Australian midcap miner is well-exposed to both gold and copper",
+    "url": "https://www.investing.com/news/stock-market-news/this-australian-midcap-miner-is-wellexposed-to-both-gold-and-copper-93CH-4856562",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-13T11:28:40+08:00",
+    "stocks": [],
+    "uid": "a20bd246f4c5caaf921d4d1206d84531",
+    "title_en": "This Australian midcap miner is well-exposed to both gold and copper",
+    "summary_en": "",
+    "title_zh": "這家澳洲中型礦業公司對黃金和銅都有廣泛的投資",
+    "summary_zh": ""
+  },
+  {
+    "title": "e.l.f. Beauty (ELF) Q1 2027 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/12/elf-beauty-elf-q1-2027-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "rhode brand drives $479M in sales as company raises full-year guidance.",
+    "published_at": "2026-08-13T11:24:07+08:00",
+    "stocks": [
+      "ELF"
+    ],
+    "uid": "317f3c4043695773d70e30e7025b1c5d",
+    "title_en": "e.l.f. Beauty (ELF) Q1 2027 Earnings Call Transcript",
+    "summary_en": "rhode brand drives $479M in sales as company raises full-year guidance.",
+    "title_zh": "e.l.f. Beauty (ELF) 2027 年第一季財報電話會議紀錄",
+    "summary_zh": "隨著公司提高全年指導，羅德品牌銷售額達到 4.79 億美元。"
+  },
+  {
+    "title": "IonQ (IONQ) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/12/ionq-ionq-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Revenue surged 287% year-over-year to $80.1 million on quantum platform deployments.",
+    "published_at": "2026-08-13T11:24:03+08:00",
+    "stocks": [
+      "IONQ"
+    ],
+    "uid": "0259f2ec5fa43b53d91a731c9e332bd7",
+    "title_en": "IonQ (IONQ) Q2 2026 Earnings Call Transcript",
+    "summary_en": "Revenue surged 287% year-over-year to $80.1 million on quantum platform deployments.",
+    "title_zh": "IonQ (IONQ) 2026 年第二季財報電話會議紀錄",
+    "summary_zh": "量子平台部署收入年增 287% 至 8,010 萬美元。"
+  },
+  {
+    "title": "Permian Resources (PR) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/12/permian-resources-pr-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Record $751M free cash flow powered debt reduction and operational gains.",
+    "published_at": "2026-08-13T11:24:03+08:00",
+    "stocks": [
+      "PR"
+    ],
+    "uid": "1eb7cebf7d280cda5fc35f0869fd6f5e",
+    "title_en": "Permian Resources (PR) Q2 2026 Earnings Call Transcript",
+    "summary_en": "Record $751M free cash flow powered debt reduction and operational gains.",
+    "title_zh": "二疊紀資源 (PR) 2026 年第 2 季財報電話會議紀錄",
+    "summary_zh": "創紀錄的 7.51 億美元自由現金流推動了債務削減和營運收益。"
+  },
+  {
+    "title": "Coeur Mining (CDE) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/12/coeur-mining-cde-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Record free cash flow and inaugural dividend signal momentum from Canadian assets.",
+    "published_at": "2026-08-13T11:24:03+08:00",
+    "stocks": [
+      "CDE"
+    ],
+    "uid": "c3068a1464f532f4aa574fb4640dd686",
+    "title_en": "Coeur Mining (CDE) Q2 2026 Earnings Call Transcript",
+    "summary_en": "Record free cash flow and inaugural dividend signal momentum from Canadian assets.",
+    "title_zh": "Coeur Mining (CDE) 2026 年第二季財報電話會議紀錄",
+    "summary_zh": "創紀錄的自由現金流和首次股息標誌著加拿大資產的勢頭。"
+  },
+  {
+    "title": "Oportun (OPRT) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/12/oportun-oprt-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Adjusted EBITDA surged 56% as interest expense fell 30%.",
+    "published_at": "2026-08-13T11:24:03+08:00",
+    "stocks": [
+      "OPRT"
+    ],
+    "uid": "c87593a0810d01bbef8e79d56602f288",
+    "title_en": "Oportun (OPRT) Q2 2026 Earnings Call Transcript",
+    "summary_en": "Adjusted EBITDA surged 56% as interest expense fell 30%.",
+    "title_zh": "Oportun (OPRT) 2026 年第二季財報電話會議紀錄",
+    "summary_zh": "調整後 EBITDA 飆升 56%，利息支出下降 30%。"
+  },
+  {
+    "title": "CF Industries (CF) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/12/cf-industries-cf-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Nitrogen producer reports $727M earnings amid tight global supply through 2027.",
+    "published_at": "2026-08-13T11:24:03+08:00",
+    "stocks": [
+      "CF"
+    ],
+    "uid": "05d19fd7ecf9a4cae5f806cafbf45deb",
+    "title_en": "CF Industries (CF) Q2 2026 Earnings Call Transcript",
+    "summary_en": "Nitrogen producer reports $727M earnings amid tight global supply through 2027.",
+    "title_zh": "CF Industries (CF) 2026 年第二季財報電話會議紀錄",
+    "summary_zh": "到 2027 年，在全球供應緊張的情況下，氮氣生產商的利潤為 7.27 億美元。"
+  },
+  {
+    "title": "TTM Technologies (TTMI) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/12/ttm-technologies-ttmi-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Record $1 billion revenue milestone driven by AI and defense tailwinds.",
+    "published_at": "2026-08-13T11:24:03+08:00",
+    "stocks": [
+      "TTMI"
+    ],
+    "uid": "58dcb0202a7eb9fe3eafa44e38f5bb7e",
+    "title_en": "TTM Technologies (TTMI) Q2 2026 Earnings Call Transcript",
+    "summary_en": "Record $1 billion revenue milestone driven by AI and defense tailwinds.",
+    "title_zh": "TTM Technologies (TTMI) 2026 年第二季財報電話會議紀錄",
+    "summary_zh": "在人工智慧和國防順風的推動下，創紀錄的 10 億美元收入里程碑。"
+  },
+  {
+    "title": "Inter & Co (INTR) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/12/inter-co-intr-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Record net income of BRL 421 million and 10.1% net interest margin mark major milestones.",
+    "published_at": "2026-08-13T11:24:02+08:00",
+    "stocks": [
+      "INTR"
+    ],
+    "uid": "4263c869b5951b79c7a3086741db8b54"
+  },
+  {
+    "title": "Host Hotels & Resorts (HST) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/12/host-hotels-resorts-hst-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "RevPAR guidance raised 125 basis points on first-half outperformance and luxury demand.",
+    "published_at": "2026-08-13T11:24:02+08:00",
+    "stocks": [
+      "HST"
+    ],
+    "uid": "4754caab6d2f05c8f91ca8f9d29ebf38",
+    "title_en": "Host Hotels & Resorts (HST) Q2 2026 Earnings Call Transcript",
+    "summary_en": "RevPAR guidance raised 125 basis points on first-half outperformance and luxury demand.",
+    "title_zh": "Host Hotels & Resorts (HST) 2026 年第 2 季財報電話會議紀錄",
+    "summary_zh": "由於上半年表現優異和奢侈品需求，RevPAR 指引上調了 125 個基點。"
+  },
+  {
+    "title": "WaterBridge Infrastructure (WBI) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/12/waterbridge-infrastructure-wbi-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Record revenue and EBITDA highlight Delaware Basin infrastructure scalability.",
+    "published_at": "2026-08-13T11:24:02+08:00",
+    "stocks": [
+      "WBI"
+    ],
+    "uid": "63c7e19646f68b16fa54174ef761fd1d"
+  },
+  {
+    "title": "Royal Gold (RGLD) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/12/royal-gold-rgld-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Metal prices and portfolio expansion drove 115% revenue surge.",
+    "published_at": "2026-08-13T11:24:02+08:00",
+    "stocks": [
+      "RGLD"
+    ],
+    "uid": "b0aacd2fcf8e710edffe596192c0a03a"
+  },
+  {
+    "title": "Super Micro Guided Fiscal 2027 Revenue $16 Billion Above Wall Street and Missed the Quarter Anyway",
+    "url": "https://www.fool.com/investing/2026/08/12/super-micro-guided-fiscal-2027-revenue-16-billion/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The AI server maker's fourth quarter came in light. The year it says comes next is what the market is paying for.",
+    "published_at": "2026-08-13T11:19:00+08:00",
+    "stocks": [],
+    "uid": "35bd457ff8dcdf6c1ec5afd66c7a22e0",
+    "title_en": "Super Micro Guided Fiscal 2027 Revenue $16 Billion Above Wall Street and Missed the Quarter Anyway",
+    "summary_en": "The AI server maker's fourth quarter came in light. The year it says comes next is what the market is paying for.",
+    "title_zh": "超微 2027 財年營收高出華爾街 160 億美元，無論如何都錯過了本季",
+    "summary_zh": "這家人工智慧伺服器製造商的第四季業績已經曝光。它所說的下一年就是市場所付出的代價。"
+  },
+  {
+    "title": "Peloton Stock: Value Stock or Value Trap?",
+    "url": "https://www.fool.com/investing/2026/08/12/peloton-stock-value-stock-or-value-trap/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Profita are recovering, but sales are struggling.",
+    "published_at": "2026-08-13T11:15:40+08:00",
+    "stocks": [],
+    "uid": "3b519d870f3a1f166cbba5905235fe33",
+    "title_en": "Peloton Stock: Value Stock or Value Trap?",
+    "summary_en": "Profita are recovering, but sales are struggling.",
+    "title_zh": "Peloton 股票：價值股票還是價值陷阱？",
+    "summary_zh": "利潤正在復甦，但銷售卻舉步維艱。"
+  },
+  {
+    "title": "AST SpaceMobile Stock: Buy or Sell?",
+    "url": "https://www.fool.com/investing/2026/08/12/ast-spacemobile-stock-buy-or-sell/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "AST SpaceMobile should only be considered by investors with a high risk tolerance.",
+    "published_at": "2026-08-13T11:14:00+08:00",
+    "stocks": [],
+    "uid": "03fffa43c546546d545b893929247cbe",
+    "title_en": "AST SpaceMobile Stock: Buy or Sell?",
+    "summary_en": "AST SpaceMobile should only be considered by investors with a high risk tolerance.",
+    "title_zh": "AST SpaceMobile 股票：買還是賣？",
+    "summary_zh": "AST SpaceMobile 僅應由具有高風險承受能力的投資者考慮。"
+  },
+  {
+    "title": "SoundhoundAI Stock: Buy or Sell?",
+    "url": "https://www.fool.com/investing/2026/08/12/soundhoundai-stock-buy-or-sell/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Growth through acquisition is a risky business strategy.",
+    "published_at": "2026-08-13T11:13:03+08:00",
+    "stocks": [],
+    "uid": "84b545a59eb9afe9da2c616276c70000",
+    "title_en": "SoundhoundAI Stock: Buy or Sell?",
+    "summary_en": "Growth through acquisition is a risky business strategy.",
+    "title_zh": "SoundhoundAI 股票：買還是賣？",
+    "summary_zh": "透過收購實現成長是一種有風險的商業策略。"
+  },
+  {
+    "title": "As Prediction Markets Proliferate, Is DraftKings Stock a Buy or Sell?",
+    "url": "https://www.fool.com/investing/2026/08/12/as-prediction-markets-proliferate-is-draftkings-st/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Increasing competition is typically bad news for investors.",
+    "published_at": "2026-08-13T11:12:31+08:00",
+    "stocks": [],
+    "uid": "c20a8fede07576d945a78010d774ce7d",
+    "title_en": "As Prediction Markets Proliferate, Is DraftKings Stock a Buy or Sell?",
+    "summary_en": "Increasing competition is typically bad news for investors.",
+    "title_zh": "隨著預測市場的激增，DraftKings 股票是買進還是賣出？",
+    "summary_zh": ""
+  },
+  {
+    "title": "MercadoLibre (MELI) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/12/mercadolibre-meli-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Revenue hit $10.2 billion as fintech and commerce integration boosted ecosystemic user value.",
+    "published_at": "2026-08-13T11:11:51+08:00",
+    "stocks": [
+      "MELI"
+    ],
+    "uid": "36b03d9fc9cd4d9d384a37681507ac2a",
+    "title_en": "MercadoLibre (MELI) Q2 2026 Earnings Call Transcript",
+    "summary_en": "Revenue hit $10.2 billion as fintech and commerce integration boosted ecosystemic user value.",
+    "title_zh": "MercadoLibre (MELI) 2026 年第二季財報電話會議紀錄",
+    "summary_zh": "由於金融科技和商業整合提升了生態系統用戶價值，營收達到 102 億美元。"
+  },
+  {
+    "title": "Massive News for Archer Aviation Stock Investors",
+    "url": "https://www.fool.com/investing/2026/08/12/massive-news-for-archer-aviation-stock-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Archer is arguably one of the most innovative companies in the world.",
+    "published_at": "2026-08-13T11:11:43+08:00",
+    "stocks": [],
+    "uid": "e82fc28fcfa7acbdc6dbe1e70653b6e2"
+  },
+  {
+    "title": "My Shocking Nvidia Stock Update",
+    "url": "https://www.fool.com/investing/2026/08/12/my-shocking-nvidia-stock-update/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Investors will not want to miss this critical news.",
+    "published_at": "2026-08-13T11:11:06+08:00",
+    "stocks": [],
+    "uid": "8c8e40b506fe29c922ce148749774b74",
+    "title_en": "My Shocking Nvidia Stock Update",
+    "summary_en": "Investors will not want to miss this critical news.",
+    "title_zh": "我的令人震驚的 Nvidia 股票更新",
+    "summary_zh": "投資者不想錯過這個重要消息。"
+  },
+  {
+    "title": "Oil prices drop 1% as weak demand outlook offsets supply uncertainty",
+    "url": "https://www.investing.com/news/commodities-news/oil-prices-drop-1-as-weak-demand-outlook-overshadows-supply-uncertainty-4856560",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-13T11:09:40+08:00",
+    "stocks": [],
+    "uid": "0a07deb9884a50deda5c2c30bc90ddbc"
+  },
+  {
+    "title": "Corpay (CPAY) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/12/corpay-cpay-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Record earnings and raised guidance signal strong momentum in payments.",
+    "published_at": "2026-08-13T11:09:39+08:00",
+    "stocks": [
+      "CPAY"
+    ],
+    "uid": "09963dae7067f0ffcfc816e6573da966",
+    "title_en": "Corpay (CPAY) Q2 2026 Earnings Call Transcript",
+    "summary_en": "Record earnings and raised guidance signal strong momentum in payments.",
+    "title_zh": "Corpay (CPAY) 2026 年第二季財報電話會議紀錄",
+    "summary_zh": "創紀錄的盈利和上調的指導表明支付勢頭強勁。"
+  },
+  {
+    "title": "DXP Enterprises (DXPE) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/12/dxp-enterprises-dxpe-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Water platform hits 15th consecutive quarter of growth as free cash flow turns positive.",
+    "published_at": "2026-08-13T11:09:39+08:00",
+    "stocks": [
+      "DXPE"
+    ],
+    "uid": "7c9ce9077b1419648216eb930391fe38",
+    "title_en": "DXP Enterprises (DXPE) Q2 2026 Earnings Call Transcript",
+    "summary_en": "Water platform hits 15th consecutive quarter of growth as free cash flow turns positive.",
+    "title_zh": "DXP Enterprises (DXPE) 2026 年第二季財報電話會議紀錄",
+    "summary_zh": "隨著自由現金流轉正，水務平台連續第 15 季實現成長。"
+  },
+  {
+    "title": "MKS (MKSI) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/12/mks-mksi-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Revenue surged 28% as semiconductor and AI demand accelerated globally.",
+    "published_at": "2026-08-13T11:09:39+08:00",
+    "stocks": [
+      "MKSI"
+    ],
+    "uid": "011ce888b8c61b3756dc1823e3407457"
+  },
+  {
+    "title": "Montauk Renewables (MNTK) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/12/montauk-renewables-mntk-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Turkey facility begins power generation as RIN self-marketing accelerates.",
+    "published_at": "2026-08-13T11:09:39+08:00",
+    "stocks": [
+      "MNTK"
+    ],
+    "uid": "7196f76172f03b458a3e24468a00dcba",
+    "title_en": "Montauk Renewables (MNTK) Q2 2026 Earnings Call Transcript",
+    "summary_en": "Turkey facility begins power generation as RIN self-marketing accelerates.",
+    "title_zh": "蒙托克再生能源公司 (MNTK) 2026 年第二季財報電話會議紀錄",
+    "summary_zh": ""
+  },
+  {
+    "title": "Curtiss-Wright (CW) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/12/curtiss-wright-cw-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Defense electronics orders surged 50% as backlog hit $4.5 billion.",
+    "published_at": "2026-08-13T11:09:39+08:00",
+    "stocks": [
+      "CW"
+    ],
+    "uid": "a4de76d11491f02be8178fa929718cec",
+    "title_en": "Curtiss-Wright (CW) Q2 2026 Earnings Call Transcript",
+    "summary_en": "Defense electronics orders surged 50% as backlog hit $4.5 billion.",
+    "title_zh": "Curtiss-Wright (CW) 2026 年第二季財報電話會議紀錄",
+    "summary_zh": "國防電子訂單激增 50%，積壓訂單達 45 億美元。"
+  },
+  {
+    "title": "Westwood Holdings (WHG) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/12/westwood-holdings-whg-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "CEO Casey discusses shift to ETFs and private capital amid legacy outflows.",
+    "published_at": "2026-08-13T11:09:38+08:00",
+    "stocks": [
+      "WHG"
+    ],
+    "uid": "bc80e9acde1c65e6247a0f3b3843e9f8"
+  },
+  {
+    "title": "Symbotic (SYM) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/12/symbotic-sym-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Profitability returned as adjusted EBITDA more than doubled year over year.",
+    "published_at": "2026-08-13T11:08:59+08:00",
+    "stocks": [
+      "SYM"
+    ],
+    "uid": "60715d938889778618967280f7bd7015"
+  },
+  {
+    "title": "South Korea unveils package to boost housing supply, support young buyers",
+    "url": "https://www.investing.com/news/economic-indicators/south-korea-unveils-package-to-boost-housing-supply-support-young-buyers-4856559",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-13T11:06:28+08:00",
+    "stocks": [],
+    "uid": "a3c2e2213f4a31e2bda9b4dd06e9c796"
+  },
+  {
+    "title": "Origin Energy profit beats estimates as battery growth lifts energy markets view",
+    "url": "https://www.investing.com/news/earnings/origin-energy-profit-beats-estimates-as-battery-growth-lifts-energy-markets-view-4856558",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-13T11:04:39+08:00",
+    "stocks": [],
+    "uid": "9075274c05efcd0327e1e6a548c1c07e"
+  },
+  {
+    "title": "Block (XYZ) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/12/block-xyz-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Record profitability and AI integration drive guidance raise across Square and Cash App.",
+    "published_at": "2026-08-13T11:04:31+08:00",
+    "stocks": [
+      "XYZ"
+    ],
+    "uid": "90edf2acbda3f3213ce8c1007c0dd4a0"
+  },
+  {
+    "title": "Anthropic in talks to buy AI startup Decart for about $6 bln - Bloomberg",
+    "url": "https://www.investing.com/news/stock-market-news/anthropic-in-talks-to-buy-ai-startup-decart-for-about-6-bln--bloomberg-4856557",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-13T11:04:01+08:00",
+    "stocks": [],
+    "uid": "58b7a9bc4c9ae91a6eac100612973b6d"
+  },
+  {
+    "title": "Hepion Pharmaceuticals interim CEO Gary Stetz buys $100,000 in stock",
+    "url": "https://www.investing.com/news/insider-trading-news/hepion-pharmaceuticals-interim-ceo-gary-stetz-buys-100000-in-stock-93CH-4856556",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-13T11:01:04+08:00",
+    "stocks": [],
+    "uid": "6b9c97de1ea8e0dd9e010244c45f598d"
+  },
+  {
+    "title": "Hepion Pharmaceuticals director Stetz buys $25,000 in common stock",
+    "url": "https://www.investing.com/news/insider-trading-news/hepion-pharmaceuticals-director-stetz-buys-25000-in-common-stock-93CH-4856555",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-13T11:01:03+08:00",
+    "stocks": [],
+    "uid": "09f8459aaa8c1be97b2e09a27bef8b46"
+  },
+  {
+    "title": "This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips",
+    "url": "https://www.cnbc.com/2026/08/13/chinese-firm-tops-micron-kioxia-shipments-nand-memory-chips.html",
+    "source": "CNBC Finance",
+    "summary": "Counterpoint Research looked at the NAND segment of memory chips, which is benefitting along with the larger DRAM segment from artificial intelligence demand.",
+    "published_at": "2026-08-13T10:59:50+08:00",
+    "stocks": [],
+    "uid": "7c598fab41149ea397a42a394a16c6a4"
+  },
+  {
+    "title": "Why is Telstra stock sliding today?",
+    "url": "https://www.investing.com/news/stock-market-news/why-is-telstra-stock-sliding-today-93CH-4856554",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-13T10:59:23+08:00",
+    "stocks": [],
+    "uid": "48669a9110c53440faf6a06f076734fc"
+  },
+  {
+    "title": "Telstra FY profit rises slightly, announces $706 mln buyback",
+    "url": "https://www.investing.com/news/stock-market-news/telstra-fy-profit-rises-slightly-announces-706-mln-buyback-93CH-4856553",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-13T10:59:20+08:00",
+    "stocks": [],
+    "uid": "5136a3ff0b7c0380a1258628391df792"
+  },
+  {
+    "title": "Goldman says Japan's $1 trillion of reserves leaves 'plenty of capacity' for further yen interventions",
+    "url": "https://www.cnbc.com/2026/08/13/us-japan-dollar-yen-intervention-goldman.html",
+    "source": "CNBC Top",
+    "summary": "Japan has enough cash at its disposal for a couple more rounds of yen-buying on the scale of last month's intervention, Goldman Sachs says.",
+    "published_at": "2026-08-13T10:31:32+08:00",
+    "stocks": [],
+    "uid": "1c5cb6e9ef908ad9be2579d57c3ec0a4"
+  },
+  {
+    "title": "South Korea's Kospi swings from bear to bull-market territory in just over a month on AI trade",
+    "url": "https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-ai-trade.html",
+    "source": "CNBC Top",
+    "summary": "South Korean stocks rallied on Thursday, pushing the benchmark Kospi into a technical bull market.",
+    "published_at": "2026-08-13T10:06:15+08:00",
+    "stocks": [],
+    "uid": "7775c74d965711027deda487328f59d4"
+  },
+  {
     "title": "Crowdstrike CEO George Kurtz sells over $4.4m in stock",
     "url": "https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-over-44m-in-stock-93CH-4856494",
     "source": "Investing.com",
@@ -11895,6 +12437,33 @@
     "uid": "b2c058d6351db73b97fc0e0a31a53d84"
   },
   {
+    "title": "A $2 Million Reason Why Barrick Mining Stock Is Down",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/2-million-reason-why-barrick-164527435.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-12T00:45:27+08:00",
+    "stocks": [],
+    "uid": "524c4504a7b5489eed57f68c9bdc8947"
+  },
+  {
+    "title": "Corn Feeling Modest Pressure at Tuesday’s Midday",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/corn-feeling-modest-pressure-tuesday-164128197.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-12T00:41:28+08:00",
+    "stocks": [],
+    "uid": "66bcc757d3a90e607b1b227d0776e602"
+  },
+  {
+    "title": "Senior OpenAI executive Brad Lightcap to leave for new venture",
+    "url": "https://finance.yahoo.com/technology/ai/articles/brad-lightcap-leaving-openai-164118543.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-12T00:41:18+08:00",
+    "stocks": [],
+    "uid": "b4fb45cd6ba3a728041475d065efff87"
+  },
+  {
     "title": "Sam Altman Owns 12.2 Million Shares of Reddit Worth Over $1 Billion, Even Though He Holds Zero Equity in OpenAI. Here's Why That Stake Matters for Investors.",
     "url": "https://www.fool.com/investing/2026/08/11/sam-altman-owns-122-million-shares-of-reddit-worth/?source=iedfolrf0000001",
     "source": "Motley Fool",
@@ -11902,6 +12471,26 @@
     "published_at": "2026-08-12T00:41:00+08:00",
     "stocks": [],
     "uid": "0915ef29c83813e84b06e1c30491c065"
+  },
+  {
+    "title": "Vacation Ownership Stocks Sink in July, But Analysts See Contrarian Value in TNL, VAC",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/vacation-ownership-stocks-sink-july-163948261.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-12T00:39:48+08:00",
+    "stocks": [],
+    "uid": "d553f1e7744c8a5641fcfff97244fda2"
+  },
+  {
+    "title": "Why Did The Pentagon Just Hand Lockheed Martin (LMT) $58.62B?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-pentagon-just-hand-163937740.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-12T00:39:37+08:00",
+    "stocks": [
+      "LMT"
+    ],
+    "uid": "e62527072ba038b9fa8356802e4cc4da"
   },
   {
     "title": "Earnings call transcript: PennantPark meets Q3 2026 EPS view as revenue misses",
@@ -12048,6 +12637,15 @@
     "summary_zh": ""
   },
   {
+    "title": "Walmart Earnings Are Due. This Short-Term Options Trade Could Post A 14% Return.",
+    "url": "https://www.investors.com/research/options/walmart-stock-wmt-retail-earnings-options-trade-markets-strategy-income-return/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-12T00:31:36+08:00",
+    "stocks": [],
+    "uid": "27dd6265dc9aa4129b92c2acc8938319"
+  },
+  {
     "title": "FlightAware sues Kalshi over flight-cancellation markets",
     "url": "https://www.investing.com/news/economy-news/flightaware-sues-kalshi-over-flightcancellation-markets-4850829",
     "source": "Investing.com",
@@ -12126,6 +12724,15 @@
     "summary_zh": ""
   },
   {
+    "title": "US existing home sales fall further; small business sentiment at 11-month high",
+    "url": "https://finance.yahoo.com/real-estate/articles/us-existing-home-sales-post-140755961.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-12T00:29:57+08:00",
+    "stocks": [],
+    "uid": "97ffda6c179920ae651f1725fb71bd3d"
+  },
+  {
     "title": "Dow Jones AI Giants Nvidia, Amazon In Or Near Buy Zones; Avnet, Okta Are Stocks To Watch",
     "url": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-ai-giants-nvidia-stock-nvda-amazon-amzn/?src=A00220&yptr=yahoo",
     "source": "Yahoo Finance",
@@ -12180,6 +12787,15 @@
     "summary_zh": "儘管努力節省成本，但通膨壓力迫使管理層下調全年指引。"
   },
   {
+    "title": "Are Wall Street Analysts Predicting Broadcom Stock Will Climb or Sink?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-broadcom-162231590.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-12T00:22:31+08:00",
+    "stocks": [],
+    "uid": "f30bc5ff499290ddf416a024b40ae45d"
+  },
+  {
     "title": "Cramer: Intel may have something up its sleeve; Nvidia's financing push is 'monumentally positive'",
     "url": "https://www.cnbc.com/2026/08/11/cramer-intel-may-have-something-up-its-sleeve-nvidias-financing-push-is-positive.html",
     "source": "CNBC Top",
@@ -12204,6 +12820,15 @@
     "summary_en": "",
     "title_zh": "跳過短期收益：吉姆·克萊默 (Jim Cramer) 表示，退休財富歸結為 3 項關鍵資產。您擁有正確的嗎？",
     "summary_zh": ""
+  },
+  {
+    "title": "27-year-old chip stock sees price target slashed despite sales, profit surge",
+    "url": "https://finance.yahoo.com/technology/ai/articles/27-old-chip-stock-sees-161700531.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-12T00:17:00+08:00",
+    "stocks": [],
+    "uid": "3eabb081964ebb9b53bc8140d47cdbef"
   },
   {
     "title": "NYPD investigates gold bar scam that has stolen more than $100 million from retirees.",
@@ -12247,6 +12872,15 @@
     "summary_zh": ""
   },
   {
+    "title": "Michael Burry Took a Bearish Bet Against Oracle. Here’s What It Means for ORCL Stock.",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-took-bearish-bet-161440991.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-12T00:14:40+08:00",
+    "stocks": [],
+    "uid": "425a5bba9e7caee56ca39e638fef3a5f"
+  },
+  {
     "title": "Lake Victoria Gold Unveils Maiden 580,000-Ounce Resource at Tembo Project in Tanzania",
     "url": "https://finance.yahoo.com/markets/commodities/articles/lake-victoria-gold-unveils-maiden-161323906.html",
     "source": "Yahoo Finance",
@@ -12254,6 +12888,35 @@
     "published_at": "2026-08-12T00:13:23+08:00",
     "stocks": [],
     "uid": "d0c3a976e894a3173844f182ee8fb5ce"
+  },
+  {
+    "title": "3 headlines that explain America's debt situation",
+    "url": "https://finance.yahoo.com/economy/policy/articles/3-headlines-explain-americas-debt-161305283.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-12T00:13:05+08:00",
+    "stocks": [],
+    "uid": "562369f0de67dfb3bc7fe972a7e6612c"
+  },
+  {
+    "title": "On Holding Tempers Outlook as Running-Shoe Sales Underwhelm",
+    "url": "https://www.wsj.com/business/retail/on-holding-tempers-outlook-as-running-shoe-sales-underwhelm-19940ee3?siteid=yhoof2&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-12T00:13:00+08:00",
+    "stocks": [],
+    "uid": "18ae897855dd13092e20c64d8c8d86f2"
+  },
+  {
+    "title": "Haverty Furniture (HVT) Q2 2026 Earnings Call Transcript",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/haverty-furniture-hvt-q2-2026-161244876.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-12T00:12:44+08:00",
+    "stocks": [
+      "HVT"
+    ],
+    "uid": "46a857bf1fbea7941eee97699d6023ac"
   },
   {
     "title": "Manus to return as independent company after China forced Meta to unwind $2 billion deal",
