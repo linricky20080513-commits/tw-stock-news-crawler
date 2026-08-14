@@ -1,5 +1,492 @@
 [
   {
+    "title": "S&T Bancorp director William Hieb sells $887,075 in shares",
+    "url": "https://www.investing.com/news/insider-trading-news/st-bancorp-director-william-hieb-sells-887075-in-shares-93CH-4859672",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-14T11:46:07+08:00",
+    "stocks": [],
+    "uid": "43321b50f31a280029a66514ae2751d4"
+  },
+  {
+    "title": "PBF Energy SVP Paul Davis sells $4.46 million in PBF shares",
+    "url": "https://www.investing.com/news/insider-trading-news/pbf-energy-svp-paul-davis-sells-446-million-in-pbf-shares-93CH-4859671",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-14T11:45:55+08:00",
+    "stocks": [],
+    "uid": "682ea69d495fece54f3d87434e57f017",
+    "title_en": "PBF Energy SVP Paul Davis sells $4.46 million in PBF shares",
+    "summary_en": "",
+    "title_zh": "PBF Energy 高級副總裁 Paul Davis 出售價值 446 萬美元的 PBF 股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "LG and Nvidia partner on robotics and AI factory development",
+    "url": "https://www.investing.com/news/stock-market-news/lg-and-nvidia-partner-on-robotics-and-ai-factory-development-93CH-4859670",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-14T11:41:10+08:00",
+    "stocks": [],
+    "uid": "9d173166bfbda45487f2381d134cae53",
+    "title_en": "LG and Nvidia partner on robotics and AI factory development",
+    "summary_en": "",
+    "title_zh": "LG 和 Nvidia 合作開發機器人和人工智慧工廠",
+    "summary_zh": ""
+  },
+  {
+    "title": "Trump orders Navy shipbuilding overhaul and new shipyard",
+    "url": "https://www.investing.com/news/stock-market-news/trump-orders-navy-shipbuilding-overhaul-and-new-shipyard-93CH-4859669",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-14T11:37:50+08:00",
+    "stocks": [],
+    "uid": "35b8701a10cd69bc8617d01892461ead",
+    "title_en": "Trump orders Navy shipbuilding overhaul and new shipyard",
+    "summary_en": "",
+    "title_zh": "川普下令海軍造船大修和新造船廠",
+    "summary_zh": ""
+  },
+  {
+    "title": "SMIC shares climb on strong Q2 earnings, broader chipmakers up",
+    "url": "https://www.investing.com/news/stock-market-news/smic-shares-climb-on-strong-q2-earnings-broader-chipmakers-up-4859668",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-14T11:35:48+08:00",
+    "stocks": [],
+    "uid": "66e091884276420e55cac4fa62220844",
+    "title_en": "SMIC shares climb on strong Q2 earnings, broader chipmakers up",
+    "summary_en": "",
+    "title_zh": "中芯國際股價因第二季獲利強勁而攀升，更廣泛的晶片製造商上漲",
+    "summary_zh": ""
+  },
+  {
+    "title": "McGrath RentCorp VP Skenesky sells $240,820 in company shares",
+    "url": "https://www.investing.com/news/insider-trading-news/mcgrath-rentcorp-vp-skenesky-sells-240820-in-company-shares-93CH-4859667",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-14T11:31:05+08:00",
+    "stocks": [],
+    "uid": "833409b8bb72386c069cdfd4c94f284d",
+    "title_en": "McGrath RentCorp VP Skenesky sells $240,820 in company shares",
+    "summary_en": "",
+    "title_zh": "McGrath RentCorp 副總裁 Skenesky 出售價值 240,820 美元的公司股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "BankUnited director Douglas Pauls sells $143,700 in shares",
+    "url": "https://www.investing.com/news/insider-trading-news/bankunited-director-douglas-pauls-sells-143700-in-shares-93CH-4859666",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-14T11:31:03+08:00",
+    "stocks": [],
+    "uid": "82ede4da996e5c933f72bf2edcb50b04"
+  },
+  {
+    "title": "Aehr Test Systems director Scott sells $2.63m in stock",
+    "url": "https://www.investing.com/news/insider-trading-news/aehr-test-systems-director-scott-sells-263m-in-stock-93CH-4859664",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-14T11:30:52+08:00",
+    "stocks": [],
+    "uid": "33d74b226d28b92230699fb7cb83ea0f",
+    "title_en": "Aehr Test Systems director Scott sells $2.63m in stock",
+    "summary_en": "",
+    "title_zh": "Aehr Test Systems 總監 Scott 出售價值 263 萬美元的股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Koppers SVP Stephen Lucas sells $58,271 in company stock",
+    "url": "https://www.investing.com/news/insider-trading-news/koppers-svp-stephen-lucas-sells-58271-in-company-stock-93CH-4859665",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-14T11:30:52+08:00",
+    "stocks": [],
+    "uid": "da789ece07a3f630f2b9c49c65798760",
+    "title_en": "Koppers SVP Stephen Lucas sells $58,271 in company stock",
+    "summary_en": "",
+    "title_zh": "Koppers 資深副總裁 Stephen Lucas 出售價值 58,271 美元的公司股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "RHP Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/13/rhp-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Record revenue and Adjusted EBITDAre drove full-year guidance hikes.",
+    "published_at": "2026-08-14T11:24:38+08:00",
+    "stocks": [],
+    "uid": "9d667c7b4c4628658d022336836298b2",
+    "title_en": "RHP Q2 2026 Earnings Call Transcript",
+    "summary_en": "Record revenue and Adjusted EBITDAre drove full-year guidance hikes.",
+    "title_zh": "RHP 2026 年第二季財報電話會議紀錄",
+    "summary_zh": "創紀錄的收入和調整後的 EBITDA 推動了全年指引的上調。"
+  },
+  {
+    "title": "Aehr COO Adil Engineer sells $1.96m in company stock",
+    "url": "https://www.investing.com/news/insider-trading-news/aehr-coo-adil-engineer-sells-196m-in-company-stock-93CH-4859663",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-14T11:20:03+08:00",
+    "stocks": [],
+    "uid": "28d5890863e5770512f9cb9a188fee5c",
+    "title_en": "Aehr COO Adil Engineer sells $1.96m in company stock",
+    "summary_en": "",
+    "title_zh": "Aehr 營運長 Adil Engineer 出售價值 196 萬美元的公司股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "MiNK Therapeutics (INKT) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/13/mink-therapeutics-inkt-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Net loss narrowed to $3.1 million as Phase 2 trial for agenT-797 advances in Ukraine.",
+    "published_at": "2026-08-14T11:08:13+08:00",
+    "stocks": [
+      "INKT"
+    ],
+    "uid": "d2ecdfd5c22b480bbbd80165218abcb1",
+    "title_en": "MiNK Therapeutics (INKT) Q2 2026 Earnings Call Transcript",
+    "summary_en": "Net loss narrowed to $3.1 million as Phase 2 trial for agenT-797 advances in Ukraine.",
+    "title_zh": "MiNK Therapeutics (INKT) 2026 年第二季財報電話會議紀錄",
+    "summary_zh": "隨著agenT-797的第二階段試驗在烏克蘭取得進展，淨虧損收窄至310萬美元。"
+  },
+  {
+    "title": "Trump Media's CFO Sells Nearly 20,000 Shares After the Company's Crypto Business Combination Collapsed",
+    "url": "https://www.fool.com/coverage/filings/2026/08/13/trump-media-s-cfo-sells-nearly-20-000-shares-after-the-company-s-crypto-business-combination-collapsed/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The Truth Social operator reported a notable insider sale amid a 54% drop in share price over the past 12 months.",
+    "published_at": "2026-08-14T11:02:37+08:00",
+    "stocks": [],
+    "uid": "739e9d62997622196f4c854d3054f1f3",
+    "title_en": "Trump Media's CFO Sells Nearly 20,000 Shares After the Company's Crypto Business Combination Collapsed",
+    "summary_en": "The Truth Social operator reported a notable insider sale amid a 54% drop in share price over the past 12 months.",
+    "title_zh": "川普媒體公司的加密業務合併失敗後，其財務長出售了近 20,000 股股票",
+    "summary_zh": "Truth Social 營運商報告稱，在過去 12 個月內股價下跌 54% 的情況下，發生了一次引人注目的內幕交易。"
+  },
+  {
+    "title": "The Stock Market Just Made a Move That Warren Buffett Has Warned About. History Says Investors Should Make This 1 Move.",
+    "url": "https://www.fool.com/investing/2026/08/13/stock-market-warren-buffett-history-says-1-move/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The Buffett indicator, a metric popularized by the Oracle of Omaha, is at a record high.",
+    "published_at": "2026-08-14T11:00:00+08:00",
+    "stocks": [],
+    "uid": "620d2ed914589e882d719be0fdb218fe",
+    "title_en": "The Stock Market Just Made a Move That Warren Buffett Has Warned About. History Says Investors Should Make This 1 Move.",
+    "summary_en": "The Buffett indicator, a metric popularized by the Oracle of Omaha, is at a record high.",
+    "title_zh": "股市剛剛做出了巴菲特警告的舉動。歷史告訴我們，投資人應該要踏出這一步。",
+    "summary_zh": "巴菲特指標是奧馬哈先知推廣的一項指標，目前正處於歷史新高。"
+  },
+  {
+    "title": "Chuck Robbins Says AI Is Fueling a \"Networking Supercycle.\" Cisco's Guide Puts a $7.5 Billion Number on It.",
+    "url": "https://www.fool.com/investing/2026/08/13/chuck-robbins-says-ai-is-fueling-a-networking-supe/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The networking giant's new outlook calls for 15% growth -- so why did shares drop more than 8%?",
+    "published_at": "2026-08-14T10:53:00+08:00",
+    "stocks": [],
+    "uid": "3e2608c5a16e2c8cd8081272502c78b1",
+    "title_en": "Chuck Robbins Says AI Is Fueling a \"Networking Supercycle.\" Cisco's Guide Puts a $7.5 Billion Number on It.",
+    "summary_en": "The networking giant's new outlook calls for 15% growth -- so why did shares drop more than 8%?",
+    "title_zh": "羅賓斯 (Chuck Robbins) 表示人工智慧正在推動「網路超級週期」。思科指南給出的數字是 75 億美元。",
+    "summary_zh": "這家網路巨頭的新展望要求將成長 15%，那麼為何股價下跌超過 8%？"
+  },
+  {
+    "title": "Alpha Cognition (ACOG) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/13/alpha-cognition-acog-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "ZUNVEYL revenue surged 71% sequentially as repeat prescriber rates hit 76%.",
+    "published_at": "2026-08-14T10:39:02+08:00",
+    "stocks": [
+      "ACOG"
+    ],
+    "uid": "67d22fd046901e6b3a01734bd94eef07",
+    "title_en": "Alpha Cognition (ACOG) Q2 2026 Earnings Call Transcript",
+    "summary_en": "ZUNVEYL revenue surged 71% sequentially as repeat prescriber rates hit 76%.",
+    "title_zh": "Alpha Cognition (ACOG) 2026 年第二季財報電話會議紀錄",
+    "summary_zh": "ZUNVEYL 收入季增 71%，重複處方率達 76%。"
+  },
+  {
+    "title": "Rockwell Medical (RMTI) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/13/rockwell-medical-rmti-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Revenue grew 11% as automation and western expansion boosted margins and cash flow.",
+    "published_at": "2026-08-14T10:39:02+08:00",
+    "stocks": [
+      "RMTI"
+    ],
+    "uid": "eba780e1390efc1fcd2e3a948664278c",
+    "title_en": "Rockwell Medical (RMTI) Q2 2026 Earnings Call Transcript",
+    "summary_en": "Revenue grew 11% as automation and western expansion boosted margins and cash flow.",
+    "title_zh": "羅克韋爾醫療 (RMTI) 2026 年第二季收益電話會議記錄",
+    "summary_zh": "由於自動化和西部擴張提高了利潤和現金流，收入增加了 11%。"
+  },
+  {
+    "title": "Arrive AI (ARAI) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/13/arrive-ai-arai-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Company scales hardware production while expanding global patent portfolio.",
+    "published_at": "2026-08-14T10:23:25+08:00",
+    "stocks": [
+      "ARAI"
+    ],
+    "uid": "c8c298a3daac0656e749df80e49ba205",
+    "title_en": "Arrive AI (ARAI) Q2 2026 Earnings Call Transcript",
+    "summary_en": "Company scales hardware production while expanding global patent portfolio.",
+    "title_zh": "Arrive AI (ARAI) 2026 年第二季財報電話會議紀錄",
+    "summary_zh": "本公司擴大硬體生產規模，同時擴大全球專利組合。"
+  },
+  {
+    "title": "Iron Mountain Chief Commercial Officer Sells 11,839 Shares for $1.5 Million",
+    "url": "https://www.fool.com/coverage/filings/2026/08/13/iron-mountain-chief-commercial-officer-sells-11839-shares-for-15-million/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Greg McIntosh exercised stock options and immediately sold at $127.13, capturing significant gains under a Rule 10b5-1 plan adopted in May.",
+    "published_at": "2026-08-14T10:10:01+08:00",
+    "stocks": [],
+    "uid": "fd1586347b3abe34d4b745c53d079388",
+    "title_en": "Iron Mountain Chief Commercial Officer Sells 11,839 Shares for $1.5 Million",
+    "summary_en": "Greg McIntosh exercised stock options and immediately sold at $127.13, capturing significant gains under a Rule 10b5-1 plan adopted in May.",
+    "title_zh": "Iron Mountain 首席商務官以 150 萬美元出售 11,839 股股票",
+    "summary_zh": "Greg McIntosh 行使了股票選擇權，並立即以 127.13 美元的價格出售，根據 5 月通過的規則 10b5-1 計劃獲得了顯著收益。"
+  },
+  {
+    "title": "Fortress Biotech (FBIO) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/13/fortress-biotech-fbio-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Emrosi prescriptions jumped 20% sequentially with payer coverage climbing to 38%.",
+    "published_at": "2026-08-14T10:08:23+08:00",
+    "stocks": [
+      "FBIO"
+    ],
+    "uid": "88385f4a869b11cce76330452bb7bcae"
+  },
+  {
+    "title": "AIRO (AIRO) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/13/airo-airo-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Drone revenue surged 76% year-over-year with backlog reaching $163 million.",
+    "published_at": "2026-08-14T10:08:22+08:00",
+    "stocks": [
+      "AIRO"
+    ],
+    "uid": "10664857c9a9789f9cc6dba849396a71",
+    "title_en": "AIRO (AIRO) Q2 2026 Earnings Call Transcript",
+    "summary_en": "Drone revenue surged 76% year-over-year with backlog reaching $163 million.",
+    "title_zh": "AIRO (AIRO) 2026 年第二季財報電話會議紀錄",
+    "summary_zh": "無人機營收年增 76%，積壓訂單達 1.63 億美元。"
+  },
+  {
+    "title": "Xunlei (XNET) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/13/xunlei-xnet-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Revenue jumped 38.9% as live-streaming expanded, pressuring margins.",
+    "published_at": "2026-08-14T10:08:22+08:00",
+    "stocks": [
+      "XNET"
+    ],
+    "uid": "2aabd00b069ca717a6c87018ad4a09b5",
+    "title_en": "Xunlei (XNET) Q2 2026 Earnings Call Transcript",
+    "summary_en": "Revenue jumped 38.9% as live-streaming expanded, pressuring margins.",
+    "title_zh": "迅雷 (XNET) 2026 年第二季財報電話會議紀錄",
+    "summary_zh": ""
+  },
+  {
+    "title": "Is the Reported $400 Billion AstraZeneca-Bristol Myers Squibb Megamerger a Slam Dunk -- or a Disaster Waiting to Happen?",
+    "url": "https://www.fool.com/investing/2026/08/13/is-the-reported-400-billion-astrazeneca-bristol-my/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "There's a good reason why AstraZeneca tanked when merger rumors hit the Street.",
+    "published_at": "2026-08-14T10:00:00+08:00",
+    "stocks": [],
+    "uid": "ea88004e7c00f8e3302bfeb9c3afb3ac",
+    "title_en": "Is the Reported $400 Billion AstraZeneca-Bristol Myers Squibb Megamerger a Slam Dunk -- or a Disaster Waiting to Happen?",
+    "summary_en": "There's a good reason why AstraZeneca tanked when merger rumors hit the Street.",
+    "title_zh": "據報道，阿斯特捷利康與布里斯托爾邁爾斯施貴寶的 4000 億美元大型合併是一次灌籃，還是一場即將發生的災難？",
+    "summary_zh": "當合併傳言傳到華爾街時，阿斯特捷利康的股價下跌是有充分理由的。"
+  },
+  {
+    "title": "Innovative Aerosystems (ISSC) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/13/innovative-aerosystems-issc-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Organic revenue surged over 40% as gross margins hit 51.7%.",
+    "published_at": "2026-08-14T09:53:05+08:00",
+    "stocks": [
+      "ISSC"
+    ],
+    "uid": "1e3b025e3b275755dc32db7575ad46e3",
+    "title_en": "Innovative Aerosystems (ISSC) Q3 2026 Earnings Call Transcript",
+    "summary_en": "Organic revenue surged over 40% as gross margins hit 51.7%.",
+    "title_zh": "創新航空系統 (ISSC) 2026 年第三季財報電話會議紀錄",
+    "summary_zh": ""
+  },
+  {
+    "title": "U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln",
+    "url": "https://www.cnbc.com/2026/08/14/us-iran-war-trump-hormuz-carrier-abraham-lincoln-george-washington.html",
+    "source": "CNBC Top",
+    "summary": "\"It will be a combination of economic isolation like ‌the world has ​never seen before, ​and ​the continued blockade in ‌the Strait of ​Hormuz,\" Bessent said.",
+    "published_at": "2026-08-14T09:52:07+08:00",
+    "stocks": [],
+    "uid": "0f9ee2bc4f0072001634df6231f3bfe0",
+    "title_en": "U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln",
+    "summary_en": "\"It will be a combination of economic isolation like ‌the world has ​never seen before, ​and ​the continued blockade in ‌the Strait of ​Hormuz,\" Bessent said.",
+    "title_zh": "美國將對伊朗使用「前所未見」的經濟策略；海軍致力於緩解陷入困境的亞伯拉罕·林肯號航空母艦",
+    "summary_zh": "貝森特說：“這將是世界前所未見的經濟孤立和霍爾木茲海峽持續封鎖的結合。”"
+  },
+  {
+    "title": "Why Savers Value Village Stock Was Wilting This Week",
+    "url": "https://www.fool.com/investing/2026/08/13/why-savers-value-village-stock-was-wilting-this-we/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Its majority stockholder is selling a large bundle of shares.",
+    "published_at": "2026-08-14T09:46:22+08:00",
+    "stocks": [],
+    "uid": "7fc96e6fb8c8370e0ffe55476e729a87",
+    "title_en": "Why Savers Value Village Stock Was Wilting This Week",
+    "summary_en": "Its majority stockholder is selling a large bundle of shares.",
+    "title_zh": "為什麼儲戶看好鄉村股票本週萎靡不振",
+    "summary_zh": "其大股東正在出售大量股票。"
+  },
+  {
+    "title": "Arko (ARKO) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/13/arko-arko-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "CEO Kotler discusses USPP acquisition, dealerization progress, and fuel margin expansion.",
+    "published_at": "2026-08-14T09:40:14+08:00",
+    "stocks": [
+      "ARKO"
+    ],
+    "uid": "8c9e95ccf58239ce22ed759fe5469b1c",
+    "title_en": "Arko (ARKO) Q2 2026 Earnings Call Transcript",
+    "summary_en": "CEO Kotler discusses USPP acquisition, dealerization progress, and fuel margin expansion.",
+    "title_zh": "Arko (ARKO) 2026 年第二季財報電話會議紀錄",
+    "summary_zh": "執行長科特勒討論了 USPP 收購、經銷商進展和燃料利潤率擴張。"
+  },
+  {
+    "title": "Bit Digital (BTBT) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/13/bit-digital-btbt-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Cloud services revenue surged 42% sequentially as WhiteFiber signed $500M in new contracts.",
+    "published_at": "2026-08-14T09:38:43+08:00",
+    "stocks": [
+      "BTBT"
+    ],
+    "uid": "f67e70ea16f7e2af480f4d4dff2fb938",
+    "title_en": "Bit Digital (BTBT) Q2 2026 Earnings Call Transcript",
+    "summary_en": "Cloud services revenue surged 42% sequentially as WhiteFiber signed $500M in new contracts.",
+    "title_zh": "Bit Digital (BTBT) 2026 年第二季財報電話會議紀錄",
+    "summary_zh": "隨著 WhiteFiber 簽署 5 億美元的新合同，雲端服務收入較上季飆升 42%。"
+  },
+  {
+    "title": "Nvidia CEO Jensen Huang Just Introduced a Bold $500 Billion Plan to Potentially Create Chip-Backed Securities. What Could Go Wrong?",
+    "url": "https://www.fool.com/investing/2026/08/13/nvidia-ceo-jensen-huang-just-introduced-a-bold-500/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "During a recent CNBC panel, Huang and some of Wall Street's biggest banks and private credit CEOs announced a potential new way to fund the capital-intensive artificial intelligence build-out.",
+    "published_at": "2026-08-14T09:30:00+08:00",
+    "stocks": [],
+    "uid": "608ea2b5f6da0f45f9905bebb05ed529"
+  },
+  {
+    "title": "RLJ Lodging Trust (RLJ) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/13/rlj-lodging-trust-rlj-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Business travel recovery and lifestyle conversions boost urban market performance.",
+    "published_at": "2026-08-14T09:24:57+08:00",
+    "stocks": [
+      "RLJ"
+    ],
+    "uid": "9d598cb3ff94f77cb2f370d871ddad45"
+  },
+  {
+    "title": "Consensus Cloud Solutions (CCSI) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/13/consensus-cloud-solutions-ccsi-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Corporate revenue hit record $60.5 million as VA mandate fuels public sector expansion.",
+    "published_at": "2026-08-14T09:24:57+08:00",
+    "stocks": [
+      "CCSI"
+    ],
+    "uid": "1f106379e53e7b937192170707f28975"
+  },
+  {
+    "title": "FIGS (FIGS) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/13/figs-figs-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Revenue surged 28.8% as active customers grew 13.2% and margins expanded sharply.",
+    "published_at": "2026-08-14T09:24:57+08:00",
+    "stocks": [
+      "FIGS"
+    ],
+    "uid": "564f846c35fa57e72eab8d9dfbf89148"
+  },
+  {
+    "title": "Karat Packaging (KRT) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/13/karat-packaging-krt-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "E-commerce surged 23.6% as net sales climbed to $136.3 million.",
+    "published_at": "2026-08-14T09:24:57+08:00",
+    "stocks": [
+      "KRT"
+    ],
+    "uid": "204f7c7b24f932c0cf05447b53cde4d7"
+  },
+  {
+    "title": "Grove (GROV) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/13/grove-grov-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Sequential revenue growth returns as platform migrations complete and profitability improves.",
+    "published_at": "2026-08-14T09:24:57+08:00",
+    "stocks": [
+      "GROV"
+    ],
+    "uid": "a14b55dd27e096761a88b8d751d6e753"
+  },
+  {
+    "title": "Blink Charging (BLNK) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/13/blink-charging-blnk-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "CEO Battaglia outlines shift to recurring revenue and AI-powered energy management.",
+    "published_at": "2026-08-14T09:24:57+08:00",
+    "stocks": [
+      "BLNK"
+    ],
+    "uid": "c1d5e74dfdf1eaf3965bf6cbf69e6042"
+  },
+  {
+    "title": "Butterfly Network CEO Joseph Devivo Sells 68,346 Shares",
+    "url": "https://www.fool.com/coverage/filings/2026/08/13/butterfly-network-ceo-joseph-devivo-sells-68346-shares/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Devivo sold shares under a pre-adopted plan, while retaining a stake worth ~$74 million.",
+    "published_at": "2026-08-14T09:24:01+08:00",
+    "stocks": [],
+    "uid": "d9d207a40601cbf501ea003d77a35dde"
+  },
+  {
+    "title": "SuperCom (SPCB) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/13/supercom-spcb-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Record EBITDA and 290% US monitoring growth signal accelerating momentum.",
+    "published_at": "2026-08-14T09:23:07+08:00",
+    "stocks": [
+      "SPCB"
+    ],
+    "uid": "0b6cfd456c6c0d7de28b52b2be943740"
+  },
+  {
+    "title": "Why Airbnb Stock Keeps Going Up",
+    "url": "https://www.fool.com/investing/2026/08/13/why-airbnb-stock-keeps-going-up/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "AI is boosting the vacation platform's profits.",
+    "published_at": "2026-08-14T09:13:17+08:00",
+    "stocks": [],
+    "uid": "6732a4e5a97050a3397d2da7ffc75686"
+  },
+  {
+    "title": "Wolverine World Wide (WWW) Q2 2026 Earnings Call",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/13/wolverine-world-wide-www-q2-2026-earnings-call/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Merrell and Saucony drive stronger-than-expected Q2 results.",
+    "published_at": "2026-08-14T09:08:08+08:00",
+    "stocks": [
+      "WWW"
+    ],
+    "uid": "131e908da90754e2228ec176026a3cd6"
+  },
+  {
     "title": "Uber partners with China's Pony.ai for 2,000 robotaxis in Europe",
     "url": "https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-ponyai-for-2000-robotaxis-in-europe.html",
     "source": "CNBC Finance",
@@ -11,6 +498,26 @@
     "summary_en": "The rollout comes as robotaxi fleet sizes become increasingly critical for commercialization.",
     "title_zh": "Uber 與中國小馬智行合作在歐洲提供 2,000 輛機器人計程車",
     "summary_zh": "此次推出之際，機器人計程車車隊規模對於商業化變得越來越重要。"
+  },
+  {
+    "title": "Shopify vs. Uber Technologies: What Their Revenue Trends Reveal to Investors.",
+    "url": "https://www.fool.com/coverage/charts/2026/08/13/shopify-vs-uber-technologies-what-their-revenue-trends-reveal-to-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Uber generates roughly four times Shopify's quarterly revenue, but Shopify's growth rate gap tells a different story about which business is scaling faster.",
+    "published_at": "2026-08-14T09:00:59+08:00",
+    "stocks": [],
+    "uid": "1983e36326f41e23894d68036bf31fa1"
+  },
+  {
+    "title": "RealReal (REAL) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/13/realreal-real-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "GMV hit record $617 million as high-value luxury sales surged 36% in first half 2026.",
+    "published_at": "2026-08-14T08:57:06+08:00",
+    "stocks": [
+      "REAL"
+    ],
+    "uid": "45946df7ab4788c095da62e3e3e924ae"
   },
   {
     "title": "Earnings call transcript: QBE posts strong H1 2026 results as shares fall 5.3%",
@@ -12203,6 +12710,15 @@
     "uid": "5f4e858a8eb5168a2f53aad0f8c18c9a"
   },
   {
+    "title": "Norway $2.3 Trillion Wealth Fund Posts Record-High Profit in H1",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/norway-2-3-trillion-wealth-163000186.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-13T00:30:00+08:00",
+    "stocks": [],
+    "uid": "1e4b07781a094ac916bd05f88f1413e8"
+  },
+  {
     "title": "Morgan Stanley reiterates SpaceX stock rating on AI platform potential",
     "url": "https://www.investing.com/news/analyst-ratings/morgan-stanley-reiterates-spacex-stock-rating-on-ai-platform-potential-93CH-4855691",
     "source": "Investing.com",
@@ -12333,6 +12849,15 @@
     "summary_zh": ""
   },
   {
+    "title": "Dollar General Stock: Analyst Estimates & Ratings",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/dollar-general-stock-analyst-estimates-162424793.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-13T00:24:24+08:00",
+    "stocks": [],
+    "uid": "fc0ee5d25b4a989a767010bfee71fe1a"
+  },
+  {
     "title": "Alico 3Q Revenue Jumps on Booming Land Management Strategy – Quarterly Update Report",
     "url": "https://finance.yahoo.com/real-estate/articles/alico-3q-revenue-jumps-booming-162347279.html",
     "source": "Yahoo Finance",
@@ -12413,6 +12938,15 @@
     "summary_zh": ""
   },
   {
+    "title": "Here’s 1 Way to Trade This Classic Supply & Demand Story for US Refiners",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/1-way-trade-classic-supply-161651617.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-13T00:16:51+08:00",
+    "stocks": [],
+    "uid": "0bbabfebe8f5f5f84376c13a7f9efb21"
+  },
+  {
     "title": "Archer Aviation Is Teaming Up With Boeing. Time to Buy the Dip?",
     "url": "https://www.fool.com/investing/2026/08/12/archer-aviation-is-teaming-up-with-boeing-time-to/?source=iedfolrf0000001",
     "source": "Motley Fool",
@@ -12437,6 +12971,15 @@
     "summary_en": "",
     "title_zh": "鋁股短暫突破買點。強勁趨勢下，獲利飆升 357%。",
     "summary_zh": ""
+  },
+  {
+    "title": "A Small-Cap Comeback Story: Middle-Market Investor With Checkered Past Hits New 52-Week High. Time to Buy?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/small-cap-comeback-story-middle-161453772.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-13T00:14:53+08:00",
+    "stocks": [],
+    "uid": "78434660da640bb3a81c6fe72dbeafd5"
   },
   {
     "title": "A $20 Billion Reason Why Intel Stock Is in Focus",
@@ -12736,6 +13279,42 @@
     "published_at": "2026-08-12T23:53:10+08:00",
     "stocks": [],
     "uid": "919c60a7c252ea4ba6c89d792013448b"
+  },
+  {
+    "title": "Sam Altman thinks working at Goldman Sachs ‘sounds unbelievably terrible now’ and admits he was ‘peer pressured’ into accepting an internship there",
+    "url": "https://finance.yahoo.com/technology/ai/articles/sam-altman-thinks-working-goldman-155047041.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-12T23:50:47+08:00",
+    "stocks": [],
+    "uid": "40f300d0fadf891f498980c2dcb640b0"
+  },
+  {
+    "title": "Tesla’s China Numbers Show It Is On The Road To Comeback",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-china-numbers-show-road-155024392.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-12T23:50:24+08:00",
+    "stocks": [],
+    "uid": "85c910f7189005b250c4794038581e4c"
+  },
+  {
+    "title": "Nvidia’s $500B Infrastructure Deal: Wall Street Vote of Confidence or Another Circular Deal for the AI Bubble?",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-500b-infrastructure-deal-wall-155018456.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-12T23:50:18+08:00",
+    "stocks": [],
+    "uid": "5e7889272cab46ea5fb63c611bc2a6a7"
+  },
+  {
+    "title": "Despite the Weakening Yen, Japan's Stock Market Is Outperforming. Here's How to Invest.",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/despite-weakening-yen-japans-stock-155000581.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-12T23:50:00+08:00",
+    "stocks": [],
+    "uid": "d5fa054ca2df9c0861cb25caa56f5d29"
   },
   {
     "title": "Do Wall Street Analysts Like CBRE Group Stock?",
