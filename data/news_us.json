@@ -1,5 +1,200 @@
 [
   {
+    "title": "FDA Classifies Egg Recall as Class I for Highest Health Risk",
+    "url": "https://www.nytimes.com/2026/08/14/health/fda-egg-recall-salmonella.html",
+    "source": "NYT Business",
+    "summary": "Nearly 20 million eggs were recalled in July over salmonella concerns. The new classification signals a “reasonable probability” of “serious adverse health consequences or death.”",
+    "published_at": "2026-08-15T07:06:26+08:00",
+    "stocks": [],
+    "uid": "90b26f1a0f396164463cfad5782adf94",
+    "title_en": "FDA Classifies Egg Recall as Class I for Highest Health Risk",
+    "summary_en": "Nearly 20 million eggs were recalled in July over salmonella concerns. The new classification signals a “reasonable probability” of “serious adverse health consequences or death.”",
+    "title_zh": "FDA 將雞蛋召回列為最高健康風險的 I 類",
+    "summary_zh": "7月份，由於沙門氏菌問題，近2000萬個雞蛋被召回。新的分類顯示「嚴重不良健康後果或死亡」的「合理可能性」。"
+  },
+  {
+    "title": "CoreWeave COO Sachin Jain sells $110 in company stock",
+    "url": "https://www.investing.com/news/insider-trading-news/coreweave-coo-sachin-jain-sells-110-in-company-stock-93CH-4861618",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-15T06:45:57+08:00",
+    "stocks": [],
+    "uid": "f8deb97e9fd7d54d60da269ad3021d7f",
+    "title_en": "CoreWeave COO Sachin Jain sells $110 in company stock",
+    "summary_en": "",
+    "title_zh": "CoreWeave 營運長 Sachin Jain 出售價值 110 美元的公司股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Oruka Therapeutics senior vice president Arjun Agarwal sells $1.06m",
+    "url": "https://www.investing.com/news/insider-trading-news/oruka-therapeutics-senior-vice-president-arjun-agarwal-sells-106m-93CH-4861617",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-15T06:45:53+08:00",
+    "stocks": [],
+    "uid": "8c3e43cde4a48ab49da5c24c50131726",
+    "title_en": "Oruka Therapeutics senior vice president Arjun Agarwal sells $1.06m",
+    "summary_en": "",
+    "title_zh": "Oruka Therapeutics 高級副總裁 Arjun Agarwal 出售 106 萬美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Amazon reinstates binding arbitration, bars class-action lawsuits",
+    "url": "https://www.investing.com/news/stock-market-news/amazon-reinstates-binding-arbitration-bars-classaction-lawsuits-4861616",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-15T06:43:10+08:00",
+    "stocks": [],
+    "uid": "84f6aa4c4be05f5a17a2dbe540fe662b",
+    "title_en": "Amazon reinstates binding arbitration, bars class-action lawsuits",
+    "summary_en": "",
+    "title_zh": "亞馬遜恢復具有約束力的仲裁，禁止集體訴訟",
+    "summary_zh": ""
+  },
+  {
+    "title": "Institutional investors reveal cautious approach to tech favorites in US quarterly 13F filings",
+    "url": "https://www.investing.com/news/stock-market-news/institutional-investors-reveal-cautious-approach-to-tech-favorites-in-us-quarterly-13f-filings-4861601",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-15T06:42:46+08:00",
+    "stocks": [],
+    "uid": "e780452562b9b0b1fec0b96f4492aaf7",
+    "title_en": "Institutional investors reveal cautious approach to tech favorites in US quarterly 13F filings",
+    "summary_en": "",
+    "title_zh": "機構投資人在美國 13F 季報告中透露出對科技股持謹慎態度",
+    "summary_zh": ""
+  },
+  {
+    "title": "8 Rivers Capital sells $1.4m in Net Power (NASDAQ:NPWR) stock",
+    "url": "https://www.investing.com/news/insider-trading-news/8-rivers-capital-sells-14m-in-net-power-nasdaqnpwr-stock-93CH-4861615",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-15T06:31:12+08:00",
+    "stocks": [],
+    "uid": "6ef643602a399d39148b73a000d6178b",
+    "title_en": "8 Rivers Capital sells $1.4m in Net Power (NASDAQ:NPWR) stock",
+    "summary_en": "",
+    "title_zh": "8 Rivers Capital 出售價值 140 萬美元的 Net Power （納斯達克股票代碼：NPWR）股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "NPEH, LLC, Net Power director, sells $1.39m in stock",
+    "url": "https://www.investing.com/news/insider-trading-news/npeh-llc-net-power-director-sells-139m-in-stock-93CH-4861614",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-15T06:31:04+08:00",
+    "stocks": [],
+    "uid": "948e84df2dd845979fdfc5f5dbf2849c",
+    "title_en": "NPEH, LLC, Net Power director, sells $1.39m in stock",
+    "summary_en": "",
+    "title_zh": "Net Power 董事 NPEH, LLC 出售 139 萬美元股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Earnings call transcript: PetVivo lifts revenue in Q1 2026, but stock stays flat",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-petvivo-lifts-revenue-in-q1-2026-but-stock-stays-flat-93CH-4861613",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-15T06:31:02+08:00",
+    "stocks": [],
+    "uid": "67d4a21821e436ae7405b2a625258e7d",
+    "title_en": "Earnings call transcript: PetVivo lifts revenue in Q1 2026, but stock stays flat",
+    "summary_en": "",
+    "title_zh": "財報電話會議記錄：PetVivo 2026 年第一季營收成長，但股價持平",
+    "summary_zh": ""
+  },
+  {
+    "title": "Echostar director Wade sells $460,412 in stock",
+    "url": "https://www.investing.com/news/insider-trading-news/echostar-director-wade-sells-460412-in-stock-93CH-4861612",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-15T06:30:57+08:00",
+    "stocks": [],
+    "uid": "42a6e6bf2e5ef091a5ab0e9ab86bcc74",
+    "title_en": "Echostar director Wade sells $460,412 in stock",
+    "summary_en": "",
+    "title_zh": "Echostar 董事韋德出售價值 460,412 美元的股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Indie semiconductor director Sonalee Parekh sells $76,000 in stock",
+    "url": "https://www.investing.com/news/insider-trading-news/indie-semiconductor-director-sonalee-parekh-sells-76000-in-stock-93CH-4861611",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-15T06:30:56+08:00",
+    "stocks": [],
+    "uid": "49f75e2f56b56c5a581e6d42deab90de",
+    "title_en": "Indie semiconductor director Sonalee Parekh sells $76,000 in stock",
+    "summary_en": "",
+    "title_zh": "獨立半導體總監 Sonalee Parekh 出售價值 76,000 美元的股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "GLP-1 Demand Is Soaring. 2 Stocks That Could Benefit From This (Hint: Not Eli Lilly or Novo Nordisk)",
+    "url": "https://www.fool.com/investing/2026/08/14/glp-1-demand-is-soaring-2-stocks-that-could-benefi/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "They are way more than just GLP-1 stocks.",
+    "published_at": "2026-08-15T06:30:00+08:00",
+    "stocks": [],
+    "uid": "6292047fe279f8866dc440f443d7955e",
+    "title_en": "GLP-1 Demand Is Soaring. 2 Stocks That Could Benefit From This (Hint: Not Eli Lilly or Novo Nordisk)",
+    "summary_en": "They are way more than just GLP-1 stocks.",
+    "title_zh": "GLP-1 需求激增。兩隻可以從中受益的股票（提示：不是禮來公司或諾和諾德公司）",
+    "summary_zh": "它們不僅僅是 GLP-1 股票。"
+  },
+  {
+    "title": "Trump Media's Stock Fell 54%. Here's What Its Technology Chief's Latest Filing Signals",
+    "url": "https://www.fool.com/coverage/filings/2026/08/14/trump-media-s-stock-fell-54-here-s-what-its-technology-chief-s-latest-filing-signals/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This automatic sell-to-cover execution tied to equity award vesting reduced an executive's direct holdings by 3%.",
+    "published_at": "2026-08-15T06:10:24+08:00",
+    "stocks": [],
+    "uid": "4dba6bc8ca68f9d527448a41a0bc675b",
+    "title_en": "Trump Media's Stock Fell 54%. Here's What Its Technology Chief's Latest Filing Signals",
+    "summary_en": "This automatic sell-to-cover execution tied to equity award vesting reduced an executive's direct holdings by 3%.",
+    "title_zh": "川普媒體股價下跌 54%。這是其技術主管最新提交的訊號",
+    "summary_zh": ""
+  },
+  {
+    "title": "Amazon.com vs. StubHub: Which Consumer Stock Is a Better Buy in 2026?",
+    "url": "https://www.fool.com/coverage/better-buy/2026/08/14/amazon-com-vs-stubhub-which-consumer-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Amazon's $77.7 billion net income and 10.8% margin showcase profitability at scale, while StubHub's $191 million free cash flow points to a path back from recent losses.",
+    "published_at": "2026-08-15T06:08:13+08:00",
+    "stocks": [],
+    "uid": "1f04c68ad65813061ece4d9d51af36b7",
+    "title_en": "Amazon.com vs. StubHub: Which Consumer Stock Is a Better Buy in 2026?",
+    "summary_en": "Amazon's $77.7 billion net income and 10.8% margin showcase profitability at scale, while StubHub's $191 million free cash flow points to a path back from recent losses.",
+    "title_zh": "Amazon.com 與 StubHub：2026 年哪一種消費品股比較值得買進？",
+    "summary_zh": "亞馬遜 777 億美元的淨利潤和 10.8% 的利潤率展示了規模盈利能力，而 StubHub 1.91 億美元的自由現金流則表明該公司正在從近期的虧損中恢復過來。"
+  },
+  {
+    "title": "Crypto Market Today, Aug. 14: Bitcoin Slips as SEC Tokenization Progress Stalls",
+    "url": "https://www.fool.com/coverage/stock-market-today/2026/08/14/crypto-market-today-aug-14-bitcoin-slips-as-tokenization-regulation-stalls/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Crypto prices dropped after declines in consumer confidence and retail sales raised economic concerns today, Aug. 14, 2026.",
+    "published_at": "2026-08-15T05:57:59+08:00",
+    "stocks": [],
+    "uid": "b20754b7dde4ef22ab4f91aa6b8b7318",
+    "title_en": "Crypto Market Today, Aug. 14: Bitcoin Slips as SEC Tokenization Progress Stalls",
+    "summary_en": "Crypto prices dropped after declines in consumer confidence and retail sales raised economic concerns today, Aug. 14, 2026.",
+    "title_zh": "今日加密貨幣市場，8 月 14 日：隨著 SEC 代幣化進程停滯，比特幣下跌",
+    "summary_zh": "2026 年 8 月 14 日，消費者信心與零售銷售下降引發經濟擔憂，加密貨幣價格下跌。"
+  },
+  {
+    "title": "Should You Worry About Trump Media Insider Activity as the Stock Falls? Here's How to Read It",
+    "url": "https://www.fool.com/coverage/filings/2026/08/14/should-you-worry-about-trump-media-insider-activity-as-the-stock-falls-here-s-how-to-read-it/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Automatic equity vesting triggered a non-discretionary sale valued at $137,520, reducing McGurn's direct stake by 12% while he retains 120,811 shares worth $1 million.",
+    "published_at": "2026-08-15T05:55:25+08:00",
+    "stocks": [],
+    "uid": "d0569038732d5b7d530321fd5b1908f9",
+    "title_en": "Should You Worry About Trump Media Insider Activity as the Stock Falls? Here's How to Read It",
+    "summary_en": "Automatic equity vesting triggered a non-discretionary sale valued at $137,520, reducing McGurn's direct stake by 12% while he retains 120,811 shares worth $1 million.",
+    "title_zh": "隨著股價下跌，您是否應該擔心川普媒體的內部活動？這是閱讀方法",
+    "summary_zh": "自動股權歸屬觸發了價值 137,520 美元的非全權出售，麥格恩的直接持股減少了 12%，同時他保留了價值 100 萬美元的 120,811 股股票。"
+  },
+  {
     "title": "Trump urges Americans to accept higher gas prices as he escalates Iran rhetoric",
     "url": "https://www.investing.com/news/commodities-news/trump-urges-americans-to-accept-higher-gas-prices-as-he-escalates-iran-rhetoric-4861490",
     "source": "Investing.com",
@@ -143,6 +338,32 @@
     "summary_zh": "Nvidia 透過投資 xAI 所持有的 SpaceX 股份截至第二季末價值約為 210 億美元。"
   },
   {
+    "title": "Why Oracle Stock Got Trounced Today",
+    "url": "https://www.fool.com/investing/2026/08/14/why-oracle-stock-got-trounced-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The company's major plans for its data center future suffered a setback.",
+    "published_at": "2026-08-15T05:42:45+08:00",
+    "stocks": [],
+    "uid": "f9ebf382a6659634d9b49c64532c7f7a",
+    "title_en": "Why Oracle Stock Got Trounced Today",
+    "summary_en": "The company's major plans for its data center future suffered a setback.",
+    "title_zh": "為什麼甲骨文股票今天遭受重創",
+    "summary_zh": "該公司資料中心未來的主要計劃遭遇挫折。"
+  },
+  {
+    "title": "Why REalloys Stock Soared Today",
+    "url": "https://www.fool.com/investing/2026/08/14/why-realloys-stock-is-soaring-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Investors are mining below the headline numbers, and they dig what they discovered.",
+    "published_at": "2026-08-15T05:37:59+08:00",
+    "stocks": [],
+    "uid": "a87bab4e022798a4b3741dca4cd345f1",
+    "title_en": "Why REalloys Stock Soared Today",
+    "summary_en": "Investors are mining below the headline numbers, and they dig what they discovered.",
+    "title_zh": "為什麼 REalloys 股票今天飆升",
+    "summary_zh": "投資者正在挖掘低於標題的數字，他們挖掘他們發現的東西。"
+  },
+  {
     "title": "Berkshire Hathaway doubles down on the U.S. housing market with a fresh bet on this stock",
     "url": "https://www.marketwatch.com/story/berkshire-hathaway-doubles-down-on-the-u-s-housing-market-with-a-fresh-bet-on-this-stock-e5c8484a?mod=mw_rss_topstories",
     "source": "MarketWatch",
@@ -154,6 +375,19 @@
     "summary_en": "Berkshire Hathaway has upped its bet on the U.S. housing market, and also boosted its stakes in Alphabet and Delta Air Lines.",
     "title_zh": "波克夏海瑟威加倍押注美國房地產市場，對該股進行了新的押注",
     "summary_zh": "波克夏海瑟威加大了對美國房地產市場的押注，並增持了 Alphabet 和達美航空的股份。"
+  },
+  {
+    "title": "Alphabet Just Borrowed $25 Billion, and $2.5 Billion of It Isn't Due Until 2066",
+    "url": "https://www.fool.com/investing/2026/08/14/alphabet-just-borrowed-25-billion-and-25-billion-o/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Some of this money doesn't have to be paid back for 40 years. The servers the search giant is buying are depreciated over about six years.",
+    "published_at": "2026-08-15T05:23:00+08:00",
+    "stocks": [],
+    "uid": "0f2ee9734b614088dddeff1e21977d1e",
+    "title_en": "Alphabet Just Borrowed $25 Billion, and $2.5 Billion of It Isn't Due Until 2066",
+    "summary_en": "Some of this money doesn't have to be paid back for 40 years. The servers the search giant is buying are depreciated over about six years.",
+    "title_zh": "Alphabet 剛剛借了 250 億美元，其中 25 億美元要到 2066 年才到期",
+    "summary_zh": "其中一些錢 40 年內都不需要償還。這家搜尋巨頭購買的伺服器在大約六年內就會折舊。"
   },
   {
     "title": "Park Aerospace board chairman & CEO Shore sells $3.05m in stock",
@@ -234,6 +468,19 @@
     "summary_zh": "OCC 有條件批准了世界自由信託公司的國家信託銀行章程。這將允許川普家族支持的公司發行穩定幣。"
   },
   {
+    "title": "Stock Market Today, Aug. 14: Rally Stalls on Disappointing Consumer Data, Broadcom Falls 6%",
+    "url": "https://www.fool.com/coverage/stock-market-today/2026/08/14/stock-market-today-aug-14-stocks-slip-as-consumer-data-disappoints-broadcom-falls-6/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "On Aug. 14, 2026, disappointing retail spending and consumer confidence data pulled markets back from record highs, with chipmakers leading declines.",
+    "published_at": "2026-08-15T05:10:18+08:00",
+    "stocks": [],
+    "uid": "1600ed42708dc1c1d92f03d83dbb0eae",
+    "title_en": "Stock Market Today, Aug. 14: Rally Stalls on Disappointing Consumer Data, Broadcom Falls 6%",
+    "summary_en": "On Aug. 14, 2026, disappointing retail spending and consumer confidence data pulled markets back from record highs, with chipmakers leading declines.",
+    "title_zh": "今日股市，8 月 14 日：消費者數據令人失望，漲勢停滯，博通下跌 6%",
+    "summary_zh": "2026 年 8 月 14 日，令人失望的零售支出和消費者信心數據將市場從歷史高點拉回，其中晶片製造商領跌。"
+  },
+  {
     "title": "Earnings call transcript: Corvex misses Q2 2026 estimates as stock turns lower",
     "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-corvex-misses-q2-2026-estimates-as-stock-turns-lower-93CH-4861526",
     "source": "Investing.com",
@@ -310,6 +557,45 @@
     "summary_en": "",
     "title_zh": "Covenant Logistics 修改高階主管遣散協議以增加退休福利",
     "summary_zh": ""
+  },
+  {
+    "title": "Stock Market Today, Aug. 14: Tesla Gains on TD Cowen Buy Reiteration and $460 Target",
+    "url": "https://www.fool.com/coverage/stock-market-today/2026/08/14/stock-market-today-aug-14-tesla-gains-on-td-cowen-buy-reiteration-and-460-target/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "On Aug. 14, 2026, analyst support helped the stock climb, adding to a two-week rally.",
+    "published_at": "2026-08-15T04:56:47+08:00",
+    "stocks": [],
+    "uid": "83aa4516e9a1f8cf17887a3ab4a77170",
+    "title_en": "Stock Market Today, Aug. 14: Tesla Gains on TD Cowen Buy Reiteration and $460 Target",
+    "summary_en": "On Aug. 14, 2026, analyst support helped the stock climb, adding to a two-week rally.",
+    "title_zh": "今日股市，8 月 14 日：特斯拉因 TD Cowen 重申買入和 460 美元目標而上漲",
+    "summary_zh": "2026 年 8 月 14 日，分析師的支持幫助該股上漲，延續了兩週的漲勢。"
+  },
+  {
+    "title": "BigBear.ai vs. Texas Instruments: Which Technology Stock Is a Better Buy in 2026?",
+    "url": "https://www.fool.com/coverage/better-buy/2026/08/14/bigbearai-vs-texas-instruments-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "One company is generating substantial free cash flow and returning billions to shareholders. The other is still working toward its first profitable year. The risk profiles could not be more different.",
+    "published_at": "2026-08-15T04:46:50+08:00",
+    "stocks": [],
+    "uid": "4cfbd355dbe463b2cdc2581e67d2596e",
+    "title_en": "BigBear.ai vs. Texas Instruments: Which Technology Stock Is a Better Buy in 2026?",
+    "summary_en": "One company is generating substantial free cash flow and returning billions to shareholders. The other is still working toward its first profitable year. The risk profiles could not be more different.",
+    "title_zh": "BigBear.ai 與德州儀器 (TI)：2026 年哪一檔科技股更值得買進？",
+    "summary_zh": "一家公司正在產生大量自由現金流，並向股東返還數十億美元。另一個仍在努力實現第一個盈利年。風險狀況截然不同。"
+  },
+  {
+    "title": "AppLovin vs. SoundHound AI: Comparing Recent Revenue Growth Trajectories for These Tech Companies",
+    "url": "https://www.fool.com/coverage/charts/2026/08/14/applovin-vs-soundhound-ai-comparing-recent-revenue-growth-trajectories-for-these-tech-companies/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "AppLovin commands a 30-fold revenue advantage, yet SoundHound's growth rate tells a different story about which trajectory matters more.",
+    "published_at": "2026-08-15T04:38:53+08:00",
+    "stocks": [],
+    "uid": "6277b99ca6ae9e66493e16db59b84e5d",
+    "title_en": "AppLovin vs. SoundHound AI: Comparing Recent Revenue Growth Trajectories for These Tech Companies",
+    "summary_en": "AppLovin commands a 30-fold revenue advantage, yet SoundHound's growth rate tells a different story about which trajectory matters more.",
+    "title_zh": "AppLovin 與 SoundHound AI：比較這些科技公司近期的營收成長軌跡",
+    "summary_zh": "AppLovin 擁有 30 倍的收入優勢，但 SoundHound 的成長率卻講述了不同的故事，即哪種軌跡更重要。"
   },
   {
     "title": "Diana Shipping Inc. Withdraws Offer to Acquire Genco Shipping & Trading Following Genco Board's Outrageous Demands",
@@ -444,6 +730,19 @@
     "summary_zh": "<link type=\"text/css\" rel=\"stylesheet\" href=\"https://www.globenewswire.com/styles/gnw_nitf.css\" /><palign=\"center\"><em>患者對 Vivos 一系列差異化的 OSA 差異化治療的需求穩步增長，這一季度的亮點是<br /> 5:00 召開電話會議</em><p..."
   },
   {
+    "title": "CrowdStrike vs. IonQ: Which Technology Stock Is a Better Buy in 2026?",
+    "url": "https://www.fool.com/coverage/better-buy/2026/08/14/crowdstrike-vs-ionq-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "One company is a profitable, growing leader in cybersecurity. The other is an early-stage quantum computing bet with enormous long-term potential but a long road ahead.",
+    "published_at": "2026-08-15T04:23:20+08:00",
+    "stocks": [],
+    "uid": "3b5da5e68b33fb1d030aa1d857462e96",
+    "title_en": "CrowdStrike vs. IonQ: Which Technology Stock Is a Better Buy in 2026?",
+    "summary_en": "One company is a profitable, growing leader in cybersecurity. The other is an early-stage quantum computing bet with enormous long-term potential but a long road ahead.",
+    "title_zh": "CrowdStrike 與 IonQ：2026 年哪一種科技股比較值得買進？",
+    "summary_zh": "有一家公司是網路安全領域獲利能力強、不斷成長的領導者。另一個是早期的量子計算賭注，具有巨大的長期潛力，但前面的路還很長。"
+  },
+  {
     "title": "Goldman’s latest cash cow is all about funding the AI infrastructure boom",
     "url": "https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html",
     "source": "CNBC Finance",
@@ -561,6 +860,19 @@
     "summary_zh": ""
   },
   {
+    "title": "Arista Networks vs. AppLovin: Which Technology Stock Is a Better Buy in 2026?",
+    "url": "https://www.fool.com/coverage/better-buy/2026/08/14/arista-networks-vs-applovin-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Arista commands networking with zero debt and 39% margins, while AppLovin's AI platform grew 70% with a lower valuation, but each carries distinct risks.",
+    "published_at": "2026-08-15T03:56:44+08:00",
+    "stocks": [],
+    "uid": "1ba2657a4fb6fae44a366ccdc47fc901",
+    "title_en": "Arista Networks vs. AppLovin: Which Technology Stock Is a Better Buy in 2026?",
+    "summary_en": "Arista commands networking with zero debt and 39% margins, while AppLovin's AI platform grew 70% with a lower valuation, but each carries distinct risks.",
+    "title_zh": "Arista Networks 與 AppLovin：2026 年哪一檔科技股更值得買進？",
+    "summary_zh": "Arista 以零債務和 39% 的利潤率控製網絡，而 AppLovin 的人工智慧平台則以較低的估值增長了 70%，但每個平台都面臨著不同的風險。"
+  },
+  {
     "title": "Paramount clears regulatory hurdles for Warner Bros. Discovery deal",
     "url": "https://www.investing.com/news/company-news/paramount-clears-regulatory-hurdles-for-warner-bros-discovery-deal-93CH-4861449",
     "source": "Investing.com",
@@ -600,6 +912,19 @@
     "summary_zh": ""
   },
   {
+    "title": "Advance Auto Parts vs. Joby Aviation: Which Stock Is a Better Buy in 2026?",
+    "url": "https://www.fool.com/coverage/better-buy/2026/08/14/advance-auto-parts-vs-joby-aviation-which-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "One operates a restructuring retail network with negative free cash flow; the other burns cash on pre-revenue aviation tech backed by Toyota and Delta.",
+    "published_at": "2026-08-15T03:38:20+08:00",
+    "stocks": [],
+    "uid": "d5831fa95c1f0a74b419ce4313762aab",
+    "title_en": "Advance Auto Parts vs. Joby Aviation: Which Stock Is a Better Buy in 2026?",
+    "summary_en": "One operates a restructuring retail network with negative free cash flow; the other burns cash on pre-revenue aviation tech backed by Toyota and Delta.",
+    "title_zh": "Advance Auto Parts 與 Joby Aviation：2026 哪一支股票更值得買進？",
+    "summary_zh": "其一經營重整零售網絡，自由現金流為負；另一個則在豐田和達美航空支持的未獲利航空技術上燒錢。"
+  },
+  {
     "title": "Hiroshi Okuda, Disrupter Who Revived Toyota in the 1990s, Dies at 93",
     "url": "https://www.nytimes.com/2026/08/14/automobiles/hiroshi-okuda-dead.html",
     "source": "NYT Business",
@@ -611,6 +936,15 @@
     "summary_en": "As the car company’s president, he made decisions quickly and shook things up, expanding overseas manufacturing and introducing the Prius, a milestone in automotive history.",
     "title_zh": "1990 年代 1990 年代復興豐田的顛覆者奧田浩去世，享年 93 歲",
     "summary_zh": "身為汽車公司的總裁，他迅速做出決策並進行改革，擴大海外製造並推出了汽車歷史上里程碑式的普銳斯。"
+  },
+  {
+    "title": "AbbVie vs. Bristol-Myers Squibb: Which Healthcare Stock Is a Better Buy in 2026?",
+    "url": "https://www.fool.com/coverage/better-buy/2026/08/14/abbvie-vs-bristol-myers-squibb-which-healthcare-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Bristol-Myers Squibb trades at less than half the valuation multiple of AbbVie, but AbbVie's revenue growth tells a different story about future earnings power.",
+    "published_at": "2026-08-15T03:26:29+08:00",
+    "stocks": [],
+    "uid": "f6eef94ee6ac4ba87a3161e27c8a31d0"
   },
   {
     "title": "Regulators and banks step up scrutiny of prediction markets",
@@ -10450,6 +10784,17 @@
     "summary_zh": ""
   },
   {
+    "title": "WeRide (WRD) Wants The World, But Can It Turn A Profit?",
+    "url": "https://finance.yahoo.com/technology/ai/articles/weride-wrd-wants-world-turn-162940849.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-14T00:29:40+08:00",
+    "stocks": [
+      "WRD"
+    ],
+    "uid": "34afd77b98a09ffef3095a420e6fa9c7"
+  },
+  {
     "title": "Lam Research, Applied Materials, and Camtek Rise After SanDisk Issues Bullish Financial Targets",
     "url": "https://finance.yahoo.com/markets/stocks/articles/lam-research-applied-materials-camtek-162913705.html",
     "source": "Yahoo Finance",
@@ -10461,6 +10806,15 @@
     "summary_en": "",
     "title_zh": "SanDisk 發布看漲財務目標後，泛林研究 (Lam Research)、應用材料 (Applied Materials) 和 Camtek 股價上漲",
     "summary_zh": ""
+  },
+  {
+    "title": "Retail Stock Almost Touches Buy Point As Analyst Upgrades, Citing Big Transformation",
+    "url": "https://www.investors.com/news/five-below-upgrade-retail-stock/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-14T00:27:43+08:00",
+    "stocks": [],
+    "uid": "e294761bd9d5c50400a9843415d9d010"
   },
   {
     "title": "Here's Why I'm Not Buying SpaceX Stock Quite Yet",
@@ -10628,6 +10982,15 @@
     "summary_zh": ""
   },
   {
+    "title": "Swissquote Gets Mugged by Crypto Winter",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/swissquote-gets-mugged-crypto-winter-162003960.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-14T00:20:03+08:00",
+    "stocks": [],
+    "uid": "f943f6da509987a2dee55e2a604f87fb"
+  },
+  {
     "title": "How To Give A Bull Wings While Trading This Hot Energy Stock",
     "url": "https://www.investors.com/research/options/valero-energy-vlo-stock-bullish-butterfly-spread-options/?src=A00220&yptr=yahoo",
     "source": "Yahoo Finance",
@@ -10639,6 +11002,15 @@
     "summary_en": "",
     "title_zh": "如何在交易這種熱門能源股時為牛市插上翅膀",
     "summary_zh": ""
+  },
+  {
+    "title": "Acertus expands with Fisher Shipping acquisition",
+    "url": "https://finance.yahoo.com/small-business/articles/acertus-expands-fisher-shipping-acquisition-161813336.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-14T00:18:13+08:00",
+    "stocks": [],
+    "uid": "7e8f748ff863fe1a0b3db2404c0619c9"
   },
   {
     "title": "Tapestry Triggers Sell Signal Despite Strong Earnings. Here's Why.",
@@ -10667,6 +11039,60 @@
     "summary_zh": ""
   },
   {
+    "title": "Light Science Technologies reports transformational H1 as acquisitions reshape group",
+    "url": "https://finance.yahoo.com/video/light-science-technologies-reports-transformational-160722275.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-14T00:07:22+08:00",
+    "stocks": [],
+    "uid": "d94bcc2b408cf57d4c8ec750547fd3b0"
+  },
+  {
+    "title": "Bill Ackman Invests in Netflix and Visa in a Tough Year for His Pershing Square Funds",
+    "url": "https://www.barrons.com/articles/bill-ackman-pershing-square-funds-stocks-7c7318b3?siteid=yhoof2&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-14T00:07:00+08:00",
+    "stocks": [],
+    "uid": "3d02b52ff0f8249cadcb66f64aa65d1c"
+  },
+  {
+    "title": "Sandisk Unveils Multi-Year Financial Model and Growth Strategy, Memory Stocks Soar",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-unveils-multi-financial-model-160641231.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-14T00:06:41+08:00",
+    "stocks": [],
+    "uid": "58570c38450ddcdd0e65bea6a735c772"
+  },
+  {
+    "title": "50% of Retail Investors Copy Famous Traders. Here’s Why That’s a Terrible Strategy",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/50-retail-investors-copy-famous-160543437.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-14T00:05:43+08:00",
+    "stocks": [],
+    "uid": "e47a8e5440edfa875be731bd9dc3fb64"
+  },
+  {
+    "title": "Crude Prices Undercut as Persian Gulf Tensions Ease Slightly",
+    "url": "https://finance.yahoo.com/energy/articles/crude-prices-undercut-persian-gulf-160516645.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-14T00:05:16+08:00",
+    "stocks": [],
+    "uid": "9443037d9f091595aad7248cd2bde185"
+  },
+  {
+    "title": "Fermi Q2 Earnings Call Highlights",
+    "url": "https://finance.yahoo.com/energy/articles/fermi-q2-earnings-call-highlights-160441940.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-14T00:04:41+08:00",
+    "stocks": [],
+    "uid": "fd0e42b071c16bc98fcd57ffa0c324a5"
+  },
+  {
     "title": "AMD looks to raise $4 billion to $5 billion in debt offering, source says",
     "url": "https://finance.yahoo.com/markets/stocks/articles/amd-looks-raise-4-billion-160009191.html",
     "source": "Yahoo Finance",
@@ -10691,6 +11117,15 @@
     "summary_en": "",
     "title_zh": "邁克爾·伯里 (Michael Burry) 在 500B 美元晶片交易後不久就加大了對 Nvidia 的投資，他稱這是帶有“安然陰影”的“華爾街噱頭”",
     "summary_zh": ""
+  },
+  {
+    "title": "This Cloud Giant Plans New Layoffs to Cover Surging AI Data Center Bill. What That Means for Investors Now.",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cloud-giant-plans-layoffs-cover-155230594.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-13T23:52:30+08:00",
+    "stocks": [],
+    "uid": "7ed5a05ad0eb90a26d28a9d8b53866f7"
   },
   {
     "title": "Cisco Earnings Beat, But Shares Are Tumbling. Here's Why.",
@@ -10749,6 +11184,15 @@
     "summary_zh": ""
   },
   {
+    "title": "Stocks See Support from Favorable PPI Report",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-see-support-favorable-ppi-154521894.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-13T23:45:21+08:00",
+    "stocks": [],
+    "uid": "df216be91011c638b639d870edebe3be"
+  },
+  {
     "title": "Knight-Swift Transportation Holdings (KNX) Gains from Pricing Power",
     "url": "https://finance.yahoo.com/markets/stocks/articles/knight-swift-transportation-holdings-knx-154449690.html",
     "source": "Yahoo Finance",
@@ -10790,6 +11234,15 @@
     "summary_zh": ""
   },
   {
+    "title": "Sherwin-Williams Stock Outlook: Is Wall Street Bullish or Bearish?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/sherwin-williams-stock-outlook-wall-154328427.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-13T23:43:28+08:00",
+    "stocks": [],
+    "uid": "15957652efbe77e1ba6ac0d23eecc3d7"
+  },
+  {
     "title": "Earnings call transcript: Onex lifts Convex, buybacks in Q2 2026",
     "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-onex-lifts-convex-buybacks-in-q2-2026-93CH-4858705",
     "source": "Investing.com",
@@ -10814,6 +11267,15 @@
     "summary_en": "",
     "title_zh": "財報電話會議記錄：2026 年第二季生產低谷後，Epsilon 下跌 8%",
     "summary_zh": ""
+  },
+  {
+    "title": "After Ondas Reports Mixed Earnings, Here's What Barchart Data Says Comes Next for ONDS Stock",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ondas-reports-mixed-earnings-heres-154224608.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-13T23:42:24+08:00",
+    "stocks": [],
+    "uid": "12e82b229fd8b52af398814eb602e9fc"
   },
   {
     "title": "Sunshine Silver Q2 2026 slides: post-IPO development accelerates",
