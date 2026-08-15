@@ -1,5 +1,227 @@
 [
   {
+    "title": "Host Hotels (HST) Just Raised Its Outlook. Can Luxury Travel Keep Delivering?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/host-hotels-hst-just-raised-215502105.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-16T05:55:02+08:00",
+    "stocks": [
+      "HST"
+    ],
+    "uid": "adc9450ba2d2e6fb845c99c8a2320b91"
+  },
+  {
+    "title": "Palantir Makes Its Case Against Frontier AI",
+    "url": "https://finance.yahoo.com/technology/ai/articles/palantir-makes-case-against-frontier-215019978.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-16T05:50:19+08:00",
+    "stocks": [],
+    "uid": "a3237e546149aa6a34d2832d05fc4ee8",
+    "title_en": "Palantir Makes Its Case Against Frontier AI",
+    "summary_en": "",
+    "title_zh": "Palantir 反對 Frontier AI",
+    "summary_zh": ""
+  },
+  {
+    "title": "Jim Cramer Revealed What Went Wrong With Honeywell Aerospace Inc. (NASDAQ:HONA)",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-revealed-went-wrong-213604620.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-16T05:36:04+08:00",
+    "stocks": [],
+    "uid": "2d55c7a50f76a03d95fafd252f641475",
+    "title_en": "Jim Cramer Revealed What Went Wrong With Honeywell Aerospace Inc. (NASDAQ:HONA)",
+    "summary_en": "",
+    "title_zh": "吉姆·克萊默 (Jim Cramer) 揭露霍尼韋爾航空航天公司 (納斯達克股票代碼：HONA) 的問題所在",
+    "summary_zh": ""
+  },
+  {
+    "title": "Jim Cramer Said Domino’s Was Better Than Papa John’s International, Inc. (NASDAQ:PZZA) – But Is He Right?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-domino-better-213509638.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-16T05:35:09+08:00",
+    "stocks": [],
+    "uid": "ed1c66a80013dd2eb2f7c30a272b508b",
+    "title_en": "Jim Cramer Said Domino’s Was Better Than Papa John’s International, Inc. (NASDAQ:PZZA) – But Is He Right?",
+    "summary_en": "",
+    "title_zh": "吉姆·克萊默 (Jim Cramer) 表示達美樂 (Domino) 比棒約翰國際 (納斯達克股票代碼：PZZA) 更好 – 但他是對的嗎？",
+    "summary_zh": ""
+  },
+  {
+    "title": "SpaceX Is Poised to Hit $220 by June 2027 (Hint: It's Not Too Late to Buy In)",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-poised-hit-220-june-213500558.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-16T05:35:00+08:00",
+    "stocks": [],
+    "uid": "417fc50293e809b3a7e2fb87cb3f7dc7",
+    "title_en": "SpaceX Is Poised to Hit $220 by June 2027 (Hint: It's Not Too Late to Buy In)",
+    "summary_en": "",
+    "title_zh": "SpaceX 預計到 2027 年 6 月將達到 220 美元（提示：現在買入還不算太晚）",
+    "summary_zh": ""
+  },
+  {
+    "title": "Diageo (DEO) Vs Constellation (STZ): Hedge Funds Appear To Mirror Jim Cramer’s Sentiment",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/diageo-deo-vs-constellation-stz-213214804.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-16T05:32:14+08:00",
+    "stocks": [
+      "DEO",
+      "STZ"
+    ],
+    "uid": "b98c1852feabdbba9b55ba87a2281b7f",
+    "title_en": "Diageo (DEO) Vs Constellation (STZ): Hedge Funds Appear To Mirror Jim Cramer’s Sentiment",
+    "summary_en": "",
+    "title_zh": "帝亞吉歐 (DEO) 與星座 (STZ)：對沖基金似乎反映了吉姆·克萊默 (Jim Cramer) 的情緒",
+    "summary_zh": ""
+  },
+  {
+    "title": "Jim Cramer Continued To Keep The Faith In Ralph Lauren Corporation (NYSE:RL) CEO",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-continued-keep-faith-213135510.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-16T05:31:35+08:00",
+    "stocks": [],
+    "uid": "ee5a5bdd384d20a12ebd6019667b1bb8",
+    "title_en": "Jim Cramer Continued To Keep The Faith In Ralph Lauren Corporation (NYSE:RL) CEO",
+    "summary_en": "",
+    "title_zh": "吉姆·克萊默 (Jim Cramer) 繼續保持對拉爾夫·勞倫公司 (Ralph Lauren Corporation)（NYSE：RL）首席執行官的信心",
+    "summary_zh": ""
+  },
+  {
+    "title": "Jim Cramer Was Worried About Potential Impact On Salesforce Inc. (NYSE:CRM)’s Dreamforce Conference",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-worried-potential-impact-213039883.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-16T05:30:39+08:00",
+    "stocks": [],
+    "uid": "39ca682ca9419b387a5b244ece879fcd",
+    "title_en": "Jim Cramer Was Worried About Potential Impact On Salesforce Inc. (NYSE:CRM)’s Dreamforce Conference",
+    "summary_en": "",
+    "title_zh": "Jim Cramer 擔心 Salesforce Inc.（NYSE：CRM）的 Dreamforce 會議可能受到影響",
+    "summary_zh": ""
+  },
+  {
+    "title": "This ETF Got You Into SpaceX Before the IPO. Now That Anyone Can Buy the Stock, What’s It For?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/etf-got-spacex-ipo-now-213034388.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-16T05:30:34+08:00",
+    "stocks": [],
+    "uid": "4b63bf69dd4083ae4200b59b8c491df9",
+    "title_en": "This ETF Got You Into SpaceX Before the IPO. Now That Anyone Can Buy the Stock, What’s It For?",
+    "summary_en": "",
+    "title_zh": "這檔 ETF 讓您在 IPO 之前進入 SpaceX。現在任何人都可以買股票，它有什麼用？",
+    "summary_zh": ""
+  },
+  {
+    "title": "Palantir Makes Its Case Against Frontier AI",
+    "url": "https://www.fool.com/investing/2026/08/15/palantir-makes-its-case-against-frontier-ai/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "CEO Alex Karp made the case that Palantir’s offerings posed fewer risks than the AI models other coming out today.",
+    "published_at": "2026-08-16T05:30:19+08:00",
+    "stocks": [],
+    "uid": "ec23cac0008db585ff658cc19d27eb7a",
+    "title_en": "Palantir Makes Its Case Against Frontier AI",
+    "summary_en": "CEO Alex Karp made the case that Palantir’s offerings posed fewer risks than the AI models other coming out today.",
+    "title_zh": "Palantir 反對 Frontier AI",
+    "summary_zh": "執行長 Alex Karp 表示，Palantir 的產品比當今推出的其他人工智慧模式帶來的風險要小。"
+  },
+  {
+    "title": "Jim Cramer Didn’t Think Figma, Inc. (NYSE:FIG) Was Treated The Way It Should Have Been",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-didn-t-think-213003428.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-16T05:30:03+08:00",
+    "stocks": [],
+    "uid": "bb49c28bf63704d9e3c72332850a741f",
+    "title_en": "Jim Cramer Didn’t Think Figma, Inc. (NYSE:FIG) Was Treated The Way It Should Have Been",
+    "summary_en": "",
+    "title_zh": "Jim Cramer 認為 Figma, Inc.（NYSE：FIG）沒有得到應有的待遇",
+    "summary_zh": ""
+  },
+  {
+    "title": "Jim Cramer Said DoorDash, Inc. (NASDAQ:DASH) Was Shorted On Uber Which Was A Bad Trade",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-doordash-inc-212910159.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-16T05:29:10+08:00",
+    "stocks": [],
+    "uid": "77f4a7c3c4c527685a9812be6d9efc4b",
+    "title_en": "Jim Cramer Said DoorDash, Inc. (NASDAQ:DASH) Was Shorted On Uber Which Was A Bad Trade",
+    "summary_en": "",
+    "title_zh": "Jim Cramer 表示 DoorDash, Inc.（納斯達克股票代碼：DASH）被 Uber 做空，這是一筆糟糕的交易",
+    "summary_zh": ""
+  },
+  {
+    "title": "Jim Cramer Was Happy The Market “Cared” About D-Wave Quantum – But Not How You Think",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-happy-market-cared-212804288.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-16T05:28:04+08:00",
+    "stocks": [],
+    "uid": "9755ac32b7cf9fc9eba964f6bb9773b9",
+    "title_en": "Jim Cramer Was Happy The Market “Cared” About D-Wave Quantum – But Not How You Think",
+    "summary_en": "",
+    "title_zh": "Jim Cramer 很高興市場「關心」D-Wave Quantum – 但不是你想像的那樣",
+    "summary_zh": ""
+  },
+  {
+    "title": "SpaceX Is Poised to Hit $220 by June 2027 (Hint: It's Not Too Late to Buy In)",
+    "url": "https://www.fool.com/investing/2026/08/15/spacex-is-poised-to-hit-220-by-june-2027-hint-its/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Space Exploration Technologies' outlook for rising revenues could give the stock plenty of room to run even if the market doesn't give it a richer valuation multiple.",
+    "published_at": "2026-08-16T05:15:00+08:00",
+    "stocks": [],
+    "uid": "ab608e49f23c4f67df7652fc297f833f",
+    "title_en": "SpaceX Is Poised to Hit $220 by June 2027 (Hint: It's Not Too Late to Buy In)",
+    "summary_en": "Space Exploration Technologies' outlook for rising revenues could give the stock plenty of room to run even if the market doesn't give it a richer valuation multiple.",
+    "title_zh": "SpaceX 預計到 2027 年 6 月將達到 220 美元（提示：現在買入還不算太晚）",
+    "summary_zh": "即使市場沒有給予太空探索技術公司更高的估值倍數，太空探索科技公司營收成長的前景也可能會為該股帶來足夠的上漲空間。"
+  },
+  {
+    "title": "Why Nvidia’s $500bn investment mobilization is a positive for the stock",
+    "url": "https://www.investing.com/news/stock-market-news/why-nvidias-500bn-investment-mobilization-is-a-positive-for-the-stock-4861855",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-16T05:07:11+08:00",
+    "stocks": [],
+    "uid": "f80c9fec76008d2778aebe04b7478bb0",
+    "title_en": "Why Nvidia’s $500bn investment mobilization is a positive for the stock",
+    "summary_en": "",
+    "title_zh": "為什麼英偉達 5000 億美元的投資動員對該股有利",
+    "summary_zh": ""
+  },
+  {
+    "title": "Retiring Abroad? You May Not Be Able to Get Social Security Checks in These 9 Countries",
+    "url": "https://www.fool.com/retirement/2026/08/15/retiring-abroad-you-may-not-be-able-to-get-social/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This could seriously derail your budget if you're not prepared.",
+    "published_at": "2026-08-16T05:00:00+08:00",
+    "stocks": [],
+    "uid": "97ed7e1946fdacdc12a9ed4e1f1bb5d8",
+    "title_en": "Retiring Abroad? You May Not Be Able to Get Social Security Checks in These 9 Countries",
+    "summary_en": "This could seriously derail your budget if you're not prepared.",
+    "title_zh": "出國退休？您可能無法在這 9 個國家/地區獲得社會安全支票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Which Broad Market ETF Wins for Your Portfolio, the iShares ITOT or Schwab's SCHB?",
+    "url": "https://www.fool.com/coverage/etfs/2026/08/15/which-broad-market-etf-wins-for-your-portfolio-the-ishares-itot-or-schwab-s-schb/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Both funds track nearly identical U.S. stock market exposure with matching 0.03% fees and 1% yields.",
+    "published_at": "2026-08-16T04:45:40+08:00",
+    "stocks": [],
+    "uid": "a9ed7a926fbbc6b493a0de75ba6bcd1e",
+    "title_en": "Which Broad Market ETF Wins for Your Portfolio, the iShares ITOT or Schwab's SCHB?",
+    "summary_en": "Both funds track nearly identical U.S. stock market exposure with matching 0.03% fees and 1% yields.",
+    "title_zh": "iShares ITOT 還是 Schwab 的 SCHB 哪個廣泛市場 ETF 更適合您的投資組合？",
+    "summary_zh": ""
+  },
+  {
     "title": "Why Has Cintas Stock Slipped Despite Record Margins? What to Know Amid a Founder's Vesting",
     "url": "https://finance.yahoo.com/markets/stocks/articles/why-cintas-stock-slipped-despite-203302385.html",
     "source": "Yahoo Finance",
@@ -32,7 +254,11 @@
     "summary": "",
     "published_at": "2026-08-16T04:31:23+08:00",
     "stocks": [],
-    "uid": "c66ac840584383903410597983b5e877"
+    "uid": "c66ac840584383903410597983b5e877",
+    "title_en": "My two apps made $30M",
+    "summary_en": "",
+    "title_zh": "我的兩個應用程式賺了 3000 萬美元",
+    "summary_zh": ""
   },
   {
     "title": "Atmos Energy director William Ware buys $50,278 in company stock",
@@ -102,6 +328,19 @@
     "summary_zh": ""
   },
   {
+    "title": "Why Has Cintas Stock Slipped Despite Record Margins? What to Know Amid a Founder's Vesting",
+    "url": "https://www.fool.com/coverage/filings/2026/08/15/why-has-cintas-stock-slipped-despite-record-margins-what-to-know-amid-a-founder-s-vesting/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Farmer disposed of shares valued at $3.2 million following a vesting event, maintaining over 56 million indirect holdings.",
+    "published_at": "2026-08-16T04:13:02+08:00",
+    "stocks": [],
+    "uid": "5f4f630ae9bec40ff93f97875fcaaf5a",
+    "title_en": "Why Has Cintas Stock Slipped Despite Record Margins? What to Know Amid a Founder's Vesting",
+    "summary_en": "Farmer disposed of shares valued at $3.2 million following a vesting event, maintaining over 56 million indirect holdings.",
+    "title_zh": "儘管利潤率創歷史新高，為何 Cintas 股價仍下跌？在創始人的歸屬中需要了解什麼",
+    "summary_zh": "法默在歸屬事件後處置了價值 320 萬美元的股票，間接持有超過 5,600 萬股。"
+  },
+  {
     "title": "Anthropic says its AI agents are killing rivals and hiding their tracks",
     "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
     "source": "Business Insider",
@@ -152,6 +391,19 @@
     "summary_en": "",
     "title_zh": "Kestra Medical Technologies 執行長 Brian Webster 出售價值 692,214 美元的股票",
     "summary_zh": ""
+  },
+  {
+    "title": "What a Cintas CEO Insider Filing Signals as It Pursues UniFirst",
+    "url": "https://www.fool.com/coverage/filings/2026/08/15/cintas-ceo-todd-schneider-sells-35599-shares-for-72-million/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "These shares were withheld to cover tax obligations from restricted stock vesting. Schneider retains 694,900 shares worth $140.9 million.",
+    "published_at": "2026-08-16T04:01:20+08:00",
+    "stocks": [],
+    "uid": "2e0224ec143dc62a9c8294cb70ab672b",
+    "title_en": "What a Cintas CEO Insider Filing Signals as It Pursues UniFirst",
+    "summary_en": "These shares were withheld to cover tax obligations from restricted stock vesting. Schneider retains 694,900 shares worth $140.9 million.",
+    "title_zh": "Cintas 執行長內部文件顯示其追求 UniFirst 的訊號",
+    "summary_zh": "這些股票被扣留以支付限制性股票歸屬的稅務義務。施耐德保留 694,900 股，價值 1.409 億美元。"
   },
   {
     "title": "Equinix director Christopher Paisley sells $4.08m in EQIX stock",
@@ -405,7 +657,11 @@
     "stocks": [
       "NPHC"
     ],
-    "uid": "aa01ce9dad9e40d20c77d34283ad3ed2"
+    "uid": "aa01ce9dad9e40d20c77d34283ad3ed2",
+    "title_en": "The King Center and Divine Nine Launch Historic Fundraising Campaign to Preserve Critical History and Amplify Nonviolence365® Ahead of King100",
+    "summary_en": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;justify&quot;&gt;Atlanta, GA., Aug.  15, 2026  (GLOBE NEWSWIRE) -- The Martin Luther King, Jr. Center for Nonviolent Social Change, in partnership with the National Pan-Hellenic Council (NPHC), announced #D9StrongerTogether, a unified fundraising...",
+    "title_zh": "國王中心和神聖九號在 King100 之前發起歷史性籌款活動，以保護重要歷史並擴大非暴力365®",
+    "summary_zh": "<link type=\"text/css\" rel=\"stylesheet\" href=\"https://www.globenewswire.com/styles/gnw_nitf.css\" /><palign=\"justify\">喬治亞州亞特蘭大，2026 年 8 月 15 日（環球通訊社）—馬丁路德漢‧金州亞特蘭大，2026 年 8 月 15 日（環球通訊社）—馬丁‧路德‧馬恩國非暴力社會變革中心一同聯盟，"
   },
   {
     "title": "The AI Problem at Law Firms Isn't Hallucination. It's Honesty.",
@@ -1164,6 +1420,19 @@
     "summary_zh": ""
   },
   {
+    "title": "Nvidia Is Turning Its Massive Cash Flow Into Another AI Growth Engine",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-turning-massive-cash-flow-154502275.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-15T23:45:02+08:00",
+    "stocks": [],
+    "uid": "2de5f0042a828bd0d66cbfb1bdb290d8",
+    "title_en": "Nvidia Is Turning Its Massive Cash Flow Into Another AI Growth Engine",
+    "summary_en": "",
+    "title_zh": "英偉達正在將其巨額現金流轉變為另一個人工智慧成長引擎",
+    "summary_zh": ""
+  },
+  {
     "title": "Bill Gates’ Portfolio Just Added Home Depot (HD) Despite Risks. Time to Buy?",
     "url": "https://finance.yahoo.com/markets/stocks/articles/bill-gates-portfolio-just-added-154023511.html",
     "source": "Yahoo Finance",
@@ -1228,6 +1497,19 @@
     "title_en": "Twilio director Erika Rottenberg sells $881k in stock",
     "summary_en": "",
     "title_zh": "Twilio 董事 Erika Rottenberg 出售價值 88.1 萬美元的股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Alphabet Stock to $515: 3 Reasons the Bull Case Is Getting Stronger",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stock-515-3-reasons-153002451.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-15T23:30:02+08:00",
+    "stocks": [],
+    "uid": "42a63a327e15e692654373b82cbd75ba",
+    "title_en": "Alphabet Stock to $515: 3 Reasons the Bull Case Is Getting Stronger",
+    "summary_en": "",
+    "title_zh": "Alphabet 股價升至 515 美元：看漲理由越來越強的 3 個原因",
     "summary_zh": ""
   },
   {
@@ -10634,7 +10916,11 @@
     "stocks": [
       "WM"
     ],
-    "uid": "ff737cfd8e2396ad4bf0a7ffdd527ef8"
+    "uid": "ff737cfd8e2396ad4bf0a7ffdd527ef8",
+    "title_en": "Waste Management (WM) Fell Behind the Rally. Is It an Opportunity?",
+    "summary_en": "",
+    "title_zh": "废物管理（WM）落后于涨势。這是一個機會嗎？",
+    "summary_zh": ""
   },
   {
     "title": "Is Wall Street Bullish or Bearish on Lowe's Stock?",
@@ -10643,7 +10929,11 @@
     "summary": "",
     "published_at": "2026-08-14T18:24:28+08:00",
     "stocks": [],
-    "uid": "dd3e3118af2163a0b394dc5337caba4a"
+    "uid": "dd3e3118af2163a0b394dc5337caba4a",
+    "title_en": "Is Wall Street Bullish or Bearish on Lowe's Stock?",
+    "summary_en": "",
+    "title_zh": "華爾街對勞氏股票看漲還是看跌？",
+    "summary_zh": ""
   },
   {
     "title": "Did Regulators Just Create a Headwind for Intercontinental Exchange (ICE) Stock?",
@@ -10654,7 +10944,11 @@
     "stocks": [
       "ICE"
     ],
-    "uid": "6beea087742a7057835be7871cc5faf2"
+    "uid": "6beea087742a7057835be7871cc5faf2",
+    "title_en": "Did Regulators Just Create a Headwind for Intercontinental Exchange (ICE) Stock?",
+    "summary_en": "",
+    "title_zh": "監管機構是否剛剛為洲際交易所（ICE）股票製造了阻力？",
+    "summary_zh": ""
   },
   {
     "title": "Why Investors Are Taking a Fresh Look at DoorDash (DASH)",
