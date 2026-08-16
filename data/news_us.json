@@ -1,5 +1,44 @@
 [
   {
+    "title": "Can SpaceX Leap to the AI Frontier?",
+    "url": "https://www.investing.com/news/stock-market-news/can-spacex-leap-to-the-ai-frontier-4861908",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-16T12:11:16+08:00",
+    "stocks": [],
+    "uid": "27968fb06e651bc2e09cdd8e3ea9db04",
+    "title_en": "Can SpaceX Leap to the AI Frontier?",
+    "summary_en": "",
+    "title_zh": "SpaceX能否跨越AI前沿？",
+    "summary_zh": ""
+  },
+  {
+    "title": "Crocs CEO Andrew Rees sells over $4.1m in stock",
+    "url": "https://www.investing.com/news/insider-trading-news/crocs-ceo-andrew-rees-sells-over-41m-in-stock-93CH-4861906",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-16T12:01:15+08:00",
+    "stocks": [],
+    "uid": "fabc483f4e21df58102745717918914d",
+    "title_en": "Crocs CEO Andrew Rees sells over $4.1m in stock",
+    "summary_en": "",
+    "title_zh": "Crocs 執行長 Andrew Rees 出售價值超過 410 萬美元的股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Amazon vs. Microsoft: Which Cloud Computing Behemoth Is the Better Artificial Intelligence (AI) Buy Today?",
+    "url": "https://www.fool.com/investing/2026/08/16/amazon-vs-microsoft-which-cloud-computing-behemoth/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Both Amazon and Microsoft are benefiting from the AI arms race.",
+    "published_at": "2026-08-16T12:00:00+08:00",
+    "stocks": [],
+    "uid": "e03a8710120be4de2a6dc758c929eff5",
+    "title_en": "Amazon vs. Microsoft: Which Cloud Computing Behemoth Is the Better Artificial Intelligence (AI) Buy Today?",
+    "summary_en": "Both Amazon and Microsoft are benefiting from the AI arms race.",
+    "title_zh": "亞馬遜 vs. 微軟：當今人工智慧 (AI) 領域，哪一個雲端運算巨頭更值得購買？",
+    "summary_zh": "亞馬遜和微軟都從人工智慧軍備競賽中受益。"
+  },
+  {
     "title": "Chinese refiner Hengli accused of funding Iran through sanctioned oil purchases",
     "url": "https://www.investing.com/news/economy-news/chinese-refiner-hengli-accused-of-funding-iran-through-sanctioned-oil-purchases-4861903",
     "source": "Investing.com",
@@ -11,6 +50,19 @@
     "summary_en": "",
     "title_zh": "中國煉油企業恆力被指控透過受制裁的石油購買為伊朗提供資金",
     "summary_zh": ""
+  },
+  {
+    "title": "Bill Ackman Put 4.9% of Pershing Square USA Into the Netflix Trade That Cost Him $400 Million in 2022",
+    "url": "https://www.fool.com/investing/2026/08/15/bill-ackman-put-49-of-pershing-square-usa-into-the/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The famed investor is back four years later. What he's buying looks almost nothing like what he sold.",
+    "published_at": "2026-08-16T11:19:00+08:00",
+    "stocks": [],
+    "uid": "d45615b7faf531dc59a94296e217129e",
+    "title_en": "Bill Ackman Put 4.9% of Pershing Square USA Into the Netflix Trade That Cost Him $400 Million in 2022",
+    "summary_en": "The famed investor is back four years later. What he's buying looks almost nothing like what he sold.",
+    "title_zh": "比爾·阿克曼 (Bill Ackman) 將美國潘興廣場 4.9% 的股份投入 Netflix 交易中，這讓他在 2022 年損失了 4 億美元",
+    "summary_zh": "四年後，這位著名的投資者又回來了。他買的東西看起來和他賣的東西幾乎完全不一樣。"
   },
   {
     "title": "Popular EVP Lidio Soriano sells $523,515 in company stock",
@@ -5969,6 +6021,22 @@
     "summary_zh": "Nvidia 透過投資 xAI 所持有的 SpaceX 股份截至第二季末價值約為 210 億美元。"
   },
   {
+    "title": "Can Fiserv (FISV)’s Turnaround Close the Gap With Mastercard Incorporated (MA)’s Growth Machine?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/fiserv-fisv-turnaround-close-gap-214403779.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-15T05:44:03+08:00",
+    "stocks": [
+      "FISV",
+      "MA"
+    ],
+    "uid": "cf75bb4f668527d93d82384904086cdc",
+    "title_en": "Can Fiserv (FISV)’s Turnaround Close the Gap With Mastercard Incorporated (MA)’s Growth Machine?",
+    "summary_en": "",
+    "title_zh": "Fiserv (FISV) 的轉虧為盈能否縮小與萬事達卡公司 (MA) 成長機器的差距？",
+    "summary_zh": ""
+  },
+  {
     "title": "Why Oracle Stock Got Trounced Today",
     "url": "https://www.fool.com/investing/2026/08/14/why-oracle-stock-got-trounced-today/?source=iedfolrf0000001",
     "source": "Motley Fool",
@@ -5993,6 +6061,15 @@
     "summary_en": "Investors are mining below the headline numbers, and they dig what they discovered.",
     "title_zh": "為什麼 REalloys 股票今天飆升",
     "summary_zh": "投資者正在挖掘低於標題的數字，他們挖掘他們發現的東西。"
+  },
+  {
+    "title": "World Liberty Gets Conditional OCC Approval to Issue USD1 Through National Trust Bank",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/world-liberty-gets-conditional-occ-213500065.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-15T05:35:00+08:00",
+    "stocks": [],
+    "uid": "bc23625a1c4d05abef486a707c356b2d"
   },
   {
     "title": "Berkshire Hathaway doubles down on the U.S. housing market with a fresh bet on this stock",
@@ -6070,6 +6147,19 @@
     "title_en": "Worksport receives Nasdaq notice for minimum bid price deficiency",
     "summary_en": "",
     "title_zh": "Worksport 收到納斯達克關於最低出價不足的通知",
+    "summary_zh": ""
+  },
+  {
+    "title": "Speed Beats Stagnation In Sphere Stock Swing Trade",
+    "url": "https://www.investors.com/research/swing-trading/speed-beats-stagnation-in-sphere-stock-swing-trade/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-15T05:12:32+08:00",
+    "stocks": [],
+    "uid": "88bd9e5718ea88571ecf2c2562c5c294",
+    "title_en": "Speed Beats Stagnation In Sphere Stock Swing Trade",
+    "summary_en": "",
+    "title_zh": "股票波動交易中的速度戰勝停滯",
     "summary_zh": ""
   },
   {
@@ -6261,7 +6351,24 @@
     "summary": "",
     "published_at": "2026-08-15T04:57:36+08:00",
     "stocks": [],
-    "uid": "9b82286f5f1d1fb6a23ade8f411f9c4c"
+    "uid": "9b82286f5f1d1fb6a23ade8f411f9c4c",
+    "title_en": "Avnet Completes Recovery, Now At The 'Center Of A Technology Spike'",
+    "summary_en": "",
+    "title_zh": "安富利已完成復甦，目前正處於“技術高峰的中心”",
+    "summary_zh": ""
+  },
+  {
+    "title": "Quantum Computing Earnings Offered a Reality Check. What Comes Next.",
+    "url": "https://www.barrons.com/articles/quantum-computing-earnings-stocks-b4e8ce2d?siteid=yhoof2&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-15T04:57:00+08:00",
+    "stocks": [],
+    "uid": "9df7b17809613a71e24f45560ea6afd6",
+    "title_en": "Quantum Computing Earnings Offered a Reality Check. What Comes Next.",
+    "summary_en": "",
+    "title_zh": "量子計算收益提供了現實檢驗。接下來會發生什麼事。",
+    "summary_zh": ""
   },
   {
     "title": "Stock Market Today, Aug. 14: Tesla Gains on TD Cowen Buy Reiteration and $460 Target",
@@ -6532,7 +6639,11 @@
     "summary": "",
     "published_at": "2026-08-15T04:15:00+08:00",
     "stocks": [],
-    "uid": "ace3d92b378cbde87da1972cfc38a38b"
+    "uid": "ace3d92b378cbde87da1972cfc38a38b",
+    "title_en": "Weekly Wrap: Bitcoin Treads Water As Summer Doldrums Grip Markets",
+    "summary_en": "",
+    "title_zh": "每週總結：隨著夏季市場低迷，比特幣停滯不前",
+    "summary_zh": ""
   },
   {
     "title": "Dear Reddit Stock Fans, Mark Your Calendars for August 18",
@@ -6964,7 +7075,11 @@
     "summary": "",
     "published_at": "2026-08-15T03:21:15+08:00",
     "stocks": [],
-    "uid": "f1495bcd5e3f0f72c85dfcf4c433e01d"
+    "uid": "f1495bcd5e3f0f72c85dfcf4c433e01d",
+    "title_en": "Oil climbs over $1 on tanker attacks, no progrees on peace",
+    "summary_en": "",
+    "title_zh": "油輪襲擊導致油價上漲超過 1 美元，但和平沒有進展",
+    "summary_zh": ""
   },
   {
     "title": "Tesla bearish engulfing at $341 resistance: Live levels",
@@ -7090,7 +7205,11 @@
     "summary": "",
     "published_at": "2026-08-15T03:18:17+08:00",
     "stocks": [],
-    "uid": "3bcca49eaed0177aaf7342c6d8aa6877"
+    "uid": "3bcca49eaed0177aaf7342c6d8aa6877",
+    "title_en": "IPO Stock Of The Week: Marex Attempts Breakout With Rally To Record Highs",
+    "summary_en": "",
+    "title_zh": "本週 IPO 股票：Marex 試圖突破並反彈至歷史新高",
+    "summary_zh": ""
   },
   {
     "title": "Worried About Outliving Your Retirement Savings? 4 Key Moves to Lower the Odds.",
@@ -7177,7 +7296,11 @@
     "summary": "",
     "published_at": "2026-08-15T03:04:54+08:00",
     "stocks": [],
-    "uid": "e3dfc8dcefbfad7e0ced220318c9ef19"
+    "uid": "e3dfc8dcefbfad7e0ced220318c9ef19",
+    "title_en": "Red Cat Stock Jumps on Trump Drone Tariff News. Analysts Think It Has 70% More Upside Potential.",
+    "summary_en": "",
+    "title_zh": "川普無人機關稅消息推動紅貓股價上漲。分析師認為其上漲潛力增加 70%。",
+    "summary_zh": ""
   },
   {
     "title": "Selena Gomez Is Sued for Defrauding Investors in Mental Health Site",
@@ -7201,7 +7324,11 @@
     "stocks": [
       "B"
     ],
-    "uid": "e144bc852875e6aeb8f9749398791417"
+    "uid": "e144bc852875e6aeb8f9749398791417",
+    "title_en": "Barrick Mining (B) Cleared Its IPO Hurdle. Why Did Shares Fall 6%?",
+    "summary_en": "",
+    "title_zh": "巴里克礦業 (B) 掃清了 IPO 障礙。為何股價下跌6%？",
+    "summary_zh": ""
   },
   {
     "title": "Match Group Director Schiffman Sells 20,030 Shares for $736,703",
@@ -7223,7 +7350,11 @@
     "summary": "",
     "published_at": "2026-08-15T02:59:10+08:00",
     "stocks": [],
-    "uid": "caf4c512beb23f8f0f1a4e9a550a599c"
+    "uid": "caf4c512beb23f8f0f1a4e9a550a599c",
+    "title_en": "Stock Market Leaders Often Reset Their Base Counts. Here's How It Happens.",
+    "summary_en": "",
+    "title_zh": "股市領導者經常重置他們的基數。這就是它是如何發生的。",
+    "summary_zh": ""
   },
   {
     "title": "Oppenheimer Just Gave Snowflake Stock a Big Vote of Confidence",
@@ -7232,7 +7363,11 @@
     "summary": "",
     "published_at": "2026-08-15T02:55:22+08:00",
     "stocks": [],
-    "uid": "742096bfa4a71d9f1b7d55996d2e6070"
+    "uid": "742096bfa4a71d9f1b7d55996d2e6070",
+    "title_en": "Oppenheimer Just Gave Snowflake Stock a Big Vote of Confidence",
+    "summary_en": "",
+    "title_zh": "奧本海默剛剛給雪花股票投了一大票信任票",
+    "summary_zh": ""
   },
   {
     "title": "Google Turns On Gemini A.I. for Students Using Its Classroom App",
@@ -7254,7 +7389,11 @@
     "summary": "",
     "published_at": "2026-08-15T02:51:54+08:00",
     "stocks": [],
-    "uid": "0c0463aeef1526b064032ddefe374f26"
+    "uid": "0c0463aeef1526b064032ddefe374f26",
+    "title_en": "Sandisk Stock Jumps on Its Investor Day Success. Why Wedbush Analysts Aren’t 100% Buying the Story.",
+    "summary_en": "",
+    "title_zh": "Sandisk 股價因投資者日成功而上漲。為什麼韋德布希分析師並不 100% 相信這個故事。",
+    "summary_zh": ""
   },
   {
     "title": "Parents putting money in ‘Trump accounts’ could get a $2,500 tax break. Here’s how.",
@@ -7289,7 +7428,11 @@
     "summary": "",
     "published_at": "2026-08-15T02:43:17+08:00",
     "stocks": [],
-    "uid": "f2e4e4275f759be5029307d205444759"
+    "uid": "f2e4e4275f759be5029307d205444759",
+    "title_en": "Trump Sends Drone Stocks Soaring on Tariff News. This Is the Top-Performing Company Now.",
+    "summary_en": "",
+    "title_zh": "川普因關稅消息推動無人機股票飆升。這是現在表現最好的公司。",
+    "summary_zh": ""
   },
   {
     "title": "3M board declares quarterly dividend of $0.78 per share",
@@ -7402,7 +7545,11 @@
     "summary": "",
     "published_at": "2026-08-15T02:29:06+08:00",
     "stocks": [],
-    "uid": "1141e18b5fb9303c92de6c9b8beebed9"
+    "uid": "1141e18b5fb9303c92de6c9b8beebed9",
+    "title_en": "Did Greg Abel Just End Berkshire Hathaway’s (BRK-B) Cash-Hoard Problem?",
+    "summary_en": "",
+    "title_zh": "格雷格·阿貝爾剛結束了伯克希爾·哈撒韋公司（BRK-B）的現金囤積問題嗎？",
+    "summary_zh": ""
   },
   {
     "title": "How Serious Are Thousands of Addiction Lawsuits for Meta (META) and Snap (SNAP)?",
@@ -7414,7 +7561,11 @@
       "META",
       "SNAP"
     ],
-    "uid": "4ab3e613cf005b1b2eea4207a5df3d0a"
+    "uid": "4ab3e613cf005b1b2eea4207a5df3d0a",
+    "title_en": "How Serious Are Thousands of Addiction Lawsuits for Meta (META) and Snap (SNAP)?",
+    "summary_en": "",
+    "title_zh": "Meta (META) 和 Snap (SNAP) 的數千起成癮訴訟有多嚴重？",
+    "summary_zh": ""
   },
   {
     "title": "Broadcom options surge on selloff day, with $400 August 2026 call leading volume",
@@ -7462,7 +7613,11 @@
     "summary": "",
     "published_at": "2026-08-15T02:23:00+08:00",
     "stocks": [],
-    "uid": "0a1cc80cfad280f55acde6a9351568c3"
+    "uid": "0a1cc80cfad280f55acde6a9351568c3",
+    "title_en": "The Best ETF to Buy and Hold for the Next Decade",
+    "summary_en": "",
+    "title_zh": "未來十年最值得購買和持有的 ETF",
+    "summary_zh": ""
   },
   {
     "title": "GOOGL Stock Alert: Google Unleashes Its Biggest Weapon Against Apple",
@@ -7471,7 +7626,11 @@
     "summary": "",
     "published_at": "2026-08-15T02:20:56+08:00",
     "stocks": [],
-    "uid": "c1bfc217bffc794f5af57c8a37e6e365"
+    "uid": "c1bfc217bffc794f5af57c8a37e6e365",
+    "title_en": "GOOGL Stock Alert: Google Unleashes Its Biggest Weapon Against Apple",
+    "summary_en": "",
+    "title_zh": "GOOGL股票警報：Google對蘋果發動最大武器",
+    "summary_zh": ""
   },
   {
     "title": "Reading Int B earnings beat by $0.04, revenue topped estimates",
@@ -7532,7 +7691,11 @@
     "summary": "",
     "published_at": "2026-08-15T02:16:05+08:00",
     "stocks": [],
-    "uid": "5e4bdf9321b6178fbbe48f4419654bab"
+    "uid": "5e4bdf9321b6178fbbe48f4419654bab",
+    "title_en": "US SEC to keep hands off shareholder proposals, worrying activists",
+    "summary_en": "",
+    "title_zh": "美國證券交易委員會不干涉股東提案，令活動人士擔憂",
+    "summary_zh": ""
   },
   {
     "title": "Solana Has Plans to Become 'The Netflix of Finance.' What Does That Mean for the Price of SOL?",
@@ -7567,7 +7730,11 @@
     "summary": "",
     "published_at": "2026-08-15T02:08:05+08:00",
     "stocks": [],
-    "uid": "100ddbc9ba2bd4b502bf7f02ac997c40"
+    "uid": "100ddbc9ba2bd4b502bf7f02ac997c40",
+    "title_en": "Gold Holds Recent Rally as Fed Rate-Hike Odds Fade",
+    "summary_en": "",
+    "title_zh": "隨著聯準會升息的可能性減弱，黃金維持近期漲勢",
+    "summary_zh": ""
   },
   {
     "title": "The Best ETF to Buy and Hold for the Next Decade",
@@ -7615,7 +7782,11 @@
     "summary": "",
     "published_at": "2026-08-15T01:59:28+08:00",
     "stocks": [],
-    "uid": "d32182fbe38738c4320a6724d692cc19"
+    "uid": "d32182fbe38738c4320a6724d692cc19",
+    "title_en": "Markets bet on a pause for September, but Fed hawks may not be swayed ahead of Jackson Hole",
+    "summary_en": "",
+    "title_zh": "市場押註九月暫停，但聯準會鷹派可能不會在傑克遜霍爾會議之前動搖",
+    "summary_zh": ""
   },
   {
     "title": "Think interest rates are high now? These charts offers a different perspective.",
@@ -8040,7 +8211,11 @@
     "summary": "",
     "published_at": "2026-08-15T00:55:17+08:00",
     "stocks": [],
-    "uid": "a659618b923df1ce19b5d9b07da097fe"
+    "uid": "a659618b923df1ce19b5d9b07da097fe",
+    "title_en": "Don’t Rule Out a September Rate Hike. Despite Cooler Inflation Data, This Fed Dissenter Says ‘We Need To Act Now’ on Interest Rates.",
+    "summary_en": "",
+    "title_zh": "不排除九月升息的可能性。儘管通膨數據降溫，這位聯準會反對者仍表示「我們需要立即就利率採取行動」。",
+    "summary_zh": ""
   },
   {
     "title": "S&P 500 Eases Off Its Record as the Consumer Finally Blinks",
