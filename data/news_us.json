@@ -1,5 +1,218 @@
 [
   {
+    "title": "Top U.S. commander acknowledges mental health issues on USS Lincoln",
+    "url": "https://www.cnbc.com/2026/08/16/top-us-commander-acknowledges-mental-health-issues-on-uss-lincoln.html",
+    "source": "CNBC Top",
+    "summary": "Cooper's visit and statement come after reports of widespread morale and mental health concerns aboard the Lincoln.",
+    "published_at": "2026-08-17T03:58:32+08:00",
+    "stocks": [],
+    "uid": "ecb8d45d996f29ba6ba77e435146d38a",
+    "title_en": "Top U.S. commander acknowledges mental health issues on USS Lincoln",
+    "summary_en": "Cooper's visit and statement come after reports of widespread morale and mental health concerns aboard the Lincoln.",
+    "title_zh": "美國最高指揮官承認林肯號航空母艦有心理健康問題",
+    "summary_zh": "庫柏的訪問和聲明是在林肯號上普遍存在士氣和心理健康問題的報導之後進行的。"
+  },
+  {
+    "title": "Google’s (GOOGL) Latest AI Model Arrives Amid A Bigger Balancing Act",
+    "url": "https://finance.yahoo.com/technology/ai/articles/google-googl-latest-ai-model-194743447.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T03:47:43+08:00",
+    "stocks": [
+      "GOOGL"
+    ],
+    "uid": "8fde77af8c51fd972f2422880e9a1e99",
+    "title_en": "Google’s (GOOGL) Latest AI Model Arrives Amid A Bigger Balancing Act",
+    "summary_en": "",
+    "title_zh": "Google (GOOGL) 最新人工智慧模型在更大的平衡中到來",
+    "summary_zh": ""
+  },
+  {
+    "title": "If You Followed Seth Klarman Into Vaxcyte in May, He Was Already Long Gone",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/followed-seth-klarman-vaxcyte-may-194531317.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T03:45:31+08:00",
+    "stocks": [],
+    "uid": "d1e2b40e62dabc1298b6e8aa5f43d650",
+    "title_en": "If You Followed Seth Klarman Into Vaxcyte in May, He Was Already Long Gone",
+    "summary_en": "",
+    "title_zh": "如果你在 5 月跟隨 Seth Klarman 進入 Vaxcyte，他早已不在了",
+    "summary_zh": ""
+  },
+  {
+    "title": "Dave Ramsey Tells Couple Earning $110,000 They Can Afford a Baby, but One Decision Could Change Everything",
+    "url": "https://finance.yahoo.com/small-business/articles/dave-ramsey-tells-couple-earning-193421347.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T03:34:21+08:00",
+    "stocks": [],
+    "uid": "166d4675d97da8525ffdf9a5add2dcde",
+    "title_en": "Dave Ramsey Tells Couple Earning $110,000 They Can Afford a Baby, but One Decision Could Change Everything",
+    "summary_en": "",
+    "title_zh": "戴夫拉姆齊 (Dave Ramsey) 告訴年收入 11 萬美元的夫婦，他們可以養活一個孩子，但一個決定可能會改變一切",
+    "summary_zh": ""
+  },
+  {
+    "title": "Scholastic EVP, pres. CBG Sasha Quinton sells over $1.2m in stock",
+    "url": "https://www.investing.com/news/insider-trading-news/scholastic-evp-pres-cbg-sasha-quinton-sells-over-12m-in-stock-93CH-4862008",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-17T03:32:31+08:00",
+    "stocks": [],
+    "uid": "9782ab85cafee465f8c33a181f5ab87c",
+    "title_en": "Scholastic EVP, pres. CBG Sasha Quinton sells over $1.2m in stock",
+    "summary_en": "",
+    "title_zh": "學術執行副總裁，出版社。 CBG Sasha Quinton 出售超過 120 萬美元的股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "SharkNinja CCO Neil Shah sells $5.5m in company stock",
+    "url": "https://www.investing.com/news/insider-trading-news/sharkninja-cco-neil-shah-sells-55m-in-company-stock-93CH-4862007",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-17T03:32:25+08:00",
+    "stocks": [],
+    "uid": "1a42c60b60d0241ccd9a62e9f01decf5",
+    "title_en": "SharkNinja CCO Neil Shah sells $5.5m in company stock",
+    "summary_en": "",
+    "title_zh": "SharkNinja CCO Neil Shah 出售價值 550 萬美元的公司股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Pony.ai (PONY) and Uber (UBER) Team Up For A Bigger Bet",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/pony-ai-pony-uber-uber-193130272.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T03:31:30+08:00",
+    "stocks": [
+      "PONY",
+      "UBER"
+    ],
+    "uid": "a97963a77bb47235f56f203f5a1f7e85",
+    "title_en": "Pony.ai (PONY) and Uber (UBER) Team Up For A Bigger Bet",
+    "summary_en": "",
+    "title_zh": "小馬智行 (PONY) 與優步 (UBER) 聯手下更大賭注",
+    "summary_zh": ""
+  },
+  {
+    "title": "Nvidia vs. Meta: Is Custom Silicon a Critical Threat to Nvidia's AI Moat?",
+    "url": "https://www.fool.com/investing/2026/08/16/nvidia-vs-meta-is-custom-silicon-a-critical-threat/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Nvidia and Meta are attacking artificial intelligence from opposite ends. Discover where each moat is strongest, what could weaken it, and why this battle may produce two winners.",
+    "published_at": "2026-08-17T03:27:57+08:00",
+    "stocks": [],
+    "uid": "a7cfc65ca0179b509467f78df84d2ec4",
+    "title_en": "Nvidia vs. Meta: Is Custom Silicon a Critical Threat to Nvidia's AI Moat?",
+    "summary_en": "Nvidia and Meta are attacking artificial intelligence from opposite ends. Discover where each moat is strongest, what could weaken it, and why this battle may produce two winners.",
+    "title_zh": "Nvidia 與 Meta：客製化晶片是否對 Nvidia 的 AI 護城河構成嚴重威脅？",
+    "summary_zh": "Nvidia 和 Meta 正在從相反的方向攻擊人工智慧。找出每條護城河最強大的地方，什麼會削弱它，以及為什麼這場戰鬥可能會產生兩個贏家。"
+  },
+  {
+    "title": "Drake told a 23-year-old streamer he'd 'love to' buy her mom a house after picking her on dating show. Who pays the tax?",
+    "url": "https://finance.yahoo.com/real-estate/articles/drake-told-23-old-streamer-191500099.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T03:15:00+08:00",
+    "stocks": [],
+    "uid": "a5e88593bfa9b9cfa94738d3ba5f545f",
+    "title_en": "Drake told a 23-year-old streamer he'd 'love to' buy her mom a house after picking her on dating show. Who pays the tax?",
+    "summary_en": "",
+    "title_zh": "德雷克 (Drake) 告訴一位 23 歲的主播，在相親節目中挑選了她媽媽後，他“很樂意”給她買一套房子。誰繳稅？",
+    "summary_zh": ""
+  },
+  {
+    "title": "3 Things You Give Up When You Claim Social Security at 62",
+    "url": "https://www.fool.com/retirement/2026/08/16/3-things-you-give-up-when-social-security-at-62/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "You pay a price for those extra years of benefits.",
+    "published_at": "2026-08-17T03:15:00+08:00",
+    "stocks": [],
+    "uid": "9eb4625595270e89d9ec59740cfc08ab",
+    "title_en": "3 Things You Give Up When You Claim Social Security at 62",
+    "summary_en": "You pay a price for those extra years of benefits.",
+    "title_zh": "當您在 62 歲時領取社會安全保障時，您會放棄的 3 件事",
+    "summary_zh": "您要為額外幾年的福利付出代價。"
+  },
+  {
+    "title": "What Three Encompass Health Insiders Selling Signals After a Rate Increase",
+    "url": "https://www.fool.com/coverage/filings/2026/08/16/what-three-encompass-health-insiders-selling-signals-after-a-rate-increase/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This sale reduced an insider's direct equity holdings by 11%.",
+    "published_at": "2026-08-17T03:13:24+08:00",
+    "stocks": [],
+    "uid": "274ec4c09714947d1e2710437a1a0e76",
+    "title_en": "What Three Encompass Health Insiders Selling Signals After a Rate Increase",
+    "summary_en": "This sale reduced an insider's direct equity holdings by 11%.",
+    "title_zh": "健康業內人士在升息後發出的拋售訊號包括哪三項",
+    "summary_zh": "此次出售使內部人直接持有的股權減少了 11%。"
+  },
+  {
+    "title": "Adobe Trades at 10 Times Next Year's Earnings. Is It Finally Time to Buy the Stock?",
+    "url": "https://www.fool.com/investing/2026/08/16/adobe-trades-at-10-times-next-years-earnings-is-it/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "A multiple this low usually means the market smells decline -- yet the latest quarter set records.",
+    "published_at": "2026-08-17T03:08:00+08:00",
+    "stocks": [],
+    "uid": "ab5c4ce895abce3a66f9cb6e64584d7c",
+    "title_en": "Adobe Trades at 10 Times Next Year's Earnings. Is It Finally Time to Buy the Stock?",
+    "summary_en": "A multiple this low usually means the market smells decline -- yet the latest quarter set records.",
+    "title_zh": "Adobe 的交易價格是明年收益的 10 倍。終於到了買股票的時候了嗎？",
+    "summary_zh": "如此低的倍數通常意味著市場嗅到了下跌的味道——但最近一個季度創下了紀錄。"
+  },
+  {
+    "title": "Encompass Health's CFO Trimmed His Stake as Shares Jumped After Earnings. Here's What to Know",
+    "url": "https://www.fool.com/coverage/filings/2026/08/16/encompass-health-s-cfo-trimmed-his-stake-as-shares-jumped-after-earnings-here-s-what-to-know/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This sale reduced an insider's direct common stock position by 27%, though a majority of the position remains held through trusts and spousal holdings.",
+    "published_at": "2026-08-17T03:05:41+08:00",
+    "stocks": [],
+    "uid": "04ddcf37fd977d701c8bdfbfca880a7c",
+    "title_en": "Encompass Health's CFO Trimmed His Stake as Shares Jumped After Earnings. Here's What to Know",
+    "summary_en": "This sale reduced an insider's direct common stock position by 27%, though a majority of the position remains held through trusts and spousal holdings.",
+    "title_zh": "Encompass Health 的財務長因財報公佈後股價上漲而減持股份。以下是您需要了解的內容",
+    "summary_zh": "此次出售使內部人士的直接普通股部位減少了 27%，但大部分部位仍透過信託和配偶持有。"
+  },
+  {
+    "title": "Oil Majors Reap $93 Billion Windfall From the Iran War",
+    "url": "https://finance.yahoo.com/energy/articles/oil-majors-reap-93-billion-190000461.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T03:00:00+08:00",
+    "stocks": [],
+    "uid": "eb1ebe4afa3da4c7e2d3dfe85e084fae",
+    "title_en": "Oil Majors Reap $93 Billion Windfall From the Iran War",
+    "summary_en": "",
+    "title_zh": "石油巨頭從伊朗戰爭中獲得了 930 億美元的意外之財",
+    "summary_zh": ""
+  },
+  {
+    "title": "Elon Musk Can't Sell SpaceX Stock Until June 2027 -- But 6 Billion More Shares Could Flood the Market Before Then",
+    "url": "https://www.fool.com/investing/2026/08/16/elon-musk-cant-sell-spacex-stock-until-june-2027-b/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "SpaceX went public with an unusually tiny float available for trading. That's about to change in a big way.",
+    "published_at": "2026-08-17T03:00:00+08:00",
+    "stocks": [],
+    "uid": "7c6971f6563926049caa79f052dbda5d",
+    "title_en": "Elon Musk Can't Sell SpaceX Stock Until June 2027 -- But 6 Billion More Shares Could Flood the Market Before Then",
+    "summary_en": "SpaceX went public with an unusually tiny float available for trading. That's about to change in a big way.",
+    "title_zh": "馬斯克 (Elon Musk) 在 2027 年 6 月之前無法出售 SpaceX 股票，但在此之前可能會有 60 億股股票湧入市場",
+    "summary_zh": "SpaceX 上市時，其流通量異常小，可供交易。這種情況即將發生重大改變。"
+  },
+  {
+    "title": "Should You Worry That Encompass Health's CEO Sold Into a Rally? Here's What to Know",
+    "url": "https://www.fool.com/coverage/filings/2026/08/16/should-you-worry-that-encompass-health-s-ceo-sold-into-a-rally-here-s-what-to-know/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Tarr reduced his direct equity stake but retains roughly 268,000 shares valued at $33.7 million.",
+    "published_at": "2026-08-17T02:58:10+08:00",
+    "stocks": [],
+    "uid": "b817d9b549292b27bc60986066128d77",
+    "title_en": "Should You Worry That Encompass Health's CEO Sold Into a Rally? Here's What to Know",
+    "summary_en": "Tarr reduced his direct equity stake but retains roughly 268,000 shares valued at $33.7 million.",
+    "title_zh": "您是否應該擔心 Encompass Health 的執行長在集會中拋售？以下是您需要了解的內容",
+    "summary_zh": "塔爾減少了他的直接股權，但保留了大約 268,000 股，價值 3,370 萬美元。"
+  },
+  {
     "title": "You Can't Escape Inflation in Retirement. Here's How to Beat It.",
     "url": "https://www.fool.com/retirement/2026/08/16/you-cant-escape-inflation-in-retirement-heres-how/?source=iedfolrf0000001",
     "source": "Motley Fool",
@@ -753,6 +966,19 @@
     "title_en": "Netlist EVP and CFO Gail Sasaki sells $99,750 in company stock",
     "summary_en": "",
     "title_zh": "Netlist 執行副總裁兼財務長 Gail Sasaki 出售價值 99,750 美元的公司股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Nvidia’s Financing Platform Will Support the AI Investment Boom",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-financing-platform-support-ai-134501906.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-16T21:45:01+08:00",
+    "stocks": [],
+    "uid": "4c3fa4e054bf113c0e46d10af0c0d279",
+    "title_en": "Nvidia’s Financing Platform Will Support the AI Investment Boom",
+    "summary_en": "",
+    "title_zh": "英偉達融資平台將支援人工智慧投資熱潮",
     "summary_zh": ""
   },
   {
@@ -20734,7 +20960,11 @@
     "summary": "",
     "published_at": "2026-08-14T05:31:24+08:00",
     "stocks": [],
-    "uid": "a3c852176c30a2eac21c59fcf51d073a"
+    "uid": "a3c852176c30a2eac21c59fcf51d073a",
+    "title_en": "Earnings call transcript: Aethlon Medical posts Q1 2026 loss miss as trial advances",
+    "summary_en": "",
+    "title_zh": "財報電話會議紀錄：Aethlon Medical 公佈 2026 年第一季虧損，因試驗進展",
+    "summary_zh": ""
   },
   {
     "title": "US extends Jones Act waiver 90 days, revises compliance rules",
@@ -20769,7 +20999,11 @@
     "summary": "",
     "published_at": "2026-08-14T05:30:43+08:00",
     "stocks": [],
-    "uid": "3c9946067655dfa3e809af4fac1be7d5"
+    "uid": "3c9946067655dfa3e809af4fac1be7d5",
+    "title_en": "Washington Mutual Investors Fund, AWSHX, Refuses to Buy Certain Stocks. That’s the Point",
+    "summary_en": "",
+    "title_zh": "華盛頓共同投資者基金 (AWSHX) 拒絕購買某些股票。這就是重點",
+    "summary_zh": ""
   },
   {
     "title": "Mexico stocks lower at close of trade; S&P/BMV IPC down 1.41%",
@@ -20791,7 +21025,11 @@
     "summary": "The S&amp;P 500 Shiller CAPE ratio measures stock market valuations over a long-term horizon.",
     "published_at": "2026-08-14T05:30:00+08:00",
     "stocks": [],
-    "uid": "3d68dbd770b8b4bbad689a8e6e330ec1"
+    "uid": "3d68dbd770b8b4bbad689a8e6e330ec1",
+    "title_en": "The Stock Market Just Flashed a Warning Seen Only 5 Times Before. History Is Crystal Clear About What Happens Next (Hint: It's Not Good).",
+    "summary_en": "The S&amp;P 500 Shiller CAPE ratio measures stock market valuations over a long-term horizon.",
+    "title_zh": "股市剛剛發出了之前只出現過 5 次的警告。歷史對於接下來發生的事情一清二楚（提示：這不好）。",
+    "summary_zh": "標準普爾 500 希勒 CAPE 比率衡量長期股市估值。"
   },
   {
     "title": "Surprisingly, Cheesecake Factory is one of the hottest food stocks right now. Here’s why",
@@ -20800,7 +21038,11 @@
     "summary": "",
     "published_at": "2026-08-14T05:30:00+08:00",
     "stocks": [],
-    "uid": "2dda72656afd9d6efd0dd4783005337b"
+    "uid": "2dda72656afd9d6efd0dd4783005337b",
+    "title_en": "Surprisingly, Cheesecake Factory is one of the hottest food stocks right now. Here’s why",
+    "summary_en": "",
+    "title_zh": "令人驚訝的是，Cheesecake Factory 是目前最熱門的食品股之一。原因如下",
+    "summary_zh": ""
   },
   {
     "title": "Earnings call transcript: PetMed Express misses Q1 2027 estimates as shares fall",
@@ -20809,7 +21051,11 @@
     "summary": "",
     "published_at": "2026-08-14T05:29:53+08:00",
     "stocks": [],
-    "uid": "8617a7450b42a9521b2bbadf62133a32"
+    "uid": "8617a7450b42a9521b2bbadf62133a32",
+    "title_en": "Earnings call transcript: PetMed Express misses Q1 2027 estimates as shares fall",
+    "summary_en": "",
+    "title_zh": "財報電話會議記錄：PetMed Express 因股價下跌而未達 2027 年第一季預期",
+    "summary_zh": ""
   },
   {
     "title": "Earnings call transcript: Smith Micro misses Q2 2026 estimates as growth improves",
@@ -20831,7 +21077,11 @@
     "summary": "",
     "published_at": "2026-08-14T05:29:00+08:00",
     "stocks": [],
-    "uid": "4c2c4ca41667831ae06f16e3c1100d1e"
+    "uid": "4c2c4ca41667831ae06f16e3c1100d1e",
+    "title_en": "Top analyst turns bullish on HIVE ahead of earnings",
+    "summary_en": "",
+    "title_zh": "頂級分析師在獲利前轉而看好 HIVE",
+    "summary_zh": ""
   },
   {
     "title": "WSJ Dollar Index Rises 0.01% to 96.26",
@@ -20840,7 +21090,11 @@
     "summary": "",
     "published_at": "2026-08-14T05:27:00+08:00",
     "stocks": [],
-    "uid": "b3cc76c6728d8b284f7db2e6d550c52f"
+    "uid": "b3cc76c6728d8b284f7db2e6d550c52f",
+    "title_en": "WSJ Dollar Index Rises 0.01% to 96.26",
+    "summary_en": "",
+    "title_zh": "華爾街日報美元指數上漲0.01%至96.26",
+    "summary_zh": ""
   },
   {
     "title": "Creative Realities, Inc. Q2 2026 Earnings Call Summary",
@@ -20849,7 +21103,11 @@
     "summary": "",
     "published_at": "2026-08-14T05:25:28+08:00",
     "stocks": [],
-    "uid": "a39f3e8121642a06125122e411e7164d"
+    "uid": "a39f3e8121642a06125122e411e7164d",
+    "title_en": "Creative Realities, Inc. Q2 2026 Earnings Call Summary",
+    "summary_en": "",
+    "title_zh": "Creative Realities, Inc. 2026 年第二季財報電話會議摘要",
+    "summary_zh": ""
   },
   {
     "title": "Why StubHub Stock Tanked by 10% Today",
