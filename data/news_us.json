@@ -1,5 +1,469 @@
 [
   {
+    "title": "Supreme Court again rejects Trump bid to overturn E. Jean Carroll verdict",
+    "url": "https://www.cnbc.com/2026/08/17/trump-supreme-court-e-jean-carroll.html",
+    "source": "CNBC Top",
+    "summary": "A spokesperson for Trump's legal team slammed Carroll's case as a witch hunt and a hoax.",
+    "published_at": "2026-08-17T22:12:08+08:00",
+    "stocks": [],
+    "uid": "978ae05ac02221041c22c940adc2102e",
+    "title_en": "Supreme Court again rejects Trump bid to overturn E. Jean Carroll verdict",
+    "summary_en": "A spokesperson for Trump's legal team slammed Carroll's case as a witch hunt and a hoax.",
+    "title_zh": "最高法院再次拒絕川普推翻 E. Jean Carroll 判決的請求",
+    "summary_zh": "川普法律團隊的發言人抨擊卡羅爾的案件是政治迫害和騙局。"
+  },
+  {
+    "title": "Vibra Q2 2026 slides: margins surge 233% as debt falls to 1.3x",
+    "url": "https://www.investing.com/news/company-news/vibra-q2-2026-slides-margins-surge-233-as-debt-falls-to-13x-93CH-4863453",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-17T22:10:30+08:00",
+    "stocks": [],
+    "uid": "75820c5be5d21ea38d469ce7e6ca9cef",
+    "title_en": "Vibra Q2 2026 slides: margins surge 233% as debt falls to 1.3x",
+    "summary_en": "",
+    "title_zh": "Vibra 2026 年第二季下滑：利潤率飆升 233%，債務降至 1.3 倍",
+    "summary_zh": ""
+  },
+  {
+    "title": "Nvidia backs financing for OpenAI data center in Ohio",
+    "url": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
+    "source": "CNBC Top",
+    "summary": "Technology giants are shelling out billions to scale capacity to meet massive data center demand.",
+    "published_at": "2026-08-17T22:10:16+08:00",
+    "stocks": [],
+    "uid": "e925d0d0492417b0651f09d60873143c",
+    "title_en": "Nvidia backs financing for OpenAI data center in Ohio",
+    "summary_en": "Technology giants are shelling out billions to scale capacity to meet massive data center demand.",
+    "title_zh": "Nvidia 支援俄亥俄州 OpenAI 資料中心的融資",
+    "summary_zh": "科技巨頭正在斥資數十億美元擴大容量，以滿足龐大的資料中心需求。"
+  },
+  {
+    "title": "Eastern Bankshares stock hits all-time high at 23.76 USD",
+    "url": "https://www.investing.com/news/company-news/eastern-bankshares-stock-hits-alltime-high-at-2376-usd-93CH-4863452",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-17T22:09:57+08:00",
+    "stocks": [],
+    "uid": "42e85c5bb6cf944c8f23f945944928ca",
+    "title_en": "Eastern Bankshares stock hits all-time high at 23.76 USD",
+    "summary_en": "",
+    "title_zh": "東方銀行股票觸及歷史新高至 23.76 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Billionaire David Tepper Trimmed Micron and Sold out of SanDisk. Here’s the New AI Stocks He’s Buying",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-trimmed-micron-140913563.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T22:09:13+08:00",
+    "stocks": [],
+    "uid": "b6300c5907fffcee7a2902ab0bcb0e84",
+    "title_en": "Billionaire David Tepper Trimmed Micron and Sold out of SanDisk. Here’s the New AI Stocks He’s Buying",
+    "summary_en": "",
+    "title_zh": "億萬富翁大衛泰珀 (David Tepper) 削減了美光科技並出售了閃迪 (SanDisk) 品牌。這是他正在買的新人工智慧股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Meta’s Lawyers Say A Loss Could Cost $1.4 Trillion. Trial That Could Determine The Future Of Zuckerberg’s AI Ambitions Is Underway.",
+    "url": "https://finance.yahoo.com/technology/ai/articles/meta-lawyers-loss-could-cost-140859422.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T22:08:59+08:00",
+    "stocks": [],
+    "uid": "fac91267553807d246d7e14b4787059b",
+    "title_en": "Meta’s Lawyers Say A Loss Could Cost $1.4 Trillion. Trial That Could Determine The Future Of Zuckerberg’s AI Ambitions Is Underway.",
+    "summary_en": "",
+    "title_zh": "Meta 的律師表示，損失可能高達 1.4 兆美元。可能決定祖克柏人工智慧野心未來的試驗正在進行中。",
+    "summary_zh": ""
+  },
+  {
+    "title": "Quanta Services stock maintains Buy rating at UBS on strong outlook",
+    "url": "https://www.investing.com/news/analyst-ratings/quanta-services-stock-maintains-buy-rating-at-ubs-on-strong-outlook-93CH-4863451",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-17T22:08:56+08:00",
+    "stocks": [],
+    "uid": "1439ed563cdfc0bcdf25dd50cc8a7f81",
+    "title_en": "Quanta Services stock maintains Buy rating at UBS on strong outlook",
+    "summary_en": "",
+    "title_zh": "由於前景強勁，瑞銀維持廣達服務股的買入評級",
+    "summary_zh": ""
+  },
+  {
+    "title": "UBS reiterates Tapestry stock rating citing AI capabilities",
+    "url": "https://www.investing.com/news/analyst-ratings/ubs-reiterates-tapestry-stock-rating-citing-ai-capabilities-93CH-4863450",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-17T22:08:54+08:00",
+    "stocks": [],
+    "uid": "f598e00612c2b77b237d549521c342dc",
+    "title_en": "UBS reiterates Tapestry stock rating citing AI capabilities",
+    "summary_en": "",
+    "title_zh": "瑞銀重申 Tapestry 股票評級，理由是人工智慧能力",
+    "summary_zh": ""
+  },
+  {
+    "title": "UBS reiterates Buy rating on BJ’s Wholesale stock ahead of results",
+    "url": "https://www.investing.com/news/analyst-ratings/ubs-reiterates-buy-rating-on-bjs-wholesale-stock-ahead-of-results-93CH-4863449",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-17T22:08:53+08:00",
+    "stocks": [],
+    "uid": "a27682cbde923eeb816a1cf4f720cd59",
+    "title_en": "UBS reiterates Buy rating on BJ’s Wholesale stock ahead of results",
+    "summary_en": "",
+    "title_zh": "瑞銀在業績公佈前重申對 BJ Wholesale 股票的買入評級",
+    "summary_zh": ""
+  },
+  {
+    "title": "Galantas Gold reports warrant exercise for 325,000 shares",
+    "url": "https://www.investing.com/news/company-news/galantas-gold-reports-warrant-exercise-for-325000-shares-93CH-4863447",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-17T22:08:39+08:00",
+    "stocks": [],
+    "uid": "e40391f0b7e3d870d26297e078698593",
+    "title_en": "Galantas Gold reports warrant exercise for 325,000 shares",
+    "summary_en": "",
+    "title_zh": "Galantas Gold 報告行使 325,000 股認股權證",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why is Marvell Technology stock surging today?",
+    "url": "https://www.investing.com/news/stock-market-news/why-is-marvell-technology-stock-surging-today-93CH-4863448",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-17T22:08:39+08:00",
+    "stocks": [],
+    "uid": "f2f409ee175d15ee685a5d9d627a259f",
+    "title_en": "Why is Marvell Technology stock surging today?",
+    "summary_en": "",
+    "title_zh": "為什麼 Marvell 科技股票今天飆漲？",
+    "summary_zh": ""
+  },
+  {
+    "title": "US home builder sentiment ticks up in August but remains weak overall",
+    "url": "https://www.investing.com/news/economy-news/us-home-builder-sentiment-ticks-up-in-august-but-remains-weak-overall-4863446",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-17T22:08:06+08:00",
+    "stocks": [],
+    "uid": "7373759516de7877300a060df9ca4ff1",
+    "title_en": "US home builder sentiment ticks up in August but remains weak overall",
+    "summary_en": "",
+    "title_zh": "8 月美國房屋建築商信心回升，但整體仍疲軟",
+    "summary_zh": ""
+  },
+  {
+    "title": "Jefferies cuts China online beauty outlook after July slowdown",
+    "url": "https://www.investing.com/news/stock-market-news/jefferies-cuts-china-online-beauty-outlook-after-july-slowdown-93CH-4863444",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-17T22:07:59+08:00",
+    "stocks": [],
+    "uid": "ed6f17aadf6a8a5c3c1efbfb1ab62ca2",
+    "title_en": "Jefferies cuts China online beauty outlook after July slowdown",
+    "summary_en": "",
+    "title_zh": "七月經濟放緩後，傑富瑞下調中國線上美容前景",
+    "summary_zh": ""
+  },
+  {
+    "title": "S&P 500 inches lower as Middle East tensions outweigh tech gains",
+    "url": "https://www.investing.com/news/economy-news/nasdaq-futures-gain-as-tech-stocks-climb-4862660",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-17T22:07:48+08:00",
+    "stocks": [],
+    "uid": "5e751ae3f892bae09335b1bfdcc9da66",
+    "title_en": "S&P 500 inches lower as Middle East tensions outweigh tech gains",
+    "summary_en": "",
+    "title_zh": "中東緊張局勢超過科技股漲幅，標普下跌 500 英寸",
+    "summary_zh": ""
+  },
+  {
+    "title": "Bill Ackman's Pershing Square Made Amazon Its Fourth-Largest Holding by Dumping Alphabet. Here's the Thesis Behind the Switch.",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackmans-pershing-square-made-140700025.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T22:07:00+08:00",
+    "stocks": [],
+    "uid": "df47297eec5504b5e2a69cbc9a05e472",
+    "title_en": "Bill Ackman's Pershing Square Made Amazon Its Fourth-Largest Holding by Dumping Alphabet. Here's the Thesis Behind the Switch.",
+    "summary_en": "",
+    "title_zh": "比爾·阿克曼 (Bill Ackman) 的潘興廣場 (Pershing Square) 透過拋售 Alphabet，使亞馬遜成為第四大控股公司。這是開關背後的論文。",
+    "summary_zh": ""
+  },
+  {
+    "title": "24/7 Wall St.’s Lumentum Recommendation is Up More than 1000%. Here’s Why the Stock Can Keep Rallying.",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/24-7-wall-st-lumentum-140420050.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T22:04:20+08:00",
+    "stocks": [],
+    "uid": "908da490c08c4c2599b0a2bd613124a9",
+    "title_en": "24/7 Wall St.’s Lumentum Recommendation is Up More than 1000%. Here’s Why the Stock Can Keep Rallying.",
+    "summary_en": "",
+    "title_zh": "24/7 Wall St. 的 Lumentum 推薦度上漲超過 1000%。這就是股票可以持續上漲的原因。",
+    "summary_zh": ""
+  },
+  {
+    "title": "Moving at the speed of pharma digitalisation: driving ROI from AI and digital tools",
+    "url": "https://finance.yahoo.com/healthcare/articles/moving-speed-pharma-digitalisation-driving-140413025.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T22:04:13+08:00",
+    "stocks": [],
+    "uid": "1c8bfea49d351cb6b31ecb2e6ffce620",
+    "title_en": "Moving at the speed of pharma digitalisation: driving ROI from AI and digital tools",
+    "summary_en": "",
+    "title_zh": "以製藥數位化的速度前進：透過人工智慧和數位工具提高投資回報率",
+    "summary_zh": ""
+  },
+  {
+    "title": "Space Exploration Technologies Corp. (SPCX) Says $100 Billion in Revenue Is Coming by December. Here’s the Math Behind It: (ready for Vardah)",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/space-exploration-technologies-corp-spcx-140305877.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T22:03:05+08:00",
+    "stocks": [
+      "SPCX"
+    ],
+    "uid": "cfe571b9886301cf3f56e733d053007a",
+    "title_en": "Space Exploration Technologies Corp. (SPCX) Says $100 Billion in Revenue Is Coming by December. Here’s the Math Behind It: (ready for Vardah)",
+    "summary_en": "",
+    "title_zh": "太空探索技術公司 (SPCX) 表示，到 12 月，營收將達到 1,000 億美元。這是背後的數學原理：（為 Vardah 做好準備）",
+    "summary_zh": ""
+  },
+  {
+    "title": "Extreme Networks (EXTR) Rises on Strong AI Driven Results",
+    "url": "https://finance.yahoo.com/technology/ai/articles/extreme-networks-extr-rises-strong-135935138.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T21:59:35+08:00",
+    "stocks": [
+      "EXTR"
+    ],
+    "uid": "9f82b80dfacdc2b7db1b469bc0974a28",
+    "title_en": "Extreme Networks (EXTR) Rises on Strong AI Driven Results",
+    "summary_en": "",
+    "title_zh": "Extreme Networks (EXTR) 因人工智慧驅動的強勁業績而崛起",
+    "summary_zh": ""
+  },
+  {
+    "title": "L3Harris Replaces CEO After Conduct Investigation, Shares Retreat",
+    "url": "https://www.investors.com/news/l3harris-ceo-change-christorpher-kubasik-conduct-sam-mehta-lhx-stock/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T21:59:22+08:00",
+    "stocks": [],
+    "uid": "7fabc60769beb77c97849e886db4bad3",
+    "title_en": "L3Harris Replaces CEO After Conduct Investigation, Shares Retreat",
+    "summary_en": "",
+    "title_zh": "L3Harris 在進行調查後更換首席執行官，股票撤退",
+    "summary_zh": ""
+  },
+  {
+    "title": "Bitcoin and ethereum prices today, Monday, August 17, 2026: Crypto prices down slightly as analysts question timing of bear market bottom",
+    "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-august-17-2026-crypto-prices-down-slightly-as-analysts-question-timing-of-bear-market-bottom-135747407.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T21:57:47+08:00",
+    "stocks": [],
+    "uid": "36879cd191e30eb1e61ff8bf4c507721",
+    "title_en": "Bitcoin and ethereum prices today, Monday, August 17, 2026: Crypto prices down slightly as analysts question timing of bear market bottom",
+    "summary_en": "",
+    "title_zh": "今天，即 2026 年 8 月 17 日星期一，比特幣和以太幣價格：由於分析師質疑熊市底部的時機，加密貨幣價格小幅下跌",
+    "summary_zh": ""
+  },
+  {
+    "title": "TTM Technologies (TTMI) Shares Surge Following Strong Results and Outlook Raise",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ttm-technologies-ttmi-shares-surge-135734015.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T21:57:34+08:00",
+    "stocks": [
+      "TTMI"
+    ],
+    "uid": "7f29d9bcd66a239130319c05d648dd95",
+    "title_en": "TTM Technologies (TTMI) Shares Surge Following Strong Results and Outlook Raise",
+    "summary_en": "",
+    "title_zh": "TTM Technologies (TTMI) 股價因強勁業績和前景上漲而飆升",
+    "summary_zh": ""
+  },
+  {
+    "title": "Balancing Factor Exposure Drives Bloom Energy Corp’s (BE) Gains",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/balancing-factor-exposure-drives-bloom-135603413.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T21:56:03+08:00",
+    "stocks": [
+      "BE"
+    ],
+    "uid": "717775edd05a944ddb9e9c1c303180c9",
+    "title_en": "Balancing Factor Exposure Drives Bloom Energy Corp’s (BE) Gains",
+    "summary_en": "",
+    "title_zh": "平衡因素敞口推動布魯姆能源公司 (BE) 的收益",
+    "summary_zh": ""
+  },
+  {
+    "title": "Nayax (NYAX) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/17/nayax-nyax-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Revenue hit $123 million with 28% growth as recurring revenue surged.",
+    "published_at": "2026-08-17T21:53:30+08:00",
+    "stocks": [
+      "NYAX"
+    ],
+    "uid": "de3a9cc6778093466ac6edc95f4f5683",
+    "title_en": "Nayax (NYAX) Q2 2026 Earnings Call Transcript",
+    "summary_en": "Revenue hit $123 million with 28% growth as recurring revenue surged.",
+    "title_zh": "I (NYAX) 2026 年第二季財報電話會議紀錄",
+    "summary_zh": "隨著經常性收入的激增，營收達到 1.23 億美元，成長 28%。"
+  },
+  {
+    "title": "CoreWeave Stock Has Jumped 163% Since Its IPO. Here's Why It Can Become a Multibagger By 2028",
+    "url": "https://www.fool.com/investing/2026/08/17/coreweave-stock-has-jumped-163-since-its-ipo-heres/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "CoreWeave's latest quarterly results make it clear that strong AI data center demand will ensure healthy long-term growth for the company.",
+    "published_at": "2026-08-17T21:53:00+08:00",
+    "stocks": [],
+    "uid": "61cf632a8a5e0940d7c3646b0c4128d7",
+    "title_en": "CoreWeave Stock Has Jumped 163% Since Its IPO. Here's Why It Can Become a Multibagger By 2028",
+    "summary_en": "CoreWeave's latest quarterly results make it clear that strong AI data center demand will ensure healthy long-term growth for the company.",
+    "title_zh": "自 IPO 以來，CoreWeave 股價已上漲 163%。這就是為什麼到 2028 年它可以成為 Multibagger",
+    "summary_zh": "CoreWeave最新的季度業績清楚地表明，強勁的人工智慧資料中心需求將確保公司健康的長期成長。"
+  },
+  {
+    "title": "Silver prices today, Monday, August 17, 2026: Buoyed by softer economic data, while industrial outlook remains uncertain",
+    "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-august-17-2026-buoyed-by-softer-economic-data-while-industrial-outlook-remains-uncertain-135247624.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T21:52:47+08:00",
+    "stocks": [],
+    "uid": "361575310425f289114001a52ad05da9"
+  },
+  {
+    "title": "Tech searches for gains as stocks teeter at the open: AlphaCheck",
+    "url": "https://finance.yahoo.com/markets/article/tech-searches-for-gains-as-stocks-teeter-at-the-open-alphacheck-135155576.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T21:51:55+08:00",
+    "stocks": [],
+    "uid": "21518e090659a2887b0aa95d5d9eccdc"
+  },
+  {
+    "title": "Target stock is on fire — but a big test lurks",
+    "url": "https://finance.yahoo.com/markets/stocks/article/target-stock-is-on-fire--but-a-big-test-lurks-134816381.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T21:48:16+08:00",
+    "stocks": [],
+    "uid": "832e790fdc42de704d4741a99266c9a9"
+  },
+  {
+    "title": "Gold prices today, Monday, August 17, 2026: Gold ticks up after lower retail sales report",
+    "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-august-17-2026-gold-ticks-up-after-lower-retail-sales-report-134755206.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T21:47:55+08:00",
+    "stocks": [],
+    "uid": "628117a725fd61f9f68de0eb8110bbb3"
+  },
+  {
+    "title": "Bill Ackman's Pershing Square Made Amazon Its Fourth-Largest Holding by Dumping Alphabet. Here's the Thesis Behind the Switch.",
+    "url": "https://www.fool.com/investing/2026/08/17/bill-ackmans-pershing-square-amazon-alphabet/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Ackman just reshuffled his tech holdings. Here's why Amazon made the cut.",
+    "published_at": "2026-08-17T21:47:00+08:00",
+    "stocks": [],
+    "uid": "c12d894e9f1ef593b2d576e5749f86dd"
+  },
+  {
+    "title": "Target Hospitality (TH) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/17/target-hospitality-th-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "WHS segment revenue surged 142% as data center demand accelerated.",
+    "published_at": "2026-08-17T21:38:42+08:00",
+    "stocks": [
+      "TH"
+    ],
+    "uid": "b21a449ea0e98d3e841db0ffa5a5a6c9"
+  },
+  {
+    "title": "GCM Grosvenor (GCMG) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/17/gcm-grosvenor-gcmg-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Fee-paying AUM surged 13% as SpaceX stake soared to $3.5 billion.",
+    "published_at": "2026-08-17T21:38:42+08:00",
+    "stocks": [
+      "GCMG"
+    ],
+    "uid": "d091fc666faabe0b7a7f30c91880327f"
+  },
+  {
+    "title": "Tesla (TSLA) Advances After Beating Key Metrics in Q1",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-advances-beating-key-133812996.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T21:38:12+08:00",
+    "stocks": [
+      "TSLA"
+    ],
+    "uid": "e8261128beb6db3530868dc4c28f861e"
+  },
+  {
+    "title": "ChatGPT and Billionaire Bill Ackman Agree on Visa (V)",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/chatgpt-billionaire-bill-ackman-agree-133636224.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T21:36:36+08:00",
+    "stocks": [
+      "V"
+    ],
+    "uid": "a2d0756b639a8901f30c11c0d0f00443"
+  },
+  {
+    "title": "The stock market is driving the economy in one major way",
+    "url": "https://www.marketwatch.com/story/the-stock-market-is-driving-the-economy-in-one-major-way-9ea09725?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The wealth effect of higher equity prices has enabled U.S. consumers to continue spending even when changes in disposable income suggested recessions might be possible",
+    "published_at": "2026-08-17T21:35:00+08:00",
+    "stocks": [],
+    "uid": "9e66a59e363130ad81977fbb974b2279"
+  },
+  {
+    "title": "Bitpanda Hit With Fine In Europe’s First MiCA Enforcement Case",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/bitpanda-hit-fine-europe-first-133500614.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T21:35:00+08:00",
+    "stocks": [],
+    "uid": "87a771133386755ef29519746f8aeb94"
+  },
+  {
+    "title": "Hyatt Hotels Corporation (H) Still Attractive Despite Recent Gains",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/hyatt-hotels-corporation-h-still-133431596.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T21:34:31+08:00",
+    "stocks": [
+      "H"
+    ],
+    "uid": "e850a507cb2924f74f90fceb5a990112"
+  },
+  {
+    "title": "FactSet Research Systems (FDS) Discounted Despite AI Workflow Integration",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/factset-research-systems-fds-discounted-133335547.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T21:33:35+08:00",
+    "stocks": [
+      "FDS"
+    ],
+    "uid": "d68bc73f518cbc3c3ce8100b68829f65"
+  },
+  {
     "title": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
     "url": "https://www.cnbc.com/2026/08/17/openai-brockman-leadership-changes.html",
     "source": "CNBC Top",
@@ -11,6 +475,24 @@
     "summary_en": "Brockman told CNBC he doesn't think the wave of recent departures at OpenAI are 'actually that atypical.'",
     "title_zh": "OpenAI 的布羅克曼在 CNBC 獨家報導中駁斥了對領導層變動的擔憂",
     "summary_zh": "布羅克曼 (Brockman) 告訴 CNBC，他認為最近 OpenAI 的離職浪潮「實際上並不那麼不尋常」。"
+  },
+  {
+    "title": "HIVE Digital’s Stock Jumps 14% On News Of Nvidia Deal",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/hive-digital-stock-jumps-14-133100246.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T21:31:00+08:00",
+    "stocks": [],
+    "uid": "cb0d7b3e2bec1142c5bb412fe8445bcb"
+  },
+  {
+    "title": "SpaceX bulls would be wise to remember one thing",
+    "url": "https://finance.yahoo.com/markets/stocks/article/spacex-bulls-would-be-wise-to-remember-one-thing-133018734.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T21:30:18+08:00",
+    "stocks": [],
+    "uid": "35de7b187f61e0da6bb2b7b3c57c2e9c"
   },
   {
     "title": "Getting diagnosed with dementia isn’t the end. It’s a time to take financial action.",
@@ -26,6 +508,24 @@
     "summary_zh": "在記憶喪失的早期階段仔細規劃可以防止日後出現財務和遺產規劃問題。"
   },
   {
+    "title": "Strategy Leaves Bitcoin Holdings Unchanged",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/strategy-leaves-bitcoin-holdings-unchanged-133000030.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T21:30:00+08:00",
+    "stocks": [],
+    "uid": "18ad0959b2184c92ebcdc9be9669518d"
+  },
+  {
+    "title": "Billionaire Bill Ackman's Hedge Fund Just Bought These 2 Financial Stocks That Warren Buffett-Led Berkshire Hathaway Sold in Q1. Here's What History Says Investors Should Do.",
+    "url": "https://www.fool.com/investing/2026/08/17/billionaire-bill-ackman-warren-buffett-berkshire/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Even among high-powered investment experts, one man's trash can be another man's treasure.",
+    "published_at": "2026-08-17T21:30:00+08:00",
+    "stocks": [],
+    "uid": "ce71a9c2977ac7b5678773d2abab2300"
+  },
+  {
     "title": "Jim Cramer's top 10 things to watch in the stock market Monday",
     "url": "https://www.cnbc.com/2026/08/17/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
     "source": "CNBC Top",
@@ -37,6 +537,46 @@
     "summary_en": "Anthropic's second-quarter revenue was up 14-fold over last year, and Melius Research is pushing Dell.",
     "title_zh": "吉姆·克萊默 (Jim Cramer) 週一股市最值得關注的 10 件事",
     "summary_zh": "Anthropic第二季營收較去年成長14倍，Melius Research力壓戴爾。"
+  },
+  {
+    "title": "‘Boring, Not Broken’ – Claude AI Just Bought Uber (UBER). Should You?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/boring-not-broken-claude-ai-132804912.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T21:28:04+08:00",
+    "stocks": [
+      "UBER"
+    ],
+    "uid": "d058ee2e833b5eb126bec64d242250ab"
+  },
+  {
+    "title": "Insider Makes Big Purchase of Consumer Stock, Increases Holdings by 37%",
+    "url": "https://www.fool.com/coverage/filings/2026/08/17/insider-makes-big-purchase-of-consumer-stock-increases-holdings-by-37/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Penegor's purchase expands his direct stake by 37%, signaling confidence despite the stock's 24% decline over the past year.",
+    "published_at": "2026-08-17T21:25:01+08:00",
+    "stocks": [],
+    "uid": "1241e9be07bf06e1273db0e141539fed"
+  },
+  {
+    "title": "GenAI Disruption Fears Pullback in Morningstar (MORN) Despite Solid Financial Fundamentals",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/genai-disruption-fears-pullback-morningstar-132241652.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T21:22:41+08:00",
+    "stocks": [
+      "MORN"
+    ],
+    "uid": "48ea99906a496e707df59e8721a6c2b2"
+  },
+  {
+    "title": "Figure Technology CFO Minchung Kgil Sells 4,000 Shares",
+    "url": "https://www.fool.com/coverage/filings/2026/08/17/figure-technology-cfo-minchung-kgil-sells-4-000-shares/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Insider disposed of stock under pre-scheduled Rule 10b5-1 trading plan established in December 2025, reducing direct holdings to 491,651 shares.",
+    "published_at": "2026-08-17T21:20:01+08:00",
+    "stocks": [],
+    "uid": "8dcffc0b6ae7b0a88780bd9f6bd60d8d"
   },
   {
     "title": "Oil prices rise as Iran rules out interim deal extension, threatens to escalate conflict",
@@ -63,6 +603,17 @@
     "summary_en": "",
     "title_zh": "Uber 與 Zipline 合作在美國為 Uber Eats 優食配送無人機",
     "summary_zh": ""
+  },
+  {
+    "title": "ChatGPT Disagrees With Michael Burry Over Nebius (NBIS)",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/chatgpt-disagrees-michael-burry-over-131506607.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T21:15:06+08:00",
+    "stocks": [
+      "NBIS"
+    ],
+    "uid": "cb947a54647efed8f46333aa9e213149"
   },
   {
     "title": "Jane Street $15 billion loss July Situational Awareness hedge fund",
@@ -286,6 +837,24 @@
     "summary_zh": ""
   },
   {
+    "title": "Think You'll Spend Less in Retirement Than You Do Today? 3 Reasons That May Not Work Out Like You Expect.",
+    "url": "https://www.fool.com/retirement/2026/08/17/think-youll-spend-less-in-retirement-than-you-do-t/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This is one area where being too optimistic could come back to bite you.",
+    "published_at": "2026-08-17T21:00:00+08:00",
+    "stocks": [],
+    "uid": "05c71fd30bcce44b9da2d3cf8e934f94"
+  },
+  {
+    "title": "Toast CFO Elena Gomez Sells 7,924 Shares",
+    "url": "https://www.fool.com/coverage/filings/2026/08/17/toast-cfo-elena-gomez-sells-7-924-shares/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Gomez maintains ~$5.7 million in direct holdings after disposing of 7,924 shares through a pre-arranged Rule 10b5-1 plan.",
+    "published_at": "2026-08-17T20:58:01+08:00",
+    "stocks": [],
+    "uid": "586d8ffc763225a5e5f9930aa84a3395"
+  },
+  {
     "title": "Goldman Sachs warns of consumer spending slowdown as tax refund boost fades",
     "url": "https://finance.yahoo.com/economy/article/goldman-sachs-warns-of-consumer-spending-slowdown-as-tax-refund-boost-fades-125557282.html",
     "source": "Yahoo Finance",
@@ -299,6 +868,24 @@
     "summary_zh": ""
   },
   {
+    "title": "Sandisk Just Gave Micron Technology Investors Great News",
+    "url": "https://www.fool.com/investing/2026/08/17/sandisk-just-gave-micron-technology-investors-grea/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The company recently outlined promising growth targets for the next few years, suggesting that the memory shortage isn't coming to an end anytime soon.",
+    "published_at": "2026-08-17T20:55:02+08:00",
+    "stocks": [],
+    "uid": "6d23315b6ffe1680d9fc0a1dd05dc15b"
+  },
+  {
+    "title": "Energy Stock CEO Doubles Down, Purchases 1,600 Shares, Valued at $257,000",
+    "url": "https://www.fool.com/coverage/filings/2026/08/17/energy-stock-ceo-doubles-down-purchases-1-600-shares-valued-at-usd257-000/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Dell'Osso's open-market buy expands his direct stake by 7% to 24,349 shares, signaling confidence despite a -4% one-year stock return.",
+    "published_at": "2026-08-17T20:55:01+08:00",
+    "stocks": [],
+    "uid": "4b9d2d169480bb3e92d5bb43f8fe8331"
+  },
+  {
     "title": "Nvidia, Alphabet, Peter Thiel: SpaceX Top Shareholders Revealed",
     "url": "https://www.investors.com/news/spacex-stock-elon-musk-nvidia-alphabet-google-peter-thiel/?src=A00220&yptr=yahoo",
     "source": "Yahoo Finance",
@@ -310,6 +897,15 @@
     "summary_en": "",
     "title_zh": "Nvidia、Alphabet、Peter Thiel：SpaceX 最大股東揭曉",
     "summary_zh": ""
+  },
+  {
+    "title": "History Shows Right Now Could Be a Fantastic Time to Invest in the Stock Market. Here's Why.",
+    "url": "https://www.fool.com/investing/2026/08/17/history-shows-right-now-could-be-a-fantastic-time/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "It's a midterm election year, and that could be good news for investors willing to take the long view with these ETFs.",
+    "published_at": "2026-08-17T20:45:00+08:00",
+    "stocks": [],
+    "uid": "12960447f26bc140de2b14a9329668e7"
   },
   {
     "title": "'Don't get too comfortable': Wall Street’s ‘fear gauge’ hits 2026 low — here's why it's unlikely to last",
@@ -341,6 +937,24 @@
     "published_at": "2026-08-17T20:31:33+08:00",
     "stocks": [],
     "uid": "f4892ca535b0e33f9a487aa5057a54c8"
+  },
+  {
+    "title": "Reddit's Data Licensing Revenue Grew 24% to $43 Million, With OpenAI and Google as Its Two Biggest Buyers. Here's Why That Number Is So Tiny.",
+    "url": "https://www.fool.com/investing/2026/08/17/reddits-data-revenue-openai-google-buyers/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The company's data is valuable for AI training, but advertising is the bigger opportunity.",
+    "published_at": "2026-08-17T20:30:00+08:00",
+    "stocks": [],
+    "uid": "d5ae10be14b1256b37197de0171d19c5"
+  },
+  {
+    "title": "REET vs HAUZ: Which Real Estate ETF Is the Better Buy in 2026?",
+    "url": "https://www.fool.com/coverage/etfs/2026/08/17/reet-vs-hauz-which-real-estate-etf-is-the-better-buy-in-2026/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "REET delivered higher returns over the past year, while HAUZ offers a lower expense ratio and higher dividend yield for income-focused investors.",
+    "published_at": "2026-08-17T20:25:01+08:00",
+    "stocks": [],
+    "uid": "ce7d7a9ab0fa150999916ee863255036"
   },
   {
     "title": "BitFuFu earnings missed by $0.13, revenue fell short of estimates",
@@ -447,6 +1061,15 @@
     "summary_zh": ""
   },
   {
+    "title": "History Says a $10,000 Investment in the QQQ Will Be Worth $66,000 in 10 Years",
+    "url": "https://www.fool.com/investing/2026/08/17/history-says-investment-qqq-worth-66000-10-years/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Investors that bought this booming exchange-traded fund a decade ago and held on have benefited from the success of the technology sector.",
+    "published_at": "2026-08-17T20:15:00+08:00",
+    "stocks": [],
+    "uid": "5c8d002207cab447aaec53a2c81ae01a"
+  },
+  {
     "title": "Diligent Robotics begins rollout of Moxi 2.0 hospital robots",
     "url": "https://www.investing.com/news/company-news/diligent-robotics-begins-rollout-of-moxi-20-hospital-robots-93CH-4863010",
     "source": "Investing.com",
@@ -538,6 +1161,15 @@
     "summary_zh": ""
   },
   {
+    "title": "A Corsair Gaming Director Dumps Nearly 9,000 Shares Representing a Substantial 28% of Their Direct Stake. Here's a Closer Look at the Transaction.",
+    "url": "https://www.fool.com/coverage/filings/2026/08/17/a-corsair-gaming-director-dumps-nearly-9-000-shares-representing-a-substantial-28-of-their-direct-stake-here-s-a-closer-look-at-the-transaction/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The gaming peripherals provider reported a notable insider sale as the stock generated a 44% return over the past 12 months.",
+    "published_at": "2026-08-17T20:05:01+08:00",
+    "stocks": [],
+    "uid": "0d1b259a39e957f3a2d795eda8713846"
+  },
+  {
     "title": "What History Reveals About Buying the Vanguard S&P 500 ETF in Volatile Markets",
     "url": "https://finance.yahoo.com/markets/stocks/articles/history-reveals-buying-vanguard-p-120500454.html",
     "source": "Yahoo Finance",
@@ -606,6 +1238,15 @@
     "published_at": "2026-08-17T20:00:00+08:00",
     "stocks": [],
     "uid": "4cf9e56b4ab41fe2fc219bf181cbc625"
+  },
+  {
+    "title": "Palantir Trades at 74x Sales. History Says This Is What Happens to Software Stocks That Cross That Multiple After a Blowout Quarter.",
+    "url": "https://www.fool.com/investing/2026/08/17/palantir-trades-at-roughly-151x-earnings-history-s/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Palantir's revenue is growing over 90% year over year, but the company's stock price is trading at a historically high level.",
+    "published_at": "2026-08-17T20:00:00+08:00",
+    "stocks": [],
+    "uid": "570985740f8d13b55aeb3e6a0b1a2acf"
   },
   {
     "title": "Stock Market Today: Dow Falls, Nasdaq Rises As Memory Chip Stocks Micron, Sandisk Extend Gains (Live Coverage)",
