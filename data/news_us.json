@@ -1,5 +1,571 @@
 [
   {
+    "title": "Synchrony, credit card issuer to Amazon and Walmart, partners with OpenAI for ChatGPT shopping",
+    "url": "https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html",
+    "source": "CNBC Finance",
+    "summary": "Maran Nalluswami, Synchrony's chief strategy officer, told CNBC it will probably take six to 12 months to get payments fully integrated into ChatGPT.",
+    "published_at": "2026-08-17T23:15:51+08:00",
+    "stocks": [],
+    "uid": "684c3a6fa2998045b164438bba7e7306",
+    "title_en": "Synchrony, credit card issuer to Amazon and Walmart, partners with OpenAI for ChatGPT shopping",
+    "summary_en": "Maran Nalluswami, Synchrony's chief strategy officer, told CNBC it will probably take six to 12 months to get payments fully integrated into ChatGPT.",
+    "title_zh": "亞馬遜和沃爾瑪的信用卡發行商 Synchrony 與 OpenAI 合作進行 ChatGPT 購物",
+    "summary_zh": "Synchrony 首席策略長 Maran Nalluswami 告訴 CNBC，可能需要 6 到 12 個月的時間才能將付款完全整合到 ChatGPT 中。"
+  },
+  {
+    "title": "Why is Enovix stock plunging today?",
+    "url": "https://www.investing.com/news/stock-market-news/why-is-enovix-stock-plunging-today-93CH-4863595",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-17T23:11:19+08:00",
+    "stocks": [],
+    "uid": "259dff4e61d59bf4dda0c390c85e275d",
+    "title_en": "Why is Enovix stock plunging today?",
+    "summary_en": "",
+    "title_zh": "為什麼 Enovix 股價今天會暴跌？",
+    "summary_zh": ""
+  },
+  {
+    "title": "Btig warns stock investors on seasonal weakness ahead in election year",
+    "url": "https://www.investing.com/news/stock-market-news/btig-warns-stock-investors-on-seasonal-weakness-ahead-in-election-year-93CH-4863594",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-17T23:10:52+08:00",
+    "stocks": [],
+    "uid": "484462f2aa8b41bd3ca68452ce86a044",
+    "title_en": "Btig warns stock investors on seasonal weakness ahead in election year",
+    "summary_en": "",
+    "title_zh": "Btig 警告股票投資者選舉年即將到來的季節性疲軟",
+    "summary_zh": ""
+  },
+  {
+    "title": "Morocco stocks higher at close of trade; Moroccan All Shares up 0.08%",
+    "url": "https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-008-4863593",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-17T23:10:03+08:00",
+    "stocks": [],
+    "uid": "27b25ef3c1d6db4766ddbf760403635f",
+    "title_en": "Morocco stocks higher at close of trade; Moroccan All Shares up 0.08%",
+    "summary_en": "",
+    "title_zh": "摩洛哥股市收盤走高；摩洛哥全股上漲0.08%",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why is CuriosityStream stock sliding 12% today?",
+    "url": "https://www.investing.com/news/stock-market-news/why-is-curiositystream-stock-sliding-12-today-93CH-4863592",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-17T23:09:14+08:00",
+    "stocks": [],
+    "uid": "24d62c6c3752106e60a97a21830adc66",
+    "title_en": "Why is CuriosityStream stock sliding 12% today?",
+    "summary_en": "",
+    "title_zh": "為什麼 CuriosityStream 股票今天下跌 12%？",
+    "summary_zh": ""
+  },
+  {
+    "title": "Shein targets $26-27 billion valuation in Hong Kong IPO - report",
+    "url": "https://www.investing.com/news/stock-market-news/shein-targets-2627-billion-valuation-in-hong-kong-ipo--report-4863591",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-17T23:09:11+08:00",
+    "stocks": [],
+    "uid": "284894a8500feb88bb65e803d3abace4",
+    "title_en": "Shein targets $26-27 billion valuation in Hong Kong IPO - report",
+    "summary_en": "",
+    "title_zh": "Shein 在香港 IPO 的目標估值為 260-270 億美元——報告",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why is NexGen Energy stock surging today?",
+    "url": "https://www.investing.com/news/stock-market-news/why-is-nexgen-energy-stock-surging-today-93CH-4863590",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-17T23:07:30+08:00",
+    "stocks": [],
+    "uid": "79579fa98ddadf138ae9fd946ae0b579",
+    "title_en": "Why is NexGen Energy stock surging today?",
+    "summary_en": "",
+    "title_zh": "為什麼 NexGen Energy 股票今天飆升？",
+    "summary_zh": ""
+  },
+  {
+    "title": "Axis Bank prices $300 million senior notes due 2029",
+    "url": "https://www.investing.com/news/company-news/axis-bank-prices-300-million-senior-notes-due-2029-93CH-4863581",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-17T23:06:58+08:00",
+    "stocks": [],
+    "uid": "5ab3713f7d8881e141eb8ab7002787a7",
+    "title_en": "Axis Bank prices $300 million senior notes due 2029",
+    "summary_en": "",
+    "title_zh": "Axis 銀行定價 3 億美元 2029 年到期的優先票據",
+    "summary_zh": ""
+  },
+  {
+    "title": "Macquarie cuts Australian bank revenue forecasts",
+    "url": "https://www.investing.com/news/stock-market-news/macquarie-cuts-australian-bank-revenue-forecasts-93CH-4863580",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-17T23:06:13+08:00",
+    "stocks": [],
+    "uid": "7952dfd587ecc183bb57d937ed921015",
+    "title_en": "Macquarie cuts Australian bank revenue forecasts",
+    "summary_en": "",
+    "title_zh": "麥格理下調澳洲銀行收入預期",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why is JetBlue Airways stock sliding today?",
+    "url": "https://www.investing.com/news/stock-market-news/why-is-jetblue-airways-stock-sliding-today-93CH-4863579",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-17T23:06:07+08:00",
+    "stocks": [],
+    "uid": "01625d24edd1ba9c04b98a45fe705081"
+  },
+  {
+    "title": "Cohen & Steers acquires Virginia shopping center with DLC",
+    "url": "https://www.investing.com/news/company-news/cohen--steers-acquires-virginia-shopping-center-with-dlc-93CH-4863578",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-17T23:04:39+08:00",
+    "stocks": [],
+    "uid": "8dae7a237dc7463747e63638a9bb0d87",
+    "title_en": "Cohen & Steers acquires Virginia shopping center with DLC",
+    "summary_en": "",
+    "title_zh": "Cohen & Steers 透過 DLC 收購維吉尼亞購物中心",
+    "summary_zh": ""
+  },
+  {
+    "title": "Gen Z swaps retirement saving for sports betting",
+    "url": "https://finance.yahoo.com/markets/article/gen-z-swaps-retirement-saving-for-sports-betting-150207350.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T23:02:07+08:00",
+    "stocks": [],
+    "uid": "7f3055abaedb5e7d6ecd2a390e6a8882"
+  },
+  {
+    "title": "Most investors are making the same costly mistake — and it has nothing to do with picking the wrong stocks",
+    "url": "https://www.marketwatch.com/story/most-investors-are-making-the-same-costly-mistake-and-it-has-nothing-to-do-with-picking-the-wrong-stocks-4af9d328?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Studies showing younger investors believe gambling is a reasonable path to wealth creation, and not all that different from investing, “concerns me deeply,” Liz Ann Sonders said.",
+    "published_at": "2026-08-17T22:57:00+08:00",
+    "stocks": [],
+    "uid": "7177e04d6314b503c7ae0e5c39b4a070",
+    "title_en": "Most investors are making the same costly mistake — and it has nothing to do with picking the wrong stocks",
+    "summary_en": "Studies showing younger investors believe gambling is a reasonable path to wealth creation, and not all that different from investing, “concerns me deeply,” Liz Ann Sonders said.",
+    "title_zh": "大多數投資人都犯了同樣代價高昂的錯誤——這與選錯股票無關",
+    "summary_zh": "研究表明，年輕投資者認為賭博是創造財富的合理途徑，與投資並沒有什麼不同，「這讓我深感擔憂，」利茲·安·桑德斯說。"
+  },
+  {
+    "title": "Kingsway Corporation (KWY) Has Large Rerating Potential on Execution Discipline",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/kingsway-corporation-kwy-large-rerating-145650333.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T22:56:50+08:00",
+    "stocks": [
+      "KWY"
+    ],
+    "uid": "3adf49934cffd1c1cb31eed87f18456a",
+    "title_en": "Kingsway Corporation (KWY) Has Large Rerating Potential on Execution Discipline",
+    "summary_en": "",
+    "title_zh": "Kingsway Corporation (KWY) 在執行紀律方面具有巨大的重估潛力",
+    "summary_zh": ""
+  },
+  {
+    "title": "Shortage Of Tungsten, Key For AI, Defense, Is Fueling This Stock",
+    "url": "https://www.investors.com/news/tungsten-shortage-almonty-stock-buyback/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T22:56:21+08:00",
+    "stocks": [],
+    "uid": "0dc56774b8315057490601964be824b6",
+    "title_en": "Shortage Of Tungsten, Key For AI, Defense, Is Fueling This Stock",
+    "summary_en": "",
+    "title_zh": "人工智慧、國防的關鍵——鎢的短缺正在推動該股的上漲",
+    "summary_zh": ""
+  },
+  {
+    "title": "Nature’s Sunshine (NATR) Lays Out a $1B Growth Target Amid Guidance Cuts",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nature-sunshine-natr-lays-1b-145135828.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T22:51:35+08:00",
+    "stocks": [
+      "NATR"
+    ],
+    "uid": "808120f5108448e5baac0e89e792373d",
+    "title_en": "Nature’s Sunshine (NATR) Lays Out a $1B Growth Target Amid Guidance Cuts",
+    "summary_en": "",
+    "title_zh": "Nature’s Sunshine (NATR) 在指導意見削減的情況下制定了 10 億美元的成長目標",
+    "summary_zh": ""
+  },
+  {
+    "title": "Prediction markets see a divided government after midterm elections. Here’s how you should trade, Citi says.",
+    "url": "https://www.marketwatch.com/story/prediction-markets-see-a-divided-government-after-midterm-elections-heres-how-you-should-trade-citi-says-26d429ca?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The odds on Polymarket of a sweep by the Democratic Party in November have risen to 48%, and Citigroup sees a potential rally in bonds.",
+    "published_at": "2026-08-17T22:51:00+08:00",
+    "stocks": [],
+    "uid": "bb0846e2ad32da5169ebfe3d977c8206",
+    "title_en": "Prediction markets see a divided government after midterm elections. Here’s how you should trade, Citi says.",
+    "summary_en": "The odds on Polymarket of a sweep by the Democratic Party in November have risen to 48%, and Citigroup sees a potential rally in bonds.",
+    "title_zh": "市場預測中期選舉後政府將出現分裂。花旗表示，這就是您應該如何進行交易的方法。",
+    "summary_zh": "Polymarket 認為民主黨 11 月大獲全勝的可能性已上升至 48%，花旗集團認為債券可能出現反彈。"
+  },
+  {
+    "title": "Retail Investors Just Sold Space Exploration Technologies Corp. (SPCX) for the First Time. The Stock Also Just Reclaimed Its IPO Price",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/retail-investors-just-sold-space-144957058.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T22:49:57+08:00",
+    "stocks": [
+      "SPCX"
+    ],
+    "uid": "46e145d6399c0e214c8035df5c546215",
+    "title_en": "Retail Investors Just Sold Space Exploration Technologies Corp. (SPCX) for the First Time. The Stock Also Just Reclaimed Its IPO Price",
+    "summary_en": "",
+    "title_zh": "散戶投資者剛首次出售 Space Exploration Technologies Corp. (SPCX)。該股也剛恢復發行價",
+    "summary_zh": ""
+  },
+  {
+    "title": "Intel’s secondary share sale explained",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/intel-secondary-share-sale-explained-144900322.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T22:49:00+08:00",
+    "stocks": [],
+    "uid": "6bfe303bfb8ae3e4af8d2f7d408839e2"
+  },
+  {
+    "title": "Billionaire Stanley Druckenmiller and Brad Gerstner Both Dumped Broadcom (AVGO) and Bought This AI Stock Instead",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-brad-gerstner-144900858.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T22:49:00+08:00",
+    "stocks": [
+      "AVGO"
+    ],
+    "uid": "fded55f6e545f509084d33e28230a322",
+    "title_en": "Billionaire Stanley Druckenmiller and Brad Gerstner Both Dumped Broadcom (AVGO) and Bought This AI Stock Instead",
+    "summary_en": "",
+    "title_zh": "億萬富翁史丹利·德魯肯米勒和布拉德·格斯特納都拋棄了博通（AVGO）併購買了這只人工智慧股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Martin Marietta Materials (MLM) Extends Rocks and Gravel Theme",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/martin-marietta-materials-mlm-extends-144826420.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T22:48:26+08:00",
+    "stocks": [
+      "MLM"
+    ],
+    "uid": "f2bf60c0719183dc939f17f1a939166e",
+    "title_en": "Martin Marietta Materials (MLM) Extends Rocks and Gravel Theme",
+    "summary_en": "",
+    "title_zh": "Martin Marietta Materials (MLM) 擴展岩石和礫石主題",
+    "summary_zh": ""
+  },
+  {
+    "title": "Got $200? 1 Quantum Computing ETF to Buy Right Now.",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/got-200-1-quantum-computing-144800563.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T22:48:00+08:00",
+    "stocks": [],
+    "uid": "300ef908ab2d9352ce7a1b8d43167e9a",
+    "title_en": "Got $200? 1 Quantum Computing ETF to Buy Right Now.",
+    "summary_en": "",
+    "title_zh": "有200美元嗎？立即購買 1 檔量子計算 ETF。",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why This Analyst Is Skeptical Of Workday-Silver Lake Deal",
+    "url": "https://www.investors.com/news/technology/workday-stock-silver-lake-analyst/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T22:47:45+08:00",
+    "stocks": [],
+    "uid": "abdd9a577bd37a5d5a56bea4936840fc",
+    "title_en": "Why This Analyst Is Skeptical Of Workday-Silver Lake Deal",
+    "summary_en": "",
+    "title_zh": "為什麼這位分析師對 Workday 與銀湖的交易持懷疑態度",
+    "summary_zh": ""
+  },
+  {
+    "title": "PwC predicts tax revamp will lure multinationals to Hong Kong – report",
+    "url": "https://finance.yahoo.com/economy/policy/articles/pwc-predicts-tax-revamp-lure-144558473.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T22:45:58+08:00",
+    "stocks": [],
+    "uid": "c52151e6faf6a6128709c64e9c9b525e",
+    "title_en": "PwC predicts tax revamp will lure multinationals to Hong Kong – report",
+    "summary_en": "",
+    "title_zh": "普華永道預測稅改將吸引跨國公司來到香港—報告",
+    "summary_zh": ""
+  },
+  {
+    "title": "The Fund’s Strategic Sale of Old Dominion Freight Line (ODFL) Locked in Gains",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/fund-strategic-sale-old-dominion-144535323.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T22:45:35+08:00",
+    "stocks": [
+      "ODFL"
+    ],
+    "uid": "ca69b4a8a6db504346903b4419d987d8"
+  },
+  {
+    "title": "Corning’s Tariff Immunity Comes Down to One Strategic Choice, CEO Says",
+    "url": "https://finance.yahoo.com/economy/policy/articles/corning-tariff-immunity-comes-down-144526957.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T22:45:26+08:00",
+    "stocks": [],
+    "uid": "80acb1c1537c4bb180652cafab1d22c4",
+    "title_en": "Corning’s Tariff Immunity Comes Down to One Strategic Choice, CEO Says",
+    "summary_en": "",
+    "title_zh": "執行長表示，康寧的關稅豁免權歸結為一種戰略選擇",
+    "summary_zh": ""
+  },
+  {
+    "title": "This Is the Average Social Security Benefit at Age 70",
+    "url": "https://www.fool.com/retirement/2026/08/17/this-is-the-average-social-security-benefit-at-age/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "It's not a bad chunk of change for the average beneficiary, although the possible payments fall into a very wide range.",
+    "published_at": "2026-08-17T22:45:00+08:00",
+    "stocks": [],
+    "uid": "8491b9f094c3e477e019cc06f7f1046d",
+    "title_en": "This Is the Average Social Security Benefit at Age 70",
+    "summary_en": "It's not a bad chunk of change for the average beneficiary, although the possible payments fall into a very wide range.",
+    "title_zh": "這是 70 歲時的平均社會安全福利",
+    "summary_zh": "對於普通受益人來說，這並不是一個壞錢，儘管可能的付款範圍非常廣泛。"
+  },
+  {
+    "title": "monday.com (MNDY) Q2 2026 Earnings Call Transcript",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/monday-com-mndy-q2-2026-144408808.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T22:44:08+08:00",
+    "stocks": [
+      "MNDY"
+    ],
+    "uid": "8787bf1e7bad1de580ab3de7506bf9ef",
+    "title_en": "monday.com (MNDY) Q2 2026 Earnings Call Transcript",
+    "summary_en": "",
+    "title_zh": "monday.com (MNDY) 2026 年第二季財報電話會議紀錄",
+    "summary_zh": ""
+  },
+  {
+    "title": "Veralto’s (VLTO) Dual-Segment Advantage Fuels Long-Term Value",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/veralto-vlto-dual-segment-advantage-144304156.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T22:43:04+08:00",
+    "stocks": [
+      "VLTO"
+    ],
+    "uid": "c536573d0f1ec57c6ccd471ff2ecf37f",
+    "title_en": "Veralto’s (VLTO) Dual-Segment Advantage Fuels Long-Term Value",
+    "summary_en": "",
+    "title_zh": "Veralto (VLTO) 的雙細分市場優勢推動長期價值",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why Unusual Machines Stock Is Plummeting Today",
+    "url": "https://www.fool.com/investing/2026/08/17/why-unusual-machines-stock-is-plummeting-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "No news isn't always good news.",
+    "published_at": "2026-08-17T22:42:11+08:00",
+    "stocks": [],
+    "uid": "1fd0bce258fed82a52912f96767fb16a"
+  },
+  {
+    "title": "Hawaiian Electric’s (HE) Second Quarter Numbers Mask A Harder Truth",
+    "url": "https://finance.yahoo.com/energy/articles/hawaiian-electric-second-quarter-numbers-144032558.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T22:40:32+08:00",
+    "stocks": [
+      "HE"
+    ],
+    "uid": "ddff656c8e20f9a88a55614fad8c7a68"
+  },
+  {
+    "title": "Nvidia Strikes Deal With OpenAI As Tenant; Is Nvidia A Buy Now?",
+    "url": "https://www.investors.com/research/nvidia-nvda-stock-august-2026-earnings/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T22:38:24+08:00",
+    "stocks": [],
+    "uid": "1043a60c4bbde4e821920c28cb705249"
+  },
+  {
+    "title": "This Stealth RMD Trick Could Save You Thousands of Dollars in Taxes",
+    "url": "https://www.fool.com/retirement/2026/08/17/this-stealth-rmd-trick-could-save-you-thousands-of/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "It's a tactic worth exploring.",
+    "published_at": "2026-08-17T22:36:00+08:00",
+    "stocks": [],
+    "uid": "5f9c0d8b5c63c4e2db4373265a8ab3d8"
+  },
+  {
+    "title": "Eli Lilly and Company (LLY)’s Weight-Loss Pill Just Won Its First Race in Europe. Novo Nordisk A/S (NVO) Still Has a Head Start",
+    "url": "https://finance.yahoo.com/healthcare/articles/eli-lilly-company-lly-weight-143436219.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T22:34:36+08:00",
+    "stocks": [
+      "LLY",
+      "NVO"
+    ],
+    "uid": "532b415dfe2a8627bace70140f0f710e"
+  },
+  {
+    "title": "He was laid off after 25 years as an Adobe engineer, applied for a year, then gave up on tech to drive a school bus",
+    "url": "https://finance.yahoo.com/technology/articles/laid-off-25-years-adobe-143000952.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T22:30:00+08:00",
+    "stocks": [],
+    "uid": "91762f845afcd9650a7091101df3a694"
+  },
+  {
+    "title": "Stanley Druckenmiller ditched these chip plays before the selloff. Here’s how he’s playing the tech sector now.",
+    "url": "https://www.marketwatch.com/story/stanley-druckenmiller-ditched-these-chip-plays-before-the-selloff-heres-how-hes-playing-the-tech-sector-now-9115c06f?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The closely followed investor has beefed up some technology holdings in the second quarter.",
+    "published_at": "2026-08-17T22:29:00+08:00",
+    "stocks": [],
+    "uid": "0bc48b9ea050bdc004017173200a8644"
+  },
+  {
+    "title": "Got $200? 1 Quantum Computing ETF to Buy Right Now.",
+    "url": "https://www.fool.com/investing/2026/08/17/got-200-1-quantum-computing-etf-to-buy-right-now/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This ETF is a diversified way to bet on the future of quantum computing and AI without picking a single winner.",
+    "published_at": "2026-08-17T22:28:00+08:00",
+    "stocks": [],
+    "uid": "6178dc3df741fd7310a79ccc77da3c99"
+  },
+  {
+    "title": "monday.com (MNDY) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/17/mondaycom-mndy-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "AI ARR doubled as upmarket motion drove record large customer net adds.",
+    "published_at": "2026-08-17T22:24:08+08:00",
+    "stocks": [
+      "MNDY"
+    ],
+    "uid": "720a50e72f40cc7b9c2e33ad1314c6bf"
+  },
+  {
+    "title": "CECO (CECO) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/17/ceco-ceco-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Record backlog of $1.82 billion and $8.5 billion pipeline signal strong momentum ahead.",
+    "published_at": "2026-08-17T22:24:03+08:00",
+    "stocks": [
+      "CECO"
+    ],
+    "uid": "07d3e7c000bd0f44c98f6acf9d9ac02f"
+  },
+  {
+    "title": "CRC Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/17/crc-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Oil producer hits synergy targets early while expanding carbon and data center operations.",
+    "published_at": "2026-08-17T22:24:02+08:00",
+    "stocks": [],
+    "uid": "92ff37c67cb3a98ea9087530e5144f76"
+  },
+  {
+    "title": "NESR Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/17/nesr-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Record revenue and EBITDA fuel 3B3 strategy acceleration toward $3 billion target.",
+    "published_at": "2026-08-17T22:24:02+08:00",
+    "stocks": [],
+    "uid": "754839fb8f6913a8269706c1e31c8e22"
+  },
+  {
+    "title": "Tonix Pharmaceuticals (TNXP) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/17/tonix-pharmaceuticals-tnxp-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "TONMYA sales hit $11 million in its second quarter on market.",
+    "published_at": "2026-08-17T22:24:02+08:00",
+    "stocks": [
+      "TNXP"
+    ],
+    "uid": "c5a3ad4380cbe55b3a36220a5a11b522"
+  },
+  {
+    "title": "International Seaways (INSW) Q2 2026 Earnings Call",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/17/international-seaways-insw-q2-2026-earnings-call/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Geopolitical disruptions boost tanker rates and drive record profitability.",
+    "published_at": "2026-08-17T22:24:01+08:00",
+    "stocks": [
+      "INSW"
+    ],
+    "uid": "5ca75f4efe26413f89ae592102df25fa"
+  },
+  {
+    "title": "NVIDIA Corporation (NVDA) & KKR & Co (KKR): Wall Street Just Endorsed Jensen Huang’s “Big Concept.” What Happens Next?",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-kkr-co-142307968.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T22:23:07+08:00",
+    "stocks": [
+      "NVDA",
+      "KKR"
+    ],
+    "uid": "4637f6270b50a93d012d2a25bddfad03"
+  },
+  {
+    "title": "Why SK Hynix Stock Popped Today",
+    "url": "https://www.fool.com/investing/2026/08/17/why-sk-hynix-stock-popped-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Did President Trump accidentally start a rally in a Korean memory chip stock?",
+    "published_at": "2026-08-17T22:21:32+08:00",
+    "stocks": [],
+    "uid": "4e0eb75b5e3332a64d08d3709212fbcd"
+  },
+  {
+    "title": "Anthropic Is Reportedly Aiming for a Valuation of $2 Trillion or More. Is It Justifiable?",
+    "url": "https://www.fool.com/investing/2026/08/17/anthropic-is-reportedly-aiming-for-a-valuation-of/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The company behind the Claude chatbot reportedly generated $11.5 billion in revenue in its most recent quarter.",
+    "published_at": "2026-08-17T22:18:19+08:00",
+    "stocks": [],
+    "uid": "a9831de096ecd01205b9745bddd881ed"
+  },
+  {
+    "title": "Why Target Is Betting a Chief AI Officer Will Boost Growth",
+    "url": "https://www.fool.com/investing/2026/08/17/why-target-is-betting-a-chief-ai-officer-will-boos/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Target's continued turnaround will include implementing a more cohesive AI strategy.",
+    "published_at": "2026-08-17T22:18:00+08:00",
+    "stocks": [],
+    "uid": "c0d8abc201a4a6161ab28359b04c19bf"
+  },
+  {
+    "title": "Billionaire Stanley Druckenmiller Tripled His Stake in United Airlines (UAL). Should You Buy?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-tripled-stake-141505376.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T22:15:05+08:00",
+    "stocks": [
+      "UAL"
+    ],
+    "uid": "320e424808507a5628ef7f03d1d34791"
+  },
+  {
     "title": "Supreme Court again rejects Trump bid to overturn E. Jean Carroll verdict",
     "url": "https://www.cnbc.com/2026/08/17/trump-supreme-court-e-jean-carroll.html",
     "source": "CNBC Top",
@@ -11,6 +577,26 @@
     "summary_en": "A spokesperson for Trump's legal team slammed Carroll's case as a witch hunt and a hoax.",
     "title_zh": "最高法院再次拒絕川普推翻 E. Jean Carroll 判決的請求",
     "summary_zh": "川普法律團隊的發言人抨擊卡羅爾的案件是政治迫害和騙局。"
+  },
+  {
+    "title": "Tronox Holdings Plc (TROX) Pressured by Softer Guidance and Leverage Risks",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/tronox-holdings-plc-trox-pressured-141158294.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T22:11:58+08:00",
+    "stocks": [
+      "TROX"
+    ],
+    "uid": "6b6f01e3926c5ca46036684b4a908748"
+  },
+  {
+    "title": "Wingstop Stock Is Down 62% in 1 Year. Could the Sell-Off Be Nearing an End?",
+    "url": "https://www.fool.com/investing/2026/08/17/wingstop-is-down-62-in-1-year-could-the-sell-off-b/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "It has been a rough few years for Wingstop.",
+    "published_at": "2026-08-17T22:11:00+08:00",
+    "stocks": [],
+    "uid": "5936edcda03214df555f33e42965c870"
   },
   {
     "title": "Vibra Q2 2026 slides: margins surge 233% as debt falls to 1.3x",
@@ -37,6 +623,15 @@
     "summary_en": "Technology giants are shelling out billions to scale capacity to meet massive data center demand.",
     "title_zh": "Nvidia 支援俄亥俄州 OpenAI 資料中心的融資",
     "summary_zh": "科技巨頭正在斥資數十億美元擴大容量，以滿足龐大的資料中心需求。"
+  },
+  {
+    "title": "Israel’s Largest Crypto Broker Reports Data Breach",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/israel-largest-crypto-broker-reports-141000691.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T22:10:00+08:00",
+    "stocks": [],
+    "uid": "658d8bf6ff174506708c8e44d5ff4e1d"
   },
   {
     "title": "Eastern Bankshares stock hits all-time high at 23.76 USD",
@@ -143,6 +738,17 @@
     "summary_zh": ""
   },
   {
+    "title": "Flowserve Corporation (FLS) Trims Full-Year Growth Outlook as Organic Sales Decline ~1%",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/flowserve-corporation-fls-trims-full-140829474.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T22:08:29+08:00",
+    "stocks": [
+      "FLS"
+    ],
+    "uid": "1b7f161a0da50e298bd938e1e0707223"
+  },
+  {
     "title": "US home builder sentiment ticks up in August but remains weak overall",
     "url": "https://www.investing.com/news/economy-news/us-home-builder-sentiment-ticks-up-in-august-but-remains-weak-overall-4863446",
     "source": "Investing.com",
@@ -221,6 +827,17 @@
     "summary_zh": ""
   },
   {
+    "title": "Mueller Water Products (MWA) Slid on Broader Investor Concerns",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/mueller-water-products-mwa-slid-140314546.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T22:03:14+08:00",
+    "stocks": [
+      "MWA"
+    ],
+    "uid": "506c23ece47c1f7223ee6d17060a2133"
+  },
+  {
     "title": "Space Exploration Technologies Corp. (SPCX) Says $100 Billion in Revenue Is Coming by December. Here’s the Math Behind It: (ready for Vardah)",
     "url": "https://finance.yahoo.com/markets/stocks/articles/space-exploration-technologies-corp-spcx-140305877.html",
     "source": "Yahoo Finance",
@@ -234,6 +851,24 @@
     "summary_en": "",
     "title_zh": "太空探索技術公司 (SPCX) 表示，到 12 月，營收將達到 1,000 億美元。這是背後的數學原理：（為 Vardah 做好準備）",
     "summary_zh": ""
+  },
+  {
+    "title": "US home builder sentiment ticks up in August but remains weak overall",
+    "url": "https://finance.yahoo.com/real-estate/articles/us-home-builder-sentiment-ticks-140218719.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T22:02:18+08:00",
+    "stocks": [],
+    "uid": "3369a720c2afa3a6b65652a4d9cc1510"
+  },
+  {
+    "title": "Should Investors Buy Peloton Stock After Its 96% Plunge? Here's the Good News and the Bad News.",
+    "url": "https://www.fool.com/investing/2026/08/17/should-buy-peloton-stock-96-plunge-good-news-bad/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Peloton is struggling to turn its slumping exercise equipment sales around.",
+    "published_at": "2026-08-17T22:00:00+08:00",
+    "stocks": [],
+    "uid": "1f0a6e18416eb0b123d510db73ae7f39"
   },
   {
     "title": "Extreme Networks (EXTR) Rises on Strong AI Driven Results",
