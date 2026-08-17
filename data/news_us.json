@@ -1,12 +1,276 @@
 [
   {
+    "title": "Sanders proposes bill to stop Social Security benefit garnishment for unpaid student loans",
+    "url": "https://www.cnbc.com/2026/08/17/bernie-sanders-social-security-garnishment-student-loans.html",
+    "source": "CNBC Top",
+    "summary": "Sen. Bernie Sanders, I-Vermont, announced a new proposal on Monday to protect federal student loan borrowers from having their Social Security checks garnished.",
+    "published_at": "2026-08-18T04:13:27+08:00",
+    "stocks": [],
+    "uid": "66e10b97d7916467190947889c671149",
+    "title_en": "Sanders proposes bill to stop Social Security benefit garnishment for unpaid student loans",
+    "summary_en": "Sen. Bernie Sanders, I-Vermont, announced a new proposal on Monday to protect federal student loan borrowers from having their Social Security checks garnished.",
+    "title_zh": "桑德斯提出法案，停止對未付學生貸款扣押社會安全福利",
+    "summary_zh": "佛蒙特州參議員伯尼·桑德斯週一宣布了一項新提案，旨在保護聯邦學生貸款借款人的社會安全支票不被扣押。"
+  },
+  {
+    "title": "Nvidia's stock has started to come alive. Here's 3 reasons why it can continue",
+    "url": "https://www.cnbc.com/2026/08/17/nvidias-stock-has-started-to-come-alive-heres-3-reasons-why-it-can-continue-.html",
+    "source": "CNBC Tech",
+    "summary": "The leading AI chipmaker has rebounded since late July.",
+    "published_at": "2026-08-18T04:07:26+08:00",
+    "stocks": [],
+    "uid": "de6db6ccf0cd2b5296b9cd75ce05405e",
+    "title_en": "Nvidia's stock has started to come alive. Here's 3 reasons why it can continue",
+    "summary_en": "The leading AI chipmaker has rebounded since late July.",
+    "title_zh": "英偉達的股票已經開始活躍起來。這是它可以繼續下去的3個原因",
+    "summary_zh": "這家領先的人工智慧晶片製造商自 7 月下旬以來已出現反彈。"
+  },
+  {
+    "title": "ExxonMobil awards $1.1 billion in contracts for Mozambique LNG project",
+    "url": "https://www.investing.com/news/stock-market-news/exxonmobil-awards-11-billion-in-contracts-for-mozambique-lng-project-93CH-4863876",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-18T04:04:52+08:00",
+    "stocks": [],
+    "uid": "8bdcea3689978481f3a2b6f044edefe3",
+    "title_en": "ExxonMobil awards $1.1 billion in contracts for Mozambique LNG project",
+    "summary_en": "",
+    "title_zh": "埃克森美孚授予莫三比克液化天然氣計畫價值11億美元的合約",
+    "summary_zh": ""
+  },
+  {
+    "title": "GenFlat to trial collapsible containers in Vietnam",
+    "url": "https://www.investing.com/news/company-news/genflat-to-trial-collapsible-containers-in-vietnam-93CH-4863875",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-18T04:04:40+08:00",
+    "stocks": [],
+    "uid": "d99f1889bbef749072d0c74703ec32bb",
+    "title_en": "GenFlat to trial collapsible containers in Vietnam",
+    "summary_en": "",
+    "title_zh": "GenFlat 將在越南試用可折疊貨櫃",
+    "summary_zh": ""
+  },
+  {
+    "title": "Zentalis Pharmaceuticals closes $92.6 million stock offering",
+    "url": "https://www.investing.com/news/company-news/zentalis-pharmaceuticals-closes-926-million-stock-offering-93CH-4863873",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-18T04:04:32+08:00",
+    "stocks": [],
+    "uid": "63966b6bd435c71be57cbd8e29743412",
+    "title_en": "Zentalis Pharmaceuticals closes $92.6 million stock offering",
+    "summary_en": "",
+    "title_zh": "Zentalis Pharmaceuticals 完成 9,260 萬美元的股票發行",
+    "summary_zh": ""
+  },
+  {
+    "title": "Amylyx to announce phase 3 trial results for hypoglycemia drug",
+    "url": "https://www.investing.com/news/company-news/amylyx-to-announce-phase-3-trial-results-for-hypoglycemia-drug-93CH-4863874",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-18T04:04:32+08:00",
+    "stocks": [],
+    "uid": "3116c92a85362fd211e49985d0bda8f9",
+    "title_en": "Amylyx to announce phase 3 trial results for hypoglycemia drug",
+    "summary_en": "",
+    "title_zh": "Amylyx 宣布降血糖藥物第 3 期試驗結果",
+    "summary_zh": ""
+  },
+  {
+    "title": "Soybean futures rise on stronger crush pace and oil prices",
+    "url": "https://www.investing.com/news/commodities-news/soybean-futures-rise-on-stronger-crush-pace-and-oil-prices-93CH-4863872",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-18T04:03:36+08:00",
+    "stocks": [],
+    "uid": "5fcd68f4746f3ae20ce1681279dc85bb",
+    "title_en": "Soybean futures rise on stronger crush pace and oil prices",
+    "summary_en": "",
+    "title_zh": "大豆期貨因壓榨速度和油價走強而上漲",
+    "summary_zh": ""
+  },
+  {
+    "title": "Latin American currencies gain as Fed rate hike bets ease",
+    "url": "https://www.investing.com/news/forex-news/latin-american-currencies-gain-as-fed-rate-hike-bets-ease-93CH-4863871",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-18T04:02:27+08:00",
+    "stocks": [],
+    "uid": "733d72378b362119fc9c8336e849a85b",
+    "title_en": "Latin American currencies gain as Fed rate hike bets ease",
+    "summary_en": "",
+    "title_zh": "隨著聯準會升息預期減弱，拉美貨幣上漲",
+    "summary_zh": ""
+  },
+  {
+    "title": "Apple to modify ad tracking rules after German probe",
+    "url": "https://www.investing.com/news/stock-market-news/apple-to-modify-ad-tracking-rules-after-german-probe-93CH-4863867",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-18T04:01:06+08:00",
+    "stocks": [],
+    "uid": "3435cd3cab50a64e45dd4fa9b9949e5e",
+    "title_en": "Apple to modify ad tracking rules after German probe",
+    "summary_en": "",
+    "title_zh": "德國調查後蘋果將修改廣告追蹤規則",
+    "summary_zh": ""
+  },
+  {
+    "title": "Corn futures rise as traders await Pro Farmer tour results",
+    "url": "https://www.investing.com/news/commodities-news/corn-futures-rise-as-traders-await-pro-farmer-tour-results-93CH-4863866",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-18T04:01:04+08:00",
+    "stocks": [],
+    "uid": "80617c088f1544ed59178fb7ef3cf605",
+    "title_en": "Corn futures rise as traders await Pro Farmer tour results",
+    "summary_en": "",
+    "title_zh": "交易員等待 Pro Farmer 巡迴賽結果，玉米期貨上漲",
+    "summary_zh": ""
+  },
+  {
+    "title": "Anthropic revenue run rate passed $65 billion in July - report",
+    "url": "https://www.investing.com/news/stock-market-news/anthropic-revenue-run-rate-passed-65-billion-in-july--report-4863865",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-18T03:55:29+08:00",
+    "stocks": [],
+    "uid": "b0a2741d343519e7a98cf06f48766e85",
+    "title_en": "Anthropic revenue run rate passed $65 billion in July - report",
+    "summary_en": "",
+    "title_zh": "報告稱，7 月人類收入運行率超過 650 億美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why it pays to stay invested: No amount of bad news could stop the stock market’s strongest run in more than 25 years",
+    "url": "https://www.marketwatch.com/story/why-it-pays-to-stay-invested-no-amount-of-bad-news-could-stop-the-stock-markets-strongest-run-in-more-than-25-years-54ba3f8a?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Bull markets climb a wall of worry, as the old saying goes. The past six years have tested just how high that wall can get.",
+    "published_at": "2026-08-18T03:48:00+08:00",
+    "stocks": [],
+    "uid": "d714fd205928ff4095dd15d1ca8758ff",
+    "title_en": "Why it pays to stay invested: No amount of bad news could stop the stock market’s strongest run in more than 25 years",
+    "summary_en": "Bull markets climb a wall of worry, as the old saying goes. The past six years have tested just how high that wall can get.",
+    "title_zh": "為什麼維持投資是值得的：再多的壞消息也無法阻止股市25年來最強勁的上漲",
+    "summary_zh": "正如一句老話所說，牛市攀上了憂慮之牆。過去的六年考驗了這堵牆到底能有多高。"
+  },
+  {
+    "title": "Why Intuitive Machines Stock Popped Today",
+    "url": "https://www.fool.com/investing/2026/08/17/why-intuitive-machines-stock-popped-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Intuitive Machines has a new customer -- but NASA is probably still its favorite.",
+    "published_at": "2026-08-18T03:47:22+08:00",
+    "stocks": [],
+    "uid": "105d34e95e301ce50ce50e46c0c251b3",
+    "title_en": "Why Intuitive Machines Stock Popped Today",
+    "summary_en": "Intuitive Machines has a new customer -- but NASA is probably still its favorite.",
+    "title_zh": "為什麼直覺機器股票今天暴漲",
+    "summary_zh": "Intuitive Machines 有了一個新客戶，但 NASA 可能仍然是它的最愛。"
+  },
+  {
+    "title": "The Last Memory Boom Ended With Micron Losing $5.8 Billion in a Single Year",
+    "url": "https://www.fool.com/investing/2026/08/17/the-last-memory-boom-ended-with-micron-losing-58-b/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The memory maker is earning more in a quarter than it once did in its best full years. Its own income statement shows what has happened after every peak like this.",
+    "published_at": "2026-08-18T03:44:00+08:00",
+    "stocks": [],
+    "uid": "05f52b8a8b3bcc97a4f1b315008ae433",
+    "title_en": "The Last Memory Boom Ended With Micron Losing $5.8 Billion in a Single Year",
+    "summary_en": "The memory maker is earning more in a quarter than it once did in its best full years. Its own income statement shows what has happened after every peak like this.",
+    "title_zh": "上一次記憶體熱潮以美光一年虧損 58 億美元結束",
+    "summary_zh": "這家內存製造商一個季度的盈利超過了其最好的全年盈利。它自己的損益表顯示了每次這樣的高峰之後發生的情況。"
+  },
+  {
+    "title": "Why Marvell Technology Rallied Today",
+    "url": "https://www.fool.com/investing/2026/08/17/why-marvell-technology-rallied-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The stock rallied on a good day for chip stocks, while multiple Wall Street analysts delivered positive notes.",
+    "published_at": "2026-08-18T03:36:46+08:00",
+    "stocks": [],
+    "uid": "98e58e8228c85aa5d802c69acbc3fa20",
+    "title_en": "Why Marvell Technology Rallied Today",
+    "summary_en": "The stock rallied on a good day for chip stocks, while multiple Wall Street analysts delivered positive notes.",
+    "title_zh": "Marvell 技術為何今天上漲",
+    "summary_zh": "該股在晶片股的好日子裡上漲，而多位華爾街分析師也發表了正面的看法。"
+  },
+  {
+    "title": "SLYG vs IJT: Which Small-Cap Growth ETF Wins?",
+    "url": "https://www.fool.com/coverage/etfs/2026/08/17/slyg-vs-ijt-which-small-cap-growth-etf-wins/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Both funds track identical small-cap growth stocks with nearly matching returns, but one charges less while the other holds more assets.",
+    "published_at": "2026-08-18T03:29:01+08:00",
+    "stocks": [],
+    "uid": "41b5a2e652cbb4b47fa559fbbdadb74a",
+    "title_en": "SLYG vs IJT: Which Small-Cap Growth ETF Wins?",
+    "summary_en": "Both funds track identical small-cap growth stocks with nearly matching returns, but one charges less while the other holds more assets.",
+    "title_zh": "SLYG 與 IJT：哪一種小型成長型 ETF 比較勝一籌？",
+    "summary_zh": "兩檔基金都追蹤相同的小型成長股，報酬率幾乎相當，但一檔基金的收費較低，而另一檔基金持有較多的資產。"
+  },
+  {
+    "title": "Why Microsoft Stock Dropped Today",
+    "url": "https://www.fool.com/investing/2026/08/17/why-microsoft-stock-dropped-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Morgan Stanley sounds the alarm on hyperscaler creditworthiness. Should Microsoft investors be worried?",
+    "published_at": "2026-08-18T03:28:52+08:00",
+    "stocks": [],
+    "uid": "d716566956410a2f0a99d59d56825784",
+    "title_en": "Why Microsoft Stock Dropped Today",
+    "summary_en": "Morgan Stanley sounds the alarm on hyperscaler creditworthiness. Should Microsoft investors be worried?",
+    "title_zh": "為什麼微軟股票今天下跌",
+    "summary_zh": "摩根士丹利對超大規模企業的信譽敲響了警鐘。微軟投資者該擔心嗎？"
+  },
+  {
+    "title": "Amazon's Stake in Anthropic Is Now Big Enough to Move Its Earnings. Here's How That Compares to Alphabet's Stake in SpaceX.",
+    "url": "https://www.fool.com/investing/2026/08/17/amazons-stake-in-anthropic-is-now-big-enough-to-mo/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Amazon and Alphabet are benefiting from their massive investments in AI and space companies, but those investments come with greater exposure to private-market valuations and liquidity constraints.",
+    "published_at": "2026-08-18T03:28:00+08:00",
+    "stocks": [],
+    "uid": "feaa973125861128f0e3668db46282a0",
+    "title_en": "Amazon's Stake in Anthropic Is Now Big Enough to Move Its Earnings. Here's How That Compares to Alphabet's Stake in SpaceX.",
+    "summary_en": "Amazon and Alphabet are benefiting from their massive investments in AI and space companies, but those investments come with greater exposure to private-market valuations and liquidity constraints.",
+    "title_zh": "亞馬遜在 Anthropic 的股份現在已經足夠大，足以改變其盈利。這是與 Alphabet 所持有 SpaceX 股份的比較。",
+    "summary_zh": "亞馬遜和 Alphabet 受益於對人工智慧和航太公司的大規模投資，但這些投資面臨更大的私募市場估值和流動性限制。"
+  },
+  {
+    "title": "This Has Far and Away Been the Biggest Surprise at Berkshire Hathaway Since Greg Abel Took Over From Warren Buffett",
+    "url": "https://www.fool.com/investing/2026/08/17/this-has-far-and-away-been-the-biggest-surprise-at/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The company's investment in Alphabet stands out in multiple ways.",
+    "published_at": "2026-08-18T03:27:37+08:00",
+    "stocks": [],
+    "uid": "35636796ceffb2595f3b97df6f115393",
+    "title_en": "This Has Far and Away Been the Biggest Surprise at Berkshire Hathaway Since Greg Abel Took Over From Warren Buffett",
+    "summary_en": "The company's investment in Alphabet stands out in multiple ways.",
+    "title_zh": "自從格雷格·阿貝爾接替華倫·巴菲特以來，這無疑是伯克希爾·哈撒韋公司最大的驚喜",
+    "summary_zh": "該公司對 Alphabet 的投資在多個方面都很引人注目。"
+  },
+  {
+    "title": "If You Invest $100 a Month in SCHD, Here's the Passive Income It Could Deliver in 20 Years",
+    "url": "https://www.fool.com/investing/2026/08/17/if-you-invest-100-a-month-in-schd-heres-the-passiv/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This top dividend ETF is still a reliable long-term income investment.",
+    "published_at": "2026-08-18T03:15:33+08:00",
+    "stocks": [],
+    "uid": "c012765398bae2aa4598b45d78f6c69b",
+    "title_en": "If You Invest $100 a Month in SCHD, Here's the Passive Income It Could Deliver in 20 Years",
+    "summary_en": "This top dividend ETF is still a reliable long-term income investment.",
+    "title_zh": "如果您每月在 SCHD 投資 100 美元，這是 20 年後它可以帶來的被動收入",
+    "summary_zh": "這款頂級股息ETF仍然是可靠的長期收益投資。"
+  },
+  {
     "title": "Earnings call transcript: Jalles Machado posts stronger operations in Q1 2026",
     "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-jalles-machado-posts-stronger-operations-in-q1-2026-93CH-4863838",
     "source": "Investing.com",
     "summary": "",
     "published_at": "2026-08-18T03:14:37+08:00",
     "stocks": [],
-    "uid": "da2a4a493b806e3e45d6755cf7bc2fed"
+    "uid": "da2a4a493b806e3e45d6755cf7bc2fed",
+    "title_en": "Earnings call transcript: Jalles Machado posts stronger operations in Q1 2026",
+    "summary_en": "",
+    "title_zh": "財報電話會議記錄：Jalles Machado 在 2026 年第一季實現了更強勁的運營",
+    "summary_zh": ""
   },
   {
     "title": "Earnings call transcript: Kuya Silver misses Q2 2026 estimates as ramp advances",
@@ -15,7 +279,11 @@
     "summary": "",
     "published_at": "2026-08-18T03:14:35+08:00",
     "stocks": [],
-    "uid": "7a316879217969cfe168b27b56666d2e"
+    "uid": "7a316879217969cfe168b27b56666d2e",
+    "title_en": "Earnings call transcript: Kuya Silver misses Q2 2026 estimates as ramp advances",
+    "summary_en": "",
+    "title_zh": "財報電話會議記錄：隨著產量的增加，Kuya Silver 未達到 2026 年第二季的預期",
+    "summary_zh": ""
   },
   {
     "title": "TD Cowen raises argenx stock price target to $1,353 on myositis outlook",
@@ -29,6 +297,19 @@
     "summary_en": "",
     "title_zh": "由於肌炎前景，TD Cowen 將 argenx 股價目標上調至 1,353 美元",
     "summary_zh": ""
+  },
+  {
+    "title": "NuScale's Revenue Fell 99%. Its Cash Pile Grew By $900 Million. Here's Why That's the Real Story.",
+    "url": "https://www.fool.com/investing/2026/08/17/nuscales-revenue-fell-99-its-cash-pile-grew-by-900/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The SMR developer is diluting its investors with big share offerings.",
+    "published_at": "2026-08-18T03:10:00+08:00",
+    "stocks": [],
+    "uid": "fcaaff245e92d58447091b6f1f93692b",
+    "title_en": "NuScale's Revenue Fell 99%. Its Cash Pile Grew By $900 Million. Here's Why That's the Real Story.",
+    "summary_en": "The SMR developer is diluting its investors with big share offerings.",
+    "title_zh": "NuScale 的營收下降了 99%。其現金儲備增加了 9 億美元。這就是為什麼這是一個真實的故事。",
+    "summary_zh": "這家 SMR 開發商正在透過大量發行股票來稀釋其投資者的股權。"
   },
   {
     "title": "Oceaneering International stock hits 52-week high at 53.98 USD",
@@ -55,6 +336,19 @@
     "summary_en": "",
     "title_zh": "Biolife Solutions 股價觸及 52 週高點 35.36 美元",
     "summary_zh": ""
+  },
+  {
+    "title": "Why L3Harris Stock Is Falling Today",
+    "url": "https://www.fool.com/investing/2026/08/17/why-l3harris-stock-is-falling-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Investors hate uncertainty, and there's a whiff of it around this defense stock today.",
+    "published_at": "2026-08-18T03:05:43+08:00",
+    "stocks": [],
+    "uid": "b4d7342d46faeeede7bc02004c6d030a",
+    "title_en": "Why L3Harris Stock Is Falling Today",
+    "summary_en": "Investors hate uncertainty, and there's a whiff of it around this defense stock today.",
+    "title_zh": "為什麼 L3H​​arris 股票今天下跌",
+    "summary_zh": "投資人討厭不確定性，今天這檔國防股就瀰漫著不確定性的氣息。"
   },
   {
     "title": "Adia Nutrition changes name to Adia Med, receives FINRA approval",
@@ -107,6 +401,28 @@
     "summary_en": "",
     "title_zh": "Tyler White Trading Club 推出 Alpha Pro，一個結構化交易教育應用程式",
     "summary_zh": ""
+  },
+  {
+    "title": "Which International ETF is the Better Buy: VEA or EEM?",
+    "url": "https://www.fool.com/coverage/etfs/2026/08/17/which-international-etf-is-the-better-buy-vea-or-eem/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Vanguard's fund charges just 0.03% annually versus iShares' 0.72%, and has delivered stronger five-year returns with less volatility.",
+    "published_at": "2026-08-18T03:00:01+08:00",
+    "stocks": [],
+    "uid": "689e6aea7e02eb06ee29644fe85e20f7",
+    "title_en": "Which International ETF is the Better Buy: VEA or EEM?",
+    "summary_en": "Vanguard's fund charges just 0.03% annually versus iShares' 0.72%, and has delivered stronger five-year returns with less volatility.",
+    "title_zh": "哪一種國際 ETF 比較值得買：VEA 還是 EEM？",
+    "summary_zh": "Vanguard 的基金年利率僅為 0.03%，而 iShares 的年利率為 0.72%，且五年回報率更高，波動性更小。"
+  },
+  {
+    "title": "Billionaire Ray Dalio Says Today's Artificial Intelligence (AI) Market Echoes 1929 and 2000. History Says Investors Should Watch Valuations Closely.",
+    "url": "https://www.fool.com/investing/2026/08/17/billionaire-ray-dalio-says-todays-ai-market-echoes/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Ray Dalio warns that the current exuberance propelling the stock market is unsustainable.",
+    "published_at": "2026-08-18T03:00:00+08:00",
+    "stocks": [],
+    "uid": "9b83ff5ab7bf6346f6291294f7bf8db1"
   },
   {
     "title": "Paramount seeks $1.88 billion bond from state AGs to cover costs of WBD merger delay",
@@ -8538,6 +8854,15 @@
     "uid": "9548680274e2cd943294fdf38acb259a"
   },
   {
+    "title": "Plug Power Tested a Backup Power System With Microsoft. Here's Why the CEO Says That's Not a Real Pivot Yet.",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/plug-power-tested-backup-power-111400310.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-16T19:14:00+08:00",
+    "stocks": [],
+    "uid": "d7aa0e6046d579fca229bae3553cd637"
+  },
+  {
     "title": "InvestingPro Fair Value nails 68% return on LiveRamp in 5 months",
     "url": "https://www.investing.com/news/investment-ideas/investingpro-fair-value-nails-68-return-on-liveramp-in-5-months-93CH-4861968",
     "source": "Investing.com",
@@ -8590,6 +8915,33 @@
     "summary_zh": ""
   },
   {
+    "title": "Progyny Sees Utilization Rebound as Early Renewals De-Risk Outlook",
+    "url": "https://finance.yahoo.com/healthcare/articles/progyny-sees-utilization-rebound-early-110158073.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-16T19:01:58+08:00",
+    "stocks": [],
+    "uid": "710644976f6728b5e89ccfbe601c5302"
+  },
+  {
+    "title": "3 Quantum Computing Stocks for Aggressive Investors in August",
+    "url": "https://finance.yahoo.com/technology/ai/articles/3-quantum-computing-stocks-aggressive-110021474.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-16T19:00:21+08:00",
+    "stocks": [],
+    "uid": "e573acab0d5be5b823cb27c675321557"
+  },
+  {
+    "title": "5 Dividend Aristocrats to Buy for Lifelong Income in August",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/5-dividend-aristocrats-buy-lifelong-110021950.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-16T19:00:21+08:00",
+    "stocks": [],
+    "uid": "0f414194f46be530cae43d560117d4f6"
+  },
+  {
     "title": "Walmart and Target are about to reveal the health of the U.S. consumer",
     "url": "https://www.marketwatch.com/story/walmart-and-target-are-about-to-reveal-the-health-of-the-u-s-consumer-d5b89491?mod=mw_rss_topstories",
     "source": "MarketWatch",
@@ -8614,6 +8966,15 @@
     "summary_en": "It all comes down to the fundamentals of banking.",
     "title_zh": "Happen Bank 今年將碾壓 SoFi。這就是為什麼它仍然是更好的選擇的原因。",
     "summary_zh": "這一切都取決於銀行業的基本面。"
+  },
+  {
+    "title": "Strategy CEO Phong Le Thinks MSTR Stock Will Outperform Bitcoin During the Next Bull Market. Here's Why He's Wrong.",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/strategy-ceo-phong-le-thinks-110000248.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-16T19:00:00+08:00",
+    "stocks": [],
+    "uid": "803ed5327c6b4174e3ec65e4ba7943a6"
   },
   {
     "title": "Plug Power Tested a Backup Power System With Microsoft. Here's Why the CEO Says That's Not a Real Pivot Yet.",
