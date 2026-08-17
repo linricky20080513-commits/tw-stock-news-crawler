@@ -1,5 +1,524 @@
 [
   {
+    "title": "Vici Properties stock hits 52-week low at 25.81 USD",
+    "url": "https://www.investing.com/news/company-news/vici-properties-stock-hits-52week-low-at-2581-usd-93CH-4863701",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-18T00:11:08+08:00",
+    "stocks": [],
+    "uid": "2e7f343b0bf5187bcc4dd3241e60315e",
+    "title_en": "Vici Properties stock hits 52-week low at 25.81 USD",
+    "summary_en": "",
+    "title_zh": "Vici Properties 股價觸及 52 週低點 25.81 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Mining Americas Q2 2026 slides: Pan ramp-up drives cost gains",
+    "url": "https://www.investing.com/news/company-news/mining-americas-q2-2026-slides-pan-rampup-drives-cost-gains-93CH-4863698",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-18T00:09:40+08:00",
+    "stocks": [],
+    "uid": "6eb8f077e2d7be9cc50dba960af9dbce",
+    "title_en": "Mining Americas Q2 2026 slides: Pan ramp-up drives cost gains",
+    "summary_en": "",
+    "title_zh": "美洲礦業 2026 年第二季投影片：整體產能擴張推動成本上漲",
+    "summary_zh": ""
+  },
+  {
+    "title": "BofA sees dollar weakness continuing with New Zealand dollar gains",
+    "url": "https://www.investing.com/news/stock-market-news/bofa-sees-dollar-weakness-continuing-with-new-zealand-dollar-gains-93CH-4863697",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-18T00:09:23+08:00",
+    "stocks": [],
+    "uid": "a80c2ad30b78821e0e87e43578a5d8ec",
+    "title_en": "BofA sees dollar weakness continuing with New Zealand dollar gains",
+    "summary_en": "",
+    "title_zh": "美國銀行認為美元持續疲軟，紐西蘭元上漲",
+    "summary_zh": ""
+  },
+  {
+    "title": "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.25%",
+    "url": "https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-025-4863696",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-18T00:08:58+08:00",
+    "stocks": [],
+    "uid": "1f07535704cf69de77f6c801c56875fe",
+    "title_en": "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.25%",
+    "summary_en": "",
+    "title_zh": "英國股市收盤走低； Investing.com英國100指數下跌0.25%",
+    "summary_zh": ""
+  },
+  {
+    "title": "Nvidia financing initiative follows SEC guidance that takes sponsors off the hook for data center investments",
+    "url": "https://www.cnbc.com/2026/08/17/nvidia-financing-initiative-follows-sec-guidance-taking-sponsors-off-the-hook.html",
+    "source": "CNBC Top",
+    "summary": "Recent SEC instructions on data center bonds appear applicable to the recent Nvidia financing move, lawyers say.",
+    "published_at": "2026-08-18T00:08:53+08:00",
+    "stocks": [],
+    "uid": "144421e1838a3c939a5ec0ef2d452ce0",
+    "title_en": "Nvidia financing initiative follows SEC guidance that takes sponsors off the hook for data center investments",
+    "summary_en": "Recent SEC instructions on data center bonds appear applicable to the recent Nvidia financing move, lawyers say.",
+    "title_zh": "Nvidia 的融資計劃遵循 SEC 的指導方針，使贊助商擺脫了資料中心投資的困境",
+    "summary_zh": "律師表示，美國證券交易委員會最近關於資料中心債券的指示似乎適用於英偉達最近的融資舉措。"
+  },
+  {
+    "title": "Spain stocks lower at close of trade; IBEX 35 down 0.87%",
+    "url": "https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-087-4863695",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-18T00:08:33+08:00",
+    "stocks": [],
+    "uid": "4bb4133e588281c22bdb521b806ec253",
+    "title_en": "Spain stocks lower at close of trade; IBEX 35 down 0.87%",
+    "summary_en": "",
+    "title_zh": "西班牙股市收盤走低； IBEX 35 下跌 0.87%",
+    "summary_zh": ""
+  },
+  {
+    "title": "Portugal stocks lower at close of trade; PSI down 0.38%",
+    "url": "https://www.investing.com/news/stock-market-news/portugal-stocks-lower-at-close-of-trade-psi-down-038-4863694",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-18T00:08:08+08:00",
+    "stocks": [],
+    "uid": "7ecd4b62aab092a95016a80fc5f5da2d",
+    "title_en": "Portugal stocks lower at close of trade; PSI down 0.38%",
+    "summary_en": "",
+    "title_zh": "葡萄牙股市收盤走低；PSI下跌0.38%",
+    "summary_zh": ""
+  },
+  {
+    "title": "Netherlands stocks lower at close of trade; AEX down 0.27%",
+    "url": "https://www.investing.com/news/stock-market-news/netherlands-stocks-lower-at-close-of-trade-aex-down-027-4863693",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-18T00:07:42+08:00",
+    "stocks": [],
+    "uid": "7fbefaa65cc0c696baa7441a9d9825f0",
+    "title_en": "Netherlands stocks lower at close of trade; AEX down 0.27%",
+    "summary_en": "",
+    "title_zh": "荷蘭股市收盤走低； AEX下跌0.27%",
+    "summary_zh": ""
+  },
+  {
+    "title": "European stocks lower as Trump threatens Oman and Hormuz traffic collapses",
+    "url": "https://www.investing.com/news/stock-market-news/european-stocks-edge-up-as-falling-yields-and-fed-pause-bets-lift-sentiment-4862175",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-18T00:07:19+08:00",
+    "stocks": [],
+    "uid": "afd16e6b8fe9b0bd93a5b797eccef376",
+    "title_en": "European stocks lower as Trump threatens Oman and Hormuz traffic collapses",
+    "summary_en": "",
+    "title_zh": "川普威脅阿曼和霍爾木茲交通崩潰，歐洲股市走低",
+    "summary_zh": ""
+  },
+  {
+    "title": "Italy stocks lower at close of trade; Investing.com Italy 40 down 0.01%",
+    "url": "https://www.investing.com/news/stock-market-news/italy-stocks-lower-at-close-of-trade-investingcom-italy-40-down-001-4863692",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-18T00:07:09+08:00",
+    "stocks": [],
+    "uid": "ee5376b3fa097c6b793e3d238dbf3ad0",
+    "title_en": "Italy stocks lower at close of trade; Investing.com Italy 40 down 0.01%",
+    "summary_en": "",
+    "title_zh": "義大利股市收盤走低； Investing.com 義大利 40 指數下跌 0.01%",
+    "summary_zh": ""
+  },
+  {
+    "title": "Anthropic’s $2 trillion IPO dream rests on staggering revenue bet",
+    "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-2-trillion-ipo-dream-160300727.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-18T00:03:00+08:00",
+    "stocks": [],
+    "uid": "cb6b0fbb1989e555d08acffa22057526",
+    "title_en": "Anthropic’s $2 trillion IPO dream rests on staggering revenue bet",
+    "summary_en": "",
+    "title_zh": "Anthropic 的 2 兆美元 IPO 夢想依賴驚人的收入押注",
+    "summary_zh": ""
+  },
+  {
+    "title": "Apple’s stock could rise 30% if it strikes an Nvidia deal for AI, this analyst says",
+    "url": "https://www.marketwatch.com/story/apples-stock-could-rise-30-if-it-strikes-an-nvidia-deal-for-ai-this-analyst-says-f5f5c861?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "A Rothschild analyst suggests Apple could improve upon its ‘subpar’ AI efforts by deploying Nvidia’s open-source models.",
+    "published_at": "2026-08-18T00:00:00+08:00",
+    "stocks": [],
+    "uid": "cef72deba112866c11ae75c330617885",
+    "title_en": "Apple’s stock could rise 30% if it strikes an Nvidia deal for AI, this analyst says",
+    "summary_en": "A Rothschild analyst suggests Apple could improve upon its ‘subpar’ AI efforts by deploying Nvidia’s open-source models.",
+    "title_zh": "這位分析師表示，如果蘋果與英偉達達成 AI 交易，股價可能會上漲 30%",
+    "summary_zh": "羅斯柴爾德分析師表示，蘋果可以透過部署英偉達的開源模型來改進其「低於標準」的人工智慧工作。"
+  },
+  {
+    "title": "Could Nvidia Be Worth $10 Trillion by 2030?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/could-nvidia-worth-10-trillion-155547240.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T23:55:47+08:00",
+    "stocks": [],
+    "uid": "da5b45151809c94473041527d85b9cd3",
+    "title_en": "Could Nvidia Be Worth $10 Trillion by 2030?",
+    "summary_en": "",
+    "title_zh": "到 2030 年，Nvidia 的市值會達到 10 兆美元嗎？",
+    "summary_zh": ""
+  },
+  {
+    "title": "This New Pipeline Could Unlock Years of Growth for 4 Energy Stocks. Here's Why That's a Win for All of Them.",
+    "url": "https://www.fool.com/investing/2026/08/17/this-new-pipeline-could-unlock-years-of-growth-for-4-energy-stocks-heres-why-thats-a-win-for-all-of-them/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "These energy companies are moving forward with an important new pipeline system.",
+    "published_at": "2026-08-17T23:55:01+08:00",
+    "stocks": [],
+    "uid": "2babe345800d2c8f5fde565dc8834fb0",
+    "title_en": "This New Pipeline Could Unlock Years of Growth for 4 Energy Stocks. Here's Why That's a Win for All of Them.",
+    "summary_en": "These energy companies are moving forward with an important new pipeline system.",
+    "title_zh": "這條新管道可以為 4 隻能源股帶來多年的成長。這就是為什麼這對所有人來說都是一場勝利。",
+    "summary_zh": "這些能源公司正在推動重要的新管道系統。"
+  },
+  {
+    "title": "Motorcar Parts (MPAA) Q1 2027 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/17/motorcar-parts-mpaa-q1-2027-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Management reaffirmed fiscal 2027 guidance despite first-quarter sales headwinds.",
+    "published_at": "2026-08-17T23:53:36+08:00",
+    "stocks": [
+      "MPAA"
+    ],
+    "uid": "0b0692dfa113d40fe1492797949230c9",
+    "title_en": "Motorcar Parts (MPAA) Q1 2027 Earnings Call Transcript",
+    "summary_en": "Management reaffirmed fiscal 2027 guidance despite first-quarter sales headwinds.",
+    "title_zh": "汽車零件 (MPAA) 2027 年第一季財報電話會議紀錄",
+    "summary_zh": "儘管第一季銷售不利，管理層仍重申了 2027 財年的指引。"
+  },
+  {
+    "title": "Village Farms (VFF) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/17/village-farms-vff-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "German cannabis exports surged 74% year-over-year, driving net income to $7.2 million.",
+    "published_at": "2026-08-17T23:53:36+08:00",
+    "stocks": [
+      "VFF"
+    ],
+    "uid": "6bbef69e0773994b64c9fbfd7cc3ab3d",
+    "title_en": "Village Farms (VFF) Q2 2026 Earnings Call Transcript",
+    "summary_en": "German cannabis exports surged 74% year-over-year, driving net income to $7.2 million.",
+    "title_zh": "Village Farms (VFF) 2026 年第二季財報電話會議紀錄",
+    "summary_zh": "德國大麻出口年增 74%，推動淨利達 720 萬美元。"
+  },
+  {
+    "title": "Nvidia Could Become the ‘Federal Reserve Of AI,’ Gavin Baker Says: Will ‘Dark GPUs’ Become Its First Test?",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-could-become-federal-ai-155206012.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T23:52:06+08:00",
+    "stocks": [],
+    "uid": "6ae09418aa83aaafe3deda529231e980",
+    "title_en": "Nvidia Could Become the ‘Federal Reserve Of AI,’ Gavin Baker Says: Will ‘Dark GPUs’ Become Its First Test?",
+    "summary_en": "",
+    "title_zh": "加文貝克 (Gavin Baker) 表示，Nvidia 可能成為「人工智慧的聯邦儲備」：「黑暗 GPU」會成為其首次測試嗎？",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why Western Digital Stock Popped Today",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-western-digital-stock-popped-155108244.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T23:51:08+08:00",
+    "stocks": [],
+    "uid": "491b0fdcaf19ec8657cdc95da3b4e713",
+    "title_en": "Why Western Digital Stock Popped Today",
+    "summary_en": "",
+    "title_zh": "為什麼西部數據股今天上漲",
+    "summary_zh": ""
+  },
+  {
+    "title": "Here's the Max Social Security Benefit at Age 62 -- and How to Get It",
+    "url": "https://finance.yahoo.com/markets/articles/heres-max-social-security-benefit-155000593.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T23:50:00+08:00",
+    "stocks": [],
+    "uid": "b9ae2b1e27b7e2aeaa604b6fe4cb6334",
+    "title_en": "Here's the Max Social Security Benefit at Age 62 -- and How to Get It",
+    "summary_en": "",
+    "title_zh": "以下是 62 歲時的最高社會安全福利——以及如何獲得它",
+    "summary_zh": ""
+  },
+  {
+    "title": "Oklo Built a Nuclear Reactor in 229 Days. Here's Why the CEO Calls It a World Record.",
+    "url": "https://www.fool.com/investing/2026/08/17/oklo-built-a-nuclear-reactor-in-229-days-heres-why/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The microreactor maker plans to deploy new reactors at a \"world record\" speed.",
+    "published_at": "2026-08-17T23:50:00+08:00",
+    "stocks": [],
+    "uid": "78d285900b9777027cdd6b9be8731c27",
+    "title_en": "Oklo Built a Nuclear Reactor in 229 Days. Here's Why the CEO Calls It a World Record.",
+    "summary_en": "The microreactor maker plans to deploy new reactors at a \"world record\" speed.",
+    "title_zh": "奧克洛在 229 天內建造了一座核反應爐。這就是首席執行官稱之為世界紀錄的原因。",
+    "summary_zh": "這家微反應器製造商計劃以「世界紀錄」的速度部署新反應器。"
+  },
+  {
+    "title": "SpaceX's biggest investors are finally visible — just as millions more shares unlock: Chart of the Day",
+    "url": "https://finance.yahoo.com/markets/article/spacexs-biggest-investors-are-finally-visible--just-as-millions-more-shares-unlock-chart-of-the-day-154946600.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T23:49:46+08:00",
+    "stocks": [],
+    "uid": "f634b10a44c40c778795cb66e23fa859",
+    "title_en": "SpaceX's biggest investors are finally visible — just as millions more shares unlock: Chart of the Day",
+    "summary_en": "",
+    "title_zh": "SpaceX 最大的投資者終於露面——就像數百萬股解鎖一樣：每日圖表",
+    "summary_zh": ""
+  },
+  {
+    "title": "Greenhaven Road Capital: Short Term Gain Realized from Liquidia (LQDA), Investment to Be Revisited",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/greenhaven-road-capital-short-term-154720524.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T23:47:20+08:00",
+    "stocks": [
+      "LQDA"
+    ],
+    "uid": "c3d29048c6a3e9acdc955f5eb3f6c0f2",
+    "title_en": "Greenhaven Road Capital: Short Term Gain Realized from Liquidia (LQDA), Investment to Be Revisited",
+    "summary_en": "",
+    "title_zh": "Greenhaven Road Capital：Liquidia（LQDA）實現的短期收益，將重新審視投資",
+    "summary_zh": ""
+  },
+  {
+    "title": "Bill Ackman Is Buying Netflix. Should Investors Load Up, Too?",
+    "url": "https://www.fool.com/investing/2026/08/17/bill-ackman-is-buying-netflix-should-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Shares of Netflix are still down 30% over the past 12 months, but there are plenty of reasons for investors to be optimistic.",
+    "published_at": "2026-08-17T23:45:00+08:00",
+    "stocks": [],
+    "uid": "3915da5205325cce3b3065f3dd9e28a0",
+    "title_en": "Bill Ackman Is Buying Netflix. Should Investors Load Up, Too?",
+    "summary_en": "Shares of Netflix are still down 30% over the past 12 months, but there are plenty of reasons for investors to be optimistic.",
+    "title_zh": "比爾·阿克曼正在收購 Netflix。投資人也該增持嗎？",
+    "summary_zh": "過去 12 個月，Netflix 股價仍下跌 30%，但投資人有充分理由保持樂觀。"
+  },
+  {
+    "title": "Why Gemini Space Station Stock Is Plummeting Today",
+    "url": "https://www.fool.com/investing/2026/08/17/why-gemini-space-station-stock-is-plummeting-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Gemini stock is now down more than 60% in 2026.",
+    "published_at": "2026-08-17T23:43:58+08:00",
+    "stocks": [],
+    "uid": "b19f85a986fe131a95e0686aee8d59b9",
+    "title_en": "Why Gemini Space Station Stock Is Plummeting Today",
+    "summary_en": "Gemini stock is now down more than 60% in 2026.",
+    "title_zh": "為什麼雙子座太空站的股票今天會暴跌",
+    "summary_zh": "Gemini 的股價目前在 2026 年下跌了 60% 以上。"
+  },
+  {
+    "title": "Accendra Health (ACH) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/17/accendra-health-ach-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Collection rate headwinds and delayed cost cuts weighed on Q2 results.",
+    "published_at": "2026-08-17T23:39:39+08:00",
+    "stocks": [
+      "ACH"
+    ],
+    "uid": "717fe3d70469f0c4fb0e6bfd9f272ccd",
+    "title_en": "Accendra Health (ACH) Q2 2026 Earnings Call Transcript",
+    "summary_en": "Collection rate headwinds and delayed cost cuts weighed on Q2 results.",
+    "title_zh": "Accendra Health (ACH) 2026 年第二季財報電話會議紀錄",
+    "summary_zh": "收集率的不利因素和延遲的成本削減對第二季度的業績造成了壓力。"
+  },
+  {
+    "title": "N-able (NABL) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/17/n-able-nabl-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Data protection gains offset by pricing pressure in endpoint markets.",
+    "published_at": "2026-08-17T23:39:31+08:00",
+    "stocks": [
+      "NABL"
+    ],
+    "uid": "d0ab4111bf867ad1b301839cfc2fec66"
+  },
+  {
+    "title": "Heron (HRTX) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/17/heron-hrtx-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Patent setback forces guidance withdrawal as acute care revenue surges 44% year over year.",
+    "published_at": "2026-08-17T23:39:30+08:00",
+    "stocks": [
+      "HRTX"
+    ],
+    "uid": "5d462cf071d549800e3c5f5e2fd99bd3"
+  },
+  {
+    "title": "Sohu (SOHU) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/17/sohu-sohu-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Gaming revenue beat guidance on expansion packs, but Q3 outlook signals sharp slowdown ahead.",
+    "published_at": "2026-08-17T23:39:30+08:00",
+    "stocks": [
+      "SOHU"
+    ],
+    "uid": "04e91990c77a444db2e73a0f6fea97e3"
+  },
+  {
+    "title": "Forget the Earnings Miss: Exxon's Underlying Numbers Tell a Different Story",
+    "url": "https://www.fool.com/investing/2026/08/17/forget-the-earnings-miss-exxons-underlying-numbers/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The fundamentals remain remarkably strong.",
+    "published_at": "2026-08-17T23:39:00+08:00",
+    "stocks": [],
+    "uid": "6c7c11a08752f61d7a8282709b827075"
+  },
+  {
+    "title": "AppLovin (APP) Offers Attractive Cash Flow Multiple?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/applovin-app-offers-attractive-cash-153854153.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T23:38:54+08:00",
+    "stocks": [
+      "APP"
+    ],
+    "uid": "d5e83f39367b828a18b4ac8ba6163e95"
+  },
+  {
+    "title": "Could Nvidia Be Worth $10 Trillion by 2030?",
+    "url": "https://www.fool.com/investing/2026/08/17/could-nvidia-be-worth-10-trillion-by-2030/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The stock would need to grow at an annualized rate of around 16% to get to a $10 trillion market cap in four years.",
+    "published_at": "2026-08-17T23:35:47+08:00",
+    "stocks": [],
+    "uid": "608241c929ed39a6ed5e2db32e22e24a"
+  },
+  {
+    "title": "Cable One (CABO) Fights Subscriber Losses While Squeezing Out Cash",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cable-one-cabo-fights-subscriber-153422519.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T23:34:22+08:00",
+    "stocks": [
+      "CABO"
+    ],
+    "uid": "68df349f3c807ea756753455be53d412"
+  },
+  {
+    "title": "Why Western Digital Stock Popped Today",
+    "url": "https://www.fool.com/investing/2026/08/17/why-western-digital-stock-popped-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "President Trump just gave Western Digital stock a big boost.",
+    "published_at": "2026-08-17T23:31:08+08:00",
+    "stocks": [],
+    "uid": "1fd3334a11cc0cf63dc6de0d401e768b"
+  },
+  {
+    "title": "Here's the Max Social Security Benefit at Age 62 -- and How to Get It",
+    "url": "https://www.fool.com/retirement/2026/08/17/heres-the-max-social-security-benefit-at-age-62/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Claiming earlier than later will reduce the size of your monthly payment, but it may well be worth it for some.",
+    "published_at": "2026-08-17T23:30:00+08:00",
+    "stocks": [],
+    "uid": "31a7df3d1d11f14f39006b8b67f06097"
+  },
+  {
+    "title": "Core Thesis Behind Lifecore Biomedical (LFCR): Monetizing Excess Capacity",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/core-thesis-lifecore-biomedical-lfcr-152902193.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T23:29:02+08:00",
+    "stocks": [
+      "LFCR"
+    ],
+    "uid": "5e6e875a72e5d9a400b5acb11f366476"
+  },
+  {
+    "title": "KKR (KKR) Remains Strong Despite Credit Fears",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/kkr-kkr-remains-strong-despite-152617990.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T23:26:17+08:00",
+    "stocks": [
+      "KKR"
+    ],
+    "uid": "bef6595a302b437f1563531435cb9519"
+  },
+  {
+    "title": "PAR Technology (PAR) Positioned for Long Growth Runway",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/par-technology-par-positioned-long-152410669.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T23:24:10+08:00",
+    "stocks": [
+      "PAR"
+    ],
+    "uid": "9bf9b63b9d1cac14d54b3f406c4a0790"
+  },
+  {
+    "title": "PowerFleet (AIOT) Q1 2027 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/17/powerfleet-aiot-q1-2027-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Services revenue surged 9.1% as South Africa deployment accelerated beyond expectations.",
+    "published_at": "2026-08-17T23:23:43+08:00",
+    "stocks": [
+      "AIOT"
+    ],
+    "uid": "a1ae868388751aa59d1413c6f4acecc5"
+  },
+  {
+    "title": "CEVA (CEVA) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/17/ceva-ceva-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "AI technologies now contribute 20% of licensing revenue, marking a step-function inflection.",
+    "published_at": "2026-08-17T23:23:43+08:00",
+    "stocks": [
+      "CEVA"
+    ],
+    "uid": "f9aa3f645ef2f147fa76506d6bef627d"
+  },
+  {
+    "title": "L.B. Foster (FSTR) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/17/lb-foster-fstr-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Net debt fell 45.5% as cash flow hit a six-year high.",
+    "published_at": "2026-08-17T23:23:43+08:00",
+    "stocks": [
+      "FSTR"
+    ],
+    "uid": "7dcac100034ac284b9ed1cbed1146053"
+  },
+  {
+    "title": "UBS, Tudor Investment Increase Bitcoin ETF Exposure in Q2",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/ubs-tudor-investment-increase-bitcoin-152300435.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T23:23:00+08:00",
+    "stocks": [],
+    "uid": "cc97e8d6fa959ec1e7ea147524b8f9df"
+  },
+  {
+    "title": "Micron, Sandisk and other chip stocks climb as investors get more confident about AI spending",
+    "url": "https://www.marketwatch.com/story/micron-sandisk-and-other-chip-stocks-climb-as-investors-are-more-confident-about-ai-spending-128374fa?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "AI companies are seeing improved financial performance, according to reports, and memory-chip companies may be able to better fend off Chinese competition with the help of U.S. officials.",
+    "published_at": "2026-08-17T23:22:00+08:00",
+    "stocks": [],
+    "uid": "4b7a94197c1050dc1fa989e312e1497d"
+  },
+  {
+    "title": "Corvus Pharmaceuticals (CRVS): This Clinical-Stage Drugmaker Just Got A Lot More Interesting",
+    "url": "https://finance.yahoo.com/healthcare/articles/corvus-pharmaceuticals-crvs-clinical-stage-151652950.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T23:16:52+08:00",
+    "stocks": [
+      "CRVS"
+    ],
+    "uid": "4104f6753fc96c47d1a78bf557b9950c"
+  },
+  {
     "title": "Synchrony, credit card issuer to Amazon and Walmart, partners with OpenAI for ChatGPT shopping",
     "url": "https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html",
     "source": "CNBC Finance",
@@ -11,6 +530,15 @@
     "summary_en": "Maran Nalluswami, Synchrony's chief strategy officer, told CNBC it will probably take six to 12 months to get payments fully integrated into ChatGPT.",
     "title_zh": "亞馬遜和沃爾瑪的信用卡發行商 Synchrony 與 OpenAI 合作進行 ChatGPT 購物",
     "summary_zh": "Synchrony 首席策略長 Maran Nalluswami 告訴 CNBC，可能需要 6 到 12 個月的時間才能將付款完全整合到 ChatGPT 中。"
+  },
+  {
+    "title": "Investors Are Excited About European Stocks. This Europe ETF is Up 23% in 1 Year. Here's Why.",
+    "url": "https://www.fool.com/investing/2026/08/17/investors-are-excited-about-european-stocks-this/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "European stocks are surging. Should you buy in, or hedge your bets with other international stock ETFs?",
+    "published_at": "2026-08-17T23:15:00+08:00",
+    "stocks": [],
+    "uid": "edfb88ea421a90eaedd6533df4933733"
   },
   {
     "title": "Why is Enovix stock plunging today?",
@@ -50,6 +578,17 @@
     "summary_en": "",
     "title_zh": "摩洛哥股市收盤走高；摩洛哥全股上漲0.08%",
     "summary_zh": ""
+  },
+  {
+    "title": "The Numbers Behind Assured Guaranty’s (AGO) Record-Setting Quarter",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/numbers-behind-assured-guaranty-ago-150922259.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T23:09:22+08:00",
+    "stocks": [
+      "AGO"
+    ],
+    "uid": "79deea03be0caf75c7ac9cc451ccdcf0"
   },
   {
     "title": "Why is CuriosityStream stock sliding 12% today?",
@@ -139,6 +678,26 @@
     "summary_zh": ""
   },
   {
+    "title": "GSK Eyes AnaptysBio (ANAB) Acquisition to Secure Drug Control",
+    "url": "https://finance.yahoo.com/healthcare/articles/gsk-eyes-anaptysbio-anab-acquisition-150348750.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T23:03:48+08:00",
+    "stocks": [
+      "ANAB"
+    ],
+    "uid": "f34edb6f2070781d48d8259384d60244"
+  },
+  {
+    "title": "September Is Historically the Worst Month for the Stock Market. Is Now the Time to Cash Out?",
+    "url": "https://www.fool.com/investing/2026/08/17/september-is-historically-the-worst-month-for-the/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "History says that stocks are less likely to experience gains in September than in other months of the year.",
+    "published_at": "2026-08-17T23:02:14+08:00",
+    "stocks": [],
+    "uid": "400bf70def5ed4fedd11b754296d1585"
+  },
+  {
     "title": "Gen Z swaps retirement saving for sports betting",
     "url": "https://finance.yahoo.com/markets/article/gen-z-swaps-retirement-saving-for-sports-betting-150207350.html",
     "source": "Yahoo Finance",
@@ -146,6 +705,62 @@
     "published_at": "2026-08-17T23:02:07+08:00",
     "stocks": [],
     "uid": "7f3055abaedb5e7d6ecd2a390e6a8882"
+  },
+  {
+    "title": "Why Sandisk Stock Rocketed Higher (Again) Today",
+    "url": "https://www.fool.com/investing/2026/08/17/why-sandisk-stock-rocketed-higher-again-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The chipmaker has big plans for its growing cash flow.",
+    "published_at": "2026-08-17T23:02:06+08:00",
+    "stocks": [],
+    "uid": "561e51073dc033c4bac6ea0ddd476631"
+  },
+  {
+    "title": "Venezuela’s Oil Revival Accelerates as U.S. Majors Push Trump’s New Energy Order",
+    "url": "https://finance.yahoo.com/energy/articles/venezuela-oil-revival-accelerates-u-150000465.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T23:00:00+08:00",
+    "stocks": [],
+    "uid": "b2b1681dd930fa5f33a4d2b65871eb28"
+  },
+  {
+    "title": "Micron's AI Boom Is a Utility Story Too. Here's the Power Angle Wall Street Isn't Pricing In.",
+    "url": "https://www.fool.com/investing/2026/08/17/microns-ai-boom-is-a-utility-story-too-heres-the/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Micron's AI boom is only part of the story. If you follow the power, you may find the next group of overlooked AI winners.",
+    "published_at": "2026-08-17T23:00:00+08:00",
+    "stocks": [],
+    "uid": "3e797aeaba5d844cf2db9f52be1d1537"
+  },
+  {
+    "title": "Reddit to Join the S&P 500. Will This Send the Stock Back to Its 52-Week High?",
+    "url": "https://www.fool.com/investing/2026/08/17/reddit-to-join-sp-500-will-this-send-the-stock-bac/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Stocks that join the broad index typically see their share prices rise afterward.",
+    "published_at": "2026-08-17T23:00:00+08:00",
+    "stocks": [],
+    "uid": "6210256ba7c14592c9c94992d130eeaa"
+  },
+  {
+    "title": "Sell-Side Analysts Ignore Burford Capital’s (BUR) Massively Lucrative Protein Cases",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/sell-side-analysts-ignore-burford-145952263.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T22:59:52+08:00",
+    "stocks": [
+      "BUR"
+    ],
+    "uid": "3d8def14131abc9184bb5f680e8be844"
+  },
+  {
+    "title": "If You'd Invested $10,000 When SpaceX Went Public, Here's How Much Money You'd Have Today",
+    "url": "https://www.fool.com/investing/2026/08/17/if-youd-invested-10000-in-spacexs-ipo-heres-how-mu/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Investors who haven't bought the stock yet haven't missed out.",
+    "published_at": "2026-08-17T22:57:33+08:00",
+    "stocks": [],
+    "uid": "3dca4698d5d720b900f6f1d0a8ea81e4"
   },
   {
     "title": "Most investors are making the same costly mistake — and it has nothing to do with picking the wrong stocks",
@@ -187,6 +802,81 @@
     "summary_en": "",
     "title_zh": "人工智慧、國防的關鍵——鎢的短缺正在推動該股的上漲",
     "summary_zh": ""
+  },
+  {
+    "title": "Medical Properties Trust (MPT) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/17/medical-properties-trust-mpt-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "CEO targets $1B annualized cash rent by year-end amid $2.4B refinancing.",
+    "published_at": "2026-08-17T22:54:18+08:00",
+    "stocks": [
+      "MPT"
+    ],
+    "uid": "6a5ef0da47eaec286db00d534dda2875"
+  },
+  {
+    "title": "Perion (PERI) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/17/perion-peri-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Perion One spend surged 15% as management narrowed full-year guidance.",
+    "published_at": "2026-08-17T22:54:17+08:00",
+    "stocks": [
+      "PERI"
+    ],
+    "uid": "de3117a68e06d627e21b6104dbae10da"
+  },
+  {
+    "title": "Sonida Senior Living (SNDA) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/17/sonida-senior-living-snda-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Occupancy surged 240 basis points as company scales hospitality-driven model.",
+    "published_at": "2026-08-17T22:54:17+08:00",
+    "stocks": [
+      "SNDA"
+    ],
+    "uid": "8c1432c984cfc16609d01ca0ff4812eb"
+  },
+  {
+    "title": "Conduent (CNDT) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/17/conduent-cndt-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Revenue fell 11.9% as contract losses mounted, but management targets 10% margins ahead.",
+    "published_at": "2026-08-17T22:54:17+08:00",
+    "stocks": [
+      "CNDT"
+    ],
+    "uid": "06141d494adf6c8f612fa0be8527cc47"
+  },
+  {
+    "title": "Surgery Partners (SGRY) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/17/surgery-partners-sgry-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Idaho Falls sale signals shift to pure-play surgical focus.",
+    "published_at": "2026-08-17T22:54:17+08:00",
+    "stocks": [
+      "SGRY"
+    ],
+    "uid": "db1ff5840c1baf2ce5c53902f4bf9669"
+  },
+  {
+    "title": "Telos (TLS) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/17/telos-tls-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Revenue surged 33% as management exits low-margin software resale.",
+    "published_at": "2026-08-17T22:54:17+08:00",
+    "stocks": [
+      "TLS"
+    ],
+    "uid": "5587e2858bd2ef64177569411d874771"
+  },
+  {
+    "title": "2026 Stock-Split Watch: Is United Rentals on Deck?",
+    "url": "https://www.fool.com/investing/2026/08/17/2026-stock-split-watch-is-united-rentals-on-deck/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "As it trades near a 52-week high, the management team may still want to hold off on conducting a stock split.",
+    "published_at": "2026-08-17T22:54:00+08:00",
+    "stocks": [],
+    "uid": "eed8eb4ef92fb21aa33f988ce61b0eb9"
   },
   {
     "title": "Nature’s Sunshine (NATR) Lays Out a $1B Growth Target Amid Guidance Cuts",
