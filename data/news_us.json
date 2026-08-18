@@ -1,5 +1,537 @@
 [
   {
+    "title": "Kalshi seeks to launch ‘perps’ on equity indexes as it moves in on traditional exchanges' turf",
+    "url": "https://www.cnbc.com/2026/08/18/kalshi-wants-to-launch-perps-tied-to-equity-indexes.html",
+    "source": "CNBC Finance",
+    "summary": "The company is seeking to launch a \"US500\" perp tied to the MerQube U.S. Large Cap Index, according to a regulatory filing.",
+    "published_at": "2026-08-18T22:22:10+08:00",
+    "stocks": [],
+    "uid": "f7e1c6fb00639a54662980810c520c80",
+    "title_en": "Kalshi seeks to launch ‘perps’ on equity indexes as it moves in on traditional exchanges' turf",
+    "summary_en": "The company is seeking to launch a \"US500\" perp tied to the MerQube U.S. Large Cap Index, according to a regulatory filing.",
+    "title_zh": "Kalshi 進軍傳統交易所的地盤，尋求推出股票指數的“永續債券”",
+    "summary_zh": "根據一份監管文件，該公司正在尋求推出與 MerQube 美國大型股指數掛鉤的「US500」永續債券。"
+  },
+  {
+    "title": "U.S. investors have been buying stocks all month and are now sitting on profits. Here’s what might make them sell.",
+    "url": "https://www.marketwatch.com/story/u-s-investors-have-been-buying-stocks-all-month-and-are-sitting-on-profits-heres-what-might-make-them-sell-0371e78a?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Given that investors are sitting on unrealized gains and there few short positions remain open, the markets are more vulnerable to a downturn in economic news flow.",
+    "published_at": "2026-08-18T22:18:00+08:00",
+    "stocks": [],
+    "uid": "da0a295bde7de1a1000d1a86d6496f74",
+    "title_en": "U.S. investors have been buying stocks all month and are now sitting on profits. Here’s what might make them sell.",
+    "summary_en": "Given that investors are sitting on unrealized gains and there few short positions remain open, the markets are more vulnerable to a downturn in economic news flow.",
+    "title_zh": "美國投資者整個月都在買股票，現在坐擁利潤。以下是可能讓他們賣出去的東西。",
+    "summary_zh": "鑑於投資者持有未實現的收益，且幾乎沒有空頭頭寸，市場更容易受到經濟消息下滑的影響。"
+  },
+  {
+    "title": "My fiance discovered a secret childhood stock account—what I learned about investing for your kids",
+    "url": "https://www.cnbc.com/2026/08/18/how-to-educate-your-children-about-custodial-accounts-and-trump-acccounts.html",
+    "source": "CNBC Top",
+    "summary": "My fiance's grandparents funded a custodial account for him in the 90s—a move which comes with major financial implications now that he's an adult.",
+    "published_at": "2026-08-18T22:17:30+08:00",
+    "stocks": [],
+    "uid": "f20908e60f7a5e9ad27de081741f45aa",
+    "title_en": "My fiance discovered a secret childhood stock account—what I learned about investing for your kids",
+    "summary_en": "My fiance's grandparents funded a custodial account for him in the 90s—a move which comes with major financial implications now that he's an adult.",
+    "title_zh": "我的未婚夫發現了一個秘密的童年股票帳戶——我學到了為孩子投資的知識",
+    "summary_zh": "我未婚夫的祖父母在 90 年代為他設立了一個託管帳戶，這一舉動對他成年後的財務產生了重大影響。"
+  },
+  {
+    "title": "Earnings call transcript: Prenetics posts Q2 2026 EPS beat as revenue misses",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-prenetics-posts-q2-2026-eps-beat-as-revenue-misses-93CH-4865626",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-18T22:16:58+08:00",
+    "stocks": [],
+    "uid": "aa536cda32368247c5039670e46494f5",
+    "title_en": "Earnings call transcript: Prenetics posts Q2 2026 EPS beat as revenue misses",
+    "summary_en": "",
+    "title_zh": "財報電話會議記錄：Prenetics 公佈 2026 年第二季每股收益超出預期，但營收低於預期",
+    "summary_zh": ""
+  },
+  {
+    "title": "Energy Vault director Dylan Hixon buys $106,536 in shares",
+    "url": "https://www.investing.com/news/insider-trading-news/energy-vault-director-dylan-hixon-buys-106536-in-shares-93CH-4865625",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-18T22:16:06+08:00",
+    "stocks": [],
+    "uid": "c40ae7bca3be32abd54557fde5b3c57d"
+  },
+  {
+    "title": "Klarna stock plunges 20% on trimmed guidance as German retail sales slow",
+    "url": "https://finance.yahoo.com/markets/stocks/article/klarna-stock-plunges-20-on-trimmed-guidance-as-german-retail-sales-slow-141517463.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-18T22:15:17+08:00",
+    "stocks": [],
+    "uid": "74f3a43dee3e3c0fb50a7757d2d72e28",
+    "title_en": "Klarna stock plunges 20% on trimmed guidance as German retail sales slow",
+    "summary_en": "",
+    "title_zh": "德國零售銷售放緩導致 Klarna 股價下跌 20%",
+    "summary_zh": ""
+  },
+  {
+    "title": "Northrop Grumman clears design review for E-2D upgrade",
+    "url": "https://www.investing.com/news/stock-market-news/northrop-grumman-clears-design-review-for-e2d-upgrade-93CH-4865624",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-18T22:14:56+08:00",
+    "stocks": [],
+    "uid": "290203b46a77aefa560eb435f9474375"
+  },
+  {
+    "title": "OpenAI vs. Anthropic: AI litigation risk compared ahead of potential IPOs",
+    "url": "https://www.investing.com/news/stock-market-news/openai-vs-anthropic-ai-litigation-risk-compared-ahead-of-potential-ipos-93CH-4865622",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-18T22:13:54+08:00",
+    "stocks": [],
+    "uid": "af36948f566144b010f79c721517ef9a",
+    "title_en": "OpenAI vs. Anthropic: AI litigation risk compared ahead of potential IPOs",
+    "summary_en": "",
+    "title_zh": "OpenAI 與 Anthropic：潛在 IPO 之前的人工智慧訴訟風險比較",
+    "summary_zh": ""
+  },
+  {
+    "title": "Aon launches $200m Sidecar X facility for transactional risk cover",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/aon-launches-200m-sidecar-x-141353249.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-18T22:13:53+08:00",
+    "stocks": [],
+    "uid": "8744bb5c694cd4956eb1536fb1c91494",
+    "title_en": "Aon launches $200m Sidecar X facility for transactional risk cover",
+    "summary_en": "",
+    "title_zh": "Aon 推出 2 億美元的 Sidecar X 設施以保障交易風險",
+    "summary_zh": ""
+  },
+  {
+    "title": "OpenAI unveils ChatGPT for Teens with stronger guardrails to tackle safety risks",
+    "url": "https://www.investing.com/news/stock-market-news/openai-unveils-chatgpt-for-teens-with-stronger-guardrails-parental-controls-4865012",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-18T22:12:53+08:00",
+    "stocks": [],
+    "uid": "ea74d8b78a9856e504c5b57e92b4677e",
+    "title_en": "OpenAI unveils ChatGPT for Teens with stronger guardrails to tackle safety risks",
+    "summary_en": "",
+    "title_zh": "OpenAI 推出針對青少年的 ChatGPT，加強護欄應對安全風險",
+    "summary_zh": ""
+  },
+  {
+    "title": "ReNew Energy Global earnings missed by ₹0.23, revenue topped estimates",
+    "url": "https://www.investing.com/news/earnings/renew-energy-global-earnings-missed-by-023-revenue-topped-estimates-4865620",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-18T22:12:23+08:00",
+    "stocks": [],
+    "uid": "71df4007dc792db4ac6030ae66614af7"
+  },
+  {
+    "title": "Earnings call transcript: Evogene narrows Q2 2026 loss as shares fall 7.8%",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-evogene-narrows-q2-2026-loss-as-shares-fall-78-93CH-4865619",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-18T22:12:04+08:00",
+    "stocks": [],
+    "uid": "de168e80b4b67f1004a9a9aed5f0adf9"
+  },
+  {
+    "title": "IRS clarifies 'no tax on overtime' deduction rules. What workers need to know",
+    "url": "https://www.cnbc.com/2026/08/18/irs-no-tax-on-overtime-deduction-rules-2026.html",
+    "source": "CNBC Top",
+    "summary": "Taxpayers who were unsure whether they qualified or how much they could claim will likely have an easier time when they file their 2026 tax returns, expert say.",
+    "published_at": "2026-08-18T22:11:20+08:00",
+    "stocks": [],
+    "uid": "74122695b97356e268d0f48cce588fc7",
+    "title_en": "IRS clarifies 'no tax on overtime' deduction rules. What workers need to know",
+    "summary_en": "Taxpayers who were unsure whether they qualified or how much they could claim will likely have an easier time when they file their 2026 tax returns, expert say.",
+    "title_zh": "美國國稅局明確了「加班不徵稅」的扣除規則。工人需要了解什麼",
+    "summary_zh": "專家表示，不確定自己是否符合資格或可以申報多少金額的納稅人在提交 2026 年報稅表時可能會更容易。"
+  },
+  {
+    "title": "Kailera Therapeutics: The Record-Breaking Obesity IPO Big Pharma Cannot Ignore",
+    "url": "https://finance.yahoo.com/healthcare/articles/kailera-therapeutics-record-breaking-obesity-141023266.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-18T22:10:23+08:00",
+    "stocks": [],
+    "uid": "3e03158701b4737589b3db7583287b24",
+    "title_en": "Kailera Therapeutics: The Record-Breaking Obesity IPO Big Pharma Cannot Ignore",
+    "summary_en": "",
+    "title_zh": "Kailera Therapeutics：破紀錄的肥胖 IPO 大型製藥公司不能忽視",
+    "summary_zh": ""
+  },
+  {
+    "title": "An A.I. Tax Boom Could Curtail America’s Debt. But Not Solve It.",
+    "url": "https://www.nytimes.com/2026/08/18/us/politics/ai-national-debt-budget.html",
+    "source": "NYT Business",
+    "summary": "The consequences of A.I. for the budget will largely hinge on whether — and to what extent — the technology reshapes the labor market.",
+    "published_at": "2026-08-18T22:09:38+08:00",
+    "stocks": [],
+    "uid": "fdd614ca134b10d66fc17a78eb0a7a1a",
+    "title_en": "An A.I. Tax Boom Could Curtail America’s Debt. But Not Solve It.",
+    "summary_en": "The consequences of A.I. for the budget will largely hinge on whether — and to what extent — the technology reshapes the labor market.",
+    "title_zh": "人工智能税收繁荣可能会减少美国的债务。但沒有解決它。",
+    "summary_zh": ""
+  },
+  {
+    "title": "Lyntris said to price IPO in lower half of range",
+    "url": "https://www.investing.com/news/stock-market-news/lyntris-said-to-price-ipo-in-lower-half-of-range-93CH-4865618",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-18T22:09:05+08:00",
+    "stocks": [],
+    "uid": "af5ec33d601c8b11f3173c3ffdb54ffd"
+  },
+  {
+    "title": "3 Absurdly Cheap Dividend Stocks to Buy for Under $100 Right Now",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/3-absurdly-cheap-dividend-stocks-140808967.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-18T22:08:08+08:00",
+    "stocks": [],
+    "uid": "de0849c6a84367caee30fab20b1bad20",
+    "title_en": "3 Absurdly Cheap Dividend Stocks to Buy for Under $100 Right Now",
+    "summary_en": "",
+    "title_zh": "現在就可以以低於 100 美元的價格購買 3 隻極其便宜的股息股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Pairs trading guide: KO vs PEP leads the most stretched spreads right now",
+    "url": "https://www.investing.com/news/stock-market-news/pairs-trading-guide-ko-vs-pep-leads-the-most-stretched-spreads-right-now-93CH-4865617",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-18T22:07:38+08:00",
+    "stocks": [],
+    "uid": "5c71b84c8c9e3a19a519f6257f55383d",
+    "title_en": "Pairs trading guide: KO vs PEP leads the most stretched spreads right now",
+    "summary_en": "",
+    "title_zh": "配對交易指南：KO vs PEP 目前價差最大",
+    "summary_zh": ""
+  },
+  {
+    "title": "‘Too many people go bankrupt’: Should Medicare provide catastrophic coverage?",
+    "url": "https://www.marketwatch.com/story/too-many-people-go-bankrupt-should-medicare-provide-catastrophic-coverage-f7c653da?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "“Such a system would help ensure that no one is financially devastated by a serious illness or injury.”",
+    "published_at": "2026-08-18T22:07:00+08:00",
+    "stocks": [],
+    "uid": "43591fdb2a5647096410d0245468f8e8",
+    "title_en": "‘Too many people go bankrupt’: Should Medicare provide catastrophic coverage?",
+    "summary_en": "“Such a system would help ensure that no one is financially devastated by a serious illness or injury.”",
+    "title_zh": "「太多人破產」：醫療保險應該提供災難性保險嗎？",
+    "summary_zh": ""
+  },
+  {
+    "title": "Popular shoe retailer closing dozens of stores after a costly mistake",
+    "url": "https://finance.yahoo.com/small-business/articles/popular-shoe-retailer-closing-dozens-140700904.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-18T22:07:00+08:00",
+    "stocks": [],
+    "uid": "8233f0f64390524f97a3c286b78e925e",
+    "title_en": "Popular shoe retailer closing dozens of stores after a costly mistake",
+    "summary_en": "",
+    "title_zh": "受歡迎的鞋類零售商在犯下代價高昂的錯誤後關閉了數十家商店",
+    "summary_zh": ""
+  },
+  {
+    "title": "Gulf Oil Giants Push to Expand Overseas Stockpiles as Iran War Drags On",
+    "url": "https://www.nytimes.com/2026/08/18/business/saudi-uae-japan-oil-storage.html",
+    "source": "NYT Business",
+    "summary": "Saudi Arabia and the United Arab Emirates are seeking larger oil reserves in Japan and South Korea as regional conflict threatens supply routes.",
+    "published_at": "2026-08-18T22:03:33+08:00",
+    "stocks": [],
+    "uid": "df74e9dac8e13ecc0ee75089fa62aa2d"
+  },
+  {
+    "title": "Vertiv Holdings (VRT) Well Positioned for Key Tech Transitions",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-holdings-vrt-well-positioned-140249832.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-18T22:02:49+08:00",
+    "stocks": [
+      "VRT"
+    ],
+    "uid": "dafa1543e0fcbaad3f669bbca20eaa31",
+    "title_en": "Vertiv Holdings (VRT) Well Positioned for Key Tech Transitions",
+    "summary_en": "",
+    "title_zh": "Vertiv Holdings (VRT) 為關鍵技術轉型做好了準備",
+    "summary_zh": ""
+  },
+  {
+    "title": "Will Micron Stock Jump Another 200% By 2027? History Has a Clear Answer",
+    "url": "https://www.fool.com/investing/2026/08/18/will-micron-stock-jump-another-200-by-2027-history-has-a-clear-answer/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The primary catalyst fueling Micron's impressive growth over the past year is sustainable for the next 18 months.",
+    "published_at": "2026-08-18T22:00:01+08:00",
+    "stocks": [],
+    "uid": "749c7f85f4f349d4d8710c37363ba950",
+    "title_en": "Will Micron Stock Jump Another 200% By 2027? History Has a Clear Answer",
+    "summary_en": "The primary catalyst fueling Micron's impressive growth over the past year is sustainable for the next 18 months.",
+    "title_zh": "到 2027 年，美光股價還會再上漲 200%嗎？歷史有明確的答案",
+    "summary_zh": ""
+  },
+  {
+    "title": "1 Number That Makes Nike's Turnaround Worth Watching This Month",
+    "url": "https://www.fool.com/investing/2026/08/18/1-number-makes-nikes-turnaround-worth-watching/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Nike's stock has crashed more than 75% over the past five years.",
+    "published_at": "2026-08-18T22:00:00+08:00",
+    "stocks": [],
+    "uid": "3895a6b4dd12600d363d0f6038297964",
+    "title_en": "1 Number That Makes Nike's Turnaround Worth Watching This Month",
+    "summary_en": "Nike's stock has crashed more than 75% over the past five years.",
+    "title_zh": "本月耐吉轉虧為盈的 1 個數字值得關注",
+    "summary_zh": "耐吉的股價在過去五年裡暴跌了 75% 以上。"
+  },
+  {
+    "title": "XRP Falls Below $1 For First Time Since 2024",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/xrp-falls-below-1-first-135900489.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-18T21:59:00+08:00",
+    "stocks": [],
+    "uid": "7b28e88d289c7e69793732f377cf1a2f",
+    "title_en": "XRP Falls Below $1 For First Time Since 2024",
+    "summary_en": "",
+    "title_zh": "XRP 自 2024 年以來首次跌破 1 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "I used a human travel agent instead of AI — and cut $2,000 off the price of my European vacation",
+    "url": "https://www.marketwatch.com/story/i-used-a-human-travel-agent-instead-of-ai-and-cut-2-000-off-the-price-of-my-european-vacation-e8b344cb?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Plus: Take our investing survey",
+    "published_at": "2026-08-18T21:55:00+08:00",
+    "stocks": [],
+    "uid": "bf25b4da3acc56f9b2cbf8f32b112120",
+    "title_en": "I used a human travel agent instead of AI — and cut $2,000 off the price of my European vacation",
+    "summary_en": "Plus: Take our investing survey",
+    "title_zh": "我使用人類旅行社代替人工智慧——並將我的歐洲度假價格降低了 2,000 美元",
+    "summary_zh": "另外：參加我們的投資調查"
+  },
+  {
+    "title": "Why it’s better to buy stocks at record highs than wait for the next crash",
+    "url": "https://www.marketwatch.com/story/why-its-better-to-buy-stocks-at-record-highs-than-wait-for-the-next-crash-2bf5610e?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Record highs are what bull markets do. If you wait for a 20% drop, you could still pay more than what you’d pay now.",
+    "published_at": "2026-08-18T21:54:00+08:00",
+    "stocks": [],
+    "uid": "f3ed04b553af015444c0b18c23abe894",
+    "title_en": "Why it’s better to buy stocks at record highs than wait for the next crash",
+    "summary_en": "Record highs are what bull markets do. If you wait for a 20% drop, you could still pay more than what you’d pay now.",
+    "title_zh": "為什麼在歷史高點買進股票比等待下一次崩盤好",
+    "summary_zh": "創紀錄的高點就是多頭市場所做的。如果您等待 20% 的降幅，您仍然可以支付比現在更多的費用。"
+  },
+  {
+    "title": "Could Planet Fitness (PLNT) Rebound Despite Slower Member Growth?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/could-planet-fitness-plnt-rebound-135354964.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-18T21:53:54+08:00",
+    "stocks": [
+      "PLNT"
+    ],
+    "uid": "ef41db0ce43d9cdb2e3c2af598adf65e",
+    "title_en": "Could Planet Fitness (PLNT) Rebound Despite Slower Member Growth?",
+    "summary_en": "",
+    "title_zh": "儘管會員成長放緩，Planet Fitness (PLNT) 能否反彈？",
+    "summary_zh": ""
+  },
+  {
+    "title": "RWR vs. HAUZ: Which Real Estate ETF Is the Better Buy for Income Investors?",
+    "url": "https://www.fool.com/coverage/etfs/2026/08/18/rwr-vs-hauz-which-real-estate-etf-is-the-better-buy-for-income-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "RWR delivered higher returns over the past one- and five-year periods, while HAUZ offers lower fees and broader diversification.",
+    "published_at": "2026-08-18T21:53:14+08:00",
+    "stocks": [],
+    "uid": "a8de6798175be63f20efb753ff1c82f3",
+    "title_en": "RWR vs. HAUZ: Which Real Estate ETF Is the Better Buy for Income Investors?",
+    "summary_en": "RWR delivered higher returns over the past one- and five-year periods, while HAUZ offers lower fees and broader diversification.",
+    "title_zh": "RWR 與 HAUZ：哪一種房地產 ETF 更適合收入投資者？",
+    "summary_zh": "RWR 在過去一年和五年期間提供了更高的回報，而 HAUZ 則提供更低的費用和更廣泛的多元化。"
+  },
+  {
+    "title": "Global bond sell-off pressures stocks: AlphaCheck",
+    "url": "https://finance.yahoo.com/markets/article/global-bond-sell-off-pressures-stocks-alphacheck-135011383.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-18T21:50:11+08:00",
+    "stocks": [],
+    "uid": "20c4153a1e83f6eecdabda03ff25b287",
+    "title_en": "Global bond sell-off pressures stocks: AlphaCheck",
+    "summary_en": "",
+    "title_zh": "全球公債拋售對股市帶來壓力：AlphaCheck",
+    "summary_zh": ""
+  },
+  {
+    "title": "Could Legence (LGN) Be a Major Winner From the AI Data Center Construction Boom?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/could-legence-lgn-major-winner-134914355.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-18T21:49:14+08:00",
+    "stocks": [
+      "LGN"
+    ],
+    "uid": "21daaf0515373f9c9e6abddef0876e75",
+    "title_en": "Could Legence (LGN) Be a Major Winner From the AI Data Center Construction Boom?",
+    "summary_en": "",
+    "title_zh": "聯想（LGN）能否成為人工智慧資料中心建設熱潮中的主要贏家？",
+    "summary_zh": ""
+  },
+  {
+    "title": "3 Absurdly Cheap Dividend Stocks to Buy for Under $100 Right Now",
+    "url": "https://www.fool.com/investing/2026/08/18/3-absurdly-cheap-dividend-stocks-to-buy-for-under-usd100-right-now/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Novo Nordisk, CVS Health, and Bristol Myers are top dividend stocks that are trading at modest valuations.",
+    "published_at": "2026-08-18T21:48:08+08:00",
+    "stocks": [],
+    "uid": "227302f9be9928c88c22209c0e4f381e"
+  },
+  {
+    "title": "Home Depot Reports Higher Sales, but Its C.E.O. Isn’t There to Spread the News",
+    "url": "https://www.nytimes.com/2026/08/18/business/home-depot-ceo-medical-leave.html",
+    "source": "NYT Business",
+    "summary": "Investors got a shock last week when the retailer said that Ted Decker, the chief executive, would take a medical leave. Tuesday’s earnings brought a more welcome surprise.",
+    "published_at": "2026-08-18T21:47:00+08:00",
+    "stocks": [],
+    "uid": "8089e52739dd3d2d34541e61b34a6fdd"
+  },
+  {
+    "title": "I Own Enbridge for the Yield, Not the Growth Story. Here's Why This Quarter Didn't Change My Mind.",
+    "url": "https://www.fool.com/investing/2026/08/18/i-own-enbridge-for-the-yield-not-the-growth-story/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Enbridge's solid history of dependable dividends has made it a favorite of income-oriented investors.",
+    "published_at": "2026-08-18T21:45:00+08:00",
+    "stocks": [],
+    "uid": "e2df49a1d74fb020ea11392d4ceb052a"
+  },
+  {
+    "title": "Prediction: Massive AI Data Center Demand Will Make This Infrastructure Stock a Multibagger in Just 3 Years",
+    "url": "https://www.fool.com/investing/2026/08/18/prediction-massive-ai-data-center-demand-will-make-this-infrastructure-stock-a-multibagger-in-just-3-years/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Nebius' phenomenal revenue growth potential suggests it can continue to skyrocket.",
+    "published_at": "2026-08-18T21:43:01+08:00",
+    "stocks": [],
+    "uid": "00e32845087ed5ba951e604938c5be9d"
+  },
+  {
+    "title": "New Prediction Market Novig Sees $125 Million In Trading Volumes",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/prediction-market-novig-sees-125-133600488.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-18T21:36:00+08:00",
+    "stocks": [],
+    "uid": "baa65bdd8abc324cddd2ee996df32f6d"
+  },
+  {
+    "title": "Everforth (EFOR) Positioned to Deliver Modern IT Solutions as Demand Nomalizes",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/everforth-efor-positioned-deliver-modern-133507845.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-18T21:35:07+08:00",
+    "stocks": [
+      "EFOR"
+    ],
+    "uid": "df4e8fe121fdb460f4c8556cf5def836"
+  },
+  {
+    "title": "Primary election season rolls into Alaska, Florida and Wyoming",
+    "url": "https://www.cnbc.com/2026/08/18/primary-elections-alaska-florida-wyoming-midterms.html",
+    "source": "CNBC Top",
+    "summary": "Incumbent Republican Sen. Dan Sullivan of Alaska is facing a serious challenge from former Democratic Rep. Mary Peltola.",
+    "published_at": "2026-08-18T21:34:30+08:00",
+    "stocks": [],
+    "uid": "9350f937d18bceeede1cf7944dc47673"
+  },
+  {
+    "title": "Comcast expands Xfinity security offerings to deepen broadband customer ties",
+    "url": "https://finance.yahoo.com/technology/articles/comcast-expands-xfinity-security-offerings-133318080.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-18T21:33:18+08:00",
+    "stocks": [],
+    "uid": "e748e179943f9f483b8bb54b4c98c173"
+  },
+  {
+    "title": "This Monthly Dividend Stock Has Raised Its Base Payout 12 Times Since 2021 -- And Never Cut It Since 2007",
+    "url": "https://www.fool.com/investing/2026/08/18/this-monthly-dividend-stock-has-raised-its-base-pa/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Main Street Capital set its monthly dividend at a level it can easily sustain.",
+    "published_at": "2026-08-18T21:30:00+08:00",
+    "stocks": [],
+    "uid": "370793bfd1c7ee97fc597652b44dbd63"
+  },
+  {
+    "title": "Cognex Corp’s (CGNX) Elevated Growth Supported by Cost Discipline and Sales Strength",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cognex-corp-cgnx-elevated-growth-132913511.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-18T21:29:13+08:00",
+    "stocks": [
+      "CGNX"
+    ],
+    "uid": "7196bdf1711f606e00367b9d0dfeee45"
+  },
+  {
+    "title": "Executive Dumps Over 52,000 Shares of Iconic Energy Stock, After It Surges 101% in One Year",
+    "url": "https://www.fool.com/coverage/filings/2026/08/18/executive-dumps-over-52-000-shares-of-iconic-energy-stock-after-it-surges-101-in-one-year/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Harbison exercised stock options at $100.44 per share and immediately sold at $223.76, capturing significant gains after Phillips 66's 88% one-year return.",
+    "published_at": "2026-08-18T21:25:01+08:00",
+    "stocks": [],
+    "uid": "a121aafa0b166d557f0a31217aeed980"
+  },
+  {
+    "title": "Organigram (OGI) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/18/organigram-ogi-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Revenue jumped 49% to $105.8 million on Sanity acquisition.",
+    "published_at": "2026-08-18T21:22:57+08:00",
+    "stocks": [
+      "OGI"
+    ],
+    "uid": "e6110b796621c93134693b02cb9516e1"
+  },
+  {
+    "title": "Harvard Bioscience (HBIO) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/18/harvard-bioscience-hbio-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "CRO demand drove 11% revenue growth, though margin pressures from China sales tempered gains.",
+    "published_at": "2026-08-18T21:22:57+08:00",
+    "stocks": [
+      "HBIO"
+    ],
+    "uid": "481b3b11d476e6eb34df8ce54abd8862"
+  },
+  {
+    "title": "Amazon.com (AMZN): AI Demand Triggers AWS Revenue Acceleration",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-ai-demand-131822860.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-18T21:18:22+08:00",
+    "stocks": [
+      "AMZN"
+    ],
+    "uid": "8832f5d3fa96575073bc31c00b7afbca"
+  },
+  {
+    "title": "Atmus Filtration (ATMU) Posts Record Q2 Sales, Lifts Full-Year Top-Line Guidance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/atmus-filtration-atmu-posts-record-131801945.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-18T21:18:01+08:00",
+    "stocks": [
+      "ATMU"
+    ],
+    "uid": "ff2ed0330405f87095e062037bc36410"
+  },
+  {
     "title": "The top 10 colleges for financial aid in 2026, according to The Princeton Review — and what families actually pay",
     "url": "https://www.cnbc.com/2026/08/18/colleges-best-financial-aid-2026-princeton-review.html",
     "source": "CNBC Top",
@@ -13,6 +545,15 @@
     "summary_zh": "由於成本是首要考慮因素，這些大學被認為是提供最慷慨的經濟援助計劃的大學。"
   },
   {
+    "title": "Target Is Up 56% and Reports Earnings Aug. 19. This Is the Only Reason I'd Need to Buy.",
+    "url": "https://www.fool.com/investing/2026/08/18/target-is-up-56-and-reports-earnings-aug-19-this/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Investors need to see continued growth to believe in the stock's recovery.",
+    "published_at": "2026-08-18T21:15:00+08:00",
+    "stocks": [],
+    "uid": "322493ef5a1baa66e653dd36504363a1"
+  },
+  {
     "title": "Wall Street clearly loves Google stock, 13F filings reveal",
     "url": "https://finance.yahoo.com/markets/stocks/article/wall-street-clearly-loves-google-stock-13f-filings-reveal-131402051.html",
     "source": "Yahoo Finance",
@@ -24,6 +565,17 @@
     "summary_en": "",
     "title_zh": "13F 文件顯示，華爾街顯然喜歡谷歌股票",
     "summary_zh": ""
+  },
+  {
+    "title": "Meta Platforms’ (META) Strong Growth Backdrop Highlights Valuation Disconnect",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-strong-growth-131359013.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-18T21:13:59+08:00",
+    "stocks": [
+      "META"
+    ],
+    "uid": "c30f2f384458abbdfa0fc7832008db4e"
   },
   {
     "title": "American Airlines to add premium seats, bring back seatback screens fleetwide",
