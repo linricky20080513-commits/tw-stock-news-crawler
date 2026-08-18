@@ -1,5 +1,105 @@
 [
   {
+    "title": "Ship attacked in Hormuz Strait as U.S.-Iran ceasefire expiry risks prolonged conflict",
+    "url": "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceasefire-expires-extension-.html",
+    "source": "CNBC Top",
+    "summary": "U.S., Iran appeared to be digging in for a protracted conflict, hardening their positions and rejecting renewed negotiations after a temporary truce lapsed.",
+    "published_at": "2026-08-18T12:02:53+08:00",
+    "stocks": [],
+    "uid": "5140a081a81fe1158d2d7f23194dd38f",
+    "title_en": "Ship attacked in Hormuz Strait as U.S.-Iran ceasefire expiry risks prolonged conflict",
+    "summary_en": "U.S., Iran appeared to be digging in for a protracted conflict, hardening their positions and rejecting renewed negotiations after a temporary truce lapsed.",
+    "title_zh": "美伊停火到期可能引發長期衝突，霍爾木茲海峽發生船隻攻擊",
+    "summary_zh": "美國和伊朗似乎正陷入一場曠日持久的衝突，它們的立場變得更強硬，並在暫時休戰結束後拒絕重新進行談判。"
+  },
+  {
+    "title": "It’s Crunchtime Again for Canada to Avoid New U.S. Tariffs",
+    "url": "https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html",
+    "source": "NYT Business",
+    "summary": "Canada is seeking a deal to dodge further economic pain at the hands of the Trump administration on midnight Tuesday. But at what cost?",
+    "published_at": "2026-08-18T12:01:06+08:00",
+    "stocks": [],
+    "uid": "ed4738027f96784339ba74acfa1ace82",
+    "title_en": "It’s Crunchtime Again for Canada to Avoid New U.S. Tariffs",
+    "summary_en": "Canada is seeking a deal to dodge further economic pain at the hands of the Trump administration on midnight Tuesday. But at what cost?",
+    "title_zh": "加拿大又到了避免美國新關稅的關鍵時刻",
+    "summary_zh": "週二午夜，加拿大正在尋求達成協議，以避免川普政府造成的進一步經濟痛苦。但代價是什麼？"
+  },
+  {
+    "title": "Singapore’s UOB appoints Tan Choon Hin as head of ASEAN and Greater China in new role",
+    "url": "https://www.investing.com/news/stock-market-news/singapores-uob-appoints-tan-choon-hin-as-head-of-asean-and-greater-china-in-new-role-4864247",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-18T12:00:27+08:00",
+    "stocks": [],
+    "uid": "7af623a52901e2b09e228ecbbbf79899",
+    "title_en": "Singapore’s UOB appoints Tan Choon Hin as head of ASEAN and Greater China in new role",
+    "summary_en": "",
+    "title_zh": "新加坡大華銀行任命陳春興 (Tan Choon Hin) 為東協及大中華區負責人",
+    "summary_zh": ""
+  },
+  {
+    "title": "India’s College Boom Is Leaving Graduates in Debt and Without Jobs",
+    "url": "https://www.nytimes.com/2026/08/18/business/india-private-university-debt.html",
+    "source": "NYT Business",
+    "summary": "Families are betting their savings on private universities as a path to a better life. A shortage of well-paying work is turning that wager into frustration.",
+    "published_at": "2026-08-18T12:00:14+08:00",
+    "stocks": [],
+    "uid": "b997eb7b7e6e01ce57db24432fe2e9dc",
+    "title_en": "India’s College Boom Is Leaving Graduates in Debt and Without Jobs",
+    "summary_en": "Families are betting their savings on private universities as a path to a better life. A shortage of well-paying work is turning that wager into frustration.",
+    "title_zh": "印度的大學繁榮讓畢業生負債累累，找不到工作",
+    "summary_zh": "家庭將他們的積蓄押在私立大學上，以此作為通往更美好生活的道路。由於缺乏高薪工作，這種賭注變得令人沮喪。"
+  },
+  {
+    "title": "Microsoft Just Announced Great News for AMD Investors",
+    "url": "https://www.fool.com/investing/2026/08/18/microsoft-just-announced-great-news-for-amd-invest/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Microsoft and AMD are deepening their relationship.",
+    "published_at": "2026-08-18T12:00:00+08:00",
+    "stocks": [],
+    "uid": "930087a63b1e6b957f9cbbbe6eaac607"
+  },
+  {
+    "title": "Microsoft, Salesforce eye Darwinbox buyout ahead of planned IPO- Mint",
+    "url": "https://www.investing.com/news/stock-market-news/microsoft-salesforce-eye-darwinbox-buyout-ahead-of-planned-ipo-mint-93CH-4864245",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-18T11:50:24+08:00",
+    "stocks": [],
+    "uid": "3df3e8254b67169b05f9e9a8769e2efe",
+    "title_en": "Microsoft, Salesforce eye Darwinbox buyout ahead of planned IPO- Mint",
+    "summary_en": "",
+    "title_zh": "微軟和 Salesforce 計劃在 IPO 之前收購 Darwinbox - Mint",
+    "summary_zh": ""
+  },
+  {
+    "title": "Cochlear FY26 slides: cash flow doubles despite margin pressure",
+    "url": "https://www.investing.com/news/company-news/cochlear-fy26-slides-cash-flow-doubles-despite-margin-pressure-93CH-4864243",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-18T11:30:31+08:00",
+    "stocks": [],
+    "uid": "035d3a23b0a3ec20f1cec6e08008d9a1",
+    "title_en": "Cochlear FY26 slides: cash flow doubles despite margin pressure",
+    "summary_en": "",
+    "title_zh": "柯利耳 2026 財年業績下滑：儘管利潤率面臨壓力，現金流仍翻倍",
+    "summary_zh": ""
+  },
+  {
+    "title": "Bond yields jump, oil extends gains as US-Iran ceasefire expires",
+    "url": "https://www.investing.com/news/stock-market-news/oil-prices-climb-bond-yields-rise-as-usiran-ceasefire-expires-4864169",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-18T11:30:29+08:00",
+    "stocks": [],
+    "uid": "531b94ef5c5647dd15414725648b0be8",
+    "title_en": "Bond yields jump, oil extends gains as US-Iran ceasefire expires",
+    "summary_en": "",
+    "title_zh": "美伊停火到期，債券殖利率飆升，油價擴大漲幅",
+    "summary_zh": ""
+  },
+  {
     "title": "Earnings call transcript: Cochlear lifts cash flow, stock rises after H2 2026",
     "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-cochlear-lifts-cash-flow-stock-rises-after-h2-2026-93CH-4864242",
     "source": "Investing.com",
@@ -97,7 +197,11 @@
     "summary": "",
     "published_at": "2026-08-18T11:03:58+08:00",
     "stocks": [],
-    "uid": "17054ab3c0fbc38fbad977d9c5f9f14a"
+    "uid": "17054ab3c0fbc38fbad977d9c5f9f14a",
+    "title_en": "Why is Reliance Worldwide stock surging today?",
+    "summary_en": "",
+    "title_zh": "為什麼 Reliance Worldwide 的股票今天飆升？",
+    "summary_zh": ""
   },
   {
     "title": "Cogstate FY26 slides: record contracts, AI investment amid revenue miss",
@@ -798,7 +902,11 @@
     "stocks": [
       "HFFG"
     ],
-    "uid": "14aed7dee3fc98269146b278756fa330"
+    "uid": "14aed7dee3fc98269146b278756fa330",
+    "title_en": "HF Foods (HFFG) Q2 2026 Earnings Call Transcript",
+    "summary_en": "Revenue hit record highs as management pursues Canadian expansion.",
+    "title_zh": "HF Foods (HFFG) 2026 年第二季財報電話會議紀錄",
+    "summary_zh": "隨著管理層尋求加拿大擴張，收入創下歷史新高。"
   },
   {
     "title": "B&W (BW) Q2 2026 Earnings Call Transcript",
@@ -1090,7 +1198,11 @@
     "stocks": [
       "CWCO"
     ],
-    "uid": "16a33151ba8d7da9a45634bf9d5cbf1a"
+    "uid": "16a33151ba8d7da9a45634bf9d5cbf1a",
+    "title_en": "Consolidated Water (CWCO) Q2 2026 Earnings Call Transcript",
+    "summary_en": "Manufacturing revenue fell 49%, but bulk water surged 20% on new licenses.",
+    "title_zh": "聯合水務 (CWCO) 2026 年第二季財報電話會議紀錄",
+    "summary_zh": "製造業收入下降了 49%，但散裝水因新許可證而增加了 20%。"
   },
   {
     "title": "Purple (PRPL) Q2 2026 Earnings Call Transcript",
@@ -1101,7 +1213,11 @@
     "stocks": [
       "PRPL"
     ],
-    "uid": "56a15241eca9619145e59f54787d3332"
+    "uid": "56a15241eca9619145e59f54787d3332",
+    "title_en": "Purple (PRPL) Q2 2026 Earnings Call Transcript",
+    "summary_en": "Showroom sales surged 16.6% as direct-to-consumer expansion offset wholesale weakness.",
+    "title_zh": "Purple (PRPL) 2026 年第二季財報電話會議紀錄",
+    "summary_zh": "由於直接面向消費者的擴張抵消了批發疲軟的影響，展廳銷售額猛增 16.6%。"
   },
   {
     "title": "Simon Property Group (SPG) Q2 2026 Earnings Call Transcript",
@@ -1112,7 +1228,11 @@
     "stocks": [
       "SPG"
     ],
-    "uid": "eda96d531e29358556010a75367a7202"
+    "uid": "eda96d531e29358556010a75367a7202",
+    "title_en": "Simon Property Group (SPG) Q2 2026 Earnings Call Transcript",
+    "summary_en": "FFO surged 7.9% as leasing demand accelerated across the portfolio.",
+    "title_zh": "西蒙地產集團 (SPG) 2026 年第二季財報電話會議紀錄",
+    "summary_zh": "隨著整個投資組合的租賃需求加速，FFO 飆升 7.9%。"
   },
   {
     "title": "Rocket Lab (RKLB) Q2 2026 Earnings Call Transcript",
@@ -1123,7 +1243,11 @@
     "stocks": [
       "RKLB"
     ],
-    "uid": "fe078d662e3669ca852af10fb93a7b0e"
+    "uid": "fe078d662e3669ca852af10fb93a7b0e",
+    "title_en": "Rocket Lab (RKLB) Q2 2026 Earnings Call Transcript",
+    "summary_en": "Revenue surged 62% YoY to $234M as backlog hit $2.36B on major Space Force contracts.",
+    "title_zh": "Rocket Lab (RKLB) 2026 年第二季財報電話會議紀錄",
+    "summary_zh": "由於太空部隊主要合約的積壓訂單達到 2.36B 美元，營收年增 62% 至 2.34 億美元。"
   },
   {
     "title": "Alcon (ALC) Q2 2026 Earnings Call Transcript",
@@ -1134,7 +1258,11 @@
     "stocks": [
       "ALC"
     ],
-    "uid": "02a70712301585c96506d88bdd660151"
+    "uid": "02a70712301585c96506d88bdd660151",
+    "title_en": "Alcon (ALC) Q2 2026 Earnings Call Transcript",
+    "summary_en": "Net sales grew 7% to $2.8 billion as surgical and vision care divisions both expanded.",
+    "title_zh": "愛爾康 (ALC) 2026 年第二季財報電話會議紀錄",
+    "summary_zh": "隨著外科和視力保健部門的擴張，淨銷售額成長 7%，達到 28 億美元。"
   },
   {
     "title": "Hims (HIMS) Q2 2026 Earnings Call Transcript",
@@ -1145,7 +1273,11 @@
     "stocks": [
       "HIMS"
     ],
-    "uid": "f1d0aa7854e133b5f11ec4b572713927"
+    "uid": "f1d0aa7854e133b5f11ec4b572713927",
+    "title_en": "Hims (HIMS) Q2 2026 Earnings Call Transcript",
+    "summary_en": "Subscriber growth accelerated as revenue surged 38% and international expansion took off.",
+    "title_zh": "Hims (HIMS) 2026 年第二季財報電話會議紀錄",
+    "summary_zh": "隨著收入激增 38%，國際擴張開始，訂戶成長加速。"
   },
   {
     "title": "CNBC's The China Connection newsletter: Money or power? The key to winning the AI race",
@@ -1154,7 +1286,11 @@
     "summary": "The U.S. can outspend China in financing artificial intelligence development, but is that the only factor that matters?",
     "published_at": "2026-08-18T07:00:01+08:00",
     "stocks": [],
-    "uid": "9b81a3a3992a34987116c5d209249b84"
+    "uid": "9b81a3a3992a34987116c5d209249b84",
+    "title_en": "CNBC's The China Connection newsletter: Money or power? The key to winning the AI race",
+    "summary_en": "The U.S. can outspend China in financing artificial intelligence development, but is that the only factor that matters?",
+    "title_zh": "CNBC 的《中國連線》電子報：金錢還是權力？贏得人工智慧競賽的關鍵",
+    "summary_zh": "美國在人工智慧開發融資方面可以超過中國，但這是唯一重要的因素嗎？"
   },
   {
     "title": "Meta Faces 29 States in Court Tuesday. The Case Could Be Big Tech’s Big Tobacco Moment.",
@@ -1163,7 +1299,11 @@
     "summary": "Meta is back in court facing 29 states over allegations it designed addictive products for kids -- and the stakes extend far beyond one company.",
     "published_at": "2026-08-18T06:55:01+08:00",
     "stocks": [],
-    "uid": "9262ea8f4678e29e7c3a1801b1de2743"
+    "uid": "9262ea8f4678e29e7c3a1801b1de2743",
+    "title_en": "Meta Faces 29 States in Court Tuesday. The Case Could Be Big Tech’s Big Tobacco Moment.",
+    "summary_en": "Meta is back in court facing 29 states over allegations it designed addictive products for kids -- and the stakes extend far beyond one company.",
+    "title_zh": "Meta 週二在 29 個州出庭受審。此案可能是大型科技公司的大菸草時刻。",
+    "summary_zh": "Meta 因設計兒童成癮產品的指控而再次面臨 29 個州的法庭審判，而且其利益遠遠超出了一家公司的範圍。"
   },
   {
     "title": "Earnings call transcript: Vector lifts FY2026 profit 55% as shares edge higher",
@@ -1172,7 +1312,11 @@
     "summary": "",
     "published_at": "2026-08-18T06:41:22+08:00",
     "stocks": [],
-    "uid": "4cbca38caacef51627b5592b47ec65ed"
+    "uid": "4cbca38caacef51627b5592b47ec65ed",
+    "title_en": "Earnings call transcript: Vector lifts FY2026 profit 55% as shares edge higher",
+    "summary_en": "",
+    "title_zh": "財報電話會議記錄：隨著股價上漲，Vector 將 2026 財年獲利提升 55%",
+    "summary_zh": ""
   },
   {
     "title": "H2O America receives approval to acquire Quadvest assets",
@@ -1181,7 +1325,11 @@
     "summary": "",
     "published_at": "2026-08-18T06:40:27+08:00",
     "stocks": [],
-    "uid": "18e391382bda9dc61acd6164726aae1e"
+    "uid": "18e391382bda9dc61acd6164726aae1e",
+    "title_en": "H2O America receives approval to acquire Quadvest assets",
+    "summary_en": "",
+    "title_zh": "H2O America 獲得收購 Quadvest 資產的批准",
+    "summary_zh": ""
   },
   {
     "title": "Intel Costs 62 Times Next Year's Earnings. It Lost $11 Billion Over the Past Year.",
@@ -2546,7 +2694,11 @@
     "summary": "Paramount agreed to delay its proposed acquisition of WBD to as late as June 2027 while the state AGs' case heads to trial.",
     "published_at": "2026-08-18T02:58:54+08:00",
     "stocks": [],
-    "uid": "46fe9380e2e4106de2b565459ac03460"
+    "uid": "46fe9380e2e4106de2b565459ac03460",
+    "title_en": "Paramount seeks $1.88 billion bond from state AGs to cover costs of WBD merger delay",
+    "summary_en": "Paramount agreed to delay its proposed acquisition of WBD to as late as June 2027 while the state AGs' case heads to trial.",
+    "title_zh": "派拉蒙向州政府尋求 18.8 億美元債券，以彌補 WBD 合併延遲的成本",
+    "summary_zh": "派拉蒙同意將其收購 WBD 的提議推遲至 2027 年 6 月，同時州檢察長的案件即將進入審判階段。"
   },
   {
     "title": "SpaceX’s stock is rising, and that’s a good sign for Nvidia and Google",
@@ -2581,7 +2733,11 @@
     "summary": "AppLovin shares are down more than 50% this year.",
     "published_at": "2026-08-18T02:49:39+08:00",
     "stocks": [],
-    "uid": "e6c0a617b729b4e1022e9da7f69f4c44"
+    "uid": "e6c0a617b729b4e1022e9da7f69f4c44",
+    "title_en": "What's Wrong With AppLovin Stock?",
+    "summary_en": "AppLovin shares are down more than 50% this year.",
+    "title_zh": "AppLovin 股票出了什麼問題？",
+    "summary_zh": "AppLovin 股價今年下跌超過 50%。"
   },
   {
     "title": "Why Meta Platforms Stock Is Falling Today",
@@ -3605,7 +3761,11 @@
     "summary": "",
     "published_at": "2026-08-18T00:08:13+08:00",
     "stocks": [],
-    "uid": "26dc359013545c83c0412664f286bdf0"
+    "uid": "26dc359013545c83c0412664f286bdf0",
+    "title_en": "SIG’s Turnaround Gets a CEO Plot Twist",
+    "summary_en": "",
+    "title_zh": "SIG 的轉虧為盈讓 CEO 的情節發生了轉折",
+    "summary_zh": ""
   },
   {
     "title": "Portugal stocks lower at close of trade; PSI down 0.38%",
@@ -3666,7 +3826,11 @@
     "summary": "",
     "published_at": "2026-08-18T00:06:20+08:00",
     "stocks": [],
-    "uid": "690a7a649d7518d3760064fd3485908c"
+    "uid": "690a7a649d7518d3760064fd3485908c",
+    "title_en": "Investors Remember Why They Love Memory-Chip Stocks",
+    "summary_en": "",
+    "title_zh": "投資人記得為什麼他們喜歡儲存晶片股票",
+    "summary_zh": ""
   },
   {
     "title": "This $9.8B Medicare subsidy was just ended — and millions are worried about Plan D. Will you be paying more in 2027?",
@@ -3675,7 +3839,11 @@
     "summary": "",
     "published_at": "2026-08-18T00:05:00+08:00",
     "stocks": [],
-    "uid": "fdfdf501920d53b9ce2b28b534d14e55"
+    "uid": "fdfdf501920d53b9ce2b28b534d14e55",
+    "title_en": "This $9.8B Medicare subsidy was just ended — and millions are worried about Plan D. Will you be paying more in 2027?",
+    "summary_en": "",
+    "title_zh": "這項 9.8B 美元的醫療保險補貼剛剛結束——數百萬人擔心 D 計劃。您會在 2027 年支付更多費用嗎？",
+    "summary_zh": ""
   },
   {
     "title": "Anthropic’s $2 trillion IPO dream rests on staggering revenue bet",
@@ -3719,7 +3887,11 @@
     "summary": "It's hard to go wrong with the Vanguard S&amp;P 500 ETF.",
     "published_at": "2026-08-18T00:00:00+08:00",
     "stocks": [],
-    "uid": "00a50f778d4988bab78f5d3a34611953"
+    "uid": "00a50f778d4988bab78f5d3a34611953",
+    "title_en": "Prediction: If a Bear Market Is Coming, This ETF Will Be the Biggest Long-Term Winner",
+    "summary_en": "It's hard to go wrong with the Vanguard S&amp;P 500 ETF.",
+    "title_zh": "預測：如果熊市來臨，這隻ETF將成為最大的長期贏家",
+    "summary_zh": "Vanguard S&P 500 ETF 很難出錯。"
   },
   {
     "title": "Could Nvidia Be Worth $10 Trillion by 2030?",
@@ -8784,6 +8956,15 @@
     "summary_zh": "許多配偶受益人已經等待多年才能跨越這個門檻。"
   },
   {
+    "title": "Have Middle East Oil Flows Rebounded to 15 Million Bpd as U.S. Claims?",
+    "url": "https://finance.yahoo.com/energy/articles/middle-east-oil-flows-rebounded-230000187.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T07:00:00+08:00",
+    "stocks": [],
+    "uid": "0982b0ffb58056417304b1c12e46ce15"
+  },
+  {
     "title": "U.S. stock futures little changed as investors ponder the Fed’s next move",
     "url": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-ponder-the-feds-next-move-27bcbea4?mod=mw_rss_topstories",
     "source": "MarketWatch",
@@ -9784,6 +9965,15 @@
     "summary_zh": ""
   },
   {
+    "title": "Planet Fitness Director Spinelli Buys 10,000 Shares for $492,800 -- Should Investors Buy Too?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/planet-fitness-director-spinelli-buys-165500960.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T00:55:00+08:00",
+    "stocks": [],
+    "uid": "72fad255e4618d043925654e26fcf381"
+  },
+  {
     "title": "Archer Guided to a $200 Million Quarterly Loss. It Has About $1.6 Billion.",
     "url": "https://www.fool.com/investing/2026/08/16/archer-guided-to-a-200-million-quarterly-loss-it-h/?source=iedfolrf0000001",
     "source": "Motley Fool",
@@ -9810,6 +10000,24 @@
     "summary_zh": "Sysco 的表現令人印象深刻，但華爾街對其缺乏關注卻令人費解。"
   },
   {
+    "title": "Should You Buy Meta Platforms Stock Below $600 Before Mark Zuckerberg Unveils Its AI Cloud Business? Here's My Honest Take",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/buy-meta-platforms-stock-below-164000665.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T00:40:00+08:00",
+    "stocks": [],
+    "uid": "033d07eb7a1ce81a57c44cb9da03fab3"
+  },
+  {
+    "title": "Investing $500 a Month Into These 3 ETFs Could Retire You a Millionaire",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/investing-500-month-3-etfs-163720672.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T00:37:20+08:00",
+    "stocks": [],
+    "uid": "a4c9631988199446dac5042e408b20a5"
+  },
+  {
     "title": "Planet Fitness Director Spinelli Buys 10,000 Shares for $492,800 -- Should Investors Buy Too?",
     "url": "https://www.fool.com/coverage/filings/2026/08/16/planet-fitness-director-spinelli-buys-10-000-shares-for-usd492-800-should-investors-buy-too/?source=iedfolrf0000001",
     "source": "Motley Fool",
@@ -9821,6 +10029,24 @@
     "summary_en": "Spinelli's 28% increase in his stake signals confidence despite the stock being down 54% over the past year. His total direct holdings now stand at 45,516 shares, worth $2.23 million.",
     "title_zh": "Planet Fitness 董事 Spinelli 以 492,800 美元購買 10,000 股股票——投資者也應該購買嗎？",
     "summary_zh": "儘管該股去年下跌了 54%，但斯皮內利增持 28% 的股份表明了信心。目前，他直接持有的股票總數為 45,516 股，價值 223 萬美元。"
+  },
+  {
+    "title": "The Metals Company’s Big Bet Now Comes Down to a License",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/metals-company-big-bet-now-163500744.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T00:35:00+08:00",
+    "stocks": [],
+    "uid": "d3b3b3ac3869a843ae35c63fb1c486d7"
+  },
+  {
+    "title": "Workday’s $51 billion takeover talks could reset the software trade",
+    "url": "https://finance.yahoo.com/technology/articles/workday-51-billion-takeover-talks-163300274.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T00:33:00+08:00",
+    "stocks": [],
+    "uid": "9220d086067fb782bebfa94547535b1f"
   },
   {
     "title": "Search teams comb rubble in Colombia nearly a week after quake as aid effort expands",
