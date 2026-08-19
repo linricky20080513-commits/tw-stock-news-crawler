@@ -1,5 +1,487 @@
 [
   {
+    "title": "I want to be a snowbird, but I’m not sure my $2 million nest egg can sustain two homes",
+    "url": "https://www.marketwatch.com/story/i-want-to-be-a-snowbird-but-im-not-sure-my-2-million-nest-egg-can-sustain-two-homes-ce903e6b?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "It’s not the purchase price that’s the biggest obstacle, but rather the continuing costs.",
+    "published_at": "2026-08-19T23:17:00+08:00",
+    "stocks": [],
+    "uid": "dc6e944694bd15c98d85014766912965",
+    "title_en": "I want to be a snowbird, but I’m not sure my $2 million nest egg can sustain two homes",
+    "summary_en": "It’s not the purchase price that’s the biggest obstacle, but rather the continuing costs.",
+    "title_zh": "我想成為一隻雪鳥，但我不確定我 200 萬美元的積蓄能否維持兩棟房屋",
+    "summary_zh": "最大的障礙不是購買價格，而是持續的成本。"
+  },
+  {
+    "title": "We're booking a five-fold profit on one of drug stock's rally to record highs",
+    "url": "https://www.cnbc.com/2026/08/19/were-booking-a-five-fold-profit-on-one-of-drug-stocks-rally-to-record-highs.html",
+    "source": "CNBC Top",
+    "summary": "This trim doesn't reflect any change in our positive long-term view.",
+    "published_at": "2026-08-19T23:14:45+08:00",
+    "stocks": [],
+    "uid": "b291ce32b3aadef79b6c8e82551176fb",
+    "title_en": "We're booking a five-fold profit on one of drug stock's rally to record highs",
+    "summary_en": "This trim doesn't reflect any change in our positive long-term view.",
+    "title_zh": "我們在一隻藥品股票上漲至歷史新高時預定了五倍的利潤",
+    "summary_zh": "這項調整併不反映我們積極的長期觀點有任何變化。"
+  },
+  {
+    "title": "Marvell pops 6% on AI chip deal that lets Google buy up to $12.2 billion in shares",
+    "url": "https://www.cnbc.com/2026/08/19/marvell-google-ai-chips.html",
+    "source": "CNBC Top",
+    "summary": "Google and its competitors have been pursuing custom chips to improve efficiency and reduce reliance on Nvidia.",
+    "published_at": "2026-08-19T23:09:51+08:00",
+    "stocks": [],
+    "uid": "7c6098054a80e0acf4b5fba1b6f39558",
+    "title_en": "Marvell pops 6% on AI chip deal that lets Google buy up to $12.2 billion in shares",
+    "summary_en": "Google and its competitors have been pursuing custom chips to improve efficiency and reduce reliance on Nvidia.",
+    "title_zh": "Marvell 在 AI 晶片交易中股價上漲 6%，Google購買高達 122 億美元的股票",
+    "summary_zh": "谷歌及其競爭對手一直在尋求客製化晶片，以提高效率並減少對英偉達的依賴。"
+  },
+  {
+    "title": "Costco's Cash Pile Keeps Building. Is a Special Dividend Finally Coming This Fall?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/costcos-cash-pile-keeps-building-150800397.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T23:08:00+08:00",
+    "stocks": [],
+    "uid": "766997c94b3f7d058fac6b37c3cc97d2",
+    "title_en": "Costco's Cash Pile Keeps Building. Is a Special Dividend Finally Coming This Fall?",
+    "summary_en": "",
+    "title_zh": "Costco 的現金儲備不斷增加。今年秋天終於派發特別股息了嗎？",
+    "summary_zh": ""
+  },
+  {
+    "title": "Worried About a Market Crash? These 3 Stocks Beat the S&P 500 in 2008 and 2022",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/worried-market-crash-3-stocks-150658692.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T23:06:58+08:00",
+    "stocks": [],
+    "uid": "46d1bc5fc7953ac147c9c1be3e84b1bf",
+    "title_en": "Worried About a Market Crash? These 3 Stocks Beat the S&P 500 in 2008 and 2022",
+    "summary_en": "",
+    "title_zh": "擔心市場崩盤？這三隻股票在 2008 年和 2022 年跑贏了標準普爾 500 指數",
+    "summary_zh": ""
+  },
+  {
+    "title": "DNOW at EnerCom Denver: merger gains lift cash flow and outlook",
+    "url": "https://www.investing.com/news/transcripts/dnow-at-enercom-denver-merger-gains-lift-cash-flow-and-outlook-93CH-4867847",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-19T23:06:27+08:00",
+    "stocks": [],
+    "uid": "265b01cefb220f70f8e4647a12adbc46",
+    "title_en": "DNOW at EnerCom Denver: merger gains lift cash flow and outlook",
+    "summary_en": "",
+    "title_zh": "EnerCom Denver 的 DNOW：合併收益提升現金流量與前景",
+    "summary_zh": ""
+  },
+  {
+    "title": "2 Nuclear Stocks to Buy and What Each One Needs to Go Right",
+    "url": "https://finance.yahoo.com/energy/articles/2-nuclear-stocks-buy-one-150500479.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T23:05:00+08:00",
+    "stocks": [],
+    "uid": "f55747bfb9d1e438df30b4b7a904e87e",
+    "title_en": "2 Nuclear Stocks to Buy and What Each One Needs to Go Right",
+    "summary_en": "",
+    "title_zh": "值得購買的 2 種核庫存以及每種庫存需要做什麼",
+    "summary_zh": ""
+  },
+  {
+    "title": "EShallGo prices $1.75M registered direct offering at $1/share",
+    "url": "https://www.investing.com/news/company-news/eshallgo-prices-175m-registered-direct-offering-at-1share-93CH-4867846",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-19T23:04:32+08:00",
+    "stocks": [],
+    "uid": "dbb777383e61068d4ed3602e02c07c31",
+    "title_en": "EShallGo prices $1.75M registered direct offering at $1/share",
+    "summary_en": "",
+    "title_zh": "EShallGo 以每股 1 美元的價格定價 175 萬美元註冊直接發行",
+    "summary_zh": ""
+  },
+  {
+    "title": "Marvell Stock Rises as Chip Company Issues Warrant to Google to Buy Stake of $12.2 Billion",
+    "url": "https://www.barrons.com/articles/marvell-stock-google-stake-warrant-bd142033?siteid=yhoof2&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T23:04:00+08:00",
+    "stocks": [],
+    "uid": "e1eb07a7a364aab0c254b70b056de7a6",
+    "title_en": "Marvell Stock Rises as Chip Company Issues Warrant to Google to Buy Stake of $12.2 Billion",
+    "summary_en": "",
+    "title_zh": "晶片公司向 Google 發出認股權證，購買 122 億美元股份，Marvell 股價上漲",
+    "summary_zh": ""
+  },
+  {
+    "title": "Nationwide Building Society lists €150m covered bonds",
+    "url": "https://www.investing.com/news/company-news/nationwide-building-society-lists-150m-covered-bonds-93CH-4867845",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-19T23:02:45+08:00",
+    "stocks": [],
+    "uid": "a820c9d08e4560c025583fb143a8fb3f",
+    "title_en": "Nationwide Building Society lists €150m covered bonds",
+    "summary_en": "",
+    "title_zh": "全國建築協會列出 1.5 億歐元擔保債券",
+    "summary_zh": ""
+  },
+  {
+    "title": "Estee Lauder bets on fragrances and skincare to deliver strong annual profit",
+    "url": "https://www.investing.com/news/stock-market-news/estee-lauder-forecasts-annual-profit-above-estimates-on-strong-china-demand-4866853",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-19T23:01:33+08:00",
+    "stocks": [],
+    "uid": "71bd6aeb077428ccc3e0c1f43233548a",
+    "title_en": "Estee Lauder bets on fragrances and skincare to deliver strong annual profit",
+    "summary_en": "",
+    "title_zh": "雅詩蘭黛押注香水和護膚品以實現強勁的年度利潤",
+    "summary_zh": ""
+  },
+  {
+    "title": "Lowe’s second-quarter profit beats on resilient home repair demand",
+    "url": "https://www.investing.com/news/stock-market-news/lowes-cuts-annual-sales-growth-forecast-as-consumers-curb-highcost-renovations-4866909",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-19T23:01:13+08:00",
+    "stocks": [],
+    "uid": "e767df10e6233e758421e20eb9d50685",
+    "title_en": "Lowe’s second-quarter profit beats on resilient home repair demand",
+    "summary_en": "",
+    "title_zh": "勞氏第二季獲利因房屋維修需求強勁而成長",
+    "summary_zh": ""
+  },
+  {
+    "title": "Johnson Outdoors director Stevens sells $299,125 in stock",
+    "url": "https://www.investing.com/news/insider-trading-news/johnson-outdoors-director-stevens-sells-299125-in-stock-93CH-4867843",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-19T23:01:03+08:00",
+    "stocks": [],
+    "uid": "5fb2064f680a2b2e5964e3ae9b9d96f3",
+    "title_en": "Johnson Outdoors director Stevens sells $299,125 in stock",
+    "summary_en": "",
+    "title_zh": "Johnson Outdoors 總監史蒂文斯出售價值 299,125 美元的股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "CTT Pharmaceutical Holdings CEO buys $590 in shares",
+    "url": "https://www.investing.com/news/insider-trading-news/ctt-pharmaceutical-holdings-ceo-buys-590-in-shares-93CH-4867842",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-19T23:01:02+08:00",
+    "stocks": [],
+    "uid": "d93d7c46beff3bcc0b9853f922eadbc4",
+    "title_en": "CTT Pharmaceutical Holdings CEO buys $590 in shares",
+    "summary_en": "",
+    "title_zh": "CTT Pharmaceutical Holdings 執行長購買 590 美元的股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Board approves $19.9 billion plan to overhaul Washington Dulles airport",
+    "url": "https://www.investing.com/news/stock-market-news/board-approves-199-billion-plan-to-overhaul-washington-dulles-airport-4867841",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-19T23:00:39+08:00",
+    "stocks": [],
+    "uid": "bd3bbbc28448a5591dcc7d41eee2d213",
+    "title_en": "Board approves $19.9 billion plan to overhaul Washington Dulles airport",
+    "summary_en": "",
+    "title_zh": "董事會批准耗資 199 億美元改造華盛頓杜勒斯機場的計劃",
+    "summary_zh": ""
+  },
+  {
+    "title": "Leadership Investment: Director Carande Acquires 2,101 Shares of United Community Banks",
+    "url": "https://www.fool.com/coverage/filings/2026/08/19/leadership-investment-director-carande-acquires-2-101-shares-of-united-community-banks/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Carande's $74,270 investment more than doubled his direct stake in the $4.3 billion financial services company.",
+    "published_at": "2026-08-19T23:00:01+08:00",
+    "stocks": [],
+    "uid": "d37c4d3e8a5ee8896d4e9e77febd05b4",
+    "title_en": "Leadership Investment: Director Carande Acquires 2,101 Shares of United Community Banks",
+    "summary_en": "Carande's $74,270 investment more than doubled his direct stake in the $4.3 billion financial services company.",
+    "title_zh": "領導力投資：董事 Carande 收購 United Community Bank 2,101 股",
+    "summary_zh": "卡蘭德的 74,270 美元投資是他在這家價值 43 億美元的金融服務公司中直接持股的兩倍多。"
+  },
+  {
+    "title": "3 Reasons to Buy and Hold This Wide-Moat Dividend King's Stock Forever",
+    "url": "https://www.fool.com/investing/2026/08/19/3-reasons-to-buy-and-hold-this-wide-moat-dividend/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "It's rare for any company to be able to remain in a position to dominate its markets. This one is a compelling exception.",
+    "published_at": "2026-08-19T23:00:00+08:00",
+    "stocks": [],
+    "uid": "0b90fcff3e399838484378df2847661a",
+    "title_en": "3 Reasons to Buy and Hold This Wide-Moat Dividend King's Stock Forever",
+    "summary_en": "It's rare for any company to be able to remain in a position to dominate its markets. This one is a compelling exception.",
+    "title_zh": "永遠買進並持有這只寬護城河股息之王股票的 3 個理由",
+    "summary_zh": "很少有公司能夠維持市場主導地位。這是一個引人注目的例外。"
+  },
+  {
+    "title": "Washington Dulles airport approves $19.9 billion upgrade plan",
+    "url": "https://www.investing.com/news/stock-market-news/washington-dulles-airport-approves-199-billion-upgrade-plan-93CH-4867837",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-19T22:57:35+08:00",
+    "stocks": [],
+    "uid": "07729a7967be88550ebdbb485c682e81",
+    "title_en": "Washington Dulles airport approves $19.9 billion upgrade plan",
+    "summary_en": "",
+    "title_zh": "華盛頓杜勒斯機場批准199億美元升級計劃",
+    "summary_zh": ""
+  },
+  {
+    "title": "ConocoPhillips (COP) Has Low-Cost Inventory and a Major Cash Flow Catalyst Ahead",
+    "url": "https://finance.yahoo.com/energy/articles/conocophillips-cop-low-cost-inventory-145705934.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T22:57:05+08:00",
+    "stocks": [
+      "COP"
+    ],
+    "uid": "b31cd0bb0ac9081aa43550a259f71ad3",
+    "title_en": "ConocoPhillips (COP) Has Low-Cost Inventory and a Major Cash Flow Catalyst Ahead",
+    "summary_en": "",
+    "title_zh": "康菲石油公司 (COP) 擁有低成本庫存和未來的主要現金流催化劑",
+    "summary_zh": ""
+  },
+  {
+    "title": "Earnings call transcript: Analog Devices tops Q3 2026 estimates on record sales",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-analog-devices-tops-q3-2026-estimates-on-record-sales-93CH-4867836",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-19T22:57:04+08:00",
+    "stocks": [],
+    "uid": "b0fec4fb4d84f44de0e574eaff49a0f3",
+    "title_en": "Earnings call transcript: Analog Devices tops Q3 2026 estimates on record sales",
+    "summary_en": "",
+    "title_zh": "財報電話會議紀錄：ADI 公司 2026 年第三季銷售額創歷史新高，超乎預期",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why Kingsoft Cloud Stock Is Soaring Today",
+    "url": "https://www.fool.com/investing/2026/08/19/why-kingsoft-cloud-stock-is-soaring-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Kingsoft Cloud's latest quarterly report served up winds for shareholders.",
+    "published_at": "2026-08-19T22:55:08+08:00",
+    "stocks": [],
+    "uid": "8dcaa21effcded17802464a4cf8a88d5",
+    "title_en": "Why Kingsoft Cloud Stock Is Soaring Today",
+    "summary_en": "Kingsoft Cloud's latest quarterly report served up winds for shareholders.",
+    "title_zh": "為什麼今天金山雲股價飆漲",
+    "summary_zh": "金山雲最新一季報為股東們帶來了風聲。"
+  },
+  {
+    "title": "PodcastOne (PODC) Q1 2027 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/podcastone-podc-q1-2027-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Revenue grew 8% to $16.1 million while adjusted EBITDA surged 172% year-over-year.",
+    "published_at": "2026-08-19T22:53:46+08:00",
+    "stocks": [
+      "PODC"
+    ],
+    "uid": "7df8c7e40f0d63e6f78a627638f87a96",
+    "title_en": "PodcastOne (PODC) Q1 2027 Earnings Call Transcript",
+    "summary_en": "Revenue grew 8% to $16.1 million while adjusted EBITDA surged 172% year-over-year.",
+    "title_zh": "PodcastOne (PODC) 2027 年第一季財報電話會議紀錄",
+    "summary_zh": "營收成長 8%，達到 1,610 萬美元，調整後 EBITDA 年增 172%。"
+  },
+  {
+    "title": "RADCOM (RDCM) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/radcom-rdcm-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Infrastructure delays pressured Q2 revenue, but management expects normalized activity in 2027.",
+    "published_at": "2026-08-19T22:53:46+08:00",
+    "stocks": [
+      "RDCM"
+    ],
+    "uid": "c328c3f3dfee4f2c5f83d047ce69428d",
+    "title_en": "RADCOM (RDCM) Q2 2026 Earnings Call Transcript",
+    "summary_en": "Infrastructure delays pressured Q2 revenue, but management expects normalized activity in 2027.",
+    "title_zh": "RADCOM (RDCM) 2026 年第二季財報電話會議紀錄",
+    "summary_zh": "基礎設施延誤給第二季度收入帶來壓力，但管理層預計 2027 年活動將恢復正常。"
+  },
+  {
+    "title": "Is Workday (WDAY) Mispriced With 30%+ Margin Potential Ahead?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/workday-wday-mispriced-30-margin-145046525.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T22:50:46+08:00",
+    "stocks": [
+      "WDAY"
+    ],
+    "uid": "2aad410fd0e0ff8b1417116c119d3692",
+    "title_en": "Is Workday (WDAY) Mispriced With 30%+ Margin Potential Ahead?",
+    "summary_en": "",
+    "title_zh": "未來 30% 以上的利潤潛力是否會導致工作日 (WDAY) 定價錯誤？",
+    "summary_zh": ""
+  },
+  {
+    "title": "Costco's Cash Pile Keeps Building. Is a Special Dividend Finally Coming This Fall?",
+    "url": "https://www.fool.com/investing/2026/08/19/costcos-cash-pile-keeps-building-is-a-special-divi/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Another big payout from the warehouse club operator should be coming soon.",
+    "published_at": "2026-08-19T22:48:00+08:00",
+    "stocks": [],
+    "uid": "2409529bb77e331ddb9dd6d9e795b9c1",
+    "title_en": "Costco's Cash Pile Keeps Building. Is a Special Dividend Finally Coming This Fall?",
+    "summary_en": "Another big payout from the warehouse club operator should be coming soon.",
+    "title_zh": "Costco 的現金儲備不斷增加。今年秋天終於派發特別股息了嗎？",
+    "summary_zh": "倉庫俱樂部營運商的另一筆巨額支出應該很快就會到來。"
+  },
+  {
+    "title": "Worried About a Market Crash? These 3 Stocks Beat the S&P 500 in 2008 and 2022",
+    "url": "https://www.fool.com/investing/2026/08/19/worried-about-a-market-crash-these-3-stocks-beat-the-s-and-p-500-in-2008-and-2022/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "These stocks can be safe-haven investments to hide out in amid market turmoil.",
+    "published_at": "2026-08-19T22:46:58+08:00",
+    "stocks": [],
+    "uid": "0e5a7b141780c439d6ed8ffb66b079e6"
+  },
+  {
+    "title": "2 Nuclear Stocks to Buy and What Each One Needs to Go Right",
+    "url": "https://www.fool.com/investing/2026/08/19/2-nuclear-stocks-to-buy-and-what-each-one-needs-to/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Nuclear energy is making a comeback, and two American companies are poised to flourish as the industry landscape evolves.",
+    "published_at": "2026-08-19T22:45:00+08:00",
+    "stocks": [],
+    "uid": "8ab30bd42528cda5bc961def98ade1f0"
+  },
+  {
+    "title": "Aramark’s (ARMK) AI Data Center Push Gains Traction Amid Strong Q3 Results",
+    "url": "https://finance.yahoo.com/technology/ai/articles/aramark-armk-ai-data-center-144447852.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T22:44:47+08:00",
+    "stocks": [
+      "ARMK"
+    ],
+    "uid": "bc3838ab5fd740c473f26dfaabacbe00"
+  },
+  {
+    "title": "Is SAP (SAP) Mispriced as AI Fears Overshadow Its Core ERP Strength?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/sap-sap-mispriced-ai-fears-144250521.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T22:42:50+08:00",
+    "stocks": [
+      "SAP"
+    ],
+    "uid": "2d29406d3432895d74fe6504107b5da6"
+  },
+  {
+    "title": "Berkshire Hathaway bet big on the U.S. housing market. You probably shouldn’t follow suit.",
+    "url": "https://www.marketwatch.com/story/berkshire-hathaway-bet-big-on-the-u-s-housing-market-you-probably-shouldnt-follow-suit-55c3e1c3?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Home-builder stocks are cheap, but it’s not easy to time a rebound in the depressed housing market.",
+    "published_at": "2026-08-19T22:40:00+08:00",
+    "stocks": [],
+    "uid": "ebe6efbd1a0731e39191c31bd26f2854"
+  },
+  {
+    "title": "Lennar Corporation (LEN) Collapses as Market Weakness and Spin-off Bite",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/lennar-corporation-len-collapses-market-143846096.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T22:38:46+08:00",
+    "stocks": [
+      "LEN"
+    ],
+    "uid": "d225a737c16f09461d5bb4494589853b"
+  },
+  {
+    "title": "How the U.S. Navy Is Helping Get Oil Through the Strait of Hormuz",
+    "url": "https://www.nytimes.com/2026/08/19/business/iran-hormuz-oman-us-navy.html",
+    "source": "NYT Business",
+    "summary": "With Iran making ship traffic perilous, a U.S. operation offers a way out for some energy exports, stealthily shepherding tankers on dangerous journeys.",
+    "published_at": "2026-08-19T22:36:18+08:00",
+    "stocks": [],
+    "uid": "819527d2f8f4225585c1098c73e0c7b2"
+  },
+  {
+    "title": "Similarweb (SMWB) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/similarweb-smwb-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "First GAAP operating profit milestone as AI-driven data consumption accelerates enterprise growth.",
+    "published_at": "2026-08-19T22:34:37+08:00",
+    "stocks": [
+      "SMWB"
+    ],
+    "uid": "114bcf600ab2c0fddef4c1c1603c9145"
+  },
+  {
+    "title": "The Crowd Is Selling Campbell's Stock. Here's Why It's a Buy Instead.",
+    "url": "https://www.fool.com/investing/2026/08/19/the-crowd-is-selling-campbells-stock-heres-why-its/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The Campbell's Company has maintained its solid dividend through a challenging period.",
+    "published_at": "2026-08-19T22:31:00+08:00",
+    "stocks": [],
+    "uid": "b30c82c3c609d249b2630211f4778286"
+  },
+  {
+    "title": "Warren Buffett Thinks Investors Are \"Gambling\" and \"Playing With Fire\" Right Now. But Here Are 3 Safe Stocks Even the Oracle of Omaha Would Like.",
+    "url": "https://www.fool.com/investing/2026/08/19/warren-buffett-thinks-investors-are-gambling-and/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "While investors treat Wall Street like a casino, stick to these Buffett-style \"wonderful investments.\"",
+    "published_at": "2026-08-19T22:30:00+08:00",
+    "stocks": [],
+    "uid": "f7a62ed8f6e2b4ebfd29041faa0ebb55"
+  },
+  {
+    "title": "Riskified (RSKD) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/riskified-rskd-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Revenue hit 22% growth, fastest in four years, driven by digital finance surge.",
+    "published_at": "2026-08-19T22:29:27+08:00",
+    "stocks": [
+      "RSKD"
+    ],
+    "uid": "1b69c80a4c605c2c6fd41e8b2de98041"
+  },
+  {
+    "title": "As Nike (NKE) Craters to New Lows, Insiders Are Buying This Rival On The Dip",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nike-nke-craters-lows-insiders-142600448.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T22:26:00+08:00",
+    "stocks": [
+      "NKE"
+    ],
+    "uid": "027e4ff62c73b288e8386005971a5ad4"
+  },
+  {
+    "title": "Nvidia plays matchmaker in Nordics, sources tell CNBC, as AI data center deals boom in region",
+    "url": "https://www.cnbc.com/2026/08/19/nvidia-nordic-ai-data-centers.html",
+    "source": "CNBC Top",
+    "summary": "Nvidia is trying to connect GPU customers with Nordic data-center operators as cheap power and available land fuel the region’s AI infrastructure boom.",
+    "published_at": "2026-08-19T22:25:12+08:00",
+    "stocks": [],
+    "uid": "2d39164d9fe352a10f401b31349a8f9b"
+  },
+  {
+    "title": "eToro’s (ETOR) Acquisition Spree Signals A Bigger Ambition Than Trading",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/etoro-etor-acquisition-spree-signals-142333194.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T22:23:33+08:00",
+    "stocks": [
+      "ETOR"
+    ],
+    "uid": "dde5b6614da6939f314f7151195210d6"
+  },
+  {
+    "title": "Why TJX Stock Dropped Today",
+    "url": "https://www.fool.com/investing/2026/08/19/why-tjx-stock-dropped-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "TJX stock beat on sales and earnings this morning. Investors sold the stock anyway after they got a look at guidance.",
+    "published_at": "2026-08-19T22:22:22+08:00",
+    "stocks": [],
+    "uid": "1c1ce1849b598325f6b65cc578b64687"
+  },
+  {
     "title": "Carvana shares on pace for 10% weekly loss as Mark Walter probe fuels investor jitters",
     "url": "https://www.cnbc.com/2026/08/19/carvana-shares-on-pace-for-10percent-weekly-loss-as-mark-walter-probe-fuels-investor-jitters.html",
     "source": "CNBC Finance",
@@ -11,6 +493,17 @@
     "summary_en": "The scrutiny raised questions about what could happen to Walter's Carvana position if fallout from the investigation pressures him to raise cash.",
     "title_zh": "馬克沃爾特 (Mark Walter) 調查加劇投資者不安，Carvana 股價每週下跌 10%",
     "summary_zh": "這次審查引發了人們的疑問：如果調查的後果迫使沃爾特籌集現金，他的卡瓦納職位可能會發生什麼。"
+  },
+  {
+    "title": "‘AI Plays in Disguise’ – Analyst Highlights Quanta Services (PWR) as a Promising AI Power Stock",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ai-plays-disguise-analyst-highlights-141818851.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T22:18:18+08:00",
+    "stocks": [
+      "PWR"
+    ],
+    "uid": "50b5a54cd2507579fe8ba3c0f5a9812a"
   },
   {
     "title": "Why is Apple stock rallying today?",
@@ -50,6 +543,26 @@
     "summary_en": "",
     "title_zh": "Avidia Bancorp 執行副總裁 Thomas Doane 購買 38,507 美元的 AVBC 股票",
     "summary_zh": ""
+  },
+  {
+    "title": "Vestis (VSTS) Delivers Its First Real Pricing Win",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/vestis-vsts-delivers-first-real-141518943.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T22:15:18+08:00",
+    "stocks": [
+      "VSTS"
+    ],
+    "uid": "e62ff1c029a97f46afa786a3ef065afb"
+  },
+  {
+    "title": "Jamie Dimon Has Run JPMorgan Chase for 2 Decades. What Happens to the Stock When He Steps Down?",
+    "url": "https://www.fool.com/investing/2026/08/19/jamie-dimon-has-run-jpmorgan-chase-for-2-decades-w/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Jamie Dimon's track record at JPMorgan Chase is a good one, but he's still just one of many leaders.",
+    "published_at": "2026-08-19T22:15:00+08:00",
+    "stocks": [],
+    "uid": "080cd5aeb3e6e0a708b020298c1e9509"
   },
   {
     "title": "UBS reiterates Cerebras Systems stock rating on CS-4 launch",
@@ -150,6 +663,72 @@
     "summary_en": "",
     "title_zh": "聯準會研究發現生產力的提高限制了關稅通膨",
     "summary_zh": ""
+  },
+  {
+    "title": "Kamada (KMDA) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/kamada-kmda-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "KEDRAB sales and distribution expansion drive record revenue and EBITDA growth.",
+    "published_at": "2026-08-19T22:10:11+08:00",
+    "stocks": [
+      "KMDA"
+    ],
+    "uid": "de98ce84c00dd2723bb1bc23fc41e995"
+  },
+  {
+    "title": "Dyadic International (DYAI) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/dyadic-international-dyai-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Company advances commercialization with initial product shipments and distribution deals.",
+    "published_at": "2026-08-19T22:10:11+08:00",
+    "stocks": [
+      "DYAI"
+    ],
+    "uid": "742b23704939d24642ee99a1d9476a6c"
+  },
+  {
+    "title": "Allot (ALLT) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/allot-allt-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "SECaaS revenue surged 47% as recurring subscriptions now comprise two-thirds of sales.",
+    "published_at": "2026-08-19T22:10:11+08:00",
+    "stocks": [
+      "ALLT"
+    ],
+    "uid": "105b154182fb75e27e4124a8d21451aa"
+  },
+  {
+    "title": "Protalix (PLX) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/protalix-plx-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Elfabrio sales surge drives $19.9M quarterly revenue and $22.1M H1 net income.",
+    "published_at": "2026-08-19T22:08:33+08:00",
+    "stocks": [
+      "PLX"
+    ],
+    "uid": "05f76dfb01148498e79b23f89d7382c4"
+  },
+  {
+    "title": "Kornit Digital (KRNT) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/kornit-digital-krnt-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "ARR surged 79% as customers shifted to recurring production agreements.",
+    "published_at": "2026-08-19T22:08:32+08:00",
+    "stocks": [
+      "KRNT"
+    ],
+    "uid": "c7474cf1d8f2410caf732fa20646e79c"
+  },
+  {
+    "title": "BrainsWay (BWAY) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/brainsway-bway-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Revenue jumped 35% to $17.1 million as system shipments surged 42%.",
+    "published_at": "2026-08-19T22:08:32+08:00",
+    "stocks": [
+      "BWAY"
+    ],
+    "uid": "9ef8a7433828abfaa0ab3d2672ba46da"
   },
   {
     "title": "Dividend Stocks Lost the Yield War But May Still Beat the Market",
@@ -315595,6 +316174,15 @@
     "published_at": "2024-08-09T00:10:23+08:00",
     "stocks": [],
     "uid": "fb98bfed847e3169731eb89fdc9b58e5"
+  },
+  {
+    "title": "Discover it Secured Cash Back Credit Card review: Earn cash back while building your credit history",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/review/discover-it-secured-cash-back-credit-card-review-205613050.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2024-08-08T04:56:13+08:00",
+    "stocks": [],
+    "uid": "f9331d0b0a6f29db19516500a65bf83c"
   },
   {
     "title": "Do I need a business bank account if I'm self-employed?",
