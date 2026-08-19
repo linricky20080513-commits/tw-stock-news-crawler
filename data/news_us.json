@@ -1,5 +1,373 @@
 [
   {
+    "title": "Markets Rally After U.S. Treasury Tries to Ease Bond Market Stress",
+    "url": "https://www.nytimes.com/2026/08/19/business/bond-yields-treasury-department.html",
+    "source": "NYT Business",
+    "summary": "Government bond yields fell and stocks jumped on a move by the Treasury Department to double the amount of debt that it can buy back from investors.",
+    "published_at": "2026-08-20T00:13:22+08:00",
+    "stocks": [],
+    "uid": "1adca481a089395e39829750062fbc09",
+    "title_en": "Markets Rally After U.S. Treasury Tries to Ease Bond Market Stress",
+    "summary_en": "Government bond yields fell and stocks jumped on a move by the Treasury Department to double the amount of debt that it can buy back from investors.",
+    "title_zh": "美國財政部試圖緩和債券市場壓力後市場上漲",
+    "summary_zh": "由於財政部將可從投資者手中回購的債務數量增加了一倍，政府公債殖利率下跌，股市上漲。"
+  },
+  {
+    "title": "IBD Stock Of The Day, Hinge, Eyes A Fresh Entry On Earnings-Tied Rally",
+    "url": "https://www.investors.com/research/ibd-stock-of-the-day/hinge-health-stock-earnings-rally-cylinder-buyout/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-20T00:05:02+08:00",
+    "stocks": [],
+    "uid": "a037fd91991aa53a0b6b80c77a3d5404",
+    "title_en": "IBD Stock Of The Day, Hinge, Eyes A Fresh Entry On Earnings-Tied Rally",
+    "summary_en": "",
+    "title_zh": "IBD 今日股票，Hinge，著眼於與盈利掛鉤的反彈的新入場點",
+    "summary_zh": ""
+  },
+  {
+    "title": "When the Next Bear Market Begins, This Is the First Investing Move I'm Making",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/next-bear-market-begins-first-160500945.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-20T00:05:00+08:00",
+    "stocks": [],
+    "uid": "321f7e3a0cd4f7bfe4298accb556e042",
+    "title_en": "When the Next Bear Market Begins, This Is the First Investing Move I'm Making",
+    "summary_en": "",
+    "title_zh": "當下一個熊市開始時，這是我要做的第一個投資舉措",
+    "summary_zh": ""
+  },
+  {
+    "title": "Horizon Kinetics buys $361 in Texas Pacific Land stock",
+    "url": "https://www.investing.com/news/insider-trading-news/horizon-kinetics-buys-361-in-texas-pacific-land-stock-93CH-4867901",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-20T00:01:10+08:00",
+    "stocks": [],
+    "uid": "5b561edf9d403236abe869b27fa1ad54",
+    "title_en": "Horizon Kinetics buys $361 in Texas Pacific Land stock",
+    "summary_en": "",
+    "title_zh": "Horizo​​n Kinetics 購買 361 美元的 Texas Pacific Land 股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Treasury Yields Fall, Gold Jumps On Bessent Buyback Plan; GDX Flashes Buy Signal",
+    "url": "https://www.investors.com/news/treasury-yields-fall-gold-price-jumps-gdx/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-20T00:00:36+08:00",
+    "stocks": [],
+    "uid": "9d7ba9dc4ea0daee78b321f701bceda1",
+    "title_en": "Treasury Yields Fall, Gold Jumps On Bessent Buyback Plan; GDX Flashes Buy Signal",
+    "summary_en": "",
+    "title_zh": "國債殖利率下跌，貝森特回購計畫推動金價上漲； GDX 閃爍買進訊號",
+    "summary_zh": ""
+  },
+  {
+    "title": "US Treasury to double sizes of some debt buyback operations to at least $4 billion",
+    "url": "https://www.investing.com/news/stock-market-news/us-treasury-to-double-sizes-of-some-debt-buyback-operations-to-at-least-4-billion-4867698",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-20T00:00:31+08:00",
+    "stocks": [],
+    "uid": "56425a9ed9f8e2580b607996ec9a4a9b",
+    "title_en": "US Treasury to double sizes of some debt buyback operations to at least $4 billion",
+    "summary_en": "",
+    "title_zh": "美國財政部將部分債務回購作業規模翻倍至至少 40 億美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Sweden stocks lower at close of trade; OMX Stockholm 30 down 0.03%",
+    "url": "https://www.investing.com/news/stock-market-news/sweden-stocks-lower-at-close-of-trade-omx-stockholm-30-down-003-4867898",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-20T00:00:30+08:00",
+    "stocks": [],
+    "uid": "b62356bf36d6154b433c20a59461321f",
+    "title_en": "Sweden stocks lower at close of trade; OMX Stockholm 30 down 0.03%",
+    "summary_en": "",
+    "title_zh": "瑞典股市收盤走低； OMX 斯德哥爾摩 30 指數下跌 0.03%",
+    "summary_zh": ""
+  },
+  {
+    "title": "Coinbase Adds 50x Crypto Perps to Base App Through Hyperliquid",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-adds-50x-crypto-perps-160006152.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-20T00:00:06+08:00",
+    "stocks": [],
+    "uid": "93fa190fba1842e1b516694ad7d8502a",
+    "title_en": "Coinbase Adds 50x Crypto Perps to Base App Through Hyperliquid",
+    "summary_en": "",
+    "title_zh": "Coinbase 透過 Hyperliquid 為 Base 應用程式添加 50 倍加密貨幣 Perps",
+    "summary_zh": ""
+  },
+  {
+    "title": "Finland stocks higher at close of trade; OMX Helsinki 25 up 0.28%",
+    "url": "https://www.investing.com/news/stock-market-news/finland-stocks-higher-at-close-of-trade-omx-helsinki-25-up-028-4867894",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-20T00:00:03+08:00",
+    "stocks": [],
+    "uid": "2e3097f8c620dd681d3982a4045e5780",
+    "title_en": "Finland stocks higher at close of trade; OMX Helsinki 25 up 0.28%",
+    "summary_en": "",
+    "title_zh": "芬蘭股市收盤走高； OMX 赫爾辛基 25 上漲 0.28%",
+    "summary_zh": ""
+  },
+  {
+    "title": "Presidio at EnerCom Denver: buying production, not drilling wells",
+    "url": "https://www.investing.com/news/transcripts/presidio-at-enercom-denver-buying-production-not-drilling-wells-93CH-4867893",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-19T23:59:33+08:00",
+    "stocks": [],
+    "uid": "f95dc02ab837a643550fc901ccb8cfa4",
+    "title_en": "Presidio at EnerCom Denver: buying production, not drilling wells",
+    "summary_en": "",
+    "title_zh": "EnerCom Denver 的 Presidio：購買生產，而不是鑽井",
+    "summary_zh": ""
+  },
+  {
+    "title": "Here’s Why Investors May Want To Own NetEase Before August 20th",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-investors-may-want-own-155444925.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T23:54:44+08:00",
+    "stocks": [],
+    "uid": "95b6551ae3b65b69a5a9883fc1af6102",
+    "title_en": "Here’s Why Investors May Want To Own NetEase Before August 20th",
+    "summary_en": "",
+    "title_zh": "這就是為什麼投資者可能希望在 8 月 20 日之前持有網易的原因",
+    "summary_zh": ""
+  },
+  {
+    "title": "Cantor launches prediction market trading for institutional investors",
+    "url": "https://www.investing.com/news/stock-market-news/cantor-launches-prediction-market-trading-for-institutional-investors-4867890",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-19T23:54:33+08:00",
+    "stocks": [],
+    "uid": "66bf2589e6a4b406504aebd7e122ba8e",
+    "title_en": "Cantor launches prediction market trading for institutional investors",
+    "summary_en": "",
+    "title_zh": "Cantor為機構投資人推出預測市場交易",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why Mercury Systems Stock Is Sinking Today",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-mercury-systems-stock-sinking-155213578.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T23:52:13+08:00",
+    "stocks": [],
+    "uid": "3d7be2b119b8b263b45e974e5e945763",
+    "title_en": "Why Mercury Systems Stock Is Sinking Today",
+    "summary_en": "",
+    "title_zh": "為什麼水星系統公司的股票今天下跌",
+    "summary_zh": ""
+  },
+  {
+    "title": "Indian fintech Navi to raise $100 million ahead of planned IPO",
+    "url": "https://finance.yahoo.com/small-business/articles/indian-fintech-navi-raise-100-155131023.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T23:51:31+08:00",
+    "stocks": [],
+    "uid": "b757f84ed36bb40b1e0ded448c5cddbc",
+    "title_en": "Indian fintech Navi to raise $100 million ahead of planned IPO",
+    "summary_en": "",
+    "title_zh": "印度金融科技 Navi 將在計劃 IPO 之前籌集 1 億美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "The Dividend Winners and Losers From 5% Treasury Yields",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/dividend-winners-losers-5-treasury-155118463.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T23:51:18+08:00",
+    "stocks": [],
+    "uid": "d0f557bc8e778ae26c0ebce7fa949e7e",
+    "title_en": "The Dividend Winners and Losers From 5% Treasury Yields",
+    "summary_en": "",
+    "title_zh": "5%公債殖利率的股息贏家和輸家",
+    "summary_zh": ""
+  },
+  {
+    "title": "Indexed universal life insurance (IUL): Risks, costs, and how it works",
+    "url": "https://finance.yahoo.com/personal-finance/insurance/article/indexed-universal-life-155053064.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T23:50:53+08:00",
+    "stocks": [
+      "IUL"
+    ],
+    "uid": "d423831e9ec8581787b32209e4cf44ca",
+    "title_en": "Indexed universal life insurance (IUL): Risks, costs, and how it works",
+    "summary_en": "",
+    "title_zh": "指數萬能人壽保險 (IUL)：風險、成本及其運作方式",
+    "summary_zh": ""
+  },
+  {
+    "title": "Cerrado Gold Q2 2026 slides: production jumps 35%, costs rise",
+    "url": "https://www.investing.com/news/company-news/cerrado-gold-q2-2026-slides-production-jumps-35-costs-rise-93CH-4867889",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-19T23:50:23+08:00",
+    "stocks": [],
+    "uid": "4f3836aab115f7213fb2bafeb1bff127",
+    "title_en": "Cerrado Gold Q2 2026 slides: production jumps 35%, costs rise",
+    "summary_en": "",
+    "title_zh": "Cerrado Gold 2026 年第二季業績下滑：產量躍升 35%，成本上升",
+    "summary_zh": ""
+  },
+  {
+    "title": "How the soaring federal debt affects you personally",
+    "url": "https://finance.yahoo.com/personal-finance/investing/article/how-the-soaring-federal-debt-affects-you-personally-155000383.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T23:50:00+08:00",
+    "stocks": [],
+    "uid": "c45c0670ccfbe02237e731a88d02a480",
+    "title_en": "How the soaring federal debt affects you personally",
+    "summary_en": "",
+    "title_zh": "飆升的聯邦債務對您個人有何影響",
+    "summary_zh": ""
+  },
+  {
+    "title": "PMGC Holdings to implement 1-for-10 reverse stock split Thursday",
+    "url": "https://www.investing.com/news/company-news/pmgc-holdings-to-implement-1for10-reverse-stock-split-thursday-93CH-4867888",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-19T23:48:30+08:00",
+    "stocks": [],
+    "uid": "87bdc2810994e50e2c40eae162b17169",
+    "title_en": "PMGC Holdings to implement 1-for-10 reverse stock split Thursday",
+    "summary_en": "",
+    "title_zh": "PMGC Holdings 週四實施 1-10 反向股票分割",
+    "summary_zh": ""
+  },
+  {
+    "title": "Motorola Solutions declares $1.21 quarterly dividend",
+    "url": "https://www.investing.com/news/company-news/motorola-solutions-declares-121-quarterly-dividend-93CH-4867887",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-19T23:48:27+08:00",
+    "stocks": [],
+    "uid": "1367f25269bef0b4248718ff29196a88",
+    "title_en": "Motorola Solutions declares $1.21 quarterly dividend",
+    "summary_en": "",
+    "title_zh": "摩托羅拉解決方案宣布季度股息 1.21 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Desert Control H1 2026 slides: 500% pilot surge, $2m revenue target",
+    "url": "https://www.investing.com/news/company-news/desert-control-h1-2026-slides-500-pilot-surge-2m-revenue-target-93CH-4867886",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-19T23:47:29+08:00",
+    "stocks": [],
+    "uid": "b6ad2cad1c97882539ea6cb408fc68e2",
+    "title_en": "Desert Control H1 2026 slides: 500% pilot surge, $2m revenue target",
+    "summary_en": "",
+    "title_zh": "沙漠控制 2026 年上半年投影片：試辦激增 500%，營收目標為 200 萬美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "When the Next Bear Market Begins, This Is the First Investing Move I'm Making",
+    "url": "https://www.fool.com/investing/2026/08/19/when-the-next-bear-market-begins-this-is-the-first/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "As usual, Warren Buffett said it best.",
+    "published_at": "2026-08-19T23:45:00+08:00",
+    "stocks": [],
+    "uid": "704ddbd591be6ca23464af38bf3b65c1",
+    "title_en": "When the Next Bear Market Begins, This Is the First Investing Move I'm Making",
+    "summary_en": "As usual, Warren Buffett said it best.",
+    "title_zh": "當下一個熊市開始時，這是我要做的第一個投資舉措",
+    "summary_zh": "像往常一樣，華倫·巴菲特說得最好。"
+  },
+  {
+    "title": "Lyntris valued at $1.8 billion after shares fall in New York debut",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/lyntris-valued-1-8-billion-153828196.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T23:38:28+08:00",
+    "stocks": [],
+    "uid": "f49d30b21688395805a4a590d128fdd2",
+    "title_en": "Lyntris valued at $1.8 billion after shares fall in New York debut",
+    "summary_en": "",
+    "title_zh": "Lyntris 紐約首秀股價下跌，估值達 18 億美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why Mercury Systems Stock Is Sinking Today",
+    "url": "https://www.fool.com/investing/2026/08/19/why-mercury-systems-stock-is-sinking-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "There were several bright spots in the earnings report. Investors are looking elsewhere.",
+    "published_at": "2026-08-19T23:32:13+08:00",
+    "stocks": [],
+    "uid": "609e495aef919851f98cb3d9c96194f8",
+    "title_en": "Why Mercury Systems Stock Is Sinking Today",
+    "summary_en": "There were several bright spots in the earnings report. Investors are looking elsewhere.",
+    "title_zh": "為什麼水星系統公司的股票今天下跌",
+    "summary_zh": "財報中有幾個亮點。投資者正在尋找其他地方。"
+  },
+  {
+    "title": "Insiders Are Buying Intel (INTC) and Opendoor (OPEN)",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/insiders-buying-intel-intc-opendoor-153115587.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T23:31:15+08:00",
+    "stocks": [
+      "INTC",
+      "OPEN"
+    ],
+    "uid": "bf281fbda190901f9881c70dd0f0c5b9",
+    "title_en": "Insiders Are Buying Intel (INTC) and Opendoor (OPEN)",
+    "summary_en": "",
+    "title_zh": "內部人士正在買入英特爾 (INTC) 和 Opendoor (OPEN)",
+    "summary_zh": ""
+  },
+  {
+    "title": "The Small-Cap Premium Was Supposed to Beat Large Caps Over Time. It Hasn't in 15 Years. Here's the Actual Gap.",
+    "url": "https://www.fool.com/investing/2026/08/19/small-cap-premium-beat-large-cap-actual-gap/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Small-cap investors have been disappointed for years. Here's why that trend might finally be ready to reverse.",
+    "published_at": "2026-08-19T23:30:00+08:00",
+    "stocks": [],
+    "uid": "4f90f77c2ac661e95e6fc6c2fe7a1fcd"
+  },
+  {
+    "title": "Will Bitcoin Get Back to $100,000 in 2026? It Could All Hinge on This",
+    "url": "https://www.fool.com/investing/2026/08/19/will-bitcoin-get-back-to-100000-in-2026-it-could-a/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The Clarity Act's approval may be what's needed to get Bitcoin back to its all-time high, but whether that happens is by no means a sure thing.",
+    "published_at": "2026-08-19T23:28:10+08:00",
+    "stocks": [],
+    "uid": "5fd6c573c2f418bf3d46d38fd1bf7dc4"
+  },
+  {
+    "title": "IceCure Medical (ICCM) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/icecure-medical-iccm-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Revenue surged 45% as U.S. breast cancer clearance drives commercial expansion.",
+    "published_at": "2026-08-19T23:23:20+08:00",
+    "stocks": [
+      "ICCM"
+    ],
+    "uid": "be67724f3c66afa3e8340cb80877f4ee"
+  },
+  {
+    "title": "Mexico pushes back on US ruling on strawberry dumping",
+    "url": "https://finance.yahoo.com/economy/policy/articles/mexico-pushes-back-us-ruling-151813042.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T23:18:13+08:00",
+    "stocks": [],
+    "uid": "0355bf0149da33904b2126eb8aefa49f"
+  },
+  {
     "title": "I want to be a snowbird, but I’m not sure my $2 million nest egg can sustain two homes",
     "url": "https://www.marketwatch.com/story/i-want-to-be-a-snowbird-but-im-not-sure-my-2-million-nest-egg-can-sustain-two-homes-ce903e6b?mod=mw_rss_topstories",
     "source": "MarketWatch",
@@ -11,6 +379,24 @@
     "summary_en": "It’s not the purchase price that’s the biggest obstacle, but rather the continuing costs.",
     "title_zh": "我想成為一隻雪鳥，但我不確定我 200 萬美元的積蓄能否維持兩棟房屋",
     "summary_zh": "最大的障礙不是購買價格，而是持續的成本。"
+  },
+  {
+    "title": "Looking to Diversify Your Portfolio? Here's 1 Cryptocurrency You Should Consider.",
+    "url": "https://www.fool.com/investing/2026/08/19/looking-to-diversify-your-portfolio-heres-1-crypto/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "In addition to its upside potential, Bitcoin offers a surprising amount of diversification.",
+    "published_at": "2026-08-19T23:17:00+08:00",
+    "stocks": [],
+    "uid": "e897cc78ee3188adc2ef427ae09f362a"
+  },
+  {
+    "title": "Why I'm Watching SoFi as a Financials Pick I Don't Own Yet",
+    "url": "https://www.fool.com/investing/2026/08/19/why-im-watching-sofi-as-a-financials-pick-i-dont-o/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "SoFi's sell-off has made its stock look much more compelling.",
+    "published_at": "2026-08-19T23:15:00+08:00",
+    "stocks": [],
+    "uid": "d581f83fafb4964ec89123fd7c08a822"
   },
   {
     "title": "We're booking a five-fold profit on one of drug stock's rally to record highs",
@@ -50,6 +436,17 @@
     "summary_en": "",
     "title_zh": "Costco 的現金儲備不斷增加。今年秋天終於派發特別股息了嗎？",
     "summary_zh": ""
+  },
+  {
+    "title": "PolyPid (PYPD) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/polypid-pypd-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "FDA accepts D-PLEX100 application with Priority Review, setting November approval target.",
+    "published_at": "2026-08-19T23:07:45+08:00",
+    "stocks": [
+      "PYPD"
+    ],
+    "uid": "c34f969c772b52f40c2170b0b4575a22"
   },
   {
     "title": "Worried About a Market Crash? These 3 Stocks Beat the S&P 500 in 2008 and 2022",
@@ -117,6 +514,15 @@
     "summary_zh": ""
   },
   {
+    "title": "Rising non-accruals signal growing risk in private credit",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/rising-non-accruals-signal-growing-150344245.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T23:03:44+08:00",
+    "stocks": [],
+    "uid": "ecf9cbc0d7f04813b8ce2b813d689b80"
+  },
+  {
     "title": "Nationwide Building Society lists €150m covered bonds",
     "url": "https://www.investing.com/news/company-news/nationwide-building-society-lists-150m-covered-bonds-93CH-4867845",
     "source": "Investing.com",
@@ -182,6 +588,15 @@
     "summary_zh": ""
   },
   {
+    "title": "FR8 Solutions settles RICO case over alleged $7,000 trucking rate gap",
+    "url": "https://finance.yahoo.com/small-business/articles/fr8-solutions-settles-rico-case-150058997.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T23:00:58+08:00",
+    "stocks": [],
+    "uid": "cfc1f49af03012d5c135e241b27672d8"
+  },
+  {
     "title": "Board approves $19.9 billion plan to overhaul Washington Dulles airport",
     "url": "https://www.investing.com/news/stock-market-news/board-approves-199-billion-plan-to-overhaul-washington-dulles-airport-4867841",
     "source": "Investing.com",
@@ -232,6 +647,15 @@
     "summary_en": "",
     "title_zh": "華盛頓杜勒斯機場批准199億美元升級計劃",
     "summary_zh": ""
+  },
+  {
+    "title": "Bessent Doubles Down on the Bond Market Nobody Wanted",
+    "url": "https://finance.yahoo.com/markets/articles/bessent-doubles-down-bond-market-145709628.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T22:57:09+08:00",
+    "stocks": [],
+    "uid": "d1821a051dcc02d8647d19d87916afb0"
   },
   {
     "title": "ConocoPhillips (COP) Has Low-Cost Inventory and a Major Cash Flow Catalyst Ahead",
@@ -2875,6 +3299,15 @@
     "summary_en": "",
     "title_zh": "Lowe 的謹慎前景導致股價走低，因為零售商表示 DIY 支出面臨“壓力”",
     "summary_zh": ""
+  },
+  {
+    "title": "Lowe's issues cautious outlook as CEO flags 'pressure' in DIY spending",
+    "url": "https://finance.yahoo.com/markets/stocks/article/lowes-issues-cautious-outlook-as-ceo-flags-pressure-in-diy-spending-105716315.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T18:57:16+08:00",
+    "stocks": [],
+    "uid": "2237e4810704211ed62efc3dc69f81d8"
   },
   {
     "title": "SLB wins offshore production restoration contract from BSP",
