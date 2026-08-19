@@ -1,5 +1,613 @@
 [
   {
+    "title": "Carvana shares on pace for 10% weekly loss as Mark Walter probe fuels investor jitters",
+    "url": "https://www.cnbc.com/2026/08/19/carvana-shares-on-pace-for-10percent-weekly-loss-as-mark-walter-probe-fuels-investor-jitters.html",
+    "source": "CNBC Finance",
+    "summary": "The scrutiny raised questions about what could happen to Walter's Carvana position if fallout from the investigation pressures him to raise cash.",
+    "published_at": "2026-08-19T22:18:42+08:00",
+    "stocks": [],
+    "uid": "35e97699ada4fae5edb8378bd06f127e",
+    "title_en": "Carvana shares on pace for 10% weekly loss as Mark Walter probe fuels investor jitters",
+    "summary_en": "The scrutiny raised questions about what could happen to Walter's Carvana position if fallout from the investigation pressures him to raise cash.",
+    "title_zh": "馬克沃爾特 (Mark Walter) 調查加劇投資者不安，Carvana 股價每週下跌 10%",
+    "summary_zh": "這次審查引發了人們的疑問：如果調查的後果迫使沃爾特籌集現金，他的卡瓦納職位可能會發生什麼。"
+  },
+  {
+    "title": "Why is Apple stock rallying today?",
+    "url": "https://www.investing.com/news/stock-market-news/why-is-apple-stock-rallying-today-93CH-4867792",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-19T22:17:11+08:00",
+    "stocks": [],
+    "uid": "1f761ca317325f461e79405f4b664a61",
+    "title_en": "Why is Apple stock rallying today?",
+    "summary_en": "",
+    "title_zh": "為什麼蘋果股票今天上漲？",
+    "summary_zh": ""
+  },
+  {
+    "title": "Home Bancorp SEVP John Zollinger IV sells $53,760 in shares",
+    "url": "https://www.investing.com/news/insider-trading-news/home-bancorp-sevp-john-zollinger-iv-sells-53760-in-shares-93CH-4867790",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-19T22:16:09+08:00",
+    "stocks": [],
+    "uid": "2fa7d764869f9c62e7a12eed02fdcf20",
+    "title_en": "Home Bancorp SEVP John Zollinger IV sells $53,760 in shares",
+    "summary_en": "",
+    "title_zh": "Home Bancorp SEVP John Zolllinger IV 出售價值 53,760 美元的股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Avidia Bancorp EVP Thomas Doane buys $38,507 in AVBC stock",
+    "url": "https://www.investing.com/news/insider-trading-news/avidia-bancorp-evp-thomas-doane-buys-38507-in-avbc-stock-93CH-4867789",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-19T22:15:51+08:00",
+    "stocks": [],
+    "uid": "56b1612f1f72fe5bff051ce206cbf168",
+    "title_en": "Avidia Bancorp EVP Thomas Doane buys $38,507 in AVBC stock",
+    "summary_en": "",
+    "title_zh": "Avidia Bancorp 執行副總裁 Thomas Doane 購買 38,507 美元的 AVBC 股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "UBS reiterates Cerebras Systems stock rating on CS-4 launch",
+    "url": "https://www.investing.com/news/analyst-ratings/ubs-reiterates-cerebras-systems-stock-rating-on-cs4-launch-93CH-4867788",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-19T22:14:54+08:00",
+    "stocks": [],
+    "uid": "4556295d8b77768c72adb6fa4ba8a19e",
+    "title_en": "UBS reiterates Cerebras Systems stock rating on CS-4 launch",
+    "summary_en": "",
+    "title_zh": "瑞銀重申 Cerebras Systems 對 CS-4 發射的股票評級",
+    "summary_zh": ""
+  },
+  {
+    "title": "UBS raises Centrus Energy stock price target on higher margins",
+    "url": "https://www.investing.com/news/analyst-ratings/ubs-raises-centrus-energy-stock-price-target-on-higher-margins-93CH-4867787",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-19T22:14:50+08:00",
+    "stocks": [],
+    "uid": "8eaf11e015c63ab06b662be0cb037830",
+    "title_en": "UBS raises Centrus Energy stock price target on higher margins",
+    "summary_en": "",
+    "title_zh": "瑞銀上調 Centrus Energy 股價目標，利潤率更高",
+    "summary_zh": ""
+  },
+  {
+    "title": "Tech sell-off resumes, counterbalancing bond yield relief: AlphaCheck",
+    "url": "https://finance.yahoo.com/markets/article/tech-sell-off-resumes-counterbalancing-bond-yield-relief-alphacheck-141446892.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T22:14:46+08:00",
+    "stocks": [],
+    "uid": "699faf36fe3bc93f05c70098779086c8",
+    "title_en": "Tech sell-off resumes, counterbalancing bond yield relief: AlphaCheck",
+    "summary_en": "",
+    "title_zh": "科技股拋售恢復，抵銷了債券殖利率的下降：AlphaCheck",
+    "summary_zh": ""
+  },
+  {
+    "title": "UK gilts head for biggest daily gain in two weeks",
+    "url": "https://www.investing.com/news/stock-market-news/uk-gilts-head-for-biggest-daily-gain-in-two-weeks-93CH-4867786",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-19T22:14:39+08:00",
+    "stocks": [],
+    "uid": "602896936ef768cbff44a7aca849cdd8",
+    "title_en": "UK gilts head for biggest daily gain in two weeks",
+    "summary_en": "",
+    "title_zh": "英國國債將創兩週來最大單日漲幅",
+    "summary_zh": ""
+  },
+  {
+    "title": "FLEX LNG Q2 2026 slides: strong spot earnings drive beat, dividend maintained",
+    "url": "https://www.investing.com/news/company-news/flex-lng-q2-2026-slides-strong-spot-earnings-drive-beat-dividend-maintained-93CH-4867785",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-19T22:14:31+08:00",
+    "stocks": [],
+    "uid": "96224f50f9e68c933dcdcc15ecfb9318",
+    "title_en": "FLEX LNG Q2 2026 slides: strong spot earnings drive beat, dividend maintained",
+    "summary_en": "",
+    "title_zh": "FLEX LNG 2026 年第二季下滑：現貨獲利強勁，股息維持不變",
+    "summary_zh": ""
+  },
+  {
+    "title": "Datavault AI earnings missed by $0.10, revenue fell short of estimates",
+    "url": "https://www.investing.com/news/earnings/datavault-ai-earnings-missed-by-010-revenue-fell-short-of-estimates-4867784",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-19T22:14:23+08:00",
+    "stocks": [],
+    "uid": "631c4980629ae040e46a9f8087490372"
+  },
+  {
+    "title": "Earnings call transcript: Jack Henry beats Q4 2026 estimates, shares jump 8.4%",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-jack-henry-beats-q4-2026-estimates-shares-jump-84-93CH-4867783",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-19T22:14:16+08:00",
+    "stocks": [],
+    "uid": "35c2222baf9f8bf16c6834b5e7a484a4",
+    "title_en": "Earnings call transcript: Jack Henry beats Q4 2026 estimates, shares jump 8.4%",
+    "summary_en": "",
+    "title_zh": "財報電話會議記錄：Jack Henry 超越 2026 年第四季預期，股價上漲 8.4%",
+    "summary_zh": ""
+  },
+  {
+    "title": "Fed research finds productivity gains limited tariff inflation",
+    "url": "https://www.investing.com/news/economy-news/fed-research-finds-productivity-gains-limited-tariff-inflation-93CH-4867782",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-19T22:13:43+08:00",
+    "stocks": [],
+    "uid": "5624a4baa1877aa5492d62261de7477d",
+    "title_en": "Fed research finds productivity gains limited tariff inflation",
+    "summary_en": "",
+    "title_zh": "聯準會研究發現生產力的提高限制了關稅通膨",
+    "summary_zh": ""
+  },
+  {
+    "title": "Dividend Stocks Lost the Yield War But May Still Beat the Market",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/dividend-stocks-lost-yield-war-140730677.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T22:07:30+08:00",
+    "stocks": [],
+    "uid": "7fd191da82064f0b2cd676bec9c694cb",
+    "title_en": "Dividend Stocks Lost the Yield War But May Still Beat the Market",
+    "summary_en": "",
+    "title_zh": "股息股輸掉了殖利率戰，但仍可能跑贏市場",
+    "summary_zh": ""
+  },
+  {
+    "title": "Popular shoe brand's stock erased $200 billion in market value",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/popular-shoe-brands-stock-erased-140700516.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T22:07:00+08:00",
+    "stocks": [],
+    "uid": "c33caedda0eaaadf5cf1d3e9303676e7",
+    "title_en": "Popular shoe brand's stock erased $200 billion in market value",
+    "summary_en": "",
+    "title_zh": "熱門鞋履品牌股票市值蒸發2000億美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Avation Targets 14% Fleet Growth Through 2030 as Aircraft Supply Tightens",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/avation-targets-14-fleet-growth-140438171.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T22:04:38+08:00",
+    "stocks": [],
+    "uid": "df33a498a154f0c6dd442725cba96605",
+    "title_en": "Avation Targets 14% Fleet Growth Through 2030 as Aircraft Supply Tightens",
+    "summary_en": "",
+    "title_zh": "由於飛機供應緊張，Avation 的目標是到 2030 年機隊成長 14%",
+    "summary_zh": ""
+  },
+  {
+    "title": "Viking Q2 Earnings Call Highlights",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/viking-q2-earnings-call-highlights-140438271.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T22:04:38+08:00",
+    "stocks": [],
+    "uid": "1975ba26c94cd4e1d5aa769693d96566",
+    "title_en": "Viking Q2 Earnings Call Highlights",
+    "summary_en": "",
+    "title_zh": "維京第二季財報電話會議亮點",
+    "summary_zh": ""
+  },
+  {
+    "title": "Marti Technologies H1 Earnings Call Highlights",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/marti-technologies-h1-earnings-call-140438159.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T22:04:38+08:00",
+    "stocks": [],
+    "uid": "3a75e9684de682bc235a27aaaf8771c8",
+    "title_en": "Marti Technologies H1 Earnings Call Highlights",
+    "summary_en": "",
+    "title_zh": "Marti Technologies 上半年收益電話會議亮點",
+    "summary_zh": ""
+  },
+  {
+    "title": "This Dividend King That Yields More Than 4 Times the S&P 500 Is a Buy This Month. Here's Why.",
+    "url": "https://www.fool.com/investing/2026/08/19/this-dividend-king-that-yields-more-than-4-times/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The market's largely ignoring -- and underpricing -- just how close this company is to pushing past its recent challenges and restoring its historical growth rate.",
+    "published_at": "2026-08-19T22:00:00+08:00",
+    "stocks": [],
+    "uid": "eb5d3d9c0dc96570fee42ba75ff3f894",
+    "title_en": "This Dividend King That Yields More Than 4 Times the S&P 500 Is a Buy This Month. Here's Why.",
+    "summary_en": "The market's largely ignoring -- and underpricing -- just how close this company is to pushing past its recent challenges and restoring its historical growth rate.",
+    "title_zh": "這個股息之王的殖利率是標準普爾 500 指數的 4 倍以上，本月值得買進。這就是為什麼。",
+    "summary_zh": "市場在很大程度上忽視了——並且低估了——這家公司距離克服最近的挑戰並恢復其歷史成長率有多近。"
+  },
+  {
+    "title": "Can Intuit (INTU) Turn AI Disruption Into an Advantage?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/intuit-intu-turn-ai-disruption-135843920.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T21:58:43+08:00",
+    "stocks": [
+      "INTU"
+    ],
+    "uid": "15587959086b66a4c0e306c5c79b0f44",
+    "title_en": "Can Intuit (INTU) Turn AI Disruption Into an Advantage?",
+    "summary_en": "",
+    "title_zh": "Intuit (INTU) 能否將人工智慧顛覆轉化為優勢？",
+    "summary_zh": ""
+  },
+  {
+    "title": "Pressure on bonds abates as Treasury announces buybacks. What may come next.",
+    "url": "https://www.marketwatch.com/story/pressure-on-bonds-abates-as-treasury-announces-buybacks-what-may-come-next-af7d7c76?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The Treasury Department said Wednesday that it will more than double the size of government-debt buybacks, sending yields sharply lower and stocks higher at the market open.",
+    "published_at": "2026-08-19T21:58:00+08:00",
+    "stocks": [],
+    "uid": "ef961915dfaae1cb924cc0b317074ae7",
+    "title_en": "Pressure on bonds abates as Treasury announces buybacks. What may come next.",
+    "summary_en": "The Treasury Department said Wednesday that it will more than double the size of government-debt buybacks, sending yields sharply lower and stocks higher at the market open.",
+    "title_zh": "隨著財政部宣布回購，債券面臨的壓力減弱。接下來可能會發生什麼事。",
+    "summary_zh": "美國財政部週三表示，將把政府債務回購規模增加一倍以上，導致殖利率大幅下跌，開盤時股市走高。"
+  },
+  {
+    "title": "Is Investing in the Total Stock Market a Better Long-Term Move Than Holding S&P 500 Index Funds?",
+    "url": "https://www.fool.com/investing/2026/08/19/is-investing-in-the-total-stock-market-a-better-long-term-move-than-holding-s-and-p-500-index-funds/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The S&amp;P 500 is trading at record levels, and for investors, tracking the total stock market may be more appealing right now -- but that doesn't mean it's a sound strategy.",
+    "published_at": "2026-08-19T21:57:41+08:00",
+    "stocks": [],
+    "uid": "9512ecdee4451291a6fa4e43eba512bc",
+    "title_en": "Is Investing in the Total Stock Market a Better Long-Term Move Than Holding S&P 500 Index Funds?",
+    "summary_en": "The S&amp;P 500 is trading at record levels, and for investors, tracking the total stock market may be more appealing right now -- but that doesn't mean it's a sound strategy.",
+    "title_zh": "從長遠來看，投資整個股票市場是否比持有 S&P 500 指數基金更好？",
+    "summary_zh": "標準普爾 500 指數的交易價格創下歷史新高，對投資者來說，追蹤整個股市目前可能更有吸引力，但這並不意味著這是一個明智的策略。"
+  },
+  {
+    "title": "Can Bicara (BCAX) Commercialize Ficera? Breakthrough 3-Year Data Faces Execution Risk in C-Suite Overhaul",
+    "url": "https://finance.yahoo.com/healthcare/articles/bicara-bcax-commercialize-ficera-breakthrough-135616867.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T21:56:16+08:00",
+    "stocks": [
+      "BCAX"
+    ],
+    "uid": "c40dbe04314ae3a6352293e5fe7d447c",
+    "title_en": "Can Bicara (BCAX) Commercialize Ficera? Breakthrough 3-Year Data Faces Execution Risk in C-Suite Overhaul",
+    "summary_en": "",
+    "title_zh": "Bicara (BCAX) 能否將 Ficera 商業化？突破性的三年数据在高管层改革中面临执行风险",
+    "summary_zh": ""
+  },
+  {
+    "title": "Target lifts annual forecasts again as Fiddelke's turnaround takes root",
+    "url": "https://finance.yahoo.com/news/target-lifts-annual-forecasts-again-135611862.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T21:56:11+08:00",
+    "stocks": [],
+    "uid": "b8e5890afe443af6372a020d95914b3a",
+    "title_en": "Target lifts annual forecasts again as Fiddelke's turnaround takes root",
+    "summary_en": "",
+    "title_zh": "隨著菲德爾克的扭虧為盈，塔吉特再次上調年度預測",
+    "summary_zh": ""
+  },
+  {
+    "title": "Chinese Robot Developer Unitree Soars 460% On Blockbuster IPO",
+    "url": "https://www.investors.com/news/tesla-unitree-optimus-robots-ai-china/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T21:56:06+08:00",
+    "stocks": [],
+    "uid": "1a3cd70aa57ecfe73851e881dc2beca2",
+    "title_en": "Chinese Robot Developer Unitree Soars 460% On Blockbuster IPO",
+    "summary_en": "",
+    "title_zh": "中國機器人開發商Unitree在IPO重磅炸彈中飆升460%",
+    "summary_zh": ""
+  },
+  {
+    "title": "15 S&P 500 stocks are up 100% or more this year — here's what they have in common",
+    "url": "https://finance.yahoo.com/markets/article/15-sp-500-stocks-are-up-100-or-more-this-year--heres-what-they-have-in-common-135448325.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T21:54:48+08:00",
+    "stocks": [],
+    "uid": "2c1d0698bb25aeb73477d84b20e05df9",
+    "title_en": "15 S&P 500 stocks are up 100% or more this year — here's what they have in common",
+    "summary_en": "",
+    "title_zh": "15 檔標準普爾 500 指數股票今年上漲了 100% 或更多——以下是它們的共同點",
+    "summary_zh": ""
+  },
+  {
+    "title": "Avino Silver & Gold Mines (ASM) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/avino-silver-gold-mines-asm-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Revenue climbed 23% on higher silver prices, while net income surged to $10.9 million.",
+    "published_at": "2026-08-19T21:53:46+08:00",
+    "stocks": [
+      "ASM"
+    ],
+    "uid": "140238f38bab9e576a40e60d6a0d005c",
+    "title_en": "Avino Silver & Gold Mines (ASM) Q2 2026 Earnings Call Transcript",
+    "summary_en": "Revenue climbed 23% on higher silver prices, while net income surged to $10.9 million.",
+    "title_zh": "阿維諾銀金礦 (ASM) 2026 年第二季財報電話會議紀錄",
+    "summary_zh": "由於白銀價格上漲，收入成長了 23%，淨利潤飆升至 1,090 萬美元。"
+  },
+  {
+    "title": "Ituran (ITRN) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/ituran-itrn-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Record revenue and profitability driven by subscription growth and OEM expansion.",
+    "published_at": "2026-08-19T21:53:46+08:00",
+    "stocks": [
+      "ITRN"
+    ],
+    "uid": "d7bf4759104a5141d58fd116e9eed9d8"
+  },
+  {
+    "title": "Humacyte (HUMA) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/humacyte-huma-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Phase III trial shows 91 more catheter-free days for dialysis patients.",
+    "published_at": "2026-08-19T21:53:45+08:00",
+    "stocks": [
+      "HUMA"
+    ],
+    "uid": "02225d05da2d2356dcf43de1b9024d83"
+  },
+  {
+    "title": "National CineMedia (NCMI) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/national-cinemedia-ncmi-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Captivate acquisition expands footprint into office and residential advertising networks.",
+    "published_at": "2026-08-19T21:50:58+08:00",
+    "stocks": [
+      "NCMI"
+    ],
+    "uid": "944d3d80673b43bb406483dd767cd2e7"
+  },
+  {
+    "title": "Tether Remains Dominant Stablecoin Despite Rising Competition",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/tether-remains-dominant-stablecoin-despite-135000671.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T21:50:00+08:00",
+    "stocks": [],
+    "uid": "c229218bfb5a1931cc8edc16d3a16fac"
+  },
+  {
+    "title": "Here’s Why MercadoLibre (MELI) Offers Long Runway for Growth?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-mercadolibre-meli-offers-long-134943360.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T21:49:43+08:00",
+    "stocks": [
+      "MELI"
+    ],
+    "uid": "cd684b4474c89631a5c87ef500223554"
+  },
+  {
+    "title": "CI&T (CINT) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/cit-cint-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Revenue hit $142.8M with 21.9% organic growth as AI-focused verticals accelerated.",
+    "published_at": "2026-08-19T21:46:35+08:00",
+    "stocks": [
+      "CINT"
+    ],
+    "uid": "e530b9f6296048b5f2e90d3b1b340ae2"
+  },
+  {
+    "title": "Where Will AMD Stock Be in 5 Years?",
+    "url": "https://www.fool.com/investing/2026/08/19/where-will-amd-stock-be-in-5-years/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This fast-growing AI chip company could become a multibagger once again.",
+    "published_at": "2026-08-19T21:46:00+08:00",
+    "stocks": [],
+    "uid": "295c4be2c63f6d7382c94a8da3a83f66"
+  },
+  {
+    "title": "SpaceX stock in focus after China rocket milestone, share unlock ahead",
+    "url": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-in-focus-after-china-rocket-milestone-share-unlock-ahead-134536527.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T21:45:36+08:00",
+    "stocks": [],
+    "uid": "251a1b4d2eeb6fab8c994d3e5759b22a"
+  },
+  {
+    "title": "Berkshire Hathaway Has 10% of Its $358 Billion Portfolio Invested in 1 AI Hyperscaler Whose Stock Is Up 70% in 1 Year",
+    "url": "https://www.fool.com/investing/2026/08/19/berkshire-has-10-of-its-358-billion-portfolio/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Move aside, Coca-Cola. The Oracle of Omaha now has an insatiable thirst for the AI boom.",
+    "published_at": "2026-08-19T21:45:00+08:00",
+    "stocks": [],
+    "uid": "bc2df82372ecc217fdef05799ab28e8e"
+  },
+  {
+    "title": "The CEO of This Nvidia-Backed Artificial Intelligence (AI) Chip Company Just Bought $10 Million of His Own Stock. Here's What He's Seeing That Retail Investors Won't Want to Miss.",
+    "url": "https://www.fool.com/investing/2026/08/19/ssss/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Intel CEO Lip-Bu Tan just bought over 100,000 shares of Intel in the open market.",
+    "published_at": "2026-08-19T21:44:00+08:00",
+    "stocks": [],
+    "uid": "744534f246907e9b3bc9e643d9c9249f"
+  },
+  {
+    "title": "American Integrity Insurance (AII) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/american-integrity-insurance-aii-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Net income surged 24% while voluntary market policies hit record highs.",
+    "published_at": "2026-08-19T21:43:47+08:00",
+    "stocks": [
+      "AII"
+    ],
+    "uid": "fee2c4adbfb10dc22d18a8d133330258"
+  },
+  {
+    "title": "Instant View: US Treasury will double some bond buy backs",
+    "url": "https://finance.yahoo.com/news/instant-view-us-treasury-double-134328359.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T21:43:28+08:00",
+    "stocks": [],
+    "uid": "20f6eb9e4b3a3ad5f64adc172502d345"
+  },
+  {
+    "title": "Mobile Infrastructure (BEEP) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/mobile-infrastructure-beep-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Same-location NOI surged 12% as utilization climbed to 70%.",
+    "published_at": "2026-08-19T21:41:13+08:00",
+    "stocks": [
+      "BEEP"
+    ],
+    "uid": "3208a9fb4181f0809668f8f4664145c5"
+  },
+  {
+    "title": "Director's Confidence Visible as Elanco Leader Buys 10,000 Shares",
+    "url": "https://www.fool.com/coverage/filings/2026/08/19/director-s-confidence-visible-as-elanco-leader-buys-10-000-shares/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Insider buys into strength as the Elanco stock price has outperformed the S&amp;P 500 over the last 12 months.",
+    "published_at": "2026-08-19T21:40:01+08:00",
+    "stocks": [],
+    "uid": "3839b3dc100eb018be7d98e7171dce39"
+  },
+  {
+    "title": "Kontoor Brands (KTB) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/kontoor-brands-ktb-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Wrangler gains market share for 17th straight quarter as Helly Hansen grows.",
+    "published_at": "2026-08-19T21:38:47+08:00",
+    "stocks": [
+      "KTB"
+    ],
+    "uid": "7380259ef83d5b6feced2a2266437d85"
+  },
+  {
+    "title": "National Vision Holdings (EYE) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/national-vision-holdings-eye-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Premium shift drives margin expansion amid traffic headwinds.",
+    "published_at": "2026-08-19T21:38:47+08:00",
+    "stocks": [
+      "EYE"
+    ],
+    "uid": "996a25dc93780ded4531b555b0e069c8"
+  },
+  {
+    "title": "T1 Energy (TE) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/t1-energy-te-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Revenue hit $250.1 million as G2_Austin construction advances toward Q1 2027 production.",
+    "published_at": "2026-08-19T21:38:47+08:00",
+    "stocks": [
+      "TE"
+    ],
+    "uid": "fd5af2a10c63a53e0d1e4b7638530b0c"
+  },
+  {
+    "title": "Annexon (ANNX) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/annexon-annx-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "GBS and geographic atrophy programs advance toward 2026-2027 regulatory submissions.",
+    "published_at": "2026-08-19T21:38:46+08:00",
+    "stocks": [
+      "ANNX"
+    ],
+    "uid": "bde25b6370bbaf8b6709d1f40f85d237"
+  },
+  {
+    "title": "Boyd Group Services (BGSI) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/boyd-group-services-bgsi-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Revenue surpassed $1 billion for the first time amid Joe Hudson's integration.",
+    "published_at": "2026-08-19T21:38:46+08:00",
+    "stocks": [
+      "BGSI"
+    ],
+    "uid": "5051e65df93248a1d172b9f3e943c12d"
+  },
+  {
+    "title": "Hedge funds are about to jump into prediction markets in a big way",
+    "url": "https://www.cnbc.com/2026/08/19/hedge-funds-are-about-to-jump-in-big-to-prediction-markets.html",
+    "source": "CNBC Top",
+    "summary": "Cantor Fitzgerald will be one of the first investment firms providing its clients institutional trading on prediction market platform Kalshi.",
+    "published_at": "2026-08-19T21:38:44+08:00",
+    "stocks": [],
+    "uid": "2958232f8d0a4ff49c7d0bf60635a8ce"
+  },
+  {
+    "title": "Taiwan Semiconductor Manufacturing Company (TSM) Looks Built for Long-Term Growth, but What Happens in the Next Downturn?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-tsm-133617895.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T21:36:17+08:00",
+    "stocks": [
+      "TSM"
+    ],
+    "uid": "0c5dbfaf8271883b0c732453aff538ea"
+  },
+  {
+    "title": "LENZ Therapeutics (LENZ) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/lenz-therapeutics-lenz-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Prescription growth surged 45% in July after telehealth launch.",
+    "published_at": "2026-08-19T21:35:14+08:00",
+    "stocks": [
+      "LENZ"
+    ],
+    "uid": "3c1a7049c1ef747bbab62633608ece4a"
+  },
+  {
+    "title": "Insider Sells 30,000 Shares of Small Cap Stock, Up 14% Over Last Year",
+    "url": "https://www.fool.com/coverage/filings/2026/08/19/insider-sells-30-000-shares-of-small-cap-stock-up-14-over-last-year/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Insider sale reduces stake by 13% as stock trades near $10.35 per share. Red Cat continues operating at a loss despite $53 million in annual revenue.",
+    "published_at": "2026-08-19T21:35:01+08:00",
+    "stocks": [],
+    "uid": "3663b9c37b16185b4ad42389d6d64218"
+  },
+  {
+    "title": "Peraso (PRSO) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/peraso-prso-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Revenue jumped 36% sequentially as defense and drone opportunities emerge.",
+    "published_at": "2026-08-19T21:33:13+08:00",
+    "stocks": [
+      "PRSO"
+    ],
+    "uid": "94605a39585de1b282ecf5347b541b6e"
+  },
+  {
+    "title": "Absci (ABSI) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/absci-absi-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Biotech extends runway to 2028 with $100M financing and Eli Lilly deal.",
+    "published_at": "2026-08-19T21:32:40+08:00",
+    "stocks": [
+      "ABSI"
+    ],
+    "uid": "3f8ecd720bd44856217eae9d339bf453"
+  },
+  {
+    "title": "Lithium Argentina (LAR) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/lithium-argentina-lar-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Lithium prices surged to $19,563 per tonne, driving 70% margins and $141M free cash flow.",
+    "published_at": "2026-08-19T21:30:59+08:00",
+    "stocks": [
+      "LAR"
+    ],
+    "uid": "6f4f3d6d90da66ca1821e51128f6f86c"
+  },
+  {
     "title": "Treasury doubles debt buybacks as Bessent moves to steady bond market",
     "url": "https://www.cnbc.com/2026/08/19/treasury-announces-upscaled-buyback-operation-for-longer-term-debt-sending-yields-lower.html",
     "source": "CNBC Top",
@@ -11,6 +619,15 @@
     "summary_en": "The announcement targets the sensitive longer-duration part of the Treasury market.",
     "title_zh": "隨著 Bessent 轉向穩定的債券市場，財政部將債務回購增加一倍",
     "summary_zh": "該公告針對的是國債市場敏感的長期部分。"
+  },
+  {
+    "title": "The Smartest Dividend ETF to Buy With $500 Right Now",
+    "url": "https://www.fool.com/investing/2026/08/19/the-smartest-dividend-etf-to-buy-with-500-now/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Consistency matters more than ultra-high yields.",
+    "published_at": "2026-08-19T21:30:00+08:00",
+    "stocks": [],
+    "uid": "f8e6a3ca1329e4a79be6c6159a64433c"
   },
   {
     "title": "20/20 Biolabs adjourns vote on charter amendment, elects directors at annual meeting",
@@ -37,6 +654,28 @@
     "summary_en": "",
     "title_zh": "財報電話會議紀錄：隨著股價下滑，La-Z-Boy 未達 2027 年第一季預期",
     "summary_zh": ""
+  },
+  {
+    "title": "Why ASML (ASML) Could Remain a Long-Term Winner in Advanced Semiconductors",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-asml-asml-could-remain-132748383.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T21:27:48+08:00",
+    "stocks": [
+      "ASML"
+    ],
+    "uid": "32f82fa5333045e5210f9a46b9b5a070"
+  },
+  {
+    "title": "QuickLogic (QUIK) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/quicklogic-quik-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Revenue surged 48.7% YoY as margins expanded and government contracts grew.",
+    "published_at": "2026-08-19T21:27:41+08:00",
+    "stocks": [
+      "QUIK"
+    ],
+    "uid": "baaa8aaa7e42e44977b0828d4f4acbdc"
   },
   {
     "title": "Earnings call transcript: Marti Technologies posts revenue beat in H1 2026",
@@ -76,6 +715,15 @@
     "summary_en": "",
     "title_zh": "為什麼 Pilgrim's Pride 股票今天飆升？",
     "summary_zh": ""
+  },
+  {
+    "title": "Wall Street just borrowed $500 billion to build AI — here's what it could mean for your 401(k). Are you ready?",
+    "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-just-borrowed-500-132500322.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T21:25:00+08:00",
+    "stocks": [],
+    "uid": "e876f94a5f80405b010ef00dcc684a18"
   },
   {
     "title": "India rate panel signals impending hikes, eyes inflation path for timing",
@@ -143,6 +791,39 @@
     "summary_zh": ""
   },
   {
+    "title": "Brinker (EAT) Q4 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/brinker-eat-q4-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Chili's same-store sales surged 5.6% as Big Crispy sandwich sales tripled post-launch.",
+    "published_at": "2026-08-19T21:23:59+08:00",
+    "stocks": [
+      "EAT"
+    ],
+    "uid": "e0b6131c2f887b848a7bc7ea5a9e2895"
+  },
+  {
+    "title": "Fervo Energy (FRVO) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/fervo-energy-frvo-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "CEO Latimer says Fervo may be the only way to get clean firm power before 2030.",
+    "published_at": "2026-08-19T21:23:58+08:00",
+    "stocks": [
+      "FRVO"
+    ],
+    "uid": "5a2f2591af5cbb9ba2aa99719ee800e6"
+  },
+  {
+    "title": "Liquidia (LQDA) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/liquidia-lqda-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "YUTREPIA sales hit $170.4 million with 5,000+ patients started on therapy.",
+    "published_at": "2026-08-19T21:23:58+08:00",
+    "stocks": [
+      "LQDA"
+    ],
+    "uid": "1333909e3b98110bb20c994d1bd69b7f"
+  },
+  {
     "title": "Amentum (AMTM) Q3 2026 Earnings Call Transcript",
     "url": "https://finance.yahoo.com/markets/stocks/articles/amentum-amtm-q3-2026-earnings-132204177.html",
     "source": "Yahoo Finance",
@@ -156,6 +837,35 @@
     "summary_en": "",
     "title_zh": "Amentum (AMTM) 2026 年第三季財報電話會議紀錄",
     "summary_zh": ""
+  },
+  {
+    "title": "Gemini’s Cameron Winklevoss Says Bitcoin Is Trading At 50% Discount",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/gemini-cameron-winklevoss-says-bitcoin-132200813.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T21:22:00+08:00",
+    "stocks": [],
+    "uid": "0898483e34bad4f2d15a7dc4cb5a5f2a"
+  },
+  {
+    "title": "Ceragon (CRNT) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/ceragon-crnt-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "India bookings surge to $120 million year-to-date as competitive pressures ease.",
+    "published_at": "2026-08-19T21:20:04+08:00",
+    "stocks": [
+      "CRNT"
+    ],
+    "uid": "a5c204b73701fdc3394c85eb653288ab"
+  },
+  {
+    "title": "Robinhood CEO Calls On U.S. To Approve Tokenized Stocks",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/robinhood-ceo-calls-u-approve-132000671.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T21:20:00+08:00",
+    "stocks": [],
+    "uid": "8b9c90f1130fcb09120427d1b230c459"
   },
   {
     "title": "Moderna, Merck, SK Hynix, Micron, Target, Estée Lauder, and More Stocks That Explain Today’s Market",
@@ -184,6 +894,26 @@
     "summary_zh": ""
   },
   {
+    "title": "Janus International (JBI) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/janus-international-jbi-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "CEO Jackson warns demand trends have disappointed as company cuts full-year guidance.",
+    "published_at": "2026-08-19T21:17:03+08:00",
+    "stocks": [
+      "JBI"
+    ],
+    "uid": "834050c6ec2630b24172c8ef6a273d2d"
+  },
+  {
+    "title": "Freight Distress Report: More than 7,000 jobs cut in new wave of closures",
+    "url": "https://finance.yahoo.com/economy/articles/freight-distress-report-more-7-131619573.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T21:16:19+08:00",
+    "stocks": [],
+    "uid": "39ec388d47c3e726441614a3de6c43a9"
+  },
+  {
     "title": "NHI (NHI) Q2 2026 Earnings Call Transcript",
     "url": "https://finance.yahoo.com/healthcare/articles/nhi-nhi-q2-2026-earnings-131617529.html",
     "source": "Yahoo Finance",
@@ -197,6 +927,17 @@
     "summary_en": "",
     "title_zh": "NHI (NHI) 2026 年第二季財報電話會議紀錄",
     "summary_zh": ""
+  },
+  {
+    "title": "Comcast (CMCSA) Turns To Home Security To Lock In Broadband Customers",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/comcast-cmcsa-turns-home-security-131533405.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T21:15:33+08:00",
+    "stocks": [
+      "CMCSA"
+    ],
+    "uid": "aef54e59ebbb3c88fc3abc62f9dee6d5"
   },
   {
     "title": "$500,000 and One Income ETF Slot: Which of SPYI, JEPQ and GPIQ Holds Up in a Dead Quiet Market?",
@@ -1932,6 +2673,15 @@
     "published_at": "2026-08-19T18:00:00+08:00",
     "stocks": [],
     "uid": "1ed4c89c0642f3b1e227bf03def01266"
+  },
+  {
+    "title": "Best CD rates today, Wednesday, August 19, 2026: Earn up to 4.35% APY",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-august-19-2026-earn-up-to-435-apy-100000814.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-19T18:00:00+08:00",
+    "stocks": [],
+    "uid": "d3a3f1f202b74bf0557388389011e4db"
   },
   {
     "title": "Guggenheim maintains Neutral on GitLab stock ahead of earnings",
