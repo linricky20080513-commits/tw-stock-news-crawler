@@ -1,5 +1,558 @@
 [
   {
+    "title": "How wealthy families can prepare for aging parents and avoid a succession crisis",
+    "url": "https://www.cnbc.com/2026/08/20/wealthy-families-aging-parents-succession.html",
+    "source": "CNBC Top",
+    "summary": "Relatively few wealthy families are addressing the question of when an aging parent should give up control, advisors and lawyers told CNBC.",
+    "published_at": "2026-08-20T21:34:59+08:00",
+    "stocks": [],
+    "uid": "cebde0e57050d1a6722e47beb43e26ce",
+    "title_en": "How wealthy families can prepare for aging parents and avoid a succession crisis",
+    "summary_en": "Relatively few wealthy families are addressing the question of when an aging parent should give up control, advisors and lawyers told CNBC.",
+    "title_zh": "富裕家庭如何為年長的父母做好準備並避免繼承危機",
+    "summary_zh": "顧問和律師告訴 CNBC，相對較少的富裕家庭正在解決年長父母何時應該放棄控制權的問題。"
+  },
+  {
+    "title": "Multiple headwinds Weighed on Enovix’s (ENVX) Performance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/multiple-headwinds-weighed-enovix-envx-133358272.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-20T21:33:58+08:00",
+    "stocks": [
+      "ENVX"
+    ],
+    "uid": "2fed3811168a8627916cffe4a9c8efe3",
+    "title_en": "Multiple headwinds Weighed on Enovix’s (ENVX) Performance",
+    "summary_en": "",
+    "title_zh": "Enovix (ENVX) 業績面臨多重阻力",
+    "summary_zh": ""
+  },
+  {
+    "title": "Japan Post Holdings, AFLAC 10% owner, sells $1.73m in common stock",
+    "url": "https://www.investing.com/news/insider-trading-news/japan-post-holdings-aflac-10-owner-sells-173m-in-common-stock-93CH-4869931",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-20T21:31:02+08:00",
+    "stocks": [],
+    "uid": "cc63f6d1b3faff14ff835421bef5b503",
+    "title_en": "Japan Post Holdings, AFLAC 10% owner, sells $1.73m in common stock",
+    "summary_en": "",
+    "title_zh": "AFLAC 10% 所有者日本郵政控股出售 173 萬美元普通股",
+    "summary_zh": ""
+  },
+  {
+    "title": "Alliance Resource Partners director buys $1,799 in units",
+    "url": "https://www.investing.com/news/insider-trading-news/alliance-resource-partners-director-buys-1799-in-units-93CH-4869930",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-20T21:30:58+08:00",
+    "stocks": [],
+    "uid": "223ce6902c29c3bacc4d8e59532dc609",
+    "title_en": "Alliance Resource Partners director buys $1,799 in units",
+    "summary_en": "",
+    "title_zh": "Alliance Resource Partners 董事購買了 1,799 美元的單位",
+    "summary_zh": ""
+  },
+  {
+    "title": "ARKBRIDGE’s David Mali Highlights AI-Driven Risk Management at the Finance Magnates London Summit",
+    "url": "https://www.investing.com/news/company-news/arkbridges-david-mali-highlights-aidriven-risk-management-at-the-finance-magnates-london-summit-4869929",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-20T21:30:57+08:00",
+    "stocks": [],
+    "uid": "2cd7c29c30f79f6b42839333d2bce331",
+    "title_en": "ARKBRIDGE’s David Mali Highlights AI-Driven Risk Management at the Finance Magnates London Summit",
+    "summary_en": "",
+    "title_zh": "ARKBRIDGE 的 David Mali 在匯亨倫敦峰會上強調人工智慧驅動的風險管理",
+    "summary_zh": ""
+  },
+  {
+    "title": "Chinese e-commerce giant JD.com offers EU remedies in Ceconomy takeover probe",
+    "url": "https://www.investing.com/news/stock-market-news/chinese-ecommerce-giant-jdcom-offers-eu-remedies-in-ceconomy-takeover-probe-4869928",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-20T21:30:43+08:00",
+    "stocks": [],
+    "uid": "86aa1eff6b8017920aace39bfc088700",
+    "title_en": "Chinese e-commerce giant JD.com offers EU remedies in Ceconomy takeover probe",
+    "summary_en": "",
+    "title_zh": "中國電子商務巨頭京東在 Ceconomy 收購調查中向歐盟提供補救措施",
+    "summary_zh": ""
+  },
+  {
+    "title": "Canada industrial prices climb in July on energy gains",
+    "url": "https://www.investing.com/news/economy-news/canada-industrial-prices-climb-in-july-on-energy-gains-93CH-4869927",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-20T21:30:18+08:00",
+    "stocks": [],
+    "uid": "14196ae44ef05998cc3d8a254d61ed7f",
+    "title_en": "Canada industrial prices climb in July on energy gains",
+    "summary_en": "",
+    "title_zh": "加拿大七月工業價格因能源成長而攀升",
+    "summary_zh": ""
+  },
+  {
+    "title": "Bitcoin hits $72k after Trump calls for clear crypto legislation",
+    "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-to-near-70k-on-trump-comments-falling-yields-4868746",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-20T21:29:50+08:00",
+    "stocks": [],
+    "uid": "a9f1803c7bd47dfca9ef1a73af5f12ed",
+    "title_en": "Bitcoin hits $72k after Trump calls for clear crypto legislation",
+    "summary_en": "",
+    "title_zh": "川普呼籲制定明確的加密立法後，比特幣觸及 7.2 萬美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Dynasty Fine Wines issues another profit warning",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/dynasty-fine-wines-issues-another-132906256.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-20T21:29:06+08:00",
+    "stocks": [],
+    "uid": "924b84cccbb48e4daddb94d4bff0e1ba",
+    "title_en": "Dynasty Fine Wines issues another profit warning",
+    "summary_en": "",
+    "title_zh": "王朝酒業再次發布獲利預警",
+    "summary_zh": ""
+  },
+  {
+    "title": "Greenland Mines approves 1-for-50 reverse stock split",
+    "url": "https://www.investing.com/news/company-news/greenland-mines-approves-1for50-reverse-stock-split-93CH-4869923",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-20T21:28:32+08:00",
+    "stocks": [],
+    "uid": "528eb52938846b38a6dff5194af6f936",
+    "title_en": "Greenland Mines approves 1-for-50 reverse stock split",
+    "summary_en": "",
+    "title_zh": "格陵蘭礦業批准 50 股 1 股反向股票分割",
+    "summary_zh": ""
+  },
+  {
+    "title": "Strategy Rallies 9%, Bitmine Climbs 7%, Coinbase Jumps 6% as $3.3B Short Squeeze Powers Bitcoin Past $71K",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/strategy-rallies-9-bitmine-climbs-132818764.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-20T21:28:18+08:00",
+    "stocks": [],
+    "uid": "c8d3adbdfcba53d86e0f56e30d36ea99",
+    "title_en": "Strategy Rallies 9%, Bitmine Climbs 7%, Coinbase Jumps 6% as $3.3B Short Squeeze Powers Bitcoin Past $71K",
+    "summary_en": "",
+    "title_zh": "Strategy 上漲 9%，Bitmine 上漲 7%，Coinbase 上漲 6%，$3.3B 空頭擠壓推動比特幣突破 71K 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Fed’s Daly sees bond market as policy signal",
+    "url": "https://www.investing.com/news/economy-news/feds-daly-sees-bond-market-as-policy-signal-4869922",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-20T21:28:00+08:00",
+    "stocks": [],
+    "uid": "8f48d4edc0d0c7283cffc26c9cc4597a",
+    "title_en": "Fed’s Daly sees bond market as policy signal",
+    "summary_en": "",
+    "title_zh": "聯準會戴利將債券市場視為政策訊號",
+    "summary_zh": ""
+  },
+  {
+    "title": "De-alc business Strategic Beverage Services acquires BevZero US assets",
+    "url": "https://finance.yahoo.com/small-business/articles/alc-business-strategic-beverage-services-132551607.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-20T21:25:51+08:00",
+    "stocks": [],
+    "uid": "042e45c3e4f281078791b54c844cdde4",
+    "title_en": "De-alc business Strategic Beverage Services acquires BevZero US assets",
+    "summary_en": "",
+    "title_zh": "De-alc 業務 Strategy Beverage Services 收購 BevZero 美國資產",
+    "summary_zh": ""
+  },
+  {
+    "title": "Unitree CEO Reveals When Robots Could Reach Their ‘ChatGPT Moment’",
+    "url": "https://finance.yahoo.com/technology/ai/articles/unitree-ceo-reveals-robots-could-132524704.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-20T21:25:24+08:00",
+    "stocks": [],
+    "uid": "68c724e04f789b5f263f88dfd2e32f00",
+    "title_en": "Unitree CEO Reveals When Robots Could Reach Their ‘ChatGPT Moment’",
+    "summary_en": "",
+    "title_zh": "Unitree 執行長透露機器人何時可以實現“ChatGPT 時刻”",
+    "summary_zh": ""
+  },
+  {
+    "title": "Under pressure: Tracking the pain in G7 government debt",
+    "url": "https://finance.yahoo.com/news/under-pressure-tracking-pain-g7-072738511.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-20T21:23:25+08:00",
+    "stocks": [],
+    "uid": "a05b2151b4a7e079d2d1555ab154a1f6",
+    "title_en": "Under pressure: Tracking the pain in G7 government debt",
+    "summary_en": "",
+    "title_zh": "壓力之下：追蹤七國集團政府債務的痛苦",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why Capital One (COF) Could See Both Earnings Growth and Multiple Expansion?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-capital-one-cof-could-131434106.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-20T21:14:34+08:00",
+    "stocks": [
+      "COF"
+    ],
+    "uid": "7129450194e873fe049e02db921f0822",
+    "title_en": "Why Capital One (COF) Could See Both Earnings Growth and Multiple Expansion?",
+    "summary_en": "",
+    "title_zh": "為什麼第一資本（COF）能夠獲利成長和倍數擴張？",
+    "summary_zh": ""
+  },
+  {
+    "title": "Insider Transaction: Callaway Golf EVP Hickey Sells 28,843 Shares at $18.74",
+    "url": "https://www.fool.com/coverage/filings/2026/08/20/insider-transaction-callaway-golf-evp-hickey-sells-28-843-shares-at-usd18-74/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The stock price has surged over the last 12 months after underperforming for the last five years, offering a chance to lock in some profits.",
+    "published_at": "2026-08-20T21:10:01+08:00",
+    "stocks": [],
+    "uid": "d2158315fab7d00d30cb0da008120399",
+    "title_en": "Insider Transaction: Callaway Golf EVP Hickey Sells 28,843 Shares at $18.74",
+    "summary_en": "The stock price has surged over the last 12 months after underperforming for the last five years, offering a chance to lock in some profits.",
+    "title_zh": "內線交易：Callaway Golf 執行副總裁 Hickey 以 18.74 美元的價格出售 28,843 股股票",
+    "summary_zh": "該股在過去五年表現不佳後，在過去 12 個月大幅上漲，提供了鎖定部分利潤的機會。"
+  },
+  {
+    "title": "Billionaire Mark Cuban Compares the AI Buildout to the Dot-Com Era Fiber Glut. Here's What That Could Mean for AI Stocks.",
+    "url": "https://www.fool.com/investing/2026/08/20/billionaire-mark-cuban-compares-the-ai-buildout-to/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Cuban sees troubling parallels between the two tech-sector infrastructure booms.",
+    "published_at": "2026-08-20T21:10:00+08:00",
+    "stocks": [],
+    "uid": "17d8e03620491924cb5b6d405ccd812f",
+    "title_en": "Billionaire Mark Cuban Compares the AI Buildout to the Dot-Com Era Fiber Glut. Here's What That Could Mean for AI Stocks.",
+    "summary_en": "Cuban sees troubling parallels between the two tech-sector infrastructure booms.",
+    "title_zh": "億萬富翁馬克·庫班將人工智慧的發展與網路時代的光纖過剩進行了比較。這對人工智慧股票意味著什麼。",
+    "summary_zh": "庫班認為兩次科技業基礎設施繁榮之間存在令人不安的相似之處。"
+  },
+  {
+    "title": "Brookfield (BN) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/20/brookfield-bn-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "CEO Flatt discusses $210B deployable capital and AI infrastructure expansion.",
+    "published_at": "2026-08-20T21:09:33+08:00",
+    "stocks": [
+      "BN"
+    ],
+    "uid": "5b4a77b5dfaf1669c0a75bd9a822fd54",
+    "title_en": "Brookfield (BN) Q2 2026 Earnings Call Transcript",
+    "summary_en": "CEO Flatt discusses $210B deployable capital and AI infrastructure expansion.",
+    "title_zh": "布魯克菲爾德 (BN) 2026 年第二季財報電話會議紀錄",
+    "summary_zh": "執行長 Flatt 討論了 210B 美元的可部署資本和人工智慧基礎設施擴張。"
+  },
+  {
+    "title": "Ascendis Pharma (ASND) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/20/ascendis-pharma-asnd-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Revenue surged 105% year-over-year as three approved products scale globally.",
+    "published_at": "2026-08-20T21:09:25+08:00",
+    "stocks": [
+      "ASND"
+    ],
+    "uid": "2954e1e2a57cad39043513d3da2c1ae7",
+    "title_en": "Ascendis Pharma (ASND) Q2 2026 Earnings Call Transcript",
+    "summary_en": "Revenue surged 105% year-over-year as three approved products scale globally.",
+    "title_zh": "Ascendis Pharma (ASND) 2026 年第二季財報電話會議紀錄",
+    "summary_zh": "三個獲批產品在全球擴展，收入較去年同期飆升 105%。"
+  },
+  {
+    "title": "Tapestry (TPR) Q4 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/20/tapestry-tpr-q4-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Coach drives record revenue as Tapestry hits three-year targets early.",
+    "published_at": "2026-08-20T21:09:22+08:00",
+    "stocks": [
+      "TPR"
+    ],
+    "uid": "9de74cad66a71838a066b7c785832a58",
+    "title_en": "Tapestry (TPR) Q4 2026 Earnings Call Transcript",
+    "summary_en": "Coach drives record revenue as Tapestry hits three-year targets early.",
+    "title_zh": "Tapestry (TPR) 2026 年第四季財報電話會議紀錄",
+    "summary_zh": "Tapestry 提前實現三年目標，Coach 收入創歷史新高。"
+  },
+  {
+    "title": "Stock Market Today: Dow Falls On Trump's 'Economic D-Day' Threat; Walmart Takes A Dive (Live Coverage)",
+    "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-threat-walmart-stock-wmt/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-20T21:07:02+08:00",
+    "stocks": [],
+    "uid": "bd50160040808abba11e16768485e514",
+    "title_en": "Stock Market Today: Dow Falls On Trump's 'Economic D-Day' Threat; Walmart Takes A Dive (Live Coverage)",
+    "summary_en": "",
+    "title_zh": "今日股市：道瓊斯指數因川普的「經濟諾曼第登陸」威脅而下跌；沃爾瑪進軍（現場報道）",
+    "summary_zh": ""
+  },
+  {
+    "title": "Structural Supply Tightening Drives Multi-Year Bull Case for Alcoa Corp. (AA)",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/structural-supply-tightening-drives-multi-130702304.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-20T21:07:02+08:00",
+    "stocks": [
+      "AA"
+    ],
+    "uid": "72e8ff18333ee3f5bfef1bfca5049e56",
+    "title_en": "Structural Supply Tightening Drives Multi-Year Bull Case for Alcoa Corp. (AA)",
+    "summary_en": "",
+    "title_zh": "結構性供應緊縮推動美鋁公司 (AA) 多年牛市",
+    "summary_zh": ""
+  },
+  {
+    "title": "Bitcoin surges 11% in two days as Trump, crypto execs lead last ditch effort for Clarity Act",
+    "url": "https://www.cnbc.com/2026/08/20/bitcoin-surges-as-trump-crypto-execs-lead-final-push-for-clarity-act.html",
+    "source": "CNBC Top",
+    "summary": "Bitcoin is trading at its highest levels since early June as crypto execs joined with President Donald Trump push to get the Clarity Act over the finish line.",
+    "published_at": "2026-08-20T21:06:30+08:00",
+    "stocks": [],
+    "uid": "64369601668bd6d92097b1e904ec49ea",
+    "title_en": "Bitcoin surges 11% in two days as Trump, crypto execs lead last ditch effort for Clarity Act",
+    "summary_en": "Bitcoin is trading at its highest levels since early June as crypto execs joined with President Donald Trump push to get the Clarity Act over the finish line.",
+    "title_zh": "川普和加密貨幣高層為《澄清法案》做出最後努力，比特幣兩天內飆升 11%",
+    "summary_zh": "隨著加密貨幣高層與唐納德·川普總統一起推動《清晰法案》越過終點線，比特幣的交易價格達到了 6 月初以來的最高水平。"
+  },
+  {
+    "title": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+    "url": "https://www.cnbc.com/2026/08/20/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+    "source": "CNBC Top",
+    "summary": "Walmart is selling off on disappointing earnings, and analysts are divided on Merck after its cancer vaccine breakthrough.",
+    "published_at": "2026-08-20T21:06:10+08:00",
+    "stocks": [],
+    "uid": "2be45eedff821f81ad6927bd20553eda",
+    "title_en": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+    "summary_en": "Walmart is selling off on disappointing earnings, and analysts are divided on Merck after its cancer vaccine breakthrough.",
+    "title_zh": "吉姆·克萊默 (Jim Cramer) 週四股市最值得關注的 10 件事",
+    "summary_zh": "沃爾瑪因獲利令人失望而遭到拋售，而分析師在默克公司在癌症疫苗取得突破後對默克公司的看法也存在分歧。"
+  },
+  {
+    "title": "Bitcoin Price Spikes Above $72K On Treasury-Fueled Short Squeeze",
+    "url": "https://www.investors.com/news/bitcoin-price-72000-two-month-high-treasury-bond-crypto-shorts-cftc-trump-clarity-act-white-house/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-20T21:03:43+08:00",
+    "stocks": [],
+    "uid": "370b6d47a0c74096bed2ca1248382048"
+  },
+  {
+    "title": "Prediction: Micron Stock Could Go Parabolic After Aug. 26",
+    "url": "https://www.fool.com/investing/2026/08/20/prediction-micron-stock-could-go-parabolic-after-a/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Nvidia's solid results and the arrival of its Vera Rubin chips will be a tailwind for Micron Technology.",
+    "published_at": "2026-08-20T21:02:00+08:00",
+    "stocks": [],
+    "uid": "7d703c58a8df60556ef18f944bf58658"
+  },
+  {
+    "title": "Treasury proposes low-cost investment rules for Trump Accounts",
+    "url": "https://www.cnbc.com/2026/08/20/trump-accounts-investment-rules-treasury.html",
+    "source": "CNBC Top",
+    "summary": "The Treasury Department has issued new Trump Account guidance, emphasizing low-cost investments.",
+    "published_at": "2026-08-20T21:00:28+08:00",
+    "stocks": [],
+    "uid": "b01b2f6680280b4d89d35b835948d40b"
+  },
+  {
+    "title": "You’ve all heard AI is remaking the economy. Here’s how it’s changing lives — for better or worse.",
+    "url": "https://www.marketwatch.com/story/youve-all-heard-ai-is-remaking-the-economy-heres-how-its-changing-lives-for-better-or-worse-447bd086?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "AI, not Trump, is the big mover of the economy, this analyst says — and it’s just going to get bigger.",
+    "published_at": "2026-08-20T21:00:00+08:00",
+    "stocks": [],
+    "uid": "c63da1b61ce03147b377bc0b7611e416"
+  },
+  {
+    "title": "Plug Power’s (PLUG) Turnaround Math Finally Starts Adding Up",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/plug-power-plug-turnaround-math-125835719.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-20T20:58:35+08:00",
+    "stocks": [
+      "PLUG"
+    ],
+    "uid": "fae89c059bc6b7c290ccaf8e99c94eca"
+  },
+  {
+    "title": "Walmart Posts Slowest Sales Growth in Years as Americans Tighten Wallets",
+    "url": "https://www.nytimes.com/2026/08/20/business/walmart-target-retail-consumer-economy.html",
+    "source": "NYT Business",
+    "summary": "Walmart and other big U.S. retailers have warned that consumers were being cautious, even if personal balance sheets seemed healthy.",
+    "published_at": "2026-08-20T20:57:08+08:00",
+    "stocks": [],
+    "uid": "51be4a3b36b01d289621172f35fc57d9"
+  },
+  {
+    "title": "Could EQT (EQT) Be a Major Winner From LNG and Data Center Power Demand?",
+    "url": "https://finance.yahoo.com/energy/articles/could-eqt-eqt-major-winner-125543750.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-20T20:55:43+08:00",
+    "stocks": [
+      "EQT"
+    ],
+    "uid": "7b92eca003e49fe256ab0dc161ee1318"
+  },
+  {
+    "title": "Omnicell President Sells 6,753 Shares",
+    "url": "https://www.fool.com/coverage/filings/2026/08/20/omnicell-president-sells-6-753-shares/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Nnamdi Njoku's disposal reduced his direct holdings by 4%, with over half tied to tax withholding from RSU vesting. He retains ~161,223 shares worth $5.81 million.",
+    "published_at": "2026-08-20T20:53:01+08:00",
+    "stocks": [],
+    "uid": "03e8499fe445de863291cec37ba0f691"
+  },
+  {
+    "title": "30% Free Cash Flow Yield Positions Charter Communications (CHTR) for De-leveraging and Shareholder Return",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/30-free-cash-flow-yield-125015164.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-20T20:50:15+08:00",
+    "stocks": [
+      "CHTR"
+    ],
+    "uid": "806815a88d66bfdd8f842f360af96ab0"
+  },
+  {
+    "title": "AECOM’s (ACM) Record Backlog Collides With A Costly Charge",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/aecom-acm-record-backlog-collides-124835002.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-20T20:48:35+08:00",
+    "stocks": [
+      "ACM"
+    ],
+    "uid": "781e072f199d62af8c7f24829e727550"
+  },
+  {
+    "title": "Cargojet to pass large pilot wage increase onto customers",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cargojet-pass-large-pilot-wage-124600024.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-20T20:46:00+08:00",
+    "stocks": [],
+    "uid": "2891473a887c3c67931fe47edf11f421"
+  },
+  {
+    "title": "Ciena's Massive AI Tailwind: Optical Networks Are Now Critical",
+    "url": "https://www.fool.com/investing/2026/08/20/cienas-massive-ai-tailwind-optical-networks-are-no/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "AI's next bottleneck may have little to do with faster chips. See why Ciena's optical networking technology could become increasingly important as massive AI systems expand.",
+    "published_at": "2026-08-20T20:45:00+08:00",
+    "stocks": [],
+    "uid": "1a528d5b40a66af38fce16941e128ef9"
+  },
+  {
+    "title": "The S&P 500 Returned 10% in the First Half of 2026. Here's What History Says Happens in the Second Half.",
+    "url": "https://www.fool.com/investing/2026/08/20/sp-500-1st-half-return-history-2nd-half-return/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Double-digit returns in the first half of the year often produce more gains in the second half.",
+    "published_at": "2026-08-20T20:45:00+08:00",
+    "stocks": [],
+    "uid": "378f3cf4516e15fa97511cac8e288a13"
+  },
+  {
+    "title": "Pelthos (PTHS) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/20/pelthos-pths-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "ZELSUVMI revenue jumped 45% as prescriber count surged and new PBM contracts drove adoption.",
+    "published_at": "2026-08-20T20:44:06+08:00",
+    "stocks": [
+      "PTHS"
+    ],
+    "uid": "fd5c8cdd7041d2f7e18fb0663176d416"
+  },
+  {
+    "title": "CVC deepens insurance bet with Standard Life partnership",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cvc-deepens-insurance-bet-standard-124100497.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-20T20:41:00+08:00",
+    "stocks": [],
+    "uid": "4eb762e30dc1f3fba2cb8efebfa9feba"
+  },
+  {
+    "title": "Dolphin Entertainment (DLPN) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/20/dolphin-entertainment-dlpn-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "CEO O'Dowd eyes 5% stake as company targets $3.2 million in annual savings.",
+    "published_at": "2026-08-20T20:40:14+08:00",
+    "stocks": [
+      "DLPN"
+    ],
+    "uid": "6220fe806b57858dd5bea2d723e33417"
+  },
+  {
+    "title": "Super Micro Computer and Western Digital: Analyzing Recent Revenue Trends and Business Scale",
+    "url": "https://www.fool.com/coverage/charts/2026/08/20/super-micro-computer-and-western-digital-analyzing-recent-revenue-trends-and-business-scale/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Super Micro's revenue surged to $11.1 billion while Western Digital grew steadily to $3.7 billion, but volatility tells a different story about each company's trajectory.",
+    "published_at": "2026-08-20T20:40:01+08:00",
+    "stocks": [],
+    "uid": "19911ee0f8150aa7d792620eb0c32a28"
+  },
+  {
+    "title": "Rekor (REKR) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/20/rekor-rekr-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Recurring revenue surged 14% as management targets adjusted EBITDA profitability by year-end.",
+    "published_at": "2026-08-20T20:38:12+08:00",
+    "stocks": [
+      "REKR"
+    ],
+    "uid": "8c65e95aff49572f890e2573e2eba887"
+  },
+  {
+    "title": "North American Construction (NOA) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/20/north-american-construction-noa-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Record backlog of $3.8 billion supports stronger earnings visibility ahead.",
+    "published_at": "2026-08-20T20:37:06+08:00",
+    "stocks": [
+      "NOA"
+    ],
+    "uid": "de6861af005eca6551fcbd4e84f2a70a"
+  },
+  {
+    "title": "ACV Auctions (ACVA) Reports Record Revenue and EBITDA Growth As Market Softens",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/acv-auctions-acva-reports-record-123518860.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-20T20:35:18+08:00",
+    "stocks": [
+      "ACVA"
+    ],
+    "uid": "f8ab9880308751be8490ec884c6b9454"
+  },
+  {
+    "title": "A Famed Billionaire Tech Investor Just Sold Nvidia Shares to Buy These 2 AI Chip Stocks",
+    "url": "https://www.fool.com/investing/2026/08/20/billionaire-investor-sold-nvidia-ai-chip-stock/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Tiger Global's Chase Coleman was busy buying Cerebras and Intel stock in Q2.",
+    "published_at": "2026-08-20T20:35:00+08:00",
+    "stocks": [],
+    "uid": "230c7d03c8c0d0a2116f08ce6a4ec8bb"
+  },
+  {
+    "title": "The Treasury's debt buyback, Walmart earnings, Boise's AI boom and more in Morning Squawk",
+    "url": "https://www.cnbc.com/2026/08/20/5-things-to-know-before-the-stock-market-opens.html",
+    "source": "CNBC Tech",
+    "summary": "Here are five key things investors need to know to start the trading day.",
+    "published_at": "2026-08-20T20:29:36+08:00",
+    "stocks": [],
+    "uid": "80bf1f02b702bbe2982e3ec75add7087"
+  },
+  {
     "title": "Where commercial real estate demand is the highest, according to new data",
     "url": "https://www.cnbc.com/2026/08/20/commercial-real-estate-demand-nar-data.html",
     "source": "CNBC Top",
@@ -11,6 +564,57 @@
     "summary_en": "The National Association of Realtors has released a new index that uses factors in local economies to indicate future demand.",
     "title_zh": "根據新數據，商業房地產需求最高的地方",
     "summary_zh": "全國房地產經紀人協會發布了一項新指數，該指數利用當地經濟因素來顯示未來需求。"
+  },
+  {
+    "title": "Teamsters reveal TP Freight’s sudden shutdown",
+    "url": "https://finance.yahoo.com/small-business/articles/teamsters-reveal-tp-freight-sudden-122602078.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-20T20:26:02+08:00",
+    "stocks": [],
+    "uid": "1f625495ba4bfc4c3583ea8af21c02cd"
+  },
+  {
+    "title": "Harrow (HROW): Strong Product Momentum Meets A Steep H2 Revenue Target",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/harrow-hrow-strong-product-momentum-122436638.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-20T20:24:36+08:00",
+    "stocks": [
+      "HROW"
+    ],
+    "uid": "645c1fd11a3b6356e2c7e1627a17b03c"
+  },
+  {
+    "title": "Vertical Aerospace (EVTL) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/20/vertical-aerospace-evtl-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Financing package of $100M extends cash runway to Q3 2027 amid certification delay.",
+    "published_at": "2026-08-20T20:24:11+08:00",
+    "stocks": [
+      "EVTL"
+    ],
+    "uid": "83752f9d378acb0ddeabee9d75769f7b"
+  },
+  {
+    "title": "Sandisk vs. SK Hynix: Which Memory Stock Will Deliver Bigger Gains By the End of 2027?",
+    "url": "https://www.fool.com/investing/2026/08/20/sandisk-vs-sk-hynix-which-memory-stock-will-delive/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Investors looking to buy one of these two AI stocks for their portfolios have an easy choice to make.",
+    "published_at": "2026-08-20T20:23:00+08:00",
+    "stocks": [],
+    "uid": "76b3db7824a25343fd486845148a77d9"
+  },
+  {
+    "title": "MediWound (MDWD) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/20/mediwound-mdwd-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "EscharEx advances Phase III enrollment while manufacturing facility nears regulatory completion.",
+    "published_at": "2026-08-20T20:22:52+08:00",
+    "stocks": [
+      "MDWD"
+    ],
+    "uid": "5e2250a2643a1e768ffb46dabf7b26cd"
   },
   {
     "title": "UBS raises Target stock price target to $185 on durable growth",
@@ -50,6 +654,35 @@
     "summary_en": "",
     "title_zh": "卡地樂 (Cardinal Health) 執行長 Jason Hollar 出售價值 2,940 萬美元的公司股票",
     "summary_zh": ""
+  },
+  {
+    "title": "Brookdale Senior Living (BKD) Bets Big On Real Estate While Occupancy Lags",
+    "url": "https://finance.yahoo.com/real-estate/articles/brookdale-senior-living-bkd-bets-121525686.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-20T20:15:25+08:00",
+    "stocks": [
+      "BKD"
+    ],
+    "uid": "daab360204367b47cd44f602cc5d22c3"
+  },
+  {
+    "title": "New Social Security forecast is great (and rare) news for US retirees — how to take full advantage now",
+    "url": "https://finance.yahoo.com/economy/policy/articles/social-security-forecast-great-rare-121500256.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-20T20:15:00+08:00",
+    "stocks": [],
+    "uid": "7cd0ba8bf9bff9ea577ed6d97587cba8"
+  },
+  {
+    "title": "Where Will XRP (Ripple) Be in 5 Years?",
+    "url": "https://www.fool.com/investing/2026/08/20/where-will-xrp-ripple-be-in-5-years/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Ripple is becoming a more serious financial institution, but that doesn't mean XRP is becoming a better investment.",
+    "published_at": "2026-08-20T20:13:00+08:00",
+    "stocks": [],
+    "uid": "002d3b4bccd7954077dc58ed5357caef"
   },
   {
     "title": "NextTrip launches B2B platform for travel advisors",
@@ -189,6 +822,15 @@
     "summary_en": "",
     "title_zh": "沃爾瑪銷售額成長創下多年來最弱水平",
     "summary_zh": ""
+  },
+  {
+    "title": "Morgan Stanley Says AI Data Centers Face a 38-Gigawatt Power Gap. These Industrial Stocks Fill It.",
+    "url": "https://www.fool.com/investing/2026/08/20/morgan-stanley-says-ai-data-centers-face-a-38-giga/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "AI's biggest bottleneck could be an industrial opportunity.",
+    "published_at": "2026-08-20T20:05:00+08:00",
+    "stocks": [],
+    "uid": "adeafc242b75834c081eb44b7aad8944"
   },
   {
     "title": "Booking vs. CAVA: Comparing Total Scale and Growth Trajectories in Quarterly Revenue Trends",
@@ -1138,6 +1780,15 @@
     "summary_en": "A scientific and civilizational horror story.",
     "title_zh": "我們能對諸如阿爾法半乳糖症候群這樣的蜱傳疾病採取什麼措施嗎？",
     "summary_zh": "一個科學和文明的恐怖故事。"
+  },
+  {
+    "title": "Bank of America sends message on Capital One stock",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-message-capital-090300253.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-20T17:03:00+08:00",
+    "stocks": [],
+    "uid": "9e1fded83997c647c9462834574ee314"
   },
   {
     "title": "Oil prices rise to highest level in nearly a month amid ongoing Hormuz impasse",
@@ -29685,6 +30336,15 @@
     "published_at": "2026-08-17T21:29:45+08:00",
     "stocks": [],
     "uid": "b3700a1118d56901b178b0f49af7ffe9"
+  },
+  {
+    "title": "Tech stocks today: OpenAI's growth disappoints, Nvidia earnings provide next test for AI trade",
+    "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-openais-growth-disappoints-nvidia-earnings-provide-next-test-for-ai-trade-132945569.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-17T21:29:45+08:00",
+    "stocks": [],
+    "uid": "62960df4db178ae2aae45228a9e7af86"
   },
   {
     "title": "Jim Cramer's top 10 things to watch in the stock market Monday",
