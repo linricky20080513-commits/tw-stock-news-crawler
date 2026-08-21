@@ -1,5 +1,379 @@
 [
   {
+    "title": "Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio",
+    "url": "https://www.cnbc.com/2026/08/21/citadel-situational-awareness-ken-griffin.html",
+    "source": "CNBC Top",
+    "summary": "In a letter to clients, Griffin addressed the firm's purchase of assets from Situational Awareness for the first time.",
+    "published_at": "2026-08-21T23:17:07+08:00",
+    "stocks": [],
+    "uid": "c00ccf8842d970316cf20e41e2a10964",
+    "title_en": "Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio",
+    "summary_en": "In a letter to clients, Griffin addressed the firm's purchase of assets from Situational Awareness for the first time.",
+    "title_zh": "Ken Griffin 表示 Citadel 消除了 80% 以上與態勢感知產品組合相關的風險",
+    "summary_zh": "在給客戶的一封信中，格里芬首次談到了公司從態勢感知公司購買資產的問題。"
+  },
+  {
+    "title": "Amigo Resources, STAMICO sign MoU for graphite project in Tanzania",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/amigo-resources-stamico-sign-mou-151303557.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-21T23:13:03+08:00",
+    "stocks": [],
+    "uid": "b29c025a5bc4197427e8204e917bed08",
+    "title_en": "Amigo Resources, STAMICO sign MoU for graphite project in Tanzania",
+    "summary_en": "",
+    "title_zh": "Amigo Resources與STAMICO簽署坦尚尼亞石墨專案諒解備忘錄",
+    "summary_zh": ""
+  },
+  {
+    "title": "Pulse Biosciences stock hits all-time high at 48.92 USD",
+    "url": "https://www.investing.com/news/company-news/pulse-biosciences-stock-hits-alltime-high-at-4892-usd-93CH-4871889",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-21T23:10:43+08:00",
+    "stocks": [],
+    "uid": "bfea67e7018ecf65d1a7999a8bef0070",
+    "title_en": "Pulse Biosciences stock hits all-time high at 48.92 USD",
+    "summary_en": "",
+    "title_zh": "Pulse Biosciences 股價觸及歷史新高 48.92 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "In China’s Biggest Car Recall, Tesla and 8 Others Will Address Door Safety",
+    "url": "https://www.nytimes.com/2026/08/21/business/china-car-recall-doors.html",
+    "source": "NYT Business",
+    "summary": "China’s regulator ordered changes after vehicle occupants sometimes had difficulty exiting electric cars with retractable door handles after crashes.",
+    "published_at": "2026-08-21T23:09:19+08:00",
+    "stocks": [],
+    "uid": "fe235ca39526fa776dfd2b9d53ac05f7",
+    "title_en": "In China’s Biggest Car Recall, Tesla and 8 Others Will Address Door Safety",
+    "summary_en": "China’s regulator ordered changes after vehicle occupants sometimes had difficulty exiting electric cars with retractable door handles after crashes.",
+    "title_zh": "在中國最大規模的汽車召回中，特斯拉和其他 8 家公司將解決車門安全問題",
+    "summary_zh": "由於車內乘員有時在撞車後很難退出帶有可伸縮門把手的電動車，中國監管機構下令做出改變。"
+  },
+  {
+    "title": "Earnings call transcript: Banco de Bogotá posts stronger Q2 2026 profit",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-banco-de-bogota-posts-stronger-q2-2026-profit-93CH-4871888",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-21T23:08:09+08:00",
+    "stocks": [],
+    "uid": "cb510707870eadcc642fb6f3e09eb970",
+    "title_en": "Earnings call transcript: Banco de Bogotá posts stronger Q2 2026 profit",
+    "summary_en": "",
+    "title_zh": "財報電話會議紀錄：波哥大銀行公佈 2026 年第二季獲利強勁",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why is MongoDB stock climbing today?",
+    "url": "https://www.investing.com/news/stock-market-news/why-is-mongodb-stock-climbing-today-93CH-4871887",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-21T23:07:30+08:00",
+    "stocks": [],
+    "uid": "842c41f6388bab09cc7aa609a58c7557",
+    "title_en": "Why is MongoDB stock climbing today?",
+    "summary_en": "",
+    "title_zh": "為什麼 MongoDB 股價今天上漲？",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why is Parsons stock rallying today?",
+    "url": "https://www.investing.com/news/stock-market-news/why-is-parsons-stock-rallying-today-93CH-4871886",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-21T23:07:01+08:00",
+    "stocks": [],
+    "uid": "373b07ac337bed7800d4f88dc9a62eac",
+    "title_en": "Why is Parsons stock rallying today?",
+    "summary_en": "",
+    "title_zh": "為什麼帕森斯股票今天上漲？",
+    "summary_zh": ""
+  },
+  {
+    "title": "India regulator approves $731 million LPG pipeline expansion",
+    "url": "https://www.investing.com/news/stock-market-news/india-regulator-approves-731-million-lpg-pipeline-expansion-93CH-4871884",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-21T23:04:49+08:00",
+    "stocks": [],
+    "uid": "1b46018d65f89a881e32c24fb993390a",
+    "title_en": "India regulator approves $731 million LPG pipeline expansion",
+    "summary_en": "",
+    "title_zh": "印度監管機構批准耗資 7.31 億美元擴建液化石油氣管道",
+    "summary_zh": ""
+  },
+  {
+    "title": "Solana Company announces voting positions on governance proposals",
+    "url": "https://www.investing.com/news/company-news/solana-company-announces-voting-positions-on-governance-proposals-93CH-4871883",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-21T23:04:43+08:00",
+    "stocks": [],
+    "uid": "e00e21bc53af3e0e7d2818931647c702",
+    "title_en": "Solana Company announces voting positions on governance proposals",
+    "summary_en": "",
+    "title_zh": "Solana 公司宣布對治理提案的投票立場",
+    "summary_zh": ""
+  },
+  {
+    "title": "Saudi Power Procurement signs four BESS agreements worth $1.16bn",
+    "url": "https://finance.yahoo.com/energy/articles/saudi-power-procurement-signs-four-150434913.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-21T23:04:34+08:00",
+    "stocks": [],
+    "uid": "3415c5e29c78714844b054b4e47dc0e0",
+    "title_en": "Saudi Power Procurement signs four BESS agreements worth $1.16bn",
+    "summary_en": "",
+    "title_zh": "沙烏地電力採購簽署四項BESS協議，價值​​11.6億美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Ross Stores Trounces Earnings, Set To Retake Buy Point",
+    "url": "https://www.investors.com/news/ross-dress-for-less-earnings-retail-tariff-refunds/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-21T23:03:38+08:00",
+    "stocks": [],
+    "uid": "24f721b879c0fc3941f906290db436a3",
+    "title_en": "Ross Stores Trounces Earnings, Set To Retake Buy Point",
+    "summary_en": "",
+    "title_zh": "羅斯商店 (Ross Stores) 獲利慘敗，將重新奪回買入點",
+    "summary_zh": ""
+  },
+  {
+    "title": "Parsons stock jumps after Baird upgrades to Outperform",
+    "url": "https://www.investing.com/news/stock-market-news/parsons-stock-jumps-after-baird-upgrades-to-outperform-93CH-4871882",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-21T23:03:28+08:00",
+    "stocks": [],
+    "uid": "1d68122138898a0e9c3008deac34a1da",
+    "title_en": "Parsons stock jumps after Baird upgrades to Outperform",
+    "summary_en": "",
+    "title_zh": "貝爾德將帕森斯評級上調至跑贏大盤後，帕森斯股價上漲",
+    "summary_zh": ""
+  },
+  {
+    "title": "Buckle Q2 Earnings Call Highlights",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/buckle-q2-earnings-call-highlights-150245927.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-21T23:02:45+08:00",
+    "stocks": [],
+    "uid": "64ee8c5e96205617a4bbd57d7ef428ea",
+    "title_en": "Buckle Q2 Earnings Call Highlights",
+    "summary_en": "",
+    "title_zh": "Buckle 第二季財報電話會議亮點",
+    "summary_zh": ""
+  },
+  {
+    "title": "CarMax stock hits 52-week high at 62.57 USD",
+    "url": "https://www.investing.com/news/company-news/carmax-stock-hits-52week-high-at-6257-usd-93CH-4871880",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-21T23:00:54+08:00",
+    "stocks": [],
+    "uid": "3587353e96a6bef8a119d98f785ade98",
+    "title_en": "CarMax stock hits 52-week high at 62.57 USD",
+    "summary_en": "",
+    "title_zh": "CarMax 股價觸及 52 週高點 62.57 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "VW’s Blume says overhead costs 30% above rivals, 50,000 jobs figure a guide",
+    "url": "https://www.investing.com/news/stock-market-news/vws-blume-says-overhead-costs-30-above-rivals-50000-jobs-figure-a-guide-4871879",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-21T23:00:37+08:00",
+    "stocks": [],
+    "uid": "75f95a9ecfe679a3f2707bb6fae98889",
+    "title_en": "VW’s Blume says overhead costs 30% above rivals, 50,000 jobs figure a guide",
+    "summary_en": "",
+    "title_zh": "大眾汽車的布魯姆表示，管理費用比競爭對手高出 30%，5 萬個工作崗位是一個參考",
+    "summary_zh": ""
+  },
+  {
+    "title": "Shein, a Fast-Fashion Giant, Struggles to Grow Ahead of a Much-Delayed IPO",
+    "url": "https://www.nytimes.com/2026/08/21/business/shein-ipo-questions.html",
+    "source": "NYT Business",
+    "summary": "Facing pressure in the United States and Europe, Shein is struggling to find new ways to grow ahead of its much-delayed initial public offering.",
+    "published_at": "2026-08-21T22:58:39+08:00",
+    "stocks": [],
+    "uid": "070ed5191bca56c8bee22af572f18663",
+    "title_en": "Shein, a Fast-Fashion Giant, Struggles to Grow Ahead of a Much-Delayed IPO",
+    "summary_en": "Facing pressure in the United States and Europe, Shein is struggling to find new ways to grow ahead of its much-delayed initial public offering.",
+    "title_zh": "快時尚巨頭 Shein 在拖延已久的 IPO 之前努力實現成長",
+    "summary_zh": "面對美國和歐洲的壓力，Shein 正在努力尋找新的成長方式，以應對其拖延已久的首次公開募股。"
+  },
+  {
+    "title": "Victor Niederhoffer, Trader Who Went Boom and Bust (Twice), Dies at 82",
+    "url": "https://www.nytimes.com/2026/08/21/business/victor-niederhoffer-dead.html",
+    "source": "NYT Business",
+    "summary": "He pioneered a technique for using computers to predict short-term movements in stock prices, something that proved to be hugely lucrative — when it worked.",
+    "published_at": "2026-08-21T22:57:34+08:00",
+    "stocks": [],
+    "uid": "d88699019dee4ac13d2c50e3d1885866",
+    "title_en": "Victor Niederhoffer, Trader Who Went Boom and Bust (Twice), Dies at 82",
+    "summary_en": "He pioneered a technique for using computers to predict short-term movements in stock prices, something that proved to be hugely lucrative — when it worked.",
+    "title_zh": "經歷過兩次繁榮和蕭條的交易員維克多·尼德霍夫 (Victor Niederhoffer) 去世，享年 82 歲",
+    "summary_zh": "他開創了一種利用電腦預測股票價格短期走勢的技術，事實證明，當它發揮作用時，利潤豐厚。"
+  },
+  {
+    "title": "Bank of America's sell signals are flashing red, but 56% of fund managers are going all-in on stocks anyway",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bank-americas-sell-signals-flashing-145500469.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-21T22:55:00+08:00",
+    "stocks": [],
+    "uid": "368194775e001590a0965b5672c5c0df",
+    "title_en": "Bank of America's sell signals are flashing red, but 56% of fund managers are going all-in on stocks anyway",
+    "summary_en": "",
+    "title_zh": "美國銀行的賣出訊號亮起紅燈，但 56% 的基金經理人仍全力買進股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "A pug with a protruding tongue is the World's Ugliest Dog — fetching her a cool $5,000, a trophy and a trip to New York",
+    "url": "https://finance.yahoo.com/small-business/articles/pug-protruding-tongue-worlds-ugliest-145000955.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-21T22:50:00+08:00",
+    "stocks": [],
+    "uid": "4c8efc3492224d4f9e36250498db9396",
+    "title_en": "A pug with a protruding tongue is the World's Ugliest Dog — fetching her a cool $5,000, a trophy and a trip to New York",
+    "summary_en": "",
+    "title_zh": "一隻伸出舌頭的哈巴狗被評為“世界上最醜的狗”——為她贏得了 5,000 美元、一座獎杯和一次紐約之旅",
+    "summary_zh": ""
+  },
+  {
+    "title": "Apple paid 40% of its global taxes to Ireland in last fiscal year",
+    "url": "https://finance.yahoo.com/economy/policy/articles/apple-paid-40-global-taxes-144940102.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-21T22:49:40+08:00",
+    "stocks": [],
+    "uid": "64d0f4a9f226caddcf8cb21c3ea5381b",
+    "title_en": "Apple paid 40% of its global taxes to Ireland in last fiscal year",
+    "summary_en": "",
+    "title_zh": "蘋果上一財年向愛爾蘭繳納了 40% 的全球稅",
+    "summary_zh": ""
+  },
+  {
+    "title": "Moderna Stock Is Just The Start: Why AI-Focused Money Might Flow Into Biotech",
+    "url": "https://www.investors.com/news/moderna-stock-start-of-ai-focused-money-in-biotech/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-21T22:49:30+08:00",
+    "stocks": [],
+    "uid": "3dd3112315a0b325e42a3dbbe6ab6027",
+    "title_en": "Moderna Stock Is Just The Start: Why AI-Focused Money Might Flow Into Biotech",
+    "summary_en": "",
+    "title_zh": "Moderna 股票只是開始：為什麼專注於人工智慧的資金可能會流入生物技術",
+    "summary_zh": ""
+  },
+  {
+    "title": "$32 million: The number incoming Apple CEO John Ternus has to beat to measure up to Tim Cook",
+    "url": "https://finance.yahoo.com/technology/article/32-million-the-number-incoming-apple-ceo-john-ternus-has-to-beat-to-measure-up-to-tim-cook-144626360.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-21T22:46:26+08:00",
+    "stocks": [],
+    "uid": "db31088716a84c6e7c258d7ead71522b",
+    "title_en": "$32 million: The number incoming Apple CEO John Ternus has to beat to measure up to Tim Cook",
+    "summary_en": "",
+    "title_zh": "3200萬美元：新任蘋果執行長約翰·特努斯 (John Ternus) 必須超越這個數字才能與蒂姆·庫克 (Tim Cook) 相媲美",
+    "summary_zh": ""
+  },
+  {
+    "title": "Stock Split Watch: Is Eli Lilly (LLY) Stock Next?",
+    "url": "https://www.fool.com/investing/2026/08/21/stock-split-watch-is-eli-lilly-lly-stock-next/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Shares recently traded at $1,280 each, so a split wouldn't be surprising.",
+    "published_at": "2026-08-21T22:45:00+08:00",
+    "stocks": [
+      "LLY"
+    ],
+    "uid": "69504122140360d26309d3faadd8209f",
+    "title_en": "Stock Split Watch: Is Eli Lilly (LLY) Stock Next?",
+    "summary_en": "Shares recently traded at $1,280 each, so a split wouldn't be surprising.",
+    "title_zh": "股票分割觀察：禮來 (LLY) 股票是下一個嗎？",
+    "summary_zh": "最近該股的交易價格為每股 1,280 美元，因此分股也就不足為奇了。"
+  },
+  {
+    "title": "4 memory stocks are darlings of the AI boom. How they differ and why we own Micron",
+    "url": "https://www.cnbc.com/2026/08/21/4-memory-stocks-are-darlings-of-the-ai-boom-how-they-differ-and-why-we-own-micron.html",
+    "source": "CNBC Top",
+    "summary": "While often trading together, these companies are not the same.",
+    "published_at": "2026-08-21T22:44:02+08:00",
+    "stocks": [],
+    "uid": "19ba8c2f1f65f651509963654b6a994f",
+    "title_en": "4 memory stocks are darlings of the AI boom. How they differ and why we own Micron",
+    "summary_en": "While often trading together, these companies are not the same.",
+    "title_zh": "4檔內存股是人工智慧熱潮中的寵兒。它們有何不同以及我們為何擁有美光科技",
+    "summary_zh": "雖然這些公司經常在一起交易，但它們並不相同。"
+  },
+  {
+    "title": "RoadOne expands Port of Charleston operations with acquisition",
+    "url": "https://finance.yahoo.com/small-business/articles/roadone-expands-port-charleston-operations-144056971.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-21T22:40:56+08:00",
+    "stocks": [],
+    "uid": "15a59ee4d3f2263696a4ca30d7c5aad0",
+    "title_en": "RoadOne expands Port of Charleston operations with acquisition",
+    "summary_en": "",
+    "title_zh": "RoadOne 透過收購擴大查爾斯頓港業務",
+    "summary_zh": ""
+  },
+  {
+    "title": "Nvidia Earnings Preview: What's Needed To Drive Nvidia Stock Higher?",
+    "url": "https://www.investors.com/news/technology/nvidia-stock-nvda-preview-fiscal-q2-2027-earnings/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-21T22:40:44+08:00",
+    "stocks": [],
+    "uid": "9c0743ea93fe029e3b8b1b4af56ae6b4"
+  },
+  {
+    "title": "Florida real estate mogul says your home is ‘a terrible investment’ — and he’d put $100K somewhere else. Is he right?",
+    "url": "https://finance.yahoo.com/real-estate/articles/florida-real-estate-mogul-says-144000147.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-21T22:40:00+08:00",
+    "stocks": [],
+    "uid": "79f6bd632f634d9e2e6f3022290a1216"
+  },
+  {
+    "title": "Stock Market Rally Buckles; Moderna, Gold, Bitcoin Surge While Walmart Tumbles: Weekly Review",
+    "url": "https://www.investors.com/news/stock-market-rally-buckles-moderna-gold-bitcoin-surge-walmart-tumbles/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-21T22:31:51+08:00",
+    "stocks": [],
+    "uid": "5453b19f5a4d618def492e56255b673d"
+  },
+  {
+    "title": "CRISPR Therapeutics Stock Is Up Only 8% This Year. Is Cathie Wood's Bet on the Gene-Editing Stock Dead Money?",
+    "url": "https://www.fool.com/investing/2026/08/21/crispr-therapeutics-stock-is-up-only-8-this-year/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This year, the biotech stock has underperformed both the Nasdaq Biotechnology Index and the S&amp;P 500.",
+    "published_at": "2026-08-21T22:30:00+08:00",
+    "stocks": [],
+    "uid": "d7b53f6c2f160f5b9957bb41aa745261"
+  },
+  {
+    "title": "Star Equity (STRR) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/21/star-equity-strr-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Energy Services EBITDA surged 126% as Building Solutions faced construction market pressure.",
+    "published_at": "2026-08-21T22:22:51+08:00",
+    "stocks": [
+      "STRR"
+    ],
+    "uid": "4e5a762d9a22b887c0782effe47d5b76"
+  },
+  {
     "title": "BRA INN Introduces Personalized Undergarment Consultation and Body Analysis Service in Hong Kong",
     "url": "https://markets.businessinsider.com/news/stocks/bra-inn-introduces-personalized-undergarment-consultation-and-body-analysis-service-in-hong-kong-1036482857",
     "source": "Business Insider",
@@ -11,6 +385,33 @@
     "summary_en": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;center&quot;&gt;&lt;img alt=&quot;BRA INN&quot; height=&quot;304&quot; src=&quot;https://ml.globenewswire.com/Resource/Download/09f2c2cd-cc5f-4600-ab3a-cd657e4e583c/article-image-1000250935-jpg.jpg&quot; width=&quot;480&quot; data-dpi=&quot;72&quot; data-caption=&quot;BRA INN&quot; data-filename=&quot;Article...",
     "title_zh": "BRA INN 在香港推出個人化內衣諮詢及身體分析服務",
     "summary_zh": "<link type=\"text/css\" rel=\"stylesheet\" href=\"https://www.globenewswire.com/styles/gnw_nitf.css\" /><palign=\"center\"><img alt=\"BRA INN\" height=\"304\" src=\"https://ml.globenewswire.com/Resource/Download/09f2c2cd-cc5f-4600-ab3a-cd657e4e583c/article-image-1000250935-jpg.jpg\" widcapth=\"480\" data-data-data\"NN-data-data-data-PNN-capth=\"480\" data-data-data-data-PNN-data-data-data-PNN-data-data-data-data-data-data.\""
+  },
+  {
+    "title": "Indiana family discovers $100K in hidden damage after buying $200K home — Ramsey hosts weigh the $30K gamble to sue",
+    "url": "https://finance.yahoo.com/real-estate/articles/indiana-family-discovers-100k-hidden-141500156.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-21T22:15:00+08:00",
+    "stocks": [],
+    "uid": "5679d84f44f0c86dd15e35a2deb614e9"
+  },
+  {
+    "title": "Crypto Miner Poolin Files For Bankruptcy",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-miner-poolin-files-bankruptcy-141500892.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-21T22:15:00+08:00",
+    "stocks": [],
+    "uid": "44b82b849d0d9c2b3816bb234a77e76c"
+  },
+  {
+    "title": "Looking to Generate Passive Income From Stocks? 3 Magnificent High-Yield Dividend Stocks to Buy Now",
+    "url": "https://www.fool.com/investing/2026/08/21/passive-income-stocks-high-yield-buy/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Three Dividend Kings with 50-plus years of raises could pay you for decades.",
+    "published_at": "2026-08-21T22:15:00+08:00",
+    "stocks": [],
+    "uid": "6571de417120f796f471e474c6333862"
   },
   {
     "title": "Earnings call transcript: Implantica Q2 2026 sales rise 66% as FDA approval lifts outlook",
@@ -205,6 +606,15 @@
     "published_at": "2026-08-21T22:05:45+08:00",
     "stocks": [],
     "uid": "c3651bcd90da5fe4975ac88b16c5c0d4"
+  },
+  {
+    "title": "Analysts Dividend On Where Bitcoin Goes From Here",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/analysts-dividend-where-bitcoin-goes-140500964.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-21T22:05:00+08:00",
+    "stocks": [],
+    "uid": "b9dd220e0963b930c28541112c0ad131"
   },
   {
     "title": "Bitcoin’s Surge Leaves Strategy With $1.4 Billion Profit",
@@ -488,6 +898,17 @@
     "published_at": "2026-08-21T21:33:34+08:00",
     "stocks": [],
     "uid": "a756564b629505e58e22b7d231f12d9c"
+  },
+  {
+    "title": "Applied Industrial’s (AIT) Record Quarter Reignites The Growth Story",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/applied-industrial-ait-record-quarter-133259038.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-21T21:32:59+08:00",
+    "stocks": [
+      "AIT"
+    ],
+    "uid": "1827e4ae73c662d5fdda482e5efb7f14"
   },
   {
     "title": "Applovin Corp stock hits 52-week low at 303.01 USD",
@@ -3941,6 +4362,15 @@
     "summary_en": "Credo Technology is riding the AI infrastructure boom, but how much upside is already priced in? See how our analysts rate the business, management, financials, valuation, and risk.",
     "title_zh": "Credo Technology：人工智慧基礎設施贏家，還有發展空間嗎？",
     "summary_zh": "Credo Technology 正乘著人工智慧基礎設施的熱潮，但價格中已經體現了多少上漲空間？了解我們的分析師如何評價業務、管理、財務、估值和風險。"
+  },
+  {
+    "title": "AT&T stands to gain as Verizon loses a customer related battle",
+    "url": "https://finance.yahoo.com/technology/articles/t-stands-gain-verizon-loses-230000780.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-21T07:00:00+08:00",
+    "stocks": [],
+    "uid": "31b282d00466cf513a8f43da104ca9b4"
   },
   {
     "title": "Tenon Medical (TNON) Q2 2026 Earnings Call Transcript",
@@ -335512,6 +335942,15 @@
     "summary_en": "",
     "title_zh": "通貨膨脹如何影響儲蓄：這是您需要擊敗的利率",
     "summary_zh": ""
+  },
+  {
+    "title": "Is bitcoin's price volatility an investing opportunity? How to buy bitcoin.",
+    "url": "https://finance.yahoo.com/personal-finance/investing/article/how-to-buy-bitcoin-222211772.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-02-20T06:22:11+08:00",
+    "stocks": [],
+    "uid": "3f9e8477b25e8c64a5d924d2f6e06708"
   },
   {
     "title": "The complete list of credit card perks that reset each calendar year (2026)",
