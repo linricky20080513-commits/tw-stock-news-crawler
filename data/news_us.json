@@ -1,5 +1,27 @@
 [
   {
+    "title": "Reform UK infighting complicates Farage’s push to prepare party to govern",
+    "url": "https://www.investing.com/news/economy-news/reform-uk-infighting-complicates-farages-push-to-prepare-party-to-govern-4872304",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-22T13:56:35+08:00",
+    "stocks": [],
+    "uid": "c660543dc41913c10908a82d01060164"
+  },
+  {
+    "title": "Still Sitting in Cash? Here's How Much $10,000 Could Cost You Over the Next 10 Years.",
+    "url": "https://www.fool.com/investing/2026/08/22/still-in-cash-how-much-10000-cost-you-10-years/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Cash can be attractive in the near term. It usually ends up being a drag on the portfolio in the long term.",
+    "published_at": "2026-08-22T13:30:00+08:00",
+    "stocks": [],
+    "uid": "7f6b3fe9b29da64f59652d03f37c0183",
+    "title_en": "Still Sitting in Cash? Here's How Much $10,000 Could Cost You Over the Next 10 Years.",
+    "summary_en": "Cash can be attractive in the near term. It usually ends up being a drag on the portfolio in the long term.",
+    "title_zh": "還在持有現金嗎？以下是 10,000 美元在未來 10 年可能花費您的費用。",
+    "summary_zh": "現金在短期內可能具有吸引力。從長遠來看，它通常最終會拖累投資組合。"
+  },
+  {
     "title": "Breaking down the U.S.-Japan “currency alliance”",
     "url": "https://www.investing.com/news/forex-news/breaking-down-the-usjapan-currency-alliance-4872302",
     "source": "Investing.com",
@@ -11,6 +33,32 @@
     "summary_en": "",
     "title_zh": "美日「貨幣聯盟」的破裂",
     "summary_zh": ""
+  },
+  {
+    "title": "Six investors reveal the biggest market risks — and one strategy they agree on",
+    "url": "https://www.cnbc.com/2026/08/22/investors-market-risks-diversification-stocks-kospi.html",
+    "source": "CNBC Top",
+    "summary": "Investors see different risks threatening markets, but broadly agree that traders should diversify beyond recent winners.",
+    "published_at": "2026-08-22T13:00:01+08:00",
+    "stocks": [],
+    "uid": "37952803003b6c6c9e40297d415c0138",
+    "title_en": "Six investors reveal the biggest market risks — and one strategy they agree on",
+    "summary_en": "Investors see different risks threatening markets, but broadly agree that traders should diversify beyond recent winners.",
+    "title_zh": "六位投資者揭示了最大的市場風險——以及他們同意的策略",
+    "summary_zh": "投資者認為不同的風險威脅市場，但普遍認為交易者應該在近期的贏家之外進行多元化投資。"
+  },
+  {
+    "title": "AMD Investors Must Be Ready For Major News On Aug. 26",
+    "url": "https://www.fool.com/investing/2026/08/22/amd-investors-must-be-ready-for-major-news-on-aug/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "AMD and Nvidia are closely linked.",
+    "published_at": "2026-08-22T13:00:00+08:00",
+    "stocks": [],
+    "uid": "0e76dde399bd3187001b6db4bfbc2a2b",
+    "title_en": "AMD Investors Must Be Ready For Major News On Aug. 26",
+    "summary_en": "AMD and Nvidia are closely linked.",
+    "title_zh": "AMD 投資者必須為 8 月 26 日的重大新聞做好準備",
+    "summary_zh": "AMD 和 Nvidia 有著密切的聯繫。"
   },
   {
     "title": "Pentagon removes Stars and Stripes newspaper leadership",
@@ -4857,7 +4905,11 @@
     "stocks": [
       "RLX"
     ],
-    "uid": "338dba895ef0ab5f47b0b1ca546f4c78"
+    "uid": "338dba895ef0ab5f47b0b1ca546f4c78",
+    "title_en": "RLX Technology (RLX) Q2 2026 Earnings Call Transcript",
+    "summary_en": "International sales surge 14.8% as RLX expands European distribution and eyes oral nicotine pouches.",
+    "title_zh": "RLX Technology (RLX) 2026 年第二季財報電話會議紀錄",
+    "summary_zh": "隨著 RLX 擴大歐洲分銷和眼睛口服尼古丁袋，國際銷售額激增 14.8%。"
   },
   {
     "title": "Social Security Survivor Benefits: 3 Key Things to Know",
@@ -7861,6 +7913,34 @@
     "summary_zh": "隨著更多股票可在納斯達克交易，貝萊德 (BlackRock) 和先鋒 (Vanguard) ETF 將在 SpaceX 上市。"
   },
   {
+    "title": "Workday (WDAY) Just Had its Best Trading Day in a Decade. Here’s Why Silver Lake Wants In",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/workday-wday-just-had-best-235327561.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-21T07:53:27+08:00",
+    "stocks": [
+      "WDAY"
+    ],
+    "uid": "69c60030aec17c5820f9d70a886d6def",
+    "title_en": "Workday (WDAY) Just Had its Best Trading Day in a Decade. Here’s Why Silver Lake Wants In",
+    "summary_en": "",
+    "title_zh": "工作日（WDAY）剛剛經歷了十年來最好的交易日。這就是銀湖想要加入的原因",
+    "summary_zh": ""
+  },
+  {
+    "title": "Bessent Promises a New Fiscal Plan as His Bond Market Intervention Fizzles",
+    "url": "https://finance.yahoo.com/economy/policy/articles/bessent-promises-fiscal-plan-bond-234751950.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-21T07:47:51+08:00",
+    "stocks": [],
+    "uid": "3cf244993d1a6976389d241824ebe4c5",
+    "title_en": "Bessent Promises a New Fiscal Plan as His Bond Market Intervention Fizzles",
+    "summary_en": "",
+    "title_zh": "債券市場幹預失敗後貝森特承諾新財政計劃",
+    "summary_zh": ""
+  },
+  {
     "title": "Why ServiceNow Stock Topped the Market on Thursday",
     "url": "https://www.fool.com/investing/2026/08/20/why-servicenow-stock-topped-the-market-on-thursday/?source=iedfolrf0000001",
     "source": "Motley Fool",
@@ -7943,6 +8023,15 @@
     "summary_zh": "由於營運成本下降以及 FDA 提交申請的推進，淨虧損收窄至 630 萬美元。"
   },
   {
+    "title": "Bill Ackman Loves This Dividend Stock, But You Should Give It a Pass",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-loves-dividend-stock-233002327.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-21T07:30:02+08:00",
+    "stocks": [],
+    "uid": "e3bf2d03c0dbe5d238c0e4720ab8e353"
+  },
+  {
     "title": "Blaize (BZAI) Q2 2026 Earnings Call Transcript",
     "url": "https://www.fool.com/earnings/call-transcripts/2026/08/20/blaize-bzai-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
     "source": "Motley Fool",
@@ -7956,6 +8045,50 @@
     "summary_en": "Revenue guidance cut to $40 million–$43 million as memory costs rise and customer timelines extend.",
     "title_zh": "Blaize (BZAI) 2026 年第二季財報電話會議紀錄",
     "summary_zh": "隨著記憶體成本上升和客戶交付時間延長，收入指引削減至 4,000 萬至 4,300 萬美元。"
+  },
+  {
+    "title": "Want ADSK Stock 30% Cheaper? Get Paid 11% A Year While You Wait",
+    "url": "https://finance.yahoo.com/markets/options/articles/want-adsk-stock-30-cheaper-232706759.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-21T07:27:06+08:00",
+    "stocks": [],
+    "uid": "a635b9e40c8b71cc0dba7896700a6872",
+    "title_en": "Want ADSK Stock 30% Cheaper? Get Paid 11% A Year While You Wait",
+    "summary_en": "",
+    "title_zh": "想要 ADSK 股票便宜 30%？在等待期間每年獲得 11% 的報酬",
+    "summary_zh": ""
+  },
+  {
+    "title": "Eton Pharmaceuticals (ETON) Q2 2026 Earnings Call Transcript",
+    "url": "https://finance.yahoo.com/healthcare/articles/eton-pharmaceuticals-eton-q2-2026-232703174.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-21T07:27:03+08:00",
+    "stocks": [
+      "ETON"
+    ],
+    "uid": "1b303518732d316407840f78554d0a2f",
+    "title_en": "Eton Pharmaceuticals (ETON) Q2 2026 Earnings Call Transcript",
+    "summary_en": "",
+    "title_zh": "伊頓製藥 (ETON) 2026 年第二季收益電話會議記錄",
+    "summary_zh": ""
+  },
+  {
+    "title": "Lenovo Group Limited (LNVGY) and Intel Corporation (INTC) are Both Riding the AI Hardware Boom. One Just Posted a Loss Anyway",
+    "url": "https://finance.yahoo.com/technology/ai/articles/lenovo-group-limited-lnvgy-intel-232453667.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-21T07:24:53+08:00",
+    "stocks": [
+      "LNVGY",
+      "INTC"
+    ],
+    "uid": "116ee501af2751ef25efcfc634a86857",
+    "title_en": "Lenovo Group Limited (LNVGY) and Intel Corporation (INTC) are Both Riding the AI Hardware Boom. One Just Posted a Loss Anyway",
+    "summary_en": "",
+    "title_zh": "聯想集團有限公司（LNVGY）和英特爾公司（INTC）都受益於人工智慧硬體的繁榮。無論如何，一個剛剛發布了損失",
+    "summary_zh": ""
   },
   {
     "title": "Caliber (CWD) Q2 2026 Earnings Call Transcript",
@@ -7988,6 +8121,21 @@
     "summary_zh": "由於管理層目標是在 2027 年中期實現損益平衡，VDR 收入猛增 71%。"
   },
   {
+    "title": "TechPrecision (TPCS) Q1 2027 Earnings Call Transcript",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/techprecision-tpcs-q1-2027-earnings-232232872.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-21T07:22:32+08:00",
+    "stocks": [
+      "TPCS"
+    ],
+    "uid": "2a6d1653d5f015490a8ee8e2d9df71a4",
+    "title_en": "TechPrecision (TPCS) Q1 2027 Earnings Call Transcript",
+    "summary_en": "",
+    "title_zh": "TechPrecision (TPCS) 2027 年第一季財報電話會議紀錄",
+    "summary_zh": ""
+  },
+  {
     "title": "Afya (AFYA) Q2 2026 Earnings Call Transcript",
     "url": "https://www.fool.com/earnings/call-transcripts/2026/08/20/afya-afya-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
     "source": "Motley Fool",
@@ -8001,6 +8149,35 @@
     "summary_en": "Medical education revenue grew 7% amid AI competition in clinical tools.",
     "title_zh": "健康 (HEALTH) 2026 年第二季收益電話會議記錄",
     "summary_zh": "在臨床工具領域的人工智慧競爭中，醫學教育收入成長了 7%。"
+  },
+  {
+    "title": "AT&T (T) Says It’s Not Scared of the “Token Apocalypse.” NVIDIA Corporation (NVDA)’s CEO Is Cheering the Same Trend",
+    "url": "https://finance.yahoo.com/technology/ai/articles/t-t-says-not-scared-231933381.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-21T07:19:33+08:00",
+    "stocks": [
+      "T",
+      "NVDA"
+    ],
+    "uid": "fe97a4794a1a61b808c4d3910ab966e7",
+    "title_en": "AT&T (T) Says It’s Not Scared of the “Token Apocalypse.” NVIDIA Corporation (NVDA)’s CEO Is Cheering the Same Trend",
+    "summary_en": "",
+    "title_zh": "AT&T (T) 表示不害怕「代幣末日」。 NVIDIA 公司 (NVDA) 的執行長也對同樣的趨勢表示歡迎",
+    "summary_zh": ""
+  },
+  {
+    "title": "T-Mobile suffers a loss as competition for customers intensifies",
+    "url": "https://finance.yahoo.com/technology/articles/t-mobile-suffers-loss-competition-231700300.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-21T07:17:00+08:00",
+    "stocks": [],
+    "uid": "b0f79245e9bd3fdd1f6fef106739fde6",
+    "title_en": "T-Mobile suffers a loss as competition for customers intensifies",
+    "summary_en": "",
+    "title_zh": "由於客戶競爭加劇，T-Mobile 蒙受損失",
+    "summary_zh": ""
   },
   {
     "title": "AudioEye (AEYE) Q2 2026 Earnings Call Transcript",
@@ -8031,6 +8208,21 @@
     "summary_en": "Phase 3 trials for rezpegaldesleukin advance in atopic dermatitis and alopecia areata.",
     "title_zh": "Nektar (NKTR) 2026 年第二季財報電話會議紀錄",
     "summary_zh": "rezpegaldesleukin 在 3 期異位性皮膚炎和斑禿方面取得進展的試驗。"
+  },
+  {
+    "title": "Apple Inc. (AAPL) Wants to Pay Publishers to Fix Siri. What’s the Catch?",
+    "url": "https://finance.yahoo.com/technology/ai/articles/apple-inc-aapl-wants-pay-231402505.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-21T07:14:02+08:00",
+    "stocks": [
+      "AAPL"
+    ],
+    "uid": "a25834434f9cada3c0b0e87bd8c7cdd9",
+    "title_en": "Apple Inc. (AAPL) Wants to Pay Publishers to Fix Siri. What’s the Catch?",
+    "summary_en": "",
+    "title_zh": "蘋果 (AAPL) 希望向出版商付費以修復 Siri。有什麼問題？",
+    "summary_zh": ""
   },
   {
     "title": "StoneCo (STNE) Q2 2026 Earnings Call Transcript",
@@ -8106,6 +8298,22 @@
     "summary_zh": ""
   },
   {
+    "title": "Can Abbott Laboratories (ABT)’s Instinct Sensor Give MiniMed Group (MMED) a Competitive Edge?",
+    "url": "https://finance.yahoo.com/healthcare/articles/abbott-laboratories-abt-instinct-sensor-230447435.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-21T07:04:47+08:00",
+    "stocks": [
+      "ABT",
+      "MMED"
+    ],
+    "uid": "83ae1ae4913e97e640446dc34611d441",
+    "title_en": "Can Abbott Laboratories (ABT)’s Instinct Sensor Give MiniMed Group (MMED) a Competitive Edge?",
+    "summary_en": "",
+    "title_zh": "Abbott Laboratories (ABT) 的 Instinct 感測器能否為 MiniMed Group (MMED) 帶來競爭優勢？",
+    "summary_zh": ""
+  },
+  {
     "title": "TechPrecision (TPCS) Q1 2027 Earnings Call Transcript",
     "url": "https://www.fool.com/earnings/call-transcripts/2026/08/20/techprecision-tpcs-q1-2027-earnings-call-transcript/?source=iedfolrf0000001",
     "source": "Motley Fool",
@@ -8118,6 +8326,19 @@
     "title_en": "TechPrecision (TPCS) Q1 2027 Earnings Call Transcript",
     "summary_en": "Revenue jumped 23% as defense contractor executes turnaround at Stadco subsidiary.",
     "title_zh": "TechPrecision (TPCS) 2027 年第一季財報電話會議紀錄",
+    "summary_zh": ""
+  },
+  {
+    "title": "AI reshapes India's IT services sector contracts as clients demand more for less",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ai-reshapes-indias-services-sector-230207347.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-21T07:02:07+08:00",
+    "stocks": [],
+    "uid": "e2c6305e9a10e60c94fb75e3ead6efbe",
+    "title_en": "AI reshapes India's IT services sector contracts as clients demand more for less",
+    "summary_en": "",
+    "title_zh": "隨著客戶要求更少，人工智慧重塑印度 IT 服務業合約",
     "summary_zh": ""
   },
   {
@@ -8170,6 +8391,22 @@
     "title_en": "Medalist Diversified CFO buys $862 in company stock",
     "summary_en": "",
     "title_zh": "Medalist Diversified CFO 購買 862 美元的公司股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Is AerCap Holdings N.V. (AER) a Better Aviation Investment Than The Boeing Company (BA)?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/aercap-holdings-n-v-aer-230100144.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-21T07:01:00+08:00",
+    "stocks": [
+      "AER",
+      "BA"
+    ],
+    "uid": "ad003606c3115c7c38b806b5895b8960",
+    "title_en": "Is AerCap Holdings N.V. (AER) a Better Aviation Investment Than The Boeing Company (BA)?",
+    "summary_en": "",
+    "title_zh": "AerCap Holdings N.V. (AER) 是比波音公司 (BA) 更好的航空投資嗎？",
     "summary_zh": ""
   },
   {
@@ -8570,7 +8807,11 @@
       "LHX",
       "LUNR"
     ],
-    "uid": "41e552d57e2b65b46145719e42e076ec"
+    "uid": "41e552d57e2b65b46145719e42e076ec",
+    "title_en": "Could L3Harris Technologies (LHX)’a Stability Outweigh Intuitive Machines. (LUNR)’s Explosive Growth?",
+    "summary_en": "",
+    "title_zh": "L3Harris Technologies (LHX) 的穩定性能否勝過直覺的機器？ （LUNR）的爆炸性成長？",
+    "summary_zh": ""
   },
   {
     "title": "Corn Holds Higher on Thursday as December Breaches $5",
@@ -8579,7 +8820,11 @@
     "summary": "",
     "published_at": "2026-08-21T06:18:52+08:00",
     "stocks": [],
-    "uid": "311786cce2b14aa64031bdaa4375652a"
+    "uid": "311786cce2b14aa64031bdaa4375652a",
+    "title_en": "Corn Holds Higher on Thursday as December Breaches $5",
+    "summary_en": "",
+    "title_zh": "週四玉米價格上漲，12 月價格突破 5 美元",
+    "summary_zh": ""
   },
   {
     "title": "The U.S. Just Hit $40 Trillion in Debt — 2 Years Ahead of Schedule. Here's What Investors Need to Know.",
@@ -8601,7 +8846,11 @@
     "summary": "",
     "published_at": "2026-08-21T06:15:45+08:00",
     "stocks": [],
-    "uid": "0a99dc78e5e3bcb67a3af3254037a90a"
+    "uid": "0a99dc78e5e3bcb67a3af3254037a90a",
+    "title_en": "The IRS Makes You Sell Whether the Market Is Up or Down. These 3 ETFs Fund the RMD Without Touching a Share",
+    "summary_en": "",
+    "title_zh": "無論市場上漲或下跌，國稅局都會讓您出售。這 3 隻 ETF 為 RMD 提供資金，但不涉及股票",
+    "summary_zh": ""
   },
   {
     "title": "“I Warned Them. It Will Get Much Worse.” Elon Musk’s Stark Message for Delta Gains Traction",
@@ -8610,7 +8859,11 @@
     "summary": "",
     "published_at": "2026-08-21T06:14:37+08:00",
     "stocks": [],
-    "uid": "d9ff93fe176eb0b72646d34c937f7759"
+    "uid": "d9ff93fe176eb0b72646d34c937f7759",
+    "title_en": "“I Warned Them. It Will Get Much Worse.” Elon Musk’s Stark Message for Delta Gains Traction",
+    "summary_en": "",
+    "title_zh": "「我警告過他們。情況會變得更糟。」伊隆馬斯克對達美航空發出的嚴厲訊息引起關注",
+    "summary_zh": ""
   },
   {
     "title": "TSS (TSSI) Q2 2026 Earnings Call Transcript",
@@ -8621,7 +8874,11 @@
     "stocks": [
       "TSSI"
     ],
-    "uid": "e8079d0f89307c02f8b63597d7d386f2"
+    "uid": "e8079d0f89307c02f8b63597d7d386f2",
+    "title_en": "TSS (TSSI) Q2 2026 Earnings Call Transcript",
+    "summary_en": "",
+    "title_zh": "TSS (TSSI) 2026 年第二季財報電話會議紀錄",
+    "summary_zh": ""
   },
   {
     "title": "Innventure (INV) Q2 2026 Earnings Call Transcript",
@@ -8632,7 +8889,11 @@
     "stocks": [
       "INV"
     ],
-    "uid": "fa5adfe07269579da401f87b3974e104"
+    "uid": "fa5adfe07269579da401f87b3974e104",
+    "title_en": "Innventure (INV) Q2 2026 Earnings Call Transcript",
+    "summary_en": "",
+    "title_zh": "Innventure (INV) 2026 年第二季財報電話會議紀錄",
+    "summary_zh": ""
   },
   {
     "title": "Does NVIDIA Corporation (NVDA)’s AI Dominance Leave Any Room for International Business (IBM) to Catch Up?",
@@ -8644,7 +8905,11 @@
       "NVDA",
       "IBM"
     ],
-    "uid": "7733732c37d2e4c6f3de7d74ab462d0f"
+    "uid": "7733732c37d2e4c6f3de7d74ab462d0f",
+    "title_en": "Does NVIDIA Corporation (NVDA)’s AI Dominance Leave Any Room for International Business (IBM) to Catch Up?",
+    "summary_en": "",
+    "title_zh": "NVIDIA 公司 (NVDA) 的 AI 主導地位是否為國際企業 (IBM) 留下了追趕的空間？",
+    "summary_zh": ""
   },
   {
     "title": "Capricor (CAPR) Q2 2026 Earnings Call Transcript",
@@ -8671,7 +8936,11 @@
       "MRK",
       "EVAX"
     ],
-    "uid": "e0eaafee3545249609234fdb48aa676d"
+    "uid": "e0eaafee3545249609234fdb48aa676d",
+    "title_en": "Can Merck & Company (MRK)’s Stake in Evaxion A/S (EVAX) Validate the Potential of AI-Driven Vaccine Discovery?",
+    "summary_en": "",
+    "title_zh": "默克 (MRK) 入股 Evaxion A/S (EVAX) 能否驗證人工智慧驅動疫苗研發的潛力？",
+    "summary_zh": ""
   },
   {
     "title": "Mariana, 18 more Brazil cities join Vale-BHP dam collapse compensation deal",
@@ -8745,7 +9014,11 @@
     "summary": "",
     "published_at": "2026-08-21T06:00:00+08:00",
     "stocks": [],
-    "uid": "dab838cf189b520b787f07e28e847eaf"
+    "uid": "dab838cf189b520b787f07e28e847eaf",
+    "title_en": "Hormuz Oil Crisis Accelerates Global EV Sales",
+    "summary_en": "",
+    "title_zh": "霍爾木茲石油危機加速全球電動車銷售",
+    "summary_zh": ""
   },
   {
     "title": "TSS (TSSI) Q2 2026 Earnings Call Transcript",
