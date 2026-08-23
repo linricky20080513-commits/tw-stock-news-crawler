@@ -1,5 +1,635 @@
 [
   {
+    "title": "SK Hynix Is Buying Back 3.3% of Its Shares and Canceling Every One",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-buying-back-3-205701464.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-24T04:57:01+08:00",
+    "stocks": [],
+    "uid": "6f4a5de67b960228b1fbc0df9c9c7cb3"
+  },
+  {
+    "title": "CHAT vs. FTEC: Is Concentrated AI Exposure or Broad Tech Diversification the Better Play Right Now?",
+    "url": "https://finance.yahoo.com/technology/ai/articles/chat-vs-ftec-concentrated-ai-205433050.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-24T04:54:33+08:00",
+    "stocks": [],
+    "uid": "73d9ce26d1739fb8e1d9b71ad84200ce"
+  },
+  {
+    "title": "The Custodial Account You Opened for Your Grandson Becomes Legally His the Day He Turns 21, and He Can Spend It on a Car. A 529 Never Does.",
+    "url": "https://finance.yahoo.com/markets/currencies/articles/custodial-account-opened-grandson-becomes-204323678.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-24T04:43:23+08:00",
+    "stocks": [],
+    "uid": "c0cdb53820e3b84e214cb3ae7912bca0"
+  },
+  {
+    "title": "This Company Just Paid Out $6.8 Billion. Its AI Bill Was 4x That",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/company-just-paid-6-8-203855489.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-24T04:38:55+08:00",
+    "stocks": [],
+    "uid": "0b6a5d540506fff2d1ee16014eaf4557"
+  },
+  {
+    "title": "SK Hynix Is Buying Back 3.3% of Its Shares and Canceling Every One",
+    "url": "https://www.fool.com/investing/2026/08/23/sk-hynix-is-buying-back-3-3-of-its-shares-and-canceling-every-one/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The memory giant is retiring roughly one share in every 30 -- and it says its shareholder-return target is moving from a ceiling to a floor.",
+    "published_at": "2026-08-24T04:37:01+08:00",
+    "stocks": [],
+    "uid": "db00a9de4d3123dda8f9db61ccfdcf5c"
+  },
+  {
+    "title": "If a Bear Market Is Coming, Here's What All of the Smartest Investors Are Doing Right Now",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bear-market-coming-heres-smartest-203500789.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-24T04:35:00+08:00",
+    "stocks": [],
+    "uid": "1d380d6152f62b4859fdfcac88df4f5b"
+  },
+  {
+    "title": "CHAT vs. FTEC: Is Concentrated AI Exposure or Broad Tech Diversification the Better Play Right Now?",
+    "url": "https://www.fool.com/coverage/etfs/2026/08/23/chat-vs-ftec-is-concentrated-ai-exposure-or-broad-tech-diversification-the-better-play-right-now/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Here's how these two tech funds compare in terms of risk, returns, and diversification.",
+    "published_at": "2026-08-24T04:34:33+08:00",
+    "stocks": [],
+    "uid": "814b5e6227b7757f365722c6ca796874"
+  },
+  {
+    "title": "Japan’s stock market setup looks similar to late 2023. Here’s what it means",
+    "url": "https://www.investing.com/news/stock-market-news/japans-stock-market-setup-looks-similar-to-late-2023-heres-what-it-means-4872475",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-24T04:34:32+08:00",
+    "stocks": [],
+    "uid": "d945fb774bf8b82da4784148a235f01b"
+  },
+  {
+    "title": "UBS revamps S&P 500 target for rest of 2026",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-revamps-p-500-target-202300404.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-24T04:23:00+08:00",
+    "stocks": [],
+    "uid": "e72628bf0341f85b0f65d22d87080a3b"
+  },
+  {
+    "title": "Better Dividend King to Buy Right Now: Abbott Labs or Johnson & Johnson?",
+    "url": "https://finance.yahoo.com/healthcare/articles/better-dividend-king-buy-now-202000465.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-24T04:20:00+08:00",
+    "stocks": [],
+    "uid": "3732df0390243b80093aac0496ac977e"
+  },
+  {
+    "title": "If a Bear Market Is Coming, Here's What All of the Smartest Investors Are Doing Right Now",
+    "url": "https://www.fool.com/investing/2026/08/23/if-a-bear-market-is-coming-heres-what-all-of-the-s/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "There is a bear market waiting to pounce at some point in the future, so you'll want to act now to make sure you avoid panicking.",
+    "published_at": "2026-08-24T04:15:00+08:00",
+    "stocks": [],
+    "uid": "e8caddb3aba9129c0c1156346dc2a4cc"
+  },
+  {
+    "title": "Oracle vs. Amazon: Which Is the Better AI Cloud Stock to Own for the Next 5 Years?",
+    "url": "https://finance.yahoo.com/technology/ai/articles/oracle-vs-amazon-better-ai-201300850.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-24T04:13:00+08:00",
+    "stocks": [],
+    "uid": "7410c7f0a4ddd9565ad2a5348cdfb96d"
+  },
+  {
+    "title": "$22 Billion in Customer Deposits Did Not Stop This Chip CEO From Selling $37 Million",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/22-billion-customer-deposits-did-201236753.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-24T04:12:36+08:00",
+    "stocks": [],
+    "uid": "4a1943ab7631e29d5e3543c0ed69fffb"
+  },
+  {
+    "title": "Billionaire Druckenmiller makes cancer stock his #1 buy for a reason",
+    "url": "https://finance.yahoo.com/healthcare/articles/billionaire-druckenmiller-makes-cancer-stock-200700848.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-24T04:07:00+08:00",
+    "stocks": [],
+    "uid": "a64a9f627df0f205bafb3498824a4780"
+  },
+  {
+    "title": "After Buying Circle Through a 42% Drop, Cathie Wood Says Analysts Cannot Fathom It",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/buying-circle-42-drop-cathie-200021183.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-24T04:00:21+08:00",
+    "stocks": [],
+    "uid": "3b399738343bc0008e4f7d55b7f097a1"
+  },
+  {
+    "title": "Better Dividend King to Buy Right Now: Abbott Labs or Johnson & Johnson?",
+    "url": "https://www.fool.com/investing/2026/08/23/better-dividend-king-to-buy-right-now-abbott-labs/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "These two high-quality dividend payers have had very different fortunes recently.",
+    "published_at": "2026-08-24T04:00:00+08:00",
+    "stocks": [],
+    "uid": "359c56f3194f8854cc2949f8b51cb525"
+  },
+  {
+    "title": "Gilead’s Revenue Is Accelerating, But are its Acquisitions Worth the Cost?",
+    "url": "https://finance.yahoo.com/healthcare/articles/gilead-revenue-accelerating-acquisitions-worth-195747159.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-24T03:57:47+08:00",
+    "stocks": [],
+    "uid": "5bd3f7e684a95f8925f9eece96300539"
+  },
+  {
+    "title": "Pfizer vs. Gilead: Which Drugmaker Has the Stronger Growth Story?",
+    "url": "https://finance.yahoo.com/healthcare/articles/pfizer-vs-gilead-drugmaker-stronger-195408536.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-24T03:54:08+08:00",
+    "stocks": [],
+    "uid": "2be34518521b89535c0798d8d858a918"
+  },
+  {
+    "title": "Oracle vs. Amazon: Which Is the Better AI Cloud Stock to Own for the Next 5 Years?",
+    "url": "https://www.fool.com/investing/2026/08/23/oracle-vs-amazon-which-is-the-better-ai-cloud-stoc/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Oracle has sold off since last fall, but does that make its stock a better bargain than Amazon's?",
+    "published_at": "2026-08-24T03:53:00+08:00",
+    "stocks": [],
+    "uid": "9a12d792d67279e9474a2b1610a4c624"
+  },
+  {
+    "title": "Zoetis Earnings Reveal a Divided Business, But Can its Pipeline Restore Growth?",
+    "url": "https://finance.yahoo.com/healthcare/articles/zoetis-earnings-reveal-divided-business-194924344.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-24T03:49:24+08:00",
+    "stocks": [],
+    "uid": "53b91a41b066675300941e68cca289fc"
+  },
+  {
+    "title": "Medtronic vs. Tenet Healthcare: Which Healthcare Stock Offers Better Long-Term Growth?",
+    "url": "https://finance.yahoo.com/healthcare/articles/medtronic-vs-tenet-healthcare-healthcare-194303713.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-24T03:43:03+08:00",
+    "stocks": [],
+    "uid": "d629fd2a592c00835cca35bb1d3af77d"
+  },
+  {
+    "title": "Italy extends diesel tax cut to Wednesday amid rising fuel prices",
+    "url": "https://www.investing.com/news/commodities-news/italy-extends-diesel-tax-cut-to-wednesday-amid-rising-fuel-prices-93CH-4872473",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-24T03:39:57+08:00",
+    "stocks": [],
+    "uid": "a0815811f508bbef9c8f238505bd303d"
+  },
+  {
+    "title": "AstraZeneca Made a $1.5 Billion Lung Cancer Bet, but Can Zegfrovy Strengthen its Oncology Growth?",
+    "url": "https://finance.yahoo.com/healthcare/articles/astrazeneca-made-1-5-billion-193855181.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-24T03:38:55+08:00",
+    "stocks": [],
+    "uid": "7a0b847f702331794efdf22f6d048975"
+  },
+  {
+    "title": "The Committee for a Responsible Federal Budget Estimates Social Security Cuts for Couples if the System Is Not Fixed",
+    "url": "https://www.fool.com/retirement/2026/08/23/the-committee-for-a-responsible-federal-budget-est/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Many retired couples rely on Social Security income.",
+    "published_at": "2026-08-24T03:30:00+08:00",
+    "stocks": [],
+    "uid": "8b0c1d4f4ba5e3f12cb264347fb75bb7"
+  },
+  {
+    "title": "FHLC vs. PJP: Which Healthcare ETF Is the Better Buy for Investors?",
+    "url": "https://www.fool.com/coverage/etfs/2026/08/23/fhlc-vs-pjp-which-healthcare-etf-is-the-better-buy-for-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Here's how Invesco's concentrated pharma play compares to Fidelity's diversified approach to healthcare stocks.",
+    "published_at": "2026-08-24T03:20:03+08:00",
+    "stocks": [],
+    "uid": "5941c376814d8598065e2d8cfc560f4a"
+  },
+  {
+    "title": "Vistra Is the Quietest Big Winner of the AI Power Boom. Here's Why.",
+    "url": "https://www.fool.com/investing/2026/08/23/vistra-is-the-quietest-big-winner-of-the-ai-power/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Vistra's business model positions it to thrive as data center power demands surge.",
+    "published_at": "2026-08-24T03:19:00+08:00",
+    "stocks": [],
+    "uid": "eaee4fbcee2619574a895112688fb1c0"
+  },
+  {
+    "title": "This Company Has Raised Its Dividend for 72 Straight Years. Almost Nobody Talks About It.",
+    "url": "https://www.fool.com/investing/2026/08/23/this-company-has-raised-its-dividend-for-72-straig/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "American States Water has quietly been increasing its dividend for over 70 years.",
+    "published_at": "2026-08-24T03:08:00+08:00",
+    "stocks": [],
+    "uid": "950630ac4021d76c3504d1d7295b8ced"
+  },
+  {
+    "title": "Prediction: ExxonMobil Raises Its Dividend More Than Wall Street Expects",
+    "url": "https://www.fool.com/investing/2026/08/23/predict-exxonmobil-raise-dividend-more-xom/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "ExxonMobil's recent dividend boosts have been modest, but the oil major could surprise this year.",
+    "published_at": "2026-08-24T02:56:00+08:00",
+    "stocks": [],
+    "uid": "52fb05802eeb7be43dd9d8cd76389500"
+  },
+  {
+    "title": "Why Social Security Can't Be the Center of Your Retirement Income Plan",
+    "url": "https://www.fool.com/retirement/2026/08/23/why-social-security-cant-be-the-center-of-your-ret/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Relying too heavily on those benefits could hurt you.",
+    "published_at": "2026-08-24T02:36:00+08:00",
+    "stocks": [],
+    "uid": "dfffac21ceda2bd7588ef734f3a3531e"
+  },
+  {
+    "title": "2 Energy Stocks Riding the Data Center Power Crunch",
+    "url": "https://www.fool.com/investing/2026/08/23/2-energy-stocks-riding-the-data-center-power-crunc/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "These companies operate in two different phases of the power supply chain and complement each other.",
+    "published_at": "2026-08-24T02:35:00+08:00",
+    "stocks": [],
+    "uid": "df27cc5ba41873b4b8fbaaa67c3b7895"
+  },
+  {
+    "title": "Burry exits Alibaba, builds large JD.com position over valuation concerns",
+    "url": "https://www.investing.com/news/stock-market-news/burry-exits-alibaba-builds-large-jdcom-position-over-valuation-concerns-4872469",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-24T02:23:46+08:00",
+    "stocks": [],
+    "uid": "851515133b7ab01910f8ab676e97fef5"
+  },
+  {
+    "title": "Walmart Just Posted Its Biggest One-Day Drop Since 2022. History Says What Its Big Drops Have Been Worth.",
+    "url": "https://www.fool.com/investing/2026/08/23/walmart-just-posted-its-biggest-one-day-drop-since-2022-history-says-what-its-big-drops-have-been-worth/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The retail giant raised its full-year outlook and still lost 9% in a day. Its three bigger drops of the past 15 years have one thing in common.",
+    "published_at": "2026-08-24T02:18:01+08:00",
+    "stocks": [],
+    "uid": "add37bf33bf9a3021c2dc2652fc7cfed"
+  },
+  {
+    "title": "Billionaires Stanley Druckenmiller and Dan Loeb Both Sold Broadcom and Piled Into This Virtual Monopoly Artificial Intelligence (AI) Stock Instead",
+    "url": "https://www.fool.com/investing/2026/08/23/stanley-druckenmiller-and-dan-loeb-piled-into/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Stanley Druckenmiller and Dan Loeb both completely exited their stakes in Broadcom during the second quarter.",
+    "published_at": "2026-08-24T02:15:00+08:00",
+    "stocks": [],
+    "uid": "b563acfb34deb3e625674782a0006b60"
+  },
+  {
+    "title": "Maker of Clear Eyes Recalls Nearly 40,000 Bottles Over Contamination Risk",
+    "url": "https://www.nytimes.com/2026/08/23/health/clear-eyes-eye-drops-fda-recall.html",
+    "source": "NYT Business",
+    "summary": "Federal safety regulators said the maker of Clear Eyes Maximum Itchy Eye Relief voluntarily recalled the drops because of a “lack of assurance of sterility.”",
+    "published_at": "2026-08-24T02:12:53+08:00",
+    "stocks": [],
+    "uid": "4ce496cbb9521fc54810f9d547b77852"
+  },
+  {
+    "title": "Turkey’s central bank to restart one-week repo auctions",
+    "url": "https://www.investing.com/news/economy-news/turkeys-central-bank-to-restart-oneweek-repo-auctions-93CH-4872468",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-24T02:02:49+08:00",
+    "stocks": [],
+    "uid": "e7411f441af01ca879384b480c4086cb"
+  },
+  {
+    "title": "A Grocery Outlet Insider Purchases 8,000 Shares Amid a 40% Stock Decline",
+    "url": "https://www.fool.com/coverage/filings/2026/08/23/a-grocery-outlet-insider-purchases-8-000-shares-amid-a-40-stock-decline/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The executive's $87,200 buy signals confidence despite company losses and a challenging retail environment.",
+    "published_at": "2026-08-24T02:00:01+08:00",
+    "stocks": [],
+    "uid": "d0ef009d7eb188780acfb63cf12d2a07"
+  },
+  {
+    "title": "Private Equity Is Circling Utilities as AI Reshapes the Grid",
+    "url": "https://finance.yahoo.com/energy/articles/private-equity-circling-utilities-ai-180000273.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-24T02:00:00+08:00",
+    "stocks": [],
+    "uid": "0630875a36bec5ae5dce658894dbf6c7"
+  },
+  {
+    "title": "3 Ways to Maximize Social Security Without Working Longer",
+    "url": "https://www.fool.com/retirement/2026/08/23/x-ways-to-get-more-from-social-security-without/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Maximizing your Social Security benefits can help shore up your financial security -- and there are ways to do it without having to extend your working years.",
+    "published_at": "2026-08-24T02:00:00+08:00",
+    "stocks": [],
+    "uid": "26dd57747e4dcf595e4fc80d1f289b8e"
+  },
+  {
+    "title": "Democratic House leader Jeffries meets with Jared Kushner as midterms loom",
+    "url": "https://www.cnbc.com/2026/08/23/democratic-leader-jeffries-meets-with-jared-kushner-as-midterms-loom.html",
+    "source": "CNBC Top",
+    "summary": "Democrats are currently favored to win a majority in the House of Representatives after November's elections.",
+    "published_at": "2026-08-24T01:58:06+08:00",
+    "stocks": [],
+    "uid": "ec251bfe3605d09c53cb0c50fa3b977d"
+  },
+  {
+    "title": "I Love NuScale Stock for 1 Reason, and It's Not What You Think",
+    "url": "https://www.fool.com/investing/2026/08/23/i-love-nuscale-stock-for-1-reason-and-its-not-what/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "NuScale Power stock could get a massive lift in 2026.",
+    "published_at": "2026-08-24T01:54:00+08:00",
+    "stocks": [],
+    "uid": "0c9384f8899d01eeb33bf25f1dc9c541"
+  },
+  {
+    "title": "Is Dropbox Stock a Buy as Revenue Grows Under 1% and Insiders Dispose of Shares?",
+    "url": "https://www.fool.com/coverage/filings/2026/08/23/is-dropbox-stock-a-buy-as-revenue-grows-under-1-and-insiders-dispose-of-shares/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This filing details stock that was withheld by the company to cover tax obligations from restricted stock unit vesting.",
+    "published_at": "2026-08-24T01:52:47+08:00",
+    "stocks": [],
+    "uid": "d3f716f8c799df472613198b4d86ea54"
+  },
+  {
+    "title": "Target Just Reported Earnings. Here's Whether the Dividend King Is Still a Buy.",
+    "url": "https://www.fool.com/investing/2026/08/23/target-just-reported-earnings-heres-whether-the/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The once-struggling retailer just reported a second-consecutive solid quarter just one year after a new CEO took over. Connect the dots.",
+    "published_at": "2026-08-24T01:40:00+08:00",
+    "stocks": [],
+    "uid": "cf45da41b9456edde63bb9061e6374d5"
+  },
+  {
+    "title": "A Dropbox Executive Sold $1 Million in Stock Last Week. Here's What Long-Term Investors Should Know",
+    "url": "https://www.fool.com/coverage/filings/2026/08/23/a-dropbox-executive-sold-usd1-million-in-stock-last-week-here-s-what-long-term-investors-should-know/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Webster disposed of stock worth $1 million through open-market sales and tax-withholding transactions, retaining over 416,000 shares valued at $14.1 million.",
+    "published_at": "2026-08-24T01:31:32+08:00",
+    "stocks": [],
+    "uid": "3ecf3c6b7c26bc678092a0afb59049c1"
+  },
+  {
+    "title": "The U.S. National Debt Officially Surpassed $40 Trillion in August: Here's What History Says This Means for the Stock Market",
+    "url": "https://www.fool.com/investing/2026/08/23/federal-debt-40-trillion-history-says-stock-market/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This enormous figure shines a bright light on the country's troubled financial situation.",
+    "published_at": "2026-08-24T01:30:00+08:00",
+    "stocks": [],
+    "uid": "e1c35a74e5f3d02c92f96a4ff28440b3"
+  },
+  {
+    "title": "SentinelOne Is Up 42% This Year and Reports Earnings on August 27. Should You Buy Before the Earnings Release?",
+    "url": "https://www.fool.com/investing/2026/08/23/sentinelone-is-up-42-this-year-and-reports-earning/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "SentinelOne has had a nice run, but is that enough to make it a buy before the earnings release?",
+    "published_at": "2026-08-24T01:20:00+08:00",
+    "stocks": [],
+    "uid": "618d6400ec208a6d0005d7742429bf80"
+  },
+  {
+    "title": "Dropbox's Chief Accounting Officer Had 5,854 Shares Withheld. Here's What Investors Should Know",
+    "url": "https://www.fool.com/coverage/filings/2026/08/23/dropbox-s-chief-accounting-officer-had-5-854-shares-withheld-here-s-what-investors-should-know/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Schubach's disposition reduced her direct equity holdings by 5%, though she maintains about 118,000 shares, including RSUs vesting through 2030.",
+    "published_at": "2026-08-24T01:12:19+08:00",
+    "stocks": [],
+    "uid": "29563f779a34845918c77a227c962ff2"
+  },
+  {
+    "title": "Broadcom vs. Marvell Technology: 1 Critical Metric Decides the Better Custom AI Chip Stock",
+    "url": "https://www.fool.com/investing/2026/08/23/broadcom-vs-marvell-technology-1-critical-metric-d/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Custom AI chips will see more demand over the next few years.",
+    "published_at": "2026-08-24T01:06:00+08:00",
+    "stocks": [],
+    "uid": "6e31837add9cb966058dfbd2298eaa5e"
+  },
+  {
+    "title": "Rachel Cruze and George Kamel share the spending 'clues' that reveal if you're broke, average or wealthy",
+    "url": "https://finance.yahoo.com/markets/articles/rachel-cruze-george-kamel-share-170000908.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-24T01:00:00+08:00",
+    "stocks": [],
+    "uid": "1972d0489003f0ed06c2974ca0a91316"
+  },
+  {
+    "title": "Here are the 2 big things we're watching in the stock market this week",
+    "url": "https://www.cnbc.com/2026/08/23/here-are-the-2-big-things-were-watching-in-the-stock-market-this-week.html",
+    "source": "CNBC Top",
+    "summary": "Nvidia reports earnings, and Fed Chairman Kevin Warsh is set to deliver his first Jackson Hole speech.",
+    "published_at": "2026-08-24T00:56:02+08:00",
+    "stocks": [],
+    "uid": "f610b93c10929dd9561f2fc45a2e93e8"
+  },
+  {
+    "title": "Should You Buy Oracle Stock Before September? The Answer Might Surprise You.",
+    "url": "https://www.fool.com/investing/2026/08/23/should-buy-oracle-stock-september-answer-surprise/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Oracle is about to report its latest quarterly financial results, and they might be the key to reversing its sinking stock price.",
+    "published_at": "2026-08-24T00:50:00+08:00",
+    "stocks": [],
+    "uid": "8aa7b7e35664b3265668a26a9b59cad5"
+  },
+  {
+    "title": "An e.l.f. Beauty Insider Sells 5,718 Shares. Here's What That Means for Investors.",
+    "url": "https://www.fool.com/coverage/filings/2026/08/23/an-e-l-f-beauty-insider-sells-5-718-shares-here-s-what-that-means-for-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The cosmetics company reported a notable insider sale amid a 17% drop in stock price over the past year.",
+    "published_at": "2026-08-24T00:37:40+08:00",
+    "stocks": [],
+    "uid": "aeba861f3fbec6d41e007e1ef4057939"
+  },
+  {
+    "title": "Fed’s Kashkari says rising Treasury yields not a concern",
+    "url": "https://www.investing.com/news/economy-news/feds-kashkari-says-rising-treasury-yields-not-a-concern-4872467",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-24T00:37:12+08:00",
+    "stocks": [],
+    "uid": "2964c907a07fb419fae1bee15c4789c7"
+  },
+  {
+    "title": "Your Last Chance to Buy Nvidia Stock for Cheap in 2026 May Be Near",
+    "url": "https://www.fool.com/investing/2026/08/23/last-chance-buy-nvidia-stock-cheap-2026/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Nvidia looks like a screaming bargain right now, and investors should act fast.",
+    "published_at": "2026-08-24T00:35:00+08:00",
+    "stocks": [],
+    "uid": "98f6b82094ae4fadacb30cc859c880a6"
+  },
+  {
+    "title": "Is This $7 Stock Your Ticket to Becoming a Millionaire?",
+    "url": "https://www.fool.com/investing/2026/08/23/is-this-7-stock-your-ticket-to-becoming-a-milliona/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "SoundHound AI stock looks cheap, but it carries a lot of risk.",
+    "published_at": "2026-08-24T00:24:00+08:00",
+    "stocks": [],
+    "uid": "22ecb96dd2116eddc86def279051dc1a"
+  },
+  {
+    "title": "Gas Turbine Prices Are on Track to Nearly Triple. These Stocks Are Cashing In",
+    "url": "https://www.fool.com/investing/2026/08/23/gas-turbine-prices-on-track-triple-stocks-gev/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This is no flash-in-the-pan fad. This heavy equipment is worth the high upfront cost that AI data center operators are willing to pay.",
+    "published_at": "2026-08-24T00:11:00+08:00",
+    "stocks": [],
+    "uid": "330da04a72f6ddf3ed4b1d02aa007893"
+  },
+  {
+    "title": "Dropbox's CFO Filed Days After Raising Guidance. What Should Investors Make of the Sequence?",
+    "url": "https://www.fool.com/coverage/filings/2026/08/23/dropbox-s-cfo-filed-days-after-raising-guidance-what-should-investors-make-of-the-sequence/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Tennenbaum disposed of shares at $34.42 each following RSU vesting, reducing his direct position by 3% while maintaining about 759,000 shares valued at $25.3 million.",
+    "published_at": "2026-08-24T00:06:38+08:00",
+    "stocks": [],
+    "uid": "4963d37374c9f3ac46a5fe61e776ec84"
+  },
+  {
+    "title": "Commerzbank chair calls for review of German takeover rules",
+    "url": "https://www.investing.com/news/stock-market-news/commerzbank-chair-calls-for-review-of-german-takeover-rules-93CH-4872466",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-24T00:06:30+08:00",
+    "stocks": [],
+    "uid": "42c276fc7adf07fca9535dbaa9a0085d"
+  },
+  {
+    "title": "Commerzbank chair calls for review of German takeover rules after UniCredit bid",
+    "url": "https://www.investing.com/news/stock-market-news/commerzbank-chair-calls-for-review-of-german-takeover-rules-after-unicredit-bid-4872465",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-23T23:54:29+08:00",
+    "stocks": [],
+    "uid": "31433339f57033a230887947c3a95641"
+  },
+  {
+    "title": "ROSEN, TOP RANKED GLOBAL COUNSEL, Encourages FLOW Cryptocurrency Investors to Inquire About Securities Class Action Investigation",
+    "url": "https://markets.businessinsider.com/news/stocks/rosen-top-ranked-global-counsel-encourages-flow-cryptocurrency-investors-to-inquire-about-securities-class-action-investigation-1036205015",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/310854/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px;  height: 1px;border: 0px solid;&quot;&gt;New York, New York--(Newsfile Corp. - August 23, 2026) - &lt;b&gt;WHY: &lt;/b&gt;Rosen Law Firm, a global investor rights law firm, continues to investigate potential securities claims on behalf of investors in FLOW...",
+    "published_at": "2026-08-23T23:37:00+08:00",
+    "stocks": [],
+    "uid": "2bb05cc8c8005099c1900155c70ddb41"
+  },
+  {
+    "title": "Can Hershey step up to buy Mondelez?",
+    "url": "https://www.investing.com/news/stock-market-news/can-hershey-step-up-to-buy-mondelez-4872464",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-23T23:33:08+08:00",
+    "stocks": [],
+    "uid": "f1e07076dbf43bb8e7cd68eb93f49080"
+  },
+  {
+    "title": "40% of companies posted fake job listings in 2024 — now lawmakers in multiple states are moving to ban them",
+    "url": "https://finance.yahoo.com/small-business/articles/40-companies-posted-fake-job-153000925.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-23T23:30:00+08:00",
+    "stocks": [],
+    "uid": "7e3c12532bf4c72a48c2d2cc1870f110"
+  },
+  {
+    "title": "NVIDIA, Cloverleaf Partnering to Advance Data Center Development",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-cloverleaf-partnering-advance-data-152523132.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-23T23:25:23+08:00",
+    "stocks": [],
+    "uid": "5f78d5229638fa82d4ab6d7a5d0b8f84"
+  },
+  {
+    "title": "ROSEN, SKILLED INVESTOR COUNSEL, Encourages Bloom Energy Corporation Investors to Secure Counsel Before Important Deadline in Securities Class Action - BE",
+    "url": "https://markets.businessinsider.com/news/stocks/rosen-skilled-investor-counsel-encourages-bloom-energy-corporation-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-be-1036484580",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/310290/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px;  height: 1px;border: 0px solid;&quot;&gt;New York, New York--(Newsfile Corp. - August 23, 2026) - &lt;b&gt;WHY:&lt;/b&gt;&#160;Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Bloom Energy Corporation (NYSE: BE) between...",
+    "published_at": "2026-08-23T23:17:00+08:00",
+    "stocks": [],
+    "uid": "be49a59eb91370bea700ce1f26fe039f"
+  },
+  {
+    "title": "Rocket Mortgage pushes home equity loans to wipe out credit card debt — here's how that could backfire on homeowners",
+    "url": "https://finance.yahoo.com/real-estate/articles/rocket-mortgage-pushes-home-equity-150000372.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-23T23:00:00+08:00",
+    "stocks": [],
+    "uid": "ea69a4587861da9c97b72b5127841198"
+  },
+  {
+    "title": "Luxury auto CEOs say there's a K-shaped economy even at the very top of the market",
+    "url": "https://finance.yahoo.com/markets/article/luxury-auto-ceos-say-theres-a-k-shaped-economy-even-at-the-very-top-of-the-market-145500874.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-23T22:55:00+08:00",
+    "stocks": [],
+    "uid": "930f56c07a0714d930b9e2a68148e8de"
+  },
+  {
+    "title": "America's AI backlash: How the effort to keep worker trust is evolving inside companies",
+    "url": "https://www.cnbc.com/2026/08/23/ai-backlash-workers-job-losses.html",
+    "source": "CNBC Tech",
+    "summary": "Trust remains the cornerstone of an ideal AI communication strategy, whether for an AI-native startup or legacy enterprise facing yet another cultural shift.",
+    "published_at": "2026-08-23T22:42:28+08:00",
+    "stocks": [],
+    "uid": "0db3d8a4d27fe4d87c78a4542059f026"
+  },
+  {
+    "title": "Humaans Expands Into US Payroll As It Accelerates US Growth",
+    "url": "https://markets.businessinsider.com/news/stocks/humaans-expands-into-us-payroll-as-it-accelerates-us-growth-1036484549",
+    "source": "Business Insider",
+    "summary": "&lt;i&gt;Humaans US Payroll will begin rolling out this fall, bringing payroll execution into the same platform that powers workforce data, automation and AI agents. &lt;/i&gt;&lt;span class=&quot;byline&quot;&gt;United Kingdom, August 23, 2026 -- Humaans, the workforce technology company behind the agentic AI platform Athena, today announced its expansion into...",
+    "published_at": "2026-08-23T22:38:48+08:00",
+    "stocks": [],
+    "uid": "a8cbf3e26badab2d9d2e02606dd9423b"
+  },
+  {
+    "title": "Nvidia Stock Is Treading Water Ahead of Earnings This Week - What's the Best NVDA Play?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-treading-water-ahead-143002140.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-23T22:30:02+08:00",
+    "stocks": [],
+    "uid": "344d82e751fa1a5ff8c46b5f9a431ec5"
+  },
+  {
+    "title": "PLAB IMPORTANT DEADLINE: ROSEN, LEADING INVESTOR COUNSEL, Encourages Photronics, Inc. Investors with Losses in Excess of $100K to Secure Counsel Before Important September 4 Deadline in Securities...",
+    "url": "https://markets.businessinsider.com/news/stocks/plab-important-deadline-rosen-leading-investor-counsel-encourages-photronics-inc.-investors-with-losses-in-excess-of-100k-to-secure-counsel-before-important-september-4-deadline-in-securities-class-action-plab-1036484545",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/310804/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px;  height: 1px;border: 0px solid;&quot;&gt;New York, New York--(Newsfile Corp. - August 23, 2026) - &lt;b&gt;WHY:&lt;/b&gt;&#160;Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Photronics, Inc. (NASDAQ: PLAB) between December...",
+    "published_at": "2026-08-23T22:10:00+08:00",
+    "stocks": [],
+    "uid": "47112592ab89462d2e8c56843635497e"
+  },
+  {
+    "title": "BTU DEADLINE TOMORROW: ROSEN, TOP RANKED GLOBAL COUNSEL, Encourages Peabody Energy Corporation Investors with Losses in Excess of $100K to Secure Counsel Before Important August 24 Deadline in...",
+    "url": "https://markets.businessinsider.com/news/stocks/btu-deadline-tomorrow-rosen-top-ranked-global-counsel-encourages-peabody-energy-corporation-investors-with-losses-in-excess-of-100k-to-secure-counsel-before-important-august-24-deadline-in-securities-class-action-btu-1036484546",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/310802/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px;  height: 1px;border: 0px solid;&quot;&gt;New York, New York--(Newsfile Corp. - August 23, 2026) - &lt;b&gt;WHY:&lt;/b&gt;&#160;Rosen Law Firm, a global investor rights law firm, reminds purchasers of common stock of Peabody Energy Corporation (NYSE:",
+    "published_at": "2026-08-23T22:00:00+08:00",
+    "stocks": [],
+    "uid": "2863f5491cce386737fb4f1e9530e5fe"
+  },
+  {
     "title": "Iran says new sanctions threatened by ’desperate’ US will fail",
     "url": "https://www.investing.com/news/commodities-news/iran-says-new-sanctions-threatened-by-desperate-us-will-fail-4872444",
     "source": "Investing.com",
@@ -7,6 +637,33 @@
     "published_at": "2026-08-23T21:30:33+08:00",
     "stocks": [],
     "uid": "238b5ed0c48cecc3d3268cdb71e2f933"
+  },
+  {
+    "title": "WIX FINAL DEADLINE: ROSEN, A HIGHLY RECOGNIZED LAW FIRM, Encourages Wix.com Ltd. Investors with Losses in Excess of $100K to Secure Counsel Before Important Deadline in Securities Class Action - WIX",
+    "url": "https://markets.businessinsider.com/news/stocks/wix-final-deadline-rosen-a-highly-recognized-law-firm-encourages-wix.com-ltd.-investors-with-losses-in-excess-of-100k-to-secure-counsel-before-important-deadline-in-securities-class-action-wix-1036484543",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/310826/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px;  height: 1px;border: 0px solid;&quot;&gt;New York, New York--(Newsfile Corp. - August 23, 2026) - &lt;b&gt;WHY:&lt;/b&gt;&#160;Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Wix.com Ltd. (NASDAQ: WIX) between February 19,...",
+    "published_at": "2026-08-23T21:30:00+08:00",
+    "stocks": [],
+    "uid": "c7550c0ab737efcf30920c1046a56749"
+  },
+  {
+    "title": "PRCT FINAL DEADLINE: ROSEN, LEADING INVESTOR COUNSEL, Encourages PROCEPT BioRobotics Corporation Investors with Losses in Excess of $100K to Secure Counsel Before Important Deadline in Securities...",
+    "url": "https://markets.businessinsider.com/news/stocks/prct-final-deadline-rosen-leading-investor-counsel-encourages-procept-biorobotics-corporation-investors-with-losses-in-excess-of-100k-to-secure-counsel-before-important-deadline-in-securities-class-action-prct-1036484540",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/310809/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px;  height: 1px;border: 0px solid;&quot;&gt;New York, New York--(Newsfile Corp. - August 23, 2026) - &lt;b&gt;WHY:&lt;/b&gt;&#160;Rosen Law Firm, a global investor rights law firm, reminds purchasers of common stock of PROCEPT BioRobotics Corporation (NASDAQ:",
+    "published_at": "2026-08-23T21:24:00+08:00",
+    "stocks": [],
+    "uid": "9401483ad505e417bebd95078eb1899b"
+  },
+  {
+    "title": "Everything Solves DeFi with a Single Protocol",
+    "url": "https://markets.businessinsider.com/news/currencies/everything-solves-defi-with-a-single-protocol-1036484542",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://app.chainwire.org/storage/uploads/users/photo_2026-08-21_16-00-31_1787490769Jnaj8kcTCf.jpg&quot; alt=&quot;Featured Image&quot; /&gt;&lt;p class=&quot;sc-dxroEu fTzmKS&quot;&gt;MONTREUX, Switzerland, August 23rd, 2026, Chainwire&lt;br&gt;New whitepaper puts the claim into math, detailing one liquidity reserve designed to power trading, lending,...",
+    "published_at": "2026-08-23T21:15:42+08:00",
+    "stocks": [],
+    "uid": "3f7a2fe6ff2a4799fca11bc747455796"
   },
   {
     "title": "AT&T's Dividend Costs the Company a Fixed Amount Every Quarter Regardless of Competitive Pressure From Starlink or Cable Rivals. Here's the Coverage Ratio That Actually Determines Whether It's Safe.",
@@ -18,6 +675,15 @@
     "uid": "d06aaeb83ad6c51a9466462af8166aed"
   },
   {
+    "title": "ROSEN, A LEADING INVESTOR RIGHTS LAW FIRM, Encourages Alarum Technologies Ltd. Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - ALAR",
+    "url": "https://markets.businessinsider.com/news/stocks/rosen-a-leading-investor-rights-law-firm-encourages-alarum-technologies-ltd.-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-first-filed-by-the-firm-alar-1036484541",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/310278/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px;  height: 1px;border: 0px solid;&quot;&gt;New York, New York--(Newsfile Corp. - August 23, 2026) - &lt;b&gt;WHY:&lt;/b&gt;&#160;Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Alarum Technologies Ltd. (NASDAQ: ALAR) between...",
+    "published_at": "2026-08-23T21:15:00+08:00",
+    "stocks": [],
+    "uid": "fb8a737a776e8ec0af511fab6c6d355a"
+  },
+  {
     "title": "Up another 12% Friday, this AI-picked energy stock is now up +90%",
     "url": "https://www.investing.com/news/stock-market-news/up-another-12-friday-this-aipicked-energy-stock-is-now-up-90-4872447",
     "source": "Investing.com",
@@ -25,6 +691,15 @@
     "published_at": "2026-08-23T21:10:59+08:00",
     "stocks": [],
     "uid": "afa7e91cc9c4dfad269d08076d17cc13"
+  },
+  {
+    "title": "ROSEN, TRUSTED INVESTOR COUNSEL, Encourages Barclays PLC Investors to Inquire About Securities Class Action Investigation - BCS",
+    "url": "https://markets.businessinsider.com/news/stocks/rosen-trusted-investor-counsel-encourages-barclays-plc-investors-to-inquire-about-securities-class-action-investigation-bcs-1035907703",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/310858/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px;  height: 1px;border: 0px solid;&quot;&gt;New York, New York--(Newsfile Corp. - August 23, 2026) - &lt;b&gt;WHY:&lt;/b&gt;&#160;Rosen Law Firm, a global investor rights law firm, continues to investigate potential securities claims on behalf of shareholders of...",
+    "published_at": "2026-08-23T21:07:00+08:00",
+    "stocks": [],
+    "uid": "5310e70a552d7ca6ac4453c7fc2cab24"
   },
   {
     "title": "Here's How Much Social Security's Trump Bump-Driven 2027 COLA Is Projected to Boost Benefits",
@@ -43,6 +718,15 @@
     "published_at": "2026-08-23T21:03:00+08:00",
     "stocks": [],
     "uid": "475706dff177942fc01062982bfa8d88"
+  },
+  {
+    "title": "Equal-weight S&P 500 is leading the 2026 market and its flagship trade just hit $100 billion",
+    "url": "https://www.cnbc.com/2026/08/23/stocks-market-investing-sp500-spx.html",
+    "source": "CNBC Top",
+    "summary": "Money is flooding into equal-weight stock market ETFs this year. Investing experts say it's not a fad.",
+    "published_at": "2026-08-23T21:00:01+08:00",
+    "stocks": [],
+    "uid": "aef783acd585c9d41683b418925cc454"
   },
   {
     "title": "Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test",
