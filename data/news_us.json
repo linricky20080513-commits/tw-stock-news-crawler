@@ -1,5 +1,635 @@
 [
   {
+    "title": "New Delhi draws in $73 billion in 11 weeks, powered by special deposits for non-resident Indians",
+    "url": "https://www.cnbc.com/2026/08/25/india-billion-foreign-inflows-rupee-weakness.html",
+    "source": "CNBC Top",
+    "summary": "India has attracted inflows of $73 billion in 11 weeks, driven mostly by foreign currency bank deposits made by non-resident Indians.",
+    "published_at": "2026-08-25T18:23:53+08:00",
+    "stocks": [],
+    "uid": "0a466c5f34b3e44a1edeb191c46044c1"
+  },
+  {
+    "title": "Ukraine is targeting Russia’s retail giants. Ozon is the next economic pressure point",
+    "url": "https://www.cnbc.com/2026/08/25/ukraine-war-russia-ozon-wildberries-economy.html",
+    "source": "CNBC Top",
+    "summary": "Kyiv says the attacks are aimed at disrupting Russian supply chains and inflicting further pressure on Putin's wartime economy.",
+    "published_at": "2026-08-25T18:20:17+08:00",
+    "stocks": [],
+    "uid": "e83ea43edd9f6296c69ba78f69d2e27f"
+  },
+  {
+    "title": "Earnings call transcript: Canatu H1 2026 revenue slump weighs on shares",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-canatu-h1-2026-revenue-slump-weighs-on-shares-93CH-4874856",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-25T18:15:46+08:00",
+    "stocks": [],
+    "uid": "10b7578c9fd5145e3471b1e752dd790c"
+  },
+  {
+    "title": "Nvidia faces growth test as Rubin debut meets AI financing scrutiny",
+    "url": "https://www.investing.com/news/stock-market-news/nvidia-faces-growth-test-as-rubin-debut-meets-ai-financing-scrutiny-4874842",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-25T18:13:40+08:00",
+    "stocks": [],
+    "uid": "5f7a0e0270f24612cdce1c8aa9c3636f"
+  },
+  {
+    "title": "Earnings call transcript: ZhongAn Online Insurance posts H1 2026 profit jump",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-zhongan-online-insurance-posts-h1-2026-profit-jump-93CH-4874851",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-25T18:11:42+08:00",
+    "stocks": [],
+    "uid": "c100abdd01e14b9d6588fad162ecc318"
+  },
+  {
+    "title": "Lanxess at German Select VIII Conference: cost cuts drive resilience",
+    "url": "https://www.investing.com/news/transcripts/lanxess-at-german-select-viii-conference-cost-cuts-drive-resilience-93CH-4874850",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-25T18:11:23+08:00",
+    "stocks": [],
+    "uid": "031b327d673998c2dd181742f69b44d8"
+  },
+  {
+    "title": "This 61-Year-Old Tech Stock Silently Became an AI Superstar",
+    "url": "https://finance.yahoo.com/technology/ai/articles/61-old-tech-stock-silently-101000367.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-25T18:10:00+08:00",
+    "stocks": [],
+    "uid": "68cf221690b3424b9c27000f1251c714"
+  },
+  {
+    "title": "Why is Shift4 Payments stock rallying today?",
+    "url": "https://www.investing.com/news/stock-market-news/why-is-shift4-payments-stock-rallying-today-93CH-4874849",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-25T18:09:35+08:00",
+    "stocks": [],
+    "uid": "096f541781f50264333420af48d1c780"
+  },
+  {
+    "title": "Why is Fidelity National Information Services stock sliding today?",
+    "url": "https://www.investing.com/news/stock-market-news/why-is-fidelity-national-information-services-stock-sliding-today-93CH-4874848",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-25T18:09:30+08:00",
+    "stocks": [],
+    "uid": "b2153da600da26b178b2c17ac475b3bf"
+  },
+  {
+    "title": "Exclusive-The AI founders who walked away from Bezos-backed Prometheus to model the universe",
+    "url": "https://www.investing.com/news/stock-market-news/exclusivethe-ai-founders-who-walked-away-from-bezosbacked-prometheus-to-model-the-universe-4874846",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-25T18:08:41+08:00",
+    "stocks": [],
+    "uid": "4ae6de88c83edd70653ad4c9bd9c0ab7"
+  },
+  {
+    "title": "Pizza Hut launches football campaign with Josh Allen",
+    "url": "https://www.investing.com/news/company-news/pizza-hut-launches-football-campaign-with-josh-allen-93CH-4874844",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-25T18:08:35+08:00",
+    "stocks": [],
+    "uid": "25d1b40b7494230b2d25cce62cb2afeb"
+  },
+  {
+    "title": "Intapp partners with Legora for AI compliance integration",
+    "url": "https://www.investing.com/news/company-news/intapp-partners-with-legora-for-ai-compliance-integration-93CH-4874845",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-25T18:08:35+08:00",
+    "stocks": [],
+    "uid": "ad25c4f341bd853a18198e09e285c5d7"
+  },
+  {
+    "title": "NuRAN Wireless files shelf prospectus for future offerings",
+    "url": "https://www.investing.com/news/company-news/nuran-wireless-files-shelf-prospectus-for-future-offerings-93CH-4874843",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-25T18:08:31+08:00",
+    "stocks": [],
+    "uid": "5ba24a308237f89227900106e4f10147"
+  },
+  {
+    "title": "Can Neighborhoods Fix Cash App's User Growth? A New Block Insider Filing Lands While That Question Is Open",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/neighborhoods-fix-cash-apps-user-100523123.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-25T18:05:23+08:00",
+    "stocks": [],
+    "uid": "63284e202d5c4f0e779ad8ed82da6518"
+  },
+  {
+    "title": "'Pretend like you don't have it': 23-year-old New Yorker asks Dave Ramsey what not to do with sudden $450K inheritance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/pretend-dont-23-old-yorker-100500583.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-25T18:05:00+08:00",
+    "stocks": [],
+    "uid": "93725bf846bfc60f2a106072e8058bb2"
+  },
+  {
+    "title": "Walmart Just Reported Earnings. Here's Whether the Dividend Stock Is Still a Buy.",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-just-reported-earnings-heres-100500786.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-25T18:05:00+08:00",
+    "stocks": [],
+    "uid": "abb60b9b984930dc620e4ac1ca797236"
+  },
+  {
+    "title": "This $105 Billion Vanguard Fund Warns It Could Become a Bet on a Single Stock",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/105-billion-vanguard-fund-warns-100318845.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-25T18:03:18+08:00",
+    "stocks": [],
+    "uid": "721c30b15bedd737515e7fe473a4bd0c"
+  },
+  {
+    "title": "Nvidia faces growth test as Rubin debut meets AI financing scrutiny",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-faces-growth-test-rubin-100234535.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-25T18:02:34+08:00",
+    "stocks": [],
+    "uid": "c9371139b2644cbc091890127f06a853"
+  },
+  {
+    "title": "Heidelberger Druckmaschinen Bets on Defense and Energy as Q1 Sales Slide",
+    "url": "https://finance.yahoo.com/energy/articles/heidelberger-druckmaschinen-bets-defense-energy-100216000.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-25T18:02:16+08:00",
+    "stocks": [],
+    "uid": "c57b35d41e1c2ed4203655d406c79d8a"
+  },
+  {
+    "title": "Chesnara H1 Earnings Call Highlights",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/chesnara-h1-earnings-call-highlights-100215170.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-25T18:02:15+08:00",
+    "stocks": [],
+    "uid": "1f219714571b4d29c4a4745f0ffe2fe6"
+  },
+  {
+    "title": "3 Energy Stocks Positioned to Benefit From Iraq's Oil Ambitions",
+    "url": "https://www.fool.com/investing/2026/08/25/3-energy-stocks-positioned-to-benefit-from-iraq-s-oil-ambitions/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Iraq could fuel growth for these oil companies in the coming years.",
+    "published_at": "2026-08-25T18:00:04+08:00",
+    "stocks": [],
+    "uid": "eb143b7ab2cc32a3d09261bb2f0468c4"
+  },
+  {
+    "title": "Mortgage and refinance rates today, Tuesday, August 25, 2026: Rates mixed this morning",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-tuesday-august-25-2026-rates-mixed-this-morning-100000955.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-25T18:00:00+08:00",
+    "stocks": [],
+    "uid": "850f562b1608ba564307e621ea386263"
+  },
+  {
+    "title": "Best CD rates today, Tuesday, August 25, 2026: Lock in up to 4.30% APY today with multiple offers",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-august-25-2026-lock-in-up-to-430-apy-today-with-multiple-offers-100000257.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-25T18:00:00+08:00",
+    "stocks": [],
+    "uid": "a28ccf2a527ee845e5626477809f0b58"
+  },
+  {
+    "title": "I Own SCHD, and I Still Believe in It. Here's Why I Also Bought This 10.5%-Yielding ETF Almost Nobody Knows About.",
+    "url": "https://www.fool.com/investing/2026/08/25/i-own-schd-and-i-still-believe-in-it-heres-why-i-a/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This ETF offers even more income potential while also outperforming the S&amp;P 500.",
+    "published_at": "2026-08-25T18:00:00+08:00",
+    "stocks": [],
+    "uid": "c52eef40f68ffe2b1e82721468eb165f"
+  },
+  {
+    "title": "This 61-Year-Old Tech Stock Silently Became an AI Superstar",
+    "url": "https://www.fool.com/investing/2026/08/25/this-60-year-old-tech-stock-silently-became-an-ai/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Analog Devices fuels the AI boom without high capital expenditures.",
+    "published_at": "2026-08-25T17:50:00+08:00",
+    "stocks": [],
+    "uid": "d15740303f73f228bbaae337eeb59b68"
+  },
+  {
+    "title": "One Wall Street measure of market fragility just hit its highest possible level. The last time it did, volatility spiked.",
+    "url": "https://www.marketwatch.com/story/one-wall-street-measure-of-market-fragility-just-hit-its-highest-possible-level-the-last-time-it-did-volatility-spiked-c5441009?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The market turbulence indicator hit 1 on Aug. 19 for the first time since December 2024 following the presidential election.",
+    "published_at": "2026-08-25T17:49:00+08:00",
+    "stocks": [],
+    "uid": "0a4fe37a41bdf7a9a904f0b20fc712f8"
+  },
+  {
+    "title": "SEC reportedly subpoenas Wall Street banks over AI hedge fund Situational Awareness's near collapse",
+    "url": "https://www.cnbc.com/2026/08/25/sec-situational-awareness-hedge-fund-subpoenas.html",
+    "source": "CNBC Top",
+    "summary": "The SEC is seeking information from major Wall Street banks about trades and financing tied to AI-focused hedge fund Situational Awareness.",
+    "published_at": "2026-08-25T17:47:56+08:00",
+    "stocks": [],
+    "uid": "a707e1c5a6fa77d63978e17bde49b464"
+  },
+  {
+    "title": "Walmart Just Reported Earnings. Here's Whether the Dividend Stock Is Still a Buy.",
+    "url": "https://www.fool.com/investing/2026/08/25/walmart-reported-earnings-dividend-stock-buy/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This is a good time to evaluate Walmart as an investment.",
+    "published_at": "2026-08-25T17:45:00+08:00",
+    "stocks": [],
+    "uid": "e809d5520c6ffe8a731005e8b100cfdd"
+  },
+  {
+    "title": "Coca-Cola's new CEO can boast about something that billionaire Mag 7 members Elon Musk and Mark Zuckerberg can't",
+    "url": "https://finance.yahoo.com/markets/stocks/article/coca-colas-new-ceo-can-boast-about-something-that-billionaire-mag-7-members-elon-musk-and-mark-zuckerberg-cant-094242694.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-25T17:42:42+08:00",
+    "stocks": [],
+    "uid": "14bd9face6c30bcc823b2f48fb70ac53"
+  },
+  {
+    "title": "If You'd Invested $5,000 in the S&P 500 Ahead of the Dot-Com Bubble Burst, Here's What You'd Have Today",
+    "url": "https://www.fool.com/investing/2026/08/25/if-invested-5000-sp-500-ahead-dot-com-bubble/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Many investors might be shocked by how much patience can pay off.",
+    "published_at": "2026-08-25T17:30:00+08:00",
+    "stocks": [],
+    "uid": "f1ed98f8b48b15dba2453c16fe01a9e6"
+  },
+  {
+    "title": "BlackBerry CEO says robotics is one of its fastest-growing businesses",
+    "url": "https://www.cnbc.com/2026/08/25/blackberry-qnx-robotics-physical-ai.html",
+    "source": "CNBC Top",
+    "summary": "BlackBerry CEO John Giamatteo says robotics is one of QNX’s fastest-growing businesses as the company expands its software beyond cars.",
+    "published_at": "2026-08-25T17:26:05+08:00",
+    "stocks": [],
+    "uid": "68f74cff93d219f04130b80dffd44ae7"
+  },
+  {
+    "title": "Target Apologizes and Drops Halloween Costume Criticized as Racist",
+    "url": "https://www.nytimes.com/2026/08/25/business/target-halloween-costume-controversy.html",
+    "source": "NYT Business",
+    "summary": "Critics said the children’s costume evoked blackface imagery. Target said, “We know we got this wrong, and we are deeply sorry.”",
+    "published_at": "2026-08-25T17:21:59+08:00",
+    "stocks": [],
+    "uid": "4b098a81eac2723c20d180adb8cde064"
+  },
+  {
+    "title": "Forget Nvidia. This ETF Could Be the Next Big Winner From the AI Boom",
+    "url": "https://www.fool.com/investing/2026/08/25/forget-nvidia-this-etf-next-big-ai-boom-winner-vpu/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "It's time to start looking for the next wave of AI beneficiaries beyond the big tech names.",
+    "published_at": "2026-08-25T17:20:00+08:00",
+    "stocks": [],
+    "uid": "c21a53d456bfcf70126bb38cb91930ad"
+  },
+  {
+    "title": "Dollar edges higher as investors weigh Iran sanctions, Treasury buybacks",
+    "url": "https://finance.yahoo.com/news/dollar-struggles-traction-markets-weigh-013056238.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-25T17:18:51+08:00",
+    "stocks": [],
+    "uid": "cc09e6f40d8680e54c905f0f9ac56b7a"
+  },
+  {
+    "title": "He once mentored Scott Bessent. Now Stanley Druckenmiller is criticizing the treasury secretary.",
+    "url": "https://www.marketwatch.com/story/he-once-mentored-scott-bessent-now-stanley-druckenmiller-is-criticizing-the-treasury-secretary-c229d410?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Treasury Secretary Scott Bessent’s recent maneuvers in the bond market have come in for some searing criticism from illustrious investor Stanley Druckenmiller — his long-time ally and mentor.",
+    "published_at": "2026-08-25T17:17:00+08:00",
+    "stocks": [],
+    "uid": "f0f0a9c81a3976f97883536010732e79"
+  },
+  {
+    "title": "Investors shrug off US sanctions plan for Iran, bitcoin powers on",
+    "url": "https://finance.yahoo.com/markets/articles/asia-shares-fall-tech-nerves-012957160.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-25T17:16:30+08:00",
+    "stocks": [],
+    "uid": "152ef4756bc64230a3e82d111e42a455"
+  },
+  {
+    "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
+    "url": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "“We are reluctant to pay a financial adviser 2% of assets — roughly $160,000 per year.”",
+    "published_at": "2026-08-25T17:15:00+08:00",
+    "stocks": [],
+    "uid": "9447a3b77301f5d6ad5f28c74f78c6d7"
+  },
+  {
+    "title": "Andy Jassy Believes AWS Can Hit $1 Trillion in Revenue. Here's When the Math Says It Might Happen.",
+    "url": "https://www.fool.com/investing/2026/08/25/andy-jassy-believes-aws-can-hit-1-trillion-in-reve/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The cloud computing giant should continue to benefit from the age of artificial intelligence.",
+    "published_at": "2026-08-25T17:15:00+08:00",
+    "stocks": [],
+    "uid": "8ed8370f9b4299ad34a21281652c68b2"
+  },
+  {
+    "title": "Bitcoin has just wiped out three months of losses in 1 week",
+    "url": "https://finance.yahoo.com/markets/crypto/article/bitcoin-has-just-wiped-out-three-months-of-losses-in-1-week-091208677.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-25T17:12:08+08:00",
+    "stocks": [],
+    "uid": "dada916469bfda661b5c32f8eea5b9e1"
+  },
+  {
+    "title": "Many N.F.L. Players Get Brain Disease. Why Hasn’t OSHA Intervened?",
+    "url": "https://www.nytimes.com/2026/08/25/us/nfl-cte-osha.html",
+    "source": "NYT Business",
+    "summary": "“We never see things that are this dire,” a former chief scientist of the agency said about rates of C.T.E. in former players.",
+    "published_at": "2026-08-25T17:09:02+08:00",
+    "stocks": [],
+    "uid": "efb4768c61791d2ef65e3a50d20c7a59"
+  },
+  {
+    "title": "5 Billionaire Money Managers Dumped Palantir in the Second Quarter. This Is the AI Applications Stock They're Buying Hand Over Fist Instead.",
+    "url": "https://www.fool.com/investing/2026/08/25/5-billionaires-dump-pltr-buy-ai-applications-googl/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Wall Street's savviest asset managers are selling a stock that's rallied over 2,600% since the start of 2023, in favor of a company with otherworldly artificial intelligence (AI) ambitions.",
+    "published_at": "2026-08-25T17:06:00+08:00",
+    "stocks": [],
+    "uid": "501a2b22b399dda5c2342bbe1948a513"
+  },
+  {
+    "title": "Is It Time for This 95-Year-Old Pianist to Retire?",
+    "url": "https://www.nytimes.com/2026/08/25/business/piano-teacher-performer-retirement.html",
+    "source": "NYT Business",
+    "summary": "Her vision and hearing are deteriorating, but she still wants to feel like she’s on top.",
+    "published_at": "2026-08-25T17:00:54+08:00",
+    "stocks": [],
+    "uid": "f202d8359815dd8101194a8882e7effa"
+  },
+  {
+    "title": "In US-Canada trade spat, Washington left out a key lever: Canadian oil",
+    "url": "https://finance.yahoo.com/energy/article/in-us-canada-trade-spat-washington-left-out-a-key-lever-canadian-oil-090000999.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-25T17:00:00+08:00",
+    "stocks": [],
+    "uid": "5987349f1db06b8039d002155699a343"
+  },
+  {
+    "title": "SoFi vs. Sezzle: Which Fintech Stock Is the Better Buy?",
+    "url": "https://www.fool.com/investing/2026/08/25/sofi-vs-sezzle-which-fintech-stock-is-the-better-b/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "SoFi and Sezzle are both challenging traditional banking while gaining market share on big banks.",
+    "published_at": "2026-08-25T17:00:00+08:00",
+    "stocks": [],
+    "uid": "7da597fd33b8e93dafc44193e51fb291"
+  },
+  {
+    "title": "Dragon Ball Z theme park gets $7 billion green light",
+    "url": "https://www.cnbc.com/2026/08/25/dragon-ball-z-theme-park-france-paris.html",
+    "source": "CNBC Top",
+    "summary": "French President Emmanuel Macron and Saudi Arabia's Crown Prince Mohammed bin Salman agree on a $7 bn investment in the anime theme park.",
+    "published_at": "2026-08-25T16:53:08+08:00",
+    "stocks": [],
+    "uid": "2db256c8ca332e1c9bc3c3ee4f1def6a"
+  },
+  {
+    "title": "Prediction: Marvell Technology Stock Could Go Parabolic After Its Next Custom Chip Deal. Here's Why.",
+    "url": "https://www.fool.com/investing/2026/08/25/predict-marvell-technology-stock-custom-chip-deal/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Marvell is already riding the AI infrastructure wave. Now, a major hyperscaler deal could be the catalyst that sends the stock on its next parabolic run.",
+    "published_at": "2026-08-25T16:49:00+08:00",
+    "stocks": [],
+    "uid": "6fe014571f0f02895c4c9784e92d6400"
+  },
+  {
+    "title": "Nvidia Stock Is a Screaming Buy Before Aug. 26, According to Wall Street",
+    "url": "https://www.fool.com/investing/2026/08/25/nvidia-stock-buy-before-aug-26-wall-street/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Most Wall Street analysts think Nvidia stock is deeply undervalued ahead of its financial report on Aug. 26.",
+    "published_at": "2026-08-25T16:48:00+08:00",
+    "stocks": [],
+    "uid": "0a12842f51b8c906b0ca9f4d96917685"
+  },
+  {
+    "title": "Billionaire Stanley Druckenmiller Continues to Load Up on Revolution Medicines. Does He Know Something Wall Street Doesn't?",
+    "url": "https://www.fool.com/investing/2026/08/25/billionaire-stanley-druckenmiller-continues-to-loa/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "One of the most successful investors ever really likes this up-and-coming biotech stock.",
+    "published_at": "2026-08-25T16:44:00+08:00",
+    "stocks": [],
+    "uid": "d963405b7e2283226851edbb024cc0f2"
+  },
+  {
+    "title": "Why Aug. 26 Is a Big Day for the Stock Market",
+    "url": "https://www.fool.com/investing/2026/08/25/why-aug-26-is-a-big-day-for-the-stock-market/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The largest company in the stock market is set to report earnings.",
+    "published_at": "2026-08-25T16:30:00+08:00",
+    "stocks": [],
+    "uid": "92805aa32ef59bbb05f140645e3e5b8d"
+  },
+  {
+    "title": "Bitcoin price extends gains as crypto rally gathers pace",
+    "url": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
+    "source": "CNBC Top",
+    "summary": "Bitcoin initially surged past the $80,000 mark, as renewed inflows into spot bitcoin ETFs and improving risk appetite extended the recent crypto rally.",
+    "published_at": "2026-08-25T16:29:11+08:00",
+    "stocks": [],
+    "uid": "33bc2065b9fed3f255590cf4d4c2b19a"
+  },
+  {
+    "title": "The S&P 500's Biggest Stocks Keep Getting Bigger. Here's the ETF I'd Buy to Diversify",
+    "url": "https://www.fool.com/investing/2026/08/25/sp-500-biggest-stocks-bigger-etf-buy-to-diversify/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The S&amp;P 500 is historically top-heavy. Keep your large-cap exposure, but own the S&amp;P 500 differently.",
+    "published_at": "2026-08-25T16:15:00+08:00",
+    "stocks": [],
+    "uid": "a6394c95b49cde353965e8b0af41d4df"
+  },
+  {
+    "title": "Historically Speaking, the Stock Market Has Arguably Never Been Less Attractive Than It Is Now",
+    "url": "https://www.fool.com/investing/2026/08/25/history-stock-market-never-been-less-attractive/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Although history conclusively favors long-term optimists, the short-term outlook for equities is downright ugly.",
+    "published_at": "2026-08-25T16:06:00+08:00",
+    "stocks": [],
+    "uid": "dd1f2e7f5509b97414f9a249e0a3ad91"
+  },
+  {
+    "title": "Stock market today: S&P 500, Nasdaq futures recover in countdown to Nvidia earnings, Fed Jackson Hole summit",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-25-dow-sp-500-nasdaq-080527092.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-25T16:05:27+08:00",
+    "stocks": [],
+    "uid": "1fd03e80b18fdd9d792515f23b6aa71a"
+  },
+  {
+    "title": "Investors poured into Canadian ETFs right before trade talks broke down",
+    "url": "https://www.marketwatch.com/story/investors-poured-into-canadian-etfs-right-before-trade-talks-broke-down-c8bea8ee?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Investors misread the mood music on U.S.-Canadian talks, in a big way.",
+    "published_at": "2026-08-25T15:57:00+08:00",
+    "stocks": [],
+    "uid": "4a0c4e45af77e0f31a897c6eb16911fd"
+  },
+  {
+    "title": "Melrose shares climb on Garden Grove plant reopening timeline",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/melrose-shares-climb-garden-grove-075648142.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-25T15:56:48+08:00",
+    "stocks": [],
+    "uid": "3e67b947f3652be915a42f839bc34bbd"
+  },
+  {
+    "title": "What $1,088 Invested in SpaceX Could Be Worth by 2030",
+    "url": "https://www.fool.com/investing/2026/08/25/what-1088-invested-in-spacex-could-be-worth-2030/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "You could lose hundreds of dollars ... or make thousands.",
+    "published_at": "2026-08-25T15:55:00+08:00",
+    "stocks": [],
+    "uid": "6f9719d4cf1374bec78fb85696e5f1e3"
+  },
+  {
+    "title": "Prediction: TSMC Stock Will Soar After Aug. 26 Thanks to Nvidia’s Historic Quarter",
+    "url": "https://www.fool.com/investing/2026/08/25/prediction-tsmc-stock-will-soar-after-aug-26-thanks-to-nvidia-s-historic-quarter/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Nvidia's upcoming earnings report is likely to give TSMC stock a nice shot in the arm.",
+    "published_at": "2026-08-25T15:23:01+08:00",
+    "stocks": [],
+    "uid": "6534eaf94cc26644b5c61dbbc8883942"
+  },
+  {
+    "title": "Stablecoin card spending forecast to hit $50 billion a year by 2028 - RedotPay",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/stablecoin-card-spending-forecast-hit-070656894.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-25T15:06:56+08:00",
+    "stocks": [],
+    "uid": "9fb1943524a48e607edd3d2e836bf409"
+  },
+  {
+    "title": "Lego posts record first-half revenue, CEO touts strong sales at high-end and value pricing",
+    "url": "https://www.cnbc.com/2026/08/25/lego-first-half-2026-revenue.html",
+    "source": "CNBC Markets",
+    "summary": "Lego CEO Niels Christiansen told CNBC the company is seeing strong sales at both ends of the pricing spectrum.",
+    "published_at": "2026-08-25T15:00:01+08:00",
+    "stocks": [],
+    "uid": "7b126ad628219596e600d3c764973680"
+  },
+  {
+    "title": "Trump targets Iran’s trade lifelines — here are the countries most exposed",
+    "url": "https://www.cnbc.com/2026/08/25/us-iran-secondary-sanctions-china-india-uae-hormuz-trade-.html",
+    "source": "CNBC Top",
+    "summary": "Washington's threat of \"economic D-Day\" collides with a small group of governments that account for most of what remains of Iran's foreign trade.",
+    "published_at": "2026-08-25T14:24:36+08:00",
+    "stocks": [],
+    "uid": "1795f5e695de6e528c3e68a1ce16eafa"
+  },
+  {
+    "title": "Is The Metals Company a Potential Millionaire-Maker Stock?",
+    "url": "https://www.fool.com/investing/2026/08/25/is-the-metals-company-a-potential-millionaire-make/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This company aims to revolutionize the mining industry.",
+    "published_at": "2026-08-25T14:15:00+08:00",
+    "stocks": [],
+    "uid": "af866349a34b3950b25a4cf956d3dba9"
+  },
+  {
+    "title": "Prediction: SpaceX's Power Needs Will Turn It Into Oklo's Biggest Customer",
+    "url": "https://www.fool.com/investing/2026/08/25/prediction-spacexs-power-needs-will-turn-it-into-w/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Expect SpaceX to invest directly in nuclear energy.",
+    "published_at": "2026-08-25T14:05:00+08:00",
+    "stocks": [],
+    "uid": "7fe6e13b1a9160d6729c3ea5712673f3"
+  },
+  {
+    "title": "Scott Bessent's Big Announcement Could Be Bad News for These 2 Bond ETFs",
+    "url": "https://www.fool.com/investing/2026/08/25/scott-bessents-big-announcement-could-be-bad-news/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Bond investors are bearish on Bessent's bond buyback plan.",
+    "published_at": "2026-08-25T13:00:00+08:00",
+    "stocks": [],
+    "uid": "d7ab66c75d650304dc4f01a4a21dea2b"
+  },
+  {
+    "title": "Xpeng shares sink as weak delivery forecast overshadows $6.3 billion robot unit valuation",
+    "url": "https://www.cnbc.com/2026/08/25/xpeng-shares-robot-valuation-china.html",
+    "source": "CNBC Markets",
+    "summary": "Xpeng shares slid after weak delivery guidance, even as its nascent robotics business secured a valuation nearly matching that of its core EV business.",
+    "published_at": "2026-08-25T12:49:18+08:00",
+    "stocks": [],
+    "uid": "c4debf1ca7a8ae6abe463df08aa78009"
+  },
+  {
+    "title": "Could $5,000 in This Cryptocurrency Turn Into a Life-Changing Investment?",
+    "url": "https://www.fool.com/investing/2026/08/25/could-5000-in-this-cryptocurrency-turn-into-a-life/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "By 2030, XRP could trade as high as $28. But a lot needs to go right.",
+    "published_at": "2026-08-25T12:45:00+08:00",
+    "stocks": [],
+    "uid": "424ca0871918693beb53fea58532c974"
+  },
+  {
+    "title": "Alibaba Is Selling $10.2 Billion of Stock to Fund AI. Alphabet and Intel Went First.",
+    "url": "https://www.fool.com/investing/2026/08/24/alibaba-is-selling-usd10-2-billion-of-stock-to-fund-ai-alphabet-and-intel-went-first/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The three biggest stock sales by already-public companies this year now share one purpose. Every one of them is paying for the AI build-out.",
+    "published_at": "2026-08-25T11:38:01+08:00",
+    "stocks": [],
+    "uid": "d7bac6a4f48e611e2b12c8c8747697da"
+  },
+  {
+    "title": "Jensen Huang Told Investors to \"Buy at a Discount\" on June 8. History Says This Is How Often CEOs Who Publicly Call the Bottom Are Actually Right.",
+    "url": "https://www.fool.com/investing/2026/08/24/jensen-huang-told-investors-to-buy-at-a-discount-o/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "WIll the Nvidia CEO's advice pay off?",
+    "published_at": "2026-08-25T11:33:33+08:00",
+    "stocks": [],
+    "uid": "7299cb18dd622c81a6afae07b6c6ea50"
+  },
+  {
+    "title": "AI chipmaker Enflame sets subscription date for near $900 million Shanghai IPO",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ai-chipmaker-enflame-sets-subscription-date-for-near-900-million-shanghai-ipo-030523823.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-25T11:05:23+08:00",
+    "stocks": [],
+    "uid": "1a3898bf06955d4e110dc027d4315dfe"
+  },
+  {
+    "title": "Porsche inks $1.5 billion deal for AI deployment with India’s largest IT services firm Tata Consultancy",
+    "url": "https://www.cnbc.com/2026/08/25/porsche-inks-billion-ai-deal-india-it-tcs.html",
+    "source": "CNBC Top",
+    "summary": "Indian IT services giant TCS has secured a $1.5 billion contract to deploy AI for German sports carmaker Porsche.",
+    "published_at": "2026-08-25T11:01:16+08:00",
+    "stocks": [],
+    "uid": "0b33b2c3de85e951e60eadd3a4155806"
+  },
+  {
+    "title": "Western Digital Sits 46% Below Its High and Has Still More Than Doubled This Year",
+    "url": "https://www.fool.com/investing/2026/08/24/western-digital-sits-46-below-its-high-and-has-still-more-than-doubled-this-year/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "A 46% drawdown and a 150% yearly gain are both true. The number that decides the stock's case is a third one.",
+    "published_at": "2026-08-25T10:52:01+08:00",
+    "stocks": [],
+    "uid": "a9080f72b9d73c310473dfe51f9819ec"
+  },
+  {
     "title": "Gold hits over three-month high on dollar weakness, Treasury bond buyback plans",
     "url": "https://www.cnbc.com/2026/08/25/gold-hits-over-three-month-high-on-dollar-weakness-treasury-bond-buyback-plans.html",
     "source": "CNBC Top",
@@ -505,6 +1135,15 @@
     "uid": "1cd2cd2e6ca46b1827385a3cc1246db6"
   },
   {
+    "title": "How to buy travel insurance (and when to skip it)",
+    "url": "https://finance.yahoo.com/news/how-to-buy-travel-insurance-202029737.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-25T04:20:29+08:00",
+    "stocks": [],
+    "uid": "5f7b3a7be51e397a6d18ad4be1dc8d35"
+  },
+  {
     "title": "Jim Cramer says don't sell Meta on litigation risk — the stock is worth the wait",
     "url": "https://www.cnbc.com/2026/08/24/jim-cramer-says-dont-sell-meta-on-litigation-risk-the-stock-is-worth-the-wait.html",
     "source": "CNBC Top",
@@ -539,6 +1178,15 @@
     "published_at": "2026-08-25T03:18:00+08:00",
     "stocks": [],
     "uid": "8f1c0a75f98d32ebeddace9f698a764d"
+  },
+  {
+    "title": "Nvidia's valuation looks surprisingly cheap heading into earnings. Could it be an issue for the stock?",
+    "url": "https://finance.yahoo.com/markets/stocks/article/nvidias-valuation-looks-surprisingly-cheap-heading-into-earnings-could-it-be-an-issue-for-the-stock-191738544.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-25T03:17:38+08:00",
+    "stocks": [],
+    "uid": "e893d2106fe62b323fd00f24b066f7f7"
   },
   {
     "title": "The AI race is moving fast. What does that mean for employees' summer vacation?",
@@ -1166,6 +1814,33 @@
     "published_at": "2026-08-24T22:02:54+08:00",
     "stocks": [],
     "uid": "dc44b32bfde93ec4bd2141bcfdd69f4e"
+  },
+  {
+    "title": "Bitcoin and ethereum prices today, Monday, August 24, 2026: Prices rising, as investors look for more Fed clues this week",
+    "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-august-24-2026-prices-rising-as-investors-look-for-more-fed-clues-this-week-130538704.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-24T21:05:38+08:00",
+    "stocks": [],
+    "uid": "44449628ce337bda1dc1e3dbab53c7cc"
+  },
+  {
+    "title": "Gemini crypto exchange review 2026: Bank-grade security comes at a price",
+    "url": "https://finance.yahoo.com/personal-finance/investing/review/gemini-crypto-review-130000290.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-24T21:00:00+08:00",
+    "stocks": [],
+    "uid": "c0f8e720eea3536cd9e857faf60cad93"
+  },
+  {
+    "title": "Silver prices today, Monday, August 24, 2026: Why silver remains on a roll, up over 18% month-over-month",
+    "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-august-24-2026-why-silver-remains-on-a-roll-up-over-18-month-over-month-124600654.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-24T20:46:00+08:00",
+    "stocks": [],
+    "uid": "109c24f607345270d9187e64b81b7e04"
   },
   {
     "title": "Canada tariffs, Bessent's buyback funding, Scott Kirby's plans for United and more in Morning Squawk",
@@ -1825,6 +2500,24 @@
     "published_at": "2026-08-24T18:00:00+08:00",
     "stocks": [],
     "uid": "35a3f03a9afe1e8f838d48c2cd5caaad"
+  },
+  {
+    "title": "Best high-yield savings interest rates today, Tuesday, August 25, 2026: Earn up to 4.15% APY",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-tuesday-august-25-2026-earn-up-to-415-apy-100000361.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-24T18:00:00+08:00",
+    "stocks": [],
+    "uid": "fc168cfaa084bd311cd80ff4f6f37591"
+  },
+  {
+    "title": "HELOC and home equity loan rates today, Tuesday, August 25, 2026: Besides rates, how to choose between a HELOC or home equity loan",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-tuesday-august-25-2026-besides-rates-how-to-choose-between-a-heloc-or-home-equity-loan-100000242.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-24T18:00:00+08:00",
+    "stocks": [],
+    "uid": "7d20e6a2150402f619dea760a39d80e7"
   },
   {
     "title": "Here's How Much You Actually Need to Build a $1 Million Portfolio -- and the Simplest Way to Get There",
@@ -350891,6 +351584,15 @@
     "published_at": "2025-11-04T01:08:34+08:00",
     "stocks": [],
     "uid": "9df20b7ca27e84c039183db0dc0c0894"
+  },
+  {
+    "title": "Weekly survey of mortgage lenders with the lowest rates: Holding firm in the mid-6s",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/weekly-survey-mortgage-lenders-with-the-best-lowest-rates-august-24-170834159.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2025-11-04T01:08:34+08:00",
+    "stocks": [],
+    "uid": "e497567b3a3b00f6dfa760412401d8a0"
   },
   {
     "title": "Weekly survey of mortgage lenders with the lowest rates: Leaders price in the low 6% range",
