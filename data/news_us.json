@@ -1,5 +1,459 @@
 [
   {
+    "title": "US Treasury’s Bessent warns yen volatility risks spillover to global markets",
+    "url": "https://www.investing.com/news/economy-news/us-treasurys-bessent-warns-yen-volatility-risks-spillover-to-global-markets-4881990",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-30T01:23:31+08:00",
+    "stocks": [],
+    "uid": "63edc658824bd98135994ec54e2f494a"
+  },
+  {
+    "title": "A Single Retiree Can Pull About $23,000 From an IRA This Year and Owe $0 Federal Tax. Most Take Nothing and Let the Bracket Go to Waste.",
+    "url": "https://finance.yahoo.com/markets/currencies/articles/single-retiree-pull-23-000-172238487.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-30T01:22:38+08:00",
+    "stocks": [],
+    "uid": "d8c244ee713f388136b75d31f7fbe36c"
+  },
+  {
+    "title": "The Surprising Way Working After Your Full Retirement Age (FRA) Could Cost You Social Security Benefits",
+    "url": "https://finance.yahoo.com/economy/policy/articles/surprising-way-working-full-retirement-172000712.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-30T01:20:00+08:00",
+    "stocks": [
+      "FRA"
+    ],
+    "uid": "3bc0fd0b16f5c125d78042546d724950"
+  },
+  {
+    "title": "Thinking of Buying Alibaba Stock Now? Here's 1 Green Flag and 1 Red Flag.",
+    "url": "https://www.fool.com/investing/2026/08/29/thinking-of-buying-alibaba-stock-now-heres-one-gre/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Alibaba's efforts in AI are starting to pay off, but the company is spending heavily to make them happen.",
+    "published_at": "2026-08-30T01:16:00+08:00",
+    "stocks": [],
+    "uid": "8be3850e29796889e410acc0ff9a0bfd"
+  },
+  {
+    "title": "Is D-Wave Quantum a Buy?",
+    "url": "https://www.fool.com/investing/2026/08/29/is-d-wave-quantum-a-buy/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "D-Wave Quantum has paying customers and a broadening technology platform. Here's why that's not the whole story.",
+    "published_at": "2026-08-30T01:13:00+08:00",
+    "stocks": [],
+    "uid": "1f7c89e8c32e97c9a836f43120adde4c"
+  },
+  {
+    "title": "Patients with the deadliest cancer finally have something that works",
+    "url": "https://finance.yahoo.com/healthcare/articles/patients-deadliest-cancer-finally-something-170700573.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-30T01:07:00+08:00",
+    "stocks": [],
+    "uid": "28c14ca4f0a4806c8f39d5be1b2028c6"
+  },
+  {
+    "title": "A Magnite Director Sells Nearly 50,000 Shares Worth $1.2 Million Amid a Rising Stock Price",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/magnite-director-sells-nearly-50-170454878.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-30T01:04:54+08:00",
+    "stocks": [],
+    "uid": "c184cf2be5394ea60bbd71792c97c023"
+  },
+  {
+    "title": "The Surprising Way Working After Your Full Retirement Age (FRA) Could Cost You Social Security Benefits",
+    "url": "https://www.fool.com/retirement/2026/08/29/the-surprising-way-working-after-full-retirement/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This hidden cost doesn't have to catch you off guard.",
+    "published_at": "2026-08-30T01:00:00+08:00",
+    "stocks": [
+      "FRA"
+    ],
+    "uid": "7d091d0312bae5bbaaa418e6175fa683"
+  },
+  {
+    "title": "Bessent says disorderly yen moves can destabilize global markets",
+    "url": "https://www.investing.com/news/economy-news/bessent-says-disorderly-yen-moves-can-destabilize-global-markets-4881989",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-30T00:48:27+08:00",
+    "stocks": [],
+    "uid": "7092c7f57ac2a8659c896520dac72ddb"
+  },
+  {
+    "title": "A Magnite Director Sells Nearly 50,000 Shares Worth $1.2 Million Amid a Rising Stock Price",
+    "url": "https://www.fool.com/coverage/filings/2026/08/29/a-magnite-director-sells-nearly-50-000-shares-worth-usd1-2-million-amid-a-rising-stock-price/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The provider of software tools that help publishers monetize digital content reported a notable insider equity sale.",
+    "published_at": "2026-08-30T00:44:54+08:00",
+    "stocks": [],
+    "uid": "66c9d7fd91a91adee97460c9d9beaffa"
+  },
+  {
+    "title": "If a Stock Market Crash Is on the Way, History Says This Is the Smartest Thing Investors Can Do",
+    "url": "https://www.fool.com/investing/2026/08/29/if-stock-market-crash-history-smart-investor/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Two of the scariest words in an investor's vocabulary are \"market crash.\" However, there's no time like a crash to add to your portfolio.",
+    "published_at": "2026-08-30T00:37:00+08:00",
+    "stocks": [],
+    "uid": "5a4576344b4544cc81a1ea2fb2ce84d1"
+  },
+  {
+    "title": "Could This Hot Growth Stock Be the Next MercadoLibre? Why It Looks Like a Screaming Buy",
+    "url": "https://www.fool.com/investing/2026/08/29/could-this-hot-growth-stock-be-the-next-mercadolibre-why-it-looks-like-a-screaming-buy/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Mexican grocer BBB Foods is delivering impressive growth and has a long runway ahead of it.",
+    "published_at": "2026-08-30T00:30:01+08:00",
+    "stocks": [],
+    "uid": "c37cd4be1a3af9e51c7548dc02254ae2"
+  },
+  {
+    "title": "I'd Rather Bet on AI's Electric Bill Than Its Chips. Here's Why.",
+    "url": "https://www.fool.com/investing/2026/08/29/id-rather-bet-on-ais-electric-bill-than-its-chips/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Technology changes fast, but electricity doesn't.",
+    "published_at": "2026-08-30T00:15:00+08:00",
+    "stocks": [],
+    "uid": "16b0d79885d117a49c55fd1d8b245199"
+  },
+  {
+    "title": "Claiming Social Security at 62 Could Be a Dangerous Move for Retirees in This Situation",
+    "url": "https://www.fool.com/retirement/2026/08/29/claiming-social-security-at-62-could-be-a-dangerou/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "It's a decision that could end up hurting the person you love most.",
+    "published_at": "2026-08-30T00:06:00+08:00",
+    "stocks": [],
+    "uid": "ebf97e22e4c377dad87471cc11e0dfd6"
+  },
+  {
+    "title": "HDFC Bank CEO Jagdishan to step down in October as governance pressures mount",
+    "url": "https://www.investing.com/news/stock-market-news/hdfc-bank-ceo-jagdishan-to-step-down-in-october-as-governance-pressures-mount-4881988",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-30T00:04:26+08:00",
+    "stocks": [],
+    "uid": "4f52f32bf2649e717d72b8b49e8704da"
+  },
+  {
+    "title": "Rocket Lab Just Sold Its First Full Neutron Flight to Kepler Communications. Here's What That Means in Its Competition With SpaceX.",
+    "url": "https://www.fool.com/investing/2026/08/29/rocket-lab-just-sold-its-first-full-neutron-flight/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The differences between these two seemingly similar companies are starting to become clear. And they matter.",
+    "published_at": "2026-08-30T00:00:00+08:00",
+    "stocks": [],
+    "uid": "039d7ffef8e1e3fcd48bf6fcc03d7e46"
+  },
+  {
+    "title": "The U.S. National Debt Just Topped $40 Trillion. Here's What That Could Mean for Bitcoin.",
+    "url": "https://www.fool.com/investing/2026/08/29/the-us-national-debt-just-topped-40-trillion/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Bitcoin has a key advantage in the context of rising government debt.",
+    "published_at": "2026-08-29T23:53:00+08:00",
+    "stocks": [],
+    "uid": "76ef9125977328e8792e6dd55aec479d"
+  },
+  {
+    "title": "Iceland votes in tight referendum on whether to start EU membership talks",
+    "url": "https://www.investing.com/news/economy-news/iceland-votes-in-tight-referendum-on-whether-to-start-eu-membership-talks-4881985",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-29T23:48:27+08:00",
+    "stocks": [],
+    "uid": "2f0092554bf59c8604e3e6066492e68d"
+  },
+  {
+    "title": "Amgen vs. Axsome Therapeutics: Which Healthcare Stock Is a Better Buy in 2026?",
+    "url": "https://www.fool.com/coverage/better-buy/2026/08/29/amgen-vs-axsome-therapeutics-which-healthcare-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Amgen generated $8.1 billion in free cash flow in 2025, with a 21% net margin, while Axsome is scaling rapidly but still unprofitable.",
+    "published_at": "2026-08-29T23:45:01+08:00",
+    "stocks": [],
+    "uid": "1b3d6b9751af5bb42aac80344daf475a"
+  },
+  {
+    "title": "This Nuclear IPO Stock Just Landed a Multiyear Fuel Deal. Is it a Buy?",
+    "url": "https://www.fool.com/investing/2026/08/29/this-nuclear-ipo-stock-just-landed-a-multi-year-fu/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Next-generation nuclear reactors need fuel, and Standard Nuclear is one of the companies that provides it.",
+    "published_at": "2026-08-29T23:45:00+08:00",
+    "stocks": [],
+    "uid": "de063cbaede96a616aa515c6f1290728"
+  },
+  {
+    "title": "Executive Sells Nearly 2,300 Shares of eBay Stock, Valued at More Than $235,000",
+    "url": "https://www.fool.com/coverage/filings/2026/08/29/executive-sells-nearly-2-300-shares-of-ebay-stock-valued-at-more-than-usd235-000/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Sweetnam disposed of shares valued at ~$237,000 to cover tax obligations from RSU vesting, maintaining a direct stake of 32,239 shares worth $3.25 million.",
+    "published_at": "2026-08-29T23:40:01+08:00",
+    "stocks": [],
+    "uid": "83c85f1bfa4c824b3418f872a216e611"
+  },
+  {
+    "title": "Nvidia's CFO Just Explained Why the AI Boom Is Eating Its Gross Margin -- and It's a Green Light for Micron",
+    "url": "https://www.fool.com/investing/2026/08/29/nvidias-just-explained-why-the-ai-boom-is-eating/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Nvidia guided for a lower gross margin over the next two quarters.",
+    "published_at": "2026-08-29T23:30:00+08:00",
+    "stocks": [],
+    "uid": "11d946757604d4114664b758a3bdddd4"
+  },
+  {
+    "title": "Here's Exactly How Many ETF Shares You'd Need to Replace Your Salary With Dividends",
+    "url": "https://www.fool.com/investing/2026/08/29/heres-exactly-how-many-etf-shares-youd-need-to-rep/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "These top dividend ETFs offer different paths to replacing your salary.",
+    "published_at": "2026-08-29T23:30:00+08:00",
+    "stocks": [],
+    "uid": "0f778af57b43525dac00cd9f6ef73f17"
+  },
+  {
+    "title": "SEC Filings Just Revealed the Smart Money Is Overweight SpaceX. Should You Buy It Now?",
+    "url": "https://www.fool.com/investing/2026/08/29/sec-filings-just-revealed-smart-money-is-overweigh/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Institutional investors could determine the future of SpaceX's stock price.",
+    "published_at": "2026-08-29T23:15:00+08:00",
+    "stocks": [],
+    "uid": "b36c71b60310e81b717dc367b30cd778"
+  },
+  {
+    "title": "What do households want from the UK Budget?",
+    "url": "https://www.investing.com/news/economy-news/what-do-households-want-from-the-uk-budget-4881983",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-29T23:10:02+08:00",
+    "stocks": [],
+    "uid": "3e7f13e0a37fc6b39b2e627d81fef44d"
+  },
+  {
+    "title": "72% of homebuyers have paused their search waiting for lower mortgage rates — and 41% already regret it",
+    "url": "https://finance.yahoo.com/real-estate/articles/72-homebuyers-paused-search-waiting-150000785.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-29T23:00:00+08:00",
+    "stocks": [],
+    "uid": "70cb2fa7af98f1bf74e01fc78a6625f7"
+  },
+  {
+    "title": "These 2 Expenses Might Eat Up More of Your 2027 Social Security COLA Than Expected",
+    "url": "https://www.fool.com/retirement/2026/08/29/these-2-expenses-might-eat-up-more-of-your-2027-so/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Don't forget to factor these things in when preparing next year's budget.",
+    "published_at": "2026-08-29T23:00:00+08:00",
+    "stocks": [],
+    "uid": "f6eb9a4aea59e53943be141a928eab2b"
+  },
+  {
+    "title": "Nebius: Massive Billion-Dollar AI Deals Raise Critical Stakes",
+    "url": "https://www.fool.com/investing/2026/08/29/nebius-massive-billion-dollar-ai-deals-raise-criti/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Nebius is rapidly turning AI demand into contracts, revenue, and new capacity. But with expectations soaring, investors need to understand what could determine where the story goes next.",
+    "published_at": "2026-08-29T23:00:00+08:00",
+    "stocks": [],
+    "uid": "21d66a933fc0fea97174f423cd8874be"
+  },
+  {
+    "title": "Teleprompter Operator Who Bet on Trump Speeches Is Ordered to Pay Fine",
+    "url": "https://www.nytimes.com/2026/08/29/us/politics/teleprompter-trump-speech-kalshi-perez-bet.html",
+    "source": "NYT Business",
+    "summary": "Gabriel Perez had access to the president’s speeches before they were delivered and was accused of placing unlawful wagers on words that would be spoken.",
+    "published_at": "2026-08-29T22:57:13+08:00",
+    "stocks": [],
+    "uid": "c6f86528c6411501d1e085ffba395e00"
+  },
+  {
+    "title": "Everus Construction Director Sparby Buys 1,000 Shares at $144.95",
+    "url": "https://www.fool.com/coverage/filings/2026/08/29/everus-construction-director-sparby-buys-1000-shares-at-14495/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Sparby's $144,950 purchase brings his direct stake to 19,658 shares, signaling confidence.",
+    "published_at": "2026-08-29T22:55:01+08:00",
+    "stocks": [],
+    "uid": "244021eb7c0936bb97765577eacbd999"
+  },
+  {
+    "title": "Chevron's Microsoft Data Center Deal Was a Bigger Story Than Its Earnings. Here's Why.",
+    "url": "https://www.fool.com/investing/2026/08/29/chevron-microsoft-data-center-deal-big-earning/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Chevron is getting in on the AI boom with its recent long-term energy agreement with Microsoft.",
+    "published_at": "2026-08-29T22:45:00+08:00",
+    "stocks": [],
+    "uid": "8564d9bb04d76c9feedeaefb8deb2199"
+  },
+  {
+    "title": "Kevin O'Leary, worth $400 million, compares paper towel prices at Walmart as grocery costs climb 5.9%",
+    "url": "https://finance.yahoo.com/economy/articles/kevin-oleary-worth-400-million-143000770.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-29T22:30:00+08:00",
+    "stocks": [],
+    "uid": "f2a5e0a9370f108cb0d74130431f4d67"
+  },
+  {
+    "title": "IonQ's Massive Shift: Vertical Integration Raises High-Stakes Execution",
+    "url": "https://www.fool.com/investing/2026/08/29/ionqs-massive-shift-vertical-integration-raises-hi/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "IonQ's story is changing fast as growth, technology, and strategic importance collide with a demanding valuation. Here's what investors should understand before deciding what comes next.",
+    "published_at": "2026-08-29T22:30:00+08:00",
+    "stocks": [],
+    "uid": "3fb41a1371aa43b45951a7dc783b398d"
+  },
+  {
+    "title": "Why Tesla's Optimus Robot Might Have a Hollywood \"Problem\"",
+    "url": "https://www.fool.com/investing/2026/08/29/why-tesla-optimus-robot-hollywood-problem/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Investors may misjudge Optimus's adoption rate by focusing on how the entertainment industry portrays humanoid robots.",
+    "published_at": "2026-08-29T22:30:00+08:00",
+    "stocks": [],
+    "uid": "88eee703d5f5403c26af173f85608b97"
+  },
+  {
+    "title": "CoreCivic Exec Sells 29,000 Shares, Netting Nearly $1 Million",
+    "url": "https://www.fool.com/coverage/filings/2026/08/29/corecivic-exec-sells-29-000-shares-netting-nearly-usd1-million/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Grande sells over 29,000 shares but still maintains significant holdings.",
+    "published_at": "2026-08-29T22:20:01+08:00",
+    "stocks": [],
+    "uid": "165054f48db35e9f53605e47f18f6ecf"
+  },
+  {
+    "title": "History Says All Bear Markets Have 1 Trait in Common -- and It's Fantastic News for Investors",
+    "url": "https://www.fool.com/investing/2026/08/29/history-says-all-bear-markets-have-1-trait-in-comm/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Why bear markets shouldn't scare off smart stockholders.",
+    "published_at": "2026-08-29T22:20:00+08:00",
+    "stocks": [],
+    "uid": "40980fad5a5d5025f0112813ceab2e87"
+  },
+  {
+    "title": "Opinion: Bristol Myers Squibb Is a Buy -- but the Real Reason Why Might Surprise Investors",
+    "url": "https://www.fool.com/investing/2026/08/29/opinion-bristol-myers-squibb-is-a-buy-but-the-real/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Bristol Myers Squibb is facing down a major patent cliff, which is a problem and a huge motivating force.",
+    "published_at": "2026-08-29T22:15:00+08:00",
+    "stocks": [],
+    "uid": "141a1559e00fbb80cb45ce622ee112cd"
+  },
+  {
+    "title": "Fed Chairman Warsh shows courage with Jackson Hole speech, defying political pressure, says Harvard's Rogoff",
+    "url": "https://finance.yahoo.com/economy/article/fed-chairman-warsh-shows-courage-with-jackson-hole-speech-defying-political-pressure-says-harvards-rogoff-140951926.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-29T22:09:51+08:00",
+    "stocks": [],
+    "uid": "3c4be9bd5dcce8d07c4f63532e294152"
+  },
+  {
+    "title": "How $100 a Month Could Grow Into a 6-Figure Portfolio, According to History",
+    "url": "https://www.fool.com/investing/2026/08/29/how-100-month-grow-into-6-figure-portfolio-history/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The power of long-term compounding can turn even small monthly investments into significant sums of money.",
+    "published_at": "2026-08-29T22:01:00+08:00",
+    "stocks": [],
+    "uid": "cd1826116a08cd10c385450ddb290583"
+  },
+  {
+    "title": "IREN's Powerful AI Milestones Could Reshape Valuation, With Critical Risk",
+    "url": "https://www.fool.com/investing/2026/08/29/irens-powerful-ai-milestones-could-reshape-valuati/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Two major AI milestones are changing the investment case for IREN. See why the company's transformation could reshape its valuation, and the risk that could still derail the bull case.",
+    "published_at": "2026-08-29T22:00:00+08:00",
+    "stocks": [],
+    "uid": "95d3f875a3b5c0e9a227a5f166c3fb0d"
+  },
+  {
+    "title": "The Ultimate Tech ETF to Buy With $5,000 Right Now",
+    "url": "https://www.fool.com/investing/2026/08/29/the-ultimate-tech-etf-to-buy-with-5000-right-now/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Artificial intelligence is the hottest opportunity right now, and chips are the best way to play it.",
+    "published_at": "2026-08-29T21:45:00+08:00",
+    "stocks": [],
+    "uid": "e2441b821be59ae1cdd49c45dd4202f6"
+  },
+  {
+    "title": "Suze Orman says your annuity guarantee is 'only as good as' the insurer's balance sheet — here's why",
+    "url": "https://finance.yahoo.com/markets/options/articles/suze-orman-says-annuity-guarantee-133000171.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-29T21:30:00+08:00",
+    "stocks": [],
+    "uid": "f0491a1d72311d7312f9ae6adbd425ca"
+  },
+  {
+    "title": "IBM Could Be a Massive Winner as the Encryption Reset Becomes Urgent",
+    "url": "https://www.fool.com/investing/2026/08/29/ibm-could-be-a-massive-winner-as-the-encryption-re/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "IBM's quantum-security opportunity is real, but the payoff is still unproven. See where spending could emerge, what gives IBM an edge, and what investors need to see before the thesis gets stronger.",
+    "published_at": "2026-08-29T21:30:00+08:00",
+    "stocks": [],
+    "uid": "64b608803eb7d236ab54a9dc6428e2f9"
+  },
+  {
+    "title": "Caterpillar's Power Generation Business Is Nearly as Big as Its Construction Segment. Here's What That Shift Means for the Stock's Multiple",
+    "url": "https://www.fool.com/investing/2026/08/29/caterpillar-power-generation-business-grow-stock/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "It's not a construction equipment name that also offers power-generation solutions anymore. Now it's a power-production business that also sells construction equipment, and is priced like it in the era of AI's growth.",
+    "published_at": "2026-08-29T21:30:00+08:00",
+    "stocks": [],
+    "uid": "5fe739d67c2be8ba7bad032db12e1bb3"
+  },
+  {
+    "title": "The big lesson from this week's earnings: The AI buildout is not a zero-sum game",
+    "url": "https://www.cnbc.com/2026/08/29/big-lesson-from-this-weeks-earnings-ai-buildout-is-not-a-zero-sum-game.html",
+    "source": "CNBC Markets",
+    "summary": "Salesforce, CrowdStrike, and Nvidia all faced major tests with investors and crushed expectations.",
+    "published_at": "2026-08-29T21:25:55+08:00",
+    "stocks": [],
+    "uid": "1a045f39e10c0c03dea2801b569ff752"
+  },
+  {
+    "title": "Stock Market Week Ahead: Chips, Cybersecurity And Jobs",
+    "url": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-chips-cybersecurity-and-jobs/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-29T21:07:58+08:00",
+    "stocks": [],
+    "uid": "3854a2bee1802af49cebd6cd8f7b5dbb"
+  },
+  {
+    "title": "Gen Zers quit their jobs to start a pickle company—now it’s valued at $8.5 million",
+    "url": "https://www.cnbc.com/2026/08/29/how-two-gen-z-founders-made-hot-girl-pickles-stand-out.html",
+    "source": "CNBC Top",
+    "summary": "Good Girl Snacks founders Leah Marcus and Yasaman Bakhitar built their startup's multimillion-dollar valuation with pickle jars and Gen Z branding strategies.",
+    "published_at": "2026-08-29T21:05:01+08:00",
+    "stocks": [],
+    "uid": "fd353c9900817c5900cd88201d3964db"
+  },
+  {
+    "title": "Op-ed: Salesforce just revealed the next battleground in AI — and it's not the models",
+    "url": "https://www.cnbc.com/2026/08/29/op-ed-salesforce-revealed-next-battleground-in-ai-its-not-models.html",
+    "source": "CNBC Tech",
+    "summary": "For the past year, markets have vaporized roughly $2 trillion in software value by asking the wrong question about AI.",
+    "published_at": "2026-08-29T21:00:01+08:00",
+    "stocks": [],
+    "uid": "bd598eaaed1b48952e1fcff7b4281309"
+  },
+  {
+    "title": "Why would someone lock up money by rolling it into a 401(k)?",
+    "url": "https://www.marketwatch.com/story/why-would-someone-lock-up-money-by-rolling-it-into-a-401-k-2c742e90?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "When done right, rollovers can be a great tool.",
+    "published_at": "2026-08-29T21:00:00+08:00",
+    "stocks": [],
+    "uid": "61d6309e68823e577471f183f55d4c07"
+  },
+  {
+    "title": "Goldman draws 3 lessons from economic research on U.S. inflation expectations",
+    "url": "https://www.investing.com/news/economy-news/goldman-draws-3-lessons-from-economic-research-on-us-inflation-expectations-4881977",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-29T20:47:09+08:00",
+    "stocks": [],
+    "uid": "f5e91643d3fc14e49f92ccd3845c40f0"
+  },
+  {
     "title": "Tim Cook wasn’t a ‘product guy’ — so he re-engineered Apple instead",
     "url": "https://www.marketwatch.com/story/tim-cook-wasnt-a-product-guy-so-he-re-engineered-apple-instead-03ca53f4?mod=mw_rss_topstories",
     "source": "MarketWatch",
@@ -412,6 +866,15 @@
     "published_at": "2026-08-29T18:00:00+08:00",
     "stocks": [],
     "uid": "1b562bcf34a4c64171786f40a74f4a4c"
+  },
+  {
+    "title": "Best CD rates today, Saturday, August 29, 2026: Lock in up to 4.30% APY with a 16- or 18-month CD",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-august-29-2026-lock-in-up-to-430-apy-with-a-16--or-18-month-cd-100000220.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-29T18:00:00+08:00",
+    "stocks": [],
+    "uid": "c1eb47dae08725e8053876509d4dfc5f"
   },
   {
     "title": "360in360 Living Memories Adds Audiobook and Voice-Preservation Capability",
@@ -361184,6 +361647,15 @@
     "published_at": "2025-04-23T03:06:10+08:00",
     "stocks": [],
     "uid": "41d5284cd4ec40d602f19cf8e808bb75"
+  },
+  {
+    "title": "When will mortgage rates go down? Or maybe they're poised to move higher.",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/when-will-mortgage-rates-go-down-or-maybe-theyre-poised-to-move-higher-190610094.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2025-04-23T03:06:10+08:00",
+    "stocks": [],
+    "uid": "3c5e67b6050d0001167acc9ace07fd1e"
   },
   {
     "title": "10 best money market accounts and rates for August 2026: Rates up to 3.9% APY",
