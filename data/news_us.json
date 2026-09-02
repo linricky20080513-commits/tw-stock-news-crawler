@@ -1,5 +1,797 @@
 [
   {
+    "title": "NBA suspends Clippers owner Ballmer for one year in Kawhi Leonard salary cap probe",
+    "url": "https://www.cnbc.com/2026/09/02/nba-suspends-clippers-ballmer-kawhi-leonard-salary-cap.html",
+    "source": "CNBC Top",
+    "summary": "The NBA also fined the Los Angeles Clippers $30 million and said the team will forfeit five first-round picks, one in each year in drafts starting in 2029.",
+    "published_at": "2026-09-03T04:54:39+08:00",
+    "stocks": [],
+    "uid": "fc93b56aae5ba8eff2fa7d3e196c22a3"
+  },
+  {
+    "title": "Broadcom’s stock falls despite upbeat earnings, extending a frustrating stretch for investors",
+    "url": "https://www.marketwatch.com/story/broadcoms-stock-falls-despite-upbeat-earnings-extending-a-frustrating-stretch-for-investors-81de3f53?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Broadcom shares have gained just 6% so far this year, lagging behind the broader chip sector, which has risen 60%. The company’s outlook offered minimal upside relative to expectations..",
+    "published_at": "2026-09-03T04:51:00+08:00",
+    "stocks": [],
+    "uid": "e3695e7980082ede6617fad93f54d44a"
+  },
+  {
+    "title": "USTR's Greer huddles with House Republicans amid Trump trade spats",
+    "url": "https://www.cnbc.com/2026/09/02/greer-trade-house-republicans-trump.html",
+    "source": "CNBC Top",
+    "summary": "Trump's plan to lower tariffs on 300,000 metric tons of imported beef caused an uproar among cattle ranchers.",
+    "published_at": "2026-09-03T04:50:51+08:00",
+    "stocks": [],
+    "uid": "f77216947fe3be8e6fb9b8c8c820aef9"
+  },
+  {
+    "title": "Microsoft to start disclosing Azure quarterly revenue as company consolidates business units",
+    "url": "https://www.cnbc.com/2026/09/02/microsoft-to-disclose-azure-revenue-as-part-of-segment-changes.html",
+    "source": "CNBC Top",
+    "summary": "Microsoft will begin reporting quarterly Azure revenue in dollars for the first time, providing more clarity about its business that competes with AWS.",
+    "published_at": "2026-09-03T04:46:42+08:00",
+    "stocks": [],
+    "uid": "0c8b29bc7a73d219b0d4687dc349d4b8"
+  },
+  {
+    "title": "Broadcom forecasts quarterly revenue below estimates as custom-chip competition in",
+    "url": "https://www.investing.com/news/earnings/broadcom-forecasts-quarterly-revenue-below-estimates-as-customchip-competition-in-4886770",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-03T04:45:57+08:00",
+    "stocks": [],
+    "uid": "7013a42f7acfdbf6f8dda49172a908d0"
+  },
+  {
+    "title": "Methode Electronics earnings beat by $0.02, revenue topped estimates",
+    "url": "https://www.investing.com/news/earnings/methode-electronics-earnings-beat-by-002-revenue-topped-estimates-4886769",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-03T04:44:22+08:00",
+    "stocks": [],
+    "uid": "8c1eac054099ca903f53a017fee14f29"
+  },
+  {
+    "title": "Microsoft updates segment reporting structure for fiscal 2027",
+    "url": "https://www.investing.com/news/stock-market-news/microsoft-updates-segment-reporting-structure-for-fiscal-2027-93CH-4886768",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-03T04:43:19+08:00",
+    "stocks": [],
+    "uid": "cedc294e0a7cf659dda4a3be531e00f3"
+  },
+  {
+    "title": "HPE follows in Dell’s footsteps as it rides the AI server boom to a big earnings beat",
+    "url": "https://www.marketwatch.com/story/hpe-follows-in-dells-footsteps-as-it-rides-the-ai-server-boom-to-a-big-earnings-beat-ec46eaea?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Unlike Dell, HPE focuses on enterprise and sovereign customers, which one analyst noted have a better profit profile.",
+    "published_at": "2026-09-03T04:42:00+08:00",
+    "stocks": [],
+    "uid": "eec6ee34949ad270a5c5b6c78ec4b62d"
+  },
+  {
+    "title": "Evercore ISI maintains Apple stock rating amid App Store weakness",
+    "url": "https://www.investing.com/news/analyst-ratings/evercore-isi-maintains-apple-stock-rating-amid-app-store-weakness-93CH-4886764",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-03T04:40:48+08:00",
+    "stocks": [],
+    "uid": "233ff10191f499ca82a810d17e3806ed"
+  },
+  {
+    "title": "PulteGroup declares quarterly dividend of $0.26 per share",
+    "url": "https://www.investing.com/news/company-news/pultegroup-declares-quarterly-dividend-of-026-per-share-93CH-4886763",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-03T04:40:27+08:00",
+    "stocks": [],
+    "uid": "0b140e5bb1ffbcbe7f07b94626fc3e81"
+  },
+  {
+    "title": "HPE delivers beat-and-raise quarter, gives Oracle option to buy shares",
+    "url": "https://www.investing.com/news/earnings/hpe-delivers-beatandraise-quarter-gives-oracle-option-to-buy-shares-4886741",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-03T04:39:24+08:00",
+    "stocks": [],
+    "uid": "6e8463898f7aa656f6b6d6396b1cf9f4"
+  },
+  {
+    "title": "Byrna Technologies appoints Matthew McBrady to board",
+    "url": "https://www.investing.com/news/company-news/byrna-technologies-appoints-matthew-mcbrady-to-board-93CH-4886760",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-03T04:36:34+08:00",
+    "stocks": [],
+    "uid": "960bd0de69dfcc0fbc69c2a8ee870db8"
+  },
+  {
+    "title": "Kroger names Mark Ibbotson as chief store operations officer",
+    "url": "https://www.investing.com/news/company-news/kroger-names-mark-ibbotson-as-chief-store-operations-officer-93CH-4886757",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-03T04:36:29+08:00",
+    "stocks": [],
+    "uid": "75dc3f03d5d7a4ad7d30ee3621fc8bdc"
+  },
+  {
+    "title": "Venture Global secures $3 billion revolving credit facility",
+    "url": "https://www.investing.com/news/company-news/venture-global-secures-3-billion-revolving-credit-facility-93CH-4886758",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-03T04:36:29+08:00",
+    "stocks": [],
+    "uid": "025aa48126958a664351c5302d696d1f"
+  },
+  {
+    "title": "Microsoft to reveal Azure cloud sales in financial reporting shift",
+    "url": "https://www.investing.com/news/stock-market-news/microsoft-to-reveal-azure-cloud-sales-in-financial-reporting-shift-4886759",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-03T04:36:29+08:00",
+    "stocks": [],
+    "uid": "6676b3c433b9b71c4f846f6501cf14d9"
+  },
+  {
+    "title": "Broadcom's stock drops 5% as weak guidance overshadows earnings beat",
+    "url": "https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html",
+    "source": "CNBC Markets",
+    "summary": "Broadcom gave a disappointing revenue forecast for the current quarter.",
+    "published_at": "2026-09-03T04:29:53+08:00",
+    "stocks": [],
+    "uid": "2d3d96bc3d211edcff8a08ce145728de"
+  },
+  {
+    "title": "Snowflake spikes 22% on healthy results and AI coding momentum",
+    "url": "https://www.cnbc.com/2026/09/02/snowflake-snow-q2-earnings-report-2027.html",
+    "source": "CNBC Top",
+    "summary": "Snowflake business is growing quickly, in part thanks to adoption of an artificial intelligence agent for writing code.",
+    "published_at": "2026-09-03T04:28:39+08:00",
+    "stocks": [],
+    "uid": "c6e97b4fc3c8613dba84cdf463ecd773"
+  },
+  {
+    "title": "Why Sirius XM Holdings Rallied Today",
+    "url": "https://www.fool.com/investing/2026/09/02/why-sirius-xm-holdings-rallied-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "A Wall Street analyst likes the satellite radio company's advertising opportunity.",
+    "published_at": "2026-09-03T04:24:40+08:00",
+    "stocks": [],
+    "uid": "5bbde13f67ae0d624ca91af52a8301ef"
+  },
+  {
+    "title": "Why Credo Technology Stock Plunged 20% Today",
+    "url": "https://www.fool.com/investing/2026/09/02/why-credo-technology-stock-plunged-20-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Credo Technology crushed its earnings estimates. So why did the stock drop 20%?",
+    "published_at": "2026-09-03T04:19:12+08:00",
+    "stocks": [],
+    "uid": "b05669bc2a4c78d85ffd54212eaf7398"
+  },
+  {
+    "title": "Snowflake’s stock soars as the company blows away estimates with its AI-fueled forecast",
+    "url": "https://www.marketwatch.com/story/snowflakes-stock-soars-as-the-company-blows-away-estimates-with-its-ai-fueled-forecast-5b5cf36c?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Companies looking to build AI tools on top of their data are turning to Snowflake, driving robust revenue growth.",
+    "published_at": "2026-09-03T04:14:00+08:00",
+    "stocks": [],
+    "uid": "14f55c689a3f9b0c90c828a9f1c5b765"
+  },
+  {
+    "title": "Southwest to Open Premium Airport Lounges Across the Country",
+    "url": "https://www.nytimes.com/2026/09/02/travel/southwest-airport-lounges.html",
+    "source": "NYT Business",
+    "summary": "The airline said that lounges in Baltimore, Honolulu, Nashville and Austin, Texas, would debut starting late next year, and that seven more were in the works.",
+    "published_at": "2026-09-03T04:03:36+08:00",
+    "stocks": [],
+    "uid": "7116f38878ba8e0363cbd13d3ba5a6b9"
+  },
+  {
+    "title": "Uber to cut 10% of workforce in bid to move 'simpler and faster'",
+    "url": "https://www.cnbc.com/2026/09/02/uber-to-cut-10percent-of-workforce-in-bid-to-move-simpler-and-faster.html",
+    "source": "CNBC Top",
+    "summary": "Uber is cutting small teams by nearly half and allowing about 1% of its workforce to continue working remotely.",
+    "published_at": "2026-09-03T04:00:46+08:00",
+    "stocks": [],
+    "uid": "d89cefab964e7c1d981af28159357368"
+  },
+  {
+    "title": "Where Will IonQ Stock Be in 1 Year?",
+    "url": "https://www.fool.com/investing/2026/09/02/where-will-ionq-stock-be-in-1-year/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "There are a lot of moving parts at IonQ, but it might take a while for the stock to gain new traction.",
+    "published_at": "2026-09-03T04:00:00+08:00",
+    "stocks": [],
+    "uid": "b6ab97b8c64c78f3336ec5093cb3a344"
+  },
+  {
+    "title": "Why Is Palantir Stock Down Today?",
+    "url": "https://www.fool.com/investing/2026/09/02/why-is-palantir-stock-down-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Palantir stock is falling on Sept. 2, 2026, even after the company landed a new U.S. Army TITAN contract and hired AIG's Peter Zaffino as its global head of financial services.",
+    "published_at": "2026-09-03T03:48:19+08:00",
+    "stocks": [],
+    "uid": "f25f869cc1817f44462a3743a1f3d20f"
+  },
+  {
+    "title": "SpaceX’s big AI advantage is why this analyst thinks the stock could double",
+    "url": "https://www.marketwatch.com/story/spacexs-big-ai-advantage-is-why-this-analyst-thinks-the-stock-could-double-6efcdd91?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The company is adding computing infrastructure quickly, an Oppenheimer analyst notes. SpaceX is also getting large technology players to pay handsomely for its computing power.",
+    "published_at": "2026-09-03T03:45:00+08:00",
+    "stocks": [],
+    "uid": "e128f749acab4ace1af4b6face7826f0"
+  },
+  {
+    "title": "Eli Lilly Just Announced a Major Acquisition. Here's What It Means.",
+    "url": "https://www.fool.com/investing/2026/09/02/eli-lilly-just-announced-a-major-acquisition-heres/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The drug giant added to its immunotherapy portfolio.",
+    "published_at": "2026-09-03T03:43:00+08:00",
+    "stocks": [],
+    "uid": "83f6cf573c368009ce93f5052c1b8e4e"
+  },
+  {
+    "title": "Why Palantir’s stock is suffering its worst slump since February",
+    "url": "https://www.marketwatch.com/story/why-palantirs-stock-is-suffering-its-worst-slump-since-february-7fb3b289?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "After a strong postearnings rally in August, Palantir’s rich valuation multiple is under pressure once again.",
+    "published_at": "2026-09-03T03:31:00+08:00",
+    "stocks": [],
+    "uid": "a51b2136702c1622ca6d66a312123aa6"
+  },
+  {
+    "title": "Is Rivian (RIVN) a Millionaire Maker Stock?",
+    "url": "https://www.fool.com/investing/2026/09/02/is-rivn-a-millionaire-maker/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Will this underdog EV maker finally shine over the next few years?",
+    "published_at": "2026-09-03T03:30:00+08:00",
+    "stocks": [
+      "RIVN"
+    ],
+    "uid": "66a87bdd1c3cfb53e31b577de1e39fdc"
+  },
+  {
+    "title": "Why Is AST SpaceMobile Stock Up 13% Today?",
+    "url": "https://www.fool.com/investing/2026/09/02/why-is-ast-spacemobile-stock-up-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "AST SpaceMobile stock jumped as much as 13% Wednesday after Berenberg initiated coverage with a Buy rating and a $92 price target.",
+    "published_at": "2026-09-03T03:24:11+08:00",
+    "stocks": [],
+    "uid": "d3bbe742e91979e8dacf8552a5c7ebd6"
+  },
+  {
+    "title": "The Los Angeles Angels are being sold for a record $4 billion. Here's what every MLB team is now worth",
+    "url": "https://www.cnbc.com/2026/09/02/the-los-angeles-angels-are-being-sold-for-a-record-4-billion-heres-what-every-mlb-team-is-now-worth.html",
+    "source": "CNBC Top",
+    "summary": "",
+    "published_at": "2026-09-03T03:23:41+08:00",
+    "stocks": [],
+    "uid": "8cadf703309da23ee67a2b7e605dc42b"
+  },
+  {
+    "title": "Rising yields aren’t scaring off investors. Why money is still pouring into bond funds.",
+    "url": "https://www.marketwatch.com/story/rising-yields-arent-scaring-off-investors-why-money-is-still-pouring-into-bond-funds-a23e9e7c?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The U.S. bond market has been under pressure amid a rise in Treasury yields, but money is still flowing into bond funds.",
+    "published_at": "2026-09-03T03:22:00+08:00",
+    "stocks": [],
+    "uid": "1aa312850788d00a26af4d625f0efacb"
+  },
+  {
+    "title": "The 1 Reason to Delay Social Security When You Don't Expect to Live a Long Life",
+    "url": "https://www.fool.com/retirement/2026/09/02/the-1-reason-to-delay-social-security-when-you-don/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "It may seem like it doesn't make sense, but it's a move that may be worthwhile.",
+    "published_at": "2026-09-03T03:18:00+08:00",
+    "stocks": [],
+    "uid": "e9a30e5a23fb8c75ce9472a3cf0eda56"
+  },
+  {
+    "title": "Here’s another way rising bond yields could take a bite out of Americans’ wallets",
+    "url": "https://www.marketwatch.com/story/heres-another-way-rising-bond-yields-could-take-a-bite-out-of-americans-wallets-b15a720c?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Rising yields are a threat to the “Magnificent Seven.” Here’s why that could hurt U.S. consumers.",
+    "published_at": "2026-09-03T03:15:00+08:00",
+    "stocks": [],
+    "uid": "78da9d5cde9e8b5c029cb3fbb1dd435b"
+  },
+  {
+    "title": "These women were laid off while on maternity leave. Yes, it's legal, and probably more common than you thought",
+    "url": "https://www.cnbc.com/2026/09/02/getting-laid-off-on-maternity-leave.html",
+    "source": "CNBC Top",
+    "summary": "It's never a good time to be laid off. Losing your job with a newborn can be especially hard.",
+    "published_at": "2026-09-03T03:13:41+08:00",
+    "stocks": [],
+    "uid": "3145b18a2594322ffcec534a4073bfe3"
+  },
+  {
+    "title": "Traders are piling into this international stock market that just pulled ahead of the Nasdaq",
+    "url": "https://www.cnbc.com/2026/09/02/traders-pile-into-this-international-stock-market-thats-beating-the-nasdaq.html",
+    "source": "CNBC Top",
+    "summary": "The rally might be tied to commodities, which are also surging, or an expression of optimism around the country's upcoming general election in October.",
+    "published_at": "2026-09-03T03:11:07+08:00",
+    "stocks": [],
+    "uid": "d6343c0f9f0065e699bae5eb23a162ae"
+  },
+  {
+    "title": "The Grand Self Documentary Invites Audiences to Explore Human Potential, Self-Discovery, and the Illusion of Separation",
+    "url": "https://markets.businessinsider.com/news/stocks/the-grand-self-documentary-invites-audiences-to-explore-human-potential-self-discovery-and-the-illusion-of-separation-1036516966",
+    "source": "Business Insider",
+    "summary": "&lt;strong id=&quot;dateline&quot;&gt;LAS VEGAS, NV / &lt;a href='https://www.accessnewswire.com/' rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot;&gt;ACCESS Newswire&lt;/a&gt; / September 2, 2026 / The Grand Self: Dissolving the Illusion of Separation is inviting audiences around the world to experience a feature-length documentary centered on one fundamental question:",
+    "published_at": "2026-09-03T03:10:00+08:00",
+    "stocks": [],
+    "uid": "121a1b9475be5ee3faa2cd66b19ec22a"
+  },
+  {
+    "title": "Is BioNTech Stock a No-Brainer Buy on the Dip?",
+    "url": "https://www.fool.com/investing/2026/09/02/is-biontech-stock-a-no-brainer-buy-on-the-dip/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The company is coming back into the spotlight thanks to recent developments.",
+    "published_at": "2026-09-03T03:10:00+08:00",
+    "stocks": [],
+    "uid": "fdf810a535bb7defa1abc3869498793f"
+  },
+  {
+    "title": "National Domestic Violence Hotline Answers 8 Millionth Contact, Launches ‘8 Million Moments of Hope’ Campaign",
+    "url": "https://markets.businessinsider.com/news/stocks/national-domestic-violence-hotline-answers-8-millionth-contact-launches-8-million-moments-of-hope-campaign-1036516960",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;AUSTIN, Texas, Sept.  02, 2026  (GLOBE NEWSWIRE) -- The National Domestic Violence Hotline (The Hotline) answered its 8 millionth contact on July 29 at 11:43 a.m. CT, marking a milestone that reflects both three decades of support for survivors and...",
+    "published_at": "2026-09-03T03:01:53+08:00",
+    "stocks": [],
+    "uid": "01fb51b918f13a13d4a10d0ef740dc63"
+  },
+  {
+    "title": "Biocodex Microbiota Foundation invites Canadian academics and scientists to apply for €35,000 ($55,000 CAD based on current exchange rate) research grant to advance microbiota research in human...",
+    "url": "https://markets.businessinsider.com/news/stocks/biocodex-microbiota-foundation-invites-canadian-academics-and-scientists-to-apply-for-35-000-55-000-cad-based-on-current-exchange-rate-research-grant-to-advance-microbiota-research-in-human-1036516959",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;justify&quot;&gt;MONTREAL, Sept.  02, 2026  (GLOBE NEWSWIRE) -- The Biocodex Microbiota Foundation, an organization founded by Biocodex and dedicated to supporting scientific projects that explore the microbiome, is inviting grant applications...",
+    "published_at": "2026-09-03T03:00:59+08:00",
+    "stocks": [],
+    "uid": "7ddf6640c9c5f9a2f39f339a53a54d6f"
+  },
+  {
+    "title": "Kaplan Fox Alerts Investors of Taboola.com Ltd. (TBLA) to a Pending Securities Class Action - Deadline is October 20, 2026",
+    "url": "https://markets.businessinsider.com/news/stocks/kaplan-fox-alerts-investors-of-taboola.com-ltd.-tbla-to-a-pending-securities-class-action-deadline-is-october-20-2026-1036516967",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/312536/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px;  height: 1px;border: 0px solid;&quot;&gt;New York, New York--(Newsfile Corp. - September 2, 2026) - &lt;a href=&quot;https://api.newsfilecorp.com/redirect/qpaw1uMPpN&quot; rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot;&gt;Kaplan Fox  Kilsheimer LLP&lt;/a&gt; announces that a...",
+    "published_at": "2026-09-03T03:00:00+08:00",
+    "stocks": [
+      "TBLA"
+    ],
+    "uid": "5e23f795e27aaa4b35d84209a9807c68"
+  },
+  {
+    "title": "MP Materials' Stock is Surging: Here's Why",
+    "url": "https://www.fool.com/investing/2026/09/02/mp-materials-stock-is-surging-heres-why/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The company is making steady progress on its long-term plans, aided and abetted by the U.S. government.",
+    "published_at": "2026-09-03T02:57:09+08:00",
+    "stocks": [],
+    "uid": "bcb9705a9f73cd34917e563f1b86d5ae"
+  },
+  {
+    "title": "August Harvard CAPS / Harris Poll: Trump Approval Sees Slight Improvement at 44%",
+    "url": "https://markets.businessinsider.com/news/stocks/august-harvard-caps-harris-poll-trump-approval-sees-slight-improvement-at-44-1036516919",
+    "source": "Business Insider",
+    "summary": "&lt;i&gt;MIDTERMS HORSERACE REMAINS TIGHT AT 51-49 WITH DEMOCRATS HOLDING A 2-POINT LEAD, BUT LEAD FLIPS TO REPUBLICANS +2 AMONG LIKELY MIDTERM VOTERS&lt;/i&gt;&lt;i&gt;LESS THAN HALF OF VOTERS HAVE MADE A DECISION ON THEIR MIDTERMS VOTE, WITH 69% SAYING THEY WILL VOTE&lt;/i&gt;&lt;i&gt;HALF OF AMERICANS BELIEVE THE DEMOCRATIC PARTY IS BEING TAKEN OVER BY THE FAR LEFT AND...",
+    "published_at": "2026-09-03T02:55:00+08:00",
+    "stocks": [],
+    "uid": "cb4b7b9feed9c2c65ffdb1987ae743ac"
+  },
+  {
+    "title": "Franklin Dentist, The Opal Dental Co., Relocates to New Franklin, WI, Marking New Operational Milestone",
+    "url": "https://markets.businessinsider.com/news/stocks/franklin-dentist-the-opal-dental-co.-relocates-to-new-franklin-wi-marking-new-operational-milestone-1036516920",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/312645/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px;  height: 1px;border: 0px solid;&quot;&gt;&lt;p class=&quot;nfSubHeading&quot;&gt;The Opal Dental Co. has relocated to 7181 S. 76th St. in Franklin, Wisconsin, marking a new operational milestone for the dental practice.      Franklin, Wisconsin--(Newsfile Corp.",
+    "published_at": "2026-09-03T02:54:00+08:00",
+    "stocks": [],
+    "uid": "efe43e1d481d7f6bebc3423f4f31af77"
+  },
+  {
+    "title": "From the Seine to the Yangtze: CrossFire China Esports Forges a New Bridge for People-to-People Exchange",
+    "url": "https://markets.businessinsider.com/news/stocks/from-the-seine-to-the-yangtze-crossfire-china-esports-forges-a-new-bridge-for-peopletopeople-exchange-1036516921",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/312584/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px;  height: 1px;border: 0px solid;&quot;&gt;Paris, France--(Newsfile Corp. - September 2, 2026) -  During the 2026 Esports World Cup (EWC) in Paris, CrossFire (CF)-China and Asia's major competitive shooting title-took center stage as one of the...",
+    "published_at": "2026-09-03T02:52:00+08:00",
+    "stocks": [
+      "EWC",
+      "CF"
+    ],
+    "uid": "1ccdb4e5a4741279702401c7a17d6e3a"
+  },
+  {
+    "title": "TRON H1 2026 Strategy Report: Anchored by DeFi, Driven by AI to Lead Crypto's Next Cycle",
+    "url": "https://markets.businessinsider.com/news/stocks/tron-h1-2026-strategy-report-anchored-by-defi-driven-by-ai-to-lead-crypto-s-next-cycle-1036516917",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;img alt=&quot;TRON&quot; data-mce-style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; height=&quot;346&quot; src=&quot;https://ml.globenewswire.com/Resource/Download/abcc6b16-3631-4020-87e6-93e632cf222b/1112.png&quot; style=&quot;display:block; margin-left:",
+    "published_at": "2026-09-03T02:49:45+08:00",
+    "stocks": [],
+    "uid": "65add82528b7f692c450506376d25e45"
+  },
+  {
+    "title": "Greystone Capital Advisors Arranges $107.5 Million in Debt and JV Equity for Office-to-Residential Conversion in Norwalk, CT",
+    "url": "https://markets.businessinsider.com/news/stocks/greystone-capital-advisors-arranges-107-5-million-in-debt-and-jv-equity-for-office-to-residential-conversion-in-norwalk-ct-1036516916",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;justify&quot;&gt;NEW YORK, Sept.  02, 2026  (GLOBE NEWSWIRE) -- &lt;a href=&quot;https://www.globenewswire.com/Tracker?data=x266DJKy_E0H1MbmtESsg5kMtluL7P4GjoPGiA0vSzBjPVTipGprxxWp0wqEuG34gcdqmcWdO7kQmxkyfmE3_A==&quot; rel=&quot;nofollow&quot;...",
+    "published_at": "2026-09-03T02:49:12+08:00",
+    "stocks": [],
+    "uid": "cc6cb953ed07a206da8b5fa7a47243c4"
+  },
+  {
+    "title": "Trump floats renaming Strait of Hormuz the 'Trump Strait'",
+    "url": "https://www.cnbc.com/2026/09/02/trump-hormuz-strait-ontario-iran.html",
+    "source": "CNBC Top",
+    "summary": "U.S. Energy Secretary Chris Wright told CNBC that more than 17 million barrels of oil transited the strait on Monday, a wartime record.",
+    "published_at": "2026-09-03T02:48:51+08:00",
+    "stocks": [],
+    "uid": "fc58b7565758e47a22360f6fe39a5e3d"
+  },
+  {
+    "title": "GSI Technology to Participate in Nasdaq / LD Micro Summit Series on September 9, 2026",
+    "url": "https://markets.businessinsider.com/news/stocks/gsi-technology-to-participate-in-nasdaq-ld-micro-summit-series-on-september-9-2026-1036516915",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;SUNNYVALE, Calif., Sept.  02, 2026  (GLOBE NEWSWIRE) -- GSI Technology, Inc. (Nasdaq: GSIT), the inventor of the Associative Processing Unit (APU), a compute-in-memory architecture for artificial intelligence (AI) and high-performance computing,...",
+    "published_at": "2026-09-03T02:48:50+08:00",
+    "stocks": [
+      "APU"
+    ],
+    "uid": "53639e49d32f10d06396a68a36b26938"
+  },
+  {
+    "title": "I Called SpaceX's IPO Pullback Correctly. I Still Missed It. Here's the Lesson.",
+    "url": "https://www.fool.com/investing/2026/09/02/i-called-spacex-s-ipo-pullback-correctly-i-still-missed-it-here-s-the-lesson/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "While my prediction came true, I still missed out.",
+    "published_at": "2026-09-03T02:45:01+08:00",
+    "stocks": [],
+    "uid": "7356f295ebbccb141ebc460dd9bd4114"
+  },
+  {
+    "title": "Trump’s Tactics to Lower Beef Prices and Appease Ranchers Fall Short",
+    "url": "https://www.nytimes.com/2026/09/02/business/trump-ranchers-beef-prices-cattle-supply.html",
+    "source": "NYT Business",
+    "summary": "The Agriculture Department offered new initiatives for ranchers after President Trump said he would import more beef. The moves aren’t a quick fix.",
+    "published_at": "2026-09-03T02:43:12+08:00",
+    "stocks": [],
+    "uid": "e0ba28dd394cdb65f66fea80cc42f625"
+  },
+  {
+    "title": "New Jersey asks the Supreme Court to take on prediction markets",
+    "url": "https://www.cnbc.com/2026/09/02/new-jersey-asks-the-supreme-court-to-take-on-prediction-markets-.html",
+    "source": "CNBC Top",
+    "summary": "The petition comes after a key ruling from the 9th U.S. Circuit Court of Appeals on sports-event contracts.",
+    "published_at": "2026-09-03T02:39:38+08:00",
+    "stocks": [],
+    "uid": "93d9c5bbc3bae0e6c5e7c75e426fef55"
+  },
+  {
+    "title": "Prediction: $1,104 Invested in Nvidia Today Will Be Worth This Much by 2030",
+    "url": "https://www.fool.com/investing/2026/09/02/prediction-1104-invested-in-nvidia-today-2030/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The chipmaking giant's valuation can't go down forever.",
+    "published_at": "2026-09-03T02:30:00+08:00",
+    "stocks": [],
+    "uid": "e427776f2bca38dde1f218b2c3374945"
+  },
+  {
+    "title": "States now must report undocumented immigrants to DHS or risk federal funding, DOJ says",
+    "url": "https://www.cnbc.com/2026/09/02/doj-states-undocumented-immigrants-dhs-funds.html",
+    "source": "CNBC Top",
+    "summary": "The new DOJ opinion relates to funding states get for Temporary Assistance for Needy Families and the Supplemental Security Income programs.",
+    "published_at": "2026-09-03T02:25:42+08:00",
+    "stocks": [],
+    "uid": "ccb1c87d2c5e5df38bf95594f80743bb"
+  },
+  {
+    "title": "Chevron Just Committed $7 Billion to Venezuela. Here's What It Means for CVX Stock.",
+    "url": "https://www.fool.com/investing/2026/09/02/chevron-just-committed-7-billion-to-venezuela-heres-what-it-means-for-cvx-stock/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Chevron just doubled down on Venezuela right after Washington cut an oil deal there. Will this bet pay off?",
+    "published_at": "2026-09-03T02:19:50+08:00",
+    "stocks": [],
+    "uid": "59ff2fd6cd38c64e76d8146e0a4a46b7"
+  },
+  {
+    "title": "Nvidia Did the Heavy Lifting for the Major Market Indexes Today",
+    "url": "https://www.fool.com/investing/2026/09/02/nvidia-did-the-heavy-lifting-for-the-major-indexes/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The major indexes rose about 0.4% Wednesday. Nvidia and Meta Platforms did nearly all of the work. Here's the math behind the quiet tape.",
+    "published_at": "2026-09-03T02:19:26+08:00",
+    "stocks": [],
+    "uid": "c51a28e52325c5fc8bd7d9915cc7a820"
+  },
+  {
+    "title": "‘I currently give him $1,000 a month’: My grandson has severe mental illness. How do I protect him after I’m gone?",
+    "url": "https://www.marketwatch.com/story/im-desperately-trying-to-plan-ahead-im-leaving-everything-to-my-grandson-who-has-severe-mental-illness-how-can-i-protect-him-d8df2646?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "“I’m desperately trying to plan ahead while I’m still able.”",
+    "published_at": "2026-09-03T02:15:00+08:00",
+    "stocks": [],
+    "uid": "70af8164d0167630becfbcf3a0e99f64"
+  },
+  {
+    "title": "Sandisk Stock: Buy, Sell, or Hold?",
+    "url": "https://www.fool.com/investing/2026/09/02/sandisk-stock-buy-sell-or-hold/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Sandisk has been crushing the S&amp;P 500, and recent news from peer memory maker Samsung could extend its rally.",
+    "published_at": "2026-09-03T02:12:00+08:00",
+    "stocks": [],
+    "uid": "b3b0cf18a300f087a885fbb182c9ddca"
+  },
+  {
+    "title": "If the AI Boom Slows Down, History Says This Is the Smartest Way to Protect Your Long-Term Portfolio",
+    "url": "https://www.fool.com/investing/2026/09/02/if-the-ai-boom-slows-down-history-says-this-is-the/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The Schwab US Dividend Equity ETF is a safe all-weather investment.",
+    "published_at": "2026-09-03T02:05:00+08:00",
+    "stocks": [],
+    "uid": "f51a028f62575e56d5d7868142a5ddd0"
+  },
+  {
+    "title": "Does Medicare pay for long-term care? Many people get it wrong — and it may cost them later",
+    "url": "https://www.cnbc.com/2026/09/02/long-term-care-medicare-medicaid-insurance.html",
+    "source": "CNBC Top",
+    "summary": "Individuals may generally use Medicaid, insurance or their own funds to pay for long-term care in retirement. Here's what experts say about those choices.",
+    "published_at": "2026-09-03T02:03:25+08:00",
+    "stocks": [],
+    "uid": "b4b6cf9a1aec033da873ea11d76f9a4b"
+  },
+  {
+    "title": "Lattice Semiconductor SVP Elashmawi Sells 16,773 Shares for $2.3 Million",
+    "url": "https://www.fool.com/coverage/filings/2026/09/02/lattice-semiconductor-svp-elashmawi-sells-16773-shares-for-23-million/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The insider's holdings still reflect confidence in Lattice Semiconductor.",
+    "published_at": "2026-09-03T02:00:04+08:00",
+    "stocks": [],
+    "uid": "4d863d74ece3838bf332f41351b02ced"
+  },
+  {
+    "title": "Figma General Counsel Sells 211,599 Shares for $6.3 Million",
+    "url": "https://www.fool.com/coverage/filings/2026/09/02/figma-general-counsel-sells-211-599-shares-for-usd6-3-million/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Brendan Mulligan executed sale under pre-arranged Rule 10b5-1 trading plan adopted in May, retaining 727,952 shares worth ~$21 million.",
+    "published_at": "2026-09-03T02:00:01+08:00",
+    "stocks": [],
+    "uid": "a0ee08d25aee12def8c33730de83b4c2"
+  },
+  {
+    "title": "I offered to buy my friend a birthday drink. She ordered $180 worth of food and expects me to pay. Should I Venmo her for half?",
+    "url": "https://www.marketwatch.com/story/i-offered-to-buy-my-friend-a-birthday-drink-she-ordered-180-worth-of-food-and-expects-me-to-pay-should-i-venmo-her-for-half-0efc941c?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "“My offer was cocktails.”",
+    "published_at": "2026-09-03T02:00:00+08:00",
+    "stocks": [],
+    "uid": "87dfce19fc3739d3ccb7af99bea92bf6"
+  },
+  {
+    "title": "Tim Cook's Final Earnings Call as Apple CEO Came the Same Week Apple Hit a $5 Trillion Market Cap. Here's What Investors Should Watch Under His Successor.",
+    "url": "https://www.fool.com/investing/2026/09/02/tim-cooks-final-earnings-call-as-apple-ceo-came-th/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "John Ternus took over on Sept. 1, and he has big shoes to fill.",
+    "published_at": "2026-09-03T02:00:00+08:00",
+    "stocks": [],
+    "uid": "eb608cca96616d836aeb4044a11a3bf1"
+  },
+  {
+    "title": "We're starting positions in 2 more defensive stocks to balance our AI exposure",
+    "url": "https://www.cnbc.com/2026/09/02/were-starting-positions-in-2-more-defensive-stocks-to-balance-our-ai-exposure.html",
+    "source": "CNBC Top",
+    "summary": "We're adding a couple of new positions to the portfolio following Tuesday's exit of a data center name.",
+    "published_at": "2026-09-03T01:59:24+08:00",
+    "stocks": [],
+    "uid": "340557194ff749422b5acbadd13ba7c9"
+  },
+  {
+    "title": "Better Artificial Intelligence Stock: Astera Labs vs. NVIDIA",
+    "url": "https://www.fool.com/coverage/better-buy/2026/09/02/better-artificial-intelligence-stock-astera-labs-vs-nvidia/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "One specializes in connectivity, the other dominates the full stack, but their valuations tell starkly different stories for 2026.",
+    "published_at": "2026-09-03T01:57:16+08:00",
+    "stocks": [],
+    "uid": "5a3bbdfc35c7505ca3122029a94dcc77"
+  },
+  {
+    "title": "AI trade faces test with next week's Oracle earnings",
+    "url": "https://www.cnbc.com/2026/09/02/ai-trade-faces-test-with-next-weeks-oracle-earnings.html",
+    "source": "CNBC Top",
+    "summary": "How Michael Khouw is playing ORCL ahead of earnings.",
+    "published_at": "2026-09-03T01:57:04+08:00",
+    "stocks": [],
+    "uid": "64c24c4b8dd63b4e4204e8db55181061"
+  },
+  {
+    "title": "What's Wrong With Amazon Stock? Here's the Honest Answer.",
+    "url": "https://www.fool.com/investing/2026/09/02/whats-wrong-with-amazon-stock-honest-answer/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "There's a cost to its huge opportunity.",
+    "published_at": "2026-09-03T01:49:00+08:00",
+    "stocks": [],
+    "uid": "934739649dd69eca4658f9d00fb27f81"
+  },
+  {
+    "title": "Prediction: AMD Will Join the $2 Trillion Club in 2030 Amid Historic Growth in This Market",
+    "url": "https://www.fool.com/investing/2026/09/02/prediction-amd-will-join-the-usd2-trillion-club-in-2030-amid-historic-growth-in-this-market/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The terrific growth opportunity in server CPUs will help AMD stock become a multibagger.",
+    "published_at": "2026-09-03T01:42:01+08:00",
+    "stocks": [],
+    "uid": "75b6f38e1b0e6cd93ff0c678b0da17b1"
+  },
+  {
+    "title": "Growth ETF Showdown: Vanguard Morningstar Growth ETF vs. iShares Small-Cap 600 Growth ETF",
+    "url": "https://www.fool.com/coverage/etfs/2026/09/02/vanguard-morningstar-growth-etf-vs-ishares-small-cap-600-growth-etf/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "One fund delivered 23% returns in a year, but the other's ultra-low fees and five-year gains tell a different story.",
+    "published_at": "2026-09-03T01:37:01+08:00",
+    "stocks": [],
+    "uid": "ca322dce03a8b825f1d6790443dc5a25"
+  },
+  {
+    "title": "New York Fed's Williams says yield surge due to strong economic prospects",
+    "url": "https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html",
+    "source": "CNBC Finance",
+    "summary": "New York Fed President John Williams said higher Treasury yields reflect a strong economy as he weighs whether another interest rate hike is needed.",
+    "published_at": "2026-09-03T01:21:59+08:00",
+    "stocks": [],
+    "uid": "3b2f90ff1a910856a66623371b2dab68"
+  },
+  {
+    "title": "2 Monster Stocks to Hold for the Next 10 Years",
+    "url": "https://www.fool.com/investing/2026/09/02/2-monster-stocks-to-hold-for-the-next-10-years/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Costco and MercadoLibre have great track records and excellent opportunities.",
+    "published_at": "2026-09-03T01:20:00+08:00",
+    "stocks": [],
+    "uid": "684c1d854c44fe9bcbc8dc38b2127372"
+  },
+  {
+    "title": "Southwest to debut airport lounges in four cities, with more to come",
+    "url": "https://www.cnbc.com/2026/09/02/southwest-airport-lounges.html",
+    "source": "CNBC Top",
+    "summary": "The airline is partnering with Chase on the effort, saying it wants to build on that company's Sapphire Reserve Lounge Network.",
+    "published_at": "2026-09-03T01:14:33+08:00",
+    "stocks": [],
+    "uid": "a7ffe3e7ea918399491f42bccac35fff"
+  },
+  {
+    "title": "Where Will Netflix Stock Be in 3 Years?",
+    "url": "https://www.fool.com/investing/2026/09/02/where-will-netflix-stock-be-in-3-years/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The story has changed at Netflix, but the stock remains quite appealing.",
+    "published_at": "2026-09-03T01:13:00+08:00",
+    "stocks": [],
+    "uid": "1391ff20e8a9e4cfc90dff748f9568c9"
+  },
+  {
+    "title": "Comparing Global ETFs: Vanguard's VXUS vs. State Street's Climate-Focused NZAC",
+    "url": "https://www.fool.com/coverage/etfs/2026/09/02/comparing-global-etfs-vanguard-s-vxus-vs-state-street-s-climate-focused-nzac/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "VXUS offers broader diversification with 8,600+ holdings and lower costs, while NZAC targets climate-aligned companies with concentrated tech exposure.",
+    "published_at": "2026-09-03T01:04:09+08:00",
+    "stocks": [],
+    "uid": "e6cc690b76d34d7d5e1c111a87f26eaa"
+  },
+  {
+    "title": "Relay Therapeutics CFO Sells 17,717 Shares for $350,000",
+    "url": "https://www.fool.com/coverage/filings/2026/09/02/relay-therapeutics-cfo-sells-17717-shares-for-350000/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Catinazzo's pre-arranged sale reduced his direct stake by 11%, but the insider still holds a significant amount of shares.",
+    "published_at": "2026-09-03T01:00:01+08:00",
+    "stocks": [],
+    "uid": "853e49c9da11448b123b0e92d0b00a32"
+  },
+  {
+    "title": "Should You Buy Pfizer Stock Below $30?",
+    "url": "https://www.fool.com/investing/2026/09/02/should-you-buy-pfizer-stock-below-30/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Patient investors who buy the stock may be rewarded over the long term.",
+    "published_at": "2026-09-03T01:00:00+08:00",
+    "stocks": [],
+    "uid": "2a7a79dfe60525b8e204a4ebfba3f8d0"
+  },
+  {
+    "title": "Bitcoin ETFs Just Posted Their Best Month of 2026. Is the Bitcoin Rally Here to Stay?",
+    "url": "https://www.fool.com/investing/2026/09/02/bitcoin-etfs-just-posted-their-best-month-of-2026-is-the-bitcoin-rally-here-to-stay/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Bitcoin has rebounded after a difficult year that saw the cryptocurrency briefly dip below $60,000 per token.",
+    "published_at": "2026-09-03T00:53:01+08:00",
+    "stocks": [],
+    "uid": "536b409c6550893fe5e4544024c906e4"
+  },
+  {
+    "title": "Why The Trade Desk Stock Rallied Today",
+    "url": "https://www.fool.com/investing/2026/09/02/why-the-trade-desk-stock-rallied-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The programmatic advertising specialist finally got some good news.",
+    "published_at": "2026-09-03T00:40:43+08:00",
+    "stocks": [],
+    "uid": "8eb60620b26667d8af3c51e3e7cacd36"
+  },
+  {
+    "title": "Ford's production of highly profitable Super Duty trucks hits 20-year high as it recovers from supplier fires",
+    "url": "https://www.cnbc.com/2026/09/02/ford-sales-f-150-production.html",
+    "source": "CNBC Top",
+    "summary": "Ford reported its eighth consecutive month of year-over-year U.S. new vehicle sales declines in August.",
+    "published_at": "2026-09-03T00:25:19+08:00",
+    "stocks": [],
+    "uid": "a16a29dec16ed156fedf7e6a79573554"
+  },
+  {
+    "title": "Energy Secretary Chris Wright tells CNBC more than 17 million barrels of oil transited Hormuz on Monday",
+    "url": "https://www.cnbc.com/2026/09/02/energy-secretary-chris-wright-tells-cnbc-that-more-than-17-million-barrels-of-oil-transited-hormuz-on-monday.html",
+    "source": "CNBC Top",
+    "summary": "The Energy secretary spoke to CNBC's Brian Sullivan in Venezuela on Wednesday, after President Donald Trump announced a massive oil deal with Caracas.",
+    "published_at": "2026-09-02T23:57:08+08:00",
+    "stocks": [],
+    "uid": "275e954096a8d38061cee7e11b2f148c"
+  },
+  {
+    "title": "Trump to meet with travel industry CEOs as White House touts World Cup tourism boost",
+    "url": "https://www.cnbc.com/2026/09/02/trump-travel-industry-world-cup-tourism-airlines-hotels.html",
+    "source": "CNBC Top",
+    "summary": "Trump’s meeting with travel executives comes after a World Cup that showcased his unusually close relationship with FIFA President Gianni Infantino.",
+    "published_at": "2026-09-02T23:16:25+08:00",
+    "stocks": [],
+    "uid": "6c5dd14088339d5247d368f1f411d277"
+  },
+  {
+    "title": "Thyme Care raises $125 million, pushing cancer care startup's valuation above $2 billion",
+    "url": "https://www.cnbc.com/2026/09/02/thyme-care-raises-125-million-cancer-startups-value-over-2-billion.html",
+    "source": "CNBC Top",
+    "summary": "Thyme Care has raised $125 million from investors in a deal doubling the cancer startup's valuation as it tackles critical disease treatment gaps.",
+    "published_at": "2026-09-02T23:15:25+08:00",
+    "stocks": [],
+    "uid": "0e944163816e63253aa81e498faf9361"
+  },
+  {
+    "title": "Dell is now the most important stock in the market. Here's why",
+    "url": "https://www.cnbc.com/2026/09/02/dell-is-now-the-most-important-stock-in-the-market-heres-why-.html",
+    "source": "CNBC Tech",
+    "summary": "The market reaction to Dell's incredible quarter offers a critical temperature check on the AI trade.",
+    "published_at": "2026-09-02T22:33:21+08:00",
+    "stocks": [],
+    "uid": "e5dc8391caed3d9e7b775ffb2bfc4d35"
+  },
+  {
+    "title": "Private payrolls rose by 38,000 in August, less than expected, ADP reports",
+    "url": "https://www.cnbc.com/2026/09/02/private-payrolls-rose-by-38000-in-august-fewer-than-expected-adp-reports.html",
+    "source": "CNBC Top",
+    "summary": "Though job creation held positive, August was the smallest gain since January and reflective of a broader slowdown in the labor market.",
+    "published_at": "2026-09-02T22:30:10+08:00",
+    "stocks": [],
+    "uid": "678d8595f9bf121c8b81b9b0e93c3c5a"
+  },
+  {
+    "title": "American Airlines continues premium push with redesigned Boeing planes",
+    "url": "https://www.cnbc.com/2026/09/02/american-airlines-flagship-suite.html",
+    "source": "CNBC Top",
+    "summary": "American Airlines is adding its most premium seats to its largest planes, which it uses for its most popular long international flights.",
+    "published_at": "2026-09-02T22:00:01+08:00",
+    "stocks": [],
+    "uid": "95ff442a789275b011ef1b421fe509d6"
+  },
+  {
+    "title": "Stocks' losing streak, Iran strikes, Dell earnings and more in Morning Squawk",
+    "url": "https://www.cnbc.com/2026/09/02/5-things-to-know-before-the-stock-market-opens.html",
+    "source": "CNBC Tech",
+    "summary": "Here are five key things investors need to know to start the trading day.",
+    "published_at": "2026-09-02T20:43:59+08:00",
+    "stocks": [],
+    "uid": "d24522b1afcad6f2a9b2fd5e94788985"
+  },
+  {
+    "title": "Apple shares are doing something they haven't done in 20 years. Here’s what’s happening",
+    "url": "https://www.cnbc.com/2026/09/02/apple-shares-are-doing-something-they-havent-done-in-20-years-heres-whats-happening.html",
+    "source": "CNBC Top",
+    "summary": "Apple stock hasn't been this inversely correlated to its tech peers since 2005.",
+    "published_at": "2026-09-02T20:10:05+08:00",
+    "stocks": [],
+    "uid": "f0383b3b00e19198d101fe60e72dae29"
+  },
+  {
     "title": "H.C. Wainwright reiterates Telix Pharmaceuticals stock rating on trial completion",
     "url": "https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-telix-pharmaceuticals-stock-rating-on-trial-completion-93CH-4885979",
     "source": "Investing.com",
@@ -1116,6 +1908,15 @@
     "published_at": "2026-09-02T09:25:23+08:00",
     "stocks": [],
     "uid": "0f98b82e4b5dd1349621eb6ffa3988ff"
+  },
+  {
+    "title": "Costco shuts down key service without notice",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/costco-shuts-down-key-no-011218190.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-02T09:12:18+08:00",
+    "stocks": [],
+    "uid": "fdd96b8b8c777d2d8443d62ef06f4880"
   },
   {
     "title": "The 3 Best Artificial Intelligence (AI) Stocks for September",
@@ -2332,6 +3133,50 @@
     "uid": "57656631fc6d12ffd26d895b0b3585a4"
   },
   {
+    "title": "Riverwater Sees a Market Overreaction in Stevanato Group (STVN) After Oral GLP-1 Launches",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/riverwater-sees-market-overreaction-stevanato-125025589.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-01T20:50:25+08:00",
+    "stocks": [
+      "STVN"
+    ],
+    "uid": "32eae386491d4c02d10bec473505f2d4"
+  },
+  {
+    "title": "Kaiser Aluminum (KALU) Stays Ahead Even If Middle East Capacity Returns Faster",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/kaiser-aluminum-kalu-stays-ahead-124920915.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-01T20:49:20+08:00",
+    "stocks": [
+      "KALU"
+    ],
+    "uid": "12e9f890fa8fb7963b14bd0107fe0000"
+  },
+  {
+    "title": "What Makes NetScout Systems (NTCT) an Undervalued Beneficiary of Digital Transformation?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/makes-netscout-systems-ntct-undervalued-124709165.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-01T20:47:09+08:00",
+    "stocks": [
+      "NTCT"
+    ],
+    "uid": "a641555ebb9dda3778eb396e301e76b5"
+  },
+  {
+    "title": "Liberty Capital Corp. (GLIBK): Reassessing Catalysts, Sentiment, and Governance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/liberty-capital-corp-glibk-reassessing-124304831.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-01T20:43:04+08:00",
+    "stocks": [
+      "GLIBK"
+    ],
+    "uid": "6b74f4042decbb2cf871261a6c81f49a"
+  },
+  {
     "title": "Global bond yields soar to multi-decade highs as Middle East turmoil reignites inflation fears",
     "url": "https://www.cnbc.com/2026/09/01/bond-yields-iran-inflation-treasurys-japan-uk.html",
     "source": "CNBC Top",
@@ -2339,6 +3184,15 @@
     "published_at": "2026-09-01T20:39:23+08:00",
     "stocks": [],
     "uid": "82ff867e787143cc7957278079456b36"
+  },
+  {
+    "title": "How Is AT&T's Stock Performance Compared to Telecom Services Stocks",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ts-stock-performance-compared-telecom-123652659.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-01T20:36:52+08:00",
+    "stocks": [],
+    "uid": "a4bc8e1bf59e46112271714c81a1cfc8"
   },
   {
     "title": "Apple's new CEO, G20 meetings continue, the FTC sues Amazon and more in Morning Squawk",
@@ -2350,6 +3204,71 @@
     "uid": "1dff2297884a7563a8b7e37022ecd770"
   },
   {
+    "title": "Rocket Lab Keeps Faltering So Why Does One Big Bank Currently Expect 100% Upside?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-keeps-faltering-why-123117933.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-01T20:31:17+08:00",
+    "stocks": [],
+    "uid": "9b7c5552d40eca37d91b1e0f0974edbb"
+  },
+  {
+    "title": "Cango Inc. Q2 2026 Earnings Call Summary",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cango-inc-q2-2026-earnings-123000976.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-01T20:30:00+08:00",
+    "stocks": [],
+    "uid": "c9d8860b8780637fb77dcc1c02e06144"
+  },
+  {
+    "title": "Hut 8 stock is a winner in a new deal between Anthropic and Nvidia-backed Lambda",
+    "url": "https://finance.yahoo.com/markets/stocks/article/hut-8-stock-is-a-winner-in-a-new-deal-between-anthropic-and-nvidia-backed-lambda-122511171.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-01T20:25:11+08:00",
+    "stocks": [],
+    "uid": "ad0c7acf344a0191ecd96c6d39ca104f"
+  },
+  {
+    "title": "Volvo cost saving prompts flagship tech hub closure",
+    "url": "https://finance.yahoo.com/technology/articles/volvo-cost-saving-prompts-flagship-122300533.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-01T20:23:00+08:00",
+    "stocks": [],
+    "uid": "4404be03b906d7881b9ad748c8f8c912"
+  },
+  {
+    "title": "Corn Fading Off Overnight Highs to Kick Off September",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/corn-fading-off-overnight-highs-122153131.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-01T20:21:53+08:00",
+    "stocks": [],
+    "uid": "d75cba544533baac9a12a381e022e570"
+  },
+  {
+    "title": "Hennessy Equity and Income Fund Sold Equitable Holdings (EQH) Position Amid Inconsistent Earnings",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/hennessy-equity-income-fund-sold-120655266.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-01T20:06:55+08:00",
+    "stocks": [
+      "EQH"
+    ],
+    "uid": "696221510782092113a7c65c5fc7abe7"
+  },
+  {
+    "title": "Tesla's AI Investments Pale In Comparison To Microsoft, Amazon And Alphabet",
+    "url": "https://www.investors.com/news/ai-alphabet-amazon-microsoft-openai-anthropic-tesla-spacex/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-01T20:03:30+08:00",
+    "stocks": [],
+    "uid": "3b95e7cd02fd1dae1426f54516fd27b8"
+  },
+  {
     "title": "Toyota's hybrid RAV4 is in demand as dealers wait for more supply",
     "url": "https://www.cnbc.com/2026/09/01/toyota-rav4-dealer-inventory.html",
     "source": "CNBC Top",
@@ -2357,6 +3276,53 @@
     "published_at": "2026-09-01T20:00:01+08:00",
     "stocks": [],
     "uid": "44f45b68d26e02e8bc64456c84c385b7"
+  },
+  {
+    "title": "Last-mile costs rise 12% for a second year",
+    "url": "https://finance.yahoo.com/economy/articles/last-mile-costs-rise-12-120000869.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-01T20:00:00+08:00",
+    "stocks": [],
+    "uid": "2c150be9ac443a7b86f863948aeaa981"
+  },
+  {
+    "title": "Is Charles Schwab Stock Underperforming the S&P 500?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/charles-schwab-stock-underperforming-p-115730585.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-01T19:57:30+08:00",
+    "stocks": [],
+    "uid": "f50196d401a2404902c86f3821639ddd"
+  },
+  {
+    "title": "How to tell if you’re a poor, middle-class, or rich US boomer — and the big thing to do now if you’re way behind",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/tell-poor-middle-class-rich-114500444.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-01T19:45:00+08:00",
+    "stocks": [],
+    "uid": "febb46778be8c2fa23a4d2e81d13f5ae"
+  },
+  {
+    "title": "HealthEquity’s (HQY) Health Savings Engine Hits A New Gear",
+    "url": "https://finance.yahoo.com/healthcare/articles/healthequity-hqy-health-savings-engine-114219183.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-01T19:42:19+08:00",
+    "stocks": [
+      "HQY"
+    ],
+    "uid": "03bd746f5acbb7eef6ae424d60b58b54"
+  },
+  {
+    "title": "Is Stryker Stock Underperforming the Nasdaq?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stryker-stock-underperforming-nasdaq-114044379.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-01T19:40:44+08:00",
+    "stocks": [],
+    "uid": "bd3542fe337801a9c03247568208817a"
   },
   {
     "title": "‘It’s not fair’: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
@@ -119152,7 +120118,11 @@
     "summary": "Abel is making his mark on the company, but he's not veering too far away from Buffett.",
     "published_at": "2026-08-12T17:00:00+08:00",
     "stocks": [],
-    "uid": "add6d31b21cc8356fc4d6f0270b76ace"
+    "uid": "add6d31b21cc8356fc4d6f0270b76ace",
+    "title_en": "Warren Buffett's Successor, Greg Abel, Just Spent $23.5 Billion on Stocks, the First Time in More Than 3 Years Berkshire Hathaway Was a Net Buyer",
+    "summary_en": "Abel is making his mark on the company, but he's not veering too far away from Buffett.",
+    "title_zh": "華倫巴菲特的繼任者格雷格阿貝爾剛剛斥資 235 億美元購買股票，這是波克夏海瑟威三年多來首次成為淨買家",
+    "summary_zh": ""
   },
   {
     "title": "I'm 64 With $650K in an IRA. Is Now the Right Time to Start Roth Conversions?",
@@ -368203,6 +369173,15 @@
     "uid": "10525809bb5a028469d168ac80a992ec"
   },
   {
+    "title": "How soaring Treasury yields could hit your finances",
+    "url": "https://finance.yahoo.com/personal-finance/investing/article/how-soaring-treasury-yields-could-hit-your-finances-141336109.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-05-19T22:13:36+08:00",
+    "stocks": [],
+    "uid": "b1e8436b2268dc55d3cfabbdd6954323"
+  },
+  {
     "title": "Earnings live updates: Intuit stock tumbles after announcing job cuts, e.l.f. Beauty says it will lower prices",
     "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-intuit-stock-tumbles-after-announcing-job-cuts-elf-beauty-says-it-will-lower-prices-115413376.html",
     "source": "Yahoo Finance",
@@ -368509,6 +369488,15 @@
     "published_at": "2026-01-27T06:45:04+08:00",
     "stocks": [],
     "uid": "c09fa351ba289108c03a13e9cdda2af1"
+  },
+  {
+    "title": "Best Bank of America credit cards for 2026: Cash back, travel, 0% APR, and more",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-bank-of-america-credit-cards-204820061.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-01-27T04:48:20+08:00",
+    "stocks": [],
+    "uid": "d6b660c55d424d672b744960ce3f1100"
   },
   {
     "title": "Stocks Shake Off Trump Greenland Uncertainty With a Fresh TACO Trade Rally",
@@ -369601,6 +370589,15 @@
     "uid": "7afc050e131c4d368fd6c789e8c988e5"
   },
   {
+    "title": "Best airline credit cards (2026)",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-airline-credit-cards-193236919.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2024-09-12T06:47:15+08:00",
+    "stocks": [],
+    "uid": "f2a9cb6b9e63986c71a5d7bd9e029c05"
+  },
+  {
     "title": "What is a cardless ATM, and how does it work?",
     "url": "https://finance.yahoo.com/personal-finance/banking/article/cardless-atm-201930254.html",
     "source": "Yahoo Finance",
@@ -369671,6 +370668,15 @@
     "published_at": "2024-09-02T22:00:32+08:00",
     "stocks": [],
     "uid": "f6963ea6b98983917f7a6a0315b36c47"
+  },
+  {
+    "title": "Best American Express credit cards (2026)",
+    "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-amex-credit-card-172941206.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2024-08-31T02:18:30+08:00",
+    "stocks": [],
+    "uid": "f073a8013450ac541a99ff05c83afbe2"
   },
   {
     "title": "Why you should name a beneficiary for all of your bank accounts",
