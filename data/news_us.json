@@ -1,5 +1,684 @@
 [
   {
+    "title": "Australia posts second-quarter growth of 2.1%, beating expectations",
+    "url": "https://www.cnbc.com/2026/09/02/australia-gdp-q2-middle-east-rba.html",
+    "source": "CNBC Top",
+    "summary": "The GDP print will allow the Reserve Bank of Australia room to go ahead with its policy tightening as it seeks to curb inflation.",
+    "published_at": "2026-09-02T11:05:14+08:00",
+    "stocks": [],
+    "uid": "b63712472e445f14b2cbc81f0a0d5b62"
+  },
+  {
+    "title": "Lumentum president Yuen sells $1.37m in Lumentum stock",
+    "url": "https://www.investing.com/news/insider-trading-news/lumentum-president-yuen-sells-137m-in-lumentum-stock-93CH-4885289",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-02T11:05:12+08:00",
+    "stocks": [],
+    "uid": "0f66c60a357d2a216c230dbd1144e7a1"
+  },
+  {
+    "title": "Aviat Networks SVP Gary Croke sells $12,386 in company stock",
+    "url": "https://www.investing.com/news/insider-trading-news/aviat-networks-svp-gary-croke-sells-12386-in-company-stock-93CH-4885288",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-02T11:05:03+08:00",
+    "stocks": [],
+    "uid": "4cd97eb6529ad42a8e18f905c3a183cc"
+  },
+  {
+    "title": "Quoin Pharmaceuticals COO Denise Carter buys $99,991 in ADSs",
+    "url": "https://www.investing.com/news/insider-trading-news/quoin-pharmaceuticals-coo-denise-carter-buys-99991-in-adss-93CH-4885287",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-02T11:01:08+08:00",
+    "stocks": [],
+    "uid": "719d95a91ae9a30793b9ca3e1a41f6c8"
+  },
+  {
+    "title": "Quoin Pharmaceuticals CEO Michael Myers buys $99,991 ADSs",
+    "url": "https://www.investing.com/news/insider-trading-news/quoin-pharmaceuticals-ceo-michael-myers-buys-99991-adss-93CH-4885286",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-02T11:01:00+08:00",
+    "stocks": [],
+    "uid": "8d4649d44ab708ae9d55b841e8a92d14"
+  },
+  {
+    "title": "Aviat Networks CEO Pete Smith sells $280,900 in stock",
+    "url": "https://www.investing.com/news/insider-trading-news/aviat-networks-ceo-pete-smith-sells-280900-in-stock-93CH-4885285",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-02T11:00:59+08:00",
+    "stocks": [],
+    "uid": "7ca2e554e7b94d0676b3b8852ffa8eb5"
+  },
+  {
+    "title": "Aviat Networks VP legal affairs Erin Boase sells $26,526 in stock",
+    "url": "https://www.investing.com/news/insider-trading-news/aviat-networks-vp-legal-affairs-erin-boase-sells-26526-in-stock-93CH-4885284",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-02T11:00:58+08:00",
+    "stocks": [],
+    "uid": "dea038b6eefe269bf26c63c7dbc5cfda"
+  },
+  {
+    "title": "Simply Solventless files Q2 financials, expects MCTO revocation",
+    "url": "https://www.investing.com/news/company-news/simply-solventless-files-q2-financials-expects-mcto-revocation-93CH-4885283",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-02T11:00:39+08:00",
+    "stocks": [],
+    "uid": "6e1e206151c51e848c6fa8c6e9a70d05"
+  },
+  {
+    "title": "RBNZ raises rates to 2.75% but signals shallower tightening path",
+    "url": "https://www.investing.com/news/economic-indicators/rbnz-raises-rates-to-275-as-inflation-stays-high-signals-further-hikes-4885266",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-02T10:58:42+08:00",
+    "stocks": [],
+    "uid": "9a42a6bb5d8c408b1f2e147c6ac8838b"
+  },
+  {
+    "title": "Why is Sumitomo Metal Mining stock tumbling today?",
+    "url": "https://www.investing.com/news/stock-market-news/why-is-sumitomo-metal-mining-stock-tumbling-today-93CH-4885280",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-02T10:54:42+08:00",
+    "stocks": [],
+    "uid": "26d915fe941653d78c2a3a61c36aa783"
+  },
+  {
+    "title": "Zepp Health Q2 2026 slides: revenue rises 7% as losses widen",
+    "url": "https://www.investing.com/news/company-news/zepp-health-q2-2026-slides-revenue-rises-7-as-losses-widen-93CH-4885279",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-02T10:49:50+08:00",
+    "stocks": [],
+    "uid": "d733cad4f46e819a583ae48103bc89cc"
+  },
+  {
+    "title": "Missouri Voters Appear to Recall City Councilman Over Data Center Support",
+    "url": "https://www.nytimes.com/2026/09/01/technology/data-center-recall-vote-independence.html",
+    "source": "NYT Business",
+    "summary": "Initial results showed that residents of Independence, Mo., voted overwhelmingly to recall an official who backed billions of dollars in tax breaks for a data center.",
+    "published_at": "2026-09-02T10:47:33+08:00",
+    "stocks": [],
+    "uid": "97473bb473690d84db4dae804ecf6915"
+  },
+  {
+    "title": "This Unstoppable Trend Could Mint the Industrial Sector's Next Big Winners",
+    "url": "https://www.fool.com/investing/2026/09/01/this-unstoppable-trend-could-mint-the-industrial-s/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Growing energy demands and increasing government support could provide a powerful tailwind for nuclear energy stocks.",
+    "published_at": "2026-09-02T10:30:00+08:00",
+    "stocks": [],
+    "uid": "738f5248fbb92c242ebc6a3b0744fe30"
+  },
+  {
+    "title": "Japanese green tea giant Ito En surges 8%, defying a broad market sell-off",
+    "url": "https://www.cnbc.com/2026/09/02/japan-green-tea-ito-en-surges-earnings.html",
+    "source": "CNBC Top",
+    "summary": "Ito En shares surged, bucking a broader sell-off in Japanese stocks following its fiscal first-quarter results.",
+    "published_at": "2026-09-02T10:24:30+08:00",
+    "stocks": [],
+    "uid": "c215a2a05a0655eb5e3b07c6ba96ce73"
+  },
+  {
+    "title": "CoreWeave's Interest Expense Hit $640 Million Last Quarter, 2.4 Times What It Was a Year Ago",
+    "url": "https://www.fool.com/investing/2026/09/01/coreweave-s-interest-expense-hit-usd640-million-last-quarter-2-4-times-what-it-was-a-year-ago/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The AI cloud provider's borrowing rate fell over the past year. The bill got bigger anyway -- and it isn't done growing.",
+    "published_at": "2026-09-02T10:16:01+08:00",
+    "stocks": [],
+    "uid": "452b5d3485494447ad23cf8b1708dbe7"
+  },
+  {
+    "title": "The Case for Buying Comfort Systems USA Stock More Than 20% Below Its All-Time High",
+    "url": "https://www.fool.com/investing/2026/09/01/the-case-for-buying-comfort-systems-stock-more-tha/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The 20% drop in Comfort Systems USA does not align with its multi-year tailwinds and substantial backlog.",
+    "published_at": "2026-09-02T10:00:00+08:00",
+    "stocks": [],
+    "uid": "14f0b3c313d4b029d982a849a0cafafd"
+  },
+  {
+    "title": "Should Passive Income Investors Buy 3M Stock Right Now?",
+    "url": "https://www.fool.com/investing/2026/09/01/should-passive-income-investors-buy-3m-stock-right/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Industrial demand is increasing, and that's great news for 3M stock investors.",
+    "published_at": "2026-09-02T09:40:04+08:00",
+    "stocks": [],
+    "uid": "663549bbd833bc2a55613d8a1ecbe705"
+  },
+  {
+    "title": "Is FedEx an Excellent Dividend Stock to Buy Right Now?",
+    "url": "https://www.fool.com/investing/2026/09/01/is-fedex-an-excellent-dividend-stock-to-buy-right/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Unit shipments are decreasing, but FedEx anticipated the slowdown.",
+    "published_at": "2026-09-02T09:39:26+08:00",
+    "stocks": [],
+    "uid": "012582dce802ea6054588c065fa72e4d"
+  },
+  {
+    "title": "Is Texas Instruments an Undervalued Semiconductor Stock to Buy Right Now?",
+    "url": "https://www.fool.com/investing/2026/09/01/is-texas-instruments-an-undervalued-semiconductor/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Even less innovative semiconductors are in high demand right now.",
+    "published_at": "2026-09-02T09:38:47+08:00",
+    "stocks": [],
+    "uid": "405c99ee7bc888586190f1841442fdea"
+  },
+  {
+    "title": "Starbucks Stock Investors Have Reason to Cheer",
+    "url": "https://www.fool.com/investing/2026/09/01/starbucks-stock-investors-have-reason-to-cheer/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Sales are accelerating as execution is improving.",
+    "published_at": "2026-09-02T09:38:15+08:00",
+    "stocks": [],
+    "uid": "3148bfeac6f901c89e23d1dc84303c83"
+  },
+  {
+    "title": "Should You Buy Take Two Stock Before the GTA 6 Release?",
+    "url": "https://www.fool.com/investing/2026/09/01/should-you-buy-take-two-stock-before-the-gta-6-rel/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This might be one of the most anticipated game releases of all time.",
+    "published_at": "2026-09-02T09:37:41+08:00",
+    "stocks": [],
+    "uid": "dad8dc68ebbf17d3150e77509c3a082e"
+  },
+  {
+    "title": "PepsiCo Management Reiterates Revenue Growth Targets",
+    "url": "https://www.fool.com/investing/2026/09/01/pepsico-management-reiterates-revenue-growth-targe/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "PepsiCo is an undervalued dividend stock that provides portfolio diversification against AI risks.",
+    "published_at": "2026-09-02T09:37:00+08:00",
+    "stocks": [],
+    "uid": "7b91e31aa9939542206095472d3b1f28"
+  },
+  {
+    "title": "Why Is Everyone Talking About Nvidia Stock?",
+    "url": "https://www.fool.com/investing/2026/09/01/why-is-everyone-talking-about-nvidia-stock/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Despite a post-earnings surge, Nvidia stock is still relatively undervalued.",
+    "published_at": "2026-09-02T09:36:16+08:00",
+    "stocks": [],
+    "uid": "0007029442b1d6f5c8d5a360dc31d10f"
+  },
+  {
+    "title": "Trump says U.S. is not forcing Iran to negotiate after fresh round of strikes",
+    "url": "https://www.cnbc.com/2026/09/02/us-iran-war-trump-hormuz-irgc-jordan-bahrain.html",
+    "source": "CNBC Top",
+    "summary": "U.S. forces completed another wave of strikes against Iran on Tuesday stateside, hitting multiple Islamic Revolutionary Guard Corps sites across the country.",
+    "published_at": "2026-09-02T09:34:27+08:00",
+    "stocks": [],
+    "uid": "1a884c6ed0079c20f5613ebc895239a1"
+  },
+  {
+    "title": "Palantir Is Priced for Perfection. These 2 Defense Stocks Are Priced for Pessimism.",
+    "url": "https://www.fool.com/investing/2026/09/01/palantir-is-priced-for-perfection-these-2-defense/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "AI defense spending is booming, but not every stock reflects that optimism. Two contractors trade at low multiples and may have more upside.",
+    "published_at": "2026-09-02T09:30:00+08:00",
+    "stocks": [],
+    "uid": "d832376dee946d5ebb1339444e3a19e2"
+  },
+  {
+    "title": "Why Fervo Energy Stock Skyrocketed Today",
+    "url": "https://www.fool.com/investing/2026/09/01/why-fervo-energy-stock-skyrocketed-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "A blockbuster deal with an AI colossus has investors excited.",
+    "published_at": "2026-09-02T09:25:23+08:00",
+    "stocks": [],
+    "uid": "0f98b82e4b5dd1349621eb6ffa3988ff"
+  },
+  {
+    "title": "The 3 Best Artificial Intelligence (AI) Stocks for September",
+    "url": "https://www.fool.com/investing/2026/09/01/the-3-best-artificial-intelligence-ai-stocks-for-s/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Nvidia, Amazon, and Micron still look like genius buys.",
+    "published_at": "2026-09-02T09:07:00+08:00",
+    "stocks": [],
+    "uid": "fc33c9d0baa44f61c26cf45e096213c5"
+  },
+  {
+    "title": "Bill Simmons’s Co-Hosts Are Tired of His A.I. Antics",
+    "url": "https://www.nytimes.com/2026/09/01/business/media/bill-simmons-chat-gpt-open-ai-roger-ebert.html",
+    "source": "NYT Business",
+    "summary": "The founder of The Ringer is taking flak for using artificial intelligence to conjure opinions from the deceased film critic Roger Ebert. Ads from OpenAI have recently run on the show.",
+    "published_at": "2026-09-02T08:39:09+08:00",
+    "stocks": [],
+    "uid": "f82cf16ef19a4377cc2775b47d73653b"
+  },
+  {
+    "title": "We're lifting our price target on Palo Alto Networks as AI-driven cyber demand intensifies",
+    "url": "https://www.cnbc.com/2026/09/01/were-lifting-our-price-target-on-palo-alto-networks-as-ai-driven-cyber-demand-intensifies.html",
+    "source": "CNBC Markets",
+    "summary": "The stock's muted reaction in extended trading Tuesday is not a reflection of the company's results.",
+    "published_at": "2026-09-02T08:21:40+08:00",
+    "stocks": [],
+    "uid": "78249e970e5a699e5719d83fbd6ce947"
+  },
+  {
+    "title": "Dell’s AI servers drive a stellar earnings performance, and a raised outlook",
+    "url": "https://www.marketwatch.com/story/dells-ai-servers-drive-a-stellar-earnings-performance-and-a-raised-outlook-86476ace?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The company’s backlog has reached $95 billion as demand accelerates for its AI servers",
+    "published_at": "2026-09-02T08:19:00+08:00",
+    "stocks": [],
+    "uid": "f4e69a13b41178febfd1229b6f68e2c1"
+  },
+  {
+    "title": "Palo Alto Networks’ stock falls despite strong AI cybersecurity demand",
+    "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-climbs-as-demand-for-ai-cybersecurity-powers-an-earnings-beat-4b39578c?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Enterprise cyber threats and AI adoption are giving Palo Alto Networks ‘durable tailwinds,’ according to CEO Nikesh Arora, but the stock retreated after an earnings beat",
+    "published_at": "2026-09-02T08:18:00+08:00",
+    "stocks": [],
+    "uid": "8825a2afc19728313f33017a3f998d99"
+  },
+  {
+    "title": "JOYY (JOYY) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/09/01/joyy-joyy-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "AI and ad tech fuel 16% revenue growth and 28% operating income surge.",
+    "published_at": "2026-09-02T08:09:19+08:00",
+    "stocks": [
+      "JOYY"
+    ],
+    "uid": "306147aae60f7a4a99e346f49bf402e6"
+  },
+  {
+    "title": "EHang (EH) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/09/01/ehang-eh-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Revenue surged 203% quarter over quarter as eVTOL deliveries accelerated globally.",
+    "published_at": "2026-09-02T08:09:19+08:00",
+    "stocks": [
+      "EH"
+    ],
+    "uid": "ac7d7e2783bd34d45af20b26f008ffb5"
+  },
+  {
+    "title": "Rezolve (RZLV) Q2 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/09/01/rezolve-rzlv-q2-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Revenue surged 1,970% year over year as enterprise customers nearly doubled.",
+    "published_at": "2026-09-02T08:08:09+08:00",
+    "stocks": [
+      "RZLV"
+    ],
+    "uid": "9e160b946ff5e62516a71590144c0685"
+  },
+  {
+    "title": "Regis (RGS) Q4 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/09/01/regis-rgs-q4-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Supercuts posted fifth straight year of same-store sales growth amid debt refinancing efforts.",
+    "published_at": "2026-09-02T08:08:09+08:00",
+    "stocks": [
+      "RGS"
+    ],
+    "uid": "a8e7ba4470f8b8d905ce7922d6187080"
+  },
+  {
+    "title": "Sasol (SSL) Q4 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/09/01/sasol-ssl-q4-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Net debt hit a 10-year low as Secunda production surged to five-year highs.",
+    "published_at": "2026-09-02T08:08:08+08:00",
+    "stocks": [
+      "SSL"
+    ],
+    "uid": "a1c8794f0c068459797dfcb498b4f0d5"
+  },
+  {
+    "title": "Are New Automated Token Portfolios (ATPs) the Future of Crypto Investing? Here's What Investors Need to Know.",
+    "url": "https://www.fool.com/investing/2026/09/01/are-new-automated-token-portfolios-atps-the-future/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Bitwise's new platform for portfolio automation could have a lot to offer to the right investor.",
+    "published_at": "2026-09-02T08:00:00+08:00",
+    "stocks": [],
+    "uid": "32a07df5f553aa8a41245de425b81ef0"
+  },
+  {
+    "title": "Why S&P Global Stock Bumped Higher Today",
+    "url": "https://www.fool.com/investing/2026/09/01/why-sp-global-stock-bumped-higher-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "It's apparently mulling a significant divestment.",
+    "published_at": "2026-09-02T07:59:27+08:00",
+    "stocks": [],
+    "uid": "a6ddbedc15c5b341f48ea83634e93881"
+  },
+  {
+    "title": "China dissented from G20 statement opposing 'cheap exports' flooding market, Bessent says",
+    "url": "https://www.cnbc.com/2026/09/01/bessent-china-g20-trade-exports-trump-xi.html",
+    "source": "CNBC Top",
+    "summary": "Bessent is leading the Trump administration's plan to choke off Iran's economy by threatening its business partners with secondary sanctions.",
+    "published_at": "2026-09-02T07:52:21+08:00",
+    "stocks": [],
+    "uid": "5c454739a49b5fdabb5f9b66901b86ba"
+  },
+  {
+    "title": "If the September Effect Hits Artificial Intelligence (AI) Stocks This Year, History Says This Is the Best Place to Hide",
+    "url": "https://www.fool.com/investing/2026/09/01/if-the-september-effect-hits-artificial-intelligen/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "September is historically the weakest month in the stock market.",
+    "published_at": "2026-09-02T07:30:00+08:00",
+    "stocks": [],
+    "uid": "f0b6cf4dfe8e70a96f1855e4d366bbde"
+  },
+  {
+    "title": "At G20 Meeting, Scott Bessent Accuses China of Flooding the World With Cheap Exports",
+    "url": "https://www.nytimes.com/2026/09/01/business/economy/bessent-china-iran-g20.html",
+    "source": "NYT Business",
+    "summary": "Treasury Secretary Scott Bessent accused China for flooding the world with its cheap exports.",
+    "published_at": "2026-09-02T07:29:23+08:00",
+    "stocks": [],
+    "uid": "27b4537719b21f74bbafe3adf38e0a3b"
+  },
+  {
+    "title": "Palo Alto CEO says $1 trillion of cybersecurity infrastructure isn’t ready for AI",
+    "url": "https://www.cnbc.com/2026/09/01/palo-alto-ceo-says-1-trillion-of-cybersecurity-infrastructure-isnt-ready-for-ai.html",
+    "source": "CNBC Tech",
+    "summary": "Palo Alto CEO Nikesh Arora said AI is forcing companies to modernize roughly $1 trillion of aging cybersecurity infrastructure that isn’t equipped for attacks.",
+    "published_at": "2026-09-02T07:20:44+08:00",
+    "stocks": [],
+    "uid": "74ae14a21c8bc94e1d2bcf2bb167b241"
+  },
+  {
+    "title": "Adobe: A Deep-Value Opportunity or an AI Disruption Trap?",
+    "url": "https://www.fool.com/investing/2026/09/01/adobe-a-deep-value-opportunity-or-an-ai-disruption/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Adobe's stock trades near 12 times trailing earnings, but AI, Canva, Figma, and a leadership transition are testing its moat. See why our analysts scored the stock 6.3 out of 10.",
+    "published_at": "2026-09-02T07:00:00+08:00",
+    "stocks": [],
+    "uid": "98b4fe08111eb75a4e696c98063ce392"
+  },
+  {
+    "title": "Not Nvidia. Not OpenAI. This Artificial Intelligence (AI) Stock Will Be the Ultimate Winner.",
+    "url": "https://www.fool.com/investing/2026/09/01/not-nvidia-not-openai-this-artificial-intelligence/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Alphabet is involved in nearly every part of the AI boom.",
+    "published_at": "2026-09-02T06:54:00+08:00",
+    "stocks": [],
+    "uid": "3a468bcbea3c839e47dc94c8be5ca812"
+  },
+  {
+    "title": "Target Is Up 70% This Year but Still Down 33% From Its Peak. Here's Whether the Recovery Has Further to Run.",
+    "url": "https://www.fool.com/investing/2026/09/01/target-is-up-70-this-year-but-still-down-33-from/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Target's sharp 2026 rebound is being driven by a new CEO, heavier investment in stores and merchandise, and faster-growing digital businesses, but the turnaround could be a multi-year effort.",
+    "published_at": "2026-09-02T06:15:00+08:00",
+    "stocks": [],
+    "uid": "2128fc23646f127d8cb72d99b439f600"
+  },
+  {
+    "title": "House adopts measure condemning socialism ahead of November election",
+    "url": "https://www.cnbc.com/2026/09/01/congress-vote-condemning-socialism-election.html",
+    "source": "CNBC Top",
+    "summary": "Republicans also inserted a call to pass the highly controversial voter-ID bill known as the SAVE America Act into the socialism resolution.",
+    "published_at": "2026-09-02T06:13:19+08:00",
+    "stocks": [],
+    "uid": "5748c0e2b91cb7dd5b22273d022c94ec"
+  },
+  {
+    "title": "Nvidia Shareholders Should Brace Themselves for 1 Particular Thing in the Months to Come. Here’s What It Means for the Long-term Picture.",
+    "url": "https://www.fool.com/investing/2026/09/01/nvidia-shareholders-should-brace-themselves-for-1-particular-thing-in-the-months-to-come-here-s-what-it-means-for-the-long-term-picture/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Nvidia’s blowout earnings report included one note of caution.",
+    "published_at": "2026-09-02T06:10:01+08:00",
+    "stocks": [],
+    "uid": "e4a4e5b2149ea1cf686d22c79ac8113f"
+  },
+  {
+    "title": "Electromed (ELMD) Q4 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/09/01/electromed-elmd-q4-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Home care revenue surged 15.2% as sales rep productivity hit record levels.",
+    "published_at": "2026-09-02T06:08:17+08:00",
+    "stocks": [
+      "ELMD"
+    ],
+    "uid": "54d6d9ee48601f7556783e2847cf4fe0"
+  },
+  {
+    "title": "CEO Michael Dell Just Delivered Fantastic News for Dell Shareholders",
+    "url": "https://www.fool.com/investing/2026/09/01/ceo-michael-dell-just-delivered-fantastic-news-for-dell-shareholders/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The computer and AI specialist just delivered the company's most impressive report yet.",
+    "published_at": "2026-09-02T06:04:22+08:00",
+    "stocks": [],
+    "uid": "ad83827b172e1d69518d16244bb65a8f"
+  },
+  {
+    "title": "Dow drops below a key chart level, warning of more trouble ahead",
+    "url": "https://www.marketwatch.com/story/dow-drops-below-a-key-chart-level-warning-of-more-trouble-ahead-ec3eb664?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The index last closed below its 50-day moving average on April 10, which marked the end of a correction phase that included a 5,000-point drop at its low point.",
+    "published_at": "2026-09-02T05:56:00+08:00",
+    "stocks": [],
+    "uid": "c5f98d0f75a121a60bbbd2dd9832d2db"
+  },
+  {
+    "title": "Semtech (SMTC) Q2 2027 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/09/01/semtech-smtc-q2-2027-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Data center revenue hit record $100M, up 91% YoY, driving 33% overall growth.",
+    "published_at": "2026-09-02T05:53:39+08:00",
+    "stocks": [
+      "SMTC"
+    ],
+    "uid": "ed42e0e41e7933c5a8d24ad75e4e6a43"
+  },
+  {
+    "title": "Intuit (INTU) Q4 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/09/01/intuit-intu-q4-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "CEO prioritizes acquisition, guiding 9-10% growth for fiscal 2027.",
+    "published_at": "2026-09-02T05:53:39+08:00",
+    "stocks": [
+      "INTU"
+    ],
+    "uid": "62e9071713f6c680ca6e283a9e1ec7ce"
+  },
+  {
+    "title": "Zoom (ZM) Q2 2027 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/09/01/zoom-zm-q2-2027-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Enterprise revenue surged 7.8% as AI adoption accelerated across platforms.",
+    "published_at": "2026-09-02T05:53:38+08:00",
+    "stocks": [
+      "ZM"
+    ],
+    "uid": "73f1240cad2b9ff471dae7ee1fdef419"
+  },
+  {
+    "title": "Palo Alto Networks beats quarterly estimates on AI demand, continues acquisition spree",
+    "url": "https://www.cnbc.com/2026/09/01/palo-alto-networks-panw-q4-2026-earnings.html",
+    "source": "CNBC Markets",
+    "summary": "Palo Alto Networks' stock has nearly doubled this year as AI boosts demand for security detection and response tools",
+    "published_at": "2026-09-02T05:41:15+08:00",
+    "stocks": [],
+    "uid": "c943c88d4c69771d4a3d64c6f2d19d38"
+  },
+  {
+    "title": "Stan Kroenke agrees to buy MLB's Angels, valuing team and regional network at $4 billion",
+    "url": "https://www.cnbc.com/2026/09/01/stan-kroenke-controlling-stake-los-angeles-angels.html",
+    "source": "CNBC Top",
+    "summary": "Kroenke Sports and Entertainment was valued at more than $26 billion in CNBC's most recent list of the world's most valuable sports empires.",
+    "published_at": "2026-09-02T05:40:30+08:00",
+    "stocks": [],
+    "uid": "a2f4232ba6d390b224361e80c9ed017a"
+  },
+  {
+    "title": "Dell surges 9% after lifting fiscal 2027 forecast on AI server strength",
+    "url": "https://www.cnbc.com/2026/09/01/dell-q2-earnings-report-2027.html",
+    "source": "CNBC Markets",
+    "summary": "Dell sees AI server revenue tripling in fiscal 2027. Six months ago, it was looking for the number to double.",
+    "published_at": "2026-09-02T05:40:18+08:00",
+    "stocks": [],
+    "uid": "31830eb8e96b9876b804bc8c868e4b72"
+  },
+  {
+    "title": "Which workers are using AI surprisingly often? Dry cleaners and construction workers.",
+    "url": "https://www.marketwatch.com/story/which-workers-are-using-ai-surprisingly-often-dry-cleaners-and-construction-workers-b0ea5655?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The adoption of artificial intelligence at work has been widespread, but more “shallow” than expected — for now.",
+    "published_at": "2026-09-02T05:02:00+08:00",
+    "stocks": [],
+    "uid": "ab09a76c9c390fcb19ffc369e6db13b1"
+  },
+  {
+    "title": "This could be the 10-year Treasury’s tipping point into the danger zone",
+    "url": "https://www.marketwatch.com/story/this-could-be-the-10-year-treasurys-tipping-point-into-the-danger-zone-891cd45d?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "An unrelenting rout has global bond yields touching their highest levels since 2008, driving up borrowing costs for households, businesses and world governments.",
+    "published_at": "2026-09-02T04:36:00+08:00",
+    "stocks": [],
+    "uid": "bcdf393a33144f3efcae181983e946e7"
+  },
+  {
+    "title": "GoPro joins AI bonanza with pivot into data centers as shares skyrocket 40%",
+    "url": "https://www.cnbc.com/2026/09/01/gopro-stock-ai-data-centers.html",
+    "source": "CNBC Top",
+    "summary": "Action camera maker GoPro is merging with private photonics company Starman Optical and joining the AI wave.",
+    "published_at": "2026-09-02T04:28:08+08:00",
+    "stocks": [],
+    "uid": "ef1e7e3c5d5dc188d67055ac47ee3cd4"
+  },
+  {
+    "title": "OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability",
+    "url": "https://www.cnbc.com/2026/09/01/open-ai-astra-cyber-model.html",
+    "source": "CNBC Top",
+    "summary": "OpenAI said it will make Astra available \"soon,\" but access to its cybersecurity capabilities will be limited.",
+    "published_at": "2026-09-02T04:20:50+08:00",
+    "stocks": [],
+    "uid": "b5005473c8a18ec7639ea6dbdddf6aa6"
+  },
+  {
+    "title": "Pa. Gov. Shapiro says too many data center developers 'don't care about our communities'",
+    "url": "https://www.cnbc.com/2026/09/01/data-center-pennsylvania-shapiro-trump.html",
+    "source": "CNBC Top",
+    "summary": "A Gallup survey released in May found that \"seven in 10 Americans oppose constructing data centers for artificial intelligence in their local area.\"",
+    "published_at": "2026-09-02T04:16:05+08:00",
+    "stocks": [],
+    "uid": "92b99bcf426c2ae452a31a10e6e7f437"
+  },
+  {
+    "title": "How these homeowners pulled off buying a house in their early 20s",
+    "url": "https://www.marketwatch.com/story/how-these-homeowners-pulled-off-buying-a-house-in-their-early-20s-7b2baf84?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Despite typical first-time buyers navigating a challenging housing market in recent history, a growing number of young adults have been able to become homeowners.",
+    "published_at": "2026-09-02T04:03:00+08:00",
+    "stocks": [],
+    "uid": "62fca05dc2b076ee6d3f8d7c80e22824"
+  },
+  {
+    "title": "Looking for evidence that Meta's AI investments are paying off? Here are 2 ways",
+    "url": "https://www.cnbc.com/2026/09/01/looking-for-evidence-that-metas-ai-investments-are-paying-off-here-are-2-ways.html",
+    "source": "CNBC Top",
+    "summary": "Meta Platforms has become a battleground stock.",
+    "published_at": "2026-09-02T03:48:20+08:00",
+    "stocks": [],
+    "uid": "66c01978c4a43e9923b0f963607332aa"
+  },
+  {
+    "title": "HAIRCUTS FOR HEROES EVENT PROVIDES FREE HAIRCUTS FOR VETERANS, FIRST RESPONDERS, AND ACTIVE-DUTY SERVICE MEMBERS",
+    "url": "https://markets.businessinsider.com/news/stocks/haircuts-for-heroes-event-provides-free-haircuts-for-veterans-first-responders-and-active-duty-service-members-1036513129",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;El Paso, Texas, Sept.  01, 2026  (GLOBE NEWSWIRE) -- On September 11, Endeavors will honor&#160;veterans, active-duty service members, and first responders through its third &quot;Haircuts&#160;for Heroes&quot; event, providing free haircuts, refreshments, and access...",
+    "published_at": "2026-09-02T03:44:35+08:00",
+    "stocks": [],
+    "uid": "5ac092d6524351f38428cfed51c879a9"
+  },
+  {
+    "title": "Tuurny and Sluicebox.ai Pioneer Traceable, AI-Driven Recovery of Rare Earths and Copper from Electronic Waste",
+    "url": "https://markets.businessinsider.com/news/stocks/tuurny-and-sluicebox-ai-pioneer-traceable-ai-driven-recovery-of-rare-earths-and-copper-from-electronic-waste-1036513128",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;SAN FRANCISCO, CA, Sept.  01, 2026  (GLOBE NEWSWIRE) -- &lt;a href=&quot;https://www.globenewswire.com/Tracker?data=WTWg3WchpG4EBB6ZXQPIEs34ReX5QIPNknHKh-RoUPX_67CI1ljxwSunPJg8-VaQskJ_4629MsVMSOqk_RKbSg==&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;Tuurny&lt;/a&gt;, a...",
+    "published_at": "2026-09-02T03:41:25+08:00",
+    "stocks": [],
+    "uid": "f0273981e4ee1afe04a48311964cf5c8"
+  },
+  {
+    "title": "Brasil DNA opens Early Access to Virtual Roadshow 2026 platform ahead of October event",
+    "url": "https://markets.businessinsider.com/news/stocks/brasil-dna-opens-early-access-to-virtual-roadshow-2026-platform-ahead-of-october-event-1036513105",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;left&quot;&gt;SAO PAULO, Sept.  01, 2026  (GLOBE NEWSWIRE) -- Brasil DNA 2026, a project organized by Global Vision Access, will open early access to the platform for its 2026 Virtual Roadshow, taking place October 5–8 and connecting travel...",
+    "published_at": "2026-09-02T03:37:48+08:00",
+    "stocks": [],
+    "uid": "88013c6c3d96684514ad3a75643de591"
+  },
+  {
+    "title": "Sam Altman says he doesn’t like smart glasses: 'I find it very uncomfortable talking to people with a camera and a light’",
+    "url": "https://www.businessinsider.com/sam-altman-smart-glasses-uncomfortable-2026-9",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-09-02T03:36:00+08:00",
+    "stocks": [],
+    "uid": "9e4388a08b8dceda2bf1553876c8a406"
+  },
+  {
+    "title": "JobNimbus Unveils a New Push to Modernize the Roofing Industry",
+    "url": "https://markets.businessinsider.com/news/currencies/jobnimbus-unveils-a-new-push-to-modernize-the-roofing-industry-1036513125",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://app.financewire.com/storage/uploads/users/28_1_1_1788260195Rnat3caNF8.jpg&quot; alt=&quot;Featured Image&quot; /&gt;&lt;p class=&quot;sc-dxroEu fTzmKS&quot;&gt;Lehi, UT, United States, September 1st, 2026, FinanceWire&lt;br&gt;&lt;a target=&quot;_blank&quot; rel=&quot;nofollow noopener&quot; href=&quot;https://www.jobnimbus.com&quot;&gt;JobNimbus&lt;/a&gt;, which has already made a mark...",
+    "published_at": "2026-09-02T03:32:47+08:00",
+    "stocks": [],
+    "uid": "afffb134ead1b6fe8c02c565679fca9b"
+  },
+  {
+    "title": "Brookfield Office Properties Announces Reset Dividend Rates and Conversion Privileges on Its Class AAA Series R Preference Shares",
+    "url": "https://markets.businessinsider.com/news/stocks/brookfield-office-properties-announces-reset-dividend-rates-and-conversion-privileges-on-its-class-aaa-series-r-preference-shares-1036513100",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;em&gt;Not for distribution to U.S. newswire services nor for dissemination to the United States.&#160;&lt;/em&gt;&lt;br /&gt;&lt;em&gt;All amounts in Canadian dollars.&lt;/em&gt;&lt;p align=&quot;justify&quot;&gt;BROOKFIELD NEWS, Sept.  01, 2026  (GLOBE NEWSWIRE) -- Brookfield Office Properties...",
+    "published_at": "2026-09-02T03:30:00+08:00",
+    "stocks": [],
+    "uid": "517b0d396e7a21136c8931e59ab0fe8f"
+  },
+  {
+    "title": "Kaplan Fox Reminds GoDaddy Inc. (GDDY) Investors Seeking Recovery of the Lead Plaintiff Deadline on October 20, 2026",
+    "url": "https://markets.businessinsider.com/news/stocks/kaplan-fox-reminds-godaddy-inc.-gddy-investors-seeking-recovery-of-the-lead-plaintiff-deadline-on-october-20-2026-1036495452",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/312402/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px;  height: 1px;border: 0px solid;&quot;&gt;New York, New York--(Newsfile Corp. - September 1, 2026) - &lt;a href=&quot;https://api.newsfilecorp.com/redirect/JkpzgCAmNM&quot; rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot;&gt;Kaplan Fox  Kilsheimer LLP&lt;/a&gt; announces that a...",
+    "published_at": "2026-09-02T03:30:00+08:00",
+    "stocks": [
+      "GDDY"
+    ],
+    "uid": "fd1276ea718caa3e4fce0fa682c71938"
+  },
+  {
+    "title": "U.S. Small Businesses Leave 70% of AI Search Visibility Untapped, New 2026 Benchmark from Fast Hippo Media",
+    "url": "https://markets.businessinsider.com/news/currencies/u-s-small-businesses-leave-70-of-ai-search-visibility-untapped-new-2026-benchmark-from-fast-hippo-media-1036513126",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://app.financewire.com/storage/uploads/users/26_1_1_17882578817oo7d9pxck.jpg&quot; alt=&quot;Featured Image&quot; /&gt;&lt;p class=&quot;sc-dxroEu fTzmKS&quot;&gt;Frisco, United States, September 1st, 2026, FinanceWire&lt;br&gt;A new benchmark study of more than 200 U.S. small and mid-sized service businesses suggests that most companies remain...",
+    "published_at": "2026-09-02T03:29:50+08:00",
+    "stocks": [],
+    "uid": "ba7280a90dbe97f4949466f453e4757b"
+  },
+  {
+    "title": "Mortgage rates are rising, and nobody is moving: 10 stats illustrate the state of the US housing market",
+    "url": "https://www.businessinsider.com/mortgage-rates-housing-market-real-estate-home-prices-economy-2026-9",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-09-02T03:28:00+08:00",
+    "stocks": [],
+    "uid": "a7d63aa3103c5e8646798f77264e10c8"
+  },
+  {
+    "title": "Kaplan Fox Encourages Investors of Alignment Healthcare, Inc. (ALHC) Who Suffered Losses to Contact the Firm Regarding a Securities Investigation",
+    "url": "https://markets.businessinsider.com/news/stocks/kaplan-fox-encourages-investors-of-alignment-healthcare-inc.-alhc-who-suffered-losses-to-contact-the-firm-regarding-a-securities-investigation-1036363286",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/312401/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px;  height: 1px;border: 0px solid;&quot;&gt;New York, New York--(Newsfile Corp. - September 1, 2026) - &lt;a href=&quot;https://api.newsfilecorp.com/redirect/PqnQMCqRjW&quot; rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot;&gt;Kaplan Fox  Kilsheimer LLP&lt;/a&gt; is investigating...",
+    "published_at": "2026-09-02T03:15:00+08:00",
+    "stocks": [
+      "ALHC"
+    ],
+    "uid": "36234542752e2d364a13e750b6a12b2d"
+  },
+  {
     "title": "Manufacturers are getting frustrated: ‘The economy is annoying’",
     "url": "https://www.marketwatch.com/story/manufacturers-are-getting-frustrated-the-economy-is-annoying-a8edf602?mod=mw_rss_topstories",
     "source": "MarketWatch",
@@ -558,6 +1237,15 @@
     "published_at": "2026-09-01T23:37:00+08:00",
     "stocks": [],
     "uid": "47a50f2ab4bfb167b9c6dc37de436409"
+  },
+  {
+    "title": "Denny’s rival dining chain files for Chapter 11 bankruptcy",
+    "url": "https://finance.yahoo.com/small-business/articles/denny-rival-dining-chain-files-153300154.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-01T23:33:00+08:00",
+    "stocks": [],
+    "uid": "97494273e6b02efba4beaa3dd0f3cab2"
   },
   {
     "title": "Why CVS Stock Rallied Tuesday Morning",
@@ -2497,6 +3185,33 @@
     "uid": "95e3d03fffdeb16728726570059eb0b9"
   },
   {
+    "title": "Say No to Tokenmaxxing. How Alex Karp’s War on the ‘Token Industrial Complex’ Is Fueling the Next NVDA and PLTR Bull Run.",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/no-tokenmaxxing-alex-karp-war-154206406.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-31T23:42:06+08:00",
+    "stocks": [],
+    "uid": "19e82a8065f6eb50cd3ef712714ba42f"
+  },
+  {
+    "title": "NYSE Owner ICE Taps tZERO to Build Infrastructure for Tokenized Securities",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/nyse-owner-ice-taps-tzero-154100655.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-31T23:41:00+08:00",
+    "stocks": [],
+    "uid": "a0b6264f9fb06cb1d592cf8b757a0b07"
+  },
+  {
+    "title": "Cocrystal Pharma: The Strategic Reset Investors May Be Missing",
+    "url": "https://finance.yahoo.com/healthcare/articles/cocrystal-pharma-strategic-reset-investors-153903604.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-31T23:39:03+08:00",
+    "stocks": [],
+    "uid": "fe16ae999a85a0dfdfe7bb947f3e34e0"
+  },
+  {
     "title": "EQS-PVR: Evotec SE: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
     "url": "https://markets.businessinsider.com/news/stocks/eqs-pvr-evotec-se-release-according-to-article-40-section-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution-1036508092",
     "source": "Business Insider",
@@ -2562,6 +3277,17 @@
     "uid": "11d88445d1aad991734204172b1051f9"
   },
   {
+    "title": "Scale and Longevity of Earnings Inflection Create Compelling Entry Point in Analog Devices (ADI)",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/scale-longevity-earnings-inflection-create-153359387.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-31T23:33:59+08:00",
+    "stocks": [
+      "ADI"
+    ],
+    "uid": "d3aae399eb4ab9ed59149c0556dba678"
+  },
+  {
     "title": "Mundoro Reports Progress on Exploration Programs and Financial Results",
     "url": "https://markets.businessinsider.com/news/stocks/mundoro-reports-progress-on-exploration-programs-and-financial-results-1036508086",
     "source": "Business Insider",
@@ -2589,6 +3315,17 @@
     "uid": "c5b29eed13a61b49f33fbcd3733177dc"
   },
   {
+    "title": "Hyve Solutions: The Hidden Growth Engine of TD SYNNEX (SNX)",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/hyve-solutions-hidden-growth-engine-153129519.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-31T23:31:29+08:00",
+    "stocks": [
+      "SNX"
+    ],
+    "uid": "362e42aab893910a0454ed9bffe13367"
+  },
+  {
     "title": "EQS-CMS: Haier Smart Home Co., Ltd.: Release according to Article 50 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
     "url": "https://markets.businessinsider.com/news/stocks/eqs-cms-haier-smart-home-co-ltd-release-according-to-article-50-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution-1036508089",
     "source": "Business Insider",
@@ -2607,6 +3344,15 @@
     "uid": "16aa9dfb5762f4e5052f6cc25840a66e"
   },
   {
+    "title": "This Little-Known Software Stock Just Set a New All-Time High",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/little-known-software-stock-just-153003029.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-31T23:30:03+08:00",
+    "stocks": [],
+    "uid": "e93657fb770f84352f50f78bb5cce2a8"
+  },
+  {
     "title": "How Likely Is It That Warren Buffett's Successor, Greg Abel, Will Use a Portion of Berkshire Hathaway's $359 Billion Cash Pile to Buy This Large-Cap Value Stock in September?",
     "url": "https://www.fool.com/investing/2026/08/31/buffett-successor-greg-abel-berkshire-value-stock/?source=iedfolrf0000001",
     "source": "Motley Fool",
@@ -2614,6 +3360,24 @@
     "published_at": "2026-08-31T23:30:00+08:00",
     "stocks": [],
     "uid": "36ba8f6935429e5bfe035f44972fc72b"
+  },
+  {
+    "title": "UiPath vs. ServiceNow: 1 Stock Is the Better Buy in the Enterprise AI Automation Battle",
+    "url": "https://finance.yahoo.com/technology/ai/articles/uipath-vs-servicenow-1-stock-152733863.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-31T23:27:33+08:00",
+    "stocks": [],
+    "uid": "8320d04a55d2c78bcd69af91aa77128e"
+  },
+  {
+    "title": "Is GE Aerospace Stock Outperforming the Nasdaq?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ge-aerospace-stock-outperforming-nasdaq-152520828.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-31T23:25:20+08:00",
+    "stocks": [],
+    "uid": "8f1a9ab3df8a7b27b0cbd020ef0873a2"
   },
   {
     "title": "Crypto exchange Gemini not at fault for collapse of Earn lending program, arbitrator says",
@@ -2634,6 +3398,24 @@
     "uid": "d664b2e1379dc82a5595837298a54b98"
   },
   {
+    "title": "Cardano Price Forecast: ADA Risks 30% Drop Toward $0.14",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/cardano-price-forecast-ada-risks-151931415.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-31T23:19:31+08:00",
+    "stocks": [],
+    "uid": "a0032f8a41cf3599f04c6ec81b0a2466"
+  },
+  {
+    "title": "10-Year Treasury Yield Breaks Out, Testing Bessent, Hitting Stocks",
+    "url": "https://www.investors.com/news/10-year-treasury-yield-breakout-despite-bessent-buybacks/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-31T23:15:45+08:00",
+    "stocks": [],
+    "uid": "f4e623e7810330b0800612ba1dc156bc"
+  },
+  {
     "title": "Aon CEO says insurance broker seeks to build 'premiere middle market platform' with purchase of rival USI",
     "url": "https://www.cnbc.com/2026/08/31/aon-ceo-says-usi-deal-seeks-to-build-premiere-middle-market-insurance-platform.html",
     "source": "CNBC Finance",
@@ -2643,6 +3425,24 @@
     "uid": "88b73963ce717dc64766a2b6c0f55efd"
   },
   {
+    "title": "Japan's 2-Year Yield Hits 31-Year High — Why the Yen Carry Trade Matters for Bitcoin",
+    "url": "https://finance.yahoo.com/markets/currencies/articles/japans-2-yield-hits-31-151435381.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-31T23:14:35+08:00",
+    "stocks": [],
+    "uid": "1d890836b99cef91439edd45a31f6d0e"
+  },
+  {
+    "title": "Clean Clothes Campaign Calls for Brands to Come Clean on Tariff Refunds",
+    "url": "https://finance.yahoo.com/economy/policy/articles/clean-clothes-campaign-calls-brands-151435160.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-31T23:14:35+08:00",
+    "stocks": [],
+    "uid": "f7c731a9cb9299b43a0b555881a320b6"
+  },
+  {
     "title": "Why SAIC Stock Is Rising Today",
     "url": "https://www.fool.com/investing/2026/08/31/why-saic-stock-is-rising-today/?source=iedfolrf0000001",
     "source": "Motley Fool",
@@ -2650,6 +3450,140 @@
     "published_at": "2026-08-31T23:13:19+08:00",
     "stocks": [],
     "uid": "bd476fe1e27347b55bd9c079f9d0af9e"
+  },
+  {
+    "title": "Long-Term Global Government Bond Yields Hit Fresh Highs",
+    "url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-but-10-year-german-bund-yield-hits-15-year-high-d70c09a5?siteid=yhoof2&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-31T23:12:00+08:00",
+    "stocks": [],
+    "uid": "35e07a983bbdda9d4eaa0ddf587a0bfb"
+  },
+  {
+    "title": "He Had Three Old 401(k)s at 73 and Took One Big RMD From the Largest. The IRS Doesn’t Let 401(k)s Aggregate, and Fined Him on the Other Two.",
+    "url": "https://finance.yahoo.com/markets/options/articles/had-three-old-401-k-151117705.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-31T23:11:17+08:00",
+    "stocks": [],
+    "uid": "66be4f12c16c8ad4010237a78fa2face"
+  },
+  {
+    "title": "Stocks Fall as Rising Geopolitical Risks Boost Crude Oil and Bond Yields",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-fall-rising-geopolitical-risks-151113745.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-31T23:11:13+08:00",
+    "stocks": [],
+    "uid": "e4422ced589d1c14bc957db961afe458"
+  },
+  {
+    "title": "FDIC defeats $1.71 billion claim over Silicon Valley Bank collapse, US judge rules",
+    "url": "https://finance.yahoo.com/economy/policy/articles/fdic-defeats-1-71-billion-151108719.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-31T23:11:08+08:00",
+    "stocks": [],
+    "uid": "36a95384274482d2c6c5987101e73ec2"
+  },
+  {
+    "title": "How Flowserve Corporation (FLS) is Positioned for Long-Term Success in the Nuclear Market",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/flowserve-positioned-long-term-success-151105058.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-31T23:11:05+08:00",
+    "stocks": [
+      "FLS"
+    ],
+    "uid": "65112d9668994afbb5447031752b9c36"
+  },
+  {
+    "title": "SpaceX investors must consider this urgent new signal",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-investors-must-consider-urgent-151048844.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-31T23:10:48+08:00",
+    "stocks": [],
+    "uid": "393ecd8058be20c01a2e38f7248b14c8"
+  },
+  {
+    "title": "5 things you really need to sell if you’re a retired US boomer (if you want a low-stress life). How many do you own?",
+    "url": "https://finance.yahoo.com/small-business/articles/5-things-really-sell-retired-151000416.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-31T23:10:00+08:00",
+    "stocks": [],
+    "uid": "49fc537c7c80f3e375e31e73764823c0"
+  },
+  {
+    "title": "Knight-Swift Transportation (KNX) is Positioned to Leverage Evolving Freight Market",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/knight-swift-transportation-knx-positioned-150918993.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-31T23:09:18+08:00",
+    "stocks": [
+      "KNX"
+    ],
+    "uid": "d6df8ad38d1d168c5158ec0f5cdacedb"
+  },
+  {
+    "title": "InPost Delivers Growth With a Margin Hangover",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/inpost-delivers-growth-margin-hangover-150804622.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-31T23:08:04+08:00",
+    "stocks": [],
+    "uid": "c421fd9818380f73f1c0eefd8a37b21e"
+  },
+  {
+    "title": "UBS May Get a Softer Swiss Safety Net",
+    "url": "https://finance.yahoo.com/economy/policy/articles/ubs-may-softer-swiss-safety-150648226.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-31T23:06:48+08:00",
+    "stocks": [],
+    "uid": "720e4d4ba97ed560a9f1c8fde35524a2"
+  },
+  {
+    "title": "Growth Trajectory and Attractive Valuations Support Henry Schein’s (HSIC) Bullish Thesis",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/growth-trajectory-attractive-valuations-support-150111590.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-31T23:01:11+08:00",
+    "stocks": [
+      "HSIC"
+    ],
+    "uid": "cf3bdba1d5615815a6c585d907b8be60"
+  },
+  {
+    "title": "Is Taiwan America's Only Leverage Over China on Iran?",
+    "url": "https://finance.yahoo.com/energy/articles/taiwan-only-leverage-u-getting-150000246.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-31T23:00:00+08:00",
+    "stocks": [],
+    "uid": "7fdefa3e1cfa3aee825defa2a2b202f4"
+  },
+  {
+    "title": "Snowflake Q2 Earnings: Watch These 3 Numbers Before Buying SNOW Stock",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/snowflake-q2-earnings-watch-3-145950964.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-31T22:59:50+08:00",
+    "stocks": [],
+    "uid": "1a9a6f11593a44aaba5cd719d94d2502"
+  },
+  {
+    "title": "MD Sass Concentrated Value Strategy Exits Intercontinental Exchange (ICE) on Thesis Gap",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/md-sass-concentrated-value-strategy-145903382.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-08-31T22:59:03+08:00",
+    "stocks": [
+      "ICE"
+    ],
+    "uid": "3e08be0afc5a8add893d7bdbdaff8d16"
   },
   {
     "title": "Tech stocks today: Apple stock slips as Tim Cook prepares to step down",
