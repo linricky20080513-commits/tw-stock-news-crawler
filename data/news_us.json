@@ -1,5 +1,994 @@
 [
   {
+    "title": "'No steering wheel, no pedals': Tesla teases fans ahead of long-awaited Cybercab update",
+    "url": "https://www.cnbc.com/2026/09/03/tesla-teases-no-steering-wheel-no-pedals-ahead-of-cybercab-update.html",
+    "source": "CNBC Top",
+    "summary": "Tesla first unveiled the Cybercab almost two years ago, and fans of the company have been waiting to hear more.",
+    "published_at": "2026-09-03T23:23:27+08:00",
+    "stocks": [],
+    "uid": "b6ed4e8615ce3e7b268b9003863d75c5"
+  },
+  {
+    "title": "Snowflake has a secret weapon that’s powering its stock toward a huge gain",
+    "url": "https://www.marketwatch.com/story/shares-in-snowflake-are-surging-heres-what-wall-street-analysts-are-saying-0b6343c0?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The company’s AI-powered coding assistant is driving major sales momentum.",
+    "published_at": "2026-09-03T23:20:00+08:00",
+    "stocks": [],
+    "uid": "8a7c59385f766ae529ce7d2dfa10686f"
+  },
+  {
+    "title": "CNBC Sport: NFL set for first-ever game in Melbourne, Australia, in international expansion",
+    "url": "https://www.cnbc.com/2026/09/03/nfl-rams-49ers-australia-international-expansion.html",
+    "source": "CNBC Top",
+    "summary": "The San Francisco 49ers and the L.A. Rams are playing the NFL's first-ever game in Australia, marking an expanded push to grow the game internationally.",
+    "published_at": "2026-09-03T23:13:06+08:00",
+    "stocks": [],
+    "uid": "adb12d4415c5fb8288a67e67782ccb6f"
+  },
+  {
+    "title": "Leon Black sues House Oversight over Epstein probe subpoenas, won't appear Thursday",
+    "url": "https://www.cnbc.com/2026/09/03/leon-black-sues-house-oversight-epstein-probe-subpoenas.html",
+    "source": "CNBC Top",
+    "summary": "Black's attorneys say the NDAs being sought by the panel have nothing to do with his dealings with notorious sex offender Jeffrey Epstein.",
+    "published_at": "2026-09-03T23:12:24+08:00",
+    "stocks": [],
+    "uid": "639fc999044fbe14ce4ac75c2ea57b3e"
+  },
+  {
+    "title": "Trump Moves to Strip Tax Exemption From Schools That Aid Minority Students",
+    "url": "https://www.nytimes.com/2026/09/03/business/economy/trump-irs-college-nonprofits.html",
+    "source": "NYT Business",
+    "summary": "The Treasury Department released rules that would prevent schools with race-based programs from qualifying for tax-exempt status, a threat to both higher education and other private schools.",
+    "published_at": "2026-09-03T23:12:03+08:00",
+    "stocks": [],
+    "uid": "8af234439ab0decd8b8e5f5f99b850f7"
+  },
+  {
+    "title": "Alkeus Announces Publication in JAMA Ophthalmology of Efficacy and Safety Results from the TEASE-1 Study of Gildeuretinol in Stargardt Disease",
+    "url": "https://markets.businessinsider.com/news/stocks/alkeus-announces-publication-in-jama-ophthalmology-of-efficacy-and-safety-results-from-the-tease-1-study-of-gildeuretinol-in-stargardt-disease-1036520021",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;ul&gt;&lt;li&gt;Daily treatment with oral gildeuretinol met the primary endpoint and resulted in a statistically significant reduction in the growth rate of retinal atrophic lesions compared to untreated group.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Gildeuretinol was well...",
+    "published_at": "2026-09-03T23:10:00+08:00",
+    "stocks": [],
+    "uid": "705eb36094c589b092ebcd3d8969c017"
+  },
+  {
+    "title": "Snowflake stock soars 26% after it gives investors another reason to get excited about the AI boom",
+    "url": "https://www.businessinsider.com/snowflake-stock-earnings-ai-trade-software-saas-tech-pltr-snow-2026-9",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-09-03T23:10:00+08:00",
+    "stocks": [],
+    "uid": "617a702f1e7d39842ea079818dfdc488"
+  },
+  {
+    "title": "Wall Street extends gains as oil prices and Treasury yields continue to let up",
+    "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-flat-amid-iran-rate-caution-broadcom-dips-after-earnings-4886896",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-03T23:08:56+08:00",
+    "stocks": [],
+    "uid": "bb8c3ee690b92dc9538272275f607ae8"
+  },
+  {
+    "title": "Galantas Gold shareholder sells 10.97% stake for C$38.4m",
+    "url": "https://www.investing.com/news/company-news/galantas-gold-shareholder-sells-1097-stake-for-c384m-93CH-4888249",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-03T23:08:13+08:00",
+    "stocks": [],
+    "uid": "d26e320f5631c835d82f687bb3e2f658"
+  },
+  {
+    "title": "Galantas Gold Announces Notification of Change to Significant Shareholding",
+    "url": "https://markets.businessinsider.com/news/stocks/galantas-gold-announces-notification-of-change-to-significant-shareholding-1036520017",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/312799/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px;  height: 1px;border: 0px solid;&quot;&gt;Toronto, Ontario--(Newsfile Corp. - September 3, 2026) - &lt;b&gt;Galantas Gold Corporation &lt;/b&gt;(TSXV: GAL) (AIM: GAL) (&quot;Galantas&quot; or the &quot;Company&quot;) announces that it was notified today of the following change...",
+    "published_at": "2026-09-03T23:08:00+08:00",
+    "stocks": [],
+    "uid": "906e2cf8c08a48cafb65da5f3f7f2980"
+  },
+  {
+    "title": "RIXOC Unleashes the GT60: A 4000W Peak Motor Electric Dirt Bike Built for Adults Who Refuse to Compromise on Riding Experience!",
+    "url": "https://markets.businessinsider.com/news/stocks/rixoc-unleashes-the-gt60-a-4000w-peak-motor-electric-dirt-bike-built-for-adults-who-refuse-to-compromise-on-riding-experience-1036520020",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;LOS ANGELES, Sept.  03, 2026  (GLOBE NEWSWIRE) -- RIXOC today launched the GT60 Electric Dirt Bike, engineered for adult riders who demand weekday utility and weekend adrenaline. With a UL2849-certified electrical system, the GT60 is the ultimate...",
+    "published_at": "2026-09-03T23:06:00+08:00",
+    "stocks": [],
+    "uid": "d64efce3b9f9709847cdf12adb6943ee"
+  },
+  {
+    "title": "IG Group shareholders approve Jersey holding company reorganization",
+    "url": "https://www.investing.com/news/company-news/ig-group-shareholders-approve-jersey-holding-company-reorganization-93CH-4888247",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-03T23:04:41+08:00",
+    "stocks": [],
+    "uid": "4e12f5f96eba8ed122f380177bf6884f"
+  },
+  {
+    "title": "Vishay introduces thin film chip resistors for RF applications",
+    "url": "https://www.investing.com/news/company-news/vishay-introduces-thin-film-chip-resistors-for-rf-applications-93CH-4888246",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-03T23:04:37+08:00",
+    "stocks": [],
+    "uid": "65786d23688d4a627ced59d3ef8df762"
+  },
+  {
+    "title": "Keysight partners with University of York on AI safety research",
+    "url": "https://www.investing.com/news/company-news/keysight-partners-with-university-of-york-on-ai-safety-research-93CH-4888245",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-03T23:04:32+08:00",
+    "stocks": [],
+    "uid": "f6e6601688bfa1c1143ff4345385e16d"
+  },
+  {
+    "title": "EQS-DD: Deutsche Beteiligungs AG: Tom  Alzin, buy",
+    "url": "https://markets.businessinsider.com/news/stocks/eqs-dd-deutsche-beteiligungs-ag-tom-alzin-buy-1036520008",
+    "source": "Business Insider",
+    "summary": "&lt;br/&gt;&lt;br/&gt;&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;\n&lt;br/&gt;\nNotification and public disclosure of transactions by persons discharging managerial responsibilities and persons closely associated with them &lt;br/&gt;&lt;br/&gt;\n03.09.2026 / 17:01 CET/CEST&lt;br/&gt;The issuer is solely responsible for the content of this announcement.&lt;br/&gt;&lt;br/&gt;&lt;!-- sh_cad_1...",
+    "published_at": "2026-09-03T23:02:46+08:00",
+    "stocks": [],
+    "uid": "4dd20a630c86340f1f4baf00af5dc21a"
+  },
+  {
+    "title": "Fitch affirms ASML rating at ’A+’ on lithography leadership",
+    "url": "https://www.investing.com/news/stock-market-news/fitch-affirms-asml-rating-at-a-on-lithography-leadership-93CH-4888243",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-03T23:02:22+08:00",
+    "stocks": [],
+    "uid": "2a5cbce4bbb7b4305dfc99893c36683f"
+  },
+  {
+    "title": "21shares to Participate in Stacks Genesis Bond, Advancing Institutional Bitcoin Staking",
+    "url": "https://www.investing.com/news/press-releases/21shares-to-participate-in-stacks-genesis-bond-advancing-institutional-bitcoin-staking-4888242",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-03T23:01:11+08:00",
+    "stocks": [],
+    "uid": "e4db76a078eb8d25e3b3bd26eee173f3"
+  },
+  {
+    "title": "Blackstone private credit fund maintains 5% cap as redemption requests remain high",
+    "url": "https://www.investing.com/news/stock-market-news/blackstone-private-credit-fund-maintains-5-cap-as-redemption-requests-remain-high-4887791",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-03T23:00:57+08:00",
+    "stocks": [],
+    "uid": "77cb40274a045afdac6746ff86e5b659"
+  },
+  {
+    "title": "Ferrexpo reports $224M loss for 2025 amid Ukraine challenges",
+    "url": "https://www.investing.com/news/company-news/ferrexpo-reports-224m-loss-for-2025-amid-ukraine-challenges-93CH-4888239",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-03T23:00:46+08:00",
+    "stocks": [],
+    "uid": "18688b3fd6f7ab964f1de748d6027316"
+  },
+  {
+    "title": "Why is PayPal stock climbing today?",
+    "url": "https://www.investing.com/news/stock-market-news/why-is-paypal-stock-climbing-today-93CH-4888238",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-03T23:00:44+08:00",
+    "stocks": [],
+    "uid": "6c5f50123891ec47371d4ac82a7ba8ae"
+  },
+  {
+    "title": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?",
+    "url": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-70s-should-we-move-to-california-and-take-on-a-bigger-mortgage-to-be-near-our-kids-1d619084?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "“We currently live in a relatively low-cost, lower-tax Northwest state.”",
+    "published_at": "2026-09-03T23:00:00+08:00",
+    "stocks": [],
+    "uid": "3510d2283e009f85f486013d2fee6f10"
+  },
+  {
+    "title": "LiquidPiston Crowdfunding Round Closes Oct. 15",
+    "url": "https://markets.businessinsider.com/news/stocks/liquidpiston-crowdfunding-round-closes-oct-15-1036520003",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;ul&gt;&lt;li&gt;Reg CF Investment Opportunity Closes Oct. 15:&#160; LiquidPiston has raised more than $2.7 million through its &lt;a href=&quot;https://www.startengine.com/offering/liquidpiston&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;&lt;u&gt;current Regulation CF funding round&lt;/u&gt;&lt;/a&gt;.",
+    "published_at": "2026-09-03T23:00:00+08:00",
+    "stocks": [],
+    "uid": "a7ee291784ad38a5d149f9f0324780bc"
+  },
+  {
+    "title": "Vishay Intertechnology’s Thin Film High Frequency Chip Resistors Deliver More Power in Less Space, Without Need for a Heatsink",
+    "url": "https://markets.businessinsider.com/news/stocks/vishay-intertechnology-s-thin-film-high-frequency-chip-resistors-deliver-more-power-in-less-space-without-need-for-a-heatsink-1036520004",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;left&quot;&gt;MALVERN, Pa., Sept.  03, 2026  (GLOBE NEWSWIRE) -- Vishay Intertechnology, Inc. (NYSE: VSH) today introduced a new series of thin film chip resistors in compact 0402 and 0603 case sizes. Built on an advanced aluminum nitride (AlN)...",
+    "published_at": "2026-09-03T23:00:00+08:00",
+    "stocks": [],
+    "uid": "6ae04106ee840dc31580ed4e983208e1"
+  },
+  {
+    "title": "Following National Advertising Division Challenge, DREO Voluntarily Discontinues Pedestal and Tower Fan Claims",
+    "url": "https://markets.businessinsider.com/news/stocks/following-national-advertising-division-challenge-dreo-voluntarily-discontinues-pedestal-and-tower-fan-claims-1036520006",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;justify&quot;&gt;New York, NY, Sept.  03, 2026  (GLOBE NEWSWIRE) -- Following a BBB National Programs’ National Advertising Division challenge brought by VeSync US Corporation, d/b/a Levoit, DREO Incorporated voluntarily discontinued the...",
+    "published_at": "2026-09-03T23:00:00+08:00",
+    "stocks": [],
+    "uid": "1998d4f0508aee293297e448694c1fa2"
+  },
+  {
+    "title": "Palmetto Publishing Releases Shari Weber's New Leadership Book on Building Character-Driven Workplace Culture",
+    "url": "https://markets.businessinsider.com/news/stocks/palmetto-publishing-releases-shari-weber-s-new-leadership-book-on-building-character-driven-workplace-culture-1036520002",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;Charleston, SC, Sept.  03, 2026  (GLOBE NEWSWIRE) -- Palmetto Publishing has released &lt;i&gt;Character First Leadership&lt;/i&gt;, a new book by leadership professional and speaker Shari Weber. The book presents a values-driven approach to leadership...",
+    "published_at": "2026-09-03T23:00:00+08:00",
+    "stocks": [],
+    "uid": "70cef655db31226f4f9643f038cf7768"
+  },
+  {
+    "title": "TrueShot AI™ Stinger Trainer Completes Government Acceptance Testing",
+    "url": "https://markets.businessinsider.com/news/stocks/trueshot-ai-stinger-trainer-completes-government-acceptance-testing-1036520005",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;left&quot;&gt;ORLANDO, Fla., Sept.  03, 2026  (GLOBE NEWSWIRE) -- By Light announced today that the TrueShot AI Stinger Surface-to-Air Missile Training System has successfully completed Government Acceptance Testing (GAT), marking a major...",
+    "published_at": "2026-09-03T23:00:00+08:00",
+    "stocks": [
+      "GAT"
+    ],
+    "uid": "1ae9c4176f7ffdf604497b8c15566611"
+  },
+  {
+    "title": "Archer Aviation: Buy, Sell, or Hold?",
+    "url": "https://www.fool.com/investing/2026/09/03/archer-aviation-buy-sell-or-hold/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Archer stock has tanked in 2026. Should you buy now or sell your shares?",
+    "published_at": "2026-09-03T23:00:00+08:00",
+    "stocks": [],
+    "uid": "cbbe764746ab479e86b4ad468c31da6a"
+  },
+  {
+    "title": "How to invest in a booming stock market that’s way cheaper than the S&P 500",
+    "url": "https://www.marketwatch.com/story/how-to-invest-in-a-booming-stock-market-thats-way-cheaper-than-the-s-p-500-b2f5ef5d?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Poland’s reclassification as a developed economy from an emerging market opens it up for investment by many more investors.",
+    "published_at": "2026-09-03T22:57:00+08:00",
+    "stocks": [],
+    "uid": "f666958373f7f004af93be30d63e20b0"
+  },
+  {
+    "title": "Mastercard (MA) Stays Resilient with AI Integration and Payment Duopoly",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-ma-stays-resilient-ai-145603430.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-03T22:56:03+08:00",
+    "stocks": [
+      "MA"
+    ],
+    "uid": "007b2305b45b4f98bcc49a006caa440d"
+  },
+  {
+    "title": "Flywire (FLYW) Bets On Open Banking To Widen Its Payment Moat",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/flywire-flyw-bets-open-banking-145555831.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-03T22:55:55+08:00",
+    "stocks": [
+      "FLYW"
+    ],
+    "uid": "a1d17ec5aad7186db07feda686a8268b"
+  },
+  {
+    "title": "Danaher (DHR) Seen Deftly Navigating AI Integration",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/danaher-dhr-seen-deftly-navigating-145442960.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-03T22:54:42+08:00",
+    "stocks": [
+      "DHR"
+    ],
+    "uid": "e02e82719653e6731e2b522900c0640f"
+  },
+  {
+    "title": "Anthropic Is Reportedly Planning to Unveil IPO Prospectus After Labor Day",
+    "url": "https://www.fool.com/investing/2026/09/03/anthropic-planning-unveil-ipo-details-labor-day/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The highly awaited IPO could happen later this month. Here are the latest details.",
+    "published_at": "2026-09-03T22:52:35+08:00",
+    "stocks": [],
+    "uid": "70162e3fd5d585f9a1f5b127fd16f235"
+  },
+  {
+    "title": "Congressman Ro Khanna Was Buying This Small-Cap Stock. Should You?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/congressman-ro-khanna-buying-small-145151706.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-03T22:51:51+08:00",
+    "stocks": [],
+    "uid": "38e4798939970c235944a99fdd9e6732"
+  },
+  {
+    "title": "S&P Global (SPGI) Could Deliver Mid-Teens EPS Growth From a Cheaper Valuation",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/p-global-spgi-could-deliver-145100299.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-03T22:51:00+08:00",
+    "stocks": [
+      "SPGI"
+    ],
+    "uid": "76a8007a91367789c90617c02c82f7ef"
+  },
+  {
+    "title": "Is UnitedHealth Group (UNH) Finally Turning the Corner Under Stephen Hemsley?",
+    "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-group-unh-finally-turning-145043391.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-03T22:50:43+08:00",
+    "stocks": [
+      "UNH"
+    ],
+    "uid": "23ba9ef6172bf206a7f888bce80a922f"
+  },
+  {
+    "title": "Netflix’s Acquisition Wishlist: Which Streaming Target Has the Best Odds?",
+    "url": "https://finance.yahoo.com/media-advertising/articles/netflix-acquisition-wishlist-streaming-target-145040058.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-03T22:50:40+08:00",
+    "stocks": [],
+    "uid": "e4640f609c09b2ba8c6859a62ad1e813"
+  },
+  {
+    "title": "Wall Street Loves NuScale Power. Here's the Risk Analysts Are Glossing Over.",
+    "url": "https://finance.yahoo.com/energy/articles/wall-street-loves-nuscale-power-145000761.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-03T22:50:00+08:00",
+    "stocks": [],
+    "uid": "c42e741f801d934c5ec6c43317689c64"
+  },
+  {
+    "title": "Netherlands Moves Gold From New York to London, Citing Geopolitical Unrest",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/netherlands-moves-gold-york-london-114300354.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-03T22:50:00+08:00",
+    "stocks": [],
+    "uid": "e5b5c38fb141759646e44308a4351970"
+  },
+  {
+    "title": "Accrual to acquire Puzzle’s accounting firm business and software",
+    "url": "https://finance.yahoo.com/small-business/articles/accrual-acquire-puzzle-accounting-firm-144929376.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-03T22:49:29+08:00",
+    "stocks": [],
+    "uid": "3f4f50307201defeb473a47745cd34ca"
+  },
+  {
+    "title": "Japanese Yen Extends Gains Versus Weaker U.S. Dollar",
+    "url": "https://www.wsj.com/finance/currencies/yen-consolidates-may-be-supported-by-lingering-risks-of-fx-intervention-45c3cccb?siteid=yhoof2&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-03T22:48:00+08:00",
+    "stocks": [],
+    "uid": "6cf03d70926e8f3caa547c40aca6b79e"
+  },
+  {
+    "title": "Social Security: See what's really changing in 2027",
+    "url": "https://finance.yahoo.com/personal-finance/investing/article/social-security-see-whats-really-changing-in-2027-144723278.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-03T22:47:23+08:00",
+    "stocks": [],
+    "uid": "43ad238b30f6ab7949040021f8abc7a1"
+  },
+  {
+    "title": "Why Broadcom Stock Dropped Today",
+    "url": "https://www.fool.com/investing/2026/09/03/why-broadcom-stock-dropped-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Don't be fooled by guidance -- or by the sell-off. Broadcom stock remains fairly priced.",
+    "published_at": "2026-09-03T22:45:44+08:00",
+    "stocks": [],
+    "uid": "d16ba50dd592a68f8a35c38c3fc566e0"
+  },
+  {
+    "title": "September Is the Stock Market's Worst Month on Record. Here's the 1 Move History Says AI Investors Should Make.",
+    "url": "https://www.fool.com/investing/2026/09/03/september-is-stock-markets-worst-month-on-record/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "September is historically the poorest-performing month in the stock market.",
+    "published_at": "2026-09-03T22:45:00+08:00",
+    "stocks": [],
+    "uid": "87fd4ddacf2a69271ed233bd9dc0eab7"
+  },
+  {
+    "title": "This Fund Bought Moderna Before It Nearly Tripled. See Its 2 New Stock Picks",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/fund-bought-moderna-nearly-tripled-144452535.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-03T22:44:52+08:00",
+    "stocks": [],
+    "uid": "253b7d1762ef569fe2926edd19ed3e12"
+  },
+  {
+    "title": "The U.S. economy powers up as summer winds down, but it’s not free of trip wires",
+    "url": "https://www.marketwatch.com/story/the-u-s-economy-powers-up-as-summer-winds-down-but-its-not-free-of-tripwires-2208ae5a?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The largest part of the economy grew in August at the fastest pace in six months despite higher inflation and a new round of White House tariffs, suggesting the six-year-old U.S. expansion has plenty more room to run.",
+    "published_at": "2026-09-03T22:44:00+08:00",
+    "stocks": [],
+    "uid": "17a0c9a6f3122bd50ca5572891dd861f"
+  },
+  {
+    "title": "The Athletic Says Dianna Russini’s Relationship With Mike Vrabel Violated Its Standards",
+    "url": "https://www.nytimes.com/2026/09/03/business/athletic-russini-vrabel-relationship.html",
+    "source": "NYT Business",
+    "summary": "The New York Times-owned publication said the relationship between its former reporter Dianna Russini and Mike Vrabel of the Patriots gave the appearance of a conflict of interest.",
+    "published_at": "2026-09-03T22:40:19+08:00",
+    "stocks": [],
+    "uid": "b6d89c71b805ccfbcba7ae5294ec749e"
+  },
+  {
+    "title": "Billionaires Like These 2 AI Data Center Stocks",
+    "url": "https://finance.yahoo.com/technology/ai/articles/billionaires-2-ai-data-center-143957217.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-03T22:39:57+08:00",
+    "stocks": [],
+    "uid": "77e5825c8a56eb629a44a9aff4162e6a"
+  },
+  {
+    "title": "Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
+    "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+    "source": "CNBC Top",
+    "summary": "Nvidia CEO Jensen Huang said that with Hugging Face, the chipmaker will \"expand access to AI for developers and institutions worldwide.\"",
+    "published_at": "2026-09-03T22:38:25+08:00",
+    "stocks": [],
+    "uid": "b83b7bfb7d196d7ed38d9b481b65f508"
+  },
+  {
+    "title": "Social Security's 2027 COLA Might Disappoint: Here's How Retirees Can Cope",
+    "url": "https://www.fool.com/retirement/2026/09/03/social-securitys-2027-cola-might-disappoint-heres/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The upcoming raise may not help seniors' finances too much.",
+    "published_at": "2026-09-03T22:36:00+08:00",
+    "stocks": [],
+    "uid": "6f36e18150f89a76fb722a72fc6172b7"
+  },
+  {
+    "title": "Can Better Star Ratings and Margin Expansion Drive Humana (HUM) Higher?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/better-star-ratings-margin-expansion-143427291.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-03T22:34:27+08:00",
+    "stocks": [
+      "HUM"
+    ],
+    "uid": "ee8579dfdd1329bef03a8dde63e5bd7a"
+  },
+  {
+    "title": "Victoria’s Secret sees strong ‘bras and Pink’ sales, but not enough to satisfy investors",
+    "url": "https://www.marketwatch.com/story/victorias-secret-sees-strong-bras-and-pink-sales-but-not-enough-to-satisfy-investors-48bfe36c?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The company delivered sales near the high end of its forecasted range, but Wall Street was expecting more, and the stock is headed for its worst day in more than a year.",
+    "published_at": "2026-09-03T22:32:00+08:00",
+    "stocks": [],
+    "uid": "3cd7862c2879e78d959c26e215befb39"
+  },
+  {
+    "title": "Amazon.com (AMZN): AI Exposure Adds, But Other Businesses Drive Results",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-ai-exposure-143009087.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-03T22:30:09+08:00",
+    "stocks": [
+      "AMZN"
+    ],
+    "uid": "733bd92280105ade25246775255a8b6c"
+  },
+  {
+    "title": "Think you maxed out your 401(k)? The real limit is actually almost $50,000 higher.",
+    "url": "https://www.marketwatch.com/story/think-you-maxed-out-your-401-k-the-real-limit-is-actually-almost-50-000-higher-217a89ee?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "You can unlock greater retirement wealth by reading this document that nearly everyone ignores.",
+    "published_at": "2026-09-03T22:30:00+08:00",
+    "stocks": [],
+    "uid": "8bfb80f49bee782e8e44b8009a66cc2b"
+  },
+  {
+    "title": "Wall Street Loves NuScale Power. Here's the Risk Analysts Are Glossing Over.",
+    "url": "https://www.fool.com/investing/2026/09/03/wall-street-loves-nuscale-power-heres-the-risk/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "NuScale Power investors may face ongoing share dilution.",
+    "published_at": "2026-09-03T22:30:00+08:00",
+    "stocks": [],
+    "uid": "4d6414174078c6cf53e35863c967dd11"
+  },
+  {
+    "title": "Rigetti's Massive $100M Quantum Opportunity Comes With a Critical Catch",
+    "url": "https://www.fool.com/investing/2026/09/03/rigettis-massive-100m-quantum-opportunity-comes-wi/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Rigetti's quantum story is getting bigger, but the numbers reveal a tension investors cannot ignore. See what could drive the next phase and what may stand in the way.",
+    "published_at": "2026-09-03T22:30:00+08:00",
+    "stocks": [],
+    "uid": "3e6cd7da7dd0812e400d5d9a86684d5c"
+  },
+  {
+    "title": "Why Palantir Stock Bounced Back Today",
+    "url": "https://www.fool.com/investing/2026/09/03/why-palantir-stock-bounced-back-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Palantir stock looks expensive, yes, but given its growth rate, is it really overpriced?",
+    "published_at": "2026-09-03T22:27:31+08:00",
+    "stocks": [],
+    "uid": "73f06c8ac03e30d581e99033f9ee24cc"
+  },
+  {
+    "title": "Ciena Earnings Beat. Why This AI Data Center Play Is Falling.",
+    "url": "https://www.investors.com/news/technology/ciena-stock-cien-ciena-earnings-news-july26/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-03T22:26:37+08:00",
+    "stocks": [],
+    "uid": "6ebf3c5e9bcaf9595b44b8d9277983dd"
+  },
+  {
+    "title": "Texas Instruments Incorporated (TXN) Benefits from AI without Being Pure Play AI",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-incorporated-txn-benefits-142036141.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-03T22:20:36+08:00",
+    "stocks": [
+      "TXN"
+    ],
+    "uid": "b5100ceefe033e86b684bf0498cc8380"
+  },
+  {
+    "title": "Andvari Associates Strategic Investment in Martin Marietta Materials (MLM)",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/andvari-associates-strategic-investment-martin-141742133.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-03T22:17:42+08:00",
+    "stocks": [
+      "MLM"
+    ],
+    "uid": "d0491d0e7b27d7a805ac1604bf036898"
+  },
+  {
+    "title": "Binance Founder ‘CZ’ Says Capital Is Returning To Crypto Market",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/binance-founder-cz-says-capital-141700689.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-03T22:17:00+08:00",
+    "stocks": [],
+    "uid": "ecf93240e1743dd8e7fa82636d86b93c"
+  },
+  {
+    "title": "AppFolio Insider Maurice Duca Sells 15,800 Shares",
+    "url": "https://www.fool.com/coverage/filings/2026/09/03/appfolio-insider-maurice-duca-sells-15-800-shares/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This looks like a big transaction, but the insider still holds over 31,000 direct shares.",
+    "published_at": "2026-09-03T22:15:02+08:00",
+    "stocks": [],
+    "uid": "e7cded81ad0223e89f6accd6a79a38a2"
+  },
+  {
+    "title": "Insider Waves Goodbye to Nearly 6,000 Shares of Energy Stock",
+    "url": "https://www.fool.com/coverage/filings/2026/09/03/insider-waves-goodbye-to-nearly-6-000-shares-of-energy-stock/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Insider sale executed under a pre-established Rule 10b5-1 trading plan, with McKee retaining over 308,000 total shares worth $18.39 million.",
+    "published_at": "2026-09-03T22:15:01+08:00",
+    "stocks": [],
+    "uid": "cb30e942ec3e725ad04c0e3ec0d63ea3"
+  },
+  {
+    "title": "Kinetik Holdings: Buy, Sell, or Hold After Its Recent Run?",
+    "url": "https://www.fool.com/investing/2026/09/03/stock-buy-sell-or-hold-after-its-recent-run/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Fresh off hiking its 2026 guidance and a gain of more than 7% in August, Kinetik Holdings remains a \"buy\" for energy income investors.",
+    "published_at": "2026-09-03T22:15:00+08:00",
+    "stocks": [],
+    "uid": "b9f97f4125b379a0e13ddb3ff76c1684"
+  },
+  {
+    "title": "Stock Market Today: Nasdaq Leads As Fed's Waller Signals This; Snowflake Soars (Live Coverage)",
+    "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-broadcom-stock-avgo/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-03T22:14:28+08:00",
+    "stocks": [],
+    "uid": "71069468ef2b57113b9d3e5b32e9a675"
+  },
+  {
+    "title": "Microsoft Corporation (MSFT) Generates Revenues and Profits Beyond AI Theme",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-generates-revenues-141420996.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-03T22:14:20+08:00",
+    "stocks": [
+      "MSFT"
+    ],
+    "uid": "6037207a5ee81bcc55090bb0bebf1c05"
+  },
+  {
+    "title": "U.S. Trade Gap Ballooned in July",
+    "url": "https://www.nytimes.com/2026/09/03/business/economy/us-trade-defecit-july.html",
+    "source": "NYT Business",
+    "summary": "The trade deficit bounced back up last month as spending on data centers to feed the A.I. boom drove up imports.",
+    "published_at": "2026-09-03T22:12:13+08:00",
+    "stocks": [],
+    "uid": "d4ba605e536c2f9881f64c9355a88c47"
+  },
+  {
+    "title": "Why HPE Stock Is Falling Amid Fiscal Q3 Earnings Beat",
+    "url": "https://www.investors.com/news/technology/hpe-stock-hpe-earnings-news-july26/?src=A00220&yptr=yahoo",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-03T22:11:32+08:00",
+    "stocks": [],
+    "uid": "1535611ab20002d6536e115c360bb300"
+  },
+  {
+    "title": "Nvidia confirms $13 billion acquisition of open-weight AI platform Hugging Face",
+    "url": "https://finance.yahoo.com/markets/article/nvidia-confirms-13-billion-acquisition-of-open-weight-ai-platform-hugging-face-141058641.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-03T22:10:58+08:00",
+    "stocks": [],
+    "uid": "35eff91fb191d9ea46c8943705c2710a"
+  },
+  {
+    "title": "Liquidia Corporation’s (LQDA) Yutrepia Launch Continues to Outpace the Expectations",
+    "url": "https://finance.yahoo.com/healthcare/articles/liquidia-corporation-lqda-yutrepia-launch-141014617.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-03T22:10:14+08:00",
+    "stocks": [
+      "LQDA"
+    ],
+    "uid": "2dbf6f5ab319464621db07f355e40a6f"
+  },
+  {
+    "title": "Amazon.com vs. DraftKings: Which Consumer Stock Is a Better Buy in 2026?",
+    "url": "https://www.fool.com/coverage/better-buy/2026/09/03/amazoncom-vs-draftkings-which-consumer-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Amazon trades at a 9x valuation discount to DraftKings, but profitability and cash generation tell starkly different stories.",
+    "published_at": "2026-09-03T22:09:10+08:00",
+    "stocks": [],
+    "uid": "27dfb8301942a0aa20528ba5e83775c3"
+  },
+  {
+    "title": "Rate Rise in Play as Fed Officials Await Inflation Data",
+    "url": "https://www.nytimes.com/2026/09/03/business/interest-rates-inflation-federal-reserve.html",
+    "source": "NYT Business",
+    "summary": "Christopher J. Waller, a Federal Reserve governor, sounded optimistic about inflation’s trajectory but indicated he would support higher rates if progress does not continue.",
+    "published_at": "2026-09-03T22:07:45+08:00",
+    "stocks": [],
+    "uid": "0e68007aeff15bc904f96e726bf843ff"
+  },
+  {
+    "title": "Fed Governor Waller indicates he will support holding rates steady at September meeting",
+    "url": "https://www.cnbc.com/2026/09/03/fed-governor-waller-indicates-he-will-support-holding-rates-steady-at-september-meeting.html",
+    "source": "CNBC Top",
+    "summary": "In remarks that seem to contrast with statements last week from Chairman Kevin Warsh, Waller expressed confidence in the current inflation trends.",
+    "published_at": "2026-09-03T22:06:52+08:00",
+    "stocks": [],
+    "uid": "6b0aa41d973f25b0f0a2a32276930b1e"
+  },
+  {
+    "title": "Whole Foods CEO bets on smaller stores and the latest Amazon tech to win over shoppers",
+    "url": "https://finance.yahoo.com/markets/article/whole-foods-ceo-bets-on-smaller-stores-and-the-latest-amazon-tech-to-win-over-shoppers-140631065.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-03T22:06:31+08:00",
+    "stocks": [],
+    "uid": "93169006a4681f7c2e549bd846923949"
+  },
+  {
+    "title": "Sands Capital Select Growth Fund Sold DoorDash’s (DASH) in Q2",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/sands-capital-select-growth-fund-140621125.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-03T22:06:21+08:00",
+    "stocks": [
+      "DASH"
+    ],
+    "uid": "ca07b0954d7ec04ac07a2c1c175ead71"
+  },
+  {
+    "title": "Stocks edge up as Nvidia leads tech higher following Hugging Face deal announcement: AlphaCheck",
+    "url": "https://finance.yahoo.com/markets/article/stocks-edge-up-as-nvidia-leads-tech-higher-following-hugging-face-deal-announcement-alphacheck-140448366.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-03T22:04:48+08:00",
+    "stocks": [],
+    "uid": "63373c4e1918081cb15e4b89747f65d5"
+  },
+  {
+    "title": "Nvidia Buys Hugging Face in $12.9 Billion Deal",
+    "url": "https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html",
+    "source": "NYT Business",
+    "summary": "The acquisition of the start-up is an indication of Nvidia’s growing role as Silicon Valley’s central banker and its emphasis on open-source technology.",
+    "published_at": "2026-09-03T22:03:49+08:00",
+    "stocks": [],
+    "uid": "77416badd834347191f8d6cb1e63c251"
+  },
+  {
+    "title": "If a Stock Market Crash Is Coming, This Is Warren Buffett's No. 1 Piece of Advice for Investors Right Now",
+    "url": "https://www.fool.com/investing/2026/09/03/if-a-stock-market-crash-is-coming-this-is-warren-b/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Buffett's best advice for surviving a recession is more relevant than ever.",
+    "published_at": "2026-09-03T22:00:00+08:00",
+    "stocks": [],
+    "uid": "698fc8ba5e3fa01a50338e7dbf9feae1"
+  },
+  {
+    "title": "Nu Holdings Cleared $1 Billion in Quarterly Net Income With 139 Million Customers",
+    "url": "https://www.fool.com/investing/2026/09/03/nu-holdings-cleared-1-billion-quarterly-net-income/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Nubank had record earnings in Q2, and the stock has moved higher.",
+    "published_at": "2026-09-03T22:00:00+08:00",
+    "stocks": [],
+    "uid": "76d900c1d10574533ab026c56c70857a"
+  },
+  {
+    "title": "Oil Jumps for Fourth Straight Day and Diesel Nears Record High",
+    "url": "https://www.nytimes.com/2026/09/03/business/oil-diesel-prices-iran-war.html",
+    "source": "NYT Business",
+    "summary": "This week’s renewed strikes by the United States and Iran strain the flow of energy and diminish expectations the disruption will end soon.",
+    "published_at": "2026-09-03T21:59:22+08:00",
+    "stocks": [],
+    "uid": "0c9c2b9a98dd84eec2e47162edd741e0"
+  },
+  {
+    "title": "Billionaire family offices back healthcare and biotech startups in August",
+    "url": "https://www.cnbc.com/2026/09/03/family-offices-health-care-biotech-startups-august.html",
+    "source": "CNBC Top",
+    "summary": "The personal investment firms of titans like Stanley Druckenmiller are backing innovations in gene editing, drug discovery and more.",
+    "published_at": "2026-09-03T21:54:50+08:00",
+    "stocks": [],
+    "uid": "c4fa2697f1c2878c5f89fad8af6c903a"
+  },
+  {
+    "title": "Average 401(k), IRA balances hit record highs — but more workers are raiding their accounts, Fidelity says",
+    "url": "https://www.cnbc.com/2026/09/03/401k-ira-retirement-balances-leakage-fidelity.html",
+    "source": "CNBC Top",
+    "summary": "Retirement account balances rose in the second quarter amid market gains, according to Fidelity. At the same time, more savers tapped their accounts for cash.",
+    "published_at": "2026-09-03T21:54:17+08:00",
+    "stocks": [],
+    "uid": "3d6d0d336065146666c1c7c50cd2c1a1"
+  },
+  {
+    "title": "Better Stock: Lucid vs. Rivian (Hint: It's All About Shareholder Dilution)",
+    "url": "https://www.fool.com/investing/2026/09/03/better-stock-lucid-vs-rivian-hint-its-all-about/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Shareholder dilution is one of the major differences between Rivian and Lucid, and investors should note how it looks going forward.",
+    "published_at": "2026-09-03T21:45:00+08:00",
+    "stocks": [],
+    "uid": "c0b14065b9429767fd2dc61887c8197a"
+  },
+  {
+    "title": "Brent oil price above $96 per barrel after Iran fires missiles at Kuwait",
+    "url": "https://www.cnbc.com/2026/09/03/oil-price-today-iran-war-strait-hormuz.html",
+    "source": "CNBC Top",
+    "summary": "Oil prices have gained more than 7% this week The U.S. and Iran have traded military strikes this week for the first time since July.",
+    "published_at": "2026-09-03T21:40:13+08:00",
+    "stocks": [],
+    "uid": "f0abe12b8f0d1f0645ac9f4e14bf0e22"
+  },
+  {
+    "title": "Clean sweep or divided Congress, these are the midterm-elections trades to make, says JPMorgan",
+    "url": "https://www.marketwatch.com/story/clean-sweep-or-split-congress-these-are-the-trades-to-make-on-the-midterms-outcome-says-jpmorgan-91a1e3ee?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Some stocks will face very different environments depending on how Americans vote in November.",
+    "published_at": "2026-09-03T21:35:00+08:00",
+    "stocks": [],
+    "uid": "d7f25a9e39673be887455df31412b518"
+  },
+  {
+    "title": "August jobs report could show a summer slump in hiring. Haitian refugees are a wild card.",
+    "url": "https://www.marketwatch.com/story/august-jobs-report-could-show-a-summer-hiring-slump-haitian-refugees-are-a-wild-card-93fb6dfc?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Is the U.S. economy enduring a summer hiring slump for the third year in a row? Wall Street expects only a small increase in new jobs in August, but the news probably won’t be all bad.",
+    "published_at": "2026-09-03T21:33:00+08:00",
+    "stocks": [],
+    "uid": "6c468144b9ee35bb9bdaf757986b5a56"
+  },
+  {
+    "title": "2 Energy Dividend Stocks With Growing Payouts, Led by ExxonMobil",
+    "url": "https://www.fool.com/investing/2026/09/03/2-energy-dividend-stocks-with-growing-payouts-led/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "They can be lucrative, income-paying pieces in your portfolio.",
+    "published_at": "2026-09-03T21:30:00+08:00",
+    "stocks": [],
+    "uid": "8d06060a52a02e23205038b099d2f03c"
+  },
+  {
+    "title": "Paylocity CEO Williams Sells 12,000 Shares for $1.8 Million",
+    "url": "https://www.fool.com/coverage/filings/2026/09/03/paylocity-ceo-williams-sells-12000-shares-for-18-million/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The executive still holds $51.5 million in stock.",
+    "published_at": "2026-09-03T21:25:01+08:00",
+    "stocks": [],
+    "uid": "0ffe26dda49eb8ff693d16e4fd80bf6e"
+  },
+  {
+    "title": "Hyperscalers Are the Backbone of AI. Here's Why I Own Amazon, Alphabet, and Meta Platforms.",
+    "url": "https://www.fool.com/investing/2026/09/03/hyperscalers-are-the-backbone-of-ai-heres-why-i-ow/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Amazon, Alphabet, and Meta Platforms are three top AI stocks to own for the long term.",
+    "published_at": "2026-09-03T21:22:00+08:00",
+    "stocks": [],
+    "uid": "70b0ae8d484f12d815d260072b63e63a"
+  },
+  {
+    "title": "Better Drone Stock: Kratos Defense vs. Northrop Grumman",
+    "url": "https://www.fool.com/investing/2026/09/03/better-drone-stock-kratos-defense-vs-northrop-grum/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Kratos Defense and Security Solutions and Northrop Grumman are two great ways to play the trend toward increased military drone spending.",
+    "published_at": "2026-09-03T21:15:00+08:00",
+    "stocks": [],
+    "uid": "99c853bd6097022a2dfcad9881cd88d5"
+  },
+  {
+    "title": "Better Buy: XRP vs. Bitcoin",
+    "url": "https://www.fool.com/investing/2026/09/03/better-buy-xrp-vs-bitcoin/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Ripple signed 10 major banking deals in 2026 and settled none of them in XRP. Here's why that matters more than any price chart.",
+    "published_at": "2026-09-03T21:03:00+08:00",
+    "stocks": [],
+    "uid": "353954e51c258ad38ba0ca40a5e1e8e9"
+  },
+  {
+    "title": "Switching From a Spousal to a Survivor Social Security Benefit? 3 Changes to Expect.",
+    "url": "https://www.fool.com/retirement/2026/09/03/switching-spousal-to-survivor-social-security/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This single shift could have an enormous effect on your finances.",
+    "published_at": "2026-09-03T21:00:00+08:00",
+    "stocks": [],
+    "uid": "1a8d1cbe62310bed17cb5de02e772004"
+  },
+  {
+    "title": "Ichor Holdings COO Bruce Ragsdale Sells 10,587 Shares",
+    "url": "https://www.fool.com/coverage/filings/2026/09/03/ichor-holdings-coo-bruce-ragsdale-sells-10-587-shares/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Ragsdale maintains a 0.26% stake in the semiconductor equipment supplier following routine portfolio rebalancing under a pre-established Rule 10b5-1 trading plan.",
+    "published_at": "2026-09-03T20:53:01+08:00",
+    "stocks": [],
+    "uid": "4fe0bc66b23200b1b192be7a705e0d30"
+  },
+  {
+    "title": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+    "url": "https://www.cnbc.com/2026/09/03/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+    "source": "CNBC Top",
+    "summary": "Snowflake is the big earnings winner, and Broadcom CEO Hock Tan offered bullish long-term AI targets.",
+    "published_at": "2026-09-03T20:48:42+08:00",
+    "stocks": [],
+    "uid": "7450c417d832325729bfba0e953bbd5c"
+  },
+  {
+    "title": "Better AI Infrastructure Stock: Nvidia vs. AMD",
+    "url": "https://www.fool.com/investing/2026/09/03/better-ai-infrastructure-stock-nvidia-vs-amd/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Semiconductor stocks have soared as the AI build-out marches on.",
+    "published_at": "2026-09-03T20:46:00+08:00",
+    "stocks": [],
+    "uid": "12ac436256b1d366b83cd9007e9d24d9"
+  },
+  {
+    "title": "Core Scientific Executive Todd Duchene Sells 10,000 Shares",
+    "url": "https://www.fool.com/coverage/filings/2026/09/03/core-scientific-executive-todd-duchene-sells-10-000-shares/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Sale executed under pre-scheduled Rule 10b5-1 trading plan, leaving Duchene with 1.9 million shares valued at $31 million.",
+    "published_at": "2026-09-03T20:37:01+08:00",
+    "stocks": [],
+    "uid": "191995e8155dda3484c2248fe810798e"
+  },
+  {
+    "title": "Better Stock: Lucid vs. Rivian? (Hint: Unit Economics and Gross Profits Are Key.)",
+    "url": "https://www.fool.com/investing/2026/09/03/better-stock-lucid-vs-rivian-hint-unit-economics-a/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Rivian and Lucid share many things in common, but the former has drastically improved its gross profitability, while Lucid has been stuck in neutral.",
+    "published_at": "2026-09-03T20:30:00+08:00",
+    "stocks": [],
+    "uid": "363aea92218637c91485049fa3cd5e73"
+  },
+  {
+    "title": "G20 on AI policy, Snowflake earnings, Ford's production push and more in Morning Squawk",
+    "url": "https://www.cnbc.com/2026/09/03/5-things-to-know-before-the-stock-market-opens.html",
+    "source": "CNBC Tech",
+    "summary": "Here are five key things investors need to know to start the trading day.",
+    "published_at": "2026-09-03T20:28:37+08:00",
+    "stocks": [],
+    "uid": "ec13387affcece52a1f23f70cb224b94"
+  },
+  {
+    "title": "'Danger zone of extreme weather': UN warns of supersized El Niño set to hit global economy and markets",
+    "url": "https://www.cnbc.com/2026/09/03/supersized-el-nino-un-economy.html",
+    "source": "CNBC Top",
+    "summary": "Latest modeling shows high risks of floods, drought and extreme heat persisting until February 2027.",
+    "published_at": "2026-09-03T20:25:53+08:00",
+    "stocks": [],
+    "uid": "efddbc3f13af2bbb6464e07689e8b186"
+  },
+  {
+    "title": "VCSH vs SCHO: Corporate Bonds Face Off Against Treasuries",
+    "url": "https://www.fool.com/coverage/etfs/2026/09/03/vcsh-vs-scho-corporate-bonds-face-off-against-treasuries/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Both funds charge just 0.03% annually, but VCSH offers higher yield while SCHO delivers lower volatility and drawdown risk.",
+    "published_at": "2026-09-03T20:19:01+08:00",
+    "stocks": [],
+    "uid": "48b1509d42e2c56f6b17f226ded6f474"
+  },
+  {
+    "title": "Where Will Oracle Stock Be in 5 Years?",
+    "url": "https://www.fool.com/investing/2026/09/03/where-will-oracle-stock-be-in-5-years/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The tech company's next five years will hinge on the success of its AI cloud business.",
+    "published_at": "2026-09-03T20:17:00+08:00",
+    "stocks": [],
+    "uid": "b776da716b3aef88908c47192f818624"
+  },
+  {
+    "title": "Stanley Druckenmiller Invested Tens of Millions Into These Risky Stocks. Should You?",
+    "url": "https://www.fool.com/investing/2026/09/03/stanley-druckenmiller-invested-tens-of-millions-in/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Druckenmiller continues to bet on politically sensitive businesses based in Argentina.",
+    "published_at": "2026-09-03T20:15:00+08:00",
+    "stocks": [],
+    "uid": "ae18e81474f74a4ea84b8dfa0b49d596"
+  },
+  {
+    "title": "Berkshire Hathaway Just Poured Billions Into One Stock. Here’s Why.",
+    "url": "https://www.fool.com/investing/2026/09/03/berkshire-hathaway-just-poured-billions-into-one-stock-here-s-why/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Warren Buffett missed out on buying this tech giant early, but Berkshire is making up for lost time.",
+    "published_at": "2026-09-03T20:12:03+08:00",
+    "stocks": [],
+    "uid": "216f03964981d8211091885352578952"
+  },
+  {
+    "title": "2 Beaten-Down AI Stocks I Can’t Stop Buying",
+    "url": "https://www.fool.com/investing/2026/09/03/2-beaten-down-ai-stocks-i-can-t-stop-buying/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The market has given up on these two tech companies. I’m buying both.",
+    "published_at": "2026-09-03T20:12:01+08:00",
+    "stocks": [],
+    "uid": "e85be44a6255bb3196dc25f1343987c8"
+  },
+  {
+    "title": "How Meta will pull off massive changes to its social media apps",
+    "url": "https://www.cnbc.com/2026/09/03/meta-teen-app-changes.html",
+    "source": "CNBC Top",
+    "summary": "Meta settled its child safety case. Now comes the hard part of actually implementing changes to its social media platforms. Here's what to expect.",
+    "published_at": "2026-09-03T20:00:01+08:00",
+    "stocks": [],
+    "uid": "d92efe20ba5b8c6a7628bdb4a6a92569"
+  },
+  {
+    "title": "How much money Americans in their 30s and 40s have in their 401(k)s—see how you stack up",
+    "url": "https://www.cnbc.com/2026/09/03/how-much-money-americans-in-their-30s-and-40s-have-in-their-401ks.html",
+    "source": "CNBC Top",
+    "summary": "Here's how financial pros say you can tell if you're on track to retire, and how to catch up if you've fallen behind.",
+    "published_at": "2026-09-03T20:00:01+08:00",
+    "stocks": [],
+    "uid": "91e1a09f3790923ece9aed7d36eaf081"
+  },
+  {
+    "title": "Anthropic's distillation battle turns to the dark web as China concerns swell",
+    "url": "https://www.cnbc.com/2026/09/03/anthropic-distillation-battle-turns-to-dark-web-china-concerns-swell.html",
+    "source": "CNBC Top",
+    "summary": "Foreign adversaries have been illegally accessing American AI systems to train competing technology, and selling copycat versions at a lower price.",
+    "published_at": "2026-09-03T19:45:01+08:00",
+    "stocks": [],
+    "uid": "36854eda83feacc45cdce7ac4478aa05"
+  },
+  {
+    "title": "China hits back at G20 statement on its reliance on exports, accusing them of 'promoting protectionism'",
+    "url": "https://www.cnbc.com/2026/09/03/china-g20-exports-trade.html",
+    "source": "CNBC Finance",
+    "summary": "China rejected G20 pressure over export-driven growth while also challenging U.S. Iran sanctions and European trade measures.",
+    "published_at": "2026-09-03T19:12:54+08:00",
+    "stocks": [],
+    "uid": "727a688f485cbc1058262d1b1206b919"
+  },
+  {
     "title": "Yen jumps to one-month high as traders weigh chance of further intervention",
     "url": "https://www.cnbc.com/2026/09/03/yen-japan-intervention-boj.html",
     "source": "CNBC Top",
@@ -322,6 +1311,15 @@
     "published_at": "2026-09-03T16:30:00+08:00",
     "stocks": [],
     "uid": "adec63a97788d7b683dbd84f1565257e"
+  },
+  {
+    "title": "Stock market today: Dow, S&P 500, Nasdaq rise, yields fall as investors weigh Middle East tensions",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-3-dow-sp-500-nasdaq-futures-081525933.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2026-09-03T16:15:25+08:00",
+    "stocks": [],
+    "uid": "73e7a65b203b16a2aa43ef266a8ff145"
   },
   {
     "title": "If I Only Had $1,000 to Invest Right Now, This Is the ETF I'd Buy Without Any Hesitation",
@@ -372618,6 +373616,15 @@
     "published_at": "2024-04-06T01:22:28+08:00",
     "stocks": [],
     "uid": "faaf307398a0be596a362a2b08692072"
+  },
+  {
+    "title": "Why are home prices so high? How today's market impacts housing costs.",
+    "url": "https://finance.yahoo.com/personal-finance/mortgages/article/why-are-home-prices-so-high-factors-contributing-to-current-housing-costs-184935469.html",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published_at": "2024-04-03T02:49:35+08:00",
+    "stocks": [],
+    "uid": "96019c280735ce33623d83b8e17aeb9f"
   },
   {
     "title": "What is a good savings account interest rate in 2026?",
