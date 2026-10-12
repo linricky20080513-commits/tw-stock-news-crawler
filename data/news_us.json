@@ -1,5 +1,883 @@
 [
   {
+    "title": "Rep. Ilhan Omar blasts federal criminal raid on home: 'I will not be silenced'",
+    "url": "https://www.cnbc.com/2026/10/12/ilhan-omar-home-raided-dhs-immigration-investigation.html",
+    "source": "CNBC Top",
+    "summary": "The Minnesota Democrat, a Muslim who was born in Somalia, has been targeted for criticism in the past by President Donald Trump.",
+    "published_at": "2026-10-13T02:20:10+08:00",
+    "stocks": [],
+    "uid": "180fe649cf2415d46684d7a84158d96a",
+    "title_en": "Rep. Ilhan Omar blasts federal criminal raid on home: 'I will not be silenced'",
+    "summary_en": "The Minnesota Democrat, a Muslim who was born in Somalia, has been targeted for criticism in the past by President Donald Trump.",
+    "title_zh": "眾議員伊爾汗·奧馬爾譴責聯邦刑事搜查行動：“我不會保持沉默”",
+    "summary_zh": "這位明尼蘇達州民主黨人是出生在索馬利亞的穆斯林，過去曾受到唐納德·川普總統的批評。"
+  },
+  {
+    "title": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging",
+    "url": "https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html",
+    "source": "CNBC Finance",
+    "summary": "The S&amp;P 500 has climbed almost 120% since its closing low on Oct. 12, 2022.",
+    "published_at": "2026-10-13T02:18:39+08:00",
+    "stocks": [],
+    "uid": "d1ff2a6e442f1dab59f322f1ee7a75eb"
+  },
+  {
+    "title": "IonQ to acquire cybersecurity firm Elisity in an all-stock deal for up to $1.3 billion",
+    "url": "https://www.cnbc.com/2026/10/12/ionq-elisity-acquisition-cybersecurity.html",
+    "source": "CNBC Tech",
+    "summary": "Quantum computing platform is buying cybersecurity firm Elisity in an all-stock deal for up to $1.3 billion.",
+    "published_at": "2026-10-13T02:14:45+08:00",
+    "stocks": [],
+    "uid": "d877d47f5e0ab6a969ce456cf5dcebbc",
+    "title_en": "IonQ to acquire cybersecurity firm Elisity in an all-stock deal for up to $1.3 billion",
+    "summary_en": "Quantum computing platform is buying cybersecurity firm Elisity in an all-stock deal for up to $1.3 billion.",
+    "title_zh": "IonQ 將以高達 13 億美元的全股票交易收購網路安全公司 Elisity",
+    "summary_zh": "量子運算平台將以高達 13 億美元的全股票交易收購網路安全公司 Elisity。"
+  },
+  {
+    "title": "Canada, Western allies condemn Iran over alleged attacks across Europe",
+    "url": "https://www.investing.com/news/economy-news/canada-western-allies-condemn-iran-over-alleged-attacks-across-europe-4945033",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-13T02:04:31+08:00",
+    "stocks": [],
+    "uid": "0fe01b9390ee237ca1a7bab1d3418993",
+    "title_en": "Canada, Western allies condemn Iran over alleged attacks across Europe",
+    "summary_en": "",
+    "title_zh": "加拿大和西方盟國譴責伊朗涉嫌在歐洲發動攻擊",
+    "summary_zh": ""
+  },
+  {
+    "title": "Existing home sales among economic data due Tuesday",
+    "url": "https://www.investing.com/news/stock-market-news/existing-home-sales-among-economic-data-due-tuesday-93CH-4945031",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-13T02:01:32+08:00",
+    "stocks": [],
+    "uid": "58b045fea9f0d420d8bb83c2e5e35193",
+    "title_en": "Existing home sales among economic data due Tuesday",
+    "summary_en": "",
+    "title_zh": "週二公佈的經濟數據包括現房銷售",
+    "summary_zh": ""
+  },
+  {
+    "title": "Fed’s Hammack backs restrictive policy, says better if it comes ’relatively quickly’",
+    "url": "https://www.investing.com/news/economy-news/feds-hammack-backs-restrictive-policy-says-better-if-it-comes-relatively-quickly-4944977",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-13T02:00:31+08:00",
+    "stocks": [],
+    "uid": "9d61629b709e5cc9a1672fe123d6d803",
+    "title_en": "Fed’s Hammack backs restrictive policy, says better if it comes ’relatively quickly’",
+    "summary_en": "",
+    "title_zh": "聯準會哈馬克支持限制性政策，表示如果「相對較快」實施效果會更好",
+    "summary_zh": ""
+  },
+  {
+    "title": "4 No-Brainer Chip Stocks to Own for the Next Decade",
+    "url": "https://www.fool.com/investing/2026/10/12/4-no-brainer-chip-stocks-to-own-for-10-years/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The current pace of AI development would not be possible without these semiconductor companies.",
+    "published_at": "2026-10-13T01:51:00+08:00",
+    "stocks": [],
+    "uid": "81063743e207e579f64a95b1cdd2f81e",
+    "title_en": "4 No-Brainer Chip Stocks to Own for the Next Decade",
+    "summary_en": "The current pace of AI development would not be possible without these semiconductor companies.",
+    "title_zh": "未來十年值得擁有的 4 檔晶片股",
+    "summary_zh": "如果沒有這些半導體公司，人工智慧目前的發展速度是不可能的。"
+  },
+  {
+    "title": "Fed’s Hammack says Treasury yields modest by historic standards",
+    "url": "https://www.investing.com/news/economy-news/feds-hammack-says-treasury-yields-modest-by-historic-standards-4945027",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-13T01:50:06+08:00",
+    "stocks": [],
+    "uid": "b4103c1937f3d1af7fdd6859e7ebbb0b",
+    "title_en": "Fed’s Hammack says Treasury yields modest by historic standards",
+    "summary_en": "",
+    "title_zh": "聯準會哈馬克表示，以歷史標準衡量，美國公債殖利率適中",
+    "summary_zh": ""
+  },
+  {
+    "title": "China gloom hits LVMH, dims hopes of luxury revival",
+    "url": "https://www.investing.com/news/stock-market-news/lvmh-thirdquarter-sales-below-expectations-as-fashion-and-leather-division-shrinks-4944915",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-13T01:48:22+08:00",
+    "stocks": [],
+    "uid": "653d721fd2e401f091728cc66c89aca6",
+    "title_en": "China gloom hits LVMH, dims hopes of luxury revival",
+    "summary_en": "",
+    "title_zh": "中國經濟低迷打擊路威酩軒集團，奢侈品復興希望渺茫",
+    "summary_zh": ""
+  },
+  {
+    "title": "Tsakos Energy Navigation stock hits 52-week high at 54.06 USD",
+    "url": "https://www.investing.com/news/company-news/tsakos-energy-navigation-stock-hits-52week-high-at-5406-usd-93CH-4945025",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-13T01:48:22+08:00",
+    "stocks": [],
+    "uid": "15f2062e1c907343429b95493c3293de",
+    "title_en": "Tsakos Energy Navigation stock hits 52-week high at 54.06 USD",
+    "summary_en": "",
+    "title_zh": "Tsakos Energy Navigation 股價觸及 52 週高點 54.06 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Silver Falls to $60. Is Now the Time to Load Up on the Precious Metal?",
+    "url": "https://www.fool.com/investing/2026/10/12/silver-falls-to-60-is-now-the-time-to-load-up-on-the-precious-metal/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The iShares Silver Trust has made for a terrific long-term investment, generating returns of 160% in five years, but it's been struggling of late.",
+    "published_at": "2026-10-13T01:46:02+08:00",
+    "stocks": [],
+    "uid": "481bbb53c548f1e0a0ac5050b2b1914b",
+    "title_en": "Silver Falls to $60. Is Now the Time to Load Up on the Precious Metal?",
+    "summary_en": "The iShares Silver Trust has made for a terrific long-term investment, generating returns of 160% in five years, but it's been struggling of late.",
+    "title_zh": "白銀跌至 60 美元。現在是買入貴金屬的時候嗎？",
+    "summary_zh": ""
+  },
+  {
+    "title": "Not Sandisk, Not Intel. This Stock Will Lead the S&P 500 Next Year",
+    "url": "https://www.fool.com/investing/2026/10/12/not-sandisk-not-intel-this-stock-will-lead-the-sp/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Nvidia has the potential to lead the S&amp;P 500 in performance next year.",
+    "published_at": "2026-10-13T01:45:00+08:00",
+    "stocks": [],
+    "uid": "e60adc8fa5d89908def0ec18ba52f7d6",
+    "title_en": "Not Sandisk, Not Intel. This Stock Will Lead the S&P 500 Next Year",
+    "summary_en": "Nvidia has the potential to lead the S&amp;P 500 in performance next year.",
+    "title_zh": "不是閃迪，不是英特爾。該股明年將引領標準普爾 500 指數",
+    "summary_zh": ""
+  },
+  {
+    "title": "Exclusive-Most Americans oppose betting on elections, government events, Reuters/Ipsos poll finds",
+    "url": "https://www.investing.com/news/stock-market-news/exclusivemost-americans-oppose-betting-on-elections-government-events-reutersipsos-poll-finds-4943731",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-13T01:36:23+08:00",
+    "stocks": [],
+    "uid": "99a7ffb9cc31b170aaa33861a57c94b7",
+    "title_en": "Exclusive-Most Americans oppose betting on elections, government events, Reuters/Ipsos poll finds",
+    "summary_en": "",
+    "title_zh": "獨家－路透社/益普索民調發現，大多數美國人反對押注選舉、政府事件",
+    "summary_zh": ""
+  },
+  {
+    "title": "America’s Favorite Fruit Is Being Bruised by the Iran War",
+    "url": "https://www.nytimes.com/2026/10/12/business/economy/bananas-iran-war.html",
+    "source": "NYT Business",
+    "summary": "The journey of one banana from farm to store shows how the war’s economic effects have cascaded into some surprising industries.",
+    "published_at": "2026-10-13T01:36:03+08:00",
+    "stocks": [],
+    "uid": "7bbb01fb97427d1fa56b14643e9f497b",
+    "title_en": "America’s Favorite Fruit Is Being Bruised by the Iran War",
+    "summary_en": "The journey of one banana from farm to store shows how the war’s economic effects have cascaded into some surprising industries.",
+    "title_zh": "美國最愛的水果因伊朗戰爭而受損",
+    "summary_zh": "一根香蕉從農場到商店的旅程展示了戰爭的經濟影響如何波及到一些令人驚訝的行業。"
+  },
+  {
+    "title": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay",
+    "url": "https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html",
+    "source": "CNBC Top",
+    "summary": "Meta introduced Muse Wonder, its latest AI model, but users have to pay for subscriptions to the Muse app to access it.",
+    "published_at": "2026-10-13T01:34:35+08:00",
+    "stocks": [],
+    "uid": "1942e96079b3aa3390b17a5aa8fdff95",
+    "title_en": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay",
+    "summary_en": "Meta introduced Muse Wonder, its latest AI model, but users have to pay for subscriptions to the Muse app to access it.",
+    "title_zh": "Meta推出Muse Wonder AI模型最新測試使用者支付意願",
+    "summary_zh": "Meta推出了其最新的人工智慧模型Muse Wonder，但用戶必須付費訂閱Muse應用程式才能存取它。"
+  },
+  {
+    "title": "Getty Images plans bankruptcy filing, to go private",
+    "url": "https://www.investing.com/news/stock-market-news/getty-images-to-go-private-after-restructuring-deal-4944904",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-13T01:30:52+08:00",
+    "stocks": [],
+    "uid": "b23c871a55485c02cb3e577836f83280",
+    "title_en": "Getty Images plans bankruptcy filing, to go private",
+    "summary_en": "",
+    "title_zh": "蓋蒂圖片社計劃申請破產並私有化",
+    "summary_zh": ""
+  },
+  {
+    "title": "Micron Just Said Something That Could Change How Investors See the Stock",
+    "url": "https://www.fool.com/investing/2026/10/12/micron-just-said-something-that-could-change-how-i/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Micron's latest earnings contained a message that could matter more than its record numbers.",
+    "published_at": "2026-10-13T01:30:00+08:00",
+    "stocks": [],
+    "uid": "e12f0c364935ae75857bbde14d4ce727",
+    "title_en": "Micron Just Said Something That Could Change How Investors See the Stock",
+    "summary_en": "Micron's latest earnings contained a message that could matter more than its record numbers.",
+    "title_zh": "美光科技剛剛說了一些可能改變投資人對股票看法的言論",
+    "summary_zh": "美光科技最新的財報中包含的資訊可能比其創紀錄的數字更重要。"
+  },
+  {
+    "title": "Prediction: Sandisk Stock Will Be Worth This Much at the End of 2026",
+    "url": "https://www.fool.com/investing/2026/10/12/prediction-sandisk-stock-will-be-worth-this-much-a/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Sandisk stock has gone parabolic this year, but its rally may not be over.",
+    "published_at": "2026-10-13T01:30:00+08:00",
+    "stocks": [],
+    "uid": "2b774a3840b69c0b5a870c15bca8cc5b",
+    "title_en": "Prediction: Sandisk Stock Will Be Worth This Much at the End of 2026",
+    "summary_en": "Sandisk stock has gone parabolic this year, but its rally may not be over.",
+    "title_zh": "預測：Sandisk 股票到 2026 年底將值這麼多錢",
+    "summary_zh": "Sandisk 股價今年呈現拋物線走勢，但其漲勢可能尚未結束。"
+  },
+  {
+    "title": "Albertsons demands Kroger pay over $9 billion amid failed merger",
+    "url": "https://www.investing.com/news/stock-market-news/albertsons-demands-kroger-pay-over-9-billion-amid-failed-merger-4945013",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-13T01:29:08+08:00",
+    "stocks": [],
+    "uid": "1bb1d7de1ca0f6aa33af740fe4c22a35",
+    "title_en": "Albertsons demands Kroger pay over $9 billion amid failed merger",
+    "summary_en": "",
+    "title_zh": "艾伯森要求克羅格因合併失敗支付超過 90 億美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why older Americans' wealth may be helping keep consumer spending strong",
+    "url": "https://www.cnbc.com/2026/10/12/baby-boomers-may-be-driving-resilient-consumer-spending.html",
+    "source": "CNBC Top",
+    "summary": "Boomers report more financial confidence as Federal Reserve and JPMorgan data show older households hold more wealth and draw more from investments.",
+    "published_at": "2026-10-13T01:23:35+08:00",
+    "stocks": [],
+    "uid": "3dede349aaf845b926c8aaf822e8408b"
+  },
+  {
+    "title": "Robert E. Hall and Michael Woodford Awarded Nobel for Economics",
+    "url": "https://www.nytimes.com/2026/10/12/business/nobel-prize-economics.html",
+    "source": "NYT Business",
+    "summary": "Robert E. Hall and Michael Woodford were awarded the prize for insights that helped policymakers become “better equipped to deal with shocks in the economy,” the committee said.",
+    "published_at": "2026-10-13T01:19:45+08:00",
+    "stocks": [],
+    "uid": "629b3c0b060d6f9a37895b3af1307337",
+    "title_en": "Robert E. Hall and Michael Woodford Awarded Nobel for Economics",
+    "summary_en": "Robert E. Hall and Michael Woodford were awarded the prize for insights that helped policymakers become “better equipped to deal with shocks in the economy,” the committee said.",
+    "title_zh": "羅伯特·E·霍爾和邁克爾·伍德福德榮獲諾貝爾經濟學獎",
+    "summary_zh": "該委員會表示，羅伯特·E·霍爾和邁克爾·伍德福德因幫助政策制定者「更好地應對經濟衝擊」的見解而獲獎。"
+  },
+  {
+    "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
+    "url": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
+    "source": "CNBC Finance",
+    "summary": "The Cleveland Fed president said that tighter monetary policy would be needed to bring down inflation.",
+    "published_at": "2026-10-13T01:15:21+08:00",
+    "stocks": [],
+    "uid": "a1faa390dd46a8184e44fa44d1104983",
+    "title_en": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
+    "summary_en": "The Cleveland Fed president said that tighter monetary policy would be needed to bring down inflation.",
+    "title_zh": "聯準會哈馬克表示，可能需要提高利率才能避免「通膨心態」紮根",
+    "summary_zh": "克利夫蘭聯邦儲備銀行主席表示，需要收緊貨幣政策來降低通膨。"
+  },
+  {
+    "title": "‘The prospectus looks impressive’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+    "url": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "“I’m in my 60s, recently retired and living my best life.”",
+    "published_at": "2026-10-13T01:15:00+08:00",
+    "stocks": [],
+    "uid": "5ad069b87cd972fb913a6dfcedb8ca38",
+    "title_en": "‘The prospectus looks impressive’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+    "summary_en": "“I’m in my 60s, recently retired and living my best life.”",
+    "title_zh": "「招股說明書看起來令人印象深刻」：我的財務顧問希望我投資 35 萬美元建造阿聯酋資料中心。這有風險嗎？",
+    "summary_zh": ""
+  },
+  {
+    "title": "McDonald's Is Between a Rock and a Hard Place. Here's Why the Sinking Fast Food Stock Could Still Go Lower",
+    "url": "https://www.fool.com/investing/2026/10/12/mcdonald-s-is-between-a-rock-and-a-hard-place-here-s-why-the-sinking-fast-food-stock-could-still-go-lower/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The company has been offering more promos and launching value meal options, and demand still hasn't been strong.",
+    "published_at": "2026-10-13T01:05:01+08:00",
+    "stocks": [],
+    "uid": "132977c6783eb900c329681899ff0dd6",
+    "title_en": "McDonald's Is Between a Rock and a Hard Place. Here's Why the Sinking Fast Food Stock Could Still Go Lower",
+    "summary_en": "The company has been offering more promos and launching value meal options, and demand still hasn't been strong.",
+    "title_zh": "麥當勞進退兩難。這就是為什麼正在下跌的快餐股仍可能走低的原因",
+    "summary_zh": "該公司一直在提供更多促銷活動並推出超值餐點選擇，但需求仍然不強勁。"
+  },
+  {
+    "title": "Taiwan Semiconductor Stock Hits a New All-Time: Is it Too Late to Invest?",
+    "url": "https://www.fool.com/investing/2026/10/12/taiwan-semiconductor-stock-hits-a-new-all-time-is-it-too-late-to-invest/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The company has been growing fast, but at $2.3 trillion in market cap, its valuation has swelled significantly.",
+    "published_at": "2026-10-13T01:00:02+08:00",
+    "stocks": [],
+    "uid": "78cb1bc6abf53edbf8e40f7323a47855",
+    "title_en": "Taiwan Semiconductor Stock Hits a New All-Time: Is it Too Late to Invest?",
+    "summary_en": "The company has been growing fast, but at $2.3 trillion in market cap, its valuation has swelled significantly.",
+    "title_zh": "台積電股價創歷史新高：現在投資還來得及嗎？",
+    "summary_zh": "該公司一直在快速成長，但其市值已達 2.3 兆美元，估值大幅上漲。"
+  },
+  {
+    "title": "2 Top Growth Stocks to Buy Hand Over Fist Right Now",
+    "url": "https://www.fool.com/investing/2026/10/12/2-top-growth-stocks-to-buy-hand-over-fist-right-no/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "These businesses probably won't stay small forever.",
+    "published_at": "2026-10-13T01:00:00+08:00",
+    "stocks": [],
+    "uid": "75788caf61eedb2ee083db5e19530ca8",
+    "title_en": "2 Top Growth Stocks to Buy Hand Over Fist Right Now",
+    "summary_en": "These businesses probably won't stay small forever.",
+    "title_zh": "兩檔值得立即買進的頂級成長股",
+    "summary_zh": "這些企業可能不會永遠保持小規模。"
+  },
+  {
+    "title": "FAA warns U.S. airlines of safety risks over Saudi Arabia after attacks",
+    "url": "https://www.cnbc.com/2026/10/12/faa-saudi-arabia-flight-risks.html",
+    "source": "CNBC Top",
+    "summary": "The FAA warned U.S. airlines about flight risks over Saudi Arabia as Riyadh airport attacks disrupt travel and Delta weighs an Oct. 23 launch.",
+    "published_at": "2026-10-13T00:50:44+08:00",
+    "stocks": [],
+    "uid": "652f85083c01407483cc1e70ed2d88a8",
+    "title_en": "FAA warns U.S. airlines of safety risks over Saudi Arabia after attacks",
+    "summary_en": "The FAA warned U.S. airlines about flight risks over Saudi Arabia as Riyadh airport attacks disrupt travel and Delta weighs an Oct. 23 launch.",
+    "title_zh": "襲擊發生後，美國聯邦航空局警告美國航空公司注意沙烏地阿拉伯上空的安全風險",
+    "summary_zh": "由於利雅德機場襲擊擾亂了旅行，達美航空考慮在 10 月 23 日啟動航班，美國聯邦航空局 (FAA) 警告美國航空公司注意沙烏地阿拉伯上空的航班風險。"
+  },
+  {
+    "title": "These stocks could be the future winners — and losers — of a massive shift in IT spending",
+    "url": "https://www.marketwatch.com/story/these-stocks-could-be-the-future-winners-and-losers-of-a-massive-shift-in-it-spending-bfc88c05?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "As more money flows toward AI software offerings, Salesforce could deepen its customer relationships while Adobe looks vulnerable, analysts say.",
+    "published_at": "2026-10-13T00:47:00+08:00",
+    "stocks": [],
+    "uid": "2b00efb33de44299374a25add7478934"
+  },
+  {
+    "title": "Taiwan Semiconductor Manufacturing Just Dropped a Major Bombshell Investors Must Be Aware Of",
+    "url": "https://www.fool.com/investing/2026/10/12/taiwan-semiconductor-just-dropped-a-major-bombshel/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Taiwan Semiconductor's monthly revenue report indicates it will have a strong quarter.",
+    "published_at": "2026-10-13T00:47:00+08:00",
+    "stocks": [],
+    "uid": "7d9ccd7fe4a684761f9c9a5873f2c9cc"
+  },
+  {
+    "title": "Jamie Dimon Sharpened His Warning About a Looming Corporate Credit Squeeze, Saying Global Competition for Capital Means \"The Market Will Ask for More.\" Here's Why That Warning Matters for Borrowers and Bond Investors.",
+    "url": "https://www.fool.com/investing/2026/10/12/jamie-dimon-sharpened-his-warning-about-a-looming/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Investors demanding \"more\" from bond yields could be bad news for everyone.",
+    "published_at": "2026-10-13T00:45:00+08:00",
+    "stocks": [],
+    "uid": "0124e80aa80d176625529d6300e793b1"
+  },
+  {
+    "title": "Ethereum's Vitalik Buterin Just Outlined a Bold New Strategy for 2030. Here's What It Could Mean for the Price of Ethereum (ETH).",
+    "url": "https://www.fool.com/investing/2026/10/12/ethereums-vitalik-buterin-outlined-a-new-vision/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Ethereum's co-founder just articulated a big new vision that could be great for the coin.",
+    "published_at": "2026-10-13T00:43:00+08:00",
+    "stocks": [
+      "ETH"
+    ],
+    "uid": "91199825581680b48c8fec0e518dfd17"
+  },
+  {
+    "title": "UnitedHealth shares are doing something unusual ahead of earnings",
+    "url": "https://www.cnbc.com/2026/10/12/unitedhealth-shares-are-doing-something-unusual-ahead-of-earnings.html",
+    "source": "CNBC Top",
+    "summary": "The only thing more expensive than health insurance is perhaps the costs of insuring shares of health insurers",
+    "published_at": "2026-10-13T00:42:13+08:00",
+    "stocks": [],
+    "uid": "ff704fdbd5b49bcdb7b659730febd941"
+  },
+  {
+    "title": "David Gardner Keeps the 100-Bagger Dream Alive",
+    "url": "https://www.fool.com/investing/2026/10/12/david-gardner-keeps-the-100-bagger-dream-alive/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "David’s bet is that $50 trillion companies will sound as quaint in 2056 as a $438 million bookstore sounds today.",
+    "published_at": "2026-10-13T00:39:02+08:00",
+    "stocks": [],
+    "uid": "01bcd8522ceb36f7ca07bd39724550c8"
+  },
+  {
+    "title": "Cramer: Starbucks tells me Chipotle takeover won't happen and that's good for the stock",
+    "url": "https://www.cnbc.com/investingclub/2026/10/12/cramer-starbucks-tells-me-chipotle-takeover-wont-happen-and-thats-good-for-the-stock.html",
+    "source": "CNBC Top",
+    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+    "published_at": "2026-10-13T00:37:59+08:00",
+    "stocks": [],
+    "uid": "61385398fc692c7fb2bfac371ef0daae"
+  },
+  {
+    "title": "Buy these stocks as plays on Google’s big spending, analyst says",
+    "url": "https://www.marketwatch.com/story/buy-these-stocks-as-plays-on-googles-big-spending-analyst-says-a159c170?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Google Cloud is growing fast, but several chip makers and networking providers could be better ways to capitalize on that trend, according to Melius Research.",
+    "published_at": "2026-10-13T00:31:00+08:00",
+    "stocks": [],
+    "uid": "e9dbbcce00301dd8cbb506307fa20c2c"
+  },
+  {
+    "title": "‘The house is worth $925,000’: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?",
+    "url": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
+    "published_at": "2026-10-13T00:30:00+08:00",
+    "stocks": [],
+    "uid": "d179453a99d38fae3e94fb32e3849c79"
+  },
+  {
+    "title": "The 3 Most Important Metrics to Watch for Nu Holdings. And No, It's Not Customer Numbers.",
+    "url": "https://www.fool.com/investing/2026/10/12/3-most-important-metrics-to-watch-for-nu-holding/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Investors don't need to track dozens of metrics to understand the business. These three numbers could tell you the most about where Nu Holdings is heading.",
+    "published_at": "2026-10-13T00:30:00+08:00",
+    "stocks": [],
+    "uid": "f5aa9389103064b837ed7d9fa3b11784"
+  },
+  {
+    "title": "Why FuelCell EnergyStock Dropped on Monday",
+    "url": "https://www.fool.com/investing/2026/10/12/why-fuelcell-energystock-dropped-on-monday/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "FuelCell hires a new exec to manage its 500 MW expansion.",
+    "published_at": "2026-10-13T00:26:32+08:00",
+    "stocks": [],
+    "uid": "d99db887b11049ccad68a12c4c19e5fe"
+  },
+  {
+    "title": "Europeans Have a Love-Hate Relationship With Chinese Cars",
+    "url": "https://www.nytimes.com/2026/10/12/business/europe-china-evs-hybrids.html",
+    "source": "NYT Business",
+    "summary": "Consumers across the continent increasingly want to buy low-cost Chinese vehicles. Policymakers are seeking to slow them down.",
+    "published_at": "2026-10-13T00:26:06+08:00",
+    "stocks": [],
+    "uid": "158e3f25949965d358497a2697d3cd21"
+  },
+  {
+    "title": "Why Lucid Group Stock Is Moving in Reverse Today",
+    "url": "https://www.fool.com/investing/2026/10/12/why-lucid-group-stock-is-moving-in-reverse-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The market's enthusiasm for this EV stock is powering down.",
+    "published_at": "2026-10-13T00:24:00+08:00",
+    "stocks": [],
+    "uid": "74ba4ceffe29b71d37ac2c0dba82ee01"
+  },
+  {
+    "title": "How American Retirees at Different Incomes Rely on Social Security",
+    "url": "https://www.nytimes.com/2026/10/12/business/social-security-income-retirement-benefits.html",
+    "source": "NYT Business",
+    "summary": "Social Security funds are on track to run short by 2032, which would mean a reduction in benefits. Here’s how four hypothetical households rely on the program in retirement.",
+    "published_at": "2026-10-13T00:17:33+08:00",
+    "stocks": [],
+    "uid": "80f1baabd753083961c468c3885a9a23"
+  },
+  {
+    "title": "Ray Dalio Says This Is When the Artificial Intelligence (AI) Bubble Could Pop",
+    "url": "https://www.fool.com/investing/2026/10/12/ray-dalio-says-this-is-when-the-artificial-intelligence-ai-bubble-could-pop/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Even artificial intelligence (AI) stocks that don't look terribly expensive could still be at risk for significant declines.",
+    "published_at": "2026-10-13T00:15:02+08:00",
+    "stocks": [],
+    "uid": "d6b74459cc630fd2c78d008e9fa8614b"
+  },
+  {
+    "title": "Nu Holdings Crossed a $1 Billion Quarterly Profit Milestone. Here's Why It Matters.",
+    "url": "https://www.fool.com/investing/2026/10/12/nu-holdings-crossed-a-1-billion-quarterly-profit/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Nu Holdings just reached a milestone that changes how investors should think about the company.",
+    "published_at": "2026-10-13T00:15:00+08:00",
+    "stocks": [],
+    "uid": "7b6f69805e183ed1ea12bf1e6ae10101"
+  },
+  {
+    "title": "Is Ethereum a Good Investment? I Think So, but Only for 5% of Your Portfolio.",
+    "url": "https://www.fool.com/investing/2026/10/12/is-ethereum-a-good-investment-i-think-so-but-only/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Ethereum is a coin I want to own, but it doesn't make sense to go overboard with how much I own.",
+    "published_at": "2026-10-13T00:04:00+08:00",
+    "stocks": [],
+    "uid": "636a1069bd630699c8969dde9090db2e"
+  },
+  {
+    "title": "Trump defends Russia diesel deal after bipartisan pushback: 'I made the right choice'",
+    "url": "https://www.cnbc.com/2026/10/12/trump-russia-diesel-putin.html",
+    "source": "CNBC Top",
+    "summary": "Ukraine President Volodymyr Zelenskyy said that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
+    "published_at": "2026-10-12T23:55:38+08:00",
+    "stocks": [],
+    "uid": "026ca430bfc0de7a757e77d768ddb778"
+  },
+  {
+    "title": "Delta delays debut of Saudi Arabia service until March after Riyadh airport attacks",
+    "url": "https://www.cnbc.com/2026/10/12/delta-riyadh-nonstop-service-delay.html",
+    "source": "CNBC Top",
+    "summary": "Delta planned to begin the route on Oct. 23, in what would have marked the first nonstop commercial flight between the U.S. and Saudi Arabia.",
+    "published_at": "2026-10-12T23:48:28+08:00",
+    "stocks": [],
+    "uid": "2b58f723548602422f513ff11c871099"
+  },
+  {
+    "title": "Here’s how much extra money could be in your monthly Social Security check next year",
+    "url": "https://www.marketwatch.com/story/heres-how-much-extra-money-could-be-in-your-monthly-social-security-check-next-year-2e0c4eb8?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Social Security’s cost-of-living adjustment will boost retirees’ monthly budgets. But will it be enough?",
+    "published_at": "2026-10-12T23:47:00+08:00",
+    "stocks": [],
+    "uid": "6df5347af257ae54ce1e59b454a1b015"
+  },
+  {
+    "title": "5 Reasons Disney Stock Can Double in 5 Years",
+    "url": "https://www.fool.com/investing/2026/10/12/5-reasons-disney-stock-can-double-in-5-years/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "From laggard to leader? The House of Mouse is ready to bounce back after a few years of uninspiring stock activity.",
+    "published_at": "2026-10-12T23:47:00+08:00",
+    "stocks": [],
+    "uid": "0c267db90b80caa0b96da991abb9356e"
+  },
+  {
+    "title": "SCHD Is Down 6% From Its Peak. Here's Why History Says It's Still a Buy.",
+    "url": "https://www.fool.com/investing/2026/10/12/schd-is-down-6-from-its-peak-heres-why-history-say/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Even if the S&amp;P 500 goes into a sell-off, dividend stocks could have more room to grow.",
+    "published_at": "2026-10-12T23:45:00+08:00",
+    "stocks": [],
+    "uid": "58c98067b38d9cc07bed5238c2b356d2"
+  },
+  {
+    "title": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
+    "url": "https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html",
+    "source": "CNBC Finance",
+    "summary": "Traders think there's little chance core inflation, which excludes food and energy prices, will fall to 2.2% this year.",
+    "published_at": "2026-10-12T23:37:26+08:00",
+    "stocks": [],
+    "uid": "58d78bbff17ebb775bc18d746810c243"
+  },
+  {
+    "title": "Why IonQ Stock Fell 10% Today",
+    "url": "https://www.fool.com/investing/2026/10/12/why-ionq-stock-fell-10-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "IonQ’s latest shopping trip came with a hefty receipt and very few numbers. The market isn’t impressed today.",
+    "published_at": "2026-10-12T23:37:02+08:00",
+    "stocks": [],
+    "uid": "f800b8d4788d5d108612524cbc1720ea"
+  },
+  {
+    "title": "Why Micron Stock Dropped on Monday",
+    "url": "https://www.fool.com/investing/2026/10/12/why-micron-stock-dropped-on-monday/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "CXMT plans a new DRAM product targeting the AI market before end of 2026.",
+    "published_at": "2026-10-12T23:32:05+08:00",
+    "stocks": [],
+    "uid": "3b922a2b838a94e31c6cb3f057ce1676"
+  },
+  {
+    "title": "Where Will Axsome Therapeutics Be in 2030 as Auvelity Expands Into Alzheimer's?",
+    "url": "https://www.fool.com/investing/2026/10/12/where-will-axsome-therapeutics-be-2030-as-auvelity/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Auvelity's Alzheimer's expansion could transform Axsome by 2030.",
+    "published_at": "2026-10-12T23:30:00+08:00",
+    "stocks": [],
+    "uid": "d83ce1406341556d9bbcc80922d857f1"
+  },
+  {
+    "title": "MyExpatTaxes Launches Foreign Account and Asset Reporting Guide Ahead of October 15 Deadline for Americans Abroad",
+    "url": "https://markets.businessinsider.com/news/stocks/myexpattaxes-launches-foreign-account-and-asset-reporting-guide-ahead-of-october-15-deadline-for-americans-abroad-1036617011",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;Vienna, VIENNA, Oct.  12, 2026  (GLOBE NEWSWIRE) -- MyExpatTaxes, the trusted US tax software and service platform for Americans living abroad, has launched a new&#160;&lt;a href=&quot;https://www.myexpattaxes.com/us-expat-foreign-account-asset-reporting-guide/&quot;...",
+    "published_at": "2026-10-12T23:16:00+08:00",
+    "stocks": [],
+    "uid": "b319d1eaac1ecc08d25bd875414da91d"
+  },
+  {
+    "title": "Lake Hartwell Country Highlights Best Places to See Fall Foliage in Upstate South Carolina",
+    "url": "https://markets.businessinsider.com/news/stocks/lake-hartwell-country-highlights-best-places-to-see-fall-foliage-in-upstate-south-carolina-1036617012",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;Pendleton, SC, Oct.  12, 2026  (GLOBE NEWSWIRE) -- The organization said fall foliage timing and location are among the most common travel questions it receives each October, as visitors from Atlanta, Charlotte, Greenville, and beyond try to time a...",
+    "published_at": "2026-10-12T23:16:00+08:00",
+    "stocks": [],
+    "uid": "2ae63fdefe693da59482fb3abe81a945"
+  },
+  {
+    "title": "4 Healthcare Stocks Worth Owning for the Next Decade",
+    "url": "https://www.fool.com/investing/2026/10/12/4-healthcare-stocks-worth-owning-for-the-next-deca/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Two healthcare stocks that are leading their niches, and two that investors aren't giving enough credit to in the same niches.",
+    "published_at": "2026-10-12T23:15:00+08:00",
+    "stocks": [],
+    "uid": "f8b379dfbac26f6b7254ceec08fd58ad"
+  },
+  {
+    "title": "Briggs & Stratton® $30,000 Timesaver Giveaway at Equip Expo",
+    "url": "https://markets.businessinsider.com/news/stocks/briggs-stratton-30-000-timesaver-giveaway-at-equip-expo-1036617003",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;Milwaukee, WI, Oct.  12, 2026  (GLOBE NEWSWIRE) -- Briggs  Stratton is bringing big excitement to the industry’s largest landscaping trade show, &lt;a...",
+    "published_at": "2026-10-12T23:14:09+08:00",
+    "stocks": [],
+    "uid": "063cef3e6b348c7040dbc667c2c33a7a"
+  },
+  {
+    "title": "EQS-CMS: Symrise AG: Release of a capital market information",
+    "url": "https://markets.businessinsider.com/news/stocks/eqs-cms-symrise-ag-release-of-a-capital-market-information-1036617005",
+    "source": "Business Insider",
+    "summary": "&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;\n\n\nEQS Post-admission Duties announcement: Symrise AG\n\n\n / Announcement pursuant to Article 5 (1) (b) of Regulation (EU) No. 596/2014 and Article 2 (2) and (3) of Commission Delegated Regulation (EU) 2016/1052 \n\n\n&lt;br/&gt;\n\n\nSymrise AG: Release of a capital market information &lt;br/&gt;&lt;br/&gt;\n\n\n\n\n\n\n12.10.2026 / 17:",
+    "published_at": "2026-10-12T23:12:01+08:00",
+    "stocks": [],
+    "uid": "80508a985ec6c1ca62191c2dc24d5c7a"
+  },
+  {
+    "title": "Kaplan Fox Reminds Investors of a Securities Class Action Against Doximity, Inc. (DOCS) - Deadline is November 16, 2026",
+    "url": "https://markets.businessinsider.com/news/stocks/kaplan-fox-reminds-investors-of-a-securities-class-action-against-doximity-inc.-docs-deadline-is-november-16-2026-1036616975",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/318521/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px;  height: 1px;border: 0px solid;&quot;&gt;New York, New York--(Newsfile Corp. - October 12, 2026) - &lt;a href=&quot;https://api.newsfilecorp.com/redirect/3KOp1cQkxe&quot; rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot;&gt;Kaplan Fox  Kilsheimer LLP&lt;/a&gt; announces that a...",
+    "published_at": "2026-10-12T23:10:00+08:00",
+    "stocks": [
+      "DOCS"
+    ],
+    "uid": "9a4202564e47148f56f41adcdff47416"
+  },
+  {
+    "title": "Tintra Enters Deployment Phase as Founder Dickie Shearer Urges Businesses to Build for Emerging Markets",
+    "url": "https://markets.businessinsider.com/news/currencies/tintra-enters-deployment-phase-as-founder-dickie-shearer-urges-businesses-to-build-for-emerging-markets-1036617001",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://app.financewire.com/storage/uploads/users/0aab6580-45c3-4047-ab64-e74ace8f70d4r_17918021513PqHng40gB.jpg&quot; alt=&quot;Featured Image&quot; /&gt;&lt;p class=&quot;sc-dxroEu fTzmKS&quot;&gt;Doha, Qatar, October 12th, 2026, FinanceWire&lt;br&gt;&lt;p class=&quot;ql-align-center&quot;&gt;The Tintra founder argues that companies succeed across the Global South by...",
+    "published_at": "2026-10-12T23:09:16+08:00",
+    "stocks": [],
+    "uid": "702e2d0a5ea39ee7c30458d2d56bb0cd"
+  },
+  {
+    "title": "Viper Networks Subsidiary 0Wire Communications Launches Beta of Its Mobile Services",
+    "url": "https://markets.businessinsider.com/news/stocks/viper-networks-subsidiary-0wire-communications-launches-beta-of-its-mobile-services-1036616974",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;TROY, Mich., Oct.  12, 2026  (GLOBE NEWSWIRE) -- Viper Networks’ (OTCID: VPER) subsidiary, 0Wire Communications has launched the beta of both its mobile services and its MVNE (Mobile Virtual Network Enabler) program with its first three MVNOs...",
+    "published_at": "2026-10-12T23:07:01+08:00",
+    "stocks": [],
+    "uid": "1cb5a55f8397ec7110d4db8487b1048d"
+  },
+  {
+    "title": "Micron makes a statement with the latest clue about its cash windfall",
+    "url": "https://www.marketwatch.com/story/micron-makes-a-statement-with-the-latest-clue-about-its-cash-windfall-c9e33f7d?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "A new disclosure about Micron’s buyback plans appears meant to show shareholders that Micron is more generous with cash than one of its key rivals, an analyst said.",
+    "published_at": "2026-10-12T23:06:00+08:00",
+    "stocks": [],
+    "uid": "8d354c29d501efdc3b9806f2cb0fcbd2"
+  },
+  {
+    "title": "Romsey IT Firm Shortlisted for Prestigious Tech Award",
+    "url": "https://markets.businessinsider.com/news/stocks/romsey-it-firm-shortlisted-for-prestigious-tech-award-1036616978",
+    "source": "Business Insider",
+    "summary": "&lt;i&gt;HBTech becomes a finalist for Tech Employer of the Year at the South Coast Tech and Innovation Awards 2026.&lt;/i&gt;&lt;span class=&quot;byline&quot;&gt;Romsey, England, United Kingdom, October 12, 2026 -- HBTech, which is based in Romsey and &lt;u&gt;&lt;a href=&quot;https://www.hbtech.co.uk/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot;&gt;provides IT...",
+    "published_at": "2026-10-12T23:05:53+08:00",
+    "stocks": [],
+    "uid": "ae3295461e726ca4d2028d829aba6472"
+  },
+  {
+    "title": "Director/PDMR Shareholding",
+    "url": "https://markets.businessinsider.com/news/stocks/director-pdmr-shareholding-1036616963",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;b&gt;NOTIFICATION AND PUBLIC DISCLOSURE OF TRANSACTIONS BY PERSONS DISCHARGING MANAGERIAL RESPONSIBILITIES IN ACCORDANCE WITH THE REQUIREMENTS OF THE EU AND UK MARKET ABUSE REGIME&lt;/b&gt;October 12, 2026Shell plc (the “Company”) announces that it was...",
+    "published_at": "2026-10-12T23:04:25+08:00",
+    "stocks": [],
+    "uid": "a69269f90196a82587238f95ee005fa0"
+  },
+  {
+    "title": "Parenting in the digital age can be ‘a very anxiety provoking experience,’ says Emily Oster: How parents can lower that anxiety",
+    "url": "https://www.cnbc.com/make-it/2026/10/12/emily-oster-how-parents-can-lower-anxiety-.html",
+    "source": "CNBC Top",
+    "summary": "For those parents overwhelmed by headlines about the dangers of new tech, try using it and getting informed, says Emily Oster.",
+    "published_at": "2026-10-12T23:03:08+08:00",
+    "stocks": [],
+    "uid": "22d06a785925bfe9fda645d8b4688a6b"
+  },
+  {
+    "title": "JPMorgan Chase's Next Earnings Report Tomorrow Could Send the Stock Plunging. Here's Why.",
+    "url": "https://www.fool.com/investing/2026/10/12/jpmorgan-chase-s-next-earnings-report-tomorrow-could-send-the-stock-plunging-here-s-why/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Investors are always following JPMorgan Chase's earnings reports because the bank is a bellwether for the economy.",
+    "published_at": "2026-10-12T23:03:02+08:00",
+    "stocks": [],
+    "uid": "0fb7a1207fa2272e64fc9056fa048c9a"
+  },
+  {
+    "title": "Herr’s Flavored by Philly Returns to its Roots with Local Eats Flavor Competition",
+    "url": "https://markets.businessinsider.com/news/stocks/herr-s-flavored-by-philly-returns-to-its-roots-with-local-eats-flavor-competition-1036616964",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;NOTTINGHAM, Pa., Oct.  12, 2026  (GLOBE NEWSWIRE) -- Back by popular demand, &lt;a href=&quot;https://www.globenewswire.com/Tracker?data=Fl1gBNyLqre9UeGRGLsxEHM3pgdzF20dg7xEP1NsoQy7q31Ee-Ee-_vACSKX0sAyL4K9Caq0H0Iec6TivDcCxw==&quot; rel=&quot;nofollow&quot;...",
+    "published_at": "2026-10-12T23:01:01+08:00",
+    "stocks": [],
+    "uid": "c5f62d079d5eb0f497d06df75ca8e2c3"
+  },
+  {
+    "title": "My Top Dividend Growth Stock to Buy in October and Hold Forever",
+    "url": "https://www.fool.com/investing/2026/10/12/my-top-dividend-growth-stock-buy-october-hold/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This overlooked consumer staple is a rock-solid dividend grower built on brands people buy every day.",
+    "published_at": "2026-10-12T23:00:00+08:00",
+    "stocks": [],
+    "uid": "d0d3e878cf30be0676dbea62db262a9b"
+  },
+  {
+    "title": "McDonald's is leaning into chicken and drinks to grow. New data shows it could be a tough task",
+    "url": "https://www.cnbc.com/2026/10/12/mcdonalds-chicken-beverage-growth.html",
+    "source": "CNBC Top",
+    "summary": "McDonald's is targeting growth in chicken and beverages, but Consumer Edge data shows Chick-fil-A and coffee chains gaining in customer spending.",
+    "published_at": "2026-10-12T22:56:42+08:00",
+    "stocks": [],
+    "uid": "d2f97e295a4fdca462ccac08340a03eb"
+  },
+  {
+    "title": "This Could Be the Biggest Risk for Artificial Intelligence (AI) Stocks That No One Wants to Talk About (Hint: It's Not Rising Debt)",
+    "url": "https://www.fool.com/investing/2026/10/12/this-could-be-the-biggest-risk-for-artificial-intelligence-ai-stocks-that-no-one-wants-to-talk-about-hint-it-s-not-rising-debt/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Agentic AI has opened up some new and exciting opportunities for the tech sector, but there are also some serious concerns.",
+    "published_at": "2026-10-12T22:55:01+08:00",
+    "stocks": [],
+    "uid": "28d0099903978b6f29bcf759f75ca1eb"
+  },
+  {
+    "title": "Why Sandisk Stock Dropped on Monday",
+    "url": "https://www.fool.com/investing/2026/10/12/why-sandisk-stock-dropped-on-monday/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "CXMT plans new DRAM product targeting the AI market before end of 2026.",
+    "published_at": "2026-10-12T22:36:58+08:00",
+    "stocks": [],
+    "uid": "f6d64b24f97bcea3aecf8c5e4071458c"
+  },
+  {
+    "title": "Billionaire Stanley Druckenmiller Has Millions in This 1 Monopoly Chip Stock",
+    "url": "https://www.fool.com/investing/2026/10/12/billionaire-stanley-druckenmiller-has-millions-in/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Druckenmiller's second-largest position is Taiwan Semiconductor.",
+    "published_at": "2026-10-12T22:30:00+08:00",
+    "stocks": [],
+    "uid": "bc361517897bc4941a0b42d95d2d1db8"
+  },
+  {
+    "title": "Starbucks says it is not buying Chipotle after takeover speculation",
+    "url": "https://www.cnbc.com/2026/10/12/starbucks-denies-chipotle-takeover.html",
+    "source": "CNBC Top",
+    "summary": "\"Starbucks is not buying Chipotle,\" a Starbucks spokesperson told CNBC.",
+    "published_at": "2026-10-12T22:22:48+08:00",
+    "stocks": [],
+    "uid": "f9061d31feb2d22e71b6216ac80fbdfc"
+  },
+  {
+    "title": "3 Dividend Stocks Riding the Same Nuclear Build-Out From Different Angles",
+    "url": "https://www.fool.com/investing/2026/10/12/3-dividend-stocks-riding-the-same-nuclear-build-ou/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The nuclear power sector offers options from high-risk industry upstarts like Oklo to reliable dividend stocks like NextEra.",
+    "published_at": "2026-10-12T22:15:00+08:00",
+    "stocks": [],
+    "uid": "3fbf5dcc51bccc25240befc7465d3840"
+  },
+  {
+    "title": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
+    "url": "https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html",
+    "source": "CNBC Top",
+    "summary": "The U.S. economists were awarded for work that underpins the models used by central banks and governments to stabilize the economy.",
+    "published_at": "2026-10-12T22:09:02+08:00",
+    "stocks": [],
+    "uid": "7d0efcd015831a7ac7435ccc6181cedb"
+  },
+  {
+    "title": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
+    "url": "https://www.cnbc.com/2026/10/12/microsoft-will-mainly-use-its-maia-chips-for-ai-inference.html",
+    "source": "CNBC Top",
+    "summary": "By increasingly counting on its own chips, Microsoft stands to expand margins and bolster its AI stack.",
+    "published_at": "2026-10-12T22:04:16+08:00",
+    "stocks": [],
+    "uid": "6791dcf29e064a68e04f9c4a92df471e"
+  },
+  {
+    "title": "Banks are set to report this week. Here's what the options market expects",
+    "url": "https://www.cnbc.com/2026/10/12/banks-are-set-to-report-this-week-heres-what-the-options-market-expects.html",
+    "source": "CNBC Top",
+    "summary": "Despite being flat on the year, the options market is pricing in some big financial sector moves as investor weigh the impact of higher rates.",
+    "published_at": "2026-10-12T21:27:20+08:00",
+    "stocks": [],
+    "uid": "6ebb1b8a7dc07e7e00cc53ea7f58db09"
+  },
+  {
+    "title": "World’s Energy Order Tested Again as Iran War’s Reach Extends Further",
+    "url": "https://www.nytimes.com/2026/10/12/business/middle-east-oil-exports-houthi-saudi.html",
+    "source": "NYT Business",
+    "summary": "“We are entering an age of prolonged insecurity,” one former U.S. energy official said of what have become chronic threats on the Middle East’s energy core.",
+    "published_at": "2026-10-12T21:15:38+08:00",
+    "stocks": [],
+    "uid": "d589358f29c9a60a01801702c180dc01"
+  },
+  {
+    "title": "Intel, Broadcom CEOs warn capital crunch could become AI's biggest bottleneck",
+    "url": "https://www.cnbc.com/2026/10/12/intel-broadcom-ceos-warn-capital-crunch-could-become-ai-bottleneck.html",
+    "source": "CNBC Top",
+    "summary": "The CEOs of Intel and Broadcom warned that access to capital could emerge as a major constraint on the artificial intelligence boom.",
+    "published_at": "2026-10-12T21:04:31+08:00",
+    "stocks": [],
+    "uid": "0b0fd2b310d1f22c6cc59db56736b733"
+  },
+  {
+    "title": "Saudi Arabia says drones and missiles still targeting kingdom as Iran-backed Houthis step up attacks",
+    "url": "https://www.cnbc.com/2026/10/12/us-iran-war-trump-hormuz-saudi.html",
+    "source": "CNBC Top",
+    "summary": "The Saudi-led coalition responding to the attacks said Monday it was dealing with more drones and missiles heading toward the kingdom.",
+    "published_at": "2026-10-12T21:01:49+08:00",
+    "stocks": [],
+    "uid": "84abe66e0466242750487ee67e318c98"
+  },
+  {
+    "title": "Strikes Put Saudi Arabia’s Economy Under Pressure",
+    "url": "https://www.nytimes.com/2026/10/12/business/dealbook/saudi-arabia-strikes-energy-airport.html",
+    "source": "NYT Business",
+    "summary": "Deadly attacks on the main Saudi airport add to the challenges facing the country, as it seeks to maintain energy production and keep major events on track.",
+    "published_at": "2026-10-12T20:44:16+08:00",
+    "stocks": [],
+    "uid": "4000d5c0f92c2a73fab6fd482ec58775"
+  },
+  {
+    "title": "Trump's energy efforts, European bonds, retailers' inventory balancing act and more in Morning Squawk",
+    "url": "https://www.cnbc.com/2026/10/12/5-things-to-know-before-the-stock-market-opens.html",
+    "source": "CNBC Tech",
+    "summary": "Here are five key things investors need to know to start the trading day.",
+    "published_at": "2026-10-12T20:40:34+08:00",
+    "stocks": [],
+    "uid": "0856c30c361a5a7f5489a548508f5c9c"
+  },
+  {
+    "title": "Health insurance open enrollment: Use this 'algorithm' to pick a plan, financial advisor says",
+    "url": "https://www.cnbc.com/2026/10/12/health-insurance-open-enrollment.html",
+    "source": "CNBC Top",
+    "summary": "There are several factors consumers must consider during open enrollment, such as choice, cost and savings options.",
+    "published_at": "2026-10-12T20:15:01+08:00",
+    "stocks": [],
+    "uid": "f12400e2d971bb0b404973f719952fd8"
+  },
+  {
+    "title": "Beckham, Yao Ming attend NBA China Games in a boost to Macao's live events",
+    "url": "https://www.cnbc.com/2026/10/12/beckham-yao-ming-nba-china-games-liev-events.html",
+    "source": "CNBC Top",
+    "summary": "The NBA China Games brought Chinese and U.S. basketball fans to Macao, which is spending big to broaden its reputation beyond a gambling mecca.",
+    "published_at": "2026-10-12T20:04:36+08:00",
+    "stocks": [],
+    "uid": "e3d1c2786354aebfcd952baec8fbd45e"
+  },
+  {
+    "title": "AI FOMO driving some family offices into tech investments, survey suggests",
+    "url": "https://www.cnbc.com/2026/10/12/ai-fomo-driving-some-family-offices-to-ai-investments-survey-suggests.html",
+    "source": "CNBC Top",
+    "summary": "Investment firms of ultra-wealthy families aren't immune to FOMO.",
+    "published_at": "2026-10-12T18:25:28+08:00",
+    "stocks": [],
+    "uid": "c1934c37263cbdcf0d115032f283a4b2"
+  },
+  {
+    "title": "Stellantis CEO urges incentives for carmakers who build in Europe as Chinese rivals gain ground",
+    "url": "https://www.cnbc.com/2026/10/12/stellantis-europe-cars-chinese-rivals-evs.html",
+    "source": "CNBC Top",
+    "summary": "Stellantis' CEO urged European regulators to create incentives for carmakers to manufacture vehicles in the region amid competition from Chinese rivals.",
+    "published_at": "2026-10-12T16:41:50+08:00",
+    "stocks": [],
+    "uid": "29845189406bc6ba9059d19ccc00d660"
+  },
+  {
     "title": "Why is ActiveOps stock plummeting today?",
     "url": "https://www.investing.com/news/stock-market-news/why-is-activeops-stock-plummeting-today-93CH-4943429",
     "source": "Investing.com",
