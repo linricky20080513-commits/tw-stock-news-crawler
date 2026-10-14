@@ -1,5 +1,696 @@
 [
   {
+    "title": "Bank of America posts third-quarter profit drop due to $1.2 billion Treasury fine",
+    "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+    "source": "CNBC Markets",
+    "summary": "The U.S. Treasury Department announced a $1.2 billion penalty against Bank of America on Tuesday.",
+    "published_at": "2026-10-14T18:54:21+08:00",
+    "stocks": [],
+    "uid": "97b149ae216d933bf4c6d971f2e737ad",
+    "title_en": "Bank of America posts third-quarter profit drop due to $1.2 billion Treasury fine",
+    "summary_en": "The U.S. Treasury Department announced a $1.2 billion penalty against Bank of America on Tuesday.",
+    "title_zh": "由於財政部罰款 12 億美元，美國銀行第三季獲利下降",
+    "summary_zh": "美國財政部週二宣布對美國銀行處以 12 億美元的罰款。"
+  },
+  {
+    "title": "RBC Capital reiterates Axsome Therapeutics stock rating at Outperform",
+    "url": "https://www.investing.com/news/analyst-ratings/rbc-capital-reiterates-axsome-therapeutics-stock-rating-at-outperform-93CH-4948702",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-14T18:46:56+08:00",
+    "stocks": [],
+    "uid": "a58a9c2d9ee19b72616cec6e6e8b6416",
+    "title_en": "RBC Capital reiterates Axsome Therapeutics stock rating at Outperform",
+    "summary_en": "",
+    "title_zh": "RBC Capital 重申 Axsome Therapeutics 股票評級為跑贏大盤",
+    "summary_zh": ""
+  },
+  {
+    "title": "Morgan Stanley raises SpaceX stock price target on distributed inference potential",
+    "url": "https://www.investing.com/news/analyst-ratings/morgan-stanley-raises-spacex-stock-price-target-on-distributed-inference-potential-93CH-4948701",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-14T18:46:48+08:00",
+    "stocks": [],
+    "uid": "5976bfbbabbacfe9e60540dc58611b6a",
+    "title_en": "Morgan Stanley raises SpaceX stock price target on distributed inference potential",
+    "summary_en": "",
+    "title_zh": "摩根士丹利因分散式推理潛力上調 SpaceX 股價目標",
+    "summary_zh": ""
+  },
+  {
+    "title": "Gooch & Housego acquisition by Arlington Capital receives court approval",
+    "url": "https://www.investing.com/news/company-news/gooch--housego-acquisition-by-arlington-capital-receives-court-approval-93CH-4948699",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-14T18:46:42+08:00",
+    "stocks": [],
+    "uid": "5cebf68649d1cea0e94c58fd2c958eca",
+    "title_en": "Gooch & Housego acquisition by Arlington Capital receives court approval",
+    "summary_en": "",
+    "title_zh": "Arlington Capital 收購 Gooch & Housego 獲得法院批准",
+    "summary_zh": ""
+  },
+  {
+    "title": "BlackRock earnings beat by $1.63, revenue topped estimates",
+    "url": "https://www.investing.com/news/earnings/blackrock-earnings-beat-by-163-revenue-topped-estimates-4948681",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-14T18:43:39+08:00",
+    "stocks": [],
+    "uid": "c0b10302af915bf3b7db0ae41c681107"
+  },
+  {
+    "title": "Japan’s GPIF supporting global market liquidity, Mimura says",
+    "url": "https://www.investing.com/news/economy-news/japans-gpif-supporting-global-market-liquidity-mimura-says-4948677",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-14T18:42:27+08:00",
+    "stocks": [],
+    "uid": "efa2255c15daa4df61f74d08cfbf00a8",
+    "title_en": "Japan’s GPIF supporting global market liquidity, Mimura says",
+    "summary_en": "",
+    "title_zh": "Mimura 表示，日本 GPIF 支持全球市場流動性",
+    "summary_zh": ""
+  },
+  {
+    "title": "European stocks gain on ASML sales forecast; U.S. CPI test awaited",
+    "url": "https://www.investing.com/news/stock-market-news/european-stocks-gain-on-asml-sales-forecast-us-cpi-test-awaited-4948177",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-14T18:41:42+08:00",
+    "stocks": [],
+    "uid": "252a2ef35543aa3e22aa7a0dacbb4ca1",
+    "title_en": "European stocks gain on ASML sales forecast; U.S. CPI test awaited",
+    "summary_en": "",
+    "title_zh": "ASML 銷售預測推動歐洲股市上漲；等待美國CPI測試",
+    "summary_zh": ""
+  },
+  {
+    "title": "Premarket movers: Alibaba gains on new AI glasses; Liquidia rallies as legal eases",
+    "url": "https://www.investing.com/news/stock-market-news/premarket-movers-alibaba-gains-on-new-ai-glasses-liquidia-rallies-as-legal-eases-4948661",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-14T18:41:22+08:00",
+    "stocks": [],
+    "uid": "d22397f643c6f148cad1d2cea5a548e8",
+    "title_en": "Premarket movers: Alibaba gains on new AI glasses; Liquidia rallies as legal eases",
+    "summary_en": "",
+    "title_zh": "盤前推動因素：阿里巴巴憑藉新型人工智慧眼鏡獲利；隨著法律的放鬆，Liquidia 上漲",
+    "summary_zh": ""
+  },
+  {
+    "title": "BlackRock now has assets equal to half the size of the U.S. economy after 15% growth",
+    "url": "https://www.marketwatch.com/story/blackrock-now-has-assets-equal-to-half-the-size-of-the-u-s-economy-after-15-growth-c382b289?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Fund-management giant BlackRock on Wednesday said assets under management are nearly $15.5 trillion after growth of 15%.",
+    "published_at": "2026-10-14T18:41:00+08:00",
+    "stocks": [],
+    "uid": "2878555995d96e07151fe689a40978b8",
+    "title_en": "BlackRock now has assets equal to half the size of the U.S. economy after 15% growth",
+    "summary_en": "Fund-management giant BlackRock on Wednesday said assets under management are nearly $15.5 trillion after growth of 15%.",
+    "title_zh": "在成長 15% 後，貝萊德目前的資產相當於美國經濟規模的一半",
+    "summary_zh": "基金管理巨頭貝萊德週三表示，管理資產規模接近 15.5 兆美元，成長了 15%。"
+  },
+  {
+    "title": "JPMorgan upgrades Paladin Energy stock rating on valuation",
+    "url": "https://www.investing.com/news/analyst-ratings/jpmorgan-upgrades-paladin-energy-stock-rating-on-valuation-93CH-4948663",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-14T18:40:50+08:00",
+    "stocks": [],
+    "uid": "30168d8e74fbd1fb4a4a61c0026e0670",
+    "title_en": "JPMorgan upgrades Paladin Energy stock rating on valuation",
+    "summary_en": "",
+    "title_zh": "摩根大通上調帕拉丁能源股票估值評級",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why is Lonza stock rallying today?",
+    "url": "https://www.investing.com/news/stock-market-news/why-is-lonza-stock-rallying-today-93CH-4948662",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-14T18:40:23+08:00",
+    "stocks": [],
+    "uid": "fcb83e22b9a852f3f4104ffc47a79461",
+    "title_en": "Why is Lonza stock rallying today?",
+    "summary_en": "",
+    "title_zh": "為什麼龍沙股票今天上漲？",
+    "summary_zh": ""
+  },
+  {
+    "title": "Diesel squeeze set to last well into 2027 as Iran war disrupts supply, IEA says",
+    "url": "https://www.cnbc.com/2026/10/14/diesel-deal-oil-price-iea-report.html",
+    "source": "CNBC Top",
+    "summary": "Diesel supply is expected to remain tight into 2027 as Iran war-related disruption, falling inventories and resilient demand strain the market, the IEA said.",
+    "published_at": "2026-10-14T18:37:42+08:00",
+    "stocks": [],
+    "uid": "2fdc3b61c3c3046c2fa3fcaf0f676d75",
+    "title_en": "Diesel squeeze set to last well into 2027 as Iran war disrupts supply, IEA says",
+    "summary_en": "Diesel supply is expected to remain tight into 2027 as Iran war-related disruption, falling inventories and resilient demand strain the market, the IEA said.",
+    "title_zh": "IEA表示，由於伊朗戰爭擾亂供應，柴油緊縮將持續到2027年",
+    "summary_zh": "IEA 表示，由於伊朗戰爭造成的破壞、庫存下降和需求彈性給市場帶來壓力，柴油供應預計將持續緊張到 2027 年。"
+  },
+  {
+    "title": "UK stocks gain on consumer staples, defence; budget borrowing report lifts sentiment",
+    "url": "https://www.investing.com/news/stock-market-news/uk-stocks-gain-on-consumer-staplesdefence-budget-borrowing-report-lifts-sentiment-4948654",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-14T18:37:19+08:00",
+    "stocks": [],
+    "uid": "373ca2380f8b9c342f229dc75e38701c",
+    "title_en": "UK stocks gain on consumer staples, defence; budget borrowing report lifts sentiment",
+    "summary_en": "",
+    "title_zh": "英國股市因消費必需品和國防而上漲；預算借款報告提振市場情緒",
+    "summary_zh": ""
+  },
+  {
+    "title": "Not Nvidia. Not Broadcom. This Storage Stock Could Be 2027's Hidden AI Winner.",
+    "url": "https://www.fool.com/investing/2026/10/14/not-nvidia-not-broadcom-this-storage-stock-could-b/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Chips grab the AI headlines, but Seagate's 34% revenue growth and next-gen hard drives make it an overlooked pick heading into 2027.",
+    "published_at": "2026-10-14T18:30:00+08:00",
+    "stocks": [],
+    "uid": "589803535df143aa5e93d70d34ef90f3",
+    "title_en": "Not Nvidia. Not Broadcom. This Storage Stock Could Be 2027's Hidden AI Winner.",
+    "summary_en": "Chips grab the AI headlines, but Seagate's 34% revenue growth and next-gen hard drives make it an overlooked pick heading into 2027.",
+    "title_zh": "不是英偉達。不是博通。該儲存股可能成為 2027 年人工智慧的隱藏贏家。",
+    "summary_zh": "晶片佔據了人工智慧的頭條新聞，但希捷 34% 的收入成長和下一代硬碟使其成為 2027 年被忽視的選擇。"
+  },
+  {
+    "title": "History Says This Is Hands-Down the Best ETF to Buy if a Bear Market Is Coming",
+    "url": "https://www.fool.com/investing/2026/10/14/history-says-this-is-hands-down-the-best-etf-to-bu/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "If a bear market crashes the stock market party in 2027, this low-cost dividend ETF could protect your money from a tech sell-off.",
+    "published_at": "2026-10-14T18:24:00+08:00",
+    "stocks": [],
+    "uid": "aec8801b30f055e514af62b7929479d6"
+  },
+  {
+    "title": "Why Wall Street Is Cautious About Tesla, and Why I'm Not Worried",
+    "url": "https://www.fool.com/investing/2026/10/14/why-wall-street-is-cautious-about-tesla-and-why-im/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The biggest opportunities for Tesla may still lie ahead.",
+    "published_at": "2026-10-14T18:16:00+08:00",
+    "stocks": [],
+    "uid": "8b6ea755438d3a444c9e7bfe366a9b19",
+    "title_en": "Why Wall Street Is Cautious About Tesla, and Why I'm Not Worried",
+    "summary_en": "The biggest opportunities for Tesla may still lie ahead.",
+    "title_zh": "為什麼華爾街對特斯拉持謹慎態度，而我卻不擔心",
+    "summary_zh": "特斯拉最大的機會可能仍在前方。"
+  },
+  {
+    "title": "4 High-Risk Stocks Built for Big Returns",
+    "url": "https://www.fool.com/investing/2026/10/14/4-high-risk-stocks-built-for-big-returns/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "These speculative investments could turbocharge a portfolio to market-beating returns.",
+    "published_at": "2026-10-14T18:08:00+08:00",
+    "stocks": [],
+    "uid": "4f3bc0bbbfcd35f1ce798c50f2a9e8a9",
+    "title_en": "4 High-Risk Stocks Built for Big Returns",
+    "summary_en": "These speculative investments could turbocharge a portfolio to market-beating returns.",
+    "title_zh": "4只追求高報酬的高風險股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "onsemi and Sungrow Advance Utility-Scale Energy Storage Performance with SiC Hybrid Technology",
+    "url": "https://markets.businessinsider.com/news/stocks/onsemi-and-sungrow-advance-utility-scale-energy-storage-performance-with-sic-hybrid-technology-1036624843",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;Summary As AI-driven electricity demand accelerates worldwide, utilities and energy providers are under growing pressure to store and deliver energy more efficiently. Battery energy storage system (BESS) providers are seeking advanced power...",
+    "published_at": "2026-10-14T18:01:00+08:00",
+    "stocks": [
+      "BESS"
+    ],
+    "uid": "a798481fff3ad17e1100baa7092870a4",
+    "title_en": "onsemi and Sungrow Advance Utility-Scale Energy Storage Performance with SiC Hybrid Technology",
+    "summary_en": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;Summary As AI-driven electricity demand accelerates worldwide, utilities and energy providers are under growing pressure to store and deliver energy more efficiently. Battery energy storage system (BESS) providers are seeking advanced power...",
+    "title_zh": "安森美和陽光電源利用碳化矽混合技術提升公用事業規模的儲能性能",
+    "summary_zh": "<link type=\"text/css\" rel=\"stylesheet\" href=\"https://www.globenewswire.com/styles/gnw_nitf.css\" />摘要隨著人工智慧驅動的電力需求在全球範圍內加速增長，公用事業和能源供應商面臨著越來越大的壓力，需要更有效地儲存和交付能源。電池儲能係統 (BESS) 提供者正在尋求先進的電源..."
+  },
+  {
+    "title": "iShares SLVP vs VanEck GDX: Which Miners ETF Wins",
+    "url": "https://www.fool.com/coverage/etfs/2026/10/14/ishares-slvp-vs-vaneck-gdx-which-miners-etf-wins/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "SLVP offers lower costs and higher income, while GDX commands $26.8 billion in assets with stronger long-term growth.",
+    "published_at": "2026-10-14T18:00:02+08:00",
+    "stocks": [],
+    "uid": "05063a2799ebc9bdc0714e744717b217",
+    "title_en": "iShares SLVP vs VanEck GDX: Which Miners ETF Wins",
+    "summary_en": "SLVP offers lower costs and higher income, while GDX commands $26.8 billion in assets with stronger long-term growth.",
+    "title_zh": "iShares SLVP 與 VanEck GDX：哪個礦工 ETF 獲勝",
+    "summary_zh": "SLVP 提供更低的成本和更高的收入，而 GDX 擁有 268 億美元的資產，具有更強勁的長期成長。"
+  },
+  {
+    "title": "iShares vs State Street Small-Cap Growth ETF Showdown",
+    "url": "https://www.fool.com/coverage/etfs/2026/10/14/ishares-vs-state-street-small-cap-growth-etf-showdown/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "SLYG delivered 16.8% returns over one year, while ISCG charged half the expense ratio. Which fund's cost advantage or performance edge matters more for your portfolio?",
+    "published_at": "2026-10-14T18:00:02+08:00",
+    "stocks": [],
+    "uid": "04950d63c690ddfcb453cb193b4a8f14",
+    "title_en": "iShares vs State Street Small-Cap Growth ETF Showdown",
+    "summary_en": "SLYG delivered 16.8% returns over one year, while ISCG charged half the expense ratio. Which fund's cost advantage or performance edge matters more for your portfolio?",
+    "title_zh": "iShares 與道富小盤成長 ETF 的對決",
+    "summary_zh": "SLYG 一年內的回報率為 16.8%，而 ISCG 的費用率只有一半。哪一支基金的成本優勢或績效優勢對您的投資組合更重要？"
+  },
+  {
+    "title": "Financials vs. Banks: Which ETF Is the Smarter Buy — Fidelity or Invesco?",
+    "url": "https://www.fool.com/coverage/etfs/2026/10/14/fidelity-msci-financials-etf-vs-invesco-kbw-bank-etf/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Fidelity's broad financial sector fund charges 0.08% versus Invesco's 0.35% banking-focused ETF, but concentrated bank exposure delivered stronger recent returns.",
+    "published_at": "2026-10-14T18:00:02+08:00",
+    "stocks": [],
+    "uid": "598f262ef54ad104a8c2c3a9b798956f",
+    "title_en": "Financials vs. Banks: Which ETF Is the Smarter Buy — Fidelity or Invesco?",
+    "summary_en": "Fidelity's broad financial sector fund charges 0.08% versus Invesco's 0.35% banking-focused ETF, but concentrated bank exposure delivered stronger recent returns.",
+    "title_zh": "金融股與銀行股：富達基金還是景順基金哪個 ETF 比較明智？",
+    "summary_zh": "富達廣泛的金融部門基金收費為 0.08%，而景順的銀行業 ETF 收費為 0.35%，但集中的銀行曝險帶來了近期更高的回報。"
+  },
+  {
+    "title": "South Texas Latino voters who flipped for Trump in 2024 are up for grabs in 2026",
+    "url": "https://www.cnbc.com/2026/10/14/texas-latino-voters-midterm-election-trump.html",
+    "source": "CNBC Top",
+    "summary": "Hispanic and Latino voters swung hard for President Donald Trump in 2024. But in the 2026 midterm election, Democrats are pushing to get them back.",
+    "published_at": "2026-10-14T18:00:01+08:00",
+    "stocks": [],
+    "uid": "2a6fd5cc1fe8a06d3eb8bf1169094065",
+    "title_en": "South Texas Latino voters who flipped for Trump in 2024 are up for grabs in 2026",
+    "summary_en": "Hispanic and Latino voters swung hard for President Donald Trump in 2024. But in the 2026 midterm election, Democrats are pushing to get them back.",
+    "title_zh": "2024 年支持川普的南德州拉丁裔選民將在 2026 年爭奪",
+    "summary_zh": "2024 年，拉丁裔和拉丁裔選民大力支持唐納德·川普總統。但在 2026 年中期選舉中，民主黨正在努力讓他們回歸。"
+  },
+  {
+    "title": "How Anthropic's IPO could turn Leopold Aschenbrenner's best asset into his biggest risk",
+    "url": "https://www.businessinsider.com/anthropic-ipo-situational-awareness-leopold-aschenbrenner-2026-10",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-10-14T18:00:01+08:00",
+    "stocks": [],
+    "uid": "49152a452acdebd69e82fa310b055f77",
+    "title_en": "How Anthropic's IPO could turn Leopold Aschenbrenner's best asset into his biggest risk",
+    "summary_en": "",
+    "title_zh": "Anthropic 的 IPO 如何將 Leopold Aschenbrenner 最好的資產變成他最大的風險",
+    "summary_zh": ""
+  },
+  {
+    "title": "The truth about being a landlord in retirement",
+    "url": "https://www.marketwatch.com/story/the-truth-about-being-a-landlord-in-retirement-5d1daf4c?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Investing in rental property isn’t easy or ‘passive’",
+    "published_at": "2026-10-14T18:00:00+08:00",
+    "stocks": [],
+    "uid": "28b594f67293322cf9cb371b4eae440e",
+    "title_en": "The truth about being a landlord in retirement",
+    "summary_en": "Investing in rental property isn’t easy or ‘passive’",
+    "title_zh": "關於退休後成為房東的真相",
+    "summary_zh": "投資租賃房產並不容易或“被動”"
+  },
+  {
+    "title": "Investors have made big bets on tech stocks. Why one strategist just downgraded the sector.",
+    "url": "https://www.marketwatch.com/story/investors-have-made-big-bets-on-tech-stocks-why-one-strategist-just-downgraded-the-sector-4c893077?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Slowing flows into tech stocks as valuations deteriorate has one strategist lowering the firm’s rating on tech stocks.",
+    "published_at": "2026-10-14T18:00:00+08:00",
+    "stocks": [],
+    "uid": "7eb6771b724e14cc2b2f2992a7aa4445",
+    "title_en": "Investors have made big bets on tech stocks. Why one strategist just downgraded the sector.",
+    "summary_en": "Slowing flows into tech stocks as valuations deteriorate has one strategist lowering the firm’s rating on tech stocks.",
+    "title_zh": "投資人對科技股下了大注。為什麼一位策略師剛剛下調了該行業的評級。",
+    "summary_zh": "隨著估值惡化，流入科技股的資金放緩，一位策略師降低了該公司對科技股的評級。"
+  },
+  {
+    "title": "Radware Introduces Model Context Protocol (MCP) Server Protection to Help Secure the Integration Layer of Agentic AI",
+    "url": "https://markets.businessinsider.com/news/stocks/radware-introduces-model-context-protocol-mcp-server-protection-to-help-secure-the-integration-layer-of-agentic-ai-1036624834",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;left&quot;&gt;MAHWAH, N.J., Oct.  14, 2026  (GLOBE NEWSWIRE) -- &lt;a href=&quot;https://www.globenewswire.com/Tracker?data=wjLS7-_1MHcgVU0Jg4_8ng9ZFSevdYGv5HuBmNOZvn_YUISAe5Gb2iUSYs-RfvutXsrW5lQm6U2SKeqe1RA7tA==&quot; rel=&quot;nofollow&quot;...",
+    "published_at": "2026-10-14T18:00:00+08:00",
+    "stocks": [
+      "MCP"
+    ],
+    "uid": "54f469c0c0923514e06ec92cce9daf82",
+    "title_en": "Radware Introduces Model Context Protocol (MCP) Server Protection to Help Secure the Integration Layer of Agentic AI",
+    "summary_en": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;left&quot;&gt;MAHWAH, N.J., Oct.  14, 2026  (GLOBE NEWSWIRE) -- &lt;a href=&quot;https://www.globenewswire.com/Tracker?data=wjLS7-_1MHcgVU0Jg4_8ng9ZFSevdYGv5HuBmNOZvn_YUISAe5Gb2iUSYs-RfvutXsrW5lQm6U2SKeqe1RA7tA==&quot; rel=&quot;nofollow&quot;...",
+    "title_zh": "Radware 推出模型上下文協定 (MCP) 伺服器保護，協助保護代理 AI 的整合層",
+    "summary_zh": "<link type=\"text/css\" rel=\"stylesheet\" href=\"https://www.globenewswire.com/styles/gnw_nitf.css\" /><palign=\"left\">新澤西州馬瓦，2026 年 10 月 14 日（環球通訊社）--<a href=\"https://www.globenewswire.com/Tracker?data=wjLS7-_1MHcgVU0Jg4_8ng9ZFSevdYGv5HuBmNOZvn_YUISAe5Gb2iUSYs-RfvutXsrW5lQm6U2SKeq=\"1RA778\"...FivnolowU2SKeq=\"RRA7T."
+  },
+  {
+    "title": "Owlting Group (NASDAQ: OWLS) and Decaf Open U.S. Dollar Accounts Beyond the United States on OwlPay Harbor",
+    "url": "https://markets.businessinsider.com/news/stocks/owlting-group-nasdaq-owls-and-decaf-open-u-s-dollar-accounts-beyond-the-united-states-on-owlpay-harbor-1036624835",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;center&quot;&gt;&lt;img alt=&quot;Decaf and OwlPay logos side by side on a purple background&quot; height=&quot;338&quot; src=&quot;https://ml.globenewswire.com/Resource/Download/bd4c5afc-814c-43fe-aef7-47d0fbd846b9/press-image-decaf-owlpay-harbor-oct2026.jpg&quot; width=&quot;600&quot;...",
+    "published_at": "2026-10-14T18:00:00+08:00",
+    "stocks": [],
+    "uid": "5082132f51f05c8257af00116d9db697",
+    "title_en": "Owlting Group (NASDAQ: OWLS) and Decaf Open U.S. Dollar Accounts Beyond the United States on OwlPay Harbor",
+    "summary_en": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;center&quot;&gt;&lt;img alt=&quot;Decaf and OwlPay logos side by side on a purple background&quot; height=&quot;338&quot; src=&quot;https://ml.globenewswire.com/Resource/Download/bd4c5afc-814c-43fe-aef7-47d0fbd846b9/press-image-decaf-owlpay-harbor-oct2026.jpg&quot; width=&quot;600&quot;...",
+    "title_zh": "Owlting Group（納斯達克股票代碼：OWLS）和 Decaf 在 OwlPay Harbor 在美國境外開設美元帳戶",
+    "summary_zh": "<link type=\"text/css\" rel=\"stylesheet\" href=\"https://www.globenewswire.com/styles/gnw_nitf.css\" /><palign=\"center\"><img alt=\"Decaf 和 OwlPay 標誌並排在紫色背景上\" height=\"338\" src =“https://ml.globenewswire.com/Resource/Download/bd4c5afc-814c-43fe-aef7-47d0fbd846b9/press-image-decaf-owlpay-harbor-oct2026.jpg”寬度=“600”..."
+  },
+  {
+    "title": "VisionWave Advances Stratum AI, an Agentic AI Architecture for Autonomous Mission Intelligence and Orchestration",
+    "url": "https://markets.businessinsider.com/news/stocks/visionwave-advances-stratum-ai-an-agentic-ai-architecture-for-autonomous-mission-intelligence-and-orchestration-1036624836",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;WEST HOLLYWOOD, Calif., Oct.  14, 2026  (GLOBE NEWSWIRE) -- VisionWave Holdings, Inc. (Nasdaq: VWAV) (“VisionWave” or the “Company”) today highlighted the development of&#160;Stratum AI , the Company’s agentic artificial intelligence (“AI”)...",
+    "published_at": "2026-10-14T18:00:00+08:00",
+    "stocks": [],
+    "uid": "3c11a52883737acaee6bc85135510104"
+  },
+  {
+    "title": "Dryden Gold Corp. Presenting at the OTC Precious Metals & Critical Minerals Virtual Investor Conference",
+    "url": "https://markets.businessinsider.com/news/stocks/dryden-gold-corp-presenting-at-the-otc-precious-metals-critical-minerals-virtual-investor-conference-1036624837",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;left&quot;&gt;VANCOUVER, British Columbia, Oct.  14, 2026  (GLOBE NEWSWIRE) -- Dryden Gold Corp. (TSXV: DRY, OTCQX: DRYGF) (&quot;Dryden Gold&quot; or the &quot;Company&quot;) is pleased to announce that it will present at the &lt;a href=&quot;https://www.globenewswire.",
+    "published_at": "2026-10-14T18:00:00+08:00",
+    "stocks": [],
+    "uid": "c556f6e01824b5f1bef0740f595019e8"
+  },
+  {
+    "title": "Generac Announces Third Quarter 2026 Earnings Release Date and Conference Call",
+    "url": "https://markets.businessinsider.com/news/stocks/generac-announces-third-quarter-2026-earnings-release-date-and-conference-call-1036624838",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;WAUKESHA, Wis., Oct.  14, 2026  (GLOBE NEWSWIRE) -- Generac Holdings Inc. (&quot;Generac&quot;) (NYSE: GNRC), a leading global designer, manufacturer, and provider of energy technology solutions and other power products, today announced plans to release its...",
+    "published_at": "2026-10-14T18:00:00+08:00",
+    "stocks": [],
+    "uid": "dffd6ad34b2f8e298c04b476df0f6929"
+  },
+  {
+    "title": "Sonatype Unveils Nexus Repository Pro+ to Stop Malicious Components Before Developers or AI Agents Pull Them Into Builds",
+    "url": "https://markets.businessinsider.com/news/stocks/sonatype-unveils-nexus-repository-pro-to-stop-malicious-components-before-developers-or-ai-agents-pull-them-into-builds-1036624839",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;Fulton, Md., Oct.  14, 2026  (GLOBE NEWSWIRE) -- &lt;a href=&quot;https://www.globenewswire.com/Tracker?data=cYznWU0gaZwZl60JGZV7kAu8vWFOhMAB4RrG5ybzTIqjtu7mwh0sOsIFKEha5opogX4myyIxhnYaCYiRm8R2ww==&quot; rel=&quot;nofollow&quot;...",
+    "published_at": "2026-10-14T18:00:00+08:00",
+    "stocks": [],
+    "uid": "a931664e74b098a0577a20f79f2b31ab"
+  },
+  {
+    "title": "KBR Dividend Declaration",
+    "url": "https://markets.businessinsider.com/news/stocks/kbr-dividend-declaration-1036624840",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;left&quot;&gt;HOUSTON, Oct.  14, 2026  (GLOBE NEWSWIRE) -- KBR (NYSE: KBR) announced today that its Board of Directors has declared a regular quarterly dividend of $0.165 per share on the company’s common stock, par value $0.001 per share.",
+    "published_at": "2026-10-14T18:00:00+08:00",
+    "stocks": [],
+    "uid": "9ab708f34f75f2823c4b359812fd031e"
+  },
+  {
+    "title": "Black Hawk Acquisition Corporation Announces Redemption Results in Connection With Its Business Combination With Vesicor Therapeutics Inc.",
+    "url": "https://markets.businessinsider.com/news/stocks/black-hawk-acquisition-corporation-announces-redemption-results-in-connection-with-its-business-combination-with-vesicor-therapeutics-inc-1036624841",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;justify&quot;&gt;BLACKHAWK, Calif., Oct.  14, 2026  (GLOBE NEWSWIRE) -- Black Hawk Acquisition Corporation (NASDAQ: “BKHAU,” “BKHA,” “BKHAR”) “Black Hawk” or the “Company”) today announced that, in connection with its proposed business combination...",
+    "published_at": "2026-10-14T18:00:00+08:00",
+    "stocks": [],
+    "uid": "761ed185cc9b9fe9906512b43acef683"
+  },
+  {
+    "title": "Google Signed a Deal for Existing Reactors. So Why Did Oklo and NuScale Jump on the Constellation Energy News? The Read-Through Investors Are Missing.",
+    "url": "https://www.fool.com/investing/2026/10/14/google-signed-a-deal-for-existing-reactors-so-why/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "It's another upvote for an energy source that just a few years ago seemed to be moving toward obsolescence.",
+    "published_at": "2026-10-14T17:49:00+08:00",
+    "stocks": [],
+    "uid": "3ee9b379ceb40531062a75a010cc1ae8"
+  },
+  {
+    "title": "Here’s the latest.",
+    "url": "https://www.nytimes.com/live/2026/10/14/business/inflation-cpi-report-september/inflation-cpi",
+    "source": "NYT Business",
+    "summary": "",
+    "published_at": "2026-10-14T17:47:17+08:00",
+    "stocks": [],
+    "uid": "7303fdaa0cfdd6db5de1e9b280bf1c63"
+  },
+  {
+    "title": "Over the Past 3 Years, Bitcoin Is Up 225% and the Nasdaq Is Up 109%. Here's the 1 Takeaway Lesson for Crypto Investors.",
+    "url": "https://www.fool.com/investing/2026/10/14/over-the-past-3-years-bitcoin-is-up-225-and-the-na/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Trying to time the market with Bitcoin is a major mistake.",
+    "published_at": "2026-10-14T17:34:00+08:00",
+    "stocks": [],
+    "uid": "6dd61f61e597d01d238c82f60d30b46f"
+  },
+  {
+    "title": "One Analyst Said SpaceX Has \"Significant Moats\" and Just Put a Buy Rating on the Stock. Is He Right?",
+    "url": "https://www.fool.com/investing/2026/10/14/one-analyst-said-spacex-has-significant-moats/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "SpaceX has a lot going for it. But it has a lot to prove, too.",
+    "published_at": "2026-10-14T17:19:00+08:00",
+    "stocks": [],
+    "uid": "65c9840a2e1a2776a8b0cb3c183ba830"
+  },
+  {
+    "title": "Ukraine warns Starlink limits are disrupting military operations as Russia pounds its energy infrastructure",
+    "url": "https://www.cnbc.com/2026/10/14/russia-ukraine-energy-ceasefire-power-outages.html",
+    "source": "CNBC Top",
+    "summary": "A ballistic missile has struck energy infrastructure supposedly covered by the \"energy ceasefire\" announced by Trump on Sunday, Zelenskyy said.",
+    "published_at": "2026-10-14T17:18:18+08:00",
+    "stocks": [],
+    "uid": "aab58d3a761008e26cd3e14b62994e1e"
+  },
+  {
+    "title": "‘I earn $110,000 a year’: I lost my home in the Great Recession. I’m renting in my 50s. Why is that judged as failure?",
+    "url": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "“I lost my job and eventually my home — and it’s still hard.”",
+    "published_at": "2026-10-14T17:15:00+08:00",
+    "stocks": [],
+    "uid": "d5fe959d9e790e0d996bc4dffda80fbc"
+  },
+  {
+    "title": "The Trump Boom Could Soon End as the Bond Market Flashes a Stark Warning to Stock Investors",
+    "url": "https://www.fool.com/investing/2026/10/14/the-trump-boom-could-soon-end-as-the-bond-market-f/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This bull run might be living on borrowed time.",
+    "published_at": "2026-10-14T17:15:00+08:00",
+    "stocks": [],
+    "uid": "94597586fe546a1cbec8f16e0fc9f5c3"
+  },
+  {
+    "title": "This Vanguard Index Fund Could Turn $500 Per Month Into a $1 Million Portfolio That Pays $15,000 in Annual Dividend Income",
+    "url": "https://www.fool.com/investing/2026/10/14/index-fund-turn-500-into-1-million-pays-dividend-income/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Workers with median earnings can build sizable portfolios that pay a hefty amount of passive income.",
+    "published_at": "2026-10-14T17:12:02+08:00",
+    "stocks": [],
+    "uid": "6cf5d43735b40d3f7dda2e9d691cfb99"
+  },
+  {
+    "title": "Robinhood Markets Reports Earnings on Oct. 27. Is It a Better Buy Than Morningstar?",
+    "url": "https://www.fool.com/coverage/better-buy/2026/10/14/robinhood-markets-reports-earnings-on-oct-27-is-it-a-better-buy-than-morningstar/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Robinhood's net margins dwarf Morningstar's, but its valuation premium and regulatory risks tell a different story.",
+    "published_at": "2026-10-14T17:11:01+08:00",
+    "stocks": [],
+    "uid": "f058f2474ac16b630be1d1664f7b3ce8"
+  },
+  {
+    "title": "As Big Tech Designs Its Own AI Chips, the Companies Behind the Scenes Win",
+    "url": "https://www.fool.com/investing/2026/10/14/as-big-tech-designs-its-own-ai-chips-the-companies/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "AI needs more than GPUs, and these companies are delivering.",
+    "published_at": "2026-10-14T17:07:00+08:00",
+    "stocks": [],
+    "uid": "78d7b64861e8d102a2972f285d65f920"
+  },
+  {
+    "title": "Warren Buffett's Successor, Greg Abel, Purchased Nearly $4.8 Billion of the Oracle of Omaha's Favorite Stock This Year -- and He Likely Just Spent Several Billion More",
+    "url": "https://www.fool.com/investing/2026/10/14/warren-buffett-successor-greg-abel-buy-48-billion-oracle-of-omaha-favorite-stock-likely-spent-several-billion-more/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Greg Abel is likely deploying Berkshire Hathaway’s capital on more than just Google parent Alphabet.",
+    "published_at": "2026-10-14T17:06:01+08:00",
+    "stocks": [],
+    "uid": "5ccecf87ac678fec67465206145d462f"
+  },
+  {
+    "title": "‘Sopranos’ star Steven Van Zandt is selling his Greenwich Village penthouse for $19 million",
+    "url": "https://www.marketwatch.com/story/sopranos-star-steven-van-zandt-is-selling-his-greenwich-village-penthouse-for-19-million-ad250720?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Musician and actor Steven Van Zandt is ready to part with his Greenwich Village penthouse, hiking the price up by $4 million after initially listing it in June of this year.",
+    "published_at": "2026-10-14T17:03:00+08:00",
+    "stocks": [],
+    "uid": "af0ab878e11924c19f476cc282d40ce8"
+  },
+  {
+    "title": "Trump’s Latest Effort to Fire a Fed Official Underscores Political Motives",
+    "url": "https://www.nytimes.com/2026/10/14/business/trump-lisa-cook-federal-reserve-hearing.html",
+    "source": "NYT Business",
+    "summary": "President Trump tapped his political appointees to determine whether he could oust Lisa Cook, a Fed governor he had already tried to oust.",
+    "published_at": "2026-10-14T17:02:27+08:00",
+    "stocks": [],
+    "uid": "eae799925847b7d4c5c4a43359cc32a0"
+  },
+  {
+    "title": "Choosing a Medicare Advantage Provider for 2027 May Be Easier, but Not Perfect",
+    "url": "https://www.nytimes.com/2026/10/14/business/medicare-advantage-plan-finder.html",
+    "source": "NYT Business",
+    "summary": "The government has made improvements to the Medicare Plan Finder, a key online tool, in time for open enrollment. It helps seniors compare policies to avoid costly surprises.",
+    "published_at": "2026-10-14T17:01:25+08:00",
+    "stocks": [],
+    "uid": "b9d21eecfffcad40bad20adca1010ce2"
+  },
+  {
+    "title": "3 Bank Stocks to Buy That Raised Their Dividends at Least 14% This Year",
+    "url": "https://www.fool.com/investing/2026/10/14/3-bank-stocks-to-buy-that-raised-their-dividends-a/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "One of these 3 bank stocks stands out.",
+    "published_at": "2026-10-14T17:00:00+08:00",
+    "stocks": [],
+    "uid": "095e7e110ae07eeb299e89ac30611bfd"
+  },
+  {
+    "title": "Interesting News for Apple Stock Investors",
+    "url": "https://www.fool.com/investing/2026/10/14/interesting-news-for-apple-stock-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Investors might be overly optimistic about sales of the newest iPhones.",
+    "published_at": "2026-10-14T17:00:00+08:00",
+    "stocks": [],
+    "uid": "f3665cadceb02dbffbe63fc28749cff0"
+  },
+  {
+    "title": "Scott Bessent's growth plans aren't enough to tame surging deficit and debt pile, IMF chief says",
+    "url": "https://www.cnbc.com/2026/10/14/bond-yields-debt-deficit-treasury.html",
+    "source": "CNBC Top",
+    "summary": "IMF chief Kristalina Georgieva said Bessent’s reliance on growth won’t cut the U.S. deficit and $40 trillion debt fast enough, calling for fiscal consolidation.",
+    "published_at": "2026-10-14T16:53:35+08:00",
+    "stocks": [],
+    "uid": "3011a7f672c429592143d16144b3a69e"
+  },
+  {
+    "title": "How Investing in This Altcoin Could Make You a Millionaire",
+    "url": "https://www.fool.com/investing/2026/10/14/how-investing-in-this-altcoin-could-make-you-a-mil/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Zcash is uniquely positioned to potentially capture some of Bitcoin's glory.",
+    "published_at": "2026-10-14T16:49:00+08:00",
+    "stocks": [],
+    "uid": "18430aff6b4d41bb5b4a85a46f10b9f3"
+  },
+  {
+    "title": "Palantir Billionaire Peter Thiel Buys 2 Brilliant AI Stocks (Hint: Not Nvidia or Micron)",
+    "url": "https://www.fool.com/investing/2026/10/14/palantir-peter-thiel-buys-2-ai-stocks-not-nvidia-micron/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Billionaire investor Peter Thiel is betting heavily on two artificial intelligence stocks.",
+    "published_at": "2026-10-14T16:48:02+08:00",
+    "stocks": [],
+    "uid": "0dffd89da18ec76e3171401626c64478"
+  },
+  {
+    "title": "Chip bellwether ASML says customers are already asking to place orders — for 2030",
+    "url": "https://www.marketwatch.com/story/chip-bellwether-asml-says-customers-are-already-asking-to-place-orders-for-2030-b3aa1a90?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The Dutch supplier for the semiconductor industry said there is strong interest in placing orders for 2029 and 2030.",
+    "published_at": "2026-10-14T16:41:00+08:00",
+    "stocks": [],
+    "uid": "e9523d815468879a3d02a9f7a1c12df3"
+  },
+  {
+    "title": "This Utility Has Raised Its Dividend for 31 Straight Years. Here's the 1 Number I'd Check Before Buying.",
+    "url": "https://www.fool.com/investing/2026/10/14/utility-raised-dividend-straight-years-buy-nee/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "NextEra's earnings outlook supports another decade of dividend increases.",
+    "published_at": "2026-10-14T16:30:00+08:00",
+    "stocks": [],
+    "uid": "2f123846b06aab275720471084220e50"
+  },
+  {
+    "title": "Is Apple Stock a Buy During the Holiday Quarter?",
+    "url": "https://www.fool.com/investing/2026/10/14/is-apple-stock-a-buy-during-the-holiday-quarter/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Apple faces significant uncertainty as a new CEO takes the helm.",
+    "published_at": "2026-10-14T16:15:00+08:00",
+    "stocks": [],
+    "uid": "830ccb478074cc09a246c9821e763462"
+  },
+  {
+    "title": "Interactive Brokers Group's Next Earnings Report Tomorrow Could Send the Stock Soaring. Here's Why.",
+    "url": "https://www.fool.com/investing/2026/10/14/interactive-brokers-group-s-next-earnings-report-tomorrow-could-send-the-stock-soaring-here-s-why/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Its No. 2 revenue stream could turn out to be quite the gusher in the period.",
+    "published_at": "2026-10-14T16:06:03+08:00",
+    "stocks": [],
+    "uid": "ad68f1b609cf909f5a4e9948d49bc3ea"
+  },
+  {
+    "title": "News Flash: Trumpflation Is Expected to Ramp Up the Fed's Rate-Hiking Cycle in 2027",
+    "url": "https://www.fool.com/investing/2026/10/14/trumpflation-is-expected-to-ramp-up-fed-rate-hiking-cycle-in-2027/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Federal Open Market Committee (FOMC) policymakers aren’t anywhere close to their goal of delivering price stability -- and that’s bad news for Wall Street.",
+    "published_at": "2026-10-14T16:06:02+08:00",
+    "stocks": [
+      "FOMC"
+    ],
+    "uid": "5dd1a9a8b6ee681d7d11647538b62bec"
+  },
+  {
+    "title": "The Stock Market Is Making a Move That Warren Buffett Has Warned About. Here's What History Says Comes Next.",
+    "url": "https://www.fool.com/investing/2026/10/14/the-stock-market-is-making-a-move-that-warren-buff/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Maybe history won't repeat itself this time around. But maybe it will.",
+    "published_at": "2026-10-14T16:04:00+08:00",
+    "stocks": [],
+    "uid": "76f4d996b6aeb7b664fbda6f4c856a4d"
+  },
+  {
+    "title": "Looking for Upside? These Cryptocurrencies Have the Potential to Double in Value in 2027.",
+    "url": "https://www.fool.com/investing/2026/10/14/looking-for-upside-these-cryptocurrencies-are-like/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "A surprising number of cryptocurrencies have soared recently, and could be worth a closer look in 2027.",
+    "published_at": "2026-10-14T16:00:00+08:00",
+    "stocks": [],
+    "uid": "44f90ac12b39d8bc26f3fa26453dc3af"
+  },
+  {
+    "title": "Micron's Customer Contracts Just Took the Memory Cycle Off the Table",
+    "url": "https://www.fool.com/investing/2026/10/14/microns-customer-contracts-just-took-the-memory-cy/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The chipmaker is capitalizing on the memory shortage to lock in years-long deals with key customers.",
+    "published_at": "2026-10-14T15:55:00+08:00",
+    "stocks": [],
+    "uid": "60cbb3855e8e19ac91951007a4e8e17d"
+  },
+  {
+    "title": "Vanguard's Value ETF Is Beating Its Growth ETF in 2026. That Has Happened Only 3 Times Since 2012.",
+    "url": "https://www.fool.com/investing/2026/10/14/vanguard-s-value-etf-is-beating-its-growth-etf-in-2026-that-has-happened-only-3-times-since-2012/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "What happened the year after the value fund's wins in 2013, 2016 and 2022?",
+    "published_at": "2026-10-14T15:47:02+08:00",
+    "stocks": [],
+    "uid": "3e1bdf308bfade3bc0ecea721d15c304"
+  },
+  {
+    "title": "Nike Is Down 80% From Its High. Here's the Only Number That Matters.",
+    "url": "https://www.fool.com/investing/2026/10/14/nike-down-high-only-number-that-matters/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Disappointing guidance only adds to the bearish sentiment surrounding the stock.",
+    "published_at": "2026-10-14T15:45:00+08:00",
+    "stocks": [],
+    "uid": "75f517f55291182b299b2c0b390a6519"
+  },
+  {
+    "title": "Musk Blames Tycoon for Stalling Satellite Internet Access in India",
+    "url": "https://www.nytimes.com/2026/10/14/business/india-elon-musk-starlink.html",
+    "source": "NYT Business",
+    "summary": "As Starlink seeks permission to operate in India, a recent protest in New Delhi showed how quickly authorities can cut off mobile internet access.",
+    "published_at": "2026-10-14T15:32:09+08:00",
+    "stocks": [],
+    "uid": "9d8d25d4dc99ca152a8abe4a7f576b78"
+  },
+  {
+    "title": "No Single Customer Accounts for 10% of Micron's Sales Anymore, and That Lowers One Risk in the Stock",
+    "url": "https://www.fool.com/investing/2026/10/14/no-single-customer-accounts-for-10-of-micron-s-sales-anymore-and-that-lowers-one-risk-in-the-stock/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "One buyer supplied 17% of the memory chipmaker's revenue a year ago. Did it buy less, or did everyone else buy more?",
+    "published_at": "2026-10-14T15:13:02+08:00",
+    "stocks": [],
+    "uid": "a93a23cb713eb30af88459f8e887fb0b"
+  },
+  {
+    "title": "Prediction: These 3 Dividend Stocks Will Raise Their Payouts No Matter What the Market Does",
+    "url": "https://www.fool.com/investing/2026/10/14/prediction-these-3-dividend-stocks-will-raise-thei/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "These three dividend stocks sell products people buy out of necessity rather than by choice, making their next payout increase feel less like hope and more like a certainty.",
+    "published_at": "2026-10-14T14:30:00+08:00",
+    "stocks": [],
+    "uid": "f323180262abd4ec952d4601000b01db"
+  },
+  {
     "title": "Federal Judge Again Blocks Trump’s Ban on CNN, MS NOW and Politico",
     "url": "https://www.nytimes.com/2026/10/13/business/media/cnn-ms-now-and-politico-ban-ruling.html",
     "source": "NYT Business",
@@ -966,6 +1657,15 @@
     "summary_en": "",
     "title_zh": "交易日：財報季首度亮相，評價褒貶不一",
     "summary_zh": ""
+  },
+  {
+    "title": "United Airlines is making it harder to reach its top frequent flyer status in 2027",
+    "url": "https://www.cnbc.com/2026/10/13/united-flight-segments-earn-elite-status.html",
+    "source": "CNBC Top",
+    "summary": "United Airlines is doing away with flight segment as a way to reach Premier status and increasing the spending requirements for Premier 1K.",
+    "published_at": "2026-10-14T05:02:43+08:00",
+    "stocks": [],
+    "uid": "1ca93bc4ba66d96ca58e78c3e0a31d46"
   },
   {
     "title": "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market",
