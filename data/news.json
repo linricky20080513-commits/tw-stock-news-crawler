@@ -13,13 +13,266 @@
     "summary_en": "The autonomic nervous system is a key system that maintains our life activities. It delicately regulates the precise operation of internal organs and neuroendocrine systems, including breathing, heartbeat, blood circulation, blood pressure, body temperature, perspiration, gastrointestinal digestion, reproduction, hormone secretion, sleep and metabolism, etc. This system is composed of sympathetic nerves and parasympathetic nerves. The sympathetic nerve is like the accelerator of a car, responsible for accelerating; the parasympathetic nerve is like the brake, responsible for slowing down. The balance and coordination between these two is essential to keep our life moving.\n\nWu Jiahong pointed out that modern people’s busy life pace and generally unhealthy lifestyle can easily destroy this balance, leading to imbalance of the sympathetic and parasympathetic nervous systems, which in turn can lead to various symptoms, such as dizziness, inattention, memory loss, abnormal heartbeat and blood pressure, chest tightness, mood swings, anxiety and irritability, poor sleep quality, digestive problems, metabolic abnormalities and immune system diseases, etc., affecting the whole body from head to toe. When middle-aged women face these symptoms that they have never experienced before, they often worry about their health conditions and seek various medical assistance. However, autonomic nervous system disorders are difficult to diagnose during routine health examinations, which increases their anxiety and worry. Fortunately, with the popularity of online information, many people are beginning to realize that these symptoms may stem from autonomic nervous system disorders."
   },
   {
+    "title": "韓國研發 100 吋「發聲顯示器」，聲音隨畫面移動準確率達 99.9%",
+    "url": "https://technews.tw/2026/10/21/your-next-tv-could-play-sound-from-the-exact-spot-where-the-action-happens/",
+    "source": "科技新報",
+    "summary": "韓國機械研究院（KIMM）把螢幕本身變成喇叭，聲音會跟著畫面中的人物或物體移動，100 吋原型定位準確率達 9 [&#8230;]",
+    "published_at": "2026-10-21T08:10:54+08:00",
+    "stocks": [],
+    "uid": "02e236d104879121267b8ab28a782213",
+    "title_zh": "韓國研發 100 吋「發聲顯示器」，聲音隨畫面移動準確率達 99.9%",
+    "summary_zh": "韓國機械研究院（KIMM）把螢幕本身變成喇叭，聲音會跟著畫面中的人物或物體移動，100 吋原型定位準確率達 9 [&#8230;]",
+    "title_en": "South Korea develops 100-inch \"sound display\" with 99.9% accuracy when sound moves with the screen",
+    "summary_en": "The Korea Institute of Mechanical Engineering (KIMM) turns the screen itself into a speaker, and the sound will follow the characters or objects in the screen. The 100-inch prototype has a positioning accuracy of 9 […]"
+  },
+  {
+    "title": "鉅亨速報 - Factset 最新調查：藥華藥(6446-TW)EPS預估下修至26.71元，預估目標價為1600元",
+    "url": "https://news.cnyes.com/news/id/6634683",
+    "source": "鉅亨網",
+    "summary": "",
+    "published_at": "2026-10-21T08:10:32+08:00",
+    "stocks": [
+      "TWS:6446:STOCK"
+    ],
+    "uid": "16cc70281165f4ab0c83272ccfb65a21",
+    "title_zh": "鉅亨速報 - Factset 最新調查：藥華藥(6446-TW)EPS預估下修至26.71元，預估目標價為1600元",
+    "summary_zh": "",
+    "title_en": "Juheng Express - Factset latest survey: Yaohua Pharmaceutical (6446-TW) EPS estimate is revised down to 26.71 yuan, with an estimated target price of 1,600 yuan",
+    "summary_en": ""
+  },
+  {
+    "title": "鉅亨速報 - Factset 最新調查：大立光(3008-TW)EPS預估下修至163.72元，預估目標價為8250元",
+    "url": "https://news.cnyes.com/news/id/6634682",
+    "source": "鉅亨網",
+    "summary": "",
+    "published_at": "2026-10-21T08:10:31+08:00",
+    "stocks": [
+      "TWS:3008:STOCK"
+    ],
+    "uid": "34c7e2f66c94f0dd26ab92ac341f9791",
+    "title_zh": "鉅亨速報 - Factset 最新調查：大立光(3008-TW)EPS預估下修至163.72元，預估目標價為8250元",
+    "summary_zh": "",
+    "title_en": "Juheng Express - Factset latest survey: Largan (3008-TW) EPS estimate is revised down to 163.72 yuan, and the estimated target price is 8,250 yuan",
+    "summary_en": ""
+  },
+  {
+    "title": "鉅亨速報 - Factset 最新調查：保瑞(6472-TW)EPS預估下修至15.75元，預估目標價為507元",
+    "url": "https://news.cnyes.com/news/id/6634681",
+    "source": "鉅亨網",
+    "summary": "",
+    "published_at": "2026-10-21T08:10:29+08:00",
+    "stocks": [
+      "TWS:6472:STOCK"
+    ],
+    "uid": "2ad0c1313f8dde327b732e021fbbb65f",
+    "title_zh": "鉅亨速報 - Factset 最新調查：保瑞(6472-TW)EPS預估下修至15.75元，預估目標價為507元",
+    "summary_zh": "",
+    "title_en": "Juheng Express - Factset latest survey: Baorui (6472-TW) EPS estimate is revised down to 15.75 yuan, and the estimated target price is 507 yuan",
+    "summary_en": ""
+  },
+  {
+    "title": "鉅亨速報 - Factset 最新調查：晶碩(6491-TW)目標價調升至425元，幅度約3.03%",
+    "url": "https://news.cnyes.com/news/id/6634680",
+    "source": "鉅亨網",
+    "summary": "",
+    "published_at": "2026-10-21T08:10:19+08:00",
+    "stocks": [
+      "TWS:6491:STOCK"
+    ],
+    "uid": "9f2e8effb4188bac5f1aa42736d53e63",
+    "title_zh": "鉅亨速報 - Factset 最新調查：晶碩(6491-TW)目標價調升至425元，幅度約3.03%",
+    "summary_zh": "",
+    "title_en": "Juheng Express - Factset latest survey: Jingshuo (6491-TW) target price raised to 425 yuan, a range of approximately 3.03%",
+    "summary_en": ""
+  },
+  {
+    "title": "免費 Adobe 對標軟體大放送，AI 會摧毀軟體業嗎？",
+    "url": "https://technews.tw/2026/10/21/ai-destroy-software-industry/",
+    "source": "科技新報",
+    "summary": "如果幾年前有人說，只靠一名開發者加上幾個 AI 就能在短時間內做出類似 Photoshop、Premiere、 [&#8230;]",
+    "published_at": "2026-10-21T08:00:15+08:00",
+    "stocks": [],
+    "uid": "49558dd17c04b050f42e50cb9268df69",
+    "title_zh": "免費 Adobe 對標軟體大放送，AI 會摧毀軟體業嗎？",
+    "summary_zh": "如果幾年前有人說，只靠一名開發者加上幾個 AI 就能在短時間內做出類似 Photoshop、Premiere、 [&#8230;]",
+    "title_en": "Free Adobe benchmarking software is given away. Will AI destroy the software industry?",
+    "summary_en": "If someone said a few years ago that just one developer and a few AIs could make something like Photoshop, Premiere, […]"
+  },
+  {
+    "title": "瑤池金母新增成分股！大買緯創4703張、5檔科技股同步加碼",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5613032",
+    "source": "自由財經",
+    "summary": "市場上有「瑤池金母」之稱的基金經理人陳釧瑤操盤的主動統一台股增長（00981A）最新動向出爐，根據昨（20日）操作日報顯示，00981A當天共調整6檔持股，其中新增緯創（...…",
+    "published_at": "2026-10-21T08:00:00+08:00",
+    "stocks": [
+      "00981A",
+      "3231"
+    ],
+    "uid": "62a8944f7cf2c9455e270d2018dc386a",
+    "title_zh": "瑤池金母新增成分股！大買緯創4703張、5檔科技股同步加碼",
+    "summary_zh": "市場上有「瑤池金母」之稱的基金經理人陳釧瑤操盤的主動統一台股增長（00981A）最新動向出爐，根據昨（20日）操作日報顯示，00981A當天共調整6檔持股，其中新增緯創（...…",
+    "title_en": "Yaochi Golden Mother has added new constituent stocks! Big buy of Wistron 4703 shares, 5 technology stocks increased simultaneously",
+    "summary_en": "The latest trends in the active unified Taiwan stock growth (00981A) operated by fund manager Chen Chuanyao, known as the \"Golden Mother of Yaochi\" in the market, have been released. According to the daily operation report yesterday (20th), 00981A adjusted a total of 6 holdings that day, among which Wistron (..."
+  },
+  {
+    "title": "特斯拉、SpaceX真要合併了！馬斯克證實雙方成立特別委員會",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5613082",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕馬斯克旗下兩大企業特斯拉（Tesla）與太空探索公司（SpaceX）的合併傳聞有了重大進展！馬斯克10月20日在SpaceX第3季財報電話會議上證實，兩家公司已成立特別委員...…",
+    "published_at": "2026-10-21T07:56:30+08:00",
+    "stocks": [],
+    "uid": "43f1cd8c5cd3cc15a1dd4c31d29dd408",
+    "title_zh": "特斯拉、SpaceX真要合併了！馬斯克證實雙方成立特別委員會",
+    "summary_zh": "〔財經頻道／綜合報導〕馬斯克旗下兩大企業特斯拉（Tesla）與太空探索公司（SpaceX）的合併傳聞有了重大進展！馬斯克10月20日在SpaceX第3季財報電話會議上證實，兩家公司已成立特別委員...…",
+    "title_en": "Tesla and SpaceX are really going to merge! Musk confirms the formation of a special committee",
+    "summary_en": "[Financial Channel/Comprehensive Report] Rumors about the merger of Musk's two major companies, Tesla and SpaceX, have made significant progress! Musk confirmed during SpaceX’s third quarter earnings call on October 20 that the two companies had established a special committee..."
+  },
+  {
+    "title": "營收速報 - 2026年10月21日台股中小型公司9月營收一覽（新增6家）",
+    "url": "https://news.cnyes.com/news/id/6634672",
+    "source": "鉅亨網",
+    "summary": "",
+    "published_at": "2026-10-21T07:55:11+08:00",
+    "stocks": [
+      "TWS:1516:STOCK",
+      "TWS:6278:STOCK",
+      "TWS:4113:STOCK",
+      "TWS:6219:STOCK",
+      "TWS:5529:STOCK",
+      "TWS:6171:STOCK",
+      "TWG:6875:STOCK",
+      "TWS:6934:STOCK",
+      "TWS:5455:STOCK",
+      "TWS:5704:STOCK",
+      "TWG:7954:STOCK",
+      "TWG:3473:STOCK",
+      "TWG:6648:STOCK"
+    ],
+    "uid": "ecdd8ad4fd0c71e3aa77f84f4637605d",
+    "title_zh": "營收速報 - 2026年10月21日台股中小型公司9月營收一覽（新增6家）",
+    "summary_zh": "",
+    "title_en": "Revenue flash report - September revenue list of Taiwanese small and medium-sized companies on October 21, 2026 (6 new companies)",
+    "summary_en": ""
+  },
+  {
+    "title": "營收速報 - 2026年10月21日台股大型公司9月營收一覽（新增11家）",
+    "url": "https://news.cnyes.com/news/id/6634671",
+    "source": "鉅亨網",
+    "summary": "",
+    "published_at": "2026-10-21T07:55:10+08:00",
+    "stocks": [
+      "TWS:1312:STOCK",
+      "TWS:2885:STOCK",
+      "TWS:2886:STOCK",
+      "TWS:6443:STOCK",
+      "TWS:1808:STOCK",
+      "TWS:8926:STOCK",
+      "TWS:6901:STOCK",
+      "TWS:2408:STOCK",
+      "TWS:5213:STOCK",
+      "TWS:2530:STOCK",
+      "TWS:4938:STOCK",
+      "TWS:2540:STOCK",
+      "TWS:2542:STOCK"
+    ],
+    "uid": "0e45e88632b3d678b4b440d9f3994c60",
+    "title_zh": "營收速報 - 2026年10月21日台股大型公司9月營收一覽（新增11家）",
+    "summary_zh": "",
+    "title_en": "Revenue flash report - September revenue list of large Taiwanese companies on October 21, 2026 (11 new companies)",
+    "summary_en": ""
+  },
+  {
+    "title": "Claude 半小時解開 26 年密碼學謎題，揭 NIST 曲線種子來自系統時間",
+    "url": "https://technews.tw/2026/10/21/claude-solves-mystery-behind-nist-curve-seeds/",
+    "source": "科技新報",
+    "summary": "Anthropic 10 月 16 日公布，旗下 Claude 內部研究模型花費不到半小時，成功找出困擾密碼學 [&#8230;]",
+    "published_at": "2026-10-21T07:50:12+08:00",
+    "stocks": [],
+    "uid": "a1455b69b74cf1f59a57e0aec437af86",
+    "title_zh": "Claude 半小時解開 26 年密碼學謎題，揭 NIST 曲線種子來自系統時間",
+    "summary_zh": "Anthropic 10 月 16 日公布，旗下 Claude 內部研究模型花費不到半小時，成功找出困擾密碼學 [&#8230;]",
+    "title_en": "Claude solved a 26-year-old cryptography mystery in half an hour and revealed that the NIST curve seed comes from the system time",
+    "summary_en": "Anthropic announced on October 16 that its Claude internal research model took less than half an hour to successfully identify the troublesome cryptography […]"
+  },
+  {
+    "title": "Vibe Coding 改造家中智慧電視，移除廣告與臃腫軟體",
+    "url": "https://technews.tw/2026/10/21/dumbing-down-smart-tvs-to-eliminate-unnecessary-features/",
+    "source": "科技新報",
+    "summary": "原本設計用於提供推薦內容、廣告及各種附加服務的智慧電視，現在卻有多名開發者以及 Vibe Coding 愛好者 [&#8230;]",
+    "published_at": "2026-10-21T07:44:53+08:00",
+    "stocks": [],
+    "uid": "279b258c4ff3be91062dbb2450fc9686",
+    "title_zh": "Vibe Coding 改造家中智慧電視，移除廣告與臃腫軟體",
+    "summary_zh": "原本設計用於提供推薦內容、廣告及各種附加服務的智慧電視，現在卻有多名開發者以及 Vibe Coding 愛好者 [&#8230;]",
+    "title_en": "Vibe Coding transforms your home smart TV, removing ads and bloated software",
+    "summary_en": "Smart TVs, originally designed to provide recommended content, advertisements and various additional services, now have many developers and Vibe Coding enthusiasts […]"
+  },
+  {
     "title": "自駕車上路前的魔鬼考官，Laplace Intelligence 用 AI 代理打造極端情境模擬",
     "url": "https://technews.tw/2026/10/21/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
     "source": "科技新報",
     "summary": "來自美國密西根州安娜堡的 Laplace Intelligence，正把「先找出失敗，再上路部署」變成一門生意 [&#8230;]",
     "published_at": "2026-10-21T07:40:25+08:00",
     "stocks": [],
-    "uid": "5840ba69c7e0c634fdce0429c03d085b"
+    "uid": "5840ba69c7e0c634fdce0429c03d085b",
+    "title_zh": "自駕車上路前的魔鬼考官，Laplace Intelligence 用 AI 代理打造極端情境模擬",
+    "summary_zh": "來自美國密西根州安娜堡的 Laplace Intelligence，正把「先找出失敗，再上路部署」變成一門生意 [&#8230;]",
+    "title_en": "The devil’s examiner before self-driving cars hit the road, Laplace Intelligence uses AI agents to create extreme situation simulations",
+    "summary_en": "Laplace Intelligence from Ann Arbor, Michigan, USA, is turning “find failures first, then deploy” into a business […]"
+  },
+  {
+    "title": "股市創高，資金為何轉向短債？　理財達人郭俊宏揭非投等債ETF挑選心法",
+    "url": "https://www.mirrormedia.mg/story/20261020edi094",
+    "source": "鏡週刊財經",
+    "summary": "<p>股市屢創新高，投資人的目光仍多半跟著AI題材走，但也有人開始思考，萬一行情震盪加劇，手上的資產能不能多一層保護。理財達人郭俊宏指出，觀察債券不能只看殖利率，還要把利率風險、信用評等與自己的現金流需求放在一起評估。他建議，想兼顧收益、又不想承擔太大利率波動的投資人，可以考慮規模大、管理費低，且所持債券信用評等較高的短天期非投資等級債ETF，作為資產配置的一環。</p>",
+    "published_at": "2026-10-21T07:30:00+08:00",
+    "stocks": [],
+    "uid": "baf2af22e5c61e6226f572e87391d14d",
+    "title_zh": "股市創高，資金為何轉向短債？　理財達人郭俊宏揭非投等債ETF挑選心法",
+    "summary_zh": "<p>股市屢創新高，投資人的目光仍多半跟著AI題材走，但也有人開始思考，萬一行情震盪加劇，手上的資產能不能多一層保護。理財達人郭俊宏指出，觀察債券不能只看殖利率，還要把利率風險、信用評等與自己的現金流需求放在一起評估。他建議，想兼顧收益、又不想承擔太大利率波動的投資人，可以考慮規模大、管理費低，且所持債券信用評等較高的短天期非投資等級債ETF，作為資產配置的一環。</p>",
+    "title_en": "As the stock market hits highs, why do funds turn to short-term bonds? Financial expert Guo Junhong reveals his tips for selecting non-investment and other debt ETFs",
+    "summary_en": "<p>The stock market has repeatedly hit new highs, and investors are still mostly following the AI ​​theme, but some people are starting to think about whether the assets in their hands can be protected by an extra layer if the market volatility intensifies. Financial expert Guo Junhong pointed out that when observing bonds, you should not only look at the yield rate, but also evaluate the interest rate risk, credit rating and your own cash flow needs together. He suggested that investors who want to take into account returns but do not want to bear too much interest rate fluctuations can consider short-term non-investment grade debt ETFs with large scale, low management fees, and high bond credit ratings as part of their asset allocation. </p>"
+  },
+  {
+    "title": "錢鏡你家1／9月抱3000萬現金等大跌！鍾國忠持股加至8成　曝最新操作術",
+    "url": "https://www.mirrormedia.mg/story/20261020-183mon-163652",
+    "source": "鏡週刊財經",
+    "summary": "<p>早在9月市場一片樂觀、瘋喊5萬點時，盈利投資董事長鍾國忠就提前踩煞車，將現金水位提高至3,000萬元，等待拉回買點，近期台股重挫，他透露持股已提高至8成，並公開4大風險區間，教戰在震盪行情中靈活調整持股，掌握進退時機。</p>",
+    "published_at": "2026-10-21T07:30:00+08:00",
+    "stocks": [],
+    "uid": "e00d8733569e7a0aa1394dae0151f705",
+    "title_zh": "錢鏡你家1／9月抱3000萬現金等大跌！鍾國忠持股加至8成　曝最新操作術",
+    "summary_zh": "<p>早在9月市場一片樂觀、瘋喊5萬點時，盈利投資董事長鍾國忠就提前踩煞車，將現金水位提高至3,000萬元，等待拉回買點，近期台股重挫，他透露持股已提高至8成，並公開4大風險區間，教戰在震盪行情中靈活調整持股，掌握進退時機。</p>",
+    "title_en": "Qian Jingni’s family held 30 million in cash in January/September and it plummeted! Zhong Guozhong increases his shareholding to 80% and reveals the latest operating techniques",
+    "summary_en": "<p>As early as September, when the market was optimistic and the market was shouting at 50,000 points, profit investment chairman Zhong Guozhong put on the brakes in advance and raised the cash level to 30 million yuan, waiting to bring back the buying point. Recently, the Taiwan stock market has plummeted. He revealed that his shareholding has been increased to 80%, and disclosed the four major risk ranges. He taught Zhan to flexibly adjust the shareholding in the volatile market and grasp the timing of advance and retreat. </p>"
+  },
+  {
+    "title": "TPCA Show 2026登場 玻璃基板、TGV 成 AI 封裝新焦點",
+    "url": "https://money.udn.com/money/story/5607/9827568",
+    "source": "經濟日報",
+    "summary": "第27屆台灣電路板產業國際展覽會（TPCA Show 2026）將於10月20日至22日在南港展覽館1館登場，同期還有台北國際電子產業科技展（TAITRONICS）與台灣國際人工智慧暨物聯網展（AIoT Taiwan）。AI硬體供應鏈從電路板、材料、設備到終端應用三展齊聚，被市場視為觀察明年AI硬體規格走向的重要窗口。",
+    "published_at": "2026-10-21T07:29:52+08:00",
+    "stocks": [],
+    "uid": "d94b9535021bc028f85c1348da249891",
+    "title_zh": "TPCA Show 2026登場 玻璃基板、TGV 成 AI 封裝新焦點",
+    "summary_zh": "第27屆台灣電路板產業國際展覽會（TPCA Show 2026）將於10月20日至22日在南港展覽館1館登場，同期還有台北國際電子產業科技展（TAITRONICS）與台灣國際人工智慧暨物聯網展（AIoT Taiwan）。AI硬體供應鏈從電路板、材料、設備到終端應用三展齊聚，被市場視為觀察明年AI硬體規格走向的重要窗口。",
+    "title_en": "TPCA Show 2026 debuts, glass substrate, TGV become new focus of AI packaging",
+    "summary_en": "The 27th Taiwan Circuit Board Industry International Exhibition (TPCA Show 2026) will be held at Nangang Exhibition Center Hall 1 from October 20 to 22. During the same period, there will also be the Taipei International Electronics Industry Technology Show (TAITRONICS) and the Taiwan International Artificial Intelligence and Internet of Things Exhibition (AIoT Taiwan). The three exhibitions of the AI ​​hardware supply chain, from circuit boards, materials, equipment to terminal applications, are regarded by the market as an important window for observing the direction of AI hardware specifications next year."
+  },
+  {
+    "title": "錢鏡你家2／30年股海悟出3字訣！投顧前老總點名2檔好股　賺息又賺價差",
+    "url": "https://www.mirrormedia.mg/story/20261020-183mon-164207",
+    "source": "鏡週刊財經",
+    "summary": "<p>投資不是找最便宜的股票，而是要找對的股票，日盛投顧前總經理鍾國忠征戰股海30年，公開他的壓箱寶「益殖營（一直贏）」選股策略，從營收成長率、毛利率與殖利率等3大指標，精挑具下檔保護及成長性的好股。</p>",
+    "published_at": "2026-10-21T07:29:00+08:00",
+    "stocks": [
+      "3095"
+    ],
+    "uid": "c5b9bcf8726aab8e4bfa757f43fef654",
+    "title_zh": "錢鏡你家2／30年股海悟出3字訣！投顧前老總點名2檔好股　賺息又賺價差",
+    "summary_zh": "<p>投資不是找最便宜的股票，而是要找對的股票，日盛投顧前總經理鍾國忠征戰股海30年，公開他的壓箱寶「益殖營（一直贏）」選股策略，從營收成長率、毛利率與殖利率等3大指標，精挑具下檔保護及成長性的好股。</p>",
+    "title_en": "Qian Jingyou’s 2/30-year stock market has figured out the 3-character secret! A former investment consultant named 2 good stocks to earn interest and price differences",
+    "summary_en": "<p>Investment is not about finding the cheapest stocks, but about finding the right stocks. Zhong Guozhong, the former general manager of Risheng Investment Consulting, has been in the stock market for 30 years and disclosed his stock selection strategy \"Yizhengying (always winning)\", which carefully selects good stocks with downside protection and growth potential based on three major indicators: revenue growth rate, gross profit margin and yield rate. </p>"
   },
   {
     "title": "免除高風險開心手術，微型機器人讓數週心臟治療縮至一天",
@@ -28,7 +281,11 @@
     "summary": "美國約翰霍普金斯大學（Johns Hopkins University）工程團隊近期開發出一款磁控「毫米機器人 [&#8230;]",
     "published_at": "2026-10-21T07:20:25+08:00",
     "stocks": [],
-    "uid": "79160434ebc4bf8ea0be14d264366505"
+    "uid": "79160434ebc4bf8ea0be14d264366505",
+    "title_zh": "免除高風險開心手術，微型機器人讓數週心臟治療縮至一天",
+    "summary_zh": "美國約翰霍普金斯大學（Johns Hopkins University）工程團隊近期開發出一款磁控「毫米機器人 [&#8230;]",
+    "title_en": "Avoiding high-risk open heart surgery, micro-robots reduce weeks of heart treatment to just one day",
+    "summary_en": "The engineering team of Johns Hopkins University in the United States recently developed a magnetically controlled \"millimeter robot [...]"
   },
   {
     "title": "OpenCode 遭大規模 AI 蒸餾攻擊，用戶 API Key 恐外洩",
@@ -37,7 +294,11 @@
     "summary": "開源 AI 編程工具 OpenCode 於 10 月 17 日證實發生安全事故，事件與大規模 AI 模型蒸餾攻 [&#8230;]",
     "published_at": "2026-10-21T07:10:12+08:00",
     "stocks": [],
-    "uid": "6108d4f3cbc8dd7ef3f6f7f4dda0b5d5"
+    "uid": "6108d4f3cbc8dd7ef3f6f7f4dda0b5d5",
+    "title_zh": "OpenCode 遭大規模 AI 蒸餾攻擊，用戶 API Key 恐外洩",
+    "summary_zh": "開源 AI 編程工具 OpenCode 於 10 月 17 日證實發生安全事故，事件與大規模 AI 模型蒸餾攻 [&#8230;]",
+    "title_en": "OpenCode suffered a large-scale AI distillation attack, and user API Keys may have been leaked",
+    "summary_en": "The open source AI programming tool OpenCode confirmed a security incident on October 17, and the incident was related to a large-scale AI model distillation attack […]"
   },
   {
     "title": "4,000 萬美元徵求防空無人艇，美軍要求 120 天內可部署",
@@ -46,7 +307,11 @@
     "summary": "為了降低艦隊應付無人機等低成本威脅的負擔，美國國防創新單位（Defense Innovation Unit，D [&#8230;]",
     "published_at": "2026-10-21T07:00:48+08:00",
     "stocks": [],
-    "uid": "41cc5d9661f2a2816c9403f7f2bb8ad6"
+    "uid": "41cc5d9661f2a2816c9403f7f2bb8ad6",
+    "title_zh": "4,000 萬美元徵求防空無人艇，美軍要求 120 天內可部署",
+    "summary_zh": "為了降低艦隊應付無人機等低成本威脅的負擔，美國國防創新單位（Defense Innovation Unit，D [&#8230;]",
+    "title_en": "US$40 million soliciting for anti-aircraft drones, US military requires deployment within 120 days",
+    "summary_en": "In order to reduce the burden on the fleet to deal with low-cost threats such as drones, the US Defense Innovation Unit (Defense Innovation Unit, D […]"
   },
   {
     "title": "2026 年衛星 IoT 供應鏈動態：融入既有通訊體系，價值向終端與服務延伸",
@@ -55,7 +320,11 @@
     "summary": "2026 年全球衛星 IoT 市場的競爭焦點，已逐步由星座數量與覆蓋範圍，轉向頻譜、衛星網路與電信商接入等關鍵 [&#8230;]",
     "published_at": "2026-10-21T07:00:45+08:00",
     "stocks": [],
-    "uid": "6eb89c6ac741c63e96147dc2c9db3335"
+    "uid": "6eb89c6ac741c63e96147dc2c9db3335",
+    "title_zh": "2026 年衛星 IoT 供應鏈動態：融入既有通訊體系，價值向終端與服務延伸",
+    "summary_zh": "2026 年全球衛星 IoT 市場的競爭焦點，已逐步由星座數量與覆蓋範圍，轉向頻譜、衛星網路與電信商接入等關鍵 [&#8230;]",
+    "title_en": "Satellite IoT supply chain trends in 2026: Integrating into existing communication systems, extending value to terminals and services",
+    "summary_en": "The focus of competition in the global satellite IoT market in 2026 has gradually shifted from the number and coverage of constellations to key issues such as spectrum, satellite networks and telecom provider access […]"
   },
   {
     "title": "豪宅始祖「致和園」閒置22年無人住 最快第4季拆除重建",
@@ -64,7 +333,11 @@
     "summary": "比「仁愛帝寶」還要早、全台首個每坪開價站上百萬元的豪宅始祖「致和園」，因家族產權問題導致蓋好就沒有人搬進去住過且時間長達22年，可說是「閒置」最久的豪宅，如今都更程序快要...…",
     "published_at": "2026-10-21T07:00:00+08:00",
     "stocks": [],
-    "uid": "66f40eae49cdea4356dcdaa190377d36"
+    "uid": "66f40eae49cdea4356dcdaa190377d36",
+    "title_zh": "豪宅始祖「致和園」閒置22年無人住 最快第4季拆除重建",
+    "summary_zh": "比「仁愛帝寶」還要早、全台首個每坪開價站上百萬元的豪宅始祖「致和園」，因家族產權問題導致蓋好就沒有人搬進去住過且時間長達22年，可說是「閒置」最久的豪宅，如今都更程序快要...…",
+    "title_en": "The ancestor of the luxury mansion \"Zhihe Yuan\" has been idle for 22 years and no one has lived in it. It will be demolished and rebuilt as soon as the fourth quarter.",
+    "summary_en": "\"Zhihe Yuan\" is older than \"Ren Ai Di Bao\" and the first luxury house in Taiwan with an asking price of more than one million yuan per square meter. Due to family property rights issues, no one has moved in since it was built and it has been as long as 22 years. It can be said to be the longest \"idle\" luxury house. Now it is about to be updated..."
   },
   {
     "title": "LTN經濟通》無限量印鈔致崩盤 美國是鼻祖",
@@ -73,7 +346,11 @@
     "summary": "大陸幣重貶 最終以40元紙鈔換1銀幣\n\n\n〔財經頻道／綜合報導〕政府面對財政困境，能靠印鈔解決問題嗎？在世界歷史中，最具代表性的事件，莫過於1921年至1923年間威瑪共和國時期的德國，巨額的一...…",
     "published_at": "2026-10-21T07:00:00+08:00",
     "stocks": [],
-    "uid": "6c73b9151a3eaee9351c506b12482cb9"
+    "uid": "6c73b9151a3eaee9351c506b12482cb9",
+    "title_zh": "LTN經濟通》無限量印鈔致崩盤 美國是鼻祖",
+    "summary_zh": "大陸幣重貶 最終以40元紙鈔換1銀幣\n\n\n〔財經頻道／綜合報導〕政府面對財政困境，能靠印鈔解決問題嗎？在世界歷史中，最具代表性的事件，莫過於1921年至1923年間威瑪共和國時期的德國，巨額的一...…",
+    "title_en": "LTN Economic Express》Unlimited money printing leads to collapse The United States is the originator",
+    "summary_en": "Mainland China currency depreciates heavily, with 40-yuan banknotes exchanged for 1 silver coin\n\n\n[Financial Channel/Comprehensive Report] The government is facing financial difficulties. Can it solve the problem by printing money? In world history, the most representative event is that in Germany during the Weimar Republic from 1921 to 1923, when a huge amount of money..."
   },
   {
     "title": "10月21日重要財經行事曆",
@@ -89,7 +366,11 @@
       "2892",
       "3052"
     ],
-    "uid": "0d98e1f8ee5a5dde2c639fbf05b109ab"
+    "uid": "0d98e1f8ee5a5dde2c639fbf05b109ab",
+    "title_zh": "10月21日重要財經行事曆",
+    "summary_zh": "台灣\n三三會\n股東臨時會：永崴投控\n除權息：主動第一金優股息、復華台灣科技優息、主動復華金融債息\n法人說明會：美吾華、夆典、懷特、安克、杰力\n興櫃登錄：廣騰、第一傳動\n國際\n日本9月貿易收支\n財報：特斯拉、Meta、德儀、IBM（美股盤後）",
+    "title_en": "Important financial calendar for October 21",
+    "summary_en": "Taiwan\n三三会\nExtraordinary shareholders meeting: Yongwei Investment Holdings\nEx-rights dividend: Active First Gold Premium Dividend, Fuhua Taiwan Technology Premium Dividend, Active Fuhua Financial Bond Interest\nLegal person briefing session: Meiwuhua, Yuandian, White, Anke, Jieli\nNew cabinet login: Guangteng, First Transmission\nInternational\nJapan’s trade balance in September\nEarnings reports: Tesla, Meta, TI, IBM (U.S. stocks after hours)"
   },
   {
     "title": "北台灣下午變天 強颱薔琵並列風王 吳德榮曝登陸機率、周五威脅最劇烈",
@@ -98,7 +379,11 @@
     "summary": "今天上半天天氣仍穩定，中央大學大氣科學系兼任副教授吳德榮在「氣象應用推廣基金會」的「洩天機教室」專欄表示，下午起東北季風漸增強，北台灣轉有雨，明天迎風面雨勢逐漸增大，背風面影響輕微。氣溫逐日下降，北台明顯轉涼，今天北部20至31度、中部21至34度、南部21至36度、東部19至34度。",
     "published_at": "2026-10-21T06:30:21+08:00",
     "stocks": [],
-    "uid": "71d2668c6ece878d59c60303326032a4"
+    "uid": "71d2668c6ece878d59c60303326032a4",
+    "title_zh": "北台灣下午變天 強颱薔琵並列風王 吳德榮曝登陸機率、周五威脅最劇烈",
+    "summary_zh": "今天上半天天氣仍穩定，中央大學大氣科學系兼任副教授吳德榮在「氣象應用推廣基金會」的「洩天機教室」專欄表示，下午起東北季風漸增強，北台灣轉有雨，明天迎風面雨勢逐漸增大，背風面影響輕微。氣溫逐日下降，北台明顯轉涼，今天北部20至31度、中部21至34度、南部21至36度、東部19至34度。",
+    "title_en": "The weather in northern Taiwan changes in the afternoon. Strong Taiwan and Qiangpi tie for the top of the wind. Wu Derong reveals the probability of landing. The threat will be the most severe on Friday.",
+    "summary_en": "The weather remained stable in the first half of today. Wu Derong, adjunct associate professor of the Department of Atmospheric Science at National Central University, said in the \"Tianji Classroom\" column of the \"Meteorological Application Promotion Foundation\" that the northeast monsoon will gradually strengthen from the afternoon, and it will rain in northern Taiwan. The rain will gradually increase on the windward side tomorrow, and the impact on the leeward side will be slight. The temperature is dropping day by day, and it is obviously getting cooler in Beitai. Today, it is 20 to 31 degrees in the north, 21 to 34 degrees in the center, 21 to 36 degrees in the south, and 19 to 34 degrees in the east."
   },
   {
     "title": "日本物價貴到想哭！亞洲生活成本排名揭曉 這個經濟大國只有日本的30％",
@@ -750,6 +1035,17 @@
     "uid": "72070abca70af38d0f531f1f4f963699"
   },
   {
+    "title": "CCL族群買氣點火！「軟板廠」連漲6天狂飆61.08%奪強勢股王　9月營收年增37.5%、法人估今年EPS仍為負值",
+    "url": "https://tw.stock.yahoo.com/news/ccl%E6%97%8F%E7%BE%A4%E8%B2%B7%E6%B0%A3%E9%BB%9E%E7%81%AB-%E8%BB%9F%E6%9D%BF%E5%BB%A0-%E9%80%A3%E6%BC%B26%E5%A4%A9%E7%8B%82%E9%A3%8661-08-%E5%A5%AA%E5%BC%B7%E5%8B%A2%E8%82%A1%E7%8E%8B-001000767.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]記者黃詩雯／綜合報導台股20日加權指數終場以46293點作收，下跌529點，跌幅1.13％，成交量7586.84億元。觀察昨日強勢個股表現，軟板廠律勝（3354...",
+    "published_at": "2026-10-21T00:10:00+08:00",
+    "stocks": [
+      "3354"
+    ],
+    "uid": "521b502c9ba1606b7bf81c659e1abbc6"
+  },
+  {
     "title": "三大電子次族群 亮眼",
     "url": "https://money.udn.com/money/story/5607/9826971",
     "source": "經濟日報",
@@ -793,6 +1089,24 @@
     "uid": "e879625d545b6971f6640a77056c6807"
   },
   {
+    "title": "美債殖利率、油價回落，紐約匯市週二美元兌主要貨幣下滑",
+    "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%82%B5%E6%AE%96%E5%88%A9%E7%8E%87-%E6%B2%B9%E5%83%B9%E5%9B%9E%E8%90%BD-%E7%B4%90%E7%B4%84%E5%8C%AF%E5%B8%82%E9%80%B1%E4%BA%8C%E7%BE%8E%E5%85%83%E5%85%8C%E4%B8%BB%E8%A6%81%E8%B2%A8%E5%B9%A3%E4%B8%8B%E6%BB%91-000429564.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／劉敏夫】紐約匯市週二美元兌換一籃子主要貨幣下滑，因美國國債殖利率回落，且油價自盤中高點下跌。追蹤美元兌換6種主要貨幣的美元指數(DXY)下滑0.27%，報101.701。美元兌歐元貶值0.0024美元，報1.1237美元兌換1歐元；美元兌日圓貶值0.33日圓，報1美元兌158.17日圓；美元兌換瑞郎貶值0.0022瑞郎，報1美元兌0.8246瑞郎。英鎊兌美元升值0.0075美元，報1英鎊兌1.3380美元；加幣兌美元升值0.0051加幣，報1.4060加幣兌1美元。美國10年期國債殖利率一度跌4個基點，至5.10%。此前一則未經證實的報導稱，卡達和巴基斯坦提出一項新方案，旨在重啟結束伊朗戰爭的談判，布蘭特原油隨之下跌。不過，隨著外電披露，有關美國和伊朗接近達成協議的說法並不準確，油價跌幅收窄。美元/日圓下跌。日本20年期國債拍賣需求創紀錄新高，顯示高漲的殖利率開始吸引日本國內投資者重返市場。",
+    "published_at": "2026-10-21T00:04:29+08:00",
+    "stocks": [],
+    "uid": "dae080c3103a258b14fa325bc0ec94d1"
+  },
+  {
+    "title": "美超微Q1營收估190億美元、超出市場預期24.75%，週二盤後飆漲近16%",
+    "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%B6%85%E5%BE%AEq1%E7%87%9F%E6%94%B6%E4%BC%B0190%E5%84%84%E7%BE%8E%E5%85%83-%E8%B6%85%E5%87%BA%E5%B8%82%E5%A0%B4%E9%A0%90%E6%9C%9F24-75-%E9%80%B1%E4%BA%8C%E7%9B%A4%E5%BE%8C%E9%A3%86%E6%BC%B2%E8%BF%9116-000306117.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／陳孟朔】AI伺服器大廠美超微(Supermicro，股票代碼SMCI)週二公布2027財年第一季初步業績，受惠AI平台需求增加，營收估達185億至195億美元，毛利率亦優於原先指引，激勵股價盤後一度飆漲5.11美元或15.72%至37.58美元，該股常態交易收高1.15%。截至2026年9月30日止的第一財季，美超微初估營收中值為190億美元，較LSEG調查分析師平均預估的152.3億美元高出24.75%。公司原先營收指引為145億至155億美元，新估值中值較原指引中值150億美元增加40億美元，增幅達26.67%，顯示當季AI平台需求強於公司先前預期。獲利能力方面，美超微初估首季毛利率介於12.00%至12.50%，高於原先預估的10.40%至10.80%，主要反映客戶與產品組合變化。新估區間下限已高於原指引上限1.20個百分點，上限則高出1.70個百分點，營收與毛利率同步優於預期，成為此次業績更新的兩大亮點。美超微預定11月3日美東時間下午5時召開財報電話會議，說明第一財季完整業績。公司強調，此次公布數字仍為未經查核的初步估算，隨財務結帳及報表編製作業完成，最終營收與毛",
+    "published_at": "2026-10-21T00:03:06+08:00",
+    "stocks": [],
+    "uid": "0559688078c92029146349adc1e7136c"
+  },
+  {
     "title": "是方資料中心 動土 國際大型CSP、金融等業者關注",
     "url": "https://money.udn.com/money/story/11074/9827316",
     "source": "經濟日報",
@@ -815,6 +1129,15 @@
     "uid": "f1e5eea8f40d741453c659659bbc68d5"
   },
   {
+    "title": "SpaceX上市後首見獲利44億美元，馬斯克證實研議合併特斯拉",
+    "url": "https://tw.stock.yahoo.com/news/spacex%E4%B8%8A%E5%B8%82%E5%BE%8C%E9%A6%96%E8%A6%8B%E7%8D%B2%E5%88%A944%E5%84%84%E7%BE%8E%E5%85%83-%E9%A6%AC%E6%96%AF%E5%85%8B%E8%AD%89%E5%AF%A6%E7%A0%94%E8%AD%B0%E5%90%88%E4%BD%B5%E7%89%B9%E6%96%AF%E6%8B%89-000128973.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／陳孟朔】全球航太與衛星網路龍頭SpaceX(股票代碼SPCX)週二公布上市後首份獲利季報，第三季營收年增161%至145.8億美元，淨利44億美元，較去年同期虧損11億美元大幅改善，亦遠優於分析師預估的15.7億美元；調整後每股盈餘0.45美元，高於市場預期的0.13美元。執行長馬斯克(Elon Musk)同時證實，公司與特斯拉(股票代碼TSLA)已各自成立特別委員會討論合併，帶動SpaceX股價盤後上漲4.90%。AI業務成為本季成長核心，營收年增約830%至75.6億美元，躍居最大收入來源，主要來自向Anthropic、Alphabet旗下Google及Reflection AI等企業出租數據中心算力，而非自有AI模型收入。馬斯克預估，2027年底年度經常性收入(ARR)可達5,000億至1兆美元；財務長強森(Bret Johnsen)則重申，今年底ARR目標約1,000億美元。上述指標反映特定時點收入的年化規模，並不等同全年實際營收。快速擴張也伴隨龐大支出，第三季資本支出接近去年同期三倍，達196億美元，其中164億美元投入AI業務，公司預估第四季資本支出將進一步升至",
+    "published_at": "2026-10-21T00:01:28+08:00",
+    "stocks": [],
+    "uid": "5c4d0e0f64c8c2d121e6919c5e8c6068"
+  },
+  {
     "title": "大眾控強化大馬布局",
     "url": "https://money.udn.com/money/story/5710/9827320",
     "source": "經濟日報",
@@ -824,6 +1147,15 @@
       "3701"
     ],
     "uid": "ea1bb0baf0a27b5da6162a0242eed294"
+  },
+  {
+    "title": "馬斯克訂Terafab於2028年Q3量產晶片，坦言時程激進、仍有重大變數",
+    "url": "https://tw.stock.yahoo.com/news/%E9%A6%AC%E6%96%AF%E5%85%8B%E8%A8%82terafab%E6%96%BC2028%E5%B9%B4q3%E9%87%8F%E7%94%A2%E6%99%B6%E7%89%87-%E5%9D%A6%E8%A8%80%E6%99%82%E7%A8%8B%E6%BF%80%E9%80%B2-%E4%BB%8D%E6%9C%89%E9%87%8D%E5%A4%A7%E8%AE%8A%E6%95%B8-000110275.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／陳孟朔】全球首富馬斯克(Elon Musk)週二在SpaceX財報電話會議表示，SpaceX與特斯拉共同推動的晶片製造事業Terafab，內部目標是於2028年第三季實現量產。不過，他強調這只是粗略規劃，時程「非常激進」，已預留很大的誤差範圍，目前尚無法確定能否如期達成。研發進度方面，馬斯克表示，Terafab計畫在2027年5月或6月左右，於德州奧斯汀研發中心，讓首枚包含靜態隨機存取記憶體(SRAM)電路的測試晶片正常運作。這將是驗證製程與設計能力的早期里程碑，與完整AI運算晶片通過驗證、進入穩定量產，仍屬不同階段。Terafab旨在支應AI及機器人業務不斷擴大的晶片需求，長期構想是每年生產可支撐約1太瓦(TW)運算基礎設施的晶片，藉此提高旗下事業對核心運算資源的掌握程度。這項規模屬於長期建設目標，並非2028年初步量產時即可達成的產能承諾。先進晶片製造涉及廠房、設備、製程驗證及良率提升等多項環節，從測試晶片到商業量產仍有重大執行挑戰。馬斯克此次揭露內部時程，提供市場觀察專案進度的具體節點，但量產時間、實際產能及產品性能仍待後續驗證，不能視為已確定的供應安排。",
+    "published_at": "2026-10-21T00:01:10+08:00",
+    "stocks": [],
+    "uid": "5494d255189c9108669b0609cb7d78a3"
   },
   {
     "title": "TPK 擬加碼投資支出",
@@ -868,6 +1200,24 @@
     "uid": "b8176a8d06fade4b54447b0d9b229018"
   },
   {
+    "title": "房貸繳不出來先做4件事？專家提協商、展延、轉貸、出售 千萬不要走到這一步",
+    "url": "https://tw.stock.yahoo.com/news/%E6%88%BF%E8%B2%B8%E7%B9%B3%E4%B8%8D%E5%87%BA%E4%BE%86%E5%85%88%E5%81%9A4%E4%BB%B6%E4%BA%8B%EF%BC%9F%E5%B0%88%E5%AE%B6%E6%8F%90%E5%8D%94%E5%95%86%E3%80%81%E5%B1%95%E5%BB%B6%E3%80%81%E8%BD%89%E8%B2%B8%E3%80%81%E5%87%BA%E5%94%AE-%E5%8D%83%E8%90%AC%E4%B8%8D%E8%A6%81%E8%B5%B0%E5%88%B0%E9%80%99%E4%B8%80%E6%AD%A5-000000481.html",
+    "source": "Yahoo股市",
+    "summary": "房貸一繳就是20年、30年，期間可能遇到失業、收入下降、生意周轉、疾病、家庭支出增加或利率上升。當家庭現金流開始吃緊，最重要的處理時間點是在房貸正式違約以前",
+    "published_at": "2026-10-21T00:00:00+08:00",
+    "stocks": [],
+    "uid": "906371a13f2044e37a31eac5078f76e1"
+  },
+  {
+    "title": "AI+車用需求點火！這「被動元件大廠」逼近370大關上榜　「FPC上游大廠」與誠美材同奪量價雙增王",
+    "url": "https://tw.stock.yahoo.com/news/ai-%E8%BB%8A%E7%94%A8%E9%9C%80%E6%B1%82%E9%BB%9E%E7%81%AB-%E9%80%99-%E8%A2%AB%E5%8B%95%E5%85%83%E4%BB%B6%E5%A4%A7%E5%BB%A0-%E9%80%BC%E8%BF%91370%E5%A4%A7%E9%97%9C%E4%B8%8A%E6%A6%9C-000000029.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]記者張書翰／綜合報導台股加權指數昨（20）日開低後強彈，數度由黑翻紅，不過最終未能止住跌勢，下挫529.15點，以46292.93點作收，跌幅1.13%，成...",
+    "published_at": "2026-10-21T00:00:00+08:00",
+    "stocks": [],
+    "uid": "a5b0cc03585e2ee590a373fd8fa741b5"
+  },
+  {
     "title": "路透：亞洲煉油商改用較小型油輪、採購到岸原油　因應運費飆升",
     "url": "https://www.cna.com.tw/news/aopl/202610200383.aspx",
     "source": "中央社",
@@ -875,6 +1225,174 @@
     "published_at": "2026-10-20T23:59:19+08:00",
     "stocks": [],
     "uid": "b1aefa10fcee6efb3217ac9a3598ddde"
+  },
+  {
+    "title": "SpaceX營收暴增161%超預期，AI業務激增逾8倍、週二盤後股價飆漲近8%",
+    "url": "https://tw.stock.yahoo.com/news/spacex%E7%87%9F%E6%94%B6%E6%9A%B4%E5%A2%9E161-%E8%B6%85%E9%A0%90%E6%9C%9F-ai%E6%A5%AD%E5%8B%99%E6%BF%80%E5%A2%9E%E9%80%BE8%E5%80%8D-%E9%80%B1%E4%BA%8C%E7%9B%A4%E5%BE%8C%E8%82%A1%E5%83%B9%E9%A3%86%E6%BC%B2%E8%BF%918-235729429.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／陳孟朔】全球航太與衛星網路龍頭SpaceX(美股代碼SPCX)週二(20日)盤後公布2026年第三季財報，受惠人工智慧(AI)運算服務需求激增及Starlink衛星網路業務持續擴張，單季營收年增161%，達145.8億美元，遠優於倫敦證交所集團(LSEG)彙整分析師預估的127.2億美元；淨利達44億美元，亦大幅超越市場預期的15.7億美元，較去年同期虧損11億美元顯著改善。財報公布後，SpaceX股價盤後一度飆漲11.61美元或7.85%至159.40美元，週二正常交易時段收在147.79美元、小跌0.11%。SpaceX第三季成長主要來自旗下Super Intelligence(SI)人工智慧業務，該部門營收達75.6億美元，較去年同期的8.13億美元暴增約830%，成為集團最大營收來源，主要受惠向Anthropic、Google及Reflection AI等企業出租數據中心運算能力，以及Grok人工智慧模型與相關軟體服務擴張。衛星通訊業務營收達52.5億美元，年增69%，Starlink用戶數增至1,360萬戶，高於市場預估的1,219萬戶。不過，隨著服務拓展至價格較",
+    "published_at": "2026-10-20T23:57:29+08:00",
+    "stocks": [
+      "3025"
+    ],
+    "uid": "36c844c969b10865cf9e01c8f1a39865"
+  },
+  {
+    "title": "Netflix Q3獲利優於預期，但營收成長放緩及Q4財測失色，盤後重挫近6%",
+    "url": "https://tw.stock.yahoo.com/news/netflix-q3%E7%8D%B2%E5%88%A9%E5%84%AA%E6%96%BC%E9%A0%90%E6%9C%9F-%E4%BD%86%E7%87%9F%E6%94%B6%E6%88%90%E9%95%B7%E6%94%BE%E7%B7%A9%E5%8F%8Aq4%E8%B2%A1%E6%B8%AC%E5%A4%B1%E8%89%B2-%E7%9B%A4%E5%BE%8C%E9%87%8D%E6%8C%AB%E8%BF%916-235415692.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／陳孟朔】全球串流影音龍頭Netflix(美股代碼NFLX)週二(20日)美股盤後公布2026年第三季財報，儘管獲利表現優於華爾街預期，但營收成長放緩，加上第四季財測不如市場預期，導致股價在盤後一度重挫5.88%。Netflix週二正常交易時段已下跌1.7%，今年以來累計跌幅超過25%，顯示投資人對串流影音市場競爭及公司成長前景的疑慮持續升高。Netflix第三季營收年增12%，達128.7億美元，符合分析師預期；淨利達36.6億美元，年增44%，每股盈餘(EPS)為0.87美元，優於市場預估的0.82美元。第三季營業利益率達34.6%，高於去年同期的28.2%，也超越公司原先預測，主要受惠部分費用認列時間遞延。公司預估2026年全年營收約511億美元，年增13%，全年營業利益率約31.5%。不過，第四季展望成為股價下跌主因。Netflix預估第四季營收134.4億美元，低於華爾街預估的135.2億美元；每股盈餘預估0.67美元，也不及市場預期的0.73美元。此外，公司調降廣告業務相關展望，使投資人擔憂新成長引擎的擴張速度不如原先預期。儘管Netflix持續擴大廣告支援方案及",
+    "published_at": "2026-10-20T23:54:15+08:00",
+    "stocks": [],
+    "uid": "ee29d068250fb27d9fdbb82103b3600b"
+  },
+  {
+    "title": "貝森特放話明後年處理「兩房」所有權結構，力求貸款利差不擴大",
+    "url": "https://tw.stock.yahoo.com/news/%E8%B2%9D%E6%A3%AE%E7%89%B9%E6%94%BE%E8%A9%B1%E6%98%8E%E5%BE%8C%E5%B9%B4%E8%99%95%E7%90%86-%E5%85%A9%E6%88%BF-%E6%89%80%E6%9C%89%E6%AC%8A%E7%B5%90%E6%A7%8B-%E5%8A%9B%E6%B1%82%E8%B2%B8%E6%AC%BE%E5%88%A9%E5%B7%AE%E4%B8%8D%E6%93%B4%E5%A4%A7-235140313.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／劉敏夫】外電報導指出，美國財政部長貝森特表示，美國計畫明後年處理「兩房」所有權結構。貝森特在2Way表示，川普政府將在明年或後年「處理」房利美(Fannie Mae)和房地美(Freddie Mac)的所有權結構問題。貝森特表示，無論採取什麼措施，都會以確保抵押貸款，機構抵押貸款相對於美國國債的利差不會擴大為原則。",
+    "published_at": "2026-10-20T23:51:40+08:00",
+    "stocks": [],
+    "uid": "c85bc635d08d6229c0d5de44dbaa9f87"
+  },
+  {
+    "title": "英特爾高舉金槌子　進補台廠CPO 14強",
+    "url": "https://tw.news.yahoo.com/%E8%8B%B1%E7%89%B9%E7%88%BE%E9%AB%98%E8%88%89%E9%87%91%E6%A7%8C%E5%AD%90-%E9%80%B2%E8%A3%9C%E5%8F%B0%E5%BB%A0cpo-14%E5%BC%B7-235000420.html",
+    "source": "Yahoo股市",
+    "summary": "英特爾在OCP峰會中強調矽光子將成為AI與高效能運算的次世代核心架構，加速商業化進程。隨著國際大廠積極推動，矽光子應用落地速度加快，大幅提升頻寬與能源效率。法人看好台灣光通訊供應鏈迎來龐大商機，點名智邦、光聖、聯亞等概念股，其亮眼營運表現成為市場高度關注的投資焦點。",
+    "published_at": "2026-10-20T23:50:00+08:00",
+    "stocks": [
+      "2345",
+      "6442",
+      "3081"
+    ],
+    "uid": "d1e9ddee2b37a1c6e8a9f8a954aa8022"
+  },
+  {
+    "title": "家樂福下修2026年財測，法國騷亂恐衝擊營業利益最多2億歐元",
+    "url": "https://tw.stock.yahoo.com/news/%E5%AE%B6%E6%A8%82%E7%A6%8F%E4%B8%8B%E4%BF%AE2026%E5%B9%B4%E8%B2%A1%E6%B8%AC-%E6%B3%95%E5%9C%8B%E9%A8%B7%E4%BA%82%E6%81%90%E8%A1%9D%E6%93%8A%E7%87%9F%E6%A5%AD%E5%88%A9%E7%9B%8A%E6%9C%80%E5%A4%9A2%E5%84%84%E6%AD%90%E5%85%83-234938341.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／陳孟朔】法國零售集團巨擘--家樂福(Carrefour，法股代碼CA)週二宣布下修2026年獲利與現金流目標，因法國近期騷亂、搶掠及宵禁衝擊門市營運，並削弱消費者信心。財務長馬利熱(Matthieu Malige)表示，相關事件對營業利益的整體影響估介於8,000萬至2億歐元，其中商品遭竊或毀損、店面與設備受損及被迫停業等直接成本，合計已達數千萬歐元，股價週二逆勢收小紅漲0.31%至16.30歐元。家樂福將全年調整後每股盈餘(EPS)展望，由高個位數成長下修為持平至小幅成長；淨自由現金流由小幅增加改為小幅下降，經常性營業利益率改善幅度則調降至零至15個基點。公司亦將減少年底前在法國的投資，全年資本支出目標由17億歐元降至16億歐元，以因應營運環境惡化及不確定性升高。董事長兼執行長邦帕爾(Alexandre Bompard)表示，約50家門市在騷亂首日直接受到衝擊，許多遭到搶掠，另有更多門市為預防暴力事件而暫時關閉。宵禁縮短營業時間，外聘保全及物流安排也推升成本；隨零售業進入關鍵的第四季銷售旺季，原已受到能源價格上漲壓抑的消費信心進一步轉弱，客流下降恐持續拖累業績。第三季業績",
+    "published_at": "2026-10-20T23:49:38+08:00",
+    "stocks": [],
+    "uid": "ec36fec1486f5d80b7882f7f49054310"
+  },
+  {
+    "title": "道瓊歐洲600跌0.14%連二黑，法股挫0.38%領跌五大市場，醫療股逆勢強彈",
+    "url": "https://tw.stock.yahoo.com/news/%E9%81%93%E7%93%8A%E6%AD%90%E6%B4%B2600%E8%B7%8C0-14-%E9%80%A3%E4%BA%8C%E9%BB%91-%E6%B3%95%E8%82%A1%E6%8C%AB0-38-234907405.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／陳孟朔】歐洲股市週二(20日)連續第二個交易日收低，法國大規模示威抗議持續衝擊投資信心，加上中東戰事、能源價格居高不下及人工智慧投資前景疑慮，壓抑歐股表現。道瓊歐洲600指數繼前一交易日下跌0.8%後，週二再跌9.92點或0.14%，收在638.64點。歐洲五大股市中，德國法蘭克福DAX指數小跌0.06%，收在25,304.42點；法國巴黎CAC 40指數下跌0.38%，收在7,838.49點，在五大股市中表現最遜；英國倫敦富時100指數跌0.29%，收在10,733.00點；義大利富時MIB指數小跌0.03%，收在49,071.37點；西班牙IBEX 35指數則逆勢上漲0.28%，重回萬九關口收在19,092.40點，為五大股市唯一紅。總體經濟與政治方面，法國示威活動持續升級，使投資人更加擔憂該國經濟成長疲弱、政府債務攀升及財政整頓前景，法國股市因而成為歐洲主要市場的賣壓中心。英國最新薪資數據顯示，截至8月底止三個月薪資成長略有加速，增加英國央行下個月升息的討論空間。歐洲央行方面，市場普遍預期這個月將維持利率不變，但根據倫敦證交所集團(LSEG)數據，交易員評估12月升息",
+    "published_at": "2026-10-20T23:49:07+08:00",
+    "stocks": [],
+    "uid": "c6769c40deeba2768856140f48f216cd"
+  },
+  {
+    "title": "美國9月NAR二手房簽約量指數降至66，創2001年有紀錄來最低",
+    "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%9C%8B9%E6%9C%88nar%E4%BA%8C%E6%89%8B%E6%88%BF%E7%B0%BD%E7%B4%84%E9%87%8F%E6%8C%87%E6%95%B8%E9%99%8D%E8%87%B366-%E5%89%B52001%E5%B9%B4%E6%9C%89%E7%B4%80%E9%8C%84%E4%BE%86%E6%9C%80%E4%BD%8E-234756208.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／劉敏夫】外電報導指出，衡量美國9月份成屋待完成銷售的二手房簽約量降至紀錄低點，高漲的抵押貸款利率繼續壓制購房需求。美國全國房地產經紀人協會(NAR)週二公佈的數據顯示，9月二手房簽約量指數大幅下降7.3%，至66，創2001年有紀錄以來最低。該降幅遠超經濟專家預估中值的0.5%。自伊朗戰爭爆發以來，抵押貸款利率持續攀升，目前已升至近三年來最高水準。二手房簽約量低迷表明在借貸成本和房價高漲之際，房地產市場難以復甦。未經季節因素調整的二手房簽約量指數年比值下降12.6%。經濟專家的預估中值為下降3.9%。NAR首席經濟專家Lawrence Yun在聲明中表示，由於抵押貸款利率快速上升，9月二手房市場狀況惡化。買賣雙方可能只是在等待抵押貸款利率朝有利方向變動。",
+    "published_at": "2026-10-20T23:47:56+08:00",
+    "stocks": [],
+    "uid": "376a2e7b5e014d60d6f1f379a1ca7168"
+  },
+  {
+    "title": "美國9月份新屋開工降至122.1萬戶，創四個月低點並低於預估中值",
+    "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%9C%8B9%E6%9C%88%E4%BB%BD%E6%96%B0%E5%B1%8B%E9%96%8B%E5%B7%A5%E9%99%8D%E8%87%B3122-1%E8%90%AC%E6%88%B6-%E5%89%B5%E5%9B%9B%E5%80%8B%E6%9C%88%E4%BD%8E%E9%BB%9E%E4%B8%A6%E4%BD%8E%E6%96%BC%E9%A0%90%E4%BC%B0%E4%B8%AD%E5%80%BC-234523360.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／劉敏夫】外電報導指出，美國9月份新屋開工數下降至疫情以來最疲弱水準之一，獨棟住宅建築許可也出現下滑，凸顯房地產市場持續低迷。聯邦政府週二公佈的數據顯示，9月份新屋開工較前月下降5.2%，換算成年率為122.1萬戶，創四個月低點，也低於經濟專家預估中值的130.5萬戶。9月份獨棟住宅開工數降至一年最低，相關住宅的建築許可申請也降至2023年初以來最低。建築許可是衡量未來住宅建設活動的一項指標。住房負擔能力問題正在制約住宅房地產市場的銷售，而抵押貸款利率進一步攀升又加劇了這一壓力。住宅建築商信心已經降至14年低點，在庫存消化取得更大進展之前，建築商可能不願啟動更多新屋建設。報告顯示，包括公寓在內的多戶住宅項目新屋開工下降近7%。過去六個季度中，有五個季度住宅建設低迷拖累經濟成長。在週二數據公佈之前，聯準會亞特蘭大分行GDPNow模型預計，第三季住宅投資換算成年率下降1.3%。此外，9月份獨棟住宅竣工量降至六年多來的最低水準。",
+    "published_at": "2026-10-20T23:45:23+08:00",
+    "stocks": [],
+    "uid": "64a984c4117049fec4fc7169ab9b617f"
+  },
+  {
+    "title": "法人點名2檔逆勢強股！「這PCB大廠」AI營收占26％、這「低軌衛星概念股」搶4千顆衛星商機　台股殺到季線保衛戰",
+    "url": "https://tw.stock.yahoo.com/news/%E6%B3%95%E4%BA%BA%E9%BB%9E%E5%90%8D2%E6%AA%94%E9%80%86%E5%8B%A2%E5%BC%B7%E8%82%A1-%E9%80%99pcb%E5%A4%A7%E5%BB%A0-ai%E7%87%9F%E6%94%B6%E5%8D%A026-%E9%80%99-%E4%BD%8E%E8%BB%8C%E8%A1%9B%E6%98%9F%E6%A6%82%E5%BF%B5%E8%82%A1-234500424.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]記者莊蕙如／綜合報導台股20日持續震盪修正，加權指數面臨季線保衛戰，AI族群也受到短線利空消息衝擊，股價評價出現回落。不過，法人認為AI產業...",
+    "published_at": "2026-10-20T23:45:00+08:00",
+    "stocks": [],
+    "uid": "ba3998bf67599f0e7420d55f63b924a0"
+  },
+  {
+    "title": "外資9月份連五月增持中國國債，持有規模升至近2.04兆元人民幣",
+    "url": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%879%E6%9C%88%E4%BB%BD%E9%80%A3%E4%BA%94%E6%9C%88%E5%A2%9E%E6%8C%81%E4%B8%AD%E5%9C%8B%E5%9C%8B%E5%82%B5-%E6%8C%81%E6%9C%89%E8%A6%8F%E6%A8%A1%E5%8D%87%E8%87%B3%E8%BF%912-04%E5%85%86%E5%85%83%E4%BA%BA%E6%B0%91%E5%B9%A3-234252023.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／劉敏夫】外電報導指出，境外機構9月份連續第五個月增持中國國債，顯示在歐美、日本等主要債市拋售潮加劇和人民幣保持堅挺的背景下，中國國債的配置吸引力進一步凸顯。金融媒體根據中債登(中央國債登記結算公司)週二公佈的數據計算，9月境外機構增持中國國債141.8億元人民幣，幅度為5月份以來最大，持有規模升至近2.04兆元人民幣。與此同時，外資減持政策性銀行債489.9億元人民幣，單月減持規模為去年年中以來最大。中國央行公佈的數據顯示，9月底境外機構整體持有銀行間市場債券3.19兆元人民幣，約占銀行間債市總託管量的1.7%，與8月持平。渣打大中華區宏觀策略主管劉潔指出，中國國債獲得增持和人民幣匯率有關，並反映出在與美國國債及其他海外債券利率走勢分化的背景下，其「避險資產」地位正在上升。近幾個月美債殖利率整體走高，市場對美國財政赤字的擔憂不散，AI相關資本開支帶來的融資需求加劇資金爭奪，加上聯準會9月份實施2023年以來的首次升息，共同對美債市場構成壓力。拋售潮也波及歐洲多國和日本等。相較之下，中國國債走勢相對平穩，其分散風險的配置價值更加突出，而人民幣走強也為境外投資者配置人民幣資產提",
+    "published_at": "2026-10-20T23:42:52+08:00",
+    "stocks": [],
+    "uid": "405cb2c46124c2d8475c061a8ea861e2"
+  },
+  {
+    "title": "ADP初估，美國截至10/3止四週私營部門就業數平均每週增加1.85萬人",
+    "url": "https://tw.stock.yahoo.com/news/adp%E5%88%9D%E4%BC%B0-%E7%BE%8E%E5%9C%8B%E6%88%AA%E8%87%B310-3%E6%AD%A2%E5%9B%9B%E9%80%B1%E7%A7%81%E7%87%9F%E9%83%A8%E9%96%80%E5%B0%B1%E6%A5%AD%E6%95%B8%E5%B9%B3%E5%9D%87%E6%AF%8F%E9%80%B1%E5%A2%9E%E5%8A%A01-85%E8%90%AC%E4%BA%BA-234247420.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／劉敏夫】外電報導指出，ADP Research和史丹佛數位經濟實驗室的初步估算顯示，截至10月3日止的四週，美國私營部門就業人數平均每週增加1.85萬人。ADP此前公佈的數據顯示，9月月度就業人數變動為增加9萬人。",
+    "published_at": "2026-10-20T23:42:47+08:00",
+    "stocks": [],
+    "uid": "4f85e0d7d5b35a1029aa70e1f5df8158"
+  },
+  {
+    "title": "瑞士9月黃金出口量月增6%至165.2噸，對英出口創至少14年新高",
+    "url": "https://tw.stock.yahoo.com/news/%E7%91%9E%E5%A3%AB9%E6%9C%88%E9%BB%83%E9%87%91%E5%87%BA%E5%8F%A3%E9%87%8F%E6%9C%88%E5%A2%9E6-%E8%87%B3165-2%E5%99%B8-%E5%B0%8D%E8%8B%B1%E5%87%BA%E5%8F%A3%E5%89%B5%E8%87%B3%E5%B0%9114%E5%B9%B4%E6%96%B0%E9%AB%98-233835730.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／陳孟朔】外電報導，瑞士海關週二公布，9月黃金出口量月增約6%，達165.2噸，創2025年2月以來最高水準。其中，對英國出口量增至126.2噸，創至少2012年有紀錄以來單月新高，成為推升整體出口的主要動力，反映黃金持續流向倫敦交易與保管市場。瑞士9月對英國黃金出口量較8月的102.1噸增加約24%，占當月黃金出口總量約76.39%。瑞士是全球主要黃金精煉及轉運中心，倫敦則是全球最大的場外黃金交易中心，兩地黃金流向受到投資需求、交易活動與庫存配置等因素影響。投資需求方面，世界黃金協會數據顯示，第三季全球實物支持型黃金ETF淨流入創紀錄的310億美元，其中英國上市產品吸金約75億美元，亦創單季新高。9月全球黃金ETF淨流入約100億美元，持倉增加67噸至4,256噸的歷史高點；英國上市黃金ETF在截至9月25日的13週中，有12週錄得資金流入。相較之下，瑞士9月對印度黃金出口量月減約12%，降至3.1噸，顯示主要消費市場與金融投資市場需求仍有差異。不過，隨金價回落帶動珠寶買氣，印度黃金交易價格上週時隔逾三個月再度出現溢價，當地實體需求呈現回溫跡象。",
+    "published_at": "2026-10-20T23:38:35+08:00",
+    "stocks": [],
+    "uid": "9eab541ecdd7ee01a5f44866fcbf9216"
+  },
+  {
+    "title": "美國AI工作組120天評估風險，Clayton稱負責任開發建議將陸續公布",
+    "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%9C%8Bai%E5%B7%A5%E4%BD%9C%E7%B5%84120%E5%A4%A9%E8%A9%95%E4%BC%B0%E9%A2%A8%E9%9A%AA-clayton%E7%A8%B1%E8%B2%A0%E8%B2%AC%E4%BB%BB%E9%96%8B%E7%99%BC%E5%BB%BA%E8%AD%B0%E5%B0%87%E9%99%B8%E7%BA%8C%E5%85%AC%E5%B8%83-233833906.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／陳孟朔】美國國家情報總監兼人工智慧(AI)事務主管克萊頓(Jay Clayton)週二接受美國財經媒體CNBC訪問時表示，政府AI工作組有關負責任開發AI的建議將很快陸續公布，但目前無法承諾確切日期，相關政策內容與發布時程仍待進一步說明。川普政府新設的AI特別工作組由克萊頓領軍，任務是在120天內評估AI帶來的風險與機會，並釐清聯邦政府應扮演的角色。工作組已於上週召開首次會議，建立運作程序、啟動風險研究，並規劃與前沿AI研發企業保持溝通，以推進相關安全承諾的落實。工作組核心成員包括美國人事管理局局長Scott Kupor、聯邦貿易委員會(FTC)主席Andrew Ferguson，以及國防部技術主管Emil Michael。旗下三個專項委員會分別由Michael負責報告與回應、Kupor負責關鍵基礎設施，Ferguson則主導執法與責任議題，涵蓋AI開發、基礎設施安全與問責機制。此外，AI對勞動力及經濟影響的相關報告將提交勞工部。克萊頓此次談話顯示，工作組可能在完整評估完成前分階段提出建議。",
+    "published_at": "2026-10-20T23:38:33+08:00",
+    "stocks": [],
+    "uid": "750a5e11b6f3899e5912fa75b77f260f"
+  },
+  {
+    "title": "布油週二衝高回落收跌0.7%，紐約11月期油挫1.80%，中東風險仍撐盤",
+    "url": "https://tw.stock.yahoo.com/news/%E5%B8%83%E6%B2%B9%E9%80%B1%E4%BA%8C%E8%A1%9D%E9%AB%98%E5%9B%9E%E8%90%BD%E6%94%B6%E8%B7%8C0-7-%E7%B4%90%E7%B4%8411%E6%9C%88%E6%9C%9F%E6%B2%B9%E6%8C%AB1-80-%E4%B8%AD%E6%9D%B1%E9%A2%A8%E9%9A%AA%E4%BB%8D%E6%92%90%E7%9B%A4-233714294.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／陳孟朔】國際油價週二(20日)上演衝高回落走勢，市場一方面憂心中東軍事衝突升級及荷姆茲海峽航運持續受阻，另一方面評估美伊外交斡旋進展，以及美國放寬俄羅斯能源制裁可能增加供應的影響。布蘭特12月期油盤中一度突破每桶111美元，逼近112美元，創約五個月高點後回吐漲幅，終場倒吐0.7%，收在每桶108.79美元。紐約期油11月到期合約下跌1.80%，收在每桶101.79美元；交易較活躍的12月合約則跌0.70%，收在97.82美元，反映換月期間不同交割月份的價差。油價早盤獲得中東地緣政治風險支撐，伊朗與美國之間的停火談判持續僵持，荷姆茲海峽接連發生商船遇襲事件，加上親伊朗的葉門胡塞武裝持續攻擊沙烏地阿拉伯能源設施，使市場擔憂全球原油運輸及供應鏈再度受到衝擊。荷姆茲海峽在戰爭爆發前承擔全球約五分之一的石油及液化天然氣貿易，航運受阻不僅推升運輸與保險成本，也使國際油價維持顯著的地緣政治風險溢價。不過，隨著伊朗總統裴澤斯基安與巴基斯坦陸軍參謀長穆尼爾在德黑蘭討論外交斡旋，市場對緊張局勢可能降溫的期待升高，促使油價由高檔反轉。此外，美國川普政府近期宣布放寬部分涉及俄羅斯能源出口的制裁與",
+    "published_at": "2026-10-20T23:37:14+08:00",
+    "stocks": [],
+    "uid": "b658729e9665a9ed4aec3d9a725eb5fb"
+  },
+  {
+    "title": "奇績創壇回應美國制裁，聲稱並未投資上海至算科技",
+    "url": "https://tw.stock.yahoo.com/news/%E5%A5%87%E7%B8%BE%E5%89%B5%E5%A3%87%E5%9B%9E%E6%87%89%E7%BE%8E%E5%9C%8B%E5%88%B6%E8%A3%81-%E8%81%B2%E7%A8%B1%E4%B8%A6%E6%9C%AA%E6%8A%95%E8%B3%87%E4%B8%8A%E6%B5%B7%E8%87%B3%E7%AE%97%E7%A7%91%E6%8A%80-233525648.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／劉敏夫】外電報導指出，針對美國制裁行動，奇績創壇發文回應指稱，公司並未投資上海至算科技公司。此前，奇績創壇、至算科技等五家實體因與中國公民丁林葳有關聯而受到美國制裁，美方稱相關制裁涉及竊取美國人士的商業秘密。奇績創壇在微信公眾號發布聲明指稱，正在與相關方積極溝通，希望盡快解除制裁。",
+    "published_at": "2026-10-20T23:35:25+08:00",
+    "stocks": [],
+    "uid": "2b56c5a070c2dd6ea2444a97fb27e520"
+  },
+  {
+    "title": "擷發科技共同創辦人劉沛穎辭世 公司悼念：從草創陪伴公司走到興櫃",
+    "url": "https://tw.news.yahoo.com/%E6%93%B7%E7%99%BC%E7%A7%91%E6%8A%80%E5%85%B1%E5%90%8C%E5%89%B5%E8%BE%A6%E4%BA%BA%E5%8A%89%E6%B2%9B%E7%A9%8E%E8%BE%AD%E4%B8%96-%E5%85%AC%E5%8F%B8%E6%82%BC%E5%BF%B5-%E5%BE%9E%E8%8D%89%E5%89%B5%E9%99%AA%E4%BC%B4%E5%85%AC%E5%8F%B8%E8%B5%B0%E5%88%B0%E8%88%88%E6%AB%83-233500219.html",
+    "source": "Yahoo股市",
+    "summary": "擷發科技共同創辦人劉沛穎辭世 公司悼念：從草創陪伴公司走到興櫃",
+    "published_at": "2026-10-20T23:35:00+08:00",
+    "stocks": [],
+    "uid": "e787364fae3765a2a6071c341011352b"
+  },
+  {
+    "title": "IEA優先加速釋出逾2,000萬桶柴油，比羅爾稱必要時可再動用緊急儲備",
+    "url": "https://tw.stock.yahoo.com/news/iea%E5%84%AA%E5%85%88%E5%8A%A0%E9%80%9F%E9%87%8B%E5%87%BA%E9%80%BE2-000%E8%90%AC%E6%A1%B6%E6%9F%B4%E6%B2%B9-%E6%AF%94%E7%BE%85%E7%88%BE%E7%A8%B1%E5%BF%85%E8%A6%81%E6%99%82%E5%8F%AF%E5%86%8D%E5%8B%95%E7%94%A8%E7%B7%8A%E6%80%A5%E5%84%B2%E5%82%99-233433500.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／陳孟朔】外電報導，國際能源署(IEA)署長比羅爾(Fatih Birol)週二表示，如有必要，已準備協調成員國進一步釋放緊急石油儲備，目前首要任務則是加快既有計畫中的柴油交付，以緩解供應短缺及價格上漲壓力。他並警告，尚看不到可信的途徑，能讓能源市場在2027年恢復正常。比羅爾在倫敦出席《金融時報》舉辦的會議時指出，優先釋放超過2,000萬桶柴油是當務之急，IEA正推動將交付時間盡可能提前，但各國實際投放數量與時程，仍取決於本國情況及冬季市場需求。這批柴油屬於3月集體釋儲行動尚待完成的承諾，應與未來可能另行協調的新增釋儲措施區分。IEA成員國3月最初承諾釋出創紀錄的4億桶原油及成品油，後續承諾總量提高至約4.26億桶，迄今已完成原始承諾規模約八成。IEA上週要求加速完成剩餘投放，並鼓勵已履行承諾的成員國評估額外釋放柴油的必要性，反映政策重點正轉向成品油市場的急迫缺口。海灣地區與俄羅斯供應受阻，已使多個市場柴油價格升至歷史高位。IEA最新石油市場報告預期，柴油供應緊張可能延續至2027年，即使原油供需改善，也未必足以迅速補回今年累積的成品油缺口。柴油廣泛用於貨運、農業及重工業，",
+    "published_at": "2026-10-20T23:34:33+08:00",
+    "stocks": [],
+    "uid": "f5808a91bbba57457f33d8f05d317950"
+  },
+  {
+    "title": "伊朗傳拖延美伊談判牽制期中選舉，荷姆茲海峽封鎖未解，戰火續升溫",
+    "url": "https://tw.stock.yahoo.com/news/%E4%BC%8A%E6%9C%97%E5%82%B3%E6%8B%96%E5%BB%B6%E7%BE%8E%E4%BC%8A%E8%AB%87%E5%88%A4%E7%89%BD%E5%88%B6%E6%9C%9F%E4%B8%AD%E9%81%B8%E8%88%89-%E8%8D%B7%E5%A7%86%E8%8C%B2%E6%B5%B7%E5%B3%BD%E5%B0%81%E9%8E%96%E6%9C%AA%E8%A7%A3-%E6%88%B0%E7%81%AB%E7%BA%8C%E5%8D%87%E6%BA%AB-233318580.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／陳孟朔】中東局勢持續緊繃，美伊停火談判陷入僵局。路透週二(20日)引述三名伊朗高階官員及一名知情人士透露，德黑蘭當局有意延長與美國的談判進程，藉此對11月3日美國期中選舉形成政治壓力，同時防範美國與以色列再度發動軍事攻擊。伊朗官員表示，德黑蘭目前更傾向準備應對新一輪軍事行動，而非急於與華府達成結束戰爭的協議。美國與以色列今年2月底對伊朗發動軍事攻擊後，雙方衝突延續至今，荷姆茲海峽航運受到嚴重干擾。伊朗持續運用海峽通行權作為談判籌碼，美國則透過海上封鎖及經濟制裁限制伊朗石油出口。伊朗外交部長阿拉奇週日重申，德黑蘭提出的七日內重新開放荷姆茲海峽方案仍然有效，但前提是美國解除港口封鎖、放寬石油出口制裁、釋放遭凍結資產，並停止區域各戰線敵對行動。華府則堅持伊朗核計畫必須列入談判初期議程，雙方立場仍存在重大分歧。軍事方面，荷姆茲海峽近日再傳油輪觸雷爆炸事件，伊朗革命衛隊海軍證實相關事故，進一步加深國際航運業對海峽安全的疑慮。與此同時，親伊朗的葉門胡塞武裝持續攻擊沙烏地阿拉伯能源及其他戰略設施，使衝突風險由波斯灣航運延伸至區域能源基礎建設。儘管巴基斯坦及卡達等國持續扮演外交斡旋角色，但",
+    "published_at": "2026-10-20T23:33:18+08:00",
+    "stocks": [],
+    "uid": "41586790e63980986c76e5c5dcf18031"
   },
   {
     "title": "字節、阿里巴巴和騰訊採購約350億美元輝達顯示卡，供貨率恐僅一成",
@@ -896,6 +1414,26 @@
       "2303"
     ],
     "uid": "53dfac33a2bafd365518fb06153cd71a"
+  },
+  {
+    "title": "股市創高，資金為何轉向短債？　理財達人郭俊宏揭非投等債ETF挑選心法",
+    "url": "https://tw.news.yahoo.com/%E8%82%A1%E5%B8%82%E5%89%B5%E9%AB%98-%E8%B3%87%E9%87%91%E7%82%BA%E4%BD%95%E8%BD%89%E5%90%91%E7%9F%AD%E5%82%B5-%E7%90%86%E8%B2%A1%E9%81%94%E4%BA%BA%E9%83%AD%E4%BF%8A%E5%AE%8F%E6%8F%AD%E9%9D%9E%E6%8A%95%E7%AD%89%E5%82%B5etf%E6%8C%91%E9%81%B8%E5%BF%83%E6%B3%95-233000467.html",
+    "source": "Yahoo股市",
+    "summary": "股市屢創新高，投資人的目光仍多半跟著AI題材走，但也有人開始思考，萬一行情震盪加劇，手上的資產能不能多一層保護。理財達人郭俊宏指出，觀察債券不能只看殖利率，還要把利率風險、信用評等與自己的現金流需求放在一起評估。他建議，想兼顧收益、又不想承擔太大利率波動的投資人，可以考慮規模大、管理費低，且所持債券信用評等較高的短天期非投資等級債ETF，作為資產配置的一環。",
+    "published_at": "2026-10-20T23:30:00+08:00",
+    "stocks": [],
+    "uid": "6ccff61da869cef278532a0a822bda31"
+  },
+  {
+    "title": "半導體、自動化訂單強勁！「傳動元件廠」產能稼動率站穩8成　法人估明年營收維持雙位數成長",
+    "url": "https://tw.stock.yahoo.com/news/%E5%8D%8A%E5%B0%8E%E9%AB%94-%E8%87%AA%E5%8B%95%E5%8C%96%E8%A8%82%E5%96%AE%E5%BC%B7%E5%8B%81-%E5%82%B3%E5%8B%95%E5%85%83%E4%BB%B6%E5%BB%A0-%E7%94%A2%E8%83%BD%E7%A8%BC%E5%8B%95%E7%8E%87%E7%AB%99%E7%A9%A98%E6%88%90-%E6%B3%95%E4%BA%BA%E4%BC%B0%E6%98%8E%E5%B9%B4%E7%87%9F%E6%94%B6%E7%B6%AD%E6%8C%81%E9%9B%99%E4%BD%8D%E6%95%B8%E6%88%90%E9%95%B7-233000375.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]記者黃詩雯／綜合報導受惠半導體、自動化及機器人等產業需求升溫，傳動元件廠全球傳動（4540）營運持續回溫，第三季營收創2022年第三季以來新高...",
+    "published_at": "2026-10-20T23:30:00+08:00",
+    "stocks": [
+      "4540"
+    ],
+    "uid": "b052e03b602b77a1ff100d548330c9c9"
   },
   {
     "title": "美軍近萬人增援中東料11月底抵達，第三艘航母部署增添對伊施壓籌碼",
@@ -1970,6 +2508,15 @@
     "published_at": "2026-10-20T19:30:53+08:00",
     "stocks": [],
     "uid": "1d4db972272d3ec80f1373e4a42316e0"
+  },
+  {
+    "title": "高雄台積電 F22 廠區工安意外，螺栓斷裂致 4 人墜落送醫後續勒令停工",
+    "url": "https://technews.tw/2026/10/20/industrial-accident-at-tsmc-f22-plant-in-kaohsiung/",
+    "source": "科技新報",
+    "summary": "高雄市楠梓園區台積電 F22 P4 新建工程工地 20 日傍晚發生重大工安意外。事故起因於吊車執行鋼構吊掛安裝 [&#8230;]",
+    "published_at": "2026-10-20T19:30:53+08:00",
+    "stocks": [],
+    "uid": "f2bc29ce7a02b30916a7ce99ccb4611c"
   },
   {
     "title": "〈台招商論壇〉西松屋擬擴至50店、首度結盟MLB球團 13家簽LOI吸621億元成長近3成",
