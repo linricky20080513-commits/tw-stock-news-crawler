@@ -1,5 +1,831 @@
 [
   {
+    "title": "Elon Musk invests about $1 billion in Skydance",
+    "url": "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html",
+    "source": "CNBC Top",
+    "summary": "David Ellison's father, billionaire and Oracle co-founder Larry Ellison, has a history with Musk.",
+    "published_at": "2026-10-23T01:42:58+08:00",
+    "stocks": [],
+    "uid": "d4190cb11f112814a2dee72e3a2004fd",
+    "title_en": "Elon Musk invests about $1 billion in Skydance",
+    "summary_en": "David Ellison's father, billionaire and Oracle co-founder Larry Ellison, has a history with Musk.",
+    "title_zh": "伊隆馬斯克向 Skydance 投資約 10 億美元",
+    "summary_zh": "大衛·艾里森的父親、億萬富翁、甲骨文聯合創始人拉里·埃里森與馬斯克有過淵源。"
+  },
+  {
+    "title": "Sonoco (SON) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/10/22/sonoco-son-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Inflationary pressures and drought weighed on results as management executes cost cuts.",
+    "published_at": "2026-10-23T01:41:23+08:00",
+    "stocks": [
+      "SON"
+    ],
+    "uid": "c1e1444003dfa7e3ae94b76c65112966",
+    "title_en": "Sonoco (SON) Q3 2026 Earnings Call Transcript",
+    "summary_en": "Inflationary pressures and drought weighed on results as management executes cost cuts.",
+    "title_zh": "Sonoco (SON) 2026 年第三季財報電話會議紀錄",
+    "summary_zh": "由於管理層執行成本削減措施，通膨壓力和乾旱對業績造成壓力。"
+  },
+  {
+    "title": "Southern Missouri Bancorp (SMBC) Q1 2027 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/10/22/southern-missouri-bancorp-smbc-q1-2027-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Net income jumped 22% on margin expansion and deposit growth.",
+    "published_at": "2026-10-23T01:41:23+08:00",
+    "stocks": [
+      "SMBC"
+    ],
+    "uid": "e57c5d8692836dd0e2b05d256e2eae9b",
+    "title_en": "Southern Missouri Bancorp (SMBC) Q1 2027 Earnings Call Transcript",
+    "summary_en": "Net income jumped 22% on margin expansion and deposit growth.",
+    "title_zh": "南密蘇裡銀行 (SMBC) 2027 年第一季財報電話會議紀錄",
+    "summary_zh": "由於利潤率擴張和存款成長，淨利潤成長了 22%。"
+  },
+  {
+    "title": "ARMOUR (ARR) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/10/22/armour-arr-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Mortgage spreads widened sharply in September, pressuring book value and earnings.",
+    "published_at": "2026-10-23T01:41:23+08:00",
+    "stocks": [
+      "ARR"
+    ],
+    "uid": "b320f4b19cf029f973aeff2de2ca70c5",
+    "title_en": "ARMOUR (ARR) Q3 2026 Earnings Call Transcript",
+    "summary_en": "Mortgage spreads widened sharply in September, pressuring book value and earnings.",
+    "title_zh": "ARMOR (ARR) 2026 年第三季財報電話會議紀錄",
+    "summary_zh": "9 月抵押貸款利差大幅擴大，對帳面價值和獲利帶來壓力。"
+  },
+  {
+    "title": "Quest Diagnostics (DGX) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/10/22/quest-diagnostics-dgx-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Revenue grew 10% as automation and AI boosted margins amid regulatory headwinds.",
+    "published_at": "2026-10-23T01:39:38+08:00",
+    "stocks": [
+      "DGX"
+    ],
+    "uid": "c82872da97301e983b46fe5fdfd31422",
+    "title_en": "Quest Diagnostics (DGX) Q3 2026 Earnings Call Transcript",
+    "summary_en": "Revenue grew 10% as automation and AI boosted margins amid regulatory headwinds.",
+    "title_zh": "Quest Diagnostics (DGX) 2026 年第三季財報電話會議紀錄",
+    "summary_zh": "由於自動化和人工智慧在監管不利的情況下提高了利潤率，收入成長了 10%。"
+  },
+  {
+    "title": "MSC Industrial (MSM) Q4 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/10/22/msc-industrial-msm-q4-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Record sales and margin expansion driven by pricing power and manufacturing recovery.",
+    "published_at": "2026-10-23T01:39:38+08:00",
+    "stocks": [
+      "MSM"
+    ],
+    "uid": "2d23c44cc97b609a6b8ba306b8e77386",
+    "title_en": "MSC Industrial (MSM) Q4 2026 Earnings Call Transcript",
+    "summary_en": "Record sales and margin expansion driven by pricing power and manufacturing recovery.",
+    "title_zh": "MSC Industrial (MSM) 2026 年第四季財報電話會議紀錄",
+    "summary_zh": "在定價能力和製造業復甦的推動下，創紀錄的銷售和利潤率擴張。"
+  },
+  {
+    "title": "Insteel (IIIN) Q4 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/10/22/insteel-iiin-q4-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Margin pressure and raw material costs weigh on earnings despite strong sales growth.",
+    "published_at": "2026-10-23T01:39:37+08:00",
+    "stocks": [
+      "IIIN"
+    ],
+    "uid": "36f8dcb810b760acdc64a11c451e9313",
+    "title_en": "Insteel (IIIN) Q4 2026 Earnings Call Transcript",
+    "summary_en": "Margin pressure and raw material costs weigh on earnings despite strong sales growth.",
+    "title_zh": "Insteel (IIIN) 2026 年第四季財報電話會議紀錄",
+    "summary_zh": "儘管銷售成長強勁，但利潤壓力和原材料成本仍對獲利構成壓力。"
+  },
+  {
+    "title": "Virginia state Sen. L. Louise Lucas, a Trump critic, charged in marijuana racketeering case",
+    "url": "https://www.cnbc.com/2026/10/22/lucas-trump-virginia-marijuana-racketeering.html",
+    "source": "CNBC Top",
+    "summary": "The investigation into the Democrat predates the current Trump administration. But the timing of the indictment before the midterms has raised eyebrows.",
+    "published_at": "2026-10-23T01:39:03+08:00",
+    "stocks": [],
+    "uid": "430ac6bf300386f216ddf4b93b41b8c7",
+    "title_en": "Virginia state Sen. L. Louise Lucas, a Trump critic, charged in marijuana racketeering case",
+    "summary_en": "The investigation into the Democrat predates the current Trump administration. But the timing of the indictment before the midterms has raised eyebrows.",
+    "title_zh": "川普批評者、維吉尼亞州參議員路易斯盧卡斯 (L. Louise Lucas) 因大麻敲詐勒索案被指控",
+    "summary_zh": "對民主黨人的調查早於現任川普政府。但在中期選舉之前提出起訴的時間卻引起了人們的注意。"
+  },
+  {
+    "title": "Third-party evaluators found vulnerabilities in OpenAI monitoring system during test pilot",
+    "url": "https://www.cnbc.com/2026/10/22/metr-redwood-research-open-ai-test.html",
+    "source": "CNBC Top",
+    "summary": "OpenAI CEO Sam Altman pledged to grant independent evaluators \"employee-like access\" to the company to help address mounting safety concerns.",
+    "published_at": "2026-10-23T01:37:47+08:00",
+    "stocks": [],
+    "uid": "cd4979367ff06c1aa25a5c242b513d80",
+    "title_en": "Third-party evaluators found vulnerabilities in OpenAI monitoring system during test pilot",
+    "summary_en": "OpenAI CEO Sam Altman pledged to grant independent evaluators \"employee-like access\" to the company to help address mounting safety concerns.",
+    "title_zh": "第三方評估人員在測試過程中發現 OpenAI 監控系統有漏洞",
+    "summary_zh": "OpenAI 執行長 Sam Altman 承諾向獨立評估人員授予公司“類似員工的存取權限”，以幫助解決日益嚴重的安全問題。"
+  },
+  {
+    "title": "Canaccord reiterates Spotify stock rating on solid Q3 results",
+    "url": "https://www.investing.com/news/analyst-ratings/canaccord-reiterates-spotify-stock-rating-on-solid-q3-results-93CH-4967111",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-23T01:34:47+08:00",
+    "stocks": [],
+    "uid": "9d377a51d91dea623c63eefe2f6ae5e6",
+    "title_en": "Canaccord reiterates Spotify stock rating on solid Q3 results",
+    "summary_en": "",
+    "title_zh": "Canaccord 重申 Spotify 股票評級，因第三季業績穩健",
+    "summary_zh": ""
+  },
+  {
+    "title": "Earnings call transcript: Gruma’s Q3 2026 profit pressure offsets share gains",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-grumas-q3-2026-profit-pressure-offsets-share-gains-93CH-4967110",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-23T01:32:56+08:00",
+    "stocks": [],
+    "uid": "dd70f60741057bbdfd71b6f6e0b84fa6",
+    "title_en": "Earnings call transcript: Gruma’s Q3 2026 profit pressure offsets share gains",
+    "summary_en": "",
+    "title_zh": "財報電話會議記錄：Gruma 2026 年第三季的利潤壓力抵銷了股價上漲",
+    "summary_zh": ""
+  },
+  {
+    "title": "Regulators grant early termination of antitrust review for MarketAxess merger",
+    "url": "https://www.investing.com/news/sec-filings/regulators-grant-early-termination-of-antitrust-review-for-marketaxess-merger-93CH-4967109",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-23T01:32:48+08:00",
+    "stocks": [],
+    "uid": "d98425c2fda41831f0f2c570fd84206a",
+    "title_en": "Regulators grant early termination of antitrust review for MarketAxess merger",
+    "summary_en": "",
+    "title_zh": "監管機構批准提前終止對 MarketAxess 合併的反壟斷審查",
+    "summary_zh": ""
+  },
+  {
+    "title": "SD Bullion Announces Co-Branded Gold Bar Collection in Partnership With Argor-Heraeus",
+    "url": "https://www.investing.com/news/press-releases/sd-bullion-announces-cobranded-gold-bar-collection-in-partnership-with-argorheraeus-4967108",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-23T01:32:32+08:00",
+    "stocks": [],
+    "uid": "12ba48a4723d088b55fcdaf623084cd6",
+    "title_en": "SD Bullion Announces Co-Branded Gold Bar Collection in Partnership With Argor-Heraeus",
+    "summary_en": "",
+    "title_zh": "SD Bullion 宣布與 Argor-Heraeus 合作推出聯合品牌金條系列",
+    "summary_zh": ""
+  },
+  {
+    "title": "Forget AI Stocks: 2 Cryptocurrencies to Consider Buying Instead",
+    "url": "https://www.fool.com/investing/2026/10/22/forget-ai-stocks-2-cryptocurrencies-to-consider-bu/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Both Hyperliquid and Zcash have more than doubled in value this year, with bigger gains possibly ahead.",
+    "published_at": "2026-10-23T01:31:00+08:00",
+    "stocks": [],
+    "uid": "41af315af2ac05fbdad6881aecb53fa1",
+    "title_en": "Forget AI Stocks: 2 Cryptocurrencies to Consider Buying Instead",
+    "summary_en": "Both Hyperliquid and Zcash have more than doubled in value this year, with bigger gains possibly ahead.",
+    "title_zh": "忘記人工智慧股票：兩種值得考慮購買的加密貨幣",
+    "summary_zh": ""
+  },
+  {
+    "title": "US railroads pull ahead as high fuel costs hit truckers harder",
+    "url": "https://www.investing.com/news/stock-market-news/us-railroads-pull-ahead-as-high-fuel-costs-hit-truckers-harder-4967105",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-23T01:30:29+08:00",
+    "stocks": [],
+    "uid": "0f055a24bcc490d36d5c578246676f37",
+    "title_en": "US railroads pull ahead as high fuel costs hit truckers harder",
+    "summary_en": "",
+    "title_zh": "由於高燃油成本對卡車司機造成更大打擊，美國鐵路保持領先",
+    "summary_zh": ""
+  },
+  {
+    "title": "Warren Buffett's Successor, Greg Abel, Has 22% of Berkshire Hathaway Invested in This Stock That Just Crossed the $5 Trillion Mark",
+    "url": "https://www.fool.com/investing/2026/10/22/warren-buffett-successor-greg-abel-has-22-of-berkshire-hathaway-invested-in-this-stock-that-just-crossed-the-usd5-trillion-mark/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Buffett once called this company one of the best businesses in the world.",
+    "published_at": "2026-10-23T01:30:02+08:00",
+    "stocks": [],
+    "uid": "add0fe26f7cbca4c88d0278580213579",
+    "title_en": "Warren Buffett's Successor, Greg Abel, Has 22% of Berkshire Hathaway Invested in This Stock That Just Crossed the $5 Trillion Mark",
+    "summary_en": "Buffett once called this company one of the best businesses in the world.",
+    "title_zh": "華倫巴菲特的繼任者格雷格阿貝爾持有波克夏海瑟威 22% 的股份，投資了這只剛突破 5 兆美元大關的股票",
+    "summary_zh": "巴菲特曾稱這家公司是世界上最好的企業之一。"
+  },
+  {
+    "title": "If I Could Only Buy 1 Space Stock After the Rocket Lab Crash, It Would Be This One",
+    "url": "https://www.fool.com/investing/2026/10/22/if-i-could-only-buy-1-space-stock-after-the-rocket/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Intuitive Machines is growing faster and trades at a much lower valuation.",
+    "published_at": "2026-10-23T01:30:00+08:00",
+    "stocks": [],
+    "uid": "bf5925520e437f68d3eb35dfb46a9ed8",
+    "title_en": "If I Could Only Buy 1 Space Stock After the Rocket Lab Crash, It Would Be This One",
+    "summary_en": "Intuitive Machines is growing faster and trades at a much lower valuation.",
+    "title_zh": "如果火箭實驗室墜毀後我只能買一支太空股票，那就是這隻",
+    "summary_zh": ""
+  },
+  {
+    "title": "Nasdaq falls over 2% on Meta drag, slide in chip stocks; oil jumps and bonds rally",
+    "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-investors-weigh-tesla-meta-earnings-4964498",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-23T01:29:07+08:00",
+    "stocks": [],
+    "uid": "53988a04b319039302f4064c429c17ce",
+    "title_en": "Nasdaq falls over 2% on Meta drag, slide in chip stocks; oil jumps and bonds rally",
+    "summary_en": "",
+    "title_zh": "受 Meta 拖累、晶片股下滑，那斯達克指數跌幅超過 2%；油價上漲和債券上漲",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why TTM Technologies Stock Jumped Plunged 30% Today",
+    "url": "https://www.fool.com/investing/2026/10/22/why-ttm-technologies-stock-jumped-plunged-30-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "TTM Technologies looked like a winner this morning with a massive earnings beat and raised guidance. Unfortunately, the earnings call questions spilled the tea on hefty new debt and supply chain nightmares.",
+    "published_at": "2026-10-23T01:29:01+08:00",
+    "stocks": [],
+    "uid": "2a3bf06e4fc58d37deb2781bcb86f074",
+    "title_en": "Why TTM Technologies Stock Jumped Plunged 30% Today",
+    "summary_en": "TTM Technologies looked like a winner this morning with a massive earnings beat and raised guidance. Unfortunately, the earnings call questions spilled the tea on hefty new debt and supply chain nightmares.",
+    "title_zh": "為什麼 TTM Technologies 股價今天暴跌 30%",
+    "summary_zh": "今天早上，迅達科技 (TTM Technologies) 看起來像是贏家，其盈利大幅超出預期，並提高了指引。不幸的是，財報電話會議的問題讓巨額新債務和供應鏈噩夢成為泡影。"
+  },
+  {
+    "title": "Earnings call transcript: L’Oréal posts strong Q3 2026 growth, stock flat",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-loreal-posts-strong-q3-2026-growth-stock-flat-93CH-4967098",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-23T01:28:59+08:00",
+    "stocks": [],
+    "uid": "50e475f5ee463dac54f1a8c709ccc5f0",
+    "title_en": "Earnings call transcript: L’Oréal posts strong Q3 2026 growth, stock flat",
+    "summary_en": "",
+    "title_zh": "財報電話會議紀錄：歐萊雅 2026 年第三季成長強勁，股價持平",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why Meta Platforms Stock Took a Hit Today",
+    "url": "https://www.fool.com/investing/2026/10/22/why-meta-platforms-stock-took-a-hit-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The social media giant offered both good news and bad news during its quarterly financial report.",
+    "published_at": "2026-10-23T01:28:41+08:00",
+    "stocks": [],
+    "uid": "862316daf9cfa5c79cd4fb2e198a2718",
+    "title_en": "Why Meta Platforms Stock Took a Hit Today",
+    "summary_en": "The social media giant offered both good news and bad news during its quarterly financial report.",
+    "title_zh": "為什麼元平台股票今天受到重創",
+    "summary_zh": "這家社群媒體巨頭在其季度財務報告中既提供了好消息，也提供了壞消息。"
+  },
+  {
+    "title": "Cegedim Q3 2026 slides: business services surge as cloud unit drops",
+    "url": "https://www.investing.com/news/company-news/cegedim-q3-2026-slides-business-services-surge-as-cloud-unit-drops-93CH-4967097",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-23T01:28:36+08:00",
+    "stocks": [],
+    "uid": "3b00fa17572e4352135d736c06b4f078",
+    "title_en": "Cegedim Q3 2026 slides: business services surge as cloud unit drops",
+    "summary_en": "",
+    "title_zh": "Cegedim 2026 年第三季業績下滑：雲端業務下降，商業服務激增",
+    "summary_zh": ""
+  },
+  {
+    "title": "We're dipping back into the AI trade with our first data center buy in weeks",
+    "url": "https://www.cnbc.com/investingclub/2026/10/22/were-dipping-back-into-the-data-center-trade-with-small-buy.html",
+    "source": "CNBC Top",
+    "summary": "The stock is also getting an upgrade, with the expectation of a bounce ahead.",
+    "published_at": "2026-10-23T01:28:19+08:00",
+    "stocks": [],
+    "uid": "05dc41217397b7bc57fbb25fb8b44ae1",
+    "title_en": "We're dipping back into the AI trade with our first data center buy in weeks",
+    "summary_en": "The stock is also getting an upgrade, with the expectation of a bounce ahead.",
+    "title_zh": "我們將在幾週內購買第一個資料中心，重新涉足人工智慧產業",
+    "summary_zh": "該股的評級也得到了上調，預計未來將會反彈。"
+  },
+  {
+    "title": "Wtrg stock hits 52-week high at 42.51 USD",
+    "url": "https://www.investing.com/news/company-news/wtrg-stock-hits-52week-high-at-4251-usd-93CH-4967096",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-23T01:25:11+08:00",
+    "stocks": [],
+    "uid": "826756cc48493ee99470a8fac57a8a67",
+    "title_en": "Wtrg stock hits 52-week high at 42.51 USD",
+    "summary_en": "",
+    "title_zh": "Wtrg 股價觸及 52 週高點 42.51 美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Meta shares slide, default insurance hits record as AI spending alarms investors",
+    "url": "https://www.investing.com/news/stock-market-news/meta-falls-as-investors-balance-muse-growth-with-rising-ai-costs-4965902",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-23T01:24:37+08:00",
+    "stocks": [],
+    "uid": "086c3d3f4f81fdb0ed22f9cdd23b4846",
+    "title_en": "Meta shares slide, default insurance hits record as AI spending alarms investors",
+    "summary_en": "",
+    "title_zh": "人工智慧支出警告投資者，Meta 股價下滑，違約保險創歷史新高",
+    "summary_zh": ""
+  },
+  {
+    "title": "Lazard (LAZ) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/10/22/lazard-laz-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Record advisory revenue and $54B in gross inflows drive Lazard's 2030 strategy forward.",
+    "published_at": "2026-10-23T01:23:35+08:00",
+    "stocks": [
+      "LAZ"
+    ],
+    "uid": "76572fd0455044fbe238414bb014b664"
+  },
+  {
+    "title": "Spotify (SPOT) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/10/22/spotify-spot-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Premium revenue surged 15% as gross margin expanded to 33%.",
+    "published_at": "2026-10-23T01:23:35+08:00",
+    "stocks": [
+      "SPOT"
+    ],
+    "uid": "2aaea9c58c40e1d210068a3f220c91e8"
+  },
+  {
+    "title": "Pulte (PHM) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/10/22/pulte-phm-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Rising rates pressured margins as buyer traffic fell 14% year over year.",
+    "published_at": "2026-10-23T01:23:35+08:00",
+    "stocks": [
+      "PHM"
+    ],
+    "uid": "6e25458ced4b8f389562aefc7f5c1b30"
+  },
+  {
+    "title": "Lockheed Martin (LMT) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/10/22/lockheed-martin-lmt-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Record $292B backlog and raised guidance signal accelerating defense demand.",
+    "published_at": "2026-10-23T01:23:35+08:00",
+    "stocks": [
+      "LMT"
+    ],
+    "uid": "48eca28dd61be6241d8045bb2c005f0e"
+  },
+  {
+    "title": "Valero (VLO) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/10/22/valero-vlo-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Net income jumped to $6.8 billion on strong refining margins and tight inventories.",
+    "published_at": "2026-10-23T01:23:35+08:00",
+    "stocks": [
+      "VLO"
+    ],
+    "uid": "a92c49bf063cc52c52f8c37e68a34503"
+  },
+  {
+    "title": "Amalgamated Financial (AMAL) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/10/22/amalgamated-financial-amal-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Record net interest income and core revenue drove earnings to $1.14 per share.",
+    "published_at": "2026-10-23T01:23:34+08:00",
+    "stocks": [
+      "AMAL"
+    ],
+    "uid": "2ad4b5cb22ca35827c767cb6d57c0321"
+  },
+  {
+    "title": "Curbline (CURB) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/10/22/curbline-curb-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Revenue surged 46% year over year as acquisitions and same-property growth accelerated.",
+    "published_at": "2026-10-23T01:23:34+08:00",
+    "stocks": [
+      "CURB"
+    ],
+    "uid": "5a58a05a2bd52d80f67aaad38c95269a"
+  },
+  {
+    "title": "Young investors are betting on prediction markets and crypto. But this bestselling author says the boring money moves still work.",
+    "url": "https://www.marketwatch.com/story/young-investors-are-betting-on-prediction-markets-and-crypto-but-this-bestselling-author-says-the-boring-money-moves-still-work-cd9d350a?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Beth Kobliner, author of “Get a Financial Life,” explains why today’s young people face a tougher financial world and reveals the three money moves she would make first.",
+    "published_at": "2026-10-23T01:21:00+08:00",
+    "stocks": [],
+    "uid": "b2d6aed9d9069a577c064312262768f2"
+  },
+  {
+    "title": "Prediction: Here's What a $1,000 Investment in IonQ Stock Could Be Worth in 5 Years",
+    "url": "https://www.fool.com/investing/2026/10/22/prediction-heres-what-a-1000-investment-in-ionq-st/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "IonQ's business could get much bigger, and the stock could still deliver disappointing returns.",
+    "published_at": "2026-10-23T01:21:00+08:00",
+    "stocks": [],
+    "uid": "b8df8b526502e21666185d143d60923d"
+  },
+  {
+    "title": "Nvidia Earnings Are Coming Next Month and the Stock Looks Poised to Dip Regardless of the Outcome",
+    "url": "https://www.fool.com/investing/2026/10/22/nvidia-earnings-are-coming-and-the-stock-looks-poi/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "You may be surprised at how the market has reacted to most of the chip giant's recent quarters.",
+    "published_at": "2026-10-23T01:17:00+08:00",
+    "stocks": [],
+    "uid": "43c33b49b9642fe7f126eb34fdeb3405"
+  },
+  {
+    "title": "‘AI is on trial’: Bond yields sink below 5% as investors look for safety",
+    "url": "https://www.marketwatch.com/story/ai-is-on-trial-bond-yields-sink-below-5-as-investors-look-for-safety-dbc86ee9?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Investors are flooding back into Treasurys for safety to hedge the risks of more AI fallout in stock and credit markets.",
+    "published_at": "2026-10-23T01:16:00+08:00",
+    "stocks": [],
+    "uid": "39ef44526a559a0650634fd5a3d9ebfc"
+  },
+  {
+    "title": "Kaiser Aluminum (KALU) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/10/22/kaiser-aluminum-kalu-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Conversion revenue surged 25% as aerospace and packaging demand exceeded expectations.",
+    "published_at": "2026-10-23T01:12:43+08:00",
+    "stocks": [
+      "KALU"
+    ],
+    "uid": "b3b4f8537e55c84d63bdea09243e326c"
+  },
+  {
+    "title": "Wyndham Hotels (WH) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/10/22/wyndham-hotels-wh-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Infrastructure demand and AI tools drove US RevPAR growth and franchisee gains.",
+    "published_at": "2026-10-23T01:09:56+08:00",
+    "stocks": [
+      "WH"
+    ],
+    "uid": "fe4a86dfdd37834174fa17181c42d2c6"
+  },
+  {
+    "title": "Brandywine Realty (BDN) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/10/22/brandywine-realty-bdn-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "REIT cuts debt 13% via $681M asset sales while managing Austin market challenges.",
+    "published_at": "2026-10-23T01:09:56+08:00",
+    "stocks": [
+      "BDN"
+    ],
+    "uid": "c4f973f819d43a550f92790feba2a550"
+  },
+  {
+    "title": "Fulton Financial (FULT) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/10/22/fulton-financial-fult-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Record operating income and wealth assets highlight strong quarter.",
+    "published_at": "2026-10-23T01:09:56+08:00",
+    "stocks": [
+      "FULT"
+    ],
+    "uid": "6df79c858428d2fef5d5fab0dd1dd4f4"
+  },
+  {
+    "title": "Barclays (BCS) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/10/22/barclays-bcs-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Return on tangible equity climbed to 11.7%, while cost-income ratio improved to 62%.",
+    "published_at": "2026-10-23T01:08:31+08:00",
+    "stocks": [
+      "BCS"
+    ],
+    "uid": "0717c339a2706c038365cf1a9e058ac6"
+  },
+  {
+    "title": "Huntington (HBAN) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/10/22/huntington-hban-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Steinour discusses integration gains and pullback from compressed-margin assets.",
+    "published_at": "2026-10-23T01:08:31+08:00",
+    "stocks": [
+      "HBAN"
+    ],
+    "uid": "bd862f4b9e661fbf1cb3f8b27d7d8e33"
+  },
+  {
+    "title": "A.I. and Its Dangers Are Embedded In the Midterm Elections",
+    "url": "https://www.nytimes.com/2026/10/22/business/media/ai-disinfo-chatbots-elections.html",
+    "source": "NYT Business",
+    "summary": "The midterms are the first elections in which artificial intelligence is integrated into every major social media platform. Efforts to blunt its harms are uneven.",
+    "published_at": "2026-10-23T01:07:44+08:00",
+    "stocks": [],
+    "uid": "705ac9a27a196ffae98df715dc458565"
+  },
+  {
+    "title": "Here's What an $8,000 Investment in SpaceX Could Be Worth by 2030",
+    "url": "https://www.fool.com/investing/2026/10/22/heres-what-an-8000-investment-in-spacex-could-be-w/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Space Exploration Technologies is one of the most talked-about stocks in the entire market.",
+    "published_at": "2026-10-23T01:05:00+08:00",
+    "stocks": [],
+    "uid": "dc0c3f2c00bc310d657977f43e97bb67"
+  },
+  {
+    "title": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
+    "url": "https://www.cnbc.com/2026/10/22/bill-ackman-talks-meta-and-markets-with-cnbc.html",
+    "source": "CNBC Top",
+    "summary": "\"We're going to have an amazing 2027,\" he said.",
+    "published_at": "2026-10-23T01:04:12+08:00",
+    "stocks": [],
+    "uid": "cc8927465c91b4ed7f60762c1e52408c"
+  },
+  {
+    "title": "FIFA launches tender of 2030 men's World Cup U.S. media rights, plans to choose winner by end of year",
+    "url": "https://www.cnbc.com/2026/10/22/fifa-launches-tender-of-us-world-cup-media-rights-for-2030.html",
+    "source": "CNBC Top",
+    "summary": "FIFA is formally auctioning its U.S. media rights and wants bids by Nov. 19.",
+    "published_at": "2026-10-23T01:01:08+08:00",
+    "stocks": [],
+    "uid": "b81e303eb48cfcbf8702aec95e8f45a2"
+  },
+  {
+    "title": "Judge orders Trump to sit for deposition in BBC defamation lawsuit by Dec. 11: Reports",
+    "url": "https://www.cnbc.com/2026/10/22/trump-deposition-bbc-defamation-lawsuit.html",
+    "source": "CNBC Top",
+    "summary": "Trump's lawyers had requested that his deposition be conducted between Jan. 11 and Jan. 22.",
+    "published_at": "2026-10-23T00:59:00+08:00",
+    "stocks": [],
+    "uid": "dea4f40dacfdf5629fa7422b2556b18b"
+  },
+  {
+    "title": "NextEra Energy: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/10/22/nextera-energy-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Fee-based federal hubs let NextEra capture data center demand without loading its balance sheet with capital.",
+    "published_at": "2026-10-23T00:57:08+08:00",
+    "stocks": [],
+    "uid": "85273f520314d0d21d4916bb9bef4c90"
+  },
+  {
+    "title": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
+    "url": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
+    "source": "CNBC Top",
+    "summary": "Governments or companies looking for an alternative to SpaceX's Starlink are faced with few options, as Amazon, Eutelsat and others are far behind.",
+    "published_at": "2026-10-23T00:54:26+08:00",
+    "stocks": [],
+    "uid": "9f304431371833f644425ef49f631402"
+  },
+  {
+    "title": "First Merchants (FRME) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/10/22/first-merchants-frme-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "NIM expanded 20 basis points year-over-year amid stable credit quality.",
+    "published_at": "2026-10-23T00:54:17+08:00",
+    "stocks": [
+      "FRME"
+    ],
+    "uid": "54cd16bb177355cefe0c3921d24197de"
+  },
+  {
+    "title": "Element Solutions (ESI) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/10/22/element-solutions-esi-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Record Q3 revenue and raised full-year guidance on strong data center demand.",
+    "published_at": "2026-10-23T00:54:10+08:00",
+    "stocks": [
+      "ESI"
+    ],
+    "uid": "81c915485e5fbb65e4e276382583b915"
+  },
+  {
+    "title": "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
+    "url": "https://www.cnbc.com/2026/10/22/trump-world-liberty-crypto-lawsuit-uae.html",
+    "source": "CNBC Top",
+    "summary": "\"We're suing to stop the corruption and to force President Trump to return the profits to American taxpayers,\" attorney Matt Pelikan told CNBC.",
+    "published_at": "2026-10-23T00:49:56+08:00",
+    "stocks": [],
+    "uid": "9162dfa46a48f9d5e833602bb7cc8cbb"
+  },
+  {
+    "title": "Young Americans are giving up their cars. It’s a path to financial freedom, for some.",
+    "url": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "With vehicle prices soaring and ownership increasingly out of reach, some young adults are discovering that life without a car leaves them with breathing room to spend on other things",
+    "published_at": "2026-10-23T00:48:00+08:00",
+    "stocks": [],
+    "uid": "3184d169bfa07d85bc662d251da771cf"
+  },
+  {
+    "title": "Zuckerberg’s California tax move is a win for Meta — and for him",
+    "url": "https://www.marketwatch.com/story/zuckerbergs-california-tax-move-is-a-win-for-meta-and-for-him-aa049c94?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "He has bought some good PR and gets to live and work where he wants.",
+    "published_at": "2026-10-23T00:48:00+08:00",
+    "stocks": [],
+    "uid": "7e04caad50f3657eea77c18c6e9015dd"
+  },
+  {
+    "title": "Cruise lines chase luxury travelers with suites for up to $25,000 a night",
+    "url": "https://www.cnbc.com/2026/10/22/luxury-cruise-suites-regent-seven-seas.html",
+    "source": "CNBC Top",
+    "summary": "CNBC got a tour of the Regent Suite, a top-of-the-line offering on Regent's Seven Seas Splendor that goes for $15,000 a night.",
+    "published_at": "2026-10-23T00:46:29+08:00",
+    "stocks": [],
+    "uid": "6433cd391d67358b2d1ece46f837e836"
+  },
+  {
+    "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
+    "url": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
+    "source": "CNBC Top",
+    "summary": "Initial filings for unemployment insurance slipped to a seasonally adjusted 194,000.",
+    "published_at": "2026-10-23T00:40:09+08:00",
+    "stocks": [],
+    "uid": "9ca3f0fed8244c50274345fe63b2a650"
+  },
+  {
+    "title": "Mortgage Rates Remain Above 7%, Pushing Home Prices Lower in Some Areas",
+    "url": "https://www.nytimes.com/2026/10/22/business/mortgage-rates-housing-costs.html",
+    "source": "NYT Business",
+    "summary": "The 30-year, fixed-rate mortgage dropped slightly to 7.32 percent as prospective home buyers continue to struggle with affordability. But home prices are starting to drop in some areas.",
+    "published_at": "2026-10-23T00:26:52+08:00",
+    "stocks": [],
+    "uid": "d34e9581a8b5c26210c4ee01cb6339a0"
+  },
+  {
+    "title": "What Is PHP? Why Are Government and Business Websites Going Offline?",
+    "url": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html",
+    "source": "NYT Business",
+    "summary": "A critical security flaw in the programming language underpinning much of the web has prompted a global rush to patch vulnerable systems.",
+    "published_at": "2026-10-22T23:55:07+08:00",
+    "stocks": [],
+    "uid": "e04fc53f1db1ab1852644d8a43e39120"
+  },
+  {
+    "title": "Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S.",
+    "url": "https://www.cnbc.com/2026/10/22/pepsico-taco-bell-beverage-deal.html",
+    "source": "CNBC Top",
+    "summary": "Taco Bell is sticking with longtime beverage supplier PepsiCo, even though sister chain KFC defected to Coca-Cola.",
+    "published_at": "2026-10-22T23:52:00+08:00",
+    "stocks": [],
+    "uid": "e1dd732e07a125e5f6e6a45ad5b336ef"
+  },
+  {
+    "title": "Meta stock sinks 6% as AI spend pushes free cash flow negative",
+    "url": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
+    "source": "CNBC Markets",
+    "summary": "Prices for the social media giant's 5-year credit default swaps are reaching all-time highs as investors signal growing credit concerns.",
+    "published_at": "2026-10-22T23:45:57+08:00",
+    "stocks": [],
+    "uid": "edf5754b76d92cfad4e1a327fd590894"
+  },
+  {
+    "title": "Two big reasons Micron and other chip stocks are falling on Thursday",
+    "url": "https://www.marketwatch.com/story/two-big-reasons-micron-and-other-chip-stocks-are-falling-on-thursday-312f1fb2?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Investors are spooked by Tesla’s cut to its near-term spending target and Lam Research’s weaker-than-expected forecast,",
+    "published_at": "2026-10-22T23:33:00+08:00",
+    "stocks": [],
+    "uid": "100256e3cca12f2cbbb552490a80cf4c"
+  },
+  {
+    "title": "Under-the-radar stocks to play the next leg of the energy trade with oil prices jumping again",
+    "url": "https://www.cnbc.com/2026/10/22/under-the-radar-stocks-to-play-the-next-leg-of-the-energy-trade-with-oil-prices-jumping-again.html",
+    "source": "CNBC Top",
+    "summary": "Iran is going to grow more desperate as oil money dries up, which makes the country even more dangerous.",
+    "published_at": "2026-10-22T23:16:05+08:00",
+    "stocks": [],
+    "uid": "b29701d127b9888b61b93667671ad64c"
+  },
+  {
+    "title": "Investors’ recent money moves show a preference for lowering risks over boosting rewards",
+    "url": "https://www.marketwatch.com/story/investors-recent-money-moves-show-a-preference-for-quality-over-momentum-within-the-s-p-500-ed6b5149?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Investors have been steadily pouring money into the Invesco S&amp;P 500 Quality ETF this year.",
+    "published_at": "2026-10-22T23:10:00+08:00",
+    "stocks": [],
+    "uid": "2b58cec4e7c2d9e441de844d694aba14"
+  },
+  {
+    "title": "Blackstone's Jon Gray says CoreWeave can 'find a way through' financing pressure",
+    "url": "https://www.cnbc.com/2026/10/22/blackstone-jon-gray-coreweave-financing.html",
+    "source": "CNBC Markets",
+    "summary": "Blackstone COO Jon Gray says CoreWeave's underlying business is strong despite concerns over its mounting debt.",
+    "published_at": "2026-10-22T22:11:14+08:00",
+    "stocks": [],
+    "uid": "d26e3b41cb51395c097bfa3d3daa1056"
+  },
+  {
+    "title": "Surging oil prices and fresh tech jitters are hammering stocks",
+    "url": "https://www.businessinsider.com/stock-market-today-tech-sell-off-meta-tesla-oil-prices-2026-10",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-10-22T22:08:00+08:00",
+    "stocks": [],
+    "uid": "136db511dbafc044928c60e2ebed8b16"
+  },
+  {
+    "title": "Beyond Green Expands Its Global Portfolio With New Members in Costa Rica and Spain",
+    "url": "https://markets.businessinsider.com/news/stocks/beyond-green-expands-its-global-portfolio-with-new-members-in-costa-rica-and-spain-1036655089",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;em&gt;SUMMARY:&lt;/em&gt;&lt;em&gt; Beyond Green has welcomed two new member hotels, El Silencio Lodge  Spa in Costa Rica and Hotel M&#243;n Sant Benet in Spain, to its global portfolio. Both exemplify a commitment to environmental stewardship, cultural heritage and...",
+    "published_at": "2026-10-22T22:05:28+08:00",
+    "stocks": [],
+    "uid": "15e3c1ba6832092647b450cb9dfca862"
+  },
+  {
+    "title": "Vera Therapeutics Announces Positive ORIGIN 3 Final Efficacy Analysis of TRUTAKNA™ (atacicept-vymj) in IgA Nephropathy Presented at ASN Kidney Week 2026 and Published in the New England Journal of...",
+    "url": "https://markets.businessinsider.com/news/stocks/vera-therapeutics-announces-positive-origin-3-final-efficacy-analysis-of-trutakna-atacicept-vymj-in-iga-nephropathy-presented-at-asn-kidney-week-2026-and-published-in-the-new-england-journal-of-1036655088",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;ul type=&quot;disc&quot;&gt;&lt;li style=&quot;margin-top:6pt;&quot;&gt;&lt;em&gt;TRUTAKNA, the first and only FDA-approved BAFF and APRIL inhibitor, achieved statistical significance in all prespecified endpoints, including eGFR change from baseline and annualized slope, and risk...",
+    "published_at": "2026-10-22T22:05:00+08:00",
+    "stocks": [],
+    "uid": "3877315183d083ac42147fa98e45ca2a"
+  },
+  {
+    "title": "Urology Care Foundation Names Gopal H. Badlani, MD, as Next President",
+    "url": "https://markets.businessinsider.com/news/stocks/urology-care-foundation-names-gopal-h-badlani-md-as-next-president-1036655087",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;BALTIMORE, Oct.  22, 2026  (GLOBE NEWSWIRE) -- The Urology Care Foundation, the official foundation of the American Urological Association&#174;, today announced that longtime Foundation leader and supporter Gopal H. Badlani, MD, has been elected its...",
+    "published_at": "2026-10-22T22:03:00+08:00",
+    "stocks": [],
+    "uid": "750d72b044fdef1ba00e774fee287fcd"
+  },
+  {
+    "title": "EQS-PVR: AIXTRON SE: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
+    "url": "https://markets.businessinsider.com/news/stocks/eqs-pvr-aixtron-se-release-according-to-article-40-section-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution-1036655090",
+    "source": "Business Insider",
+    "summary": "&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;\n\n\nEQS Voting Rights Announcement: AIXTRON SE\n\n\n\n&lt;br/&gt;\n\n\nAIXTRON SE: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution &lt;br/&gt;&lt;br/&gt;\n\n\n\n\n\n\n22.10.2026 / 16:00 CET/CEST&lt;br/&gt;\n\n\nDissemination of a Voting Rights Announcement...",
+    "published_at": "2026-10-22T22:00:01+08:00",
+    "stocks": [],
+    "uid": "3640761fcd48f57de51657c68c29e479"
+  },
+  {
+    "title": "Purple goes live across Derbion with Engage",
+    "url": "https://markets.businessinsider.com/news/stocks/purple-goes-live-across-derbion-with-engage-1036654829",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;Manchester, LANCS, Oct.  22, 2026  (GLOBE NEWSWIRE) -- Purple, the global guest, staff and multi-tenant WiFi and analytics platform, has gone live across Derbion, one of the largest shopping centers in the East Midlands, under a three-year agreement.",
+    "published_at": "2026-10-22T22:00:00+08:00",
+    "stocks": [],
+    "uid": "0b9d874177ef78693a1e8025706a98f3"
+  },
+  {
+    "title": "Loam Bio Clears USDA APHIS Permitting for Multi-State Expansion with Support from EarthOptics Genomic Analysis",
+    "url": "https://markets.businessinsider.com/news/stocks/loam-bio-clears-usda-aphis-permitting-for-multi-state-expansion-with-support-from-earthoptics-genomic-analysis-1036654830",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;MINNEAPOLIS, Oct.  22, 2026  (GLOBE NEWSWIRE) -- EarthOptics announced today that Loam Bio has received regulatory clearance from USDA APHIS to expand use of its biological across additional states, supported by genomic evidence produced through...",
+    "published_at": "2026-10-22T22:00:00+08:00",
+    "stocks": [],
+    "uid": "712fa6257feaf76d85a1f32e5a3a6d85"
+  },
+  {
+    "title": "Unhedged Connects AI Assistants to Esports, Crypto and Sports Prediction Markets",
+    "url": "https://markets.businessinsider.com/news/stocks/unhedged-connects-ai-assistants-to-esports-crypto-and-sports-prediction-markets-1036654831",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;Singapore, SG, Oct.  22, 2026  (GLOBE NEWSWIRE) -- &lt;a href=&quot;https://unhedged.gg/?utm_source=press_releaseutm_medium=prutm_campaign=mcp_sdk_launchutm_content=opening&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;Unhedged&lt;/a&gt;, a prediction markets platform covering...",
+    "published_at": "2026-10-22T22:00:00+08:00",
+    "stocks": [],
+    "uid": "40c181ec6e8e0d7f3fafbdbeabe06fe5"
+  },
+  {
+    "title": "Eagle Creative Offers $20 Million to Acquire RMS Titanic, Inc. and Preserve Historic Artifact Collection",
+    "url": "https://markets.businessinsider.com/news/stocks/eagle-creative-offers-20-million-to-acquire-rms-titanic-inc-and-preserve-historic-artifact-collection-1036654832",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;Belleair, FL, Oct.  22, 2026  (GLOBE NEWSWIRE) -- RMS Titanic, Inc. co-founder G. Michael Harris urges Apollo to engage following court injunction against proposed artifact auctionEagle Creative, Inc. has submitted a $20 million offer to acquire RMS...",
+    "published_at": "2026-10-22T22:00:00+08:00",
+    "stocks": [],
+    "uid": "4dfd3d670601bfb7a365fd3ad30a34f3"
+  },
+  {
+    "title": "Elkhart USD 218 Deploys ZeroEyes AI Gun Detection and Intelligent Situational Awareness Technology",
+    "url": "https://markets.businessinsider.com/news/stocks/elkhart-usd-218-deploys-zeroeyes-ai-gun-detection-and-intelligent-situational-awareness-technology-1036654833",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;PHILADELPHIA, Oct.  22, 2026  (GLOBE NEWSWIRE) -- &lt;a href=&quot;https://www.globenewswire.com/Tracker?data=vrvVgSdcP5gJ_LLN8I0969jiT3WK5H157RL0OHRoZ1Ng3NpN_tFYdXhMUPeJkzxBcik14n54b6pYJPymQ37Rhw==&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;&lt;u&gt;ZeroEyes&lt;/u&gt;&lt;/a&gt;,...",
+    "published_at": "2026-10-22T22:00:00+08:00",
+    "stocks": [],
+    "uid": "ccd4f119e61c09928feb095711f14090"
+  },
+  {
+    "title": "Nvidia's Jensen Huang says he sees no sign of a 2029 memory glut: 'You can always use more'",
+    "url": "https://www.cnbc.com/2026/10/22/jensen-huang-nvidia-memory-selloff-shortage.html",
+    "source": "CNBC Top",
+    "summary": "Nvidia's Jensen Huang told CNBC that a surplus of memory supply is unlikely by 2029, as memory stocks have taken a beating in the past week.",
+    "published_at": "2026-10-22T21:12:38+08:00",
+    "stocks": [],
+    "uid": "0e50cfd82d15b233130bb71015a22c96"
+  },
+  {
+    "title": "Barclays to Cut 5,000 Jobs in A.I.-Driven Push to Lower Costs",
+    "url": "https://www.nytimes.com/2026/10/22/business/barclays-job-cuts-ai.html",
+    "source": "NYT Business",
+    "summary": "The move is the latest illustration of a company saying it believes it can be more efficient with fewer workers because of artificial intelligence.",
+    "published_at": "2026-10-22T20:45:54+08:00",
+    "stocks": [],
+    "uid": "27ff0816ef74c1c979228cf12cde3bf5"
+  },
+  {
     "title": "Why governments pulled websites offline over the decades-old PHP programming language",
     "url": "https://www.cnbc.com/2026/10/22/php2shell-vulnerability-what-is-it-and-is-your-data-at-risk.html",
     "source": "CNBC Top",
