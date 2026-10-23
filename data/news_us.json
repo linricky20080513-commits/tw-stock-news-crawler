@@ -1,5 +1,664 @@
 [
   {
+    "title": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses",
+    "url": "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
+    "source": "CNBC Top",
+    "summary": "The Alaska race is one of several contests around the United States that could determine whether Republicans retain their slim majority in the Senate",
+    "published_at": "2026-10-23T23:42:42+08:00",
+    "stocks": [],
+    "uid": "4ebcc09a1a20d71a94788badcf83be02",
+    "title_en": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses",
+    "summary_en": "The Alaska race is one of several contests around the United States that could determine whether Republicans retain their slim majority in the Senate",
+    "title_zh": "如果共和黨以微弱優勢落敗，司法部將提起訴訟，阻止阿拉斯加認證參議院競選獲勝者",
+    "summary_zh": "阿拉斯加競選是美國各地可能決定共和黨是否保住參議院微弱多數席位的幾場競選之一"
+  },
+  {
+    "title": "CoreWeave Is Down 13% in a Week. Here's the Price at Which I'd Buy",
+    "url": "https://www.fool.com/investing/2026/10/23/coreweave-is-down-xx-in-a-week-heres-the-price-at/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The neocloud stock looks undervalued relative to its growth potential.",
+    "published_at": "2026-10-23T23:40:00+08:00",
+    "stocks": [],
+    "uid": "7b696fcc4cd1710bd6191fc3c252037c",
+    "title_en": "CoreWeave Is Down 13% in a Week. Here's the Price at Which I'd Buy",
+    "summary_en": "The neocloud stock looks undervalued relative to its growth potential.",
+    "title_zh": "CoreWeave 一週內下跌 13%。這是我買的價格",
+    "summary_zh": "相對於其成長潛力，neocloud 股票看起來被低估。"
+  },
+  {
+    "title": "Amex (AXP) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/10/23/amex-axp-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Record revenue and raised guidance highlight strong card spending and fee growth.",
+    "published_at": "2026-10-23T23:38:04+08:00",
+    "stocks": [
+      "AXP"
+    ],
+    "uid": "2b1fa909b7ecdb1bf2be9226aec381ca",
+    "title_en": "Amex (AXP) Q3 2026 Earnings Call Transcript",
+    "summary_en": "Record revenue and raised guidance highlight strong card spending and fee growth.",
+    "title_zh": "美國運通 (AXP) 2026 年第三季財報電話會議紀錄",
+    "summary_zh": "創紀錄的收入和上調的指導凸顯了信用卡支出和費用的強勁增長。"
+  },
+  {
+    "title": "Finding Rule Breakers, IRL Investing, and Making Mistakes",
+    "url": "https://www.fool.com/investing/2026/10/23/finding-rule-breakers-irl-investing-and-making-mistakes/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "What separates exceptional long-term investments from the rest?",
+    "published_at": "2026-10-23T23:37:05+08:00",
+    "stocks": [],
+    "uid": "6f23bd817eddd79ce50b81c88e1dacfc",
+    "title_en": "Finding Rule Breakers, IRL Investing, and Making Mistakes",
+    "summary_en": "What separates exceptional long-term investments from the rest?",
+    "title_zh": "尋找規則破壞者、現實投資和犯錯",
+    "summary_zh": "特殊的長期投資與其他投資有何不同？"
+  },
+  {
+    "title": "TikTok U.S. hunts for multiple gigawatts of computing capacity, sources tell CNBC",
+    "url": "https://www.cnbc.com/2026/10/23/tiktok-us-compute-capacity.html",
+    "source": "CNBC Top",
+    "summary": "The operator of the social media platform in the U.S. has sounded out opportunities to obtain capacity over the coming years.",
+    "published_at": "2026-10-23T23:35:36+08:00",
+    "stocks": [],
+    "uid": "37848ce36553f3a7865404d7bc725160",
+    "title_en": "TikTok U.S. hunts for multiple gigawatts of computing capacity, sources tell CNBC",
+    "summary_en": "The operator of the social media platform in the U.S. has sounded out opportunities to obtain capacity over the coming years.",
+    "title_zh": "消息人士告訴 CNBC，TikTok 美國正在尋求數千兆瓦的運算能力",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why T-Mobile US Stock Dropped Today",
+    "url": "https://www.fool.com/investing/2026/10/23/why-t-mobile-us-stock-dropped-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "SpaceX got a taste of T-Mobile's cellphone profit margins. Now it wants more.",
+    "published_at": "2026-10-23T23:35:30+08:00",
+    "stocks": [],
+    "uid": "3146906d6785dafc48d46ed80cd72cd8",
+    "title_en": "Why T-Mobile US Stock Dropped Today",
+    "summary_en": "SpaceX got a taste of T-Mobile's cellphone profit margins. Now it wants more.",
+    "title_zh": "為什麼 T-Mobile 美國股票今天下跌",
+    "summary_zh": "SpaceX 嚐到了 T-Mobile 手機利潤率的甜頭。現在它想要更多。"
+  },
+  {
+    "title": "SpaceX's Launch Business Wasn't Profitable Last Quarter, but Here's the Hidden Upside",
+    "url": "https://www.fool.com/investing/2026/10/23/spacexs-launch-business-wasnt-profitable-last-quar/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The space segment is doing more for SpaceX than its raw revenue numbers indicate.",
+    "published_at": "2026-10-23T23:34:00+08:00",
+    "stocks": [],
+    "uid": "2a7de365cd6cc3847edc48c80d4d4dbd",
+    "title_en": "SpaceX's Launch Business Wasn't Profitable Last Quarter, but Here's the Hidden Upside",
+    "summary_en": "The space segment is doing more for SpaceX than its raw revenue numbers indicate.",
+    "title_zh": "SpaceX 上季的發射業務並未獲利，但隱藏的好處如下",
+    "summary_zh": "太空領域為 SpaceX 帶來的貢獻比其原始收入數據顯示的還要多。"
+  },
+  {
+    "title": "Arista Networks vs. Salesforce: Which Technology Stock Is a Better Buy in 2026?",
+    "url": "https://www.fool.com/coverage/better-buy/2026/10/23/arista-networks-vs-salesforce-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Arista trades at a steep premium for its 28.6% growth, while Salesforce offers a diversified revenue base at a fraction of the valuation multiple.",
+    "published_at": "2026-10-23T23:30:02+08:00",
+    "stocks": [],
+    "uid": "bfdaf36fc3e3f399d189902d35ca8af0",
+    "title_en": "Arista Networks vs. Salesforce: Which Technology Stock Is a Better Buy in 2026?",
+    "summary_en": "Arista trades at a steep premium for its 28.6% growth, while Salesforce offers a diversified revenue base at a fraction of the valuation multiple.",
+    "title_zh": "Arista Networks 與 Salesforce：2026 年哪一檔科技股更值得買進？",
+    "summary_zh": ""
+  },
+  {
+    "title": "Should You Forget the Vanguard S&P 500 ETF (VOO) and Buy the Invesco S&P 500 Equal Weight ETF (RSP) Instead?",
+    "url": "https://www.fool.com/investing/2026/10/23/should-you-forget-the-vanguard-sp-500-etf-voo-and/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The most common investing strategy is typically to buy the S&amp;P 500.",
+    "published_at": "2026-10-23T23:30:00+08:00",
+    "stocks": [
+      "VOO",
+      "RSP"
+    ],
+    "uid": "3ddea16677f2acb4c4984f782f73a150"
+  },
+  {
+    "title": "AI's 'Black October': Critical PHP flaws set off global security scramble",
+    "url": "https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html",
+    "source": "CNBC Top",
+    "summary": "Governments and businesses around the globe are scrambling to contain the fallout after the PHP vulnerabilities leaked online.",
+    "published_at": "2026-10-23T23:27:46+08:00",
+    "stocks": [],
+    "uid": "95dcdc1557d1d1ad99aeb079cbfc4e31"
+  },
+  {
+    "title": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
+    "url": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html",
+    "source": "CNBC Top",
+    "summary": "The 10-year Treasury yield stayed below 5% Friday after AI-driven tech selling sent investors into government bonds.",
+    "published_at": "2026-10-23T23:27:33+08:00",
+    "stocks": [],
+    "uid": "520bf8f1961c87c6615ad003be685280"
+  },
+  {
+    "title": "Two ex-FBI officials charged with allegedly lying about Hunter Biden probe: DOJ",
+    "url": "https://www.cnbc.com/2026/10/23/fbi-hunter-biden-criminal-charges.html",
+    "source": "CNBC Top",
+    "summary": "Attorneys for one of the ex-FBI officials slammed the Trump administration for filing the \"nonsense charges\" just before the midterm election.",
+    "published_at": "2026-10-23T23:27:09+08:00",
+    "stocks": [],
+    "uid": "9687790f51efec557f4c327eb417c8da"
+  },
+  {
+    "title": "Prediction: A $10,000 Investment in This Memory Stock Will Double by 2030 (Hint: It’s Not Micron or Sandisk)",
+    "url": "https://www.fool.com/investing/2026/10/23/prediction-a-usd10-000-investment-in-this-memory-stock-will-double-by-2030-hint-it-s-not-micron-or-sandisk/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Lam Research's accelerating growth suggests that the stock can soar substantially by the end of the decade.",
+    "published_at": "2026-10-23T23:26:01+08:00",
+    "stocks": [],
+    "uid": "b857bfd9f83099a1214156b08ec1c146"
+  },
+  {
+    "title": "Halozyme Therapeutics stock hits all-time high at 125.53 USD",
+    "url": "https://www.investing.com/news/company-news/halozyme-therapeutics-stock-hits-alltime-high-at-12553-usd-93CH-4970036",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-23T23:25:57+08:00",
+    "stocks": [],
+    "uid": "c8629bfdcbd2a7cadebbdf23b8a7e99f"
+  },
+  {
+    "title": "Manhattan Associates stock hits 52-week high at $242.55",
+    "url": "https://www.investing.com/news/company-news/manhattan-associates-stock-hits-52week-high-at-24255-93CH-4970034",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-23T23:25:42+08:00",
+    "stocks": [],
+    "uid": "3d306a5e082704ca803c224fe84c5312"
+  },
+  {
+    "title": "Trump administration’s $8 billion diesel aid for farmers to arrive after election, official says",
+    "url": "https://www.investing.com/news/commodities-news/trump-administrations-8-billion-diesel-aid-for-farmers-will-arrive-after-election-official-says-4969786",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-23T23:24:24+08:00",
+    "stocks": [],
+    "uid": "2a2a543b7e813d626720bce782941ec0"
+  },
+  {
+    "title": "Meta Plans What Amounts to a 2-for-1 Stock Split. Is the Stock a Buy?",
+    "url": "https://www.fool.com/investing/2026/10/23/meta-plans-what-amounts-to-a-2-for-1-stock-split-is-the-stock-a-buy/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The split itself doesn't affect what the business is worth. But why does Meta want a share with no vote?",
+    "published_at": "2026-10-23T23:23:01+08:00",
+    "stocks": [],
+    "uid": "7333743b5c2a6d81808aa022211ab3b3"
+  },
+  {
+    "title": "Dr. Reddy’s Q2FY27 slides: base growth masks lenalidomide drag",
+    "url": "https://www.investing.com/news/company-news/dr-reddys-q2fy27-slides-base-growth-masks-lenalidomide-drag-93CH-4970033",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-23T23:22:41+08:00",
+    "stocks": [],
+    "uid": "a2bb5cd327a80f028dc43d3256f35bfc"
+  },
+  {
+    "title": "Generali to cut 9% of German workforce and consolidate hubs in cost drive",
+    "url": "https://www.investing.com/news/stock-market-news/generali-to-cut-9-of-german-workforce-and-consolidate-hubs-in-cost-drive-4970032",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-23T23:22:03+08:00",
+    "stocks": [],
+    "uid": "30b05a1b134e9868f97a5267b41c0ae1"
+  },
+  {
+    "title": "GrafTech Q3 2026 slides: revenue beats as cost cuts drive turnaround",
+    "url": "https://www.investing.com/news/company-news/graftech-q3-2026-slides-revenue-beats-as-cost-cuts-drive-turnaround-93CH-4970030",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-23T23:20:12+08:00",
+    "stocks": [],
+    "uid": "369acf073eba0738fb1151158fc15e25"
+  },
+  {
+    "title": "SB Financial: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/10/23/sb-financial-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Management is accepting near-term cost spikes to build long-term operating leverage, betting that efficiency gains will outpace expense growth.",
+    "published_at": "2026-10-23T23:19:01+08:00",
+    "stocks": [],
+    "uid": "878053c075617706ea8e98fea3738ad7"
+  },
+  {
+    "title": "EU ministers vow to tackle ’China Shock 2.0’ through talks with Beijing",
+    "url": "https://www.investing.com/news/economic-indicators/eu-ministers-vow-to-tackle-china-shock-20-through-talks-with-beijing-4969048",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-23T23:18:23+08:00",
+    "stocks": [],
+    "uid": "54342fdb32daf83594fbf00ece23ee32"
+  },
+  {
+    "title": "Why Winnebago Industries Stock Surged This Week",
+    "url": "https://www.fool.com/coverage/market-movers/2026/10/23/why-winnebago-industries-stock-surged-this-week/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Winnebago Industries is navigating a tough environment, but still generating enough cash.",
+    "published_at": "2026-10-23T23:17:46+08:00",
+    "stocks": [],
+    "uid": "bfc238d7ee019cc9ada56d3bf3c22ed1"
+  },
+  {
+    "title": "Forestalia explores data center power asset sale for capital - Bloomberg",
+    "url": "https://www.investing.com/news/stock-market-news/forestalia-explores-data-center-power-asset-sale-for-capital--bloomberg-93CH-4970029",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-23T23:15:54+08:00",
+    "stocks": [],
+    "uid": "47fdfe3f23136785a43ccdd3276e857d"
+  },
+  {
+    "title": "Morocco stocks lower at close of trade; Moroccan All Shares down 0.11%",
+    "url": "https://www.investing.com/news/stock-market-news/morocco-stocks-lower-at-close-of-trade-moroccan-all-shares-down-011-4970028",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-23T23:15:03+08:00",
+    "stocks": [],
+    "uid": "e3b6335065df6bdc10d42a8fbf59879a"
+  },
+  {
+    "title": "Robert Half: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/10/23/robert-half-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "AI-driven credential inflation and regulatory crackdowns are creating dual tailwinds for specialized staffing and consulting.",
+    "published_at": "2026-10-23T23:15:01+08:00",
+    "stocks": [],
+    "uid": "9abc17cd8c4adbd81fe2a74a984447cd"
+  },
+  {
+    "title": "3 Year-End Retirement Moves to Start Thinking About for 2026",
+    "url": "https://www.fool.com/retirement/2026/10/23/3-year-end-retirement-moves-to-start-thinking/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "There are only a few weeks left to complete these important tasks.",
+    "published_at": "2026-10-23T23:15:00+08:00",
+    "stocks": [],
+    "uid": "cae94e73eb439c3422b0fc8a2c6aceda"
+  },
+  {
+    "title": "Earnings call transcript: Dr. Reddy’s posts modest Q2 2026 beat, stock edges up",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-dr-reddys-posts-modest-q2-2026-beat-stock-edges-up-93CH-4970027",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-23T23:13:57+08:00",
+    "stocks": [],
+    "uid": "7c6cfb615d42acb96a2c8c8143dd2ef2"
+  },
+  {
+    "title": "Booz Allen Hamilton (BAH) Q2 2027 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/10/23/booz-allen-hamilton-bah-q2-2027-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "National security revenue grew 6% excluding billable expenses amid civil weakness.",
+    "published_at": "2026-10-23T23:12:15+08:00",
+    "stocks": [
+      "BAH"
+    ],
+    "uid": "8f7f40d7c05fc60183128902d294791b"
+  },
+  {
+    "title": "LG Display (LPL) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/10/23/lg-display-lpl-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "OLED revenue hit record 67% share as mobile demand surged, but chipflation pressured margins.",
+    "published_at": "2026-10-23T23:08:16+08:00",
+    "stocks": [
+      "LPL"
+    ],
+    "uid": "7cbdaac6bbe9db764760912370987a20"
+  },
+  {
+    "title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
+    "url": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
+    "source": "CNBC Top",
+    "summary": "Amex, which reported third-quarter results earlier Friday, is taking a $336 million restructuring charge in the quarter, CEO Stephen Squeri said Friday.",
+    "published_at": "2026-10-23T23:04:33+08:00",
+    "stocks": [],
+    "uid": "6f013f8249707323858a1871d13d7c9e"
+  },
+  {
+    "title": "Are Your Retirement Savings on Track?",
+    "url": "https://www.fool.com/investing/2026/10/23/are-your-retirement-savings-on-track/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Do the amounts in your IRAs and 401(k)s have you on to path to financial independence?",
+    "published_at": "2026-10-23T23:03:47+08:00",
+    "stocks": [],
+    "uid": "e0d63f28a4210b9c84f1788af5f33b80"
+  },
+  {
+    "title": "AI agents could disrupt bank deposits. Why Wall Street may be overreacting",
+    "url": "https://www.cnbc.com/investingclub/2026/10/23/ai-agents-could-disrupt-bank-deposits-why-wall-street-may-be-overreacting.html",
+    "source": "CNBC Top",
+    "summary": "Analysts say the fears that AI agents could disrupt the banking industry are overblown, for now.",
+    "published_at": "2026-10-23T23:00:49+08:00",
+    "stocks": [],
+    "uid": "6242828317ca8ed5f46e2021d42cf09e"
+  },
+  {
+    "title": "MaxLinear: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/10/23/maxlinear-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Doubling average selling prices on next-generation chips could reshape profitability as orders lock in through 2028.",
+    "published_at": "2026-10-23T23:00:02+08:00",
+    "stocks": [],
+    "uid": "5ce4bbf3042bb31398a63af16622db07"
+  },
+  {
+    "title": "Everyone’s talking about Roth conversions, but here’s how few people really do them — and why you shouldn’t have FOMO about it",
+    "url": "https://www.marketwatch.com/story/everyones-talking-about-roth-conversions-but-heres-how-few-people-really-do-them-and-why-you-shouldnt-have-fomo-about-it-1b50db07?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "You have to do the math to figure out your best tax strategy in retirement, and converting might not be for you.",
+    "published_at": "2026-10-23T23:00:00+08:00",
+    "stocks": [],
+    "uid": "70783d12fdfaca4589df0338c8c2ce8b"
+  },
+  {
+    "title": "AMD or Broadcom: If I Could Only Own 1 AI Chip Stock Through 2030, Here's My Pick",
+    "url": "https://www.fool.com/investing/2026/10/23/amd-or-broadcom-if-i-could-only-own-1-ai-chip-stoc/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Both have strong medium-term outlooks, but one appears more reasonably valued right now.",
+    "published_at": "2026-10-23T23:00:00+08:00",
+    "stocks": [],
+    "uid": "22129d87e1d8e805ec6dc875f23136d6"
+  },
+  {
+    "title": "How Worried Should We Be About the Economy? Let’s Look at 2008.",
+    "url": "https://www.nytimes.com/2026/10/23/business/economy-2008-financial-crisis.html",
+    "source": "NYT Business",
+    "summary": "It’s not impossible to spot the characteristics of a brewing financial crisis. We can look to 2008 for clues.",
+    "published_at": "2026-10-23T22:58:35+08:00",
+    "stocks": [],
+    "uid": "616f9856ed1d80b47e57462377cb7914"
+  },
+  {
+    "title": "Why Braze Stock Soared This Week",
+    "url": "https://www.fool.com/coverage/market-movers/2026/10/23/why-braze-stock-soared-this-week/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Salesforce is acquiring Braze in a massive all-cash deal. Learn why taking your profits now might be the smartest move.",
+    "published_at": "2026-10-23T22:49:01+08:00",
+    "stocks": [],
+    "uid": "0b72bbeebae9b6cf22f3fc846b682e70"
+  },
+  {
+    "title": "A Fight Over Felon Voting Fuels a Free Speech Debate",
+    "url": "https://www.nytimes.com/2026/10/23/business/media/election-disinformation-laws-minnesota.html",
+    "source": "NYT Business",
+    "summary": "A Minnesota group worried that its opposition could expose it to prosecution under the state’s deceptive-practices law. Its lawsuit could have wide implications for limiting speech around elections.",
+    "published_at": "2026-10-23T22:46:54+08:00",
+    "stocks": [],
+    "uid": "91548b9a0a1731f76457375d424dcd54"
+  },
+  {
+    "title": "Is Procter & Gamble a Buy After Its Latest Earnings Report?",
+    "url": "https://www.fool.com/investing/2026/10/23/is-procter-gamble-a-buy-after-its-latest-earnings-report/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "P&amp;G's stock popped after its fiscal first-quarter earnings report.",
+    "published_at": "2026-10-23T22:44:01+08:00",
+    "stocks": [],
+    "uid": "d1ddcb3c315e942f5c52d9086fe62481"
+  },
+  {
+    "title": "Big Changes Could Be Coming to Sea Limited Stock. Time to Buy?",
+    "url": "https://www.fool.com/investing/2026/10/23/big-changes-could-be-coming-to-sea-limited-stock/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Sea Limited is entering the cloud business and is considering spinning off its fintech segment.",
+    "published_at": "2026-10-23T22:43:00+08:00",
+    "stocks": [],
+    "uid": "3e1922e4f6d31b21856674d38c12bd0d"
+  },
+  {
+    "title": "Texas Senate race: New Talarico ad rips Elon Musk 'dark money' push",
+    "url": "https://www.cnbc.com/2026/10/23/james-talarico-campaign-ad-elon-musk-texas-senate-election.html",
+    "source": "CNBC Top",
+    "summary": "James Talarico hit back at Elon Musk's attacks and spending in a new ad by the Democratic nominee for U.S. Senate in Texas.",
+    "published_at": "2026-10-23T22:34:37+08:00",
+    "stocks": [],
+    "uid": "d426cb572df780deb3ec0946feddc773"
+  },
+  {
+    "title": "Not Intel. Not CoreWeave. This Underappreciated Nvidia-Backed Company Is Growing Artificial Intelligence (AI) Revenue by 123%. Here's Why It's a Buy Today for $8.",
+    "url": "https://www.fool.com/investing/2026/10/23/not-intel-not-coreweave-this-underappreciated-nvid/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Nvidia has invested in a number of artificial intelligence (AI) companies over the last few years.",
+    "published_at": "2026-10-23T22:30:00+08:00",
+    "stocks": [],
+    "uid": "8181b2930da9aab3f48a4f484e58e99f"
+  },
+  {
+    "title": "Facing Investing Fears",
+    "url": "https://www.fool.com/investing/2026/10/23/facing-investing-fears/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Motley Fool Hidden Gems Investing kicked off spooky October with an episode that injected a dose of optimism into investor fears. Specifically, there are fears regarding Anthropic’s risk factors in its S-1, but the Fool contributors on the podcast remind listeners of past risks that didn’t come to fruition with some great long-term investments.",
+    "published_at": "2026-10-23T22:29:01+08:00",
+    "stocks": [],
+    "uid": "3e8ab4b8e4ba88a7d52bc4e4d6b7ce02"
+  },
+  {
+    "title": "September 2026 Mailbag: 16 Years Old to 25 Years Foolish",
+    "url": "https://www.fool.com/investing/2026/10/23/september-2026-mailbag-16-years-old-to-25-years-foolish/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Eight letters bring questions and stories from very different points along the Foolish journey.",
+    "published_at": "2026-10-23T22:26:44+08:00",
+    "stocks": [],
+    "uid": "fefc825815324bc4898cc3a7a351a339"
+  },
+  {
+    "title": "Republicans Cut Taxes to Win the Midterms. It May Not Work Out.",
+    "url": "https://www.nytimes.com/2026/10/23/business/salt-cap-midterm-elections.html",
+    "source": "NYT Business",
+    "summary": "Among the stakes in next month’s election is the long-running question of whether tax cuts can shape how people vote.",
+    "published_at": "2026-10-23T22:24:54+08:00",
+    "stocks": [],
+    "uid": "193c0e8b55d15f815af1c2f4d8ddb155"
+  },
+  {
+    "title": "Surging economy gets off to a good start in the fourth quarter — but there’s one big problem",
+    "url": "https://www.marketwatch.com/story/surging-economy-gets-off-to-a-good-start-in-the-fourth-quarter-but-theres-one-big-problem-5657f399?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Warning signs are emerging that consumers will be hit with rising prices.",
+    "published_at": "2026-10-23T22:23:00+08:00",
+    "stocks": [],
+    "uid": "0b7e7775a58d848fc91f1de4df89232e"
+  },
+  {
+    "title": "The Bond Market Is Sending a Warning to Stocks. Here's What History Says Is Coming Next.",
+    "url": "https://www.fool.com/investing/2026/10/23/the-bond-market-is-sending-a-warning-to-stocks/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Soaring bond yields have often preceded market downturns.",
+    "published_at": "2026-10-23T22:23:00+08:00",
+    "stocks": [],
+    "uid": "4624092fb085334cd0bd2159d61d0137"
+  },
+  {
+    "title": "Constellation Energy vs. GE Vernova: Which Utilities Stock Is a Better Buy in 2026?",
+    "url": "https://www.fool.com/coverage/better-buy/2026/10/23/constellation-energy-vs-ge-vernova-which-utilities-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "One generates power, while the other builds the grid. Their financial health and risk profiles tell very different stories.",
+    "published_at": "2026-10-23T22:18:45+08:00",
+    "stocks": [],
+    "uid": "144ad3b444b21795f4146042f97e07d8"
+  },
+  {
+    "title": "If You'd Invested $1,000 in Energy Transfer (ET) Stock 10 Years Ago, Here's What You'd Have Today",
+    "url": "https://www.fool.com/investing/2026/10/23/if-youd-invested-1000-in-energy-transfer-et-stock/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Give this stock a closer look -- for its 7% dividend yield.",
+    "published_at": "2026-10-23T22:15:00+08:00",
+    "stocks": [
+      "ET"
+    ],
+    "uid": "a9798d4eb24796ecbcdee290119485fe"
+  },
+  {
+    "title": "Oregon Bancorp GAAP EPS of $0.30, revenue of $4.87M",
+    "url": "https://seekingalpha.com/news/4656589-oregon-bancorp-gaap-eps-of-0_30-revenue-of-4_87m?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-10-23T22:09:44+08:00",
+    "stocks": [],
+    "uid": "7d4ada6bd8d65b3b6de6db4a86948c9b"
+  },
+  {
+    "title": "Brompton Funds Declares ETF Distributions",
+    "url": "https://markets.businessinsider.com/news/stocks/brompton-funds-declares-etf-distributions-1035959877",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/320598/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px;  height: 1px;border: 0px solid;&quot;&gt;Toronto, Ontario--(Newsfile Corp. - October 23, 2026) - Brompton Funds &lt;b&gt;(TSX: BDIV) (TSX: BEPR) (TSX: BEPR.U) (TSX: BGIE) (TSX: BLOV) (TSX: BMAX) (TSX: BPRF) (TSX: BPRF.U) (TSX: CLSA) (TSX: EDGF) (TSX:",
+    "published_at": "2026-10-23T22:09:00+08:00",
+    "stocks": [],
+    "uid": "4d7ff630b5138abef04c45a01229c35a"
+  },
+  {
+    "title": "Why the Wealthiest People in the Room Are Often the Most Miserable — and What to Do About It",
+    "url": "https://www.fool.com/investing/2026/10/23/why-the-wealthiest-people-in-the-room-are-often-the-most-miserable-and-what-to-do-about-it/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "After 40 years of managing money for some of the most successful people on Wall Street, Matt Ludmer came to a conclusion that surprised even him: Accumulating more rarely made his clients happier. Motley Fool contributing analyst Rachel Warren sits down with Ludmer — founder of Aligned Wealth Management and author of \"The Right Mountain\" — to explore the gap between financial achievement and genuine fulfillment.",
+    "published_at": "2026-10-23T22:06:02+08:00",
+    "stocks": [],
+    "uid": "f6a3f9a411917132e76a98c267eee931"
+  },
+  {
+    "title": "Apple tops Nvidia to become world's most valuable company",
+    "url": "https://seekingalpha.com/news/4656580-apple-tops-nvidia-to-become-worlds-most-valuable-company?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-10-23T22:05:14+08:00",
+    "stocks": [],
+    "uid": "f11aa3223d2f909e27a1369dd1105702"
+  },
+  {
+    "title": "Is Owning 3,968 Shares of Starbucks Worth It for $10,000 in Yearly Dividend Income?",
+    "url": "https://www.fool.com/investing/2026/10/23/is-owning-3968-shares-of-starbucks-worth-it-for-10/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Its income potential is in line with seemingly similar income stocks. There's always more to the story, though.",
+    "published_at": "2026-10-23T22:05:00+08:00",
+    "stocks": [],
+    "uid": "924fadd5d5cce7b9106c562785e4b7c1"
+  },
+  {
+    "title": "A pair of big-name, Dubai-based PMs are out at ExodusPoint less than a year after joining",
+    "url": "https://www.businessinsider.com/exoduspoint-macro-traders-out-2026-10",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-10-23T22:04:00+08:00",
+    "stocks": [],
+    "uid": "77552665b3c70aa5352749c3453cbc60"
+  },
+  {
+    "title": "North Dallas Bank & Trust Co. Announces Third Quarter Earnings",
+    "url": "https://markets.businessinsider.com/news/stocks/north-dallas-bank-trust-co-announces-third-quarter-earnings-1036659952",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;DALLAS, Oct.  23, 2026  (GLOBE NEWSWIRE) -- NDBT (North Dallas Bank  Trust Co.), an independent community bank established in 1961, today announced net earnings for three months of $2,599,934 or $1.01 per share, and net earnings for nine months of...",
+    "published_at": "2026-10-23T22:03:00+08:00",
+    "stocks": [],
+    "uid": "ad6857ede995e0981567a1f52fe5dfda"
+  },
+  {
+    "title": "Consumer sentiment revised higher in second October reading",
+    "url": "https://seekingalpha.com/news/4656581-consumer-sentiment-revised-higher-in-second-october-reading?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-10-23T22:02:45+08:00",
+    "stocks": [],
+    "uid": "9855e69da40815089e53f85e7f945cde"
+  },
+  {
+    "title": "xETFs Launches First U.S. Listed ETF Focused on Capturing Exposure to Companies in the Samsung Group",
+    "url": "https://markets.businessinsider.com/news/stocks/xetfs-launches-first-u-s-listed-etf-focused-on-capturing-exposure-to-companies-in-the-samsung-group-1036659953",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;em&gt;Much more than smartphones and memory chips, the Samsung Group also has a sprawling network of companies in financials, consumer  services, life sciences and more.&lt;/em&gt;&lt;em&gt;The xETFs Samsung Group ETF (SMNG) offers investors a single-ticker...",
+    "published_at": "2026-10-23T22:01:36+08:00",
+    "stocks": [
+      "SMNG"
+    ],
+    "uid": "198616ede2c26d38361bde59844f1242"
+  },
+  {
+    "title": "Biggest stock movers Friday: SKHY, MRNA, DECK, BE, and more",
+    "url": "https://seekingalpha.com/news/4656458-biggest-stock-movers-friday?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-10-23T22:00:05+08:00",
+    "stocks": [],
+    "uid": "0f9bee2669e9145207bee0eeadaa0fb4"
+  },
+  {
+    "title": "Avren Introduces State of Work, a Public Initiative to Document Americans' Experiences With Employment",
+    "url": "https://markets.businessinsider.com/news/stocks/avren-introduces-state-of-work-a-public-initiative-to-document-americans-experiences-with-employment-1036659702",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;Greenbelt, MD, Oct.  23, 2026  (GLOBE NEWSWIRE) -- Avren Corp. today introduced &lt;a href=&quot;https://stateofwork.org/&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;State of Work&lt;/a&gt;, a public-interest initiative designed to document Americans' firsthand experiences...",
+    "published_at": "2026-10-23T22:00:00+08:00",
+    "stocks": [],
+    "uid": "107574f3e044472af511d1e33c6cf92c"
+  },
+  {
+    "title": "E-Power’s Mid-Sulfur Coke Anode Route Achieves 3.2% Higher Specific Capacity Than Conventional Low-Sulfur Coke",
+    "url": "https://markets.businessinsider.com/news/stocks/e-power-s-mid-sulfur-coke-anode-route-achieves-3-2-higher-specific-capacity-than-conventional-low-sulfur-coke-1036659703",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;justify&quot;&gt;DOVER, USA, Oct.  23, 2026  (GLOBE NEWSWIRE) --  E-Power Inc. (“E-Power,” the “Company,” “we” or “our”) (NASDAQ: EPOW), a provider of advanced battery materials and AI Data Center (AIDC) microgrid solutions, today disclosed...",
+    "published_at": "2026-10-23T22:00:00+08:00",
+    "stocks": [
+      "AIDC"
+    ],
+    "uid": "11bc75643a11c4e4db050672b82b8a51"
+  },
+  {
+    "title": "Restaurant earnings will test whether owning more brands pays off",
+    "url": "https://www.cnbc.com/2026/10/23/darden-brinker-qsr-stocks-restaurant-earnings.html",
+    "source": "CNBC Top",
+    "summary": "Shares of companies with multiple restaurant brands like Brinker and Darden are outperforming single-chain stocks like McDonald's and Chipotle.",
+    "published_at": "2026-10-23T21:55:46+08:00",
+    "stocks": [],
+    "uid": "40be4a6395c1b35830f63218063d2dd5"
+  },
+  {
+    "title": "Moderna’s Stock Just Stumbled. Is It a Buy on the Dip?",
+    "url": "https://www.fool.com/investing/2026/10/23/moderna-s-stock-just-stumbled-is-it-a-buy-on-the-dip/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The stock fell 17% in one trading session.",
+    "published_at": "2026-10-23T21:55:02+08:00",
+    "stocks": [],
+    "uid": "999c0d3128dee6f1739cf00e25c48788"
+  },
+  {
+    "title": "Family offices likely to add risk, debt and alternatives under the next generation",
+    "url": "https://www.cnbc.com/2026/10/23/next-generation-family-offices-likely-to-add-risk-debt-alternatives.html",
+    "source": "CNBC Top",
+    "summary": "The next generation of family office leaders is likely to use more debt, invest in more alternatives and focus on different philanthropies, say new studies.",
+    "published_at": "2026-10-23T21:16:26+08:00",
+    "stocks": [],
+    "uid": "74f431a55bd44c68ca362e65af8ef029"
+  },
+  {
+    "title": "Volvo Shares Plunge as China Ambitions Fade for Western Carmakers",
+    "url": "https://www.nytimes.com/2026/10/23/business/volvo-china-2500-job-cuts.html",
+    "source": "NYT Business",
+    "summary": "The Swedish automaker plans to cut another 2,500 jobs, joining competitors in offering a gloomy view of the world’s biggest car market.",
+    "published_at": "2026-10-23T21:08:46+08:00",
+    "stocks": [],
+    "uid": "85acd88ef38223f8f9ff488ce6190109"
+  },
+  {
+    "title": "Americans Are Struggling to Pay Rising Medical Costs",
+    "url": "https://www.nytimes.com/2026/10/23/your-money/medical-debt-health-insurance.html",
+    "source": "NYT Business",
+    "summary": "Much of the debt stems from hospital bills, researchers say. Even people with insurance are falling behind. But there are ways to get help.",
+    "published_at": "2026-10-23T21:00:17+08:00",
+    "stocks": [],
+    "uid": "9e347bd2c91743ef4845fdcb88034baa"
+  },
+  {
+    "title": "Over 40% of Americans are heading toward retirement ‘blind’ — with no plan",
+    "url": "https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Nearly half of Americans haven’t calculated what they’ll need in retirement.",
+    "published_at": "2026-10-23T21:00:00+08:00",
+    "stocks": [],
+    "uid": "4b7f09c9a4ec3154c2e423fa542e3293"
+  },
+  {
     "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
     "url": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
     "source": "MarketWatch",
@@ -710,6 +1369,15 @@
     "published_at": "2026-10-23T17:02:13+08:00",
     "stocks": [],
     "uid": "6fb4281da7c0b024ee9b72edb8384019"
+  },
+  {
+    "title": "Melanoma Vaccine Ushers in New Hope for Cancer Patients",
+    "url": "https://www.nytimes.com/2026/10/23/well/cancer-vaccine-melanoma-study.html",
+    "source": "NYT Business",
+    "summary": "Beyond melanoma, scientists are studying cancer vaccines for glioblastoma, pancreatic cancer and more.",
+    "published_at": "2026-10-23T17:00:39+08:00",
+    "stocks": [],
+    "uid": "c75b4852f794f48bff8ae066face73ff"
   },
   {
     "title": "Melanoma Vaccine Ushers in New Hope for Cancer Patients",
