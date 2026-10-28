@@ -1,5 +1,646 @@
 [
   {
+    "title": "Warren Buffett’s Blunt Warning to Wall Street Has Reached Deafening Levels. Here’s the 1 Move You Should Make Now.",
+    "url": "https://www.fool.com/investing/2026/10/28/warren-buffett-s-blunt-warning-to-wall-street-has-reached-deafening-levels-here-s-the-1-move-you-should-make-now/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The S&amp;P 500 has soared 78% over the past three calendar years.",
+    "published_at": "2026-10-28T18:10:02+08:00",
+    "stocks": [],
+    "uid": "2ea5774b3f33c1612ed60327cfb1adfa",
+    "title_en": "Warren Buffett’s Blunt Warning to Wall Street Has Reached Deafening Levels. Here’s the 1 Move You Should Make Now.",
+    "summary_en": "The S&amp;P 500 has soared 78% over the past three calendar years.",
+    "title_zh": "華倫·巴菲特對華爾街的直率警告已達到震耳欲聾的程度。这是你现在应该采取的第一个行动。",
+    "summary_zh": "標普 500 指數在過去三年飆升了 78%。"
+  },
+  {
+    "title": "Prediction: XRP (Ripple) Will be Worth This Much in 12 Months",
+    "url": "https://www.fool.com/investing/2026/10/28/prediction-xrp-ripple-be-worth-this-much-12-months/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The XRP cryptocurrency is down sharply from last year's record high, but history suggests it could fall further.",
+    "published_at": "2026-10-28T18:04:00+08:00",
+    "stocks": [],
+    "uid": "8d74542f9352c681c478e8c93018b723"
+  },
+  {
+    "title": "Biden’s Antitrust Enforcers Are Starting an A.I. Legal Company",
+    "url": "https://www.nytimes.com/2026/10/28/business/dealbook/kanter-mekki-ai-startup-fluxcap.html",
+    "source": "NYT Business",
+    "summary": "Jonathan Kanter and Doha Mekki, who led the Justice Department’s antitrust division under President Biden, have co-founded a start-up that makes an A.I. tool for litigators.",
+    "published_at": "2026-10-28T18:00:13+08:00",
+    "stocks": [],
+    "uid": "5d672f620c32aba27c2dce9b39cf0d71",
+    "title_en": "Biden’s Antitrust Enforcers Are Starting an A.I. Legal Company",
+    "summary_en": "Jonathan Kanter and Doha Mekki, who led the Justice Department’s antitrust division under President Biden, have co-founded a start-up that makes an A.I. tool for litigators.",
+    "title_zh": "拜登的反壟斷執法者正在啟動人工智慧。法人公司",
+    "summary_zh": "喬納森·坎特 (Jonathan Kanter) 和拜登總統領導下的司法部反壟斷部門負責人多哈·梅基 (Doha Mekki) 共同創立了一家新創公司，專門生產人工智慧產品。訴訟律師的工具。"
+  },
+  {
+    "title": "Musk's PAC lawyer runs in Texas House district that is home to billionaire's business interests",
+    "url": "https://www.cnbc.com/2026/10/28/elon-musk-chris-gober-rourk-texas-10th-congress-election.html",
+    "source": "CNBC Top",
+    "summary": "A chip factory being built by Elon Musk's Tesla and SpaceX is in Texas's 10th District, where his PAC's former lawyer Chris Gober is the GOP U.S. House nominee.",
+    "published_at": "2026-10-28T18:00:01+08:00",
+    "stocks": [],
+    "uid": "bd410a9492ae36d69bff525c9873f06e",
+    "title_en": "Musk's PAC lawyer runs in Texas House district that is home to billionaire's business interests",
+    "summary_en": "A chip factory being built by Elon Musk's Tesla and SpaceX is in Texas's 10th District, where his PAC's former lawyer Chris Gober is the GOP U.S. House nominee.",
+    "title_zh": "馬斯克的 PAC 律師在德州眾議院選區競選，該選區是億萬富翁商業利益的所在地",
+    "summary_zh": "馬斯克 (Elon Musk) 旗下的特斯拉 (Tesla) 和 SpaceX 正在德克薩斯州第 10 區建造一家晶片工廠，他的 PAC 前律師克里斯·戈伯 (Chris Gober) 是該區共和黨美國眾議院提名人。"
+  },
+  {
+    "title": "This Venture Capitalist Thinks Solana Will Surpass Ethereum During the Next Bull Market Cycle. Here's Why He's Wrong.",
+    "url": "https://www.fool.com/investing/2026/10/28/venture-capitalist-thinks-solana-surpass-ethereum/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The two blockchain networks have been rivals for years.",
+    "published_at": "2026-10-28T18:00:00+08:00",
+    "stocks": [],
+    "uid": "b52c77ce62b1c6477a86e9c381c3d278",
+    "title_en": "This Venture Capitalist Thinks Solana Will Surpass Ethereum During the Next Bull Market Cycle. Here's Why He's Wrong.",
+    "summary_en": "The two blockchain networks have been rivals for years.",
+    "title_zh": "這位創投家認為 Solana 將在下一個牛市週期超越以太坊。这就是他错的原因。",
+    "summary_zh": "這兩個區塊鏈網路多年來一直是競爭對手。"
+  },
+  {
+    "title": "Stellantis reports $4.5 billion cash drain as massive turnaround plan continues",
+    "url": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
+    "source": "CNBC Markets",
+    "summary": "European car giant Stellantis said Wednesday that it recorded a 4 billion euro ($4.5 billion) cash shortfall in the third quarter.",
+    "published_at": "2026-10-28T17:59:08+08:00",
+    "stocks": [],
+    "uid": "95ff06cd123f6d48418eb6251b9b7987",
+    "title_en": "Stellantis reports $4.5 billion cash drain as massive turnaround plan continues",
+    "summary_en": "European car giant Stellantis said Wednesday that it recorded a 4 billion euro ($4.5 billion) cash shortfall in the third quarter.",
+    "title_zh": "Stellantis 報告稱，隨著大規模週轉計畫的持續，現金流失了 45 億美元",
+    "summary_zh": "歐洲汽車巨頭 Stellantis 週三表示，第三季現金缺口達 40 億歐元（45 億美元）。"
+  },
+  {
+    "title": "Earnings call transcript: Indus Towers misses Q2 2026 estimates as shares fall",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-indus-towers-misses-q2-2026-estimates-as-shares-fall-93CH-4978059",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-28T17:51:20+08:00",
+    "stocks": [],
+    "uid": "534f9290de6fa9eeea5eba28690f5231"
+  },
+  {
+    "title": "OppFi shares jump 7% on earnings beat despite revenue miss",
+    "url": "https://www.investing.com/news/earnings/oppfi-shares-jump-7-on-earnings-beat-despite-revenue-miss-93CH-4978058",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-28T17:51:14+08:00",
+    "stocks": [],
+    "uid": "9378ff9a621cee639c95f8c3fe4947d0",
+    "title_en": "OppFi shares jump 7% on earnings beat despite revenue miss",
+    "summary_en": "",
+    "title_zh": "儘管收入低於預期，但 OppFi 股價因盈利超出預期而上漲 7%",
+    "summary_zh": ""
+  },
+  {
+    "title": "Sanoma Q3 2026 slides: profit surges 10% on Learning strength",
+    "url": "https://www.investing.com/news/company-news/sanoma-q3-2026-slides-profit-surges-10-on-learning-strength-93CH-4978057",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-28T17:51:07+08:00",
+    "stocks": [],
+    "uid": "11f5c6da6ffbf690e650d32099c79070",
+    "title_en": "Sanoma Q3 2026 slides: profit surges 10% on Learning strength",
+    "summary_en": "",
+    "title_zh": "Sanoma 2026 年第三季業績下滑：學習優勢推動利潤飆升 10%",
+    "summary_zh": ""
+  },
+  {
+    "title": "Ten people confirmed dead in high-speed Spain train crash, local media report",
+    "url": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
+    "source": "CNBC Top",
+    "summary": "",
+    "published_at": "2026-10-28T17:50:29+08:00",
+    "stocks": [],
+    "uid": "a7a338dfa5ab037890e4d336be33152c",
+    "title_en": "Ten people confirmed dead in high-speed Spain train crash, local media report",
+    "summary_en": "",
+    "title_zh": "當地媒體通報，西班牙高速列車相撞事故已造成十人死亡",
+    "summary_zh": ""
+  },
+  {
+    "title": "The Pentagon Is Now the eVTOL Industry's Biggest Customer. Here's How Much Revenue That's Actually Worth to Archer and Joby.",
+    "url": "https://www.fool.com/investing/2026/10/28/the-pentagon-is-now-the-evtol-industrys-biggest-cu/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Defense contracts provide early, reliable revenue for both companies and strengthen their investment case.",
+    "published_at": "2026-10-28T17:50:00+08:00",
+    "stocks": [],
+    "uid": "1b668c2ea18f33679fb3b3b295ba28a9"
+  },
+  {
+    "title": "Earnings call transcript: Kirloskar Brothers posts strong Q2 2027 growth",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-kirloskar-brothers-posts-strong-q2-2027-growth-93CH-4978056",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-28T17:49:54+08:00",
+    "stocks": [],
+    "uid": "4f5d8d526b91a6e95779ffbb2e8ff6f4",
+    "title_en": "Earnings call transcript: Kirloskar Brothers posts strong Q2 2027 growth",
+    "summary_en": "",
+    "title_zh": "收益電話會議記錄：Kirloskar Brothers 公佈 2027 年第二季強勁成長",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why is Telenor stock rallying today?",
+    "url": "https://www.investing.com/news/stock-market-news/why-is-telenor-stock-rallying-today-93CH-4978055",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-28T17:49:39+08:00",
+    "stocks": [],
+    "uid": "e057bd738062c3c2d8560f9338b483f4"
+  },
+  {
+    "title": "Endesa reports third quarter earnings with net income down 27%",
+    "url": "https://www.investing.com/news/stock-market-news/endesa-reports-third-quarter-earnings-with-net-income-down-27-93CH-4978054",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-28T17:49:36+08:00",
+    "stocks": [],
+    "uid": "8890428818f53a52f1e920a040a18f38",
+    "title_en": "Endesa reports third quarter earnings with net income down 27%",
+    "summary_en": "",
+    "title_zh": "Endesa 公佈第三季財報，淨利潤下降 27%",
+    "summary_zh": ""
+  },
+  {
+    "title": "US judge says he will rule Wednesday in lawsuit over California voter rolls",
+    "url": "https://www.investing.com/news/economy-news/us-judge-says-he-will-rule-wednesday-in-lawsuit-over-california-voter-rolls-4977254",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-28T17:48:33+08:00",
+    "stocks": [],
+    "uid": "fc6a9f55c7cec3fba87edddf6be86b54",
+    "title_en": "US judge says he will rule Wednesday in lawsuit over California voter rolls",
+    "summary_en": "",
+    "title_zh": "美國法官表示他將於週三就加州選民名冊訴訟作出裁決",
+    "summary_zh": ""
+  },
+  {
+    "title": "Group 1 Automotive misses estimates despite earnings beat",
+    "url": "https://www.investing.com/news/earnings/group-1-automotive-misses-estimates-despite-earnings-beat-93CH-4978048",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-28T17:47:33+08:00",
+    "stocks": [],
+    "uid": "1a4342e87f6417034cff5d4e817393db"
+  },
+  {
+    "title": "Earnings call transcript: United Breweries posts strong Q2 2026 growth, EPS misses",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-united-breweries-posts-strong-q2-2026-growth-eps-misses-93CH-4978047",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-28T17:47:25+08:00",
+    "stocks": [],
+    "uid": "fcbc98a4b4b66fe56f978f28c7eaadf9",
+    "title_en": "Earnings call transcript: United Breweries posts strong Q2 2026 growth, EPS misses",
+    "summary_en": "",
+    "title_zh": "財報電話會議記錄：聯合啤酒公司 2026 年第二季實現強勁成長，每股盈餘低於預期",
+    "summary_zh": ""
+  },
+  {
+    "title": "Earnings call transcript: Electrolux Professional rises on q3 margin gains",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-electrolux-professional-rises-on-q3-margin-gains-93CH-4978046",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-28T17:47:24+08:00",
+    "stocks": [],
+    "uid": "1b29c1967ad0ef7c2bcd4918c8f3e469",
+    "title_en": "Earnings call transcript: Electrolux Professional rises on q3 margin gains",
+    "summary_en": "",
+    "title_zh": "財報電話會議記錄：伊萊克斯專業公司因第三季利潤率成長而上漲",
+    "summary_zh": ""
+  },
+  {
+    "title": "Tesla Just Spent $4.73 Billion on Capex. Here's Where Every Dollar Went.",
+    "url": "https://www.fool.com/investing/2026/10/28/tesla-just-spent-473-billion-on-capex-heres-where/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Tesla's capital spending is soaring as it expands beyond electric vehicles.",
+    "published_at": "2026-10-28T17:45:00+08:00",
+    "stocks": [],
+    "uid": "3520bb73baa409b237858e582e8e4a08",
+    "title_en": "Tesla Just Spent $4.73 Billion on Capex. Here's Where Every Dollar Went.",
+    "summary_en": "Tesla's capital spending is soaring as it expands beyond electric vehicles.",
+    "title_zh": "特斯拉剛剛在資本支出上花了 47.3 億美元。這就是每一美元的去向。",
+    "summary_zh": "隨著特斯拉向電動車領域擴張，其資本支出正在飆升。"
+  },
+  {
+    "title": "UBS pretax profits jump 27% in third quarter to $3.59 billion as wealth inflows surge",
+    "url": "https://www.cnbc.com/2026/10/28/ubs-earnings-third-quarter.html",
+    "source": "CNBC Markets",
+    "summary": "UBS reported a third quarter pretax profit of almost $3.6 billion.",
+    "published_at": "2026-10-28T17:42:03+08:00",
+    "stocks": [],
+    "uid": "a9574f5929228f3c8a217ba117ffec18",
+    "title_en": "UBS pretax profits jump 27% in third quarter to $3.59 billion as wealth inflows surge",
+    "summary_en": "UBS reported a third quarter pretax profit of almost $3.6 billion.",
+    "title_zh": "隨著財富流入激增，瑞銀第三季稅前利潤躍升27%至35.9億美元",
+    "summary_zh": "瑞銀公佈第三季稅前利潤近 36 億美元。"
+  },
+  {
+    "title": "5 Stocks Poised to Win Big as SpaceX Ramps Up AI Infrastructure",
+    "url": "https://www.fool.com/investing/2026/10/28/5-stocks-poised-to-win-big-as-spacex-ramps-up-ai-i/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "A few stocks will likely see big revenue boosts from SpaceX's spending.",
+    "published_at": "2026-10-28T17:30:00+08:00",
+    "stocks": [],
+    "uid": "a92d26f34cb615b71e86dccd79ff6bbf"
+  },
+  {
+    "title": "SK Hynix delivered on third-quarter results — but the outlook is what really mattered to Wall Street and the AI trade",
+    "url": "https://www.marketwatch.com/story/sk-hynix-delivered-on-third-quarter-results-but-the-outlook-is-what-really-mattered-to-wall-street-and-the-ai-trade-2fde9a57?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "South Korea memory-chip giant says supply constraints will last through 2030.",
+    "published_at": "2026-10-28T17:25:00+08:00",
+    "stocks": [],
+    "uid": "f388376a8a78c5131e3ce8689ea31ba7",
+    "title_en": "SK Hynix delivered on third-quarter results — but the outlook is what really mattered to Wall Street and the AI trade",
+    "summary_en": "South Korea memory-chip giant says supply constraints will last through 2030.",
+    "title_zh": "SK 海力士公佈了第三季業績——但對華爾街和人工智慧產業來說真正重要的是前景",
+    "summary_zh": "韓國記憶體晶片巨頭表示供應限制將持續到 2030 年。"
+  },
+  {
+    "title": "Treasury yields tick higher ahead of Federal Reserve interest rate decision",
+    "url": "https://www.cnbc.com/2026/10/28/us-treasurys-bonds-yields-federal-reserve.html",
+    "source": "CNBC Top",
+    "summary": "Treasury yields edged higher as traders await the Federal Reserve's latest monetary policy decision.",
+    "published_at": "2026-10-28T17:22:26+08:00",
+    "stocks": [],
+    "uid": "20aaf82f703e0156a6853bda1882e498",
+    "title_en": "Treasury yields tick higher ahead of Federal Reserve interest rate decision",
+    "summary_en": "Treasury yields edged higher as traders await the Federal Reserve's latest monetary policy decision.",
+    "title_zh": "聯準會利率決定前公債殖利率走高",
+    "summary_zh": "由於交易者等待聯準會最新的貨幣政策決定，美國公債殖利率小幅走高。"
+  },
+  {
+    "title": "We are in our 70s. Should we pay off our 2.5% mortgage or build up our savings?",
+    "url": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”",
+    "published_at": "2026-10-28T17:15:00+08:00",
+    "stocks": [],
+    "uid": "c9cfacd11c0fcc0c2d2cdac17a51fec1",
+    "title_en": "We are in our 70s. Should we pay off our 2.5% mortgage or build up our savings?",
+    "summary_en": "“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”",
+    "title_zh": "我們已經70多歲了。我們應該還清 2.5% 的抵押貸款還是累積儲蓄？",
+    "summary_zh": "“假設 10 年後，當我 84 歲的時候，我們需要大量現金。”"
+  },
+  {
+    "title": "4 Reasons American Express Stock Is Having Its Worst Year Since 2015 Despite Record Earnings",
+    "url": "https://www.fool.com/investing/2026/10/28/american-express-worst-year-record-earnings/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "American Express is down significantly in 2026, even as the major indexes are within striking distance of all-time highs.",
+    "published_at": "2026-10-28T17:15:00+08:00",
+    "stocks": [],
+    "uid": "870573eed2b973034f6d955692d14bda",
+    "title_en": "4 Reasons American Express Stock Is Having Its Worst Year Since 2015 Despite Record Earnings",
+    "summary_en": "American Express is down significantly in 2026, even as the major indexes are within striking distance of all-time highs.",
+    "title_zh": "儘管獲利創紀錄，但美國運通股票卻遭遇 2015 年以來最糟糕的一年，這有四個原因",
+    "summary_zh": "儘管主要股指距離歷史高點僅一步之遙，但美國運通公司在 2026 年仍將大幅下跌。"
+  },
+  {
+    "title": "‘One Job Away’ Tries to Help Actors Keep Their Health Insurance",
+    "url": "https://www.nytimes.com/2026/10/28/arts/one-more-job-campaign-actors-health-benefits.html",
+    "source": "NYT Business",
+    "summary": "The actor Cheyenne Jackson’s social media campaign highlights the increasing struggles of working actors to book enough parts to remain insured.",
+    "published_at": "2026-10-28T17:06:04+08:00",
+    "stocks": [],
+    "uid": "67912734cd03e4a4716a1a731bf744f3",
+    "title_en": "‘One Job Away’ Tries to Help Actors Keep Their Health Insurance",
+    "summary_en": "The actor Cheyenne Jackson’s social media campaign highlights the increasing struggles of working actors to book enough parts to remain insured.",
+    "title_zh": "《一份工作之外》試圖幫助演員保留健康保險",
+    "summary_zh": "演員夏安傑克森 (Cheyenne Jackson) 的社交媒體活動突顯了職業演員越來越難以預訂足夠的角色以保持保險。"
+  },
+  {
+    "title": "10 Stocks Warren Buffett and His Successor, Greg Abel, Plan to Hold Forever",
+    "url": "https://www.fool.com/investing/2026/10/28/10-stocks-warren-buffett-and-his-successor-greg-abel-plan-to-hold-forever/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Dividends, innovation, and valuation are just some of the reasons Berkshire’s bosses never want to let these stocks go.",
+    "published_at": "2026-10-28T17:06:01+08:00",
+    "stocks": [],
+    "uid": "d71e40cc8264c55d1186653c29def110",
+    "title_en": "10 Stocks Warren Buffett and His Successor, Greg Abel, Plan to Hold Forever",
+    "summary_en": "Dividends, innovation, and valuation are just some of the reasons Berkshire’s bosses never want to let these stocks go.",
+    "title_zh": "華倫巴菲特及其繼任者格雷格阿貝爾計劃永遠持有的 10 隻股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "The Federal Reserve Will Release Its Interest Rate Decision Today. Here’s What to Watch.",
+    "url": "https://www.nytimes.com/2026/10/28/business/federal-reserve-interest-rates.html",
+    "source": "NYT Business",
+    "summary": "The central bank is widely expected to hold interest rates steady on Wednesday, just days before the midterm elections.",
+    "published_at": "2026-10-28T17:05:48+08:00",
+    "stocks": [],
+    "uid": "fc351b0560dd139191336b2aea5294b1",
+    "title_en": "The Federal Reserve Will Release Its Interest Rate Decision Today. Here’s What to Watch.",
+    "summary_en": "The central bank is widely expected to hold interest rates steady on Wednesday, just days before the midterm elections.",
+    "title_zh": "聯準會將於今天發布利率決定。這是看點。",
+    "summary_zh": "人們普遍預期央行將在周三（即中期選舉前幾天）維持利率穩定。"
+  },
+  {
+    "title": "How to Tax and Spend in a ‘Turbulent Time?’ U.K. Tries a Balancing Act.",
+    "url": "https://www.nytimes.com/2026/10/28/business/uk-budget-chancellor-healey.html",
+    "source": "NYT Business",
+    "summary": "The new government, led by Andy Burnham, will deliver its first budget on Wednesday, a plan expected to tread between wide ambition and narrow financial limits.",
+    "published_at": "2026-10-28T17:05:37+08:00",
+    "stocks": [],
+    "uid": "0d9e74a23d72bb64a235041ee041a64c",
+    "title_en": "How to Tax and Spend in a ‘Turbulent Time?’ U.K. Tries a Balancing Act.",
+    "summary_en": "The new government, led by Andy Burnham, will deliver its first budget on Wednesday, a plan expected to tread between wide ambition and narrow financial limits.",
+    "title_zh": "如何在「動盪時期」徵稅和支出？英國嘗試採取平衡措施。",
+    "summary_zh": "由安迪·伯納姆領導的新政府將於週三提交第一份預算，該計劃預計將在宏偉的雄心和狹窄的財務限制之間徘徊。"
+  },
+  {
+    "title": "A Punishing Housing Market Is Squeezing Renters",
+    "url": "https://www.nytimes.com/2026/10/28/business/housing-market-rent-pressure.html",
+    "source": "NYT Business",
+    "summary": "Higher mortgage rates and slowing residential construction are again giving landlords the upper hand.",
+    "published_at": "2026-10-28T17:05:30+08:00",
+    "stocks": [],
+    "uid": "837d9314940d33f190062ba99cef9710",
+    "title_en": "A Punishing Housing Market Is Squeezing Renters",
+    "summary_en": "Higher mortgage rates and slowing residential construction are again giving landlords the upper hand.",
+    "title_zh": "嚴酷的房地產市場正在擠壓租屋者",
+    "summary_zh": "抵押貸款利率上升和住宅建設放緩再次讓房東佔了上風。"
+  },
+  {
+    "title": "AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them",
+    "url": "https://www.nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html",
+    "source": "NYT Business",
+    "summary": "A.I. has uncovered a horde of software flaws, which engineers are racing to fix before they can be exploited and abused by hackers.",
+    "published_at": "2026-10-28T17:04:38+08:00",
+    "stocks": [],
+    "uid": "ae5e4bcf580842567ebf0b2ed0161813",
+    "title_en": "AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them",
+    "summary_en": "A.I. has uncovered a horde of software flaws, which engineers are racing to fix before they can be exploited and abused by hackers.",
+    "title_zh": "人工智慧正在發現大量錯誤，矽谷正在急於修復它們",
+    "summary_zh": "人工智慧.發現了一系列軟體缺陷，工程師正在競相修復這些缺陷，以免它們被駭客利用和濫用。"
+  },
+  {
+    "title": "Strategy's Michael Saylor Predicts Bitcoin Will Soar Past $100,000 Over the Next 12 Months. Here's Why He's Right.",
+    "url": "https://www.fool.com/investing/2026/10/28/strategys-michael-saylor-predicts-bitcoin-will-soa/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The Bitcoin bull recently gave one of his more reasonable price predictions.",
+    "published_at": "2026-10-28T17:04:00+08:00",
+    "stocks": [],
+    "uid": "57be7838cd2362bc3475d3d64d1acb61"
+  },
+  {
+    "title": "TV’s Nick and Vanessa Lachey cut price of Southern California home to $7.6 million",
+    "url": "https://www.marketwatch.com/story/tvs-nick-and-vanessa-lachey-cut-price-of-southern-california-home-to-7-6-million-24dc3d7a?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "TV stars Nick and Vanessa Lachey have trimmed $500,000 off the asking price of their longtime “dream home,” as they prepare to bid farewell to California.",
+    "published_at": "2026-10-28T17:01:00+08:00",
+    "stocks": [],
+    "uid": "39720501ab7b18bfe95d432eb8caaaf7"
+  },
+  {
+    "title": "How to Plan a Trip Around a Running Race",
+    "url": "https://www.nytimes.com/2026/10/28/travel/marathon-vacation-planning.html",
+    "source": "NYT Business",
+    "summary": "When should you arrive? How do you choose an event? Here are some tips on how best to center a vacation around a race.",
+    "published_at": "2026-10-28T17:00:06+08:00",
+    "stocks": [],
+    "uid": "2b05d96e6b8986d7bde5888a9caebc63"
+  },
+  {
+    "title": "SPDR Gold Shares vs. iShares Silver Trust: Looking for an Inflation Hedge? One Could Have the Edge",
+    "url": "https://www.fool.com/coverage/etfs/2026/10/28/spdr-gold-shares-vs-ishares-silver-trust-looking-for-an-inflation-hedge-one-could-have-the-edge/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Gold and silver have long attracted investors seeking protection against economic uncertainty, but these two popular ETFs offer different opportunities for those looking to own precious metals.",
+    "published_at": "2026-10-28T17:00:03+08:00",
+    "stocks": [],
+    "uid": "d87fa63ec3c7c1663c5a1be6c0b89cb0"
+  },
+  {
+    "title": "Lululemon vs. McDonald's: Can a Beaten-Down Growth Stock Outshine a Dividend Giant?",
+    "url": "https://www.fool.com/coverage/better-buy/2026/10/28/lululemon-vs-mcdonald-s-can-a-beaten-down-growth-stock-outshine-a-dividend-giant/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Lululemon and McDonald's are two recognizable consumer brands with very different financial profiles, but the cheaper stock isn't necessarily the better long-term investment.",
+    "published_at": "2026-10-28T17:00:02+08:00",
+    "stocks": [],
+    "uid": "caa4e0c9ac551fb82ca476d2162fd107"
+  },
+  {
+    "title": "The Anthropic IPO: Why Investors Are Better Off Avoiding It",
+    "url": "https://www.fool.com/investing/2026/10/28/the-anthropic-ipo-why-investors-are-better-off-avoiding-it/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The stock may soon begin trading, but with poor financials and questionable growth opportunities, there are multiple reasons for investors to stay away.",
+    "published_at": "2026-10-28T17:00:02+08:00",
+    "stocks": [],
+    "uid": "a79e9c84110cb9221cdbdbead302e94d"
+  },
+  {
+    "title": "2 Popular AI Stocks to Sell Before They Drop 57% and 60%, According to Wall Street Analysts",
+    "url": "https://www.fool.com/investing/2026/10/28/2-popular-ai-stocks-sell-before-drop-60-wall-street/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Certain analysts believe shares of Palantir and Super Micro Computer are significantly overvalued.",
+    "published_at": "2026-10-28T16:48:02+08:00",
+    "stocks": [],
+    "uid": "4d3b8fad2c23955a4e299a8cd61c5806"
+  },
+  {
+    "title": "Warren Buffett’s Favorite Market Gauge Has Blown Past a Level He Once Called a Warning. History Says This Comes Next.",
+    "url": "https://www.fool.com/investing/2026/10/28/warren-buffett-s-favorite-market-gauge-has-blown-past-a-level-he-once-called-a-warning-history-says-this-comes-next/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The Buffett indicator just hit a record, and history says to get ready.",
+    "published_at": "2026-10-28T16:26:01+08:00",
+    "stocks": [],
+    "uid": "1d618ae86a44af89a0e340ffed41dcbe"
+  },
+  {
+    "title": "Social Security Retirees Get a Big COLA in 2027, and It Comes With Even Better News",
+    "url": "https://www.fool.com/retirement/social-security/2026/10/28/social-security-retirees-get-big-cola-2027-with-better-news/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Social Security’s 2027 COLA arguably outpaces inflation, meaning retired workers gained purchasing power.",
+    "published_at": "2026-10-28T16:12:01+08:00",
+    "stocks": [],
+    "uid": "5971b1240f289c1a3562070aa3c93bd6"
+  },
+  {
+    "title": "Nvidia vs TSMC: Here’s Which One May Be the Biggest AI Winner.",
+    "url": "https://www.fool.com/investing/2026/10/28/nvidia-vs-tsmc-here-s-which-one-may-be-the-biggest-ai-winner/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Both stocks have climbed in the triple digits over three years.",
+    "published_at": "2026-10-28T16:10:02+08:00",
+    "stocks": [],
+    "uid": "746c567cda6ca189fa4f52afcd8fec3e"
+  },
+  {
+    "title": "Interest Rates Should Remain Unchanged Today, but at Least 3 Federal Reserve Rate Hikes Are Expected by September 2027",
+    "url": "https://www.fool.com/investing/2026/10/28/interest-rates-remain-unchanged-today-at-least-3-fed-rate-hikes-expected-by-september-2027/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Fed Chair Kevin Warsh and the Federal Open Market Committee (FOMC) have reason to get more aggressive with rate hikes.",
+    "published_at": "2026-10-28T16:06:01+08:00",
+    "stocks": [
+      "FOMC"
+    ],
+    "uid": "cd6c3f62e33ac0f200f3997486da08bf"
+  },
+  {
+    "title": "A Big Shift Just Happened at SpaceX. Is It Time to Buy?",
+    "url": "https://www.fool.com/investing/2026/10/28/a-big-shift-just-happened-at-spacex-is-it-time-to-buy/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "SpaceX’s artificial intelligence business just took an important step.",
+    "published_at": "2026-10-28T16:02:02+08:00",
+    "stocks": [],
+    "uid": "6a262fb1e3dd15a287f5b35b241d9ae3"
+  },
+  {
+    "title": "Would An AI Stock Crash Be as Bad as 2008? Here's What \"Big Short\" Investor Steve Eisman Says.",
+    "url": "https://www.fool.com/investing/2026/10/28/would-an-ai-stock-crash-be-as-bad-as-2008-heres-wh/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The possibility of another 2008-style stock market crash seems unlikely. Long-term investors shouldn't be afraid.",
+    "published_at": "2026-10-28T16:00:00+08:00",
+    "stocks": [],
+    "uid": "9541dd2f8508bed3b42bcb2436cf71e3"
+  },
+  {
+    "title": "Flavor Flav, Hillary Clinton weigh in as WNBA takes flak for weekday lunchtime finals game",
+    "url": "https://www.cnbc.com/2026/10/28/wnba-atlanta-dream-golden-state-valkyries-flavor-flav-hillary-clinton-.html",
+    "source": "CNBC Top",
+    "summary": "The Atlanta Dream criticized the WNBA for scheduling a Finals game on Thursday afternoon, drawing reactions from Flavor Flav and Hillary Clinton.",
+    "published_at": "2026-10-28T15:58:09+08:00",
+    "stocks": [],
+    "uid": "1f607cb61af0f052288781af5992a0ab"
+  },
+  {
+    "title": "Why Alphabet’s Own AI Chips May Be Its Quietest Advantage",
+    "url": "https://www.fool.com/investing/2026/10/28/why-alphabet-s-own-ai-chips-may-be-its-quietest-advantage/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Alphabet’s chip business is just starting to contribute to results.",
+    "published_at": "2026-10-28T15:50:02+08:00",
+    "stocks": [],
+    "uid": "646b5dfd6827910d68753220f70d8b85"
+  },
+  {
+    "title": "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO",
+    "url": "https://www.cnbc.com/2026/10/28/jio-ipo-india-listing-.html",
+    "source": "CNBC Top",
+    "summary": "Jio had offered 270 million shares in the IPO priced at 1,119 rupees apiece, raising 302 billion rupees ($3.2 billion) in the country's largest-ever IPO.",
+    "published_at": "2026-10-28T15:48:35+08:00",
+    "stocks": [],
+    "uid": "eaf5095f856bb5c93024071595892fcd"
+  },
+  {
+    "title": "Netflix and ServiceNow Have Fallen More Than 30% From Their Records. Both Are Stocks to Buy and Hold Through 2030.",
+    "url": "https://www.fool.com/investing/2026/10/28/netflix-and-servicenow-have-fallen-more-than-30-from-their-records-both-are-stocks-to-buy-and-hold-through-2030/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "One is at its lowest price since 2024, and the other posts results after Wednesday's close. Which is the better buy first?",
+    "published_at": "2026-10-28T15:48:02+08:00",
+    "stocks": [],
+    "uid": "875dc9397f35942377968235f4eddf6a"
+  },
+  {
+    "title": "3 Scenarios Where You May Not Regret Claiming Social Security at 62",
+    "url": "https://www.fool.com/retirement/2026/10/28/3-scenarios-where-you-may-not-regret-claiming-social-security-at-62/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "An early claim isn't always a bad decision.",
+    "published_at": "2026-10-28T15:36:02+08:00",
+    "stocks": [],
+    "uid": "c15ca8d45b3627c365cae9839d5af1ca"
+  },
+  {
+    "title": "Meta Platforms Just Delivered Great News to AI Stock Investors",
+    "url": "https://www.fool.com/investing/2026/10/28/meta-platforms-just-gave-ai-investors-great-news/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Meta's recent capital raise was oversubscribed by five times.",
+    "published_at": "2026-10-28T14:45:02+08:00",
+    "stocks": [],
+    "uid": "72c2c7aac450ffa716e6c3138d8a8c60"
+  },
+  {
+    "title": "Billionaire Ken Griffin Says AI Is \"Almost Certainly\" in a Bubble. Here's What That Means for Crypto Investors.",
+    "url": "https://www.fool.com/investing/2026/10/28/billionaire-ken-griffin-says-ai-is-almost-certainl/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "If the AI bubble bursts, crypto investors have options.",
+    "published_at": "2026-10-28T14:30:00+08:00",
+    "stocks": [],
+    "uid": "b6428f19a7462ffc0324b3bc6a9004f7"
+  },
+  {
+    "title": "Realty Income Just Declared Its 676th Consecutive Monthly Dividend. Here's How Much a $10,000 Investment Pays in Dividends.",
+    "url": "https://www.fool.com/investing/2026/10/28/realty-income-just-declared-its-676th-consecutive/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The company offers an enticing payout.",
+    "published_at": "2026-10-28T14:09:00+08:00",
+    "stocks": [],
+    "uid": "c2af4a92e740da7afd55b76c002dc0e2"
+  },
+  {
+    "title": "Werner (WERN) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/10/28/werner-wern-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Revenue surged 23% as fleet restructuring and FirstFleet integration boosted productivity.",
+    "published_at": "2026-10-28T13:53:36+08:00",
+    "stocks": [
+      "WERN"
+    ],
+    "uid": "78ecb6ca94d9bf1382ba2f48afcb8fe0"
+  },
+  {
+    "title": "BigBear.ai (BBAI) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/10/28/bigbearai-bbai-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Revenue jumped 31% YoY as defense contracts and AI gains offset impairment.",
+    "published_at": "2026-10-28T13:53:36+08:00",
+    "stocks": [
+      "BBAI"
+    ],
+    "uid": "27555fd46d5e82e78e968d60a0836921"
+  },
+  {
+    "title": "Enphase (ENPH) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/10/28/enphase-enph-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "CEO outlines five growth drivers to offset solar headwinds and double company size.",
+    "published_at": "2026-10-28T13:37:53+08:00",
+    "stocks": [
+      "ENPH"
+    ],
+    "uid": "fc67169e25a5615b2cc2f6dac767046a"
+  },
+  {
+    "title": "Ultra Clean Holdings (UCTT) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/10/28/ultra-clean-holdings-uctt-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Record revenue of $759 million driven by AI-fueled semiconductor demand and capacity expansion.",
+    "published_at": "2026-10-28T13:37:53+08:00",
+    "stocks": [
+      "UCTT"
+    ],
+    "uid": "545c021852cbe462df03a33176edf101"
+  },
+  {
+    "title": "Elon Musk Says SpaceX Is Now a \"Super Intelligence\" Company",
+    "url": "https://www.fool.com/investing/2026/10/28/elon-musk-says-spacex-is-now-a-super-intelligence/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "SpaceX has undergone a radical transformation, and it appears to be making the company stronger.",
+    "published_at": "2026-10-28T13:30:00+08:00",
+    "stocks": [],
+    "uid": "a50e24b002360637cbe64f1471b2468c"
+  },
+  {
+    "title": "Trump jokes $5,000 would buy 'a hamburger and maybe a small dessert' at Mar-a-Lago as cost of living looms over midterms",
+    "url": "https://www.cnbc.com/2026/10/28/trump-jokes-5000-cash-would-buy-hamburger-and-dessert-at-mar-a-lago.html",
+    "source": "CNBC Top",
+    "summary": "Trump joked that the $5,000 payments for U.S. adults would buy little more than \"a hamburger and maybe a small dessert\" as cost of living looms over midterms.",
+    "published_at": "2026-10-28T12:29:20+08:00",
+    "stocks": [],
+    "uid": "4abf5311ccee4c19aecc417a1b8ebbcf"
+  },
+  {
+    "title": "Kylian Mbappé faces China backlash as sponsors cut ties over viral meme",
+    "url": "https://www.cnbc.com/2026/10/28/china-mbappe-football-sponsor-meme-controversy.html",
+    "source": "CNBC Top",
+    "summary": "Chinese state media has warned Kylian Mbappé that his apology over remarks referring to Mao Zedong as a dictator will be judged against his actions.",
+    "published_at": "2026-10-28T11:33:53+08:00",
+    "stocks": [],
+    "uid": "9880d19bd23049b0799b188ef725396a"
+  },
+  {
     "title": "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion",
     "url": "https://www.cnbc.com/2026/10/28/us-iran-war-trump-hormuz-costs-centcom.html",
     "source": "CNBC Top",
@@ -773,6 +1414,15 @@
       "NRC"
     ],
     "uid": "ac805335a73612d482de7e852e906504"
+  },
+  {
+    "title": "Midterm elections: How affordability and the economy could affect voters' decisions",
+    "url": "https://www.cnbc.com/guide/midterm-elections-economy-affordability/",
+    "source": "CNBC Top",
+    "summary": "Several economic issues could affect voters' decisions in the midterm elections. Here's what to expect on Nov. 3.",
+    "published_at": "2026-10-28T06:40:12+08:00",
+    "stocks": [],
+    "uid": "6b7e3a1e8cac1a9ed5680e8ca6692e5f"
   },
   {
     "title": "NXP (NXPI) Q3 2026 Earnings Call Transcript",
