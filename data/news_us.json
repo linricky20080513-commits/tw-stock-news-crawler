@@ -1,5 +1,978 @@
 [
   {
+    "title": "Interactive Brokers Group vs. Morningstar: Which Financial Stock Is a Better Buy for 2027?",
+    "url": "https://www.fool.com/coverage/better-buy/2026/11/04/interactive-brokers-group-vs-morningstar-which-financial-stock-is-a-better-buy-for-2027/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Interactive Brokers trades at a premium valuation, while Morningstar boasts superior profit margins -- a key tension for value-conscious investors.",
+    "published_at": "2026-11-04T20:39:02+08:00",
+    "stocks": [],
+    "uid": "e726aec2bf1106a2e2ccf9db56c1f80c",
+    "title_en": "Interactive Brokers Group vs. Morningstar: Which Financial Stock Is a Better Buy for 2027?",
+    "summary_en": "Interactive Brokers trades at a premium valuation, while Morningstar boasts superior profit margins -- a key tension for value-conscious investors.",
+    "title_zh": "盈透證券集團與晨星公司：2027 年哪一種金融股較值得買進？",
+    "summary_zh": "盈透證券的交易估值較高，而晨星則擁有較高的利潤率，這對於注重價值的投資者來說是一個關鍵的壓力因素。"
+  },
+  {
+    "title": "CVS to split off drugstore business in major breakup of healthcare giant",
+    "url": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
+    "source": "CNBC Top",
+    "summary": "The move would reverse the company's $78 billion acquisition of Aetna and dismantle the vertically integrated healthcare conglomerate it created in 2018.",
+    "published_at": "2026-11-04T20:35:05+08:00",
+    "stocks": [],
+    "uid": "b8f7c10a41c53dc1a6a24142d9703a7a",
+    "title_en": "CVS to split off drugstore business in major breakup of healthcare giant",
+    "summary_en": "The move would reverse the company's $78 billion acquisition of Aetna and dismantle the vertically integrated healthcare conglomerate it created in 2018.",
+    "title_zh": "CVS 將在醫療保健巨頭的重大分拆中剝離藥房業務",
+    "summary_zh": "此舉將推翻該公司以 780 億美元收購 Aetna 的交易，並解決該公司於 2018 年創建的垂直整合醫療保健集團。"
+  },
+  {
+    "title": "People Making Over $100,000 Per Year are Acting Like They are Living Paycheck to Paycheck",
+    "url": "https://www.fool.com/investing/2026/11/04/people-making-over-usd100-000-per-year-are-acting-like-they-are-living-paycheck-to-paycheck/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The management team at Dollar General told investors that high-income households are exhibiting habits similar to those of households with much lower incomes.",
+    "published_at": "2026-11-04T20:31:01+08:00",
+    "stocks": [],
+    "uid": "803954b3592bba1255b8651775885e1e",
+    "title_en": "People Making Over $100,000 Per Year are Acting Like They are Living Paycheck to Paycheck",
+    "summary_en": "The management team at Dollar General told investors that high-income households are exhibiting habits similar to those of households with much lower incomes.",
+    "title_zh": "年薪超過 10 萬美元的人表現得像是靠薪水過活",
+    "summary_zh": "Dollar General 的管理團隊告訴投資者，高收入家庭表現出的習慣與收入低得多的家庭相似。"
+  },
+  {
+    "title": "CME vs. Nu: Which Financial Stock Is a Better Buy for 2027?",
+    "url": "https://www.fool.com/coverage/better-buy/2026/11/04/cme-vs-nu-which-financial-stock-is-a-better-buy-for-2027/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "CME boasts a 62% net margin and fortress balance sheet, while Nu's 43% revenue growth signals emerging-market momentum, but their risk profiles diverge sharply.",
+    "published_at": "2026-11-04T20:30:02+08:00",
+    "stocks": [],
+    "uid": "7db44efaf8796781392e3235619258fe",
+    "title_en": "CME vs. Nu: Which Financial Stock Is a Better Buy for 2027?",
+    "summary_en": "CME boasts a 62% net margin and fortress balance sheet, while Nu's 43% revenue growth signals emerging-market momentum, but their risk profiles diverge sharply.",
+    "title_zh": "CME 與 Nu：2027 年哪種金融股票比較值得買進？",
+    "summary_zh": "CME 擁有 62% 的淨利潤率和堅固的資產負債表，而 Nu 43% 的收入成長標誌著新興市場的勢頭，但它們的風險狀況卻截然不同。"
+  },
+  {
+    "title": "Breakfast News: Did Nvidia Just Favor Marvell?",
+    "url": "https://www.fool.com/investing/breakfast-news/2026/11/04/breakfast-news/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Nvidia’s likely role in the Marvell-Lumentum deal, AI stocks hit by midterms, and more…",
+    "published_at": "2026-11-04T20:30:02+08:00",
+    "stocks": [],
+    "uid": "96d46353fffa1a7c2397d499d307a731",
+    "title_en": "Breakfast News: Did Nvidia Just Favor Marvell?",
+    "summary_en": "Nvidia’s likely role in the Marvell-Lumentum deal, AI stocks hit by midterms, and more…",
+    "title_zh": "早餐新聞：Nvidia 是否偏愛 Marvell？",
+    "summary_zh": "Nvidia 在 Marvell-Lumentum 交易中可能扮演的角色、受中期選舉打擊的人工智慧股票等等…"
+  },
+  {
+    "title": "Midterm elections deliver a ‘blue wave.’ The stock market sees green.",
+    "url": "https://www.marketwatch.com/story/midterm-elections-deliver-a-blue-wave-the-stock-market-sees-green-5900a779?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Wall Street finds reasons to cheer the Democrats’ sweep. Plus: Microsoft’s AI-era buyouts and a retiree’s appetite for a “free lunch.”",
+    "published_at": "2026-11-04T20:27:00+08:00",
+    "stocks": [],
+    "uid": "e87a5611ab4069463df6f2776973f41d",
+    "title_en": "Midterm elections deliver a ‘blue wave.’ The stock market sees green.",
+    "summary_en": "Wall Street finds reasons to cheer the Democrats’ sweep. Plus: Microsoft’s AI-era buyouts and a retiree’s appetite for a “free lunch.”",
+    "title_zh": "中期選舉帶來「藍色浪潮」。股市呈現綠色。",
+    "summary_zh": "華爾街找到了為民主黨大獲全勝歡呼的理由。另外：微軟人工智慧時代的收購和退休人員對「免費午餐」的胃口。"
+  },
+  {
+    "title": "Tech Sell-Off: 2 Growth Stocks Investors Might Regret Not Buying on the Dip",
+    "url": "https://www.fool.com/investing/2026/11/04/tech-sell-off-2-growth-stocks-investors-buying-dip/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Artificial intelligence stocks are leading the broader market lower, creating opportunities for investors.",
+    "published_at": "2026-11-04T20:27:00+08:00",
+    "stocks": [],
+    "uid": "d2541ff70b899d3d882212ad0d77ba12",
+    "title_en": "Tech Sell-Off: 2 Growth Stocks Investors Might Regret Not Buying on the Dip",
+    "summary_en": "Artificial intelligence stocks are leading the broader market lower, creating opportunities for investors.",
+    "title_zh": "科技股遭拋售：投資人可能會後悔沒有趁低買進兩檔成長型股票",
+    "summary_zh": "人工智慧股票引領大盤走低，為投資者創造了機會。"
+  },
+  {
+    "title": "Kraft Heinz to divest North America coffee unit amid Cahillane’s turnaround effort",
+    "url": "https://www.investing.com/news/stock-market-news/kraft-heinz-to-divest-north-america-coffee-unit-amid-cahillanes-turnaround-effort-4998915",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-04T20:25:28+08:00",
+    "stocks": [],
+    "uid": "5f0901ee050bdd6ad1d7f24a46ed6c14",
+    "title_en": "Kraft Heinz to divest North America coffee unit amid Cahillane’s turnaround effort",
+    "summary_en": "",
+    "title_zh": "卡夫亨氏將在卡西蘭的扭虧為盈之際剝離北美咖啡部門",
+    "summary_zh": ""
+  },
+  {
+    "title": "Vishay shares surge 12% on strong third quarter beat",
+    "url": "https://www.investing.com/news/earnings/vishay-shares-surge-12-on-strong-third-quarter-beat-93CH-4998914",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-04T20:25:26+08:00",
+    "stocks": [],
+    "uid": "e3995833e4b0f2edd7b7bf6e14695745",
+    "title_en": "Vishay shares surge 12% on strong third quarter beat",
+    "summary_en": "",
+    "title_zh": "Vishay 股價因第三季強勁表現飆升 12%",
+    "summary_zh": ""
+  },
+  {
+    "title": "Treasury yields fall after Democrats win House and Senate majorities",
+    "url": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
+    "source": "CNBC Finance",
+    "summary": "Treasury yields moved lower on Wednesday as investors weighed big wins from Democrats in the U.S. midterm elections.",
+    "published_at": "2026-11-04T20:25:25+08:00",
+    "stocks": [],
+    "uid": "beccedcaf04f1fe5e9944bf08dead613",
+    "title_en": "Treasury yields fall after Democrats win House and Senate majorities",
+    "summary_en": "Treasury yields moved lower on Wednesday as investors weighed big wins from Democrats in the U.S. midterm elections.",
+    "title_zh": "民主黨贏得參眾兩院多數席次後國債殖利率下跌",
+    "summary_zh": "由於投資者權衡民主黨在美國中期選舉中的重大勝利，美國公債殖利率週三走低。"
+  },
+  {
+    "title": "Datadog stock tumbles 19% despite earnings beat",
+    "url": "https://www.investing.com/news/earnings/datadog-stock-tumbles-19-despite-earnings-beat-4998913",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-04T20:24:49+08:00",
+    "stocks": [],
+    "uid": "a26c604c1cd4fa5d92fc372d7daa8820"
+  },
+  {
+    "title": "DISCO appoints new CTO and CMO to leadership team",
+    "url": "https://www.investing.com/news/company-news/disco-appoints-new-cto-and-cmo-to-leadership-team-93CH-4998911",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-04T20:24:37+08:00",
+    "stocks": [],
+    "uid": "8938d0558ec1d11207052feda68b8272",
+    "title_en": "DISCO appoints new CTO and CMO to leadership team",
+    "summary_en": "",
+    "title_zh": "DISCO 任命新的 CTO 和 CMO 加入領導團隊",
+    "summary_zh": ""
+  },
+  {
+    "title": "Flutter pauses share buybacks to focus on deleveraging, cost savings",
+    "url": "https://www.investing.com/news/stock-market-news/flutter-pauses-share-buybacks-to-focus-on-deleveraging-cost-saving-4998870",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-04T20:24:31+08:00",
+    "stocks": [],
+    "uid": "1807312bde227f93f43ac6b64822c501"
+  },
+  {
+    "title": "McDonald's earnings beat, but traffic to its U.S. restaurants falls",
+    "url": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
+    "source": "CNBC Markets",
+    "summary": "McDonald's has leaned into discounts to attract budget-conscious diners over the last two years.",
+    "published_at": "2026-11-04T20:24:23+08:00",
+    "stocks": [],
+    "uid": "af69bf5828e3373a0822cced4070991d",
+    "title_en": "McDonald's earnings beat, but traffic to its U.S. restaurants falls",
+    "summary_en": "McDonald's has leaned into discounts to attract budget-conscious diners over the last two years.",
+    "title_zh": "麥當勞獲利好轉，但美國餐廳客流量下降",
+    "summary_zh": "過去兩年，麥當勞一直致力於透過折扣來吸引精打細算的食客。"
+  },
+  {
+    "title": "MapmyIndia Q2 FY27 slides: profit surges 91% on strong margins",
+    "url": "https://www.investing.com/news/company-news/mapmyindia-q2-fy27-slides-profit-surges-91-on-strong-margins-93CH-4998910",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-04T20:23:58+08:00",
+    "stocks": [],
+    "uid": "04d0787f1217e44755cd40410fea0759",
+    "title_en": "MapmyIndia Q2 FY27 slides: profit surges 91% on strong margins",
+    "summary_en": "",
+    "title_zh": "MapmyIndi​​a 2027 財年第二季下滑：利潤率強勁，利潤飆升 91%",
+    "summary_zh": ""
+  },
+  {
+    "title": "McDonald’s posts better-than-expected third-quarter comparable sales",
+    "url": "https://www.investing.com/news/earnings/mcdonalds-posts-betterthanexpected-thirdquarter-comparable-sales-4998798",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-04T20:23:25+08:00",
+    "stocks": [],
+    "uid": "a43f4d6004c6139c0c8dad79e223dcd2",
+    "title_en": "McDonald’s posts better-than-expected third-quarter comparable sales",
+    "summary_en": "",
+    "title_zh": "麥當勞第三季可比銷售額好於預期",
+    "summary_zh": ""
+  },
+  {
+    "title": "Datadog earnings beat by $0.17, revenue topped estimates",
+    "url": "https://www.investing.com/news/earnings/datadog-earnings-beat-by-017-revenue-topped-estimates-4998898",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-04T20:22:58+08:00",
+    "stocks": [],
+    "uid": "55647918dba18320537495f1cd17d571",
+    "title_en": "Datadog earnings beat by $0.17, revenue topped estimates",
+    "summary_en": "",
+    "title_zh": "Datadog 獲利超出預期 0.17 美元，收入超出預期",
+    "summary_zh": ""
+  },
+  {
+    "title": "CDW Corp earnings beat by $0.28, revenue topped estimates",
+    "url": "https://www.investing.com/news/earnings/cdw-corp-earnings-beat-by-028-revenue-topped-estimates-4998897",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-04T20:22:29+08:00",
+    "stocks": [],
+    "uid": "df2c8304d283cb3d8c2deccd69cb2e1a",
+    "title_en": "CDW Corp earnings beat by $0.28, revenue topped estimates",
+    "summary_en": "",
+    "title_zh": "CDW Corp 獲利超出預期 0.28 美元，營收超出預期",
+    "summary_zh": ""
+  },
+  {
+    "title": "Navios Maritime Unit earnings beat by $1.10, revenue topped estimates",
+    "url": "https://www.investing.com/news/earnings/navios-maritime-unit-earnings-beat-by-110-revenue-topped-estimates-4998896",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-04T20:22:26+08:00",
+    "stocks": [],
+    "uid": "700550cf07f289e351dc67bf0d7798a1",
+    "title_en": "Navios Maritime Unit earnings beat by $1.10, revenue topped estimates",
+    "summary_en": "",
+    "title_zh": "Navios 海事部門獲利超出預期 1.10 美元，收入超出預期",
+    "summary_zh": ""
+  },
+  {
+    "title": "CVS Health plans to split in two. Here’s what is driving the massive healthcare breakup.",
+    "url": "https://www.marketwatch.com/story/cvs-health-plans-to-split-in-two-heres-what-is-driving-the-massive-healthcare-breakup-27c0d6be?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The healthcare giant surprised analysts with the decision to separate its business.",
+    "published_at": "2026-11-04T20:21:00+08:00",
+    "stocks": [],
+    "uid": "b05beefd5ce3b166ecfa38c2fabf725e",
+    "title_en": "CVS Health plans to split in two. Here’s what is driving the massive healthcare breakup.",
+    "summary_en": "The healthcare giant surprised analysts with the decision to separate its business.",
+    "title_zh": "CVS Health 計劃一分為二。以下是導致大規模醫療保健分裂的原因。",
+    "summary_zh": "這家醫療保健巨頭做出的分拆業務的決定令分析師感到驚訝。"
+  },
+  {
+    "title": "How the Stock Market Is Reacting to the Midterm Elections",
+    "url": "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html",
+    "source": "NYT Business",
+    "summary": "Global markets fell as the first results came in, but later traded higher as investors assessed the outlook for policy as the balance of power shifted sharply in Washington.",
+    "published_at": "2026-11-04T20:18:04+08:00",
+    "stocks": [],
+    "uid": "a9bd788f0a8926e17340321a5cbb376b",
+    "title_en": "How the Stock Market Is Reacting to the Midterm Elections",
+    "summary_en": "Global markets fell as the first results came in, but later traded higher as investors assessed the outlook for policy as the balance of power shifted sharply in Washington.",
+    "title_zh": "股市對中期選舉的反應",
+    "summary_zh": "首批結果公佈後，全球市場下跌，但隨著華盛頓權力平衡急劇轉變，投資人評估政策前景，隨後交易走高。"
+  },
+  {
+    "title": "Viking Therapeutics Trades 23% Below Its Own $35 Secondary Offering Price. Here's Why That Could Be a Gift for Patient Investors.",
+    "url": "https://www.fool.com/investing/2026/11/04/viking-therapeutics-trades-xx-below-its-own-35-off/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Viking aims to enter the weight loss drug market.",
+    "published_at": "2026-11-04T20:15:00+08:00",
+    "stocks": [],
+    "uid": "a7eab4b2f65d52ac12cc0a7bd7a475ec",
+    "title_en": "Viking Therapeutics Trades 23% Below Its Own $35 Secondary Offering Price. Here's Why That Could Be a Gift for Patient Investors.",
+    "summary_en": "Viking aims to enter the weight loss drug market.",
+    "title_zh": "Viking Therapeutics 的交易價格比其 35 美元的二次發行價低 23%。這就是為什麼這可能成為耐心投資者的禮物。",
+    "summary_zh": "Viking旨在進軍減肥藥市場。"
+  },
+  {
+    "title": "Is Google's New Cryptocurrency Service a Reason to Buy Ethereum or Solana?",
+    "url": "https://www.fool.com/investing/2026/11/04/is-googles-new-cryptocurrency-service-a-reason-to/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The company's new platform plays to institutional cybersecurity concerns.",
+    "published_at": "2026-11-04T20:15:00+08:00",
+    "stocks": [],
+    "uid": "14192eaef41aacdf68d6c9a7aaf0b0e5",
+    "title_en": "Is Google's New Cryptocurrency Service a Reason to Buy Ethereum or Solana?",
+    "summary_en": "The company's new platform plays to institutional cybersecurity concerns.",
+    "title_zh": "谷歌的新加密貨幣服務是購買以太幣或 Solana 的理由嗎？",
+    "summary_zh": "該公司的新平台解決了機構網路安全問題。"
+  },
+  {
+    "title": "Musk Faces Setback as SpaceX and Tesla Stocks Tumble on Midterm Election Results",
+    "url": "https://www.nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html",
+    "source": "NYT Business",
+    "summary": "The world’s richest person has antagonized Democrats, some of whom have signaled their intent to investigate him when they take control of Congress.",
+    "published_at": "2026-11-04T20:14:55+08:00",
+    "stocks": [],
+    "uid": "8c68d0f64531e3cf7a1c7598e2eb53b8",
+    "title_en": "Musk Faces Setback as SpaceX and Tesla Stocks Tumble on Midterm Election Results",
+    "summary_en": "The world’s richest person has antagonized Democrats, some of whom have signaled their intent to investigate him when they take control of Congress.",
+    "title_zh": "中期選舉結果導致 SpaceX 和特斯拉股價暴跌，馬斯克面臨挫折",
+    "summary_zh": "這位世界首富激怒了民主黨人，其中一些已表示打算在控制國會後對他進行調查。"
+  },
+  {
+    "title": "The New York Times Adds 420,000 Digital Subscribers",
+    "url": "https://www.nytimes.com/2026/11/04/business/media/new-york-times-earnings.html",
+    "source": "NYT Business",
+    "summary": "The additions in the third quarter keep the company roughly on track to meet its goal of 15 million subscribers by the end of next year, after a slower second quarter.",
+    "published_at": "2026-11-04T20:09:52+08:00",
+    "stocks": [],
+    "uid": "e5eccc8e62750b643bafac0efb9c8825",
+    "title_en": "The New York Times Adds 420,000 Digital Subscribers",
+    "summary_en": "The additions in the third quarter keep the company roughly on track to meet its goal of 15 million subscribers by the end of next year, after a slower second quarter.",
+    "title_zh": "《紐約時報》新增 42 萬名數位訂閱者",
+    "summary_zh": "在經歷了第二季的放緩之後，第三季的新增用戶使該公司大致預計將在明年年底前實現 1500 萬用戶的目標。"
+  },
+  {
+    "title": "These 4 Restaurant Giants Have Different Ways to Win Diners",
+    "url": "https://www.fool.com/investing/2026/11/04/4-restaurant-giants-win-diners-in-different-ways/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Cheap eats, menu buzz, table service, or fresh paint? Here's which restaurant strategy is winning diners right now.",
+    "published_at": "2026-11-04T20:09:00+08:00",
+    "stocks": [],
+    "uid": "31173e206a9d385b350595da956335f0",
+    "title_en": "These 4 Restaurant Giants Have Different Ways to Win Diners",
+    "summary_en": "Cheap eats, menu buzz, table service, or fresh paint? Here's which restaurant strategy is winning diners right now.",
+    "title_zh": "這四家餐廳巨頭用不同的方式贏得食客",
+    "summary_zh": "便宜的美食、熱鬧的菜單、餐桌服務還是新鮮的油漆？以下是目前哪種餐廳策略正在贏得食客。"
+  },
+  {
+    "title": "Wayfair sales jump 10% as furniture retailer says it's winning share of sluggish market",
+    "url": "https://www.cnbc.com/2026/11/04/wayfair-w-q3-2026-earnings.html",
+    "source": "CNBC Markets",
+    "summary": "Wayfair said its sales jumped 10% in the third quarter as the retailer posted its strongest quarter since the pandemic.",
+    "published_at": "2026-11-04T20:08:15+08:00",
+    "stocks": [],
+    "uid": "729217230308c7dc310f5aa9bd322aef",
+    "title_en": "Wayfair sales jump 10% as furniture retailer says it's winning share of sluggish market",
+    "summary_en": "Wayfair said its sales jumped 10% in the third quarter as the retailer posted its strongest quarter since the pandemic.",
+    "title_zh": "家具零售商表示正在贏得低迷市場份額，Wayfair 銷售額躍升 10%",
+    "summary_zh": "Wayfair 表示，其第三季銷售額成長了 10%，創下了自疫情爆發以來最強勁的季度業績。"
+  },
+  {
+    "title": "CVS to Split off Pharmacy Business, Ending the Healthcare Conglomerate Era",
+    "url": "https://www.nytimes.com/2026/11/04/business/cvs-health-split.html",
+    "source": "NYT Business",
+    "summary": "In a breakup planned for 2028, CVS Health intends to split off its pharmacies into a new company, while keeping together its businesses in insurance and pharmacy benefits.",
+    "published_at": "2026-11-04T20:08:09+08:00",
+    "stocks": [],
+    "uid": "ecddb5781661ba7f4adc6f8cae63f1d3"
+  },
+  {
+    "title": "Apollo Global: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/04/apollo-global-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Apollo is keeping its own debt-like returns and avoiding equity-style risk in AI deals, a discipline that matters if the private credit push slows.",
+    "published_at": "2026-11-04T20:06:15+08:00",
+    "stocks": [],
+    "uid": "69dbf33adb5347418140cccf3293909b"
+  },
+  {
+    "title": "Is Apple Stock a Buy After Earnings?",
+    "url": "https://www.fool.com/investing/2026/11/04/is-apple-stock-a-buy-after-earnings/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Apple continues to impress investors with its ability to generate free cash flow, while its peers are going deeper into the red.",
+    "published_at": "2026-11-04T20:02:01+08:00",
+    "stocks": [],
+    "uid": "b30e9ae921227aa73cd79f8502aa3992"
+  },
+  {
+    "title": "Mortgage rates drop for the third straight week, but homebuyers are still leaving the market",
+    "url": "https://www.cnbc.com/2026/11/04/mortgage-rates-dropped-homebuyers-still-leaving.html",
+    "source": "CNBC Top",
+    "summary": "Mortgage rates came down again last week, but mortgage demand from homebuyers continued to decline, as high home prices and inflation stretch affordability.",
+    "published_at": "2026-11-04T20:00:01+08:00",
+    "stocks": [],
+    "uid": "bed2aeff8fd17cc1ef6a0fb2fa489f9c"
+  },
+  {
+    "title": "If a Stock Market Crash Is Coming, History Says SCHD’s Dividend Grew Through the Last Two Bear Markets. But Here’s the Catch I'm Watching.",
+    "url": "https://www.fool.com/investing/2026/11/04/if-a-stock-market-crash-is-coming-schd-s-dividend-grew-through-the-last-two-bear-markets-but-here-s-the-catch-i-m-watching/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "SCHD's history is encouraging, but one recent number changes how I read it.",
+    "published_at": "2026-11-04T20:00:01+08:00",
+    "stocks": [],
+    "uid": "a64b976af1a854baa88b91e28b584708"
+  },
+  {
+    "title": "Gartner: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/04/gartner-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Retention, not new sales, is what the transformation is built to protect, and it feeds the metric driving top-line growth.",
+    "published_at": "2026-11-04T19:47:48+08:00",
+    "stocks": [],
+    "uid": "16ca291b4a8a7830ddd6ab5471ce5980"
+  },
+  {
+    "title": "My Top 5 Stocks to Buy Before 2027 and Hold for a Decade",
+    "url": "https://www.fool.com/investing/2026/11/04/my-top-5-stocks-to-buy-before-2027-and-hold-for-a/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "All of these offer terrific growth opportunities if you buy and hold.",
+    "published_at": "2026-11-04T19:45:00+08:00",
+    "stocks": [],
+    "uid": "78d55ec335de71098208211d409a9645"
+  },
+  {
+    "title": "SpaceX or Micron: If I Could Only Own One for the Next 5 Years, It Would Be This",
+    "url": "https://www.fool.com/investing/2026/11/04/spacex-or-micron-if-i-could-only-own-one-for-the-n/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Between a newly public rocket company with a volatile stock and a concentrated CEO, and a memory chip maker with $100 billion in contracted demand already locked in, here's why one is the easier buy-and-hold pick.",
+    "published_at": "2026-11-04T19:38:00+08:00",
+    "stocks": [],
+    "uid": "1edf012253e8f1b7b0e220d524bc194b"
+  },
+  {
+    "title": "Semiconductor Sell-Off: The Best Chip Stocks to Buy Right Now Before They Skyrocket Once Again",
+    "url": "https://www.fool.com/investing/2026/11/04/semiconductor-sell-off-the-best-chip-stocks-to-buy-right-now-before-they-skyrocket-once-again/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Semiconductor stocks can emerge stronger from the recent correction in the sector, suggesting now is a good time to buy top names trading at attractive valuations.",
+    "published_at": "2026-11-04T19:36:02+08:00",
+    "stocks": [],
+    "uid": "b5bfdebd7cd49b4149dafdd6ecfc0484"
+  },
+  {
+    "title": "SpaceX, Tesla fall over 4% on Democrats' big win; AI stocks mixed",
+    "url": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
+    "source": "CNBC Top",
+    "summary": "AI fortunes were mixed as premarket trading opened on Wednesday.",
+    "published_at": "2026-11-04T19:35:52+08:00",
+    "stocks": [],
+    "uid": "69f7bf333b7f645d35a7a6525ba6a3b8"
+  },
+  {
+    "title": "Why SK Hynix Plunged in October",
+    "url": "https://www.fool.com/investing/2026/11/04/why-sk-hynix-plunged-in-october/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Outstanding earnings and soaring profits weren't enough to defy last month's AI stock selloff.",
+    "published_at": "2026-11-04T19:30:02+08:00",
+    "stocks": [],
+    "uid": "28d5f8415fbaa7b080cbad08a03d0bc7"
+  },
+  {
+    "title": "A blue wave sends futures into the green",
+    "url": "https://www.cnbc.com/2026/11/04/a-blue-wave-sends-futures-into-the-green.html",
+    "source": "CNBC Tech",
+    "summary": "Democrats flip the Senate after winning the House in rebuke to President Trump",
+    "published_at": "2026-11-04T19:29:29+08:00",
+    "stocks": [],
+    "uid": "4e84329842f5ee642f79523e8402be76"
+  },
+  {
+    "title": "Icahn Enterprises: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/04/icahn-enterprises-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Refinery buys and a 2027 debt deadline both hinge on liquidity the company has held back, so its next move matters for patient holders.",
+    "published_at": "2026-11-04T19:23:28+08:00",
+    "stocks": [],
+    "uid": "42f1beba37b8c831b9274d34751b39eb"
+  },
+  {
+    "title": "Healthpeak: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/04/healthpeak-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Lab buildings bought near existing campuses are targeted to climb from 41% occupancy toward a 9% to 10% stabilized yield, a plan that hinges on local scale.",
+    "published_at": "2026-11-04T19:22:54+08:00",
+    "stocks": [],
+    "uid": "a2be636e091786af0f2b53b81e5538e9"
+  },
+  {
+    "title": "Mastercard vs. S&P Global: Which Financial Stock Is a Better Buy for 2027?",
+    "url": "https://www.fool.com/coverage/better-buy/2026/11/04/mastercard-vs-sp-global-which-financial-stock-is-a-better-buy-for-2027/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "One operates a scalable 45% net-margin payments network; the other relies on capital-market demand. Their valuations tell starkly different stories.",
+    "published_at": "2026-11-04T19:15:02+08:00",
+    "stocks": [],
+    "uid": "6084521963e75f4f0384bfba631d05a4"
+  },
+  {
+    "title": "Prediction: These Will Be 3 of the Best-Performing Financial Stocks of 2027",
+    "url": "https://www.fool.com/investing/2026/11/04/prediction-these-will-be-the-number-best-performin/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The strongest financial stocks of 2027 may come from three very different corners of the industry.",
+    "published_at": "2026-11-04T19:15:00+08:00",
+    "stocks": [],
+    "uid": "6ebfcdc1c2e5488cc255a9a84a790c98"
+  },
+  {
+    "title": "Andy Jassy Just Delivered Magnificent News for Amazon Investors",
+    "url": "https://www.fool.com/investing/2026/11/04/andy-jassy-just-delivered-news-amazon-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Artificial intelligence could fuel mind-boggling revenue growth for Amazon's cloud business.",
+    "published_at": "2026-11-04T19:12:00+08:00",
+    "stocks": [],
+    "uid": "7c99415ebae7c39d1d1327d02a6c7c74"
+  },
+  {
+    "title": "The AI trade has been ‘sold to death’ but Goldman strategist highlights silver lining from Democratic sweep",
+    "url": "https://www.marketwatch.com/story/the-ai-trade-has-been-sold-to-death-but-goldman-strategist-highlights-silver-lining-from-democratic-sweep-3d1d6f07?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Corporate decision makers may decide to accelerate their plans to expand compute capacity and take advantage of the status quo rather than risk a new administration and different rules in 2029",
+    "published_at": "2026-11-04T19:10:00+08:00",
+    "stocks": [],
+    "uid": "eaa78304730dfa70c595ff569b79c42e"
+  },
+  {
+    "title": "Tesla and SpaceX shares drop after Elon Musk's election bet backfires",
+    "url": "https://www.businessinsider.com/tesla-spacex-shares-drop-elon-musk-election-bet-backfires-2026-11",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-11-04T19:06:00+08:00",
+    "stocks": [],
+    "uid": "40c92540a0d32c472330fae188e21ab1"
+  },
+  {
+    "title": "Food Planet Prize 2027 longlist announced: meet 47 projects building a sustainable food future",
+    "url": "https://markets.businessinsider.com/news/stocks/food-planet-prize-2027-longlist-announced-meet-47-projects-building-a-sustainable-food-future-1036713876",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;center&quot; style=&quot;text-align:center;&quot;&gt;&lt;img alt=&quot;2027 Food Planet Prize Longlist announcement_photo by Ivan Dostal&quot; height=&quot;338&quot;...",
+    "published_at": "2026-11-04T19:05:00+08:00",
+    "stocks": [],
+    "uid": "14a43dc982ae1472741860f93abb12e0"
+  },
+  {
+    "title": "Argo Graphene Reports Significant Independent Test Results, Advancing Commercialization Strategy",
+    "url": "https://markets.businessinsider.com/news/stocks/argo-graphene-reports-significant-independent-test-results-advancing-commercialization-strategy-1036713878",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;VANCOUVER, British Columbia, Nov.  04, 2026  (GLOBE NEWSWIRE) -- Argo Graphene Solutions Corp. (CSE: ARGO) (OTCQB: ARLSF) (FSE: 94Y)  (“Argo” or the “Company”) is pleased to announce a significant development in its commercialization strategy,...",
+    "published_at": "2026-11-04T19:05:00+08:00",
+    "stocks": [],
+    "uid": "684166ef00aa7ddd8ced775d6e36bd16"
+  },
+  {
+    "title": "Stella-Jones Announces Third Quarter Results",
+    "url": "https://markets.businessinsider.com/news/stocks/stella-jones-announces-third-quarter-results-1036713877",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;ul type=&quot;disc&quot;&gt;&lt;li style=&quot;text-align:justify;&quot;&gt;Sales of $979 million, up from $958 million in Q3 2025 &lt;/li&gt;&lt;li style=&quot;text-align:justify;&quot;&gt;Operating income of $82 million, down from $135 million in Q3 2025, driven by $32 million  in asset...",
+    "published_at": "2026-11-04T19:05:00+08:00",
+    "stocks": [],
+    "uid": "3b393087e817905584fd7f2cd77a6b7c"
+  },
+  {
+    "title": "Abnormal AI's new CMO says 'safe is boring' and is ditching the B2B marketing playbook",
+    "url": "https://www.businessinsider.com/abnormal-ai-hires-don-jeter-cmo-2026-11",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-11-04T19:02:00+08:00",
+    "stocks": [],
+    "uid": "277dac8a6cb3855038edddc880daa11a"
+  },
+  {
+    "title": "Cenovus announces third-quarter 2026 results",
+    "url": "https://markets.businessinsider.com/news/stocks/cenovus-announces-third-quarter-2026-results-1036713866",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;CALGARY, Alberta, Nov.  04, 2026  (GLOBE NEWSWIRE) -- Cenovus Energy Inc. (TSX: CVE) (NYSE: CVE) today announced its third-quarter 2026 financial and operating results. In the quarter, the company generated approximately $5.0 billion of adjusted...",
+    "published_at": "2026-11-04T19:00:00+08:00",
+    "stocks": [],
+    "uid": "86759b7c5200c14dfa5b76c17706689c"
+  },
+  {
+    "title": "Biodesix to Participate in Upcoming Investor Conferences",
+    "url": "https://markets.businessinsider.com/news/stocks/biodesix-to-participate-in-upcoming-investor-conferences-1036713869",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;LOUISVILLE, Colo., Nov.  04, 2026  (GLOBE NEWSWIRE) -- Biodesix, Inc. (Nasdaq: BDSX), a leading diagnostics solutions company, today announced that members of the Biodesix leadership team will present at two upcoming investor conferences:",
+    "published_at": "2026-11-04T19:00:00+08:00",
+    "stocks": [],
+    "uid": "715e302264f3c8997a4bbcbfd3acac79"
+  },
+  {
+    "title": "Stella-Jones Announces Normal Course Issuer Bid",
+    "url": "https://markets.businessinsider.com/news/stocks/stella-jones-announces-normal-course-issuer-bid-1036713863",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;MONTREAL, Nov.  04, 2026  (GLOBE NEWSWIRE) -- Stella-Jones Inc. (TSX: SJ) (“Stella-Jones” or the “Company”) announced today that the Toronto Stock Exchange (“TSX”) has accepted its Notice of Intention to Make a Normal Course Issuer Bid (the “Notice”).",
+    "published_at": "2026-11-04T19:00:00+08:00",
+    "stocks": [],
+    "uid": "cfe9347ff58110590387966e4598d5cd"
+  },
+  {
+    "title": "Ridgepost Capital Reports Third Quarter 2026 Financial Results",
+    "url": "https://markets.businessinsider.com/news/stocks/ridgepost-capital-reports-third-quarter-2026-financial-results-1036713865",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;DALLAS, Nov.  04, 2026  (GLOBE NEWSWIRE) -- &lt;a href=&quot;https://www.globenewswire.com/Tracker?data=k6M3Ld-pWCLbfCIq47VgJgHhOyyNWWSLE70z45cpjGpWWEvIUSRZEQggOxa1_nMl43KrLzowmR602y_1L-VaUIw_r472YnBdJ3yTiWADg4J_QpfbQX07MrjwBYT8RwUU&quot; rel=&quot;nofollow&quot;...",
+    "published_at": "2026-11-04T19:00:00+08:00",
+    "stocks": [],
+    "uid": "cad52c50511cfc84ba954bb883502452"
+  },
+  {
+    "title": "Hundreds of thousands of Grade 9 students take part in Take Our Kids to Work™ Day",
+    "url": "https://markets.businessinsider.com/news/stocks/hundreds-of-thousands-of-grade-9-students-take-part-in-take-our-kids-to-work-day-1036713861",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;TORONTO, Nov.  04, 2026  (GLOBE NEWSWIRE) -- Hundreds of thousands of Grade 9 students are taking part in Take Our Kids to Work™ Day today, as workplaces and communities across Canada open their doors to help young people explore careers, build...",
+    "published_at": "2026-11-04T19:00:00+08:00",
+    "stocks": [],
+    "uid": "68b67e447f38e04bfda874107d101b77"
+  },
+  {
+    "title": "Prediction: This Will Be SpaceX's Stock Price by the End of 2027",
+    "url": "https://www.fool.com/investing/2026/11/04/prediction-this-will-be-spacexs-stock-price-by-the/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Elon Musk's tech giant continues to wow the market.",
+    "published_at": "2026-11-04T19:00:00+08:00",
+    "stocks": [],
+    "uid": "1b378eab602298fe5b8e6cc9a3c7280f"
+  },
+  {
+    "title": "Following the Crowd: Investing and Social Media",
+    "url": "https://www.fool.com/retirement/2026/11/04/following-the-crowd-investing-and-social-media/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "If you use social media for investment information, here are some tips to consider.",
+    "published_at": "2026-11-04T19:00:00+08:00",
+    "stocks": [],
+    "uid": "47a65918073c7a8da4d83b06807d608e"
+  },
+  {
+    "title": "Elon Musk’s record election bet backfired. The backlash may reach beyond one billionaire",
+    "url": "https://www.cnbc.com/2026/11/04/elon-musk-midterms-ai-data-centers.html",
+    "source": "CNBC Tech",
+    "summary": "Elon Musk's $474 million election gamble falters as Democrats threaten his Texas empire.",
+    "published_at": "2026-11-04T18:54:53+08:00",
+    "stocks": [],
+    "uid": "f928c63b5cf2eb6c03483e07fe5ff9ae"
+  },
+  {
+    "title": "Euro zone inflation hits 4% for first time in three years as interest rate hike looms",
+    "url": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html",
+    "source": "CNBC Top",
+    "summary": "It was driven by energy inflation, which surged above 20% in October.",
+    "published_at": "2026-11-04T18:47:30+08:00",
+    "stocks": [],
+    "uid": "8a675b10f8ff4b483ad5f9a934bf475f"
+  },
+  {
+    "title": "U.S. midterm elections in pictures: Democrats' sweeping victories deliver rebuke to Trump",
+    "url": "https://www.cnbc.com/2026/11/04/us-midterm-elections-in-pictures-democrats-republicans-trump.html",
+    "source": "CNBC Top",
+    "summary": "Democrats scored sweeping victories in the U.S. midterm elections on Wednesday, flipping key Republican-held seats in Congress.",
+    "published_at": "2026-11-04T18:47:19+08:00",
+    "stocks": [],
+    "uid": "5e13591b407381afc756cf92752504b3"
+  },
+  {
+    "title": "Bloom Energy's New Guidance Implies Up to $1.55 Billion in Q4 Revenue. Can It Deliver?",
+    "url": "https://www.fool.com/investing/2026/11/04/bloom-energy-guidance-155-billion-q4-revenue/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Bloom Energy is growing at a staggering pace, and the company expects its strong momentum to continue into the fourth quarter.",
+    "published_at": "2026-11-04T18:45:00+08:00",
+    "stocks": [],
+    "uid": "4d0213518bf598cb14262a5521b10744"
+  },
+  {
+    "title": "Novo shares jump as Wegovy pill sales impress, drugmaker hikes outlook",
+    "url": "https://www.cnbc.com/2026/11/04/novo-q3-earnings-wegovy-sales.html",
+    "source": "CNBC Markets",
+    "summary": "Novo posted quarterly earnings ahead of expectations early Wednesday as sales of its Wegovy pill blew past estimates",
+    "published_at": "2026-11-04T18:40:51+08:00",
+    "stocks": [],
+    "uid": "3655a680b04ca82cfab47092660b6280"
+  },
+  {
+    "title": "Amazon vs. Target: One Is Riding the AI Boom, While the Other Faces a Consumer Spending Squeeze",
+    "url": "https://www.fool.com/coverage/charts/2026/11/04/amazon-vs-target-one-is-riding-the-ai-boom-while-the-other-faces-a-consumer-spending-squeeze/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Amazon and Target are two familiar retail names, but their contrasting revenue trends reveal which company may be better positioned.",
+    "published_at": "2026-11-04T18:30:02+08:00",
+    "stocks": [],
+    "uid": "ccd62ef16003d94925b02f918ad7945f"
+  },
+  {
+    "title": "Broadcom vs. Taiwan Semiconductor: Two AI Powerhouses, but One Offers a Better Value for 2027",
+    "url": "https://www.fool.com/coverage/better-buy/2026/11/04/broadcom-vs-taiwan-semiconductor-two-ai-powerhouses-but-one-offers-a-better-value-for-2027/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Broadcom and Taiwan Semiconductor are two major beneficiaries of the AI boom, but their contrasting valuations and business models could make one a more compelling investment.",
+    "published_at": "2026-11-04T18:30:02+08:00",
+    "stocks": [],
+    "uid": "fec26648ec25bfc2328b05f36c31fdda"
+  },
+  {
+    "title": "Goldman Sachs Research Expects Slower S&P 500 Earnings Growth in 2027 (Only 18%). Can the Bull Market Keep Going?",
+    "url": "https://www.fool.com/investing/2026/11/04/goldman-sachs-research-expects-slower-sp-500-earni/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "S&amp;P 500 earnings growth might slow in 2027. That doesn't mean investors should stop buying stocks.",
+    "published_at": "2026-11-04T18:30:00+08:00",
+    "stocks": [],
+    "uid": "92524fca94ff2d548ea7f5a52737ed54"
+  },
+  {
+    "title": "Coca-Cola vs. PepsiCo: Pepsi's Revenue Dwarfs Coke's, but This Is the Number to Watch",
+    "url": "https://www.fool.com/coverage/charts/2026/11/04/coca-cola-vs-pepsico-scale-vs-stability-in-revenue/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "PepsiCo's revenue runs nearly double Coca-Cola's, but Coca-Cola's steadier quarterly progression may signal stronger pricing power and operational discipline.",
+    "published_at": "2026-11-04T18:25:01+08:00",
+    "stocks": [],
+    "uid": "22450894255682b082feda233d832c31"
+  },
+  {
+    "title": "3 Nasdaq-100 Stocks That Can Double, According to Wall Street",
+    "url": "https://www.fool.com/investing/2026/11/04/3-nasdaq-100-stocks-can-double-according-to-wall-street/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Wall Street's median target prices suggest these are the three best Nasdaq-100 stocks to buy right now.",
+    "published_at": "2026-11-04T18:16:01+08:00",
+    "stocks": [],
+    "uid": "8659798f0831666da8e86c1220195217"
+  },
+  {
+    "title": "‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?",
+    "url": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "“I also want to preserve the opportunity to leave a meaningful legacy for my two sons.”",
+    "published_at": "2026-11-04T18:15:00+08:00",
+    "stocks": [],
+    "uid": "aee705ff895c22372ea4e9b052fded1f"
+  },
+  {
+    "title": "Will Crypto Rally After the Midterm Elections? If History Is Any Guide, This Happens Next.",
+    "url": "https://www.fool.com/investing/2026/11/04/will-crypto-rally-after-the-midterm-elections-if-h/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Crypto has only been around since 2009, but the sector's movement following midterms shows a clear trend.",
+    "published_at": "2026-11-04T18:15:00+08:00",
+    "stocks": [],
+    "uid": "3a1c17c3280e10e8b624a7f83533c6a0"
+  },
+  {
+    "title": "L.A. home once owned by Mike Tyson’s former wife, actress Robin Givens, is on the market for $3.5 million",
+    "url": "https://www.marketwatch.com/story/l-a-home-once-owned-by-mike-tysons-former-wife-actress-robin-givens-is-on-the-market-for-3-5-million-0b9e11a1?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Actress Robin Givens’ former Hollywood Hills, Calif., home is ready for a new buyer, having just hit the market for $3.5 million.",
+    "published_at": "2026-11-04T18:03:00+08:00",
+    "stocks": [],
+    "uid": "afc56adadfedf16b54bf501fc988cbf0"
+  },
+  {
+    "title": "Jordyn Woods on her baby plans with Karl-Anthony Towns after buying $14 million home",
+    "url": "https://www.marketwatch.com/story/jordyn-woods-on-her-baby-plans-with-karl-anthony-towns-after-buying-14-million-home-e864ce5a?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "TV personality Jordyn Woods hopes children are in her future with husband Karl-Anthony Towns, but the newlywed is taking her time before starting that chapter.",
+    "published_at": "2026-11-04T17:58:00+08:00",
+    "stocks": [],
+    "uid": "7e7b565730c18f45644927b769d1f7d1"
+  },
+  {
+    "title": "Beleaguered Novo offers relief to investors, thanks to Wegovy pill",
+    "url": "https://www.marketwatch.com/story/beleaguered-novo-offers-relief-to-investors-thanks-to-wegovy-pill-422c251b?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Novo Nordisk’s stock jumped higher on Wednesday as the Danish drugmaker lifted its guidance on strong uptake of its weight-loss-drug pill that has been launched this year.",
+    "published_at": "2026-11-04T17:41:00+08:00",
+    "stocks": [],
+    "uid": "3a0e98bc32d5885231f4296304111935"
+  },
+  {
+    "title": "Here’s why AMD’s stock is rising — and sending a confident message about the AI trade",
+    "url": "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The chip maker is showing “real” revenue from artificial intelligence, shrugging off sustainability concerns and leading to an upbeat forecast.",
+    "published_at": "2026-11-04T17:30:00+08:00",
+    "stocks": [],
+    "uid": "642699a39d5c314185084843c8a76f09"
+  },
+  {
+    "title": "5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republicans",
+    "url": "https://www.cnbc.com/2026/11/04/midterm-election-blue-wave-trump-billionaires.html",
+    "source": "CNBC Top",
+    "summary": "Elon Musk's spending may have become a liability as voters in exit polls raised concerns about government corruption and the growing influence of billionaires.",
+    "published_at": "2026-11-04T16:56:45+08:00",
+    "stocks": [],
+    "uid": "bd6216b4cfd4265f9dbf1a5d6c3965cb"
+  },
+  {
+    "title": "Americans have said 'NO TO WAR,' Iran speaker says as Democrats take Congress",
+    "url": "https://www.cnbc.com/2026/11/04/us-midterm-elections-iran-war-speaker.html",
+    "source": "CNBC Top",
+    "summary": "Ghalibaf said that \"Conscience or the cost of living, Americans said NO TO WAR, and we endorse this message.\"",
+    "published_at": "2026-11-04T14:45:36+08:00",
+    "stocks": [],
+    "uid": "3a7b4aca985ce6b46f9cfc390677ee08"
+  },
+  {
+    "title": "Democrats win the House and Senate. Here’s what it means for your finances.",
+    "url": "https://www.marketwatch.com/story/democrats-win-the-senate-but-control-of-the-house-is-still-up-in-the-air-heres-what-it-means-for-your-finances-ed78cd6e?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The results from the U.S. midterm elections are now clear and look likely to have effects on Americans’ investments and their wallets.",
+    "published_at": "2026-11-04T14:27:00+08:00",
+    "stocks": [],
+    "uid": "58a4dcc84e7e33ee579d4c044a3234c2"
+  },
+  {
+    "title": "Candy and Smiles on MS NOW, and Some Regrets on Fox News",
+    "url": "https://www.nytimes.com/2026/11/04/business/media/midterm-elections-fox-ms-now.html",
+    "source": "NYT Business",
+    "summary": "On TV, the outcome of the midterm elections became clear early on. Pundits celebrated and grieved by turns.",
+    "published_at": "2026-11-04T14:22:18+08:00",
+    "stocks": [],
+    "uid": "32f7cd2b6db96d429bd2e2ee9694da07"
+  },
+  {
+    "title": "Trump Is Watching Fox News, and He Is Not Thrilled",
+    "url": "https://www.nytimes.com/2026/11/03/business/media/trump-fox-news-gutfeld-tarlov.html",
+    "source": "NYT Business",
+    "summary": "On a consequential midterm night, the president offered some harsh criticism of the cable news channel on his social media account.",
+    "published_at": "2026-11-04T09:59:57+08:00",
+    "stocks": [],
+    "uid": "b49b18109bbd063a7471225afda4b52b"
+  },
+  {
+    "title": "Flouting Consumer Law, Insurers Refuse to Pay Medical Bills for Emergency Care",
+    "url": "https://www.nytimes.com/2026/11/03/us/insurers-nonpayment-arbitration.html",
+    "source": "NYT Business",
+    "summary": "A law to end surprise medical bills has generated millions of high-dollar payouts for doctors. Health plans are now fighting back by frequently withholding money.",
+    "published_at": "2026-11-04T09:54:03+08:00",
+    "stocks": [],
+    "uid": "bf49a8f032c11bbf09083e94a0f6076b"
+  },
+  {
+    "title": "Drone Boat Maker Saildrone Wins Protest Over Navy Contract",
+    "url": "https://www.nytimes.com/2026/11/03/us/politics/drone-boat-maker-navy-protest.html",
+    "source": "NYT Business",
+    "summary": "A federal judge’s ruling on the side of the small defense contractor was a rarity, as most company protests against government bidding decisions do not prevail.",
+    "published_at": "2026-11-04T09:44:13+08:00",
+    "stocks": [],
+    "uid": "b6ef3b31ae19d9db0fdf9e611adb30ff"
+  },
+  {
+    "title": "Google responds to political backlash over removing search from schools that ban AI",
+    "url": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
+    "source": "CNBC Top",
+    "summary": "After elected officials voiced outrage over Google turning off search at schools that ban AI, the company said search can be turned back on with AI Overviews.",
+    "published_at": "2026-11-04T09:07:01+08:00",
+    "stocks": [],
+    "uid": "8bbb14411a87e67b25f2292794c8148f"
+  },
+  {
+    "title": "Jim Cramer sees signs of life in tech stocks — but not from the usual winners",
+    "url": "https://www.cnbc.com/2026/11/03/jim-cramer-sees-signs-of-life-in-tech-stocks-but-not-from-the-usual-winners.html",
+    "source": "CNBC Tech",
+    "summary": "Cramer said a new group of technology stocks may be emerging as market leaders.",
+    "published_at": "2026-11-04T07:58:09+08:00",
+    "stocks": [],
+    "uid": "a96bad23023856115d3d195a4d939768"
+  },
+  {
+    "title": "CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
+    "url": "https://www.cnbc.com/2026/11/03/crowdstrikes-new-kill-switch-can-stop-rogue-ai-agents-in-their-tracks-ceo-says.html",
+    "source": "CNBC Top",
+    "summary": "\"Enabling agents to work safely is a massive market opportunity for CrowdStrike,\" CrowdStrike CEO George Kurtz told CNBC's Jim Cramer.",
+    "published_at": "2026-11-04T07:37:07+08:00",
+    "stocks": [],
+    "uid": "9860d6dd3fb38848c653bfaedfc9e224"
+  },
+  {
+    "title": "Strand bookstore to pay nearly $1.5 million over Covid loan tied to Sen. Wyden's wife",
+    "url": "https://www.cnbc.com/2026/11/03/strand-bookstore-ppp-loan-ron-wyden-wife-settlement.html",
+    "source": "CNBC Top",
+    "summary": "Nancy Bass Wyden, whose grandfather founded the New York City bookstore, had signed off on the PPP, which was off-limits because she is a senator's wife.",
+    "published_at": "2026-11-04T07:28:01+08:00",
+    "stocks": [],
+    "uid": "48f885448f613d6c9c4b0d9573faebce"
+  },
+  {
+    "title": "AMD stock jumps 8% on earnings as data center revenue nearly doubles",
+    "url": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
+    "source": "CNBC Markets",
+    "summary": "AMD reported better-than-expected third-quarter results, driven by booming sales of AI chips",
+    "published_at": "2026-11-04T07:04:37+08:00",
+    "stocks": [],
+    "uid": "1f897f299612bfa749ec0c273ad35075"
+  },
+  {
+    "title": "JetBlue raises bag fees for third time in a year as fuel costs bite",
+    "url": "https://www.cnbc.com/2026/11/03/jetblue-checked-bag-fee.html",
+    "source": "CNBC Top",
+    "summary": "JetBlue raised baggage fees for the third time in a year as fuel costs continued to climb.",
+    "published_at": "2026-11-04T06:26:20+08:00",
+    "stocks": [],
+    "uid": "dd46b92aeb427d98292dcb405ef3ce8b"
+  },
+  {
+    "title": "Fannie Mae, Freddie Mac rally as Ackman presses for conservatorship exit",
+    "url": "https://www.cnbc.com/2026/11/03/ackman-fannie-mae-freddie-mac-conservatorship.html",
+    "source": "CNBC Top",
+    "summary": "The midterm elections could be a turning point for the release of Fannie Mae and Freddie Mac from government control, according to Bill Ackman.",
+    "published_at": "2026-11-04T04:52:14+08:00",
+    "stocks": [],
+    "uid": "50885029d0e5ec0c7e38dadd731ba3da"
+  },
+  {
+    "title": "Options traders are betting heavily on these stocks ahead of election results",
+    "url": "https://www.cnbc.com/2026/11/03/options-traders-are-betting-heavily-on-these-stocks-ahead-of-election-results.html",
+    "source": "CNBC Top",
+    "summary": "Solar stocks see heavy call activity as voting gets underway",
+    "published_at": "2026-11-04T04:51:21+08:00",
+    "stocks": [],
+    "uid": "ad7bd16c2636cf794c6002bb2dcf6a3b"
+  },
+  {
+    "title": "Eaton's strong quarter should mark a bottom for shares of the AI buildout winner",
+    "url": "https://www.cnbc.com/investingclub/2026/11/03/eatons-strong-quarter-should-mark-a-bottom-for-shares-of-the-ai-buildout-winner.html",
+    "source": "CNBC Markets",
+    "summary": "The stock has struggled in recent months.",
+    "published_at": "2026-11-04T04:46:59+08:00",
+    "stocks": [],
+    "uid": "d4e794d9d9d32453fb02db5b8cbaa168"
+  },
+  {
+    "title": "The next wave of luxury real estate: marina developments with yacht parking",
+    "url": "https://www.cnbc.com/2026/11/03/the-next-wave-of-luxury-real-estate-marinas-with-yacht-parking.html",
+    "source": "CNBC Top",
+    "summary": "Marinas are becoming the next big draw for luxury real estate, as the global wealthy search for homes to park their ever-larger yachts.",
+    "published_at": "2026-11-04T04:41:27+08:00",
+    "stocks": [],
+    "uid": "db622349355c9cef4670acdcf6c9f6b8"
+  },
+  {
+    "title": "Sullivan: What the 2026 midterms could mean for energy investors",
+    "url": "https://www.cnbc.com/2026/11/03/2026-midterms-energy-investors.html",
+    "source": "CNBC Top",
+    "summary": "A Democratic Congress could be good for offshore wind and solar energy.",
+    "published_at": "2026-11-04T04:36:08+08:00",
+    "stocks": [],
+    "uid": "99fa532c9e9f3f2a29e1b6696a0ff230"
+  },
+  {
+    "title": "CrowdStrike launches AI kill switch that it says can stop internal agents that go rogue",
+    "url": "https://www.cnbc.com/2026/11/03/crowdstrike-ai-kill-switch-rogue-agents.html",
+    "source": "CNBC Top",
+    "summary": "CrowdStrike launched an AI kill switch that the company says can stop internal agents, block relaunches and cut enterprise network access.",
+    "published_at": "2026-11-04T04:27:21+08:00",
+    "stocks": [],
+    "uid": "4b48a295d3279acb2692bc00d73b1936"
+  },
+  {
+    "title": "Binance breach puts custody at center of crypto infrastructure trade",
+    "url": "https://www.cnbc.com/2026/11/03/binance-breach-puts-custody-at-center-of-crypto-infrastructure-trade.html",
+    "source": "CNBC Top",
+    "summary": "Lessons from the $6.3 billion Binance hack could help shape the next phase of the crypto infrastructure trade.",
+    "published_at": "2026-11-04T04:13:37+08:00",
+    "stocks": [],
+    "uid": "3b1928b39fd331e46e66eaa6e3c50a46"
+  },
+  {
+    "title": "Apple warns of risks related to AI agents behaving in 'unintended or unpredictable' ways",
+    "url": "https://www.cnbc.com/2026/11/03/apple-warns-of-ai-agents-behave-in-unintended-or-unpredictable-ways.html",
+    "source": "CNBC Top",
+    "summary": "Apple’s annual filing warns that AI agents could exceed permissions, resist instructions or take actions that are difficult to reverse.",
+    "published_at": "2026-11-04T04:10:41+08:00",
+    "stocks": [],
+    "uid": "baffd29673a252cb77441dee5e158a19"
+  },
+  {
+    "title": "Sen. Chris Murphy still hospitalized after suffering a stroke over the weekend",
+    "url": "https://www.cnbc.com/2026/11/03/chris-murphy-hospitalized-stroke.html",
+    "source": "CNBC Top",
+    "summary": "Sen. Chris Murphy, a Connecticut Democrat, was still in the hospital as of Tuesday, his office confirmed.",
+    "published_at": "2026-11-04T03:36:16+08:00",
+    "stocks": [],
+    "uid": "7631f5cf42f21f0c4cc4e650eb3a4b72"
+  },
+  {
+    "title": "Why we're keeping a hold rating on DuPont despite its beat-and-raise quarter",
+    "url": "https://www.cnbc.com/investingclub/2026/11/03/were-keeping-a-hold-rating-on-dupont-despite-its-beat-and-raise-quarter.html",
+    "source": "CNBC Markets",
+    "summary": "The stock could beat its February record high close.",
+    "published_at": "2026-11-04T03:26:02+08:00",
+    "stocks": [],
+    "uid": "fa095680cafd3b8aa7112290d6446955"
+  },
+  {
+    "title": "Jim Cramer likes CrowdStrike's new 'AI kill switch' and the cyber stock",
+    "url": "https://www.cnbc.com/investingclub/2026/11/03/jim-cramer-likes-crowdstrikes-new-ai-kill-switch-and-the-cyber-stock.html",
+    "source": "CNBC Tech",
+    "summary": "Jim Cramer sees the tool as a significant growth driver for CrowdStrike and a breakthrough for the broader industry.",
+    "published_at": "2026-11-04T03:16:46+08:00",
+    "stocks": [],
+    "uid": "f89bcf2b1126373d1e2bc2c6aac7d163"
+  },
+  {
     "title": "Ferrari raises 2026 guidance after Q3 earnings beat",
     "url": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html",
     "source": "CNBC Markets",
