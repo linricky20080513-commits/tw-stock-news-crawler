@@ -1,5 +1,764 @@
 [
   {
+    "title": "SpaceX says Google exec Don Harrison has resigned from its board",
+    "url": "https://www.cnbc.com/2026/11/06/tesdonald-harrison.html",
+    "source": "CNBC Tech",
+    "summary": "SpaceX announced that Don Harrison, a Google executive, has resigned from the company's board of directors.",
+    "published_at": "2026-11-07T06:30:22+08:00",
+    "stocks": [],
+    "uid": "7a4777e3212076cab76774f511e966ed",
+    "title_en": "SpaceX says Google exec Don Harrison has resigned from its board",
+    "summary_en": "SpaceX announced that Don Harrison, a Google executive, has resigned from the company's board of directors.",
+    "title_zh": "SpaceX 表示，Google高層唐哈里森 (Don Harrison) 已辭去董事會職務",
+    "summary_zh": "SpaceX 宣布，Google高層唐哈里森 (Don Harrison) 辭去公司董事會職務。"
+  },
+  {
+    "title": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
+    "url": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
+    "source": "CNBC Top",
+    "summary": "Trump revealed the shake-up three days after Democrats' landslide victory in the midterm elections, winning majority control of the House and Senate.",
+    "published_at": "2026-11-07T06:22:53+08:00",
+    "stocks": [],
+    "uid": "2cf9e62446d2230c00a8062519718f75",
+    "title_en": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
+    "summary_en": "Trump revealed the shake-up three days after Democrats' landslide victory in the midterm elections, winning majority control of the House and Senate.",
+    "title_zh": "川普稱史蒂芬·米勒將接替蘇西·懷爾斯擔任白宮辦公廳主任",
+    "summary_zh": "民主黨在中期選舉中取得壓倒性勝利，贏得參眾兩院多數控制權三天后，川普宣布了這一人事變動。"
+  },
+  {
+    "title": "Enova International subsidiary plans $500 million asset-backed notes offering",
+    "url": "https://www.investing.com/news/sec-filings/enova-international-subsidiary-plans-500-million-assetbacked-notes-offering-93CH-5009326",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-07T06:22:48+08:00",
+    "stocks": [],
+    "uid": "35b33a4b13f0c06b82d4beae8bc3fbb3",
+    "title_en": "Enova International subsidiary plans $500 million asset-backed notes offering",
+    "summary_en": "",
+    "title_zh": "Enova International 子公司計劃發行 5 億美元資產支持票據",
+    "summary_zh": ""
+  },
+  {
+    "title": "Health In Tech issues $3 million promissory note in equity financing deal",
+    "url": "https://www.investing.com/news/sec-filings/health-in-tech-issues-3-million-promissory-note-in-equity-financing-deal-93CH-5009317",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-07T06:18:31+08:00",
+    "stocks": [],
+    "uid": "f374ed92b8a252aa15d056912ea7c553",
+    "title_en": "Health In Tech issues $3 million promissory note in equity financing deal",
+    "summary_en": "",
+    "title_zh": "Health In Tech 在股權融資交易中發行 300 萬美元本票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Harold J. Schwartz resigns from Data Storage Corp board",
+    "url": "https://www.investing.com/news/sec-filings/harold-j-schwartz-resigns-from-data-storage-corp-board-93CH-5009304",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-07T06:14:47+08:00",
+    "stocks": [],
+    "uid": "9c60654430eac551dd444cf4c39949d5",
+    "title_en": "Harold J. Schwartz resigns from Data Storage Corp board",
+    "summary_en": "",
+    "title_zh": "Harold J. Schwartz 從 Data Storage Corp 董事會辭職",
+    "summary_zh": ""
+  },
+  {
+    "title": "Plains (PAA) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/06/plains-paa-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Silver Creek adds Rockies scale as Permian growth nears the high end of guidance.",
+    "published_at": "2026-11-07T06:14:08+08:00",
+    "stocks": [
+      "PAA"
+    ],
+    "uid": "5877b3c98c3ab369908679d7c62043fc",
+    "title_en": "Plains (PAA) Q3 2026 Earnings Call Transcript",
+    "summary_en": "Silver Creek adds Rockies scale as Permian growth nears the high end of guidance.",
+    "title_zh": "Plains (PAA) 2026 年第三季財報電話會議紀錄",
+    "summary_zh": "隨著二疊紀盆地的增長接近指導上限，Silver Creek 增加了落基山脈的規模。"
+  },
+  {
+    "title": "Lazard files prospectus for potential resale of shares issued in Campbell Lutyens acquisition",
+    "url": "https://www.investing.com/news/sec-filings/lazard-files-prospectus-for-potential-resale-of-shares-issued-in-campbell-lutyens-acquisition-93CH-5009298",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-07T06:10:40+08:00",
+    "stocks": [],
+    "uid": "ca4a20e2c20dea7ee9a549f8dcbfc47c",
+    "title_en": "Lazard files prospectus for potential resale of shares issued in Campbell Lutyens acquisition",
+    "summary_en": "",
+    "title_zh": "Lazard 提交了可能轉售 Campbell Lutyens 收購中發行的股票的招股說明書",
+    "summary_zh": ""
+  },
+  {
+    "title": "Onfolio Holdings stockholders approve reverse stock split authority at special meeting",
+    "url": "https://www.investing.com/news/sec-filings/onfolio-holdings-stockholders-approve-reverse-stock-split-authority-at-special-meeting-93CH-5009289",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-07T06:06:43+08:00",
+    "stocks": [],
+    "uid": "e6733ff71fd26a7f9a686979a1a6572d",
+    "title_en": "Onfolio Holdings stockholders approve reverse stock split authority at special meeting",
+    "summary_en": "",
+    "title_zh": "Onfolio Holdings 股東在特別會議上批准反向股票分割授權",
+    "summary_zh": ""
+  },
+  {
+    "title": "Stock Market Today, Nov. 6: AMD Surges 11% on Record Quarterly Revenue and Stronger Growth Outlook",
+    "url": "https://www.fool.com/coverage/stock-market-today/2026/11/06/stock-market-today-nov-6-amd-surges-11-on-record-quarterly-revenue-and-stronger-growth-outlook/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "On Nov. 6, 2026, AMD shares rallied as investors cheered its latest results and a forecast for faster growth through 2027.",
+    "published_at": "2026-11-07T06:05:02+08:00",
+    "stocks": [],
+    "uid": "c78f10b7ac45e3caf28dbbc6ade96399",
+    "title_en": "Stock Market Today, Nov. 6: AMD Surges 11% on Record Quarterly Revenue and Stronger Growth Outlook",
+    "summary_en": "On Nov. 6, 2026, AMD shares rallied as investors cheered its latest results and a forecast for faster growth through 2027.",
+    "title_zh": "今日股市，11 月 6 日：AMD 因創紀錄的季度收入和強勁的成長前景而飆升 11%",
+    "summary_zh": "2026 年 11 月 6 日，AMD 股價上漲，投資者對其最新業績以及到 2027 年實現更快增長的預測感到歡呼。"
+  },
+  {
+    "title": "Cognizant completes acquisition of digital engineering firm Wizeline",
+    "url": "https://www.investing.com/news/company-news/cognizant-completes-acquisition-of-digital-engineering-firm-wizeline-93CH-5009286",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-07T06:04:29+08:00",
+    "stocks": [],
+    "uid": "5a3aed50e07dd5b9423596c3513fc8b2"
+  },
+  {
+    "title": "Susie Wiles, Trump’s Chief of Staff, Is Accused of Blocking Health Policies to Attract Donations",
+    "url": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-calley-means-joe-rogan.html",
+    "source": "NYT Business",
+    "summary": "In a no-holds-barred interview with Joe Rogan, Calley Means, a former top health adviser, accused Susie Wiles of repeatedly bowing to lobbying pressures and fixating on campaign contributions.",
+    "published_at": "2026-11-07T06:03:52+08:00",
+    "stocks": [],
+    "uid": "5d672cab3d1ebde0eb221bb4b17f59d2",
+    "title_en": "Susie Wiles, Trump’s Chief of Staff, Is Accused of Blocking Health Policies to Attract Donations",
+    "summary_en": "In a no-holds-barred interview with Joe Rogan, Calley Means, a former top health adviser, accused Susie Wiles of repeatedly bowing to lobbying pressures and fixating on campaign contributions.",
+    "title_zh": "川普的幕僚長蘇西威爾斯被指控阻礙健康政策以吸引捐款",
+    "summary_zh": "前高級健康顧問卡利·米恩斯在接受喬·羅根的無限制採訪時指責蘇西·威爾斯一再屈服於遊說壓力並專注於競選捐款。"
+  },
+  {
+    "title": "Royal Caribbean director Arne Wilhelmsen sells $82.1M in stock",
+    "url": "https://www.investing.com/news/insider-trading-news/royal-caribbean-director-arne-wilhelmsen-sells-821m-in-stock-93CH-5009283",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-07T06:01:15+08:00",
+    "stocks": [],
+    "uid": "3fc11bc6a2b850a43a21b6c9e856d489",
+    "title_en": "Royal Caribbean director Arne Wilhelmsen sells $82.1M in stock",
+    "summary_en": "",
+    "title_zh": "皇家加勒比董事 Arne Wilhelmsen 出售價值 8,210 萬美元的股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Xometry director Altschuler reports $1.09M class A common stock sale",
+    "url": "https://www.investing.com/news/insider-trading-news/xometry-director-altschuler-reports-109m-class-a-common-stock-sale-93CH-5009284",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-07T06:01:15+08:00",
+    "stocks": [],
+    "uid": "dc8376a04b93b6c1a3d8b4fa21d5f991",
+    "title_en": "Xometry director Altschuler reports $1.09M class A common stock sale",
+    "summary_en": "",
+    "title_zh": "Xometry 董事 Altschuler 報告賣出 109 萬美元的 A 類普通股",
+    "summary_zh": ""
+  },
+  {
+    "title": "As tech swoon roils market, US inflation data on tap",
+    "url": "https://www.investing.com/news/stock-market-news/as-tech-swoon-roils-market-us-inflation-data-on-tap-5007256",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-07T06:00:52+08:00",
+    "stocks": [],
+    "uid": "e57d6553b58a86b2845c78b14813d4c4",
+    "title_en": "As tech swoon roils market, US inflation data on tap",
+    "summary_en": "",
+    "title_zh": "隨著科技股的低迷擾亂市場，美國通膨數據即將公佈",
+    "summary_zh": ""
+  },
+  {
+    "title": "Here's the Average Social Security Benefit at Age 65",
+    "url": "https://www.fool.com/retirement/social-security/2026/11/06/heres-the-average-social-security-benefit-at-age-65/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "At 65, most retirees face a permanent reduction in benefits because they haven't reached their full retirement age.",
+    "published_at": "2026-11-07T06:00:15+08:00",
+    "stocks": [],
+    "uid": "bcdc1c62ecda16c11cf29e6e26278bd8",
+    "title_en": "Here's the Average Social Security Benefit at Age 65",
+    "summary_en": "At 65, most retirees face a permanent reduction in benefits because they haven't reached their full retirement age.",
+    "title_zh": "這是 65 歲時的平均社會安全福利",
+    "summary_zh": ""
+  },
+  {
+    "title": "Stock Market Today, Nov. 6: Iren Soars 20% on Strong AI Cloud Revenue Growth",
+    "url": "https://www.fool.com/coverage/stock-market-today/2026/11/06/stock-market-today-nov-6-iren-soars-20-on-strong-ai-cloud-revenue-growth/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Today, Nov. 6, 2026, investors are weighing whether customer prepayments and contract wins can sustain the AI cloud momentum.",
+    "published_at": "2026-11-07T05:58:01+08:00",
+    "stocks": [],
+    "uid": "983b8e408d0fb64bfc13f4fd4b37518d",
+    "title_en": "Stock Market Today, Nov. 6: Iren Soars 20% on Strong AI Cloud Revenue Growth",
+    "summary_en": "Today, Nov. 6, 2026, investors are weighing whether customer prepayments and contract wins can sustain the AI cloud momentum.",
+    "title_zh": "今日股市，11 月 6 日：人工智慧雲端收入強勁成長，Iren 股價飆漲 20%",
+    "summary_zh": "今天，也就是 2026 年 11 月 6 日，投資者正在權衡客戶預付款和合約贏得是否能夠維持人工智慧雲端的勢頭。"
+  },
+  {
+    "title": "Elon Musk opens the door for a big SpaceX acquisition",
+    "url": "https://www.marketwatch.com/story/elon-musk-opens-the-door-for-a-big-spacex-acquisition-4f62bcad?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The rocket and satellite-internet company is looking to challenge telecom giants.",
+    "published_at": "2026-11-07T05:45:00+08:00",
+    "stocks": [],
+    "uid": "d3d93954c21f88320ad127c8b268f39d",
+    "title_en": "Elon Musk opens the door for a big SpaceX acquisition",
+    "summary_en": "The rocket and satellite-internet company is looking to challenge telecom giants.",
+    "title_zh": "伊隆馬斯克為 SpaceX 的大規模收購打開大門",
+    "summary_zh": "這家火箭和衛星網路公司正在尋求挑戰電信巨頭。"
+  },
+  {
+    "title": "Why Airbnb Stock Popped Today",
+    "url": "https://www.fool.com/investing/2026/11/06/why-airbnb-stock-popped-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The home rental platform is \"back in growth mode,\" according to CEO Brian Chesky.",
+    "published_at": "2026-11-07T05:40:32+08:00",
+    "stocks": [],
+    "uid": "f13828d5cbb4bc656e62d4ff98c4f5d1",
+    "title_en": "Why Airbnb Stock Popped Today",
+    "summary_en": "The home rental platform is \"back in growth mode,\" according to CEO Brian Chesky.",
+    "title_zh": "為什麼 Airbnb 的股票今天會暴漲",
+    "summary_zh": ""
+  },
+  {
+    "title": "Sen. Chris Murphy released from hospital after stroke, will miss votes for 'several weeks' as he rehabs",
+    "url": "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html",
+    "source": "CNBC Top",
+    "summary": "The Connecticut Democrat Murphy has been discussed as a possible candidate for the White House in 2028.",
+    "published_at": "2026-11-07T05:40:09+08:00",
+    "stocks": [],
+    "uid": "e09736890ba2405989ead65895253a3d",
+    "title_en": "Sen. Chris Murphy released from hospital after stroke, will miss votes for 'several weeks' as he rehabs",
+    "summary_en": "The Connecticut Democrat Murphy has been discussed as a possible candidate for the White House in 2028.",
+    "title_zh": "參議員克里斯墨菲中風後出院，在康復過程中將缺席「數週」投票",
+    "summary_zh": "康乃狄克州民主黨人墨菲已被討論為 2028 年白宮的可能候選人。"
+  },
+  {
+    "title": "Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.",
+    "url": "https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "AI debt issuance this year overwhelmed investor portfolios, and has disappointed from a performance perspective. The funding need won’t get any better with Democrats in control of Congress.",
+    "published_at": "2026-11-07T05:37:00+08:00",
+    "stocks": [],
+    "uid": "a20df0569d7a096f4c9a622a397b6416",
+    "title_en": "Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.",
+    "summary_en": "AI debt issuance this year overwhelmed investor portfolios, and has disappointed from a performance perspective. The funding need won’t get any better with Democrats in control of Congress.",
+    "title_zh": "資料中心負債累累。這是今年債券面臨的問題，而且只會變得更糟。",
+    "summary_zh": "今年的人工智慧債券發行讓投資人投資組合不堪重負，從業績角度來看也令人失望。隨著民主黨控制國會，資金需求不會有任何改善。"
+  },
+  {
+    "title": "Trump Appeals Dismissal of $10 Billion Libel Suit Against Wall Street Journal",
+    "url": "https://www.nytimes.com/2026/11/06/business/media/trump-wall-street-journal.html",
+    "source": "NYT Business",
+    "summary": "A judge has twice tossed the president’s defamation complaint, which centered on an article about a birthday greeting to the sex offender Jeffrey Epstein.",
+    "published_at": "2026-11-07T05:28:04+08:00",
+    "stocks": [],
+    "uid": "404310f7d775fd3f0de729bf72afb8d0",
+    "title_en": "Trump Appeals Dismissal of $10 Billion Libel Suit Against Wall Street Journal",
+    "summary_en": "A judge has twice tossed the president’s defamation complaint, which centered on an article about a birthday greeting to the sex offender Jeffrey Epstein.",
+    "title_zh": "川普上訴駁回針對《華爾街日報》的 100 億美元誹謗訴訟",
+    "summary_zh": "一名法官兩次駁回總統的誹謗申訴，該申訴主要針對一篇有關向性犯罪者傑弗裡·愛潑斯坦致生日祝福的文章。"
+  },
+  {
+    "title": "Reinsurance Group (RGA) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/06/reinsurance-group-rga-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Investment gains and pension risk deals drove a sharp earnings jump.",
+    "published_at": "2026-11-07T05:27:49+08:00",
+    "stocks": [
+      "RGA"
+    ],
+    "uid": "36375c97c6e7b7c89be975b0d67f1a83",
+    "title_en": "Reinsurance Group (RGA) Q3 2026 Earnings Call Transcript",
+    "summary_en": "Investment gains and pension risk deals drove a sharp earnings jump.",
+    "title_zh": "再保險集團 (RGA) 2026 年第三季財報電話會議紀錄",
+    "summary_zh": "投資收益和退休金風險交易推動獲利大幅成長。"
+  },
+  {
+    "title": "Drilling Tools (DTI) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/06/drilling-tools-dti-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Offshore push and a pending Saltire deal shape the quarter's outlook.",
+    "published_at": "2026-11-07T05:26:26+08:00",
+    "stocks": [
+      "DTI"
+    ],
+    "uid": "d86a527e077f9104efcce267b1a09ba4",
+    "title_en": "Drilling Tools (DTI) Q3 2026 Earnings Call Transcript",
+    "summary_en": "Offshore push and a pending Saltire deal shape the quarter's outlook.",
+    "title_zh": "鑽井工具 (DTI) 2026 年第三季財報電話會議紀錄",
+    "summary_zh": "離岸業務的推動和懸而未決的 Saltire 交易塑造了本季的前景。"
+  },
+  {
+    "title": "Midterms Are Over. Here's What History Says the S&P 500 Does Next.",
+    "url": "https://www.fool.com/investing/2026/11/06/midterms-over-what-history-sp-500-election/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "With the election behind us, investors can have a lot more confidence in what the future holds.",
+    "published_at": "2026-11-07T05:16:00+08:00",
+    "stocks": [],
+    "uid": "e8be26b6089ffc6cf96fc0596a207c61",
+    "title_en": "Midterms Are Over. Here's What History Says the S&P 500 Does Next.",
+    "summary_en": "With the election behind us, investors can have a lot more confidence in what the future holds.",
+    "title_zh": "期中考結束了。以下是歷史上標普 500 指數接下來的表現。",
+    "summary_zh": "隨著選舉的結束，投資者可以對未來更有信心。"
+  },
+  {
+    "title": "OpenAI bugging suspect Alfozan pleads not guilty",
+    "url": "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
+    "source": "CNBC Top",
+    "summary": "Saudi national Abdulrahman Alfozan is charged with planting a recording device in a conference room at artificial intelligence giant OpenAI.",
+    "published_at": "2026-11-07T05:15:47+08:00",
+    "stocks": [],
+    "uid": "cc60cb34aff4295414a32f4c5186a639",
+    "title_en": "OpenAI bugging suspect Alfozan pleads not guilty",
+    "summary_en": "Saudi national Abdulrahman Alfozan is charged with planting a recording device in a conference room at artificial intelligence giant OpenAI.",
+    "title_zh": "OpenAI 竊聽嫌疑犯 Alfozan 不認罪",
+    "summary_zh": "沙烏地阿拉伯公民阿卜杜拉赫曼·阿爾福贊 (Abdulrahman Alfozan) 被指控在人工智慧巨頭 OpenAI 的會議室安裝錄音設備。"
+  },
+  {
+    "title": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'",
+    "url": "https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html",
+    "source": "CNBC Top",
+    "summary": "Anthropic could list below a $1.5 trillion valuation, trailing previous expectations, as the AI trade sours on Wall Street.",
+    "published_at": "2026-11-07T05:07:07+08:00",
+    "stocks": [],
+    "uid": "5fad7301d974a884c60b7d1f339bcdfb",
+    "title_en": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'",
+    "summary_en": "Anthropic could list below a $1.5 trillion valuation, trailing previous expectations, as the AI trade sours on Wall Street.",
+    "title_zh": "投資者為 Anthropic 估值下降做好準備，稱 1.5 兆美元“過高”",
+    "summary_zh": "隨著華爾街人工智慧交易的惡化，Anthropic 的估值可能會低於 1.5 兆美元，落後於先前的預期。"
+  },
+  {
+    "title": "KB Financial: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/06/kb-financial-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Net interest margin tightened in Q3, but management expects loan repricing to restore yield momentum as rate hikes flow through.",
+    "published_at": "2026-11-07T05:00:19+08:00",
+    "stocks": [],
+    "uid": "785e58ce723eb451873af4da1f0d81ed"
+  },
+  {
+    "title": "Financial Institutions: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/06/financial-institutions-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Fee income diversification and disciplined capital allocation are positioning the bank for steady margin expansion.",
+    "published_at": "2026-11-07T05:00:19+08:00",
+    "stocks": [],
+    "uid": "15a17d07ca93ebdb7c5a0941413fc534"
+  },
+  {
+    "title": "American Financial: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/06/american-financial-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Pricing discipline in niche specialty lines shelters American Financial's volume from broad commercial swings, a buffer worth weighing against social inflation risk.",
+    "published_at": "2026-11-07T05:00:19+08:00",
+    "stocks": [],
+    "uid": "f85dbbbabada40620b52f26236009f31"
+  },
+  {
+    "title": "Corebridge Financial: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/06/corebridge-financial-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The short-duration digital infrastructure book, with $3.4 billion rolling off within three years, tests whether conservative credit standards can hold as data center lending grows.",
+    "published_at": "2026-11-07T05:00:16+08:00",
+    "stocks": [],
+    "uid": "bcae15baa5bc115df10991d8215f9ca0"
+  },
+  {
+    "title": "CNO Financial: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/06/cno-financial-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Captive distribution and a growing agent force give CNO Financial a competitive moat that's difficult to replicate in the middle-market insurance space.",
+    "published_at": "2026-11-07T05:00:16+08:00",
+    "stocks": [],
+    "uid": "0e3c2957bd32e57a204c15907e10a8ab"
+  },
+  {
+    "title": "Jackson Financial: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/06/jackson-financial-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Brooke Re, a captive reinsurer, is how Jackson aims to keep variable annuity hedging from distorting reported results.",
+    "published_at": "2026-11-07T05:00:16+08:00",
+    "stocks": [],
+    "uid": "559a795f6aae2028557aaa645ec17aa6"
+  },
+  {
+    "title": "First Financial: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/06/first-financial-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "A majority of First Financial's loan portfolio reprices within 15-30 days, letting the bank capture rate gains before deposit costs rise.",
+    "published_at": "2026-11-07T05:00:16+08:00",
+    "stocks": [],
+    "uid": "611866ff458c31d498280d852e4467cb"
+  },
+  {
+    "title": "Micron’s stock is dirt cheap — and that’s igniting a fierce online debate",
+    "url": "https://www.marketwatch.com/story/microns-stock-is-dirt-cheap-and-thats-igniting-a-fierce-online-debate-0626791d?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Valuation purists see a ridiculously inexpensive stock, but some semiconductor investors say Micron’s earnings power won’t hold up.",
+    "published_at": "2026-11-07T04:58:00+08:00",
+    "stocks": [],
+    "uid": "88c4c083519425994d350e197e3cbda8"
+  },
+  {
+    "title": "Helios (HLIO) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/06/helios-hlio-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Record Q3 sales and a raised outlook, plus a sharp jump in cash generation.",
+    "published_at": "2026-11-07T04:54:14+08:00",
+    "stocks": [
+      "HLIO"
+    ],
+    "uid": "b74379f2688b8eef64e7f3e214ce9e7f"
+  },
+  {
+    "title": "Sandisk Stock Has Lost About 64% Since June. Here's the Price at Which I'd Buy It.",
+    "url": "https://www.fool.com/investing/2026/11/06/sandisk-stock-has-lost-about-64-since-june-here-s-the-price-at-which-i-d-buy-it/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "How many years of boom-time profits should a buyer be willing to pay for?",
+    "published_at": "2026-11-07T04:47:19+08:00",
+    "stocks": [],
+    "uid": "1e0aacf022274ee3c3fcf1c3b1b035bb"
+  },
+  {
+    "title": "Broadcom's AI Revenue Is Exploding. Here's What Investors Should Watch Next.",
+    "url": "https://www.fool.com/investing/2026/11/06/broadcoms-ai-revenue-is-exploding-heres-what-inves/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Investors shouldn't ignore the macro and regulatory headwinds.",
+    "published_at": "2026-11-07T04:45:00+08:00",
+    "stocks": [],
+    "uid": "616908129b7412138c13a2cc5d7cf874"
+  },
+  {
+    "title": "TOKEN2049: Fundamentals Are Shaping Crypto Investing",
+    "url": "https://www.fool.com/investing/general/2026/11/06/token2049-fundamentals-are-shaping-crypto/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Discover why now is the perfect time for Foolish investors to seize opportunities in the digital asset space.",
+    "published_at": "2026-11-07T04:45:00+08:00",
+    "stocks": [],
+    "uid": "8c20b727986f7cdc0d6460a52dc5a668"
+  },
+  {
+    "title": "Delek US Holdings (DK) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/06/delek-us-holdings-dk-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Management outlines a balance sheet shift and a raised logistics outlook heading into year-end.",
+    "published_at": "2026-11-07T04:43:41+08:00",
+    "stocks": [
+      "DK"
+    ],
+    "uid": "e7b92d66e6c53f3f94a6ac6c7dfa8875"
+  },
+  {
+    "title": "SAB Biotherapeutics (SABS) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/06/sab-biotherapeutics-sabs-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Full enrollment in adult and adolescent SAFEGUARD cohorts sets up a pivotal 2027 data readout.",
+    "published_at": "2026-11-07T04:41:45+08:00",
+    "stocks": [
+      "SABS"
+    ],
+    "uid": "6ef2a5b4fb36bc412b22c6ab83d2c81c"
+  },
+  {
+    "title": "Here's a rapid-fire update on all 31 of our stocks, including 2 to buy now",
+    "url": "https://www.cnbc.com/investingclub/2026/11/06/heres-a-rapid-fire-update-on-our-31-stocks-including-2-to-buy-now.html",
+    "source": "CNBC Top",
+    "summary": "We closed out a wild market week on Friday at the Investing Club's fourth Annual Meeting at the New York Stock Exchange.",
+    "published_at": "2026-11-07T04:36:03+08:00",
+    "stocks": [],
+    "uid": "b984c4f92d489f217a330c99acbce865"
+  },
+  {
+    "title": "Gray Media (GTN) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/06/gray-media-gtn-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Political ad strength is now fueling Gray's debt reduction push.",
+    "published_at": "2026-11-07T04:31:37+08:00",
+    "stocks": [
+      "GTN"
+    ],
+    "uid": "fe60905f5f70b390b71351e8bfd297c6"
+  },
+  {
+    "title": "American Express Has Cut Its Share Count by 27% Since 2016. Here's What That Did for the Stock.",
+    "url": "https://www.fool.com/investing/2026/11/06/axp-cut-share-count-27-2016-what-it-did/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Investors have benefited from market-thumping returns in the last decade.",
+    "published_at": "2026-11-07T04:30:00+08:00",
+    "stocks": [],
+    "uid": "d39dda92e258a610fc0d852440d06f9d"
+  },
+  {
+    "title": "Regency Centers (REG) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/06/regency-centers-reg-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Record occupancy, raised guidance, and a 2027 refinancing headwind in focus.",
+    "published_at": "2026-11-07T04:27:40+08:00",
+    "stocks": [
+      "REG"
+    ],
+    "uid": "a1da34de24cf37fc92314c39edd9233c"
+  },
+  {
+    "title": "Why Gogo Stock Skyrocketed 68.7% On Friday",
+    "url": "https://www.fool.com/investing/2026/11/06/why-gogo-stock-skyrocketed-68-7-on-friday/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Did Gogo stock really jump on a weak quarterly report? Here is why the rally may fade in a hurry.",
+    "published_at": "2026-11-07T04:27:18+08:00",
+    "stocks": [],
+    "uid": "b897d5b01aeb76853f00e248a73267e5"
+  },
+  {
+    "title": "Advisor Insights: Election Weather, a Fee War, and Inflation’s Return",
+    "url": "https://www.fool.com/retirement/advisor/2026/11/06/advisor-insights-brought-to-you-by-the-motley-fool/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Midterms, a Nasdaq correction, and a December rate decision: talking points for this week’s client calls.",
+    "published_at": "2026-11-07T04:20:17+08:00",
+    "stocks": [],
+    "uid": "0fa805e008eed3bb86725d5c684fe47f"
+  },
+  {
+    "title": "The Price of Solana Just Dropped Below $100. Time to Buy the Dip?",
+    "url": "https://www.fool.com/investing/2026/11/06/the-price-of-solana-just-dropped-below-100-time-to/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The developer-oriented token has dropped nearly 70% from its all-time high.",
+    "published_at": "2026-11-07T04:20:00+08:00",
+    "stocks": [],
+    "uid": "b7fb8da71477ec93aa63ea903394b820"
+  },
+  {
+    "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
+    "url": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "“My brother had no job and needed a place to live.”",
+    "published_at": "2026-11-07T04:15:00+08:00",
+    "stocks": [],
+    "uid": "981b54b2daf171ab735746dc66d8013a"
+  },
+  {
+    "title": "Here's How Many Shares of Procter & Gamble You'd Need for $1,000 in Yearly Dividends",
+    "url": "https://www.fool.com/investing/2026/11/06/how-many-shares-procter-gamble-1k-dividends/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Even if generating $1,000 in dividend payouts from Procter & Gamble isn't in an investor's budget, it's still a stock worthy of investment consideration.",
+    "published_at": "2026-11-07T04:15:00+08:00",
+    "stocks": [],
+    "uid": "14b667ff3631d48dd3f05ffd497a6212"
+  },
+  {
+    "title": "A disturbing employment trend is hiding beneath the latest strong job numbers",
+    "url": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html",
+    "source": "CNBC Top",
+    "summary": "The average jobless worker's bout of unemployment surpassed 27 weeks in October, the highest outside of the pandemic period in a decade.",
+    "published_at": "2026-11-07T04:11:17+08:00",
+    "stocks": [],
+    "uid": "732232ba2104ae6910ae177676f2a405"
+  },
+  {
+    "title": "Dauch Corporation (DCH) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/06/dauch-corporation-dch-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Synergies beat the year-end target early, but inflation pressures reshaped the full-year outlook.",
+    "published_at": "2026-11-07T04:01:15+08:00",
+    "stocks": [
+      "DCH"
+    ],
+    "uid": "fc8bd8a5abcfa301d3a38aa45a0807d8"
+  },
+  {
+    "title": "MVB Financial: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/06/mvb-financial-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "AI-driven cost cuts are offsetting credit headwinds, a rare operational strength that could sustain profitability through cycles.",
+    "published_at": "2026-11-07T04:00:18+08:00",
+    "stocks": [],
+    "uid": "fd791bc935718592ac72256a88e0c312"
+  },
+  {
+    "title": "TRREB Welcomes Federal Budget Measures to Boost Housing Supply and Affordability",
+    "url": "https://markets.businessinsider.com/news/stocks/trreb-welcomes-federal-budget-measures-to-boost-housing-supply-and-affordability-1036731611",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;TORONTO, Nov.  06, 2026  (GLOBE NEWSWIRE) -- The Toronto Regional Real Estate Board (TRREB) applauds the 2026 Federal Budget for tackling key housing priorities: easing construction barriers, expanding financing options and improving affordability...",
+    "published_at": "2026-11-07T03:52:33+08:00",
+    "stocks": [
+      "TRREB"
+    ],
+    "uid": "b4b6c24622065c7f619624c1ecd1ffa4"
+  },
+  {
+    "title": "Plug Power Q3 2026 earnings preview: Company, analysts optimistic",
+    "url": "https://seekingalpha.com/news/4668473-plug-power-q3-2026-earnings-preview-company-analysts-optimistic?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-11-07T03:51:23+08:00",
+    "stocks": [],
+    "uid": "75b9ec2292a800d51f3dbcbfd75e20fc"
+  },
+  {
+    "title": "TIGO ENERGY DEADLINE: ROSEN, THE FIRST FILING FIRM, Encourages Tigo Energy, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - TYGO",
+    "url": "https://markets.businessinsider.com/news/stocks/tigo-energy-deadline-rosen-the-first-filing-firm-encourages-tigo-energy-inc.-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-first-filed-by-the-firm-tygo-1036731556",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/322883/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px;  height: 1px;border: 0px solid;&quot;&gt;New York, New York--(Newsfile Corp. - November 6, 2026) - &lt;b&gt;WHY:&lt;/b&gt;&#160;Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Tigo Energy, Inc. (NASDAQ: TYGO)  between...",
+    "published_at": "2026-11-07T03:50:00+08:00",
+    "stocks": [],
+    "uid": "0c725a501cc4b2b9a9cf5dff41bc79d5"
+  },
+  {
+    "title": "Tactfolio Inc. Launches AI-Compatible Platform for Building, Backtesting, and Automating Trading Strategies",
+    "url": "https://markets.businessinsider.com/news/stocks/tactfolio-inc-launches-ai-compatible-platform-for-building-backtesting-and-automating-trading-strategies-1036731552",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;New Castle, Delaware, Nov.  06, 2026  (GLOBE NEWSWIRE) -- &lt;a href=&quot;https://www.globenewswire.com/Tracker?data=o3cmkGIE-8qE2BQXLRsrlL92uuDf-Qn7uo-uv0qbyNtNkggaUT-WaUk61SYSn8dbx-MVuvOmDTRbHw_i8-8hPA==&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;&lt;u&gt;Tactfolio Inc.",
+    "published_at": "2026-11-07T03:48:35+08:00",
+    "stocks": [],
+    "uid": "6aec1c6a48ce92d1cc05762ce38a2ca6"
+  },
+  {
+    "title": "Rocket Lab Q3 earnings preview: Investors await Neutron timeline, growth outlook",
+    "url": "https://seekingalpha.com/news/4668468-rocket-lab-q3-earnings-preview-investors-await-neutron-timeline-growth-outlook?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-11-07T03:46:24+08:00",
+    "stocks": [],
+    "uid": "336163a732daf7af53bcebb293ccb783"
+  },
+  {
+    "title": "Mississippi Senate: Longshot Ty Pinkins says he aimed to spoil Hyde-Smith, boost Colom vote",
+    "url": "https://www.cnbc.com/2026/11/06/mississippi-senate-ty-pinkins-colom-hyde-smith.html",
+    "source": "CNBC Top",
+    "summary": "Ty Pinkins said he avoided campaigning in heavily Black areas of Mississippi to avoid harming chances for Democrat Scott Colom, who, like him, is Black.",
+    "published_at": "2026-11-07T03:44:33+08:00",
+    "stocks": [],
+    "uid": "bb24bf9d8cee2798d589825e5d57a39d"
+  },
+  {
+    "title": "Top House Oversight Democrat warns Trump family to 'lawyer up'",
+    "url": "https://www.cnbc.com/2026/11/06/robert-garcia-trump-congress-oversight-investigations.html",
+    "source": "CNBC Top",
+    "summary": "With Democrats set to take control of the House in January, Rep. Robert Garcia is promising sweeping probes into Trump, his family and his administration.",
+    "published_at": "2026-11-07T03:42:36+08:00",
+    "stocks": [],
+    "uid": "d397c54f21c34b20c75b4cd31b7f05dd"
+  },
+  {
+    "title": "Superior Group of Companies declares $0.14 dividend",
+    "url": "https://seekingalpha.com/news/4668467-superior-group-of-companies-declares-0_14-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-11-07T03:40:20+08:00",
+    "stocks": [],
+    "uid": "5757dabe9c3322a8c100ed20c10407e0"
+  },
+  {
+    "title": "Chemed declares $0.70 dividend",
+    "url": "https://seekingalpha.com/news/4668466-chemed-declares-0_70-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-11-07T03:40:18+08:00",
+    "stocks": [],
+    "uid": "05b88a378acaaff23ca4b12c99c248d6"
+  },
+  {
+    "title": "Trending Today's Newest Episode Explores the Business of Creativity, Design and Human Connection",
+    "url": "https://markets.businessinsider.com/news/stocks/trending-today-s-newest-episode-explores-the-business-of-creativity-design-and-human-connection-1036731471",
+    "source": "Business Insider",
+    "summary": "&lt;i&gt;Airing on Fox Business, Bloomberg and AE, the episode is now available on Trending Today's YouTube channel.&lt;/i&gt; &lt;strong id=&quot;dateline&quot;&gt;LOS ANGELES, CA / &lt;a href='https://www.accessnewswire.com/' rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot;&gt;ACCESS Newswire&lt;/a&gt; / November 6, 2026 / &lt;a rel=&quot;nofollow&quot; href=&quot;https://pr.report/tb6j&quot; rel=&quot;noopener...",
+    "published_at": "2026-11-07T03:40:00+08:00",
+    "stocks": [],
+    "uid": "249ef545392aabffe4f42d176d101f39"
+  },
+  {
+    "title": "AVXL IMPORTANT DEADLINE: ROSEN, A GLOBALLY RESPECTED LAW FIRM, Encourages Anavex Life Sciences Corp. Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by...",
+    "url": "https://markets.businessinsider.com/news/stocks/avxl-important-deadline-rosen-a-globally-respected-law-firm-encourages-anavex-life-sciences-corp.-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-first-filed-by-the-firm-avxl-1036731472",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/322910/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px;  height: 1px;border: 0px solid;&quot;&gt;New York, New York--(Newsfile Corp. - November 6, 2026) - &lt;b&gt;WHY:&lt;/b&gt;&#160;Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Anavex Life Sciences Corp. (NASDAQ:",
+    "published_at": "2026-11-07T03:40:00+08:00",
+    "stocks": [],
+    "uid": "db7b0cbaf99f7aeb660de16283fcc2ff"
+  },
+  {
+    "title": "The engineer accused of bugging OpenAI's office pleads not guilty",
+    "url": "https://www.businessinsider.com/openai-engineer-abdulrahman-alfozan-pleads-not-guilty-2026-11",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-11-07T03:36:00+08:00",
+    "stocks": [],
+    "uid": "118302f83a73aea6232c2763a1b03ed5"
+  },
+  {
+    "title": "Fake job interview scams like the one that hit Binance are getting more sophisticated. Here are the new signs to watch for",
+    "url": "https://www.cnbc.com/make-it/2026/11/06/binance-hack-fake-job-interview-scams.html",
+    "source": "CNBC Top",
+    "summary": "Binance lost more than $6 billion in a hack partly caused by fake job interviews. Here's what job seekers can learn from it, and tips to avoid job search scams.",
+    "published_at": "2026-11-07T03:09:56+08:00",
+    "stocks": [],
+    "uid": "9ef1c098da23939fe81a00a9e4132cc4"
+  },
+  {
+    "title": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
+    "url": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html",
+    "source": "CNBC Finance",
+    "summary": "San Francisco Fed President Mary Daly called Friday's jobs report \"good news for American workers,\" but noted the pressure inflation is exerting on household finances",
+    "published_at": "2026-11-07T03:05:00+08:00",
+    "stocks": [],
+    "uid": "658425f4541fa1be3d9f4729818d40b1"
+  },
+  {
+    "title": "They Spent Millions to Keep Their Dream Cruise Afloat. It Died Anyway.",
+    "url": "https://www.nytimes.com/2026/11/06/travel/villa-vie-residences-odyssey-cruise.html",
+    "source": "NYT Business",
+    "summary": "Secrecy, debt and soaring fuel costs all contributed to the Odyssey’s downfall. Here’s an inside look at how the “endless cruise” unraveled.",
+    "published_at": "2026-11-07T02:58:23+08:00",
+    "stocks": [],
+    "uid": "8e93b445dfec38ea2911616aecbf1842"
+  },
+  {
+    "title": "My adviser recommended an annuity. Is it the right move in this market environment?",
+    "url": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "“I haven’t committed to the strategy yet and would appreciate some independent perspectives.”",
+    "published_at": "2026-11-07T02:53:00+08:00",
+    "stocks": [],
+    "uid": "c0e38bd7fe4f57fbf1fb3ecceefed4db"
+  },
+  {
+    "title": "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain",
+    "url": "https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html",
+    "source": "CNBC Top",
+    "summary": "Microsoft is winding down the number of neoclouds it counts as partners, picking key suppliers and focusing on its own data centers.",
+    "published_at": "2026-11-07T02:40:58+08:00",
+    "stocks": [],
+    "uid": "6907f1eab0368af8981030387cffed6b"
+  },
+  {
+    "title": "OpenAI, Arm and Qualcomm executives react to post-midterm AI sell-off",
+    "url": "https://www.cnbc.com/2026/11/06/tech-executives-ai-data-center-selloff-midterms.html",
+    "source": "CNBC Top",
+    "summary": "Executives of major tech companies are largely projecting optimism about continued growth in the artificial intelligence sector despite a post-midterm sell-off.",
+    "published_at": "2026-11-07T02:35:08+08:00",
+    "stocks": [],
+    "uid": "09b146ecc1513e73593cee73a53008f1"
+  },
+  {
+    "title": "AI crush is powering one stock to sky-high valuations",
+    "url": "https://www.cnbc.com/2026/11/06/ai-crush-is-powering-one-stock-to-sky-high-valuations.html",
+    "source": "CNBC Top",
+    "summary": "Despite sky-high valuations, Mike Khouw argues Costco shares could present a compelling buy.",
+    "published_at": "2026-11-07T02:15:44+08:00",
+    "stocks": [],
+    "uid": "fc333c5902457aea72ab350b8d294a4a"
+  },
+  {
     "title": "Omada Health (OMDA) Q3 2026 Earnings Call Transcript",
     "url": "https://www.fool.com/earnings/call-transcripts/2026/11/06/omada-health-omda-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
     "source": "Motley Fool",
