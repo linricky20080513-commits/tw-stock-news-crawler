@@ -1,5 +1,571 @@
 [
   {
+    "title": "Trump offers UFC chief Dana White press secretary job",
+    "url": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
+    "source": "CNBC Top",
+    "summary": "President Donald Trump offered the job of press secretary to UFC president and CEO Dana White on Saturday.",
+    "published_at": "2026-11-08T03:52:07+08:00",
+    "stocks": [],
+    "uid": "5591d7929904c45436e4eca5c0b3e9fc"
+  },
+  {
+    "title": "Palantir Stock Just Fell 8 Days in a Row. History Says What Followed Its Only 2 Longer Losing Streaks.",
+    "url": "https://www.fool.com/investing/2026/11/07/palantir-stock-just-fell-8-days-in-a-row-history-says-what-followed-its-only-2-longer-losing-streaks/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Did the AI software company's two longer slides say anything about what happened next?",
+    "published_at": "2026-11-08T03:36:02+08:00",
+    "stocks": [],
+    "uid": "72ac8f4a0c8c002a7f73956d9fed52fa",
+    "title_en": "Palantir Stock Just Fell 8 Days in a Row. History Says What Followed Its Only 2 Longer Losing Streaks.",
+    "summary_en": "Did the AI software company's two longer slides say anything about what happened next?",
+    "title_zh": "Palantir 股票連續 8 天下跌。歷史講述了其唯一兩次較長連敗之後發生的事情。",
+    "summary_zh": "這家人工智慧軟體公司的兩張較長的幻燈片是否說明了接下來發生的事情？"
+  },
+  {
+    "title": "Ginkgo Bioworks: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/07/ginkgo-bioworks-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Ginkgo's shift to physical data for AI labs is the thread tying its cost discipline to its hardware ambitions.",
+    "published_at": "2026-11-08T03:31:04+08:00",
+    "stocks": [],
+    "uid": "87d16c59d04a77e0b94d1be5918a66ed"
+  },
+  {
+    "title": "Here's What $10,000 Invested in Bloom Energy (BE) Stock Could Be Worth in 3 Years",
+    "url": "https://www.fool.com/investing/2026/11/07/heres-what-10000-invested-in-bloom-energy-be-stock/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This stock has soared in recent years -- but it's volatile.",
+    "published_at": "2026-11-08T03:30:00+08:00",
+    "stocks": [
+      "BE"
+    ],
+    "uid": "827a5ac09b07aa2ab676646a3727212d",
+    "title_en": "Here's What $10,000 Invested in Bloom Energy (BE) Stock Could Be Worth in 3 Years",
+    "summary_en": "This stock has soared in recent years -- but it's volatile.",
+    "title_zh": "投資 10,000 美元 Bloom Energy (BE) 股票三年後的價值",
+    "summary_zh": ""
+  },
+  {
+    "title": "Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you.",
+    "url": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Don’t sit on the sidelines during open enrollment.",
+    "published_at": "2026-11-08T03:20:00+08:00",
+    "stocks": [],
+    "uid": "23a222a314e416f9ad57c03229b7662f"
+  },
+  {
+    "title": "Diginex extends Resulticks acquisition deadline to Nov. 19",
+    "url": "https://www.investing.com/news/company-news/diginex-extends-resulticks-acquisition-deadline-to-nov-19-93CH-5010009",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-08T03:12:35+08:00",
+    "stocks": [],
+    "uid": "206b0aa0fee67c703c220723765e09da",
+    "title_en": "Diginex extends Resulticks acquisition deadline to Nov. 19",
+    "summary_en": "",
+    "title_zh": "Diginex 將 Resulticks 收購截止日期延長至 11 月 19 日",
+    "summary_zh": ""
+  },
+  {
+    "title": "Trump offers White House press secretary job to UFC’s Dana White",
+    "url": "https://www.investing.com/news/economy-news/trump-offers-white-house-press-secretary-job-to-ufcs-dana-white-5010006",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-08T03:04:00+08:00",
+    "stocks": [],
+    "uid": "ba70f38492f695bc616950a94148594c"
+  },
+  {
+    "title": "Did Apple Just Get a Boost From Democrats? Data Center Moratoriums Could Benefit the iPhone Maker",
+    "url": "https://www.fool.com/investing/2026/11/07/apple-get-boost-democrats-data-center-iphone/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Competition for this key component in Apple devices could come down.",
+    "published_at": "2026-11-08T03:03:00+08:00",
+    "stocks": [],
+    "uid": "5715eaf4ea1f51dbbbbc1c2fbd72c8e4",
+    "title_en": "Did Apple Just Get a Boost From Democrats? Data Center Moratoriums Could Benefit the iPhone Maker",
+    "summary_en": "Competition for this key component in Apple devices could come down.",
+    "title_zh": "蘋果剛剛得到民主黨的支持了嗎？資料中心暫停服務可能會讓 iPhone 製造商受益",
+    "summary_zh": "蘋果設備這一關鍵部件的競爭可能會減弱。"
+  },
+  {
+    "title": "Civeo CEO Dodson sells $865,614 in company shares",
+    "url": "https://www.investing.com/news/insider-trading-news/civeo-ceo-dodson-sells-865614-in-company-shares-93CH-5010004",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-08T03:01:10+08:00",
+    "stocks": [],
+    "uid": "af0f0f00b48163de9ce39bb4eee5ac1e",
+    "title_en": "Civeo CEO Dodson sells $865,614 in company shares",
+    "summary_en": "",
+    "title_zh": "Civeo 執行長 Dodson 出售價值 865,614 美元的公司股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Richmond Mutual Bancorporation president buys $23,317 in common stock",
+    "url": "https://www.investing.com/news/insider-trading-news/richmond-mutual-bancorporation-president-buys-23317-in-common-stock-93CH-5010003",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-08T03:01:09+08:00",
+    "stocks": [],
+    "uid": "508cdd1a5428873995e9fd5dd107612a"
+  },
+  {
+    "title": "Here's the Average Social Security Benefit by Age 62 to 80",
+    "url": "https://www.fool.com/retirement/social-security/2026/11/07/heres-the-average-social-security-benefit-by-age-62-to-80/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Claiming at 62 versus 70 creates a gap that reshapes your entire retirement income picture.",
+    "published_at": "2026-11-08T03:00:02+08:00",
+    "stocks": [],
+    "uid": "1a8cf3c8b08fa60fcb2776d3d9c5ed39",
+    "title_en": "Here's the Average Social Security Benefit by Age 62 to 80",
+    "summary_en": "Claiming at 62 versus 70 creates a gap that reshapes your entire retirement income picture.",
+    "title_zh": "這是 62 歲至 80 歲的平均社會安全福利",
+    "summary_zh": "62 歲和 70 歲領取退休金會產生差距，從而重塑您的整個退休收入狀況。"
+  },
+  {
+    "title": "Why Sunrun Stock Surged 33.4% This Week",
+    "url": "https://www.fool.com/coverage/market-movers/2026/11/07/why-sunrun-stock-surged-33-4-this-week/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Investors warmed up to this solar stock after the company reported strong financial results.",
+    "published_at": "2026-11-08T02:57:16+08:00",
+    "stocks": [],
+    "uid": "f1a0530ffb6300fd43303044c2df1750",
+    "title_en": "Why Sunrun Stock Surged 33.4% This Week",
+    "summary_en": "Investors warmed up to this solar stock after the company reported strong financial results.",
+    "title_zh": "為什麼 Sunrun 股價本週飆漲 33.4%",
+    "summary_zh": "在該公司公佈強勁的財務業績後，投資者對該太陽能股票的熱情升溫。"
+  },
+  {
+    "title": "Think It's Too Late to Buy Cloudflare Stock? Here's the 1 Reason Why There's Still Time",
+    "url": "https://www.fool.com/investing/2026/11/07/too-late-buy-cloudflare-stock-1-reason-still-time/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Cloudflare has nearly quadrupled in three years, but management says it has captured only about 1% of the market it's targeting.",
+    "published_at": "2026-11-08T02:53:00+08:00",
+    "stocks": [],
+    "uid": "0f7e329cf3afbc3666f093cc5211d4bc",
+    "title_en": "Think It's Too Late to Buy Cloudflare Stock? Here's the 1 Reason Why There's Still Time",
+    "summary_en": "Cloudflare has nearly quadrupled in three years, but management says it has captured only about 1% of the market it's targeting.",
+    "title_zh": "認為現在購買 Cloudflare 股票為時已晚？這是還有時間的第一個原因",
+    "summary_zh": "Cloudflare 在三年內成長了近四倍，但管理層表示，它僅佔了目標市場的約 1%。"
+  },
+  {
+    "title": "A ‘Legend of Zelda’ Game Is Reborn and ’90s Nostalgia Fans Are All In",
+    "url": "https://www.nytimes.com/2026/11/07/business/media/zelda-ocarina-of-time-remake-nintendo.html",
+    "source": "NYT Business",
+    "summary": "Nintendo’s “Legend of Zelda: Ocarina of Time” was released in 1998. Now, its remake has some fans giddily reliving their childhoods.",
+    "published_at": "2026-11-08T02:52:25+08:00",
+    "stocks": [],
+    "uid": "93c989317b3ebadf7d7521c7ef76b27d",
+    "title_en": "A ‘Legend of Zelda’ Game Is Reborn and ’90s Nostalgia Fans Are All In",
+    "summary_en": "Nintendo’s “Legend of Zelda: Ocarina of Time” was released in 1998. Now, its remake has some fans giddily reliving their childhoods.",
+    "title_zh": "《薩爾達傳說》遊戲重生，90 年代懷舊粉絲齊聚一堂",
+    "summary_zh": "任天堂的《薩爾達傳說：時之笛》於 1998 年發行。現在，它的翻拍版讓一些粉絲興奮地重溫了自己的童年。"
+  },
+  {
+    "title": "Under Armour: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/07/under-armour-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Monthly global product launches are replacing scattered regional marketing, a shift that tests whether full-price sell-through can rebuild while direct-to-consumer sales stay under pressure.",
+    "published_at": "2026-11-08T02:46:38+08:00",
+    "stocks": [],
+    "uid": "06669ff5059097964d1083c6541ab2ed",
+    "title_en": "Under Armour: 3 Key Takeaways for Long-Term Investors",
+    "summary_en": "Monthly global product launches are replacing scattered regional marketing, a shift that tests whether full-price sell-through can rebuild while direct-to-consumer sales stay under pressure.",
+    "title_zh": "Under Armour：長期投資者的 3 個要點",
+    "summary_zh": "每月的全球產品發布正在取代分散的區域行銷，這一轉變考驗著全價銷售能否在直接面向消費者的銷售仍面臨壓力的情況下重建。"
+  },
+  {
+    "title": "Warren Buffett Warned Investors About This Number 27 Years Ago. It's Never Been Higher. Should AI Investors Worry?",
+    "url": "https://www.fool.com/investing/2026/11/07/warren-buffett-warned-investors-about-this-number-27-years-ago-it-s-never-been-higher-should-ai-investors-worry/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "In 1999, Buffett said corporate profits couldn't stay much above 6% of the economy for long. They're now more than double that, and the AI spending boom is a big reason why.",
+    "published_at": "2026-11-08T02:46:06+08:00",
+    "stocks": [],
+    "uid": "dcf7310dcd53a37a44c0269cfe117a6d",
+    "title_en": "Warren Buffett Warned Investors About This Number 27 Years Ago. It's Never Been Higher. Should AI Investors Worry?",
+    "summary_en": "In 1999, Buffett said corporate profits couldn't stay much above 6% of the economy for long. They're now more than double that, and the AI spending boom is a big reason why.",
+    "title_zh": "華倫巴菲特 27 年前就這個數字向投資者發出警告。從未如此之高。人工智慧投資者該擔心嗎？",
+    "summary_zh": "1999年，巴菲特表示企業利潤不可能長期維持在經濟的6%以上。現在這個數字已經增加了一倍多，人工智慧支出的繁榮是一個重要原因。"
+  },
+  {
+    "title": "MercadoLibre's Profits Fall Again. What It Means for Investors",
+    "url": "https://www.fool.com/investing/2026/11/07/mercadolibre-s-profits-fall-again-what-it-means-for-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The Latin American e-commerce operator fell again on earnings. Is a recovery near?",
+    "published_at": "2026-11-08T02:45:02+08:00",
+    "stocks": [],
+    "uid": "42a1f93903944d271e8ead5ffe7d25f2",
+    "title_en": "MercadoLibre's Profits Fall Again. What It Means for Investors",
+    "summary_en": "The Latin American e-commerce operator fell again on earnings. Is a recovery near?",
+    "title_zh": "MercadoLibre 的利潤再次下降。這對投資者意味著什麼",
+    "summary_zh": "這家拉丁美洲電子商務營運商的獲利再次下滑。復甦臨近嗎？"
+  },
+  {
+    "title": "Tesla to expand Cybertruck production in bid to fill orders before dismantling line next year",
+    "url": "https://www.investing.com/news/stock-market-news/tesla-to-expand-cybertruck-production-in-bid-to-fill-orders-before-dismantling-line-next-year-5009996",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-08T02:42:21+08:00",
+    "stocks": [],
+    "uid": "84ef63d57aff229a5add581bb1b21599",
+    "title_en": "Tesla to expand Cybertruck production in bid to fill orders before dismantling line next year",
+    "summary_en": "",
+    "title_zh": "特斯拉將擴大 Cyber​​truck 產量，以在明年拆除生產線之前滿足訂單",
+    "summary_zh": ""
+  },
+  {
+    "title": "Where Will Rigetti Computing Stock Be in 3 Years?",
+    "url": "https://www.fool.com/investing/2026/11/07/where-will-rigetti-computing-stock-be-in-3-years/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Will Rigetti Computing hit its quantum milestones by 2029? Here is how to judge the stock's risk before it does.",
+    "published_at": "2026-11-08T02:37:00+08:00",
+    "stocks": [],
+    "uid": "26d49b793dbca065dd1e9268b11f2e6f"
+  },
+  {
+    "title": "Binance CFO Kaiser Ng steps down, Justin Yek named new finance chief",
+    "url": "https://www.investing.com/news/stock-market-news/binance-cfo-kaiser-ng-steps-down-justin-yek-named-new-finance-chief-5009978",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-08T02:30:18+08:00",
+    "stocks": [],
+    "uid": "86e9c956ded7bff399730b09979fa6b1",
+    "title_en": "Binance CFO Kaiser Ng steps down, Justin Yek named new finance chief",
+    "summary_en": "",
+    "title_zh": "幣安 CFO Kaiser 辭職，Justin Yek 被任命為新任財務總監",
+    "summary_zh": ""
+  },
+  {
+    "title": "Eli Lilly Just Raised Its 2026 Revenue Forecast by $5.5 Billion. Is the Stock Still a Buy?",
+    "url": "https://www.fool.com/investing/2026/11/07/eli-lilly-just-raised-its-2026-revenue-forecast-by/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The stock is expensive, but the potential market for GLP-1 drugs is likely much larger than forecast.",
+    "published_at": "2026-11-08T02:30:00+08:00",
+    "stocks": [],
+    "uid": "1ea327b4580f97416cf495629479964c",
+    "title_en": "Eli Lilly Just Raised Its 2026 Revenue Forecast by $5.5 Billion. Is the Stock Still a Buy?",
+    "summary_en": "The stock is expensive, but the potential market for GLP-1 drugs is likely much larger than forecast.",
+    "title_zh": "禮來公司 (Eli Lilly) 剛剛將 2026 年收入預測上調了 55 億美元。該股仍值得買入嗎？",
+    "summary_zh": "該股價格昂貴，但 GLP-1 藥物的潛在市場可能比預期大得多。"
+  },
+  {
+    "title": "Choosing a Tech ETF: Low Fees vs. Targeted Exposure",
+    "url": "https://www.fool.com/coverage/etfs/2026/11/07/choosing-a-tech-etf-low-fees-vs-targeted-exposure/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "FTEC's lower 0.08% expense ratio and broader 294-holding portfolio delivered stronger 12-month performance, while IYW offers a more concentrated bet on semiconductors, software, and hardware.",
+    "published_at": "2026-11-08T02:15:02+08:00",
+    "stocks": [],
+    "uid": "970d3c2fa3d53d30f70c47cf29dcce82",
+    "title_en": "Choosing a Tech ETF: Low Fees vs. Targeted Exposure",
+    "summary_en": "FTEC's lower 0.08% expense ratio and broader 294-holding portfolio delivered stronger 12-month performance, while IYW offers a more concentrated bet on semiconductors, software, and hardware.",
+    "title_zh": "選擇科技 ETF：低費用與目標投資",
+    "summary_zh": "FTEC 較低的 0.08% 費用率和更廣泛的 294 個控股投資組合帶來了更強勁的 12 個月業績，而 IYW 則更加集中於半導體、軟體和硬體。"
+  },
+  {
+    "title": "3 Dividend Stocks I'd Buy With $5,000 Before the End of November",
+    "url": "https://www.fool.com/investing/2026/11/07/3-dividend-stocks-buy-5000-november/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Splitting $5,000 equally across these stocks would pay a blended dividend yield of about 3.5%.",
+    "published_at": "2026-11-08T02:15:00+08:00",
+    "stocks": [],
+    "uid": "3bbef0546e0206f1c85f16f463191876"
+  },
+  {
+    "title": "SoundHound AI: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/07/soundhound-ai-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Its shift from one-time license fees to recurring hosted subscriptions makes future revenue easier to forecast, a change worth weighing before the margin story.",
+    "published_at": "2026-11-08T02:14:01+08:00",
+    "stocks": [],
+    "uid": "5cd8f9cea61a69de1f5aec5559239325",
+    "title_en": "SoundHound AI: 3 Key Takeaways for Long-Term Investors",
+    "summary_en": "Its shift from one-time license fees to recurring hosted subscriptions makes future revenue easier to forecast, a change worth weighing before the margin story.",
+    "title_zh": "SoundHound AI：長期投資者的 3 個要點",
+    "summary_zh": "從一次性許可費到定期託管訂閱的轉變使得未來收入更容易預測，這一變化值得在利潤故事之前權衡。"
+  },
+  {
+    "title": "IAMGOLD: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/07/iamgold-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Essakane's cash flow is funding buybacks while the company holds more cash than debt, a position that leaves room to pursue 2027 catalysts.",
+    "published_at": "2026-11-08T02:13:16+08:00",
+    "stocks": [],
+    "uid": "393450473adfecb10c6f5097c32097fd",
+    "title_en": "IAMGOLD: 3 Key Takeaways for Long-Term Investors",
+    "summary_en": "Essakane's cash flow is funding buybacks while the company holds more cash than debt, a position that leaves room to pursue 2027 catalysts.",
+    "title_zh": "IAMGOLD：長期投資者的 3 個要點",
+    "summary_zh": "Essakane 的現金流正在為回購提供資金，而該公司持有的現金多於債務，這一狀況為追求 2027 年的催化劑留下了空間。"
+  },
+  {
+    "title": "French presidential hopeful Melenchon pledges economic stimulus, renews NATO exit call",
+    "url": "https://www.investing.com/news/commodities-news/french-presidential-hopeful-melenchon-pledges-minimum-wage-rise-retirement-at-60-5009873",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-08T02:06:39+08:00",
+    "stocks": [],
+    "uid": "1f0abfc9446a0f7606a738ba9c7d42ea",
+    "title_en": "French presidential hopeful Melenchon pledges economic stimulus, renews NATO exit call",
+    "summary_en": "",
+    "title_zh": "法國總統候選人梅朗雄承諾經濟刺激，重申退出北約",
+    "summary_zh": ""
+  },
+  {
+    "title": "Umh director William Mitchell buys $19,578 of stock",
+    "url": "https://www.investing.com/news/insider-trading-news/umh-director-william-mitchell-buys-19578-of-stock-93CH-5009987",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-08T02:01:07+08:00",
+    "stocks": [],
+    "uid": "0ac95b60e7b42a0565b8a06810683893",
+    "title_en": "Umh director William Mitchell buys $19,578 of stock",
+    "summary_en": "",
+    "title_zh": "呃董事 William Mitchell 買了 19,578 美元的股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Kirby CEO David Grzebinski sells $2.59 million in stock",
+    "url": "https://www.investing.com/news/insider-trading-news/kirby-ceo-david-grzebinski-sells-259-million-in-stock-93CH-5009986",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-08T02:01:06+08:00",
+    "stocks": [],
+    "uid": "72fd8eff17dfed1adce14cada2c9cb63",
+    "title_en": "Kirby CEO David Grzebinski sells $2.59 million in stock",
+    "summary_en": "",
+    "title_zh": "Kirby 執行長 David Grzebinski 出售價值 259 萬美元的股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Nvidia Stock Has More Than 60% Upside According to Analysts' Average Price Target. Should You Buy While the AI Trade Wobbles?",
+    "url": "https://www.fool.com/investing/2026/11/07/nvidia-stock-has-more-than-60-upside-according-to/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Nvidia stock looks cheaper, and its growth prospects are well intact.",
+    "published_at": "2026-11-08T02:00:00+08:00",
+    "stocks": [],
+    "uid": "a18db044aa4b17a40ce2aca1d2c8c77e",
+    "title_en": "Nvidia Stock Has More Than 60% Upside According to Analysts' Average Price Target. Should You Buy While the AI Trade Wobbles?",
+    "summary_en": "Nvidia stock looks cheaper, and its growth prospects are well intact.",
+    "title_zh": "根據分析師的平均目標價，Nvidia 股價上漲超過 60%。當人工智慧交易波動時你應該買入嗎？",
+    "summary_zh": "英偉達的股票看起來更便宜，而且其成長前景完好無損。"
+  },
+  {
+    "title": "StandardAero (SARO) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/07/standardaero-saro-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Leadership changes and a major buyback accompanied a strong aftermarket quarter.",
+    "published_at": "2026-11-08T01:57:42+08:00",
+    "stocks": [
+      "SARO"
+    ],
+    "uid": "b3d95d00fec771919cc96731f5a3c883",
+    "title_en": "StandardAero (SARO) Q3 2026 Earnings Call Transcript",
+    "summary_en": "Leadership changes and a major buyback accompanied a strong aftermarket quarter.",
+    "title_zh": "StandardAero (SARO) 2026 年第三季財報電話會議紀錄",
+    "summary_zh": ""
+  },
+  {
+    "title": "Healthcare REIT (AHR) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/07/healthcare-reit-ahr-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Occupancy gains and margin expansion lifted full-year guidance this quarter.",
+    "published_at": "2026-11-08T01:57:39+08:00",
+    "stocks": [
+      "AHR"
+    ],
+    "uid": "3e91d916cfd9b2e60ef93f679bef6acc",
+    "title_en": "Healthcare REIT (AHR) Q3 2026 Earnings Call Transcript",
+    "summary_en": "Occupancy gains and margin expansion lifted full-year guidance this quarter.",
+    "title_zh": "醫療保健房地產投資信託 (AHR) 2026 年第三季收益電話會議記錄",
+    "summary_zh": "入住率成長和利潤率擴張提升了本季的全年指引。"
+  },
+  {
+    "title": "Paylocity (PCTY) Q1 2027 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/07/paylocity-pcty-q1-2027-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Raised guidance and AI adoption fueled a strong quarter for this payroll software maker.",
+    "published_at": "2026-11-08T01:57:39+08:00",
+    "stocks": [
+      "PCTY"
+    ],
+    "uid": "b23bef8a4a52b2af6f32f39d5e797f79",
+    "title_en": "Paylocity (PCTY) Q1 2027 Earnings Call Transcript",
+    "summary_en": "Raised guidance and AI adoption fueled a strong quarter for this payroll software maker.",
+    "title_zh": "Paylocity (PCTY) 2027 年第一季財報電話會議紀錄",
+    "summary_zh": "指引的提高和人工智慧的採用推動了這家薪資軟體製造商強勁的季度業績。"
+  },
+  {
+    "title": "Orion Energy (OESX) Q2 2027 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/07/orion-energy-oesx-q2-2027-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "LED lighting growth offset EV charging weakness this quarter.",
+    "published_at": "2026-11-08T01:55:25+08:00",
+    "stocks": [
+      "OESX"
+    ],
+    "uid": "be39e86df3807742ec9dc5b932988a99"
+  },
+  {
+    "title": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
+    "url": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html",
+    "source": "CNBC Top",
+    "summary": "Dave Wehner, Meta’s chief strategy officer, is leaving the company to become CFO of Fireworks, the AI infrastructure startup valued at $17.5 billion in July.",
+    "published_at": "2026-11-08T01:51:16+08:00",
+    "stocks": [],
+    "uid": "daa232a0ffbc3d40d7f002a99bdfe722"
+  },
+  {
+    "title": "Sierra Bancorp director Lynda Scearcy sells $337,604 in stock",
+    "url": "https://www.investing.com/news/insider-trading-news/sierra-bancorp-director-lynda-scearcy-sells-337604-in-stock-93CH-5009981",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-08T01:46:13+08:00",
+    "stocks": [],
+    "uid": "17644fe178f63c02f4ec930b8646c193"
+  },
+  {
+    "title": "H2O America: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/07/h2o-america-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The Quadvest deal accelerates earnings growth, but regulatory recovery timing will determine whether cash flow keeps pace with expansion.",
+    "published_at": "2026-11-08T01:45:02+08:00",
+    "stocks": [],
+    "uid": "8378bf9ad41f694ab5ab4e7400b60f38"
+  },
+  {
+    "title": "Camden National: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/07/camden-national-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Hiring experienced commercial lenders and deploying cloud analytics tools position the bank to grow lending and improve decision-making.",
+    "published_at": "2026-11-08T01:45:02+08:00",
+    "stocks": [],
+    "uid": "42549cbbc4dc4372935b739fcb922d96"
+  },
+  {
+    "title": "Here's the Maximum Social Security Benefit for 2027 and How to Get It",
+    "url": "https://www.fool.com/retirement/2026/11/07/heres-the-maximum-social-security-benefit-for-2027/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The wealthiest seniors will take home more than $64,000 from Social Security next year.",
+    "published_at": "2026-11-08T01:45:00+08:00",
+    "stocks": [],
+    "uid": "c976a8265da89546881a83f9af6e5e0a"
+  },
+  {
+    "title": "Democrats’ big election win revives a difficult Social Security question: Who pays?",
+    "url": "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "There are many ideas for saving Social Security. All of them will hurt.",
+    "published_at": "2026-11-08T01:43:00+08:00",
+    "stocks": [],
+    "uid": "184c1a9b2737d8d774453b824e93f71b"
+  },
+  {
+    "title": "Quantinuum (QNT) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/07/quantinuum-qnt-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Hardware milestones and a raised outlook headlined the quarter, with 2027 plans in focus.",
+    "published_at": "2026-11-08T01:40:38+08:00",
+    "stocks": [
+      "QNT"
+    ],
+    "uid": "e730974fd4eb131a4b884a7757a86b3d"
+  },
+  {
+    "title": "JFrog: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/07/jfrog-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Net dollar retention climbed to 124% as customers consolidated security tools into the company's platform, a sign that the moat may be widening.",
+    "published_at": "2026-11-08T01:37:01+08:00",
+    "stocks": [],
+    "uid": "1860b98e9fd181a06ab1b9e751e4dd97"
+  },
+  {
+    "title": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
+    "url": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Math may be cold and unemotional — but finances are not.",
+    "published_at": "2026-11-08T01:33:00+08:00",
+    "stocks": [],
+    "uid": "9f55269758f962e0f3ad8b007e0ee66f"
+  },
+  {
+    "title": "Bladex: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/07/bladex-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Compressed lending spreads threaten to offset the bank's portfolio expansion, testing whether deposit growth can shore up profitability.",
+    "published_at": "2026-11-08T01:30:02+08:00",
+    "stocks": [],
+    "uid": "878260ea6f19e30882a8e324d4d19497"
+  },
+  {
+    "title": "Micron and Sandisk Lead the Memory Market. 1 Stock Has Far Greater Upside.",
+    "url": "https://www.fool.com/investing/2026/11/07/micron-and-sandisk-lead-the-memory-market-1-stock/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "SK Hynix is a clear leader in the memory market, and its latest quarterly results indicate a bright future.",
+    "published_at": "2026-11-08T01:30:00+08:00",
+    "stocks": [],
+    "uid": "6e375841407b6792998290676965608f"
+  },
+  {
+    "title": "PSQ Holdings (PSQH) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/07/psq-holdings-psqh-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Payments now drive nearly half of revenue as headcount shrinks sharply.",
+    "published_at": "2026-11-08T01:23:08+08:00",
+    "stocks": [
+      "PSQH"
+    ],
+    "uid": "9f022b0a2a33795d6ae5490e9e1e799d"
+  },
+  {
+    "title": "TELUS (TU) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/07/telus-tu-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Management details a $900 million efficiency push and an AI infrastructure bet.",
+    "published_at": "2026-11-08T01:23:08+08:00",
+    "stocks": [
+      "TU"
+    ],
+    "uid": "79a2379860aebe6f84611032195f2dbe"
+  },
+  {
+    "title": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer.",
+    "url": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The wealthiest 10% have a median net worth that is $800,000 greater than it was three years ago.",
+    "published_at": "2026-11-08T01:04:00+08:00",
+    "stocks": [],
+    "uid": "d569698ecb13b7fa128d481dc24e2013"
+  },
+  {
+    "title": "Decisive election. Dramatic stock swings. How we handled the market last week",
+    "url": "https://www.cnbc.com/investingclub/2026/11/07/decisive-election-dramatic-stock-swings-how-we-handled-the-market-last-week.html",
+    "source": "CNBC Top",
+    "summary": "On Friday, Jim Cramer revealed his strategy for navigating this new era at the Investing Club's 4th Annual Meeting.",
+    "published_at": "2026-11-08T00:31:00+08:00",
+    "stocks": [],
+    "uid": "4a929fc05ff32e02fa5476614974017c"
+  },
+  {
+    "title": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.",
+    "url": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The tax brackets at the heart of Americans’ income-tax bills will be adjusting at a steeper level in 2027 compared to this year, underscoring inflation’s rekindled presence.",
+    "published_at": "2026-11-08T00:30:00+08:00",
+    "stocks": [],
+    "uid": "e64b644242549694d9c12651032be022"
+  },
+  {
+    "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
+    "url": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
+    "source": "CNBC Finance",
+    "summary": "Healthcare stocks may struggle to find momentum as the Democrats get ready to take over Congress.",
+    "published_at": "2026-11-08T00:02:33+08:00",
+    "stocks": [],
+    "uid": "39871281131b0615b054196325688fce"
+  },
+  {
     "title": "NA Construction (NOA) Q3 2026 Earnings Call Transcript",
     "url": "https://www.fool.com/earnings/call-transcripts/2026/11/07/na-construction-noa-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
     "source": "Motley Fool",
