@@ -1,5 +1,787 @@
 [
   {
+    "title": "SoftBank Group shares surge 11% as Asian tech stocks track Wall Street rebound",
+    "url": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
+    "source": "CNBC Top",
+    "summary": "A sharp decline in oil prices lifted sentiment while renewed buying in semiconductor names overnight spilled over into Asia, following last week's bruising sell-off.",
+    "published_at": "2026-11-10T09:48:40+08:00",
+    "stocks": [],
+    "uid": "3b327e0e5c3ffc95ddeeafb60a1d664d",
+    "title_en": "SoftBank Group shares surge 11% as Asian tech stocks track Wall Street rebound",
+    "summary_en": "A sharp decline in oil prices lifted sentiment while renewed buying in semiconductor names overnight spilled over into Asia, following last week's bruising sell-off.",
+    "title_zh": "亞洲科技股跟隨華爾街反彈，軟銀集團股價飆漲 11%",
+    "summary_zh": "油價大幅下跌提振了市場情緒，繼上週慘烈拋售之後，半導體品牌的新買盤隔夜蔓延至亞洲。"
+  },
+  {
+    "title": "Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy'",
+    "url": "https://www.cnbc.com/2026/11/09/trump-jensen-huang-nvidia-chinese-spy.html",
+    "source": "CNBC Top",
+    "summary": "President Donald Trump suggested he had only recently learned of allegations that Alice Huang was a Chinese spy.",
+    "published_at": "2026-11-10T09:43:47+08:00",
+    "stocks": [],
+    "uid": "af3b11f7afde533b407ef298991732ab",
+    "title_en": "Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy'",
+    "summary_en": "President Donald Trump suggested he had only recently learned of allegations that Alice Huang was a Chinese spy.",
+    "title_zh": "川普稱黃仁勳週一告訴他，他不知道情人“是間諜”",
+    "summary_zh": "唐納德·特朗普總統表示，他最近才得知有關愛麗絲·黃是中國間諜的指控。"
+  },
+  {
+    "title": "TG Therapeutics (TGTX) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/09/tg-therapeutics-tgtx-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Hospital uptake peaked as a subcutaneous version moves toward quarterly dosing.",
+    "published_at": "2026-11-10T09:43:28+08:00",
+    "stocks": [
+      "TGTX"
+    ],
+    "uid": "3c01a2220fe2ef1acf6d21f6acae97b5",
+    "title_en": "TG Therapeutics (TGTX) Q3 2026 Earnings Call Transcript",
+    "summary_en": "Hospital uptake peaked as a subcutaneous version moves toward quarterly dosing.",
+    "title_zh": "TG Therapeutics (TGTX) 2026 年第三季財報電話會議紀錄",
+    "summary_zh": "隨著皮下注射版本轉向每季給藥一次，醫院的使用量達到高峰。"
+  },
+  {
+    "title": "Immunovant (IMVT) Q2 2027 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/09/immunovant-imvt-q2-2027-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Immunovant drops Sjögren's and points to 2027 readouts.",
+    "published_at": "2026-11-10T09:43:28+08:00",
+    "stocks": [
+      "IMVT"
+    ],
+    "uid": "1758bfb2be5f3bc31c73ab1f33c13ac4",
+    "title_en": "Immunovant (IMVT) Q2 2027 Earnings Call Transcript",
+    "summary_en": "Immunovant drops Sjögren's and points to 2027 readouts.",
+    "title_zh": "Immunovant (IMVT) 2027 年第二季財報電話會議紀錄",
+    "summary_zh": "Immunovant 放棄了 Sjögren 的預測並指出 2027 年。"
+  },
+  {
+    "title": "Select Water (WTTR) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/09/select-water-wttr-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Pilot Water and Peak Rentals moves reshape Select Water's outlook.",
+    "published_at": "2026-11-10T09:43:28+08:00",
+    "stocks": [
+      "WTTR"
+    ],
+    "uid": "267f845bbc71ff6027e5bb121f872193",
+    "title_en": "Select Water (WTTR) Q3 2026 Earnings Call Transcript",
+    "summary_en": "Pilot Water and Peak Rentals moves reshape Select Water's outlook.",
+    "title_zh": "Select Water (WTTR) 2026 年第三季財報電話會議紀錄",
+    "summary_zh": "Pilot Water 和 Peak Rentals 的舉措重塑了 Select Water 的前景。"
+  },
+  {
+    "title": "Turkcell (TKC) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/09/turkcell-tkc-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Fintech and fiber growth lifted results, though data center demand slowed.",
+    "published_at": "2026-11-10T09:41:46+08:00",
+    "stocks": [
+      "TKC"
+    ],
+    "uid": "b50529f7cff90fa11bba679cd6063591",
+    "title_en": "Turkcell (TKC) Q3 2026 Earnings Call Transcript",
+    "summary_en": "Fintech and fiber growth lifted results, though data center demand slowed.",
+    "title_zh": "Turkcell (TKC) 2026 年第三季財報電話會議紀錄",
+    "summary_zh": "儘管資料中心需求放緩，但金融科技和光纖成長提振了業績。"
+  },
+  {
+    "title": "QC Inc (QUBT) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/09/qc-inc-qubt-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Management details the shift from research toward scalable, commercial manufacturing.",
+    "published_at": "2026-11-10T09:40:32+08:00",
+    "stocks": [
+      "QUBT"
+    ],
+    "uid": "0b6563cfccf654115a01839bf49b6b05",
+    "title_en": "QC Inc (QUBT) Q3 2026 Earnings Call Transcript",
+    "summary_en": "Management details the shift from research toward scalable, commercial manufacturing.",
+    "title_zh": "QC Inc (QUBT) 2026 年第三季財報電話會議紀錄",
+    "summary_zh": "管理層詳細介紹了從研究到可擴展的商業製造的轉變。"
+  },
+  {
+    "title": "Digital Turbine (APPS) Q2 2027 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/09/digital-turbine-apps-q2-2027-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Net leverage fell to 2.3x while AppGrowth revenue climbed 42% this quarter.",
+    "published_at": "2026-11-10T09:40:32+08:00",
+    "stocks": [
+      "APPS"
+    ],
+    "uid": "0907a2e47ac2acbf988a3c4a705dfb97",
+    "title_en": "Digital Turbine (APPS) Q2 2027 Earnings Call Transcript",
+    "summary_en": "Net leverage fell to 2.3x while AppGrowth revenue climbed 42% this quarter.",
+    "title_zh": "數位渦輪機 (APPS) 2027 年第 2 季收益電話會議記錄",
+    "summary_zh": "本季淨槓桿率降至 2.3 倍，而 AppGrowth 營收則攀升 42%。"
+  },
+  {
+    "title": "Definium (DFTX) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/09/definium-dftx-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Phase 3 wins set up a 2027 filing and a commercial push.",
+    "published_at": "2026-11-10T09:40:31+08:00",
+    "stocks": [
+      "DFTX"
+    ],
+    "uid": "8feef3c34766ec3900d788cbcb708834",
+    "title_en": "Definium (DFTX) Q3 2026 Earnings Call Transcript",
+    "summary_en": "Phase 3 wins set up a 2027 filing and a commercial push.",
+    "title_zh": "Definium (DFTX) 2026 年第三季財報電話會議紀錄",
+    "summary_zh": "第三階段的勝利決定了 2027 年的備案和商業推廣。"
+  },
+  {
+    "title": "Qantas to cut 850 jobs in Australia with Accenture deal",
+    "url": "https://www.investing.com/news/stock-market-news/qantas-to-cut-850-jobs-in-australia-with-accenture-deal-93CH-5013876",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-10T09:34:42+08:00",
+    "stocks": [],
+    "uid": "19e224a6524c17321e1b0c2777416777",
+    "title_en": "Qantas to cut 850 jobs in Australia with Accenture deal",
+    "summary_en": "",
+    "title_zh": "澳洲航空將與埃森哲達成協議，在澳洲裁員 850 人",
+    "summary_zh": ""
+  },
+  {
+    "title": "Is Wall Street Turning on AI?",
+    "url": "https://www.fool.com/investing/2026/11/09/is-wall-street-turning-on-ai/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Alphabet’s sharp sell-off raises a big question: Are investors more concerned about AI spending than AI growth?",
+    "published_at": "2026-11-10T09:33:01+08:00",
+    "stocks": [],
+    "uid": "d1b287fccd83f8d2c44836f7def219fe",
+    "title_en": "Is Wall Street Turning on AI?",
+    "summary_en": "Alphabet’s sharp sell-off raises a big question: Are investors more concerned about AI spending than AI growth?",
+    "title_zh": "華爾街正在轉向人工智慧嗎？",
+    "summary_zh": "Alphabet 的大幅拋售引發了一個大問題：投資者是否更關心人工智慧支出而不是人工智慧成長？"
+  },
+  {
+    "title": "IQVIA: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/09/iqvia-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Margin expansion despite cost headwinds reveals how operational discipline is fueling profitability gains.",
+    "published_at": "2026-11-10T09:32:04+08:00",
+    "stocks": [],
+    "uid": "0d1075e4f949e7bcaa012a32ed9b2787",
+    "title_en": "IQVIA: 3 Key Takeaways for Long-Term Investors",
+    "summary_en": "Margin expansion despite cost headwinds reveals how operational discipline is fueling profitability gains.",
+    "title_zh": "IQVIA：長期投資者的 3 個要點",
+    "summary_zh": "儘管成本不利，但利潤率的成長揭示了營運紀律如何推動獲利能力的成長。"
+  },
+  {
+    "title": "Wheels Up chief growth officer sells $7,513 in company stock",
+    "url": "https://www.investing.com/news/insider-trading-news/wheels-up-chief-growth-officer-sells-7513-in-company-stock-93CH-5013873",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-10T09:30:51+08:00",
+    "stocks": [],
+    "uid": "ad4560965eef6b45f32329def7dd9a87",
+    "title_en": "Wheels Up chief growth officer sells $7,513 in company stock",
+    "summary_en": "",
+    "title_zh": "Wheels Up 首席成長長出售價值 7,513 美元的公司股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Trex SVP, CHRO Jacob Rudolph sells $116,302 in company stock",
+    "url": "https://www.investing.com/news/insider-trading-news/trex-svp-chro-jacob-rudolph-sells-116302-in-company-stock-93CH-5013872",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-10T09:30:50+08:00",
+    "stocks": [],
+    "uid": "7108e64a2c0d8f6bd29ad18567a1d8d0",
+    "title_en": "Trex SVP, CHRO Jacob Rudolph sells $116,302 in company stock",
+    "summary_en": "",
+    "title_zh": "Trex 資深副總裁、首席人力資源長 Jacob Rudolph 出售價值 116,302 美元的公司股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Australia’s Qantas to axe 850 jobs in offshoring deal with Accenture",
+    "url": "https://www.investing.com/news/stock-market-news/australias-qantas-to-axe-850-jobs-in-offshoring-deal-with-accenture-5013870",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-10T09:30:26+08:00",
+    "stocks": [],
+    "uid": "f4d9e6d331544d73af6375d5890b3df6",
+    "title_en": "Australia’s Qantas to axe 850 jobs in offshoring deal with Accenture",
+    "summary_en": "",
+    "title_zh": "澳洲澳洲航空將與埃森哲達成離岸外包協議，裁減 850 個工作機會",
+    "summary_zh": ""
+  },
+  {
+    "title": "Anthropic Aims To Raise Up To $69.3 Billion In Blockbuster Ipo - Reuters",
+    "url": "https://www.investing.com/news/stock-market-news/anthropic-aims-to-raise-up-to-693-billion-in-blockbuster-ipo--reuters-432SI-5013860",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-10T09:30:02+08:00",
+    "stocks": [],
+    "uid": "d15dd4673fc362772569671b8048156d",
+    "title_en": "Anthropic Aims To Raise Up To $69.3 Billion In Blockbuster Ipo - Reuters",
+    "summary_en": "",
+    "title_zh": "Anthropic 計劃透過大規模 IPO 融資至多 693 億美元 - 路透社中文網",
+    "summary_zh": ""
+  },
+  {
+    "title": "We Are Witnessing the Stock Market Do Something for Only the 2nd Time in 136 Years, and History Is Clear What Comes Next for Stocks",
+    "url": "https://www.fool.com/investing/2026/11/09/we-are-witnessing-the-stock-market-do-something-fo/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "After over four years of strong returns, the stock market looks pricey based on some closely watched metrics.",
+    "published_at": "2026-11-10T09:30:00+08:00",
+    "stocks": [],
+    "uid": "d597c2a13a44d49b1b30cd3c335187aa",
+    "title_en": "We Are Witnessing the Stock Market Do Something for Only the 2nd Time in 136 Years, and History Is Clear What Comes Next for Stocks",
+    "summary_en": "After over four years of strong returns, the stock market looks pricey based on some closely watched metrics.",
+    "title_zh": "我們正在見證股市 136 年來第二次發生變化，歷史很清楚股市接下來會發生什麼",
+    "summary_zh": "經過四年多的強勁回報，根據一些密切關注的指標，股市看起來很昂貴。"
+  },
+  {
+    "title": "Somnigroup (SGI) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/09/somnigroup-sgi-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Dreams disruption and Mattress Firm expansion shape the quarter.",
+    "published_at": "2026-11-10T09:27:24+08:00",
+    "stocks": [
+      "SGI"
+    ],
+    "uid": "6d203f359601297162497c49e204db52",
+    "title_en": "Somnigroup (SGI) Q3 2026 Earnings Call Transcript",
+    "summary_en": "Dreams disruption and Mattress Firm expansion shape the quarter.",
+    "title_zh": "Somnigroup (SGI) 2026 年第三季財報電話會議紀錄",
+    "summary_zh": "夢想的顛覆和床墊公司的擴張塑造了本季的格局。"
+  },
+  {
+    "title": "Why is Aurizon stock climbing today?",
+    "url": "https://www.investing.com/news/stock-market-news/why-is-aurizon-stock-climbing-today-93CH-5013862",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-10T09:25:37+08:00",
+    "stocks": [],
+    "uid": "f618d6eb5366dfa134f1282df8fdc5fd",
+    "title_en": "Why is Aurizon stock climbing today?",
+    "summary_en": "",
+    "title_zh": "為什麼 Aurizon 股價今天會上漲？",
+    "summary_zh": ""
+  },
+  {
+    "title": "Exclusive-Anthropic aims to raise up to $69.3 billion in blockbuster IPO",
+    "url": "https://www.investing.com/news/stock-market-news/exclusiveanthropic-aims-to-raise-up-to-693-billion-in-blockbuster-ipo-5013861",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-10T09:24:23+08:00",
+    "stocks": [],
+    "uid": "5c62b00ac580795144e939b2fa21abf6",
+    "title_en": "Exclusive-Anthropic aims to raise up to $69.3 billion in blockbuster IPO",
+    "summary_en": "",
+    "title_zh": "Exclusive-Anthropic 計劃透過大規模 IPO 籌集最多 693 億美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Hims & Hers to offer unapproved peptides after US eases curbs",
+    "url": "https://www.investing.com/news/stock-market-news/hims--hers-narrows-2026-revenue-forecast-as-margins-contract-5013239",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-10T09:18:41+08:00",
+    "stocks": [],
+    "uid": "b24ade1f3bebe4b7859f210f4c1c773c",
+    "title_en": "Hims & Hers to offer unapproved peptides after US eases curbs",
+    "summary_en": "",
+    "title_zh": "美國放寬限制後 Hims & Hers 將提供未經批准的勝肽",
+    "summary_zh": ""
+  },
+  {
+    "title": "Peloton: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/09/peloton-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Hardware cost cuts let Peloton launch a treadmill $1,000 cheaper, while its enterprise channel continues to expand beyond the home.",
+    "published_at": "2026-11-10T09:17:48+08:00",
+    "stocks": [],
+    "uid": "eece9257e88934aec778978248da8678",
+    "title_en": "Peloton: 3 Key Takeaways for Long-Term Investors",
+    "summary_en": "Hardware cost cuts let Peloton launch a treadmill $1,000 cheaper, while its enterprise channel continues to expand beyond the home.",
+    "title_zh": "Peloton：長期投資者的 3 個要點",
+    "summary_zh": "硬體成本的削減讓 Peloton 推出了價格便宜 1,000 美元的跑步機，同時其企業管道繼續擴展到家庭以外的領域。"
+  },
+  {
+    "title": "Japan household spending drops more than expected in September",
+    "url": "https://www.investing.com/news/economic-indicators/japan-household-spending-drops-more-than-expected-in-september-5013857",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-10T09:16:45+08:00",
+    "stocks": [],
+    "uid": "68326632ce845d0916938e3160d1f916",
+    "title_en": "Japan household spending drops more than expected in September",
+    "summary_en": "",
+    "title_zh": "日本9月家庭支出降幅超預期",
+    "summary_zh": ""
+  },
+  {
+    "title": "Beta Technologies CEO Kyle Clark sells $784,202 in stock",
+    "url": "https://www.investing.com/news/insider-trading-news/beta-technologies-ceo-kyle-clark-sells-784202-in-stock-93CH-5013856",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-10T09:16:23+08:00",
+    "stocks": [],
+    "uid": "5969148270f22dc6a34c726ec55e3180",
+    "title_en": "Beta Technologies CEO Kyle Clark sells $784,202 in stock",
+    "summary_en": "",
+    "title_zh": "Beta Technologies 執行長 Kyle Clark 出售價值 784,202 美元的股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Kodiak Gas (KGS) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/09/kodiak-gas-kgs-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Data center demand and a record EBITDA quarter shaped the results.",
+    "published_at": "2026-11-10T09:13:15+08:00",
+    "stocks": [
+      "KGS"
+    ],
+    "uid": "a7b8a151fcd3b3880d36bfaa59765a07",
+    "title_en": "Kodiak Gas (KGS) Q3 2026 Earnings Call Transcript",
+    "summary_en": "Data center demand and a record EBITDA quarter shaped the results.",
+    "title_zh": "Kodiak Gas (KGS) 2026 年第三季財報電話會議紀錄",
+    "summary_zh": "資料中心需求和創紀錄的季度 EBITDA 影響了業績。"
+  },
+  {
+    "title": "Why Lincoln Educational Stock Surged Today",
+    "url": "https://www.fool.com/investing/2026/11/09/why-lincoln-educational-stock-surged-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Students are demanding a higher return on their investments.",
+    "published_at": "2026-11-10T09:00:13+08:00",
+    "stocks": [],
+    "uid": "028253515a6ecd7d5a134e35c8cd4ef7"
+  },
+  {
+    "title": "The AI Trade Looks Like It's Falling Apart. AMD's Earnings Delivered a Reality Check.",
+    "url": "https://www.fool.com/investing/2026/11/09/the-ai-trade-looks-like-its-falling-apart-amds-ear/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "AMD is still growing and is optimistic about the fourth quarter, despite recent market noise about the AI trade.",
+    "published_at": "2026-11-10T09:00:00+08:00",
+    "stocks": [],
+    "uid": "fe764537800d19bc92c20bced7250955"
+  },
+  {
+    "title": "Cognex: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/09/cognex-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Management's push, from cutting costs to squeezing more output from existing resources, could determine whether margin gains last through the cycle.",
+    "published_at": "2026-11-10T08:58:24+08:00",
+    "stocks": [],
+    "uid": "43aceda765a009d2ef0c0727d10ba95e"
+  },
+  {
+    "title": "Exxon Strikes Preliminary Deal to Return to Venezuela",
+    "url": "https://www.nytimes.com/2026/11/09/business/energy-environment/exxon-mobil-venezuela-oil-deal.html",
+    "source": "NYT Business",
+    "summary": "The agreement brings the biggest U.S. oil company a step closer to pumping oil again in Venezuela, nearly two decades after it left the country.",
+    "published_at": "2026-11-10T08:51:53+08:00",
+    "stocks": [],
+    "uid": "82fadd46f96f2fd13cfc4eb0e77d32a7"
+  },
+  {
+    "title": "Doximity: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/09/doximity-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Compute cost discipline, not just user growth, is what lets Doximity scale AI without eroding margins as usage climbs.",
+    "published_at": "2026-11-10T08:51:49+08:00",
+    "stocks": [],
+    "uid": "b67b68f7f441bd66d87b5f39a518680d"
+  },
+  {
+    "title": "The short seller who saw signs of Nvidia’s China scandal months ago claims Megaspeed isn’t the only company helping China access chips",
+    "url": "https://www.marketwatch.com/story/the-short-seller-who-saw-signs-of-nvidias-china-scandal-months-ago-claims-megaspeed-isnt-the-ony-company-helping-china-access-chips-9877f544?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "‘We were confident in the research initially, and we’re still confident in it now,’ says Christian Lamarco, founder of Culper Research",
+    "published_at": "2026-11-10T08:48:00+08:00",
+    "stocks": [],
+    "uid": "2273e5b930f2c1ec68c8173e022dfc41"
+  },
+  {
+    "title": "Trex: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/09/trex-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Trex's Little Rock plant is ramping up six months early, placing production closer to Sunbelt markets where wood still holds much of the decking opportunity.",
+    "published_at": "2026-11-10T08:44:30+08:00",
+    "stocks": [],
+    "uid": "ebaaf188889708c61ffece4c77f4410f"
+  },
+  {
+    "title": "Over 50? 3 Things You Should Be Doing to Prepare for Retirement Already",
+    "url": "https://www.fool.com/retirement/2026/11/09/over-50-3-things-you-should-be-doing-to-prepare-for-retirement-already/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "At this stage of life, careful planning is crucial.",
+    "published_at": "2026-11-10T08:43:02+08:00",
+    "stocks": [],
+    "uid": "9199516805fa94cbea0c7f975b1bef86"
+  },
+  {
+    "title": "WhiteHorse (WHF) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/09/whitehorse-whf-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Board forms committee to explore strategic alternatives, including a sale.",
+    "published_at": "2026-11-10T08:42:31+08:00",
+    "stocks": [
+      "WHF"
+    ],
+    "uid": "2bd5ddab31850898a8b65816d84d06b8"
+  },
+  {
+    "title": "Lincoln Educational (LINC) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/09/lincoln-educational-linc-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Student starts jumped as management raised its full-year revenue outlook.",
+    "published_at": "2026-11-10T08:42:31+08:00",
+    "stocks": [
+      "LINC"
+    ],
+    "uid": "e42f3f42aae1192ab78914008af4007b"
+  },
+  {
+    "title": "SIGA (SIGA) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/09/siga-siga-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Zero debt and a new Canadian deal stand out, but U.S. contract timing remains unclear.",
+    "published_at": "2026-11-10T08:41:04+08:00",
+    "stocks": [
+      "SIGA"
+    ],
+    "uid": "19663bbdac771660c07da811e4b186ab"
+  },
+  {
+    "title": "Paradium AI (PAAI) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/09/paradium-ai-paai-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Referral losses drove the revenue drop as the company pivots toward AI tools.",
+    "published_at": "2026-11-10T08:40:57+08:00",
+    "stocks": [
+      "PAAI"
+    ],
+    "uid": "6e44f77fd5b66ca50f9b9492e722999a"
+  },
+  {
+    "title": "LifeVantage (LFVN) Q1 2027 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/09/lifevantage-lfvn-q1-2027-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Sales slid 22% as management overhauls strategy and shifts its fiscal calendar.",
+    "published_at": "2026-11-10T08:40:57+08:00",
+    "stocks": [
+      "LFVN"
+    ],
+    "uid": "2c5908cffa2d807cfc6cadb251fd4e3f"
+  },
+  {
+    "title": "HF Foods (HFFG) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/09/hf-foods-hffg-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Fuel squeezed profits even as seafood growth and the Searay deal lifted sales.",
+    "published_at": "2026-11-10T08:40:57+08:00",
+    "stocks": [
+      "HFFG"
+    ],
+    "uid": "396923d1f10bb17eab732939db78aa4b"
+  },
+  {
+    "title": "Atea Pharma (AVIR) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/09/atea-pharma-avir-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Phase 3 hepatitis C data met its endpoints and funding now extends into mid-2028.",
+    "published_at": "2026-11-10T08:40:57+08:00",
+    "stocks": [
+      "AVIR"
+    ],
+    "uid": "98d53583c4d7a1acb0d5c1b788864d27"
+  },
+  {
+    "title": "TransMedics: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/09/transmedics-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Its ENHANCE heart and DENOVO lung programs target thousands of procedures that currently use no machine preservation at all.",
+    "published_at": "2026-11-10T08:36:59+08:00",
+    "stocks": [],
+    "uid": "69390e16200de2590a565f36feaf23dc"
+  },
+  {
+    "title": "Axon Enterprise: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/09/axon-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Axon's $15.8 billion in future contracted bookings gives the company a multi-year runway, but its inventory buildup is already weighing on free cash flow.",
+    "published_at": "2026-11-10T08:30:35+08:00",
+    "stocks": [],
+    "uid": "b62d27f0485a76e06935e1646870858a"
+  },
+  {
+    "title": "Forget Palantir? This IPO Candidate May Be the New \"Autonomy Giant\" in Defense.",
+    "url": "https://www.fool.com/investing/2026/11/09/forget-palantir-ipo-candidate-new-autonomy-giant/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Shield AI nearly quadrupled in value over the past year -- and it hasn't even IPO'd yet.",
+    "published_at": "2026-11-10T08:30:00+08:00",
+    "stocks": [],
+    "uid": "f7ac4fcec7351c8a4996bd0a5019d367"
+  },
+  {
+    "title": "Hain Celestial (HAIN) Q1 2027 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/09/hain-celestial-hain-q1-2027-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "A missed lender deadline clouds Hain Celestial's pending $323 million international sale.",
+    "published_at": "2026-11-10T08:26:54+08:00",
+    "stocks": [
+      "HAIN"
+    ],
+    "uid": "0de96a42ba118bf9f7c5ced10dd42895"
+  },
+  {
+    "title": "Lawsuit Says Republican Strategist Alex Bruesewitz Took Money From Qatari Interests",
+    "url": "https://www.nytimes.com/2026/11/09/business/media/lawsuit-x-strategies.html",
+    "source": "NYT Business",
+    "summary": "The suit claims that any payments to Alex Bruesewitz, a Republican strategist, could have violated federal law. He has denied ever taking such funds.",
+    "published_at": "2026-11-10T08:23:36+08:00",
+    "stocks": [],
+    "uid": "3770260dd4d49ff87c8a3231a3515bd7"
+  },
+  {
+    "title": "Nvidia’s Trump ties draw scrutiny after reports Huang was targeted by Chinese intelligence",
+    "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-china-spy-trump-lobbying.html",
+    "source": "CNBC Top",
+    "summary": "Nvidia CEO Jensen Huang's extramarital affair with an alleged Chinese spy comes as the company is already about to face heightened scrutiny.",
+    "published_at": "2026-11-10T07:54:21+08:00",
+    "stocks": [],
+    "uid": "128f481e7a88e99bd6816cf7643f61d5"
+  },
+  {
+    "title": "PepsiCo to cut about 1,000 jobs as North American business struggles",
+    "url": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
+    "source": "CNBC Top",
+    "summary": "PepsiCo plans to cut about 1,000 jobs across North America as it streamlines operations and works to revive sales in its home market.",
+    "published_at": "2026-11-10T07:31:17+08:00",
+    "stocks": [],
+    "uid": "2b13ca336b2eb48ce69a070d09f53c6e"
+  },
+  {
+    "title": "Jim Cramer says Anthropic's IPO could make or break the AI trade. Here's why",
+    "url": "https://www.cnbc.com/2026/11/09/anthropic-ipo-ai-trade-jim-cramer.html",
+    "source": "CNBC Tech",
+    "summary": "Anthropic's initial public offering could be a crucial test of investor confidence in the AI trade, CNBC's Jim Cramer said.",
+    "published_at": "2026-11-10T07:30:15+08:00",
+    "stocks": [],
+    "uid": "9a55424638de1e5c0415990b72884391"
+  },
+  {
+    "title": "Skydance outlines its $6 billion in planned cost savings. Here's the breakdown",
+    "url": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html",
+    "source": "CNBC Markets",
+    "summary": "The updates came alongside a third-quarter earnings report for the legacy Paramount Skydance.",
+    "published_at": "2026-11-10T07:14:38+08:00",
+    "stocks": [],
+    "uid": "23f565bc7f4fab59c5ea4d1d7d6e3cf4"
+  },
+  {
+    "title": "Lucid misses Wall Street’s earnings expectations, expands loan from Saudi Arabia fund",
+    "url": "https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html",
+    "source": "CNBC Markets",
+    "summary": "The quarterly results are the first since Lucid CEO Silvio Napoli, who started leading the company in June, announced a restructuring plan.",
+    "published_at": "2026-11-10T07:05:53+08:00",
+    "stocks": [],
+    "uid": "97013fa07db7b0707bb80ebacdb18f72"
+  },
+  {
+    "title": "CNBC's The China Connection newsletter: Wall Street dips in again. What needs to go right",
+    "url": "https://www.cnbc.com/2026/11/09/cnbcs-the-china-connection-newsletter-wall-street-dips-in-again.html",
+    "source": "CNBC Top",
+    "summary": "Following the latest Trump-Xi summit, China pledged further opening of its financial market to companies from all countries, including the U.S.",
+    "published_at": "2026-11-10T07:00:02+08:00",
+    "stocks": [],
+    "uid": "88f5658ab9549122ea5ee0dc8f3b849b"
+  },
+  {
+    "title": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
+    "url": "https://www.cnbc.com/2026/11/09/jensen-huang-affair-nvidia-succession.html",
+    "source": "CNBC Top",
+    "summary": "Jensen Huang is practically synonymous with Nvidia, the chipmaker he co-founded in 1993 and turned into one of the most valuable companies on the planet.",
+    "published_at": "2026-11-10T06:56:39+08:00",
+    "stocks": [],
+    "uid": "8141dcd6ea3d2daf88519244deb63d88"
+  },
+  {
+    "title": "Rocket Lab shares dip after the company’s ‘defining’ quarter misses the mark",
+    "url": "https://www.marketwatch.com/story/rocket-lab-shares-dip-after-the-companys-defining-quarter-misses-the-mark-9f74c3b5?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The rocket-launch company just posted a steeper loss than analysts were expecting.",
+    "published_at": "2026-11-10T06:49:00+08:00",
+    "stocks": [],
+    "uid": "78fe9bf7612cafe827cd875adecadf23"
+  },
+  {
+    "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
+    "url": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
+    "published_at": "2026-11-10T06:49:00+08:00",
+    "stocks": [],
+    "uid": "6e39487454770b7cb74e28ad7aadc006"
+  },
+  {
+    "title": "Hegseth impeachment articles introduced by Rep. Massie",
+    "url": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
+    "source": "CNBC Top",
+    "summary": "The House is likely to vote this week on articles of impeachment against Defense Secretary Pete Hegseth filed by Republican Rep. Thomas Masie.",
+    "published_at": "2026-11-10T06:41:12+08:00",
+    "stocks": [],
+    "uid": "764a0d0665f0058240d4c8bbf121881e"
+  },
+  {
+    "title": "3 unexpected reasons the October jobs report was so strong",
+    "url": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html",
+    "source": "CNBC Top",
+    "summary": "October's jobs report blew past economist forecasts. Here are three reasons.",
+    "published_at": "2026-11-10T06:23:56+08:00",
+    "stocks": [],
+    "uid": "06758f1ab9ec37b996edfaafe2cc3150"
+  },
+  {
+    "title": "As Nvidia probes Jensen Huang affair, here's the board member likely to play a big role",
+    "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-investigation.html",
+    "source": "CNBC Tech",
+    "summary": "Stephen Neal is the board's lead independent director and head of corporate governance. Experts say how Nvidia handles the probe is crucial to retaining its reputation.",
+    "published_at": "2026-11-10T05:54:40+08:00",
+    "stocks": [],
+    "uid": "dd095655cb377d883e1a732815194060"
+  },
+  {
+    "title": "Dow sees its third 1,000-point swing in four days. Why the volatility isn’t over yet.",
+    "url": "https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "“It took one election and a poor Nvidia headline to go from D.C. being a tailwind to D.C. as a potential headwind,” says strategist.",
+    "published_at": "2026-11-10T05:52:00+08:00",
+    "stocks": [],
+    "uid": "594461114c7d157148353446fa4c80f6"
+  },
+  {
+    "title": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
+    "url": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The chip makers’ shares were posting big gains Monday — but those companies could also be subject to greater scrutiny over their sales practices, analysts say.",
+    "published_at": "2026-11-10T05:43:00+08:00",
+    "stocks": [],
+    "uid": "2c483f7e1e524795295bb46b232366e5"
+  },
+  {
+    "title": "Tokenization platform Securitize gains 10% postmarket on Q3 results, move into asset-backed finance",
+    "url": "https://www.cnbc.com/2026/11/09/tokenization-platform-securitize-reports-gains-expands-into-asset-backed-finance.html",
+    "source": "CNBC Top",
+    "summary": "Securitize saw growth in tokenization last quarter and announced its expansion into asset-backed finance through the acquisition of River One.",
+    "published_at": "2026-11-10T05:24:13+08:00",
+    "stocks": [],
+    "uid": "f18bba83583576f77d01ed5f1ff8512b"
+  },
+  {
+    "title": "The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test.",
+    "url": "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Tuesday’s CPI inflation report and a heavy lineup of Federal Reserve speakers could test the rotation trade’s resilience",
+    "published_at": "2026-11-10T05:24:00+08:00",
+    "stocks": [],
+    "uid": "d1d2c4fbf60753f7e3c0e466d166e73d"
+  },
+  {
+    "title": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
+    "url": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
+    "source": "CNBC Top",
+    "summary": "The CPI headline reading is expected to show an increase of 0.3% while the core is forecast to increase 0.2%.",
+    "published_at": "2026-11-10T05:03:55+08:00",
+    "stocks": [],
+    "uid": "743e989e9ba21375b8d4b091933b04fb"
+  },
+  {
+    "title": "Children’s Place files for bankruptcy protection, seeks buyer",
+    "url": "https://www.cnbc.com/2026/11/09/childrens-place-chapter-11-sale.html",
+    "source": "CNBC Top",
+    "summary": "The Children's Place has filed for chapter 11 bankruptcy protection and is seeking bids from potential new owners by Dec. 9.",
+    "published_at": "2026-11-10T04:57:46+08:00",
+    "stocks": [],
+    "uid": "4e3f8dd10c868ef2298e68df14996a4d"
+  },
+  {
+    "title": "Boeing Will Cut 5% of Commercial Plane Employees",
+    "url": "https://www.nytimes.com/2026/11/09/business/boeing-layoff-737-max.html",
+    "source": "NYT Business",
+    "summary": "The company said it needed fewer workers because production was increasing more slowly than previously expected.",
+    "published_at": "2026-11-10T04:00:31+08:00",
+    "stocks": [],
+    "uid": "d7b10d0fd419f46ed836f5175695f4fc"
+  },
+  {
+    "title": "Trump administration proposes stricter work-search rules for unemployment benefits",
+    "url": "https://www.cnbc.com/2026/11/09/trump-unemployment-work-search-rule.html",
+    "source": "CNBC Top",
+    "summary": "A Labor Department proposal would require unemployment claimants to report at least five qualifying work-search activities each week.",
+    "published_at": "2026-11-10T03:59:55+08:00",
+    "stocks": [],
+    "uid": "4e87eba7b45691157f7fa7c09a880710"
+  },
+  {
+    "title": "Millions of dollars poured into prediction markets on election night, trading on Democratic control of Congress and Texas governor's race",
+    "url": "https://www.cnbc.com/2026/11/09/millions-of-dollars-poured-into-prediction-markets-on-election-night.html",
+    "source": "CNBC Top",
+    "summary": "Election night showed how traders reacted in real time to midterm results, as trading activity surged and market prices shifted to Democrats on Nov. 3.",
+    "published_at": "2026-11-10T03:41:13+08:00",
+    "stocks": [],
+    "uid": "abe35af2031107c51f3b1ae92442e58f"
+  },
+  {
+    "title": "Elizabeth Warren set to take over the Senate banking committee. Here's what she plans to do",
+    "url": "https://www.cnbc.com/2026/11/09/elizabeth-warren-senate-banking-agenda.html",
+    "source": "CNBC Top",
+    "summary": "Sen. Elizabeth Warren telegraphed her agenda for the Senate banking committee as Congress transfers to Democratic control",
+    "published_at": "2026-11-10T03:34:43+08:00",
+    "stocks": [],
+    "uid": "5cd12aaa3b54b6dd12f291962a84f02f"
+  },
+  {
+    "title": "This beaten-down data center stock could be worth a look, says Mike Khouw",
+    "url": "https://www.cnbc.com/2026/11/09/this-beaten-down-data-center-stock-could-be-worth-a-look-says-mike-khouw.html",
+    "source": "CNBC Top",
+    "summary": "United Rentals is trading at a below-market forward multiple. Effectively, one can buy superior, market-beating growth at a discounted market multiple.",
+    "published_at": "2026-11-10T03:23:57+08:00",
+    "stocks": [],
+    "uid": "418d9757325b7911eea60249bacced01"
+  },
+  {
+    "title": "Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds",
+    "url": "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html",
+    "source": "CNBC Top",
+    "summary": "The launch comes as Anthropic is gearing up for what is widely expected to be a blockbuster IPO",
+    "published_at": "2026-11-10T03:00:01+08:00",
+    "stocks": [],
+    "uid": "3805091a6e80c18496a0b8ebf7208c6d"
+  },
+  {
+    "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
+    "url": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
+    "source": "CNBC Finance",
+    "summary": "Prediction markets traders price relatively low odds that the Nvidia CEO will depart in the near term.",
+    "published_at": "2026-11-10T02:46:01+08:00",
+    "stocks": [],
+    "uid": "72871fe37dfc7178c68927049a555501"
+  },
+  {
+    "title": "A massive trade in Nvidia just went off – here are the details",
+    "url": "https://www.cnbc.com/2026/11/09/a-massive-trade-in-nvidia-just-went-off-here-are-the-details.html",
+    "source": "CNBC Top",
+    "summary": "Despite Monday's sell-off, options traders are targeting new highs on Nvidia",
+    "published_at": "2026-11-10T02:37:59+08:00",
+    "stocks": [],
+    "uid": "45380cd888754681ddf6daaa4ee9c1ec"
+  },
+  {
+    "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
+    "url": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
+    "source": "CNBC Finance",
+    "summary": "Goldman CEO David Solomon says investor appetite for AI infrastructure remains strong despite a reset in AI stocks and political uncertainty around data centers.",
+    "published_at": "2026-11-10T02:14:47+08:00",
+    "stocks": [],
+    "uid": "780fd7287cbace029ac5cfe44c2fe4e5"
+  },
+  {
     "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
     "url": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
     "source": "MarketWatch",
@@ -401,6 +1183,15 @@
     "published_at": "2026-11-10T01:15:02+08:00",
     "stocks": [],
     "uid": "1fa02823973e3eab889e0ba195aeed1a"
+  },
+  {
+    "title": "Why Jim Cramer believes Nvidia is still valuable despite the CEO affair controversy",
+    "url": "https://www.cnbc.com/investingclub/2026/11/09/why-jim-cramer-believes-nvidia-is-still-valuable-despite-the-ceo-affair-controversy.html",
+    "source": "CNBC Top",
+    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+    "published_at": "2026-11-10T01:09:44+08:00",
+    "stocks": [],
+    "uid": "946c52ea635bdeba2da196b0ec60d1d1"
   },
   {
     "title": "Ispire (ISPR) Q1 2027 Earnings Call Transcript",
