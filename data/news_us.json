@@ -1,5 +1,968 @@
 [
   {
+    "title": "Nebius falls 16% as company expects increased 2026 capex spend, issues weak outlook",
+    "url": "https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html",
+    "source": "CNBC Markets",
+    "summary": "Nebius' earnings report comes after fellow neoclouds IREN and CoreWeave showed better-than-expected results in the past week.",
+    "published_at": "2026-11-13T01:48:00+08:00",
+    "stocks": [],
+    "uid": "bedfacd49e27bf108af5a3eb43644b1c",
+    "title_en": "Nebius falls 16% as company expects increased 2026 capex spend, issues weak outlook",
+    "summary_en": "Nebius' earnings report comes after fellow neoclouds IREN and CoreWeave showed better-than-expected results in the past week.",
+    "title_zh": "Nebius 下跌 16%，因公司預期 2026 年資本支出增加，前景疲軟",
+    "summary_zh": "Nebius 在發布收益報告之前，nebius 的同業 IREN 和 CoreWeave 在過去一周的表現優於預期。"
+  },
+  {
+    "title": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
+    "url": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
+    "source": "CNBC Top",
+    "summary": "Scout Motors has roughly 212,000 reservations for its Terra pickup and Traveler SUV, CEO Scott Keogh told CNBC.",
+    "published_at": "2026-11-13T01:46:11+08:00",
+    "stocks": [],
+    "uid": "f7df73eda0e0fa1c3e5c278f4f3c3894",
+    "title_en": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
+    "summary_en": "Scout Motors has roughly 212,000 reservations for its Terra pickup and Traveler SUV, CEO Scott Keogh told CNBC.",
+    "title_zh": "Scout Motors 已有 212,000 輛汽車預訂，耗資 20 億美元的南卡羅來納州工廠即將竣工",
+    "summary_zh": "Scout Motors 執行長 Scott Keogh 告訴 CNBC，其 Terra 皮卡和 Traveller SUV 的預訂量約為 212,000 份。"
+  },
+  {
+    "title": "Stock Market Midday, Nov. 12: Nvidia CEO Resigns, AMD Surges as Wall Street Edges Higher",
+    "url": "https://www.fool.com/coverage/stock-market-today/2026/11/12/stock-market-midday-nov-12-nvidia-ceo-resigns-amd-surges-as-wall-street-edges-higher/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Stocks edged higher Thursday as strength in semiconductor shares helped support Wall Street, while gold prices tumbled.",
+    "published_at": "2026-11-13T01:45:02+08:00",
+    "stocks": [],
+    "uid": "7d19400bf82d5580efdd7ccc96f28c61",
+    "title_en": "Stock Market Midday, Nov. 12: Nvidia CEO Resigns, AMD Surges as Wall Street Edges Higher",
+    "summary_en": "Stocks edged higher Thursday as strength in semiconductor shares helped support Wall Street, while gold prices tumbled.",
+    "title_zh": "11 月 12 日午盤：Nvidia 執行長辭職，AMD 股價隨華爾街走高而飆升",
+    "summary_zh": "由於半導體股的走強支撐了華爾街，週四股市小幅走高，而金價則暴跌。"
+  },
+  {
+    "title": "Where Will SCHD Be in 20 Years? History Has Good News and Bad News for Investors",
+    "url": "https://www.fool.com/investing/2026/11/12/where-will-schd-be-20-years-history-good-bad-news/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The Schwab U.S. Dividend Equity ETF (SCHD) has built a strong track record. But can it continue?",
+    "published_at": "2026-11-13T01:45:00+08:00",
+    "stocks": [
+      "SCHD"
+    ],
+    "uid": "400aec7cf421e31c5cf5ca8e29044a8a",
+    "title_en": "Where Will SCHD Be in 20 Years? History Has Good News and Bad News for Investors",
+    "summary_en": "The Schwab U.S. Dividend Equity ETF (SCHD) has built a strong track record. But can it continue?",
+    "title_zh": "20年後SCHD會在哪裡？歷史對投資人來說有好消息也有壞消息",
+    "summary_zh": "嘉信美國股息股票 ETF (SCHD) 已建立了良好的業績記錄。但還能繼續嗎？"
+  },
+  {
+    "title": "Property Play: Bain Capital’s head of real estate uses this strategy to counter the economy’s ‘cocktail of disruption'",
+    "url": "https://www.cnbc.com/2026/11/12/bain-capitals-head-of-real-estate-on-the-cocktail-of-disruption.html",
+    "source": "CNBC Top",
+    "summary": "Ryan Cotton, Bain Capital's head of real estate, sits for an interview with the Property Play video podcast.",
+    "published_at": "2026-11-13T01:44:50+08:00",
+    "stocks": [],
+    "uid": "c951ccc676fecc2198473e831768bb4d",
+    "title_en": "Property Play: Bain Capital’s head of real estate uses this strategy to counter the economy’s ‘cocktail of disruption'",
+    "summary_en": "Ryan Cotton, Bain Capital's head of real estate, sits for an interview with the Property Play video podcast.",
+    "title_zh": "房地產遊戲：貝恩資本房地產主管利用這一策略來應對經濟的“混亂雞尾酒”",
+    "summary_zh": "貝恩資本 (Bain Capital) 房地產主管瑞安·科頓 (Ryan Cotton) 接受 Property Play 視訊播客採訪。"
+  },
+  {
+    "title": "The scandal at Nvidia is exactly what’s wrong with the S&P 500",
+    "url": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "A big chunk of your retirement is likely invested in the computer-chip giant.",
+    "published_at": "2026-11-13T01:42:00+08:00",
+    "stocks": [],
+    "uid": "c100ccfb39c65a83693b343029a824b6",
+    "title_en": "The scandal at Nvidia is exactly what’s wrong with the S&P 500",
+    "summary_en": "A big chunk of your retirement is likely invested in the computer-chip giant.",
+    "title_zh": "英偉達的醜聞正是標準普爾 500 指數的問題所在",
+    "summary_zh": "你退休後的很大一部分可能投資於這家電腦晶片巨頭。"
+  },
+  {
+    "title": "Jensen Huang's Nvidia exit casts shadow over Wall Street’s $500 billion AI financing bet",
+    "url": "https://www.cnbc.com/2026/11/12/nvidia-ceo-exit-ai-financing.html",
+    "source": "CNBC Top",
+    "summary": "Nvidia's leadership crisis threatens to spill over into the AI financing boom.",
+    "published_at": "2026-11-13T01:41:46+08:00",
+    "stocks": [],
+    "uid": "d00950927ca0df90c0eb25973a74f449",
+    "title_en": "Jensen Huang's Nvidia exit casts shadow over Wall Street’s $500 billion AI financing bet",
+    "summary_en": "Nvidia's leadership crisis threatens to spill over into the AI financing boom.",
+    "title_zh": "黃仁勳退出英偉達給華爾街 5,000 億美元人工智慧融資押注蒙上陰影",
+    "summary_zh": "英偉達的領導危機有可能蔓延到人工智慧融資熱潮中。"
+  },
+  {
+    "title": "CorMedix (CRMD) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/12/cormedix-crmd-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Heron deal and DefenCath reimbursement shifts drive the quarter.",
+    "published_at": "2026-11-13T01:40:53+08:00",
+    "stocks": [
+      "CRMD"
+    ],
+    "uid": "6ab6dc425cd4bb9dfa18437a11816d4d",
+    "title_en": "CorMedix (CRMD) Q3 2026 Earnings Call Transcript",
+    "summary_en": "Heron deal and DefenCath reimbursement shifts drive the quarter.",
+    "title_zh": "CorMedix (CRMD) 2026 年第三季財報電話會議紀錄",
+    "summary_zh": "Heron 交易和 DefenCath 報銷變化推動了本季的發展。"
+  },
+  {
+    "title": "Altimmune (ALT) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/12/altimmune-alt-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Spending is rising fast as the pemvidutide Phase 3 programs move forward.",
+    "published_at": "2026-11-13T01:40:53+08:00",
+    "stocks": [
+      "ALT"
+    ],
+    "uid": "2202e5a19f5be533b3c79ef017a696b8",
+    "title_en": "Altimmune (ALT) Q3 2026 Earnings Call Transcript",
+    "summary_en": "Spending is rising fast as the pemvidutide Phase 3 programs move forward.",
+    "title_zh": "Altimmune (ALT) 2026 年第三季財報電話會議紀錄",
+    "summary_zh": "隨著pemvidutide 第三階段專案的推進，支出正在快速成長。"
+  },
+  {
+    "title": "Suburban Propane (SPH) Q4 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/12/suburban-propane-sph-q4-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Debt cuts and a refinancing marked the year, but New York rules hit one segment.",
+    "published_at": "2026-11-13T01:40:53+08:00",
+    "stocks": [
+      "SPH"
+    ],
+    "uid": "3f441dc181205b1282dfef0f2f2c69df",
+    "title_en": "Suburban Propane (SPH) Q4 2026 Earnings Call Transcript",
+    "summary_en": "Debt cuts and a refinancing marked the year, but New York rules hit one segment.",
+    "title_zh": "郊區丙烷 (SPH) 2026 年第 4 季收益電話會議記錄",
+    "summary_zh": "債務削減和再融資標誌著這一年的到來，但紐約的規定卻觸及了一個領域。"
+  },
+  {
+    "title": "Hyperion DeFi (HYPD) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/12/hyperion-defi-hypd-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Management says the biotech exit is complete and the DeFi model is now self-funding.",
+    "published_at": "2026-11-13T01:40:53+08:00",
+    "stocks": [
+      "HYPD"
+    ],
+    "uid": "5f086a95f7ff718770eb9a4a5dfb2456",
+    "title_en": "Hyperion DeFi (HYPD) Q3 2026 Earnings Call Transcript",
+    "summary_en": "Management says the biotech exit is complete and the DeFi model is now self-funding.",
+    "title_zh": "Hyperion DeFi (HYPD) 2026 年第三季財報電話會議紀錄",
+    "summary_zh": "管理層表示，生物技術退出已完成，DeFi 模式現已實現自籌資金。"
+  },
+  {
+    "title": "Nvidia stock pares morning losses after CEO Jensen Huang announces resignation",
+    "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
+    "source": "CNBC Top",
+    "summary": "Chief Financial Officer Colette Kress will serve as interim CEO until a new leader is appointed.",
+    "published_at": "2026-11-13T01:40:40+08:00",
+    "stocks": [],
+    "uid": "d93a2b1c574e7b42b679441c4588bf59",
+    "title_en": "Nvidia stock pares morning losses after CEO Jensen Huang announces resignation",
+    "summary_en": "Chief Financial Officer Colette Kress will serve as interim CEO until a new leader is appointed.",
+    "title_zh": "執行長黃仁勳宣布辭職後，英偉達股價收窄早盤跌幅",
+    "summary_zh": "財務長 Colette Kress 將擔任臨時首席執行官，直至任命新的領導者。"
+  },
+  {
+    "title": "Jensen and Lori Huang's Nvidia fortune is jointly controlled. How that makes things complicated now that he's resigned",
+    "url": "https://www.cnbc.com/2026/11/12/inside-jensen-and-lori-huangs-jointly-controlled-nvidia-fortune.html",
+    "source": "CNBC Top",
+    "summary": "Jensen Huang’s $140 billion stake in Nvidia is largely held by trusts co-owned with his wife, Lori, creating added uncertainty for his financial future.",
+    "published_at": "2026-11-13T01:39:28+08:00",
+    "stocks": [],
+    "uid": "aeda1bc8c925d9ee5a19b9b65d4936cb",
+    "title_en": "Jensen and Lori Huang's Nvidia fortune is jointly controlled. How that makes things complicated now that he's resigned",
+    "summary_en": "Jensen Huang’s $140 billion stake in Nvidia is largely held by trusts co-owned with his wife, Lori, creating added uncertainty for his financial future.",
+    "title_zh": "Jensen 和 Lori Huang 共同控制著 Nvidia 的財富。既然他辭職了，事情就變得複雜了",
+    "summary_zh": "黃仁勳在 Nvidia 價值 1400 億美元的股份主要由他與妻子洛麗 (Lori) 共同擁有的信託基金持有，這給他的財務未來帶來了更多的不確定性。"
+  },
+  {
+    "title": "Who is Colette Kress? Nvidia's finance chief steps in as interim CEO after Huang exit",
+    "url": "https://www.cnbc.com/2026/11/12/colette-kress-nvidia-cfo-interim-ceo-candidate.html",
+    "source": "CNBC Tech",
+    "summary": "Colette Kress joined Nvidia in 2013 after nearly 25 years in finance roles at Cisco, Microsoft and other tech companies.",
+    "published_at": "2026-11-13T01:38:54+08:00",
+    "stocks": [],
+    "uid": "1e8bfa51f1eb01b0ca059b3e70c7ff94",
+    "title_en": "Who is Colette Kress? Nvidia's finance chief steps in as interim CEO after Huang exit",
+    "summary_en": "Colette Kress joined Nvidia in 2013 after nearly 25 years in finance roles at Cisco, Microsoft and other tech companies.",
+    "title_zh": "科萊特·克雷斯是誰？黃仁勳離職後，英偉達財務主管出任臨時執行長",
+    "summary_zh": "Colette Kress 於 2013 年加入 Nvidia，此前她在思科、微軟和其他科技公司擔任了近 25 年的財務職位。"
+  },
+  {
+    "title": "The S&P 500 is shrugging off Nvidia’s selloff. Here’s what’s keeping the rest of the market afloat.",
+    "url": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Investors have been forced to look up from the poster child of the artificial-intelligence trade and remember the other stocks on the board.",
+    "published_at": "2026-11-13T01:38:00+08:00",
+    "stocks": [],
+    "uid": "6935256ad1849a7998a90de32494fd24",
+    "title_en": "The S&P 500 is shrugging off Nvidia’s selloff. Here’s what’s keeping the rest of the market afloat.",
+    "summary_en": "Investors have been forced to look up from the poster child of the artificial-intelligence trade and remember the other stocks on the board.",
+    "title_zh": "標準普爾 500 指數正在擺脫英偉達拋售的影響。這就是讓市場其他部分保持運轉的原因。",
+    "summary_zh": "投資人被迫從人工智慧交易的典範中抬起頭來，記住董事會上的其他股票。"
+  },
+  {
+    "title": "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
+    "url": "https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html",
+    "source": "CNBC Top",
+    "summary": "Nvidia CEO Jensen Huang has been a singular figure in the development of the AI industry, which suddenly has to survive without him.",
+    "published_at": "2026-11-13T01:37:36+08:00",
+    "stocks": [],
+    "uid": "77aaf9613703fffc1009c7642947e36e",
+    "title_en": "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
+    "summary_en": "Nvidia CEO Jensen Huang has been a singular figure in the development of the AI industry, which suddenly has to survive without him.",
+    "title_zh": "黃仁勳退出 Nvidia 引發了人工智慧未來的關鍵問題",
+    "summary_zh": "英偉達執行長黃仁勳（Jensen Huang）一直是人工智慧產業發展中的獨特人物，但突然間，人工智慧產業必須在沒有他的情況下生存。"
+  },
+  {
+    "title": "Here's what Nvidia interim CEO Colette Kress and board chair Harvey Jones wrote to Nvidia employees",
+    "url": "https://www.cnbc.com/2026/11/12/nvidia-kress-jones-employee-emails.html",
+    "source": "CNBC Top",
+    "summary": "Interim CEO Colette Kress and board chair Harvey Jones emailed Nvidia employees, expressing gratitude for \"resilience, professionalism and continued dedication",
+    "published_at": "2026-11-13T01:34:59+08:00",
+    "stocks": [],
+    "uid": "9e4879b83e7abe7fc405a79b08698adf",
+    "title_en": "Here's what Nvidia interim CEO Colette Kress and board chair Harvey Jones wrote to Nvidia employees",
+    "summary_en": "Interim CEO Colette Kress and board chair Harvey Jones emailed Nvidia employees, expressing gratitude for \"resilience, professionalism and continued dedication",
+    "title_zh": "以下是 Nvidia 臨時執行長 Colette Kress 和董事會主席 Harvey Jones 寫給 Nvidia 員工的信",
+    "summary_zh": "臨時執行長 Colette Kress 和董事會主席哈維瓊斯 (Harvey Jones) 向 Nvidia 員工發送了電子郵件，對「韌性、專業和持續奉獻精神」表示感謝"
+  },
+  {
+    "title": "Boyd Group: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/12/boyd-group-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Boyd's next margin gains hinge on AI-driven shop productivity, a lever management expects to carry the remaining $35 million of savings through 2029.",
+    "published_at": "2026-11-13T01:33:41+08:00",
+    "stocks": [],
+    "uid": "69048aa7be9f9c481918ee0497a838a6"
+  },
+  {
+    "title": "Jensen Huang Joins a Growing Club: C.E.O.s Brought Down by Affairs",
+    "url": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-ceo-affairs.html",
+    "source": "NYT Business",
+    "summary": "The Nvidia founder and chief executive, who resigned on Thursday, is among a group of top bosses whose personal relationships and sexual encounters got them in trouble.",
+    "published_at": "2026-11-13T01:33:35+08:00",
+    "stocks": [],
+    "uid": "c7d07997b6325124bda496e594ad30e4"
+  },
+  {
+    "title": "Singapore Says US Not Helpful on Investigation Into Alice Huang and Megaspeed",
+    "url": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
+    "source": "NYT Business",
+    "summary": "In a statement, Singapore said it held Alice Huang’s passport months after President Trump was briefed that she was a spy.",
+    "published_at": "2026-11-13T01:33:19+08:00",
+    "stocks": [],
+    "uid": "3462cdfcb4af5a96bbb1fafa7d6e077e",
+    "title_en": "Singapore Says US Not Helpful on Investigation Into Alice Huang and Megaspeed",
+    "summary_en": "In a statement, Singapore said it held Alice Huang’s passport months after President Trump was briefed that she was a spy.",
+    "title_zh": "新加坡稱美國沒有幫助調查 Alice Huang 和 Megaspeed",
+    "summary_zh": "新加坡在聲明中表示，在川普總統獲悉黃愛麗絲是間諜的幾個月後，新加坡扣留了她的護照。"
+  },
+  {
+    "title": "Prediction: This Will Be Intel’s Stock Price After 1 Year (Hint: It Implies a Nice Jump)",
+    "url": "https://www.fool.com/investing/2026/11/12/prediction-this-will-be-intel-s-stock-price-after-1-year-hint-it-implies-a-nice-jump/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The impressive growth in Intel's earnings could send the stock on a bull run over the coming year.",
+    "published_at": "2026-11-13T01:33:02+08:00",
+    "stocks": [],
+    "uid": "aa6541271e15d9c13d42417af85e8b1b",
+    "title_en": "Prediction: This Will Be Intel’s Stock Price After 1 Year (Hint: It Implies a Nice Jump)",
+    "summary_en": "The impressive growth in Intel's earnings could send the stock on a bull run over the coming year.",
+    "title_zh": "預測：這將是英特爾一年後的股價（提示：這意味著一個不錯的跳躍）",
+    "summary_zh": "英特爾獲利的驚人成長可能會推動該股在未來一年出現多頭市場。"
+  },
+  {
+    "title": "High Roller Technologies Inks Agreement with ProphetX to Expand Event Contracts Offering Through ROLR",
+    "url": "https://www.investing.com/news/company-news/high-roller-technologies-inks-agreement-with-prophetx-to-expand-event-contracts-offering-through-rolr-5022881",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-13T01:32:40+08:00",
+    "stocks": [],
+    "uid": "dc1acfcd6913ea118284bc61380d68ff",
+    "title_en": "High Roller Technologies Inks Agreement with ProphetX to Expand Event Contracts Offering Through ROLR",
+    "summary_en": "",
+    "title_zh": "High Roller Technologies 與 ProphetX 簽署協議，透過 ROLR 擴大賽事合約供應",
+    "summary_zh": ""
+  },
+  {
+    "title": "Hudbay Q3 2026 slides: record EBITDA masks EPS miss",
+    "url": "https://www.investing.com/news/company-news/hudbay-q3-2026-slides-record-ebitda-masks-eps-miss-93CH-5022880",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-13T01:32:23+08:00",
+    "stocks": [],
+    "uid": "0230bf8bc295da5a11f0c386e26f69a8",
+    "title_en": "Hudbay Q3 2026 slides: record EBITDA masks EPS miss",
+    "summary_en": "",
+    "title_zh": "Hudbay 2026 年第三季投影片：創紀錄的 EBITDA 掩蓋了 EPS 的失誤",
+    "summary_zh": ""
+  },
+  {
+    "title": "Aquestive Therapeutics director buys $99,330 in shares",
+    "url": "https://www.investing.com/news/insider-trading-news/aquestive-therapeutics-director-buys-99330-in-shares-93CH-5022879",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-13T01:30:58+08:00",
+    "stocks": [],
+    "uid": "f357ed6b31eb49156578b6c63de95458",
+    "title_en": "Aquestive Therapeutics director buys $99,330 in shares",
+    "summary_en": "",
+    "title_zh": "Aquestive Therapeutics 董事購買 99,330 美元的股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Analysis-Brazil’s Lula plays it safe with first post-election fiscal plan",
+    "url": "https://www.investing.com/news/economy-news/analysisbrazils-lula-plays-it-safe-with-first-postelection-fiscal-plan-5022878",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-13T01:30:41+08:00",
+    "stocks": [],
+    "uid": "c3dfb4be2611513c8ddfdc25d58bd508",
+    "title_en": "Analysis-Brazil’s Lula plays it safe with first post-election fiscal plan",
+    "summary_en": "",
+    "title_zh": "分析——巴西盧拉謹慎行事，推出了大選後的第一個財政計劃",
+    "summary_zh": ""
+  },
+  {
+    "title": "HELLENIQ ENERGY Q3 2026 slides: record refining margins drive results",
+    "url": "https://www.investing.com/news/company-news/helleniq-energy-q3-2026-slides-record-refining-margins-drive-results-93CH-5022874",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-13T01:29:48+08:00",
+    "stocks": [],
+    "uid": "87c6e37375b32ce5859753363223448c",
+    "title_en": "HELLENIQ ENERGY Q3 2026 slides: record refining margins drive results",
+    "summary_en": "",
+    "title_zh": "HELLENIQ ENERGY 2026 年第三季幻燈片：創紀錄的煉油利潤推動業績",
+    "summary_zh": ""
+  },
+  {
+    "title": "Nebius Group (NBIS) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/12/nebius-group-nbis-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Customer prepayments now cover new capacity build-outs as 2027 guidance takes shape.",
+    "published_at": "2026-11-13T01:29:40+08:00",
+    "stocks": [
+      "NBIS"
+    ],
+    "uid": "6843c511f3e241744cb73b8a08cab7cb",
+    "title_en": "Nebius Group (NBIS) Q3 2026 Earnings Call Transcript",
+    "summary_en": "Customer prepayments now cover new capacity build-outs as 2027 guidance takes shape.",
+    "title_zh": "Nebius Group (NBIS) 2026 年第三季財報電話會議紀錄",
+    "summary_zh": "隨著 2027 年指導方針的形成，客戶預付款現在涵蓋了新的產能建設。"
+  },
+  {
+    "title": "Jensen Huang’s Resignation From Nvidia Could Complicate Billions in Philanthropic Giving",
+    "url": "https://www.nytimes.com/2026/11/12/technology/jensen-huang-philanthropy-nvidia.html",
+    "source": "NYT Business",
+    "summary": "Mr. Huang, the company’s co-founder, and his wife oversee a charitable foundation with about $9 billion in assets.",
+    "published_at": "2026-11-13T01:26:06+08:00",
+    "stocks": [],
+    "uid": "64f5f3832f0c14479fcdc6c809f10602"
+  },
+  {
+    "title": "Sempra Energy stock hits 52-week low at 18.36 USD",
+    "url": "https://www.investing.com/news/company-news/sempra-energy-stock-hits-52week-low-at-1836-usd-93CH-5022873",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-13T01:26:04+08:00",
+    "stocks": [],
+    "uid": "cf8caf271c996f619fa50b64391193bd"
+  },
+  {
+    "title": "Disney's 'Star Wars' is coming to Cosm domes ahead of 50th anniversary as part of multiyear film deal",
+    "url": "https://www.cnbc.com/2026/11/12/star-wars-cosm-dome-screenings.html",
+    "source": "CNBC Top",
+    "summary": "Cosm has secured a new studio partnership with Disney that will bring \"Star Wars: A New Hope\" to its domes as part of a multiyear, multifilm collaboration.",
+    "published_at": "2026-11-13T01:23:25+08:00",
+    "stocks": [],
+    "uid": "80569c4dfda81355370e55739b38fa5a"
+  },
+  {
+    "title": "IRS announces 2027 401(k) contribution limits, raises savings cap: What it means for your money",
+    "url": "https://www.cnbc.com/2026/11/12/401k-contribution-limits-2027.html",
+    "source": "CNBC Top",
+    "summary": "The IRS has announced higher 401(k) contribution limits for 2027. Here’s what retirement savers need to know.",
+    "published_at": "2026-11-13T01:23:14+08:00",
+    "stocks": [],
+    "uid": "b5f9d5bc0257a18acf90c52149717e97"
+  },
+  {
+    "title": "Cantor Fitzgerald reiterates Anteris Technologies stock rating on commercial progress",
+    "url": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-anteris-technologies-stock-rating-on-commercial-progress-93CH-5022871",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-13T01:22:53+08:00",
+    "stocks": [],
+    "uid": "121edaca413b54987b9d5ad3c015fdc8"
+  },
+  {
+    "title": "Cantor Fitzgerald reiterates Lexeo Therapeutics stock Overweight rating",
+    "url": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-lexeo-therapeutics-stock-overweight-rating-93CH-5022870",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-13T01:22:52+08:00",
+    "stocks": [],
+    "uid": "b596277b75b2a3ab64fdbb8ef4d30732"
+  },
+  {
+    "title": "Fincantieri 9M 2026 slides: margins expand to 7.7%, debt falls sharply",
+    "url": "https://www.investing.com/news/company-news/fincantieri-9m-2026-slides-margins-expand-to-77-debt-falls-sharply-93CH-5022869",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-13T01:22:31+08:00",
+    "stocks": [],
+    "uid": "408718ac4aeddd20b1d1ad4cb61bf0ea"
+  },
+  {
+    "title": "Earnings call transcript: Hudbay Minerals posts record Q3 2026 results, misses EPS",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-hudbay-minerals-posts-record-q3-2026-results-misses-eps-93CH-5022868",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-13T01:21:29+08:00",
+    "stocks": [],
+    "uid": "a3cf2c2d1e1aa0fd1dd5182279982526"
+  },
+  {
+    "title": "Nvidia’s Jensen Huang Resigns. Is This Top AI Stock Still a Buy?",
+    "url": "https://www.fool.com/investing/2026/11/12/nvidia-s-jensen-huang-resigns-is-this-top-ai-stock-still-a-buy/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Nvidia stock declined immediately following the news.",
+    "published_at": "2026-11-13T01:20:01+08:00",
+    "stocks": [],
+    "uid": "471adab59e58d446199b445e01faad78"
+  },
+  {
+    "title": "Nervous Market, Big Opportunity: The 1 Beaten-Down Growth Stock I'd Buy With $500 Right Now",
+    "url": "https://www.fool.com/investing/2026/11/12/nervous-market-big-opportunity-the-1-beaten-down-g/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This fast-growing company has seen its stock cut in half. This is your wake-up call.",
+    "published_at": "2026-11-13T01:17:00+08:00",
+    "stocks": [],
+    "uid": "90804ef0904f6a628743681b53236542"
+  },
+  {
+    "title": "More Good News for Eli Lilly Sends the Stock Even Higher",
+    "url": "https://www.fool.com/investing/2026/11/12/more-good-news-for-eli-lilly-sends-the-stock-even-higher/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Lilly's experimental GLP-1 is effective in treating osteoarthritic knee pain.",
+    "published_at": "2026-11-13T01:15:02+08:00",
+    "stocks": [],
+    "uid": "ddc6170e98de748530b6bec655b582bc"
+  },
+  {
+    "title": "3 Unstoppable Dow Stocks to Buy in November and Hold for the Next Decade",
+    "url": "https://www.fool.com/investing/2026/11/12/3-unstoppable-dow-stocks-to-buy-in-november-and-hold-for-the-next-decade/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Three Dow giants pair market dominance with the financial strength to keep growing for the next decade.",
+    "published_at": "2026-11-13T01:15:02+08:00",
+    "stocks": [],
+    "uid": "86309f5f4311ae10bcc05aa591209fb1"
+  },
+  {
+    "title": "Unions helped Democrats win big in 2026. Now they want action",
+    "url": "https://www.cnbc.com/2026/11/12/democrats-unions-midterms-2026.html",
+    "source": "CNBC Top",
+    "summary": "Unions spent millions of dollars and mobilized thousands of members to get out the vote for Democrats in the midterm election. Now they want to see action.",
+    "published_at": "2026-11-13T01:14:30+08:00",
+    "stocks": [],
+    "uid": "8d7885ac8220339d2418cd7ca7e19266"
+  },
+  {
+    "title": "Why Moderna Stock Dropped on Thursday",
+    "url": "https://www.fool.com/investing/2026/11/12/why-moderna-stock-dropped-on-thursday/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Moderna promised 20% sales growth in 2026 -- but Wall Street wants 24%.",
+    "published_at": "2026-11-13T01:13:30+08:00",
+    "stocks": [],
+    "uid": "351c4e46f667f10affd53d06fc547a3d"
+  },
+  {
+    "title": "Stratasys (SSYS) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/12/stratasys-ssys-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Defense demand surged, but guidance was trimmed on longer sales cycles.",
+    "published_at": "2026-11-13T01:11:36+08:00",
+    "stocks": [
+      "SSYS"
+    ],
+    "uid": "a428f18697c493ba936583fc85ce30d9"
+  },
+  {
+    "title": "Mortgage Rates Remain High as Affordability Challenges Persist",
+    "url": "https://www.nytimes.com/2026/11/12/business/mortgage-rates-home-sales-housing-market.html",
+    "source": "NYT Business",
+    "summary": "The average 30-year, fixed-rate home loan fell slightly, to 7.11 percent, pushing buyers and sellers to the sidelines until conditions improve.",
+    "published_at": "2026-11-13T01:11:08+08:00",
+    "stocks": [],
+    "uid": "5ece32b9e2817943d8287b8040596ca7"
+  },
+  {
+    "title": "The bond market now has an even bigger fear than the AI fallout",
+    "url": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The sharp selloff in tech stocks made Treasurys look more attractive in recent weeks, but another big driver of yields is emerging.",
+    "published_at": "2026-11-13T01:11:00+08:00",
+    "stocks": [],
+    "uid": "548ff14f59f57bf00c698745b301ff02"
+  },
+  {
+    "title": "Franco-Nevada (FNV) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/12/franco-nevada-fnv-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Energy royalties and a Côté buyback reshape the outlook.",
+    "published_at": "2026-11-13T01:10:28+08:00",
+    "stocks": [
+      "FNV"
+    ],
+    "uid": "8b43f56acb9ff15418a62d57507914e3"
+  },
+  {
+    "title": "Here's My Top Long-Term Compounder to Buy Right Now",
+    "url": "https://www.fool.com/investing/2026/11/12/here-s-my-top-long-term-compounder-to-buy-right-now/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Brookfield's latest results are a big reason I keep adding to my position.",
+    "published_at": "2026-11-13T01:08:01+08:00",
+    "stocks": [],
+    "uid": "7a8e1140d9f59884d568a6c25640e976"
+  },
+  {
+    "title": "Apple's Market Cap Grew From $347 Billion to $4.6 Trillion During Tim Cook's 15 Years as CEO. Here's What That Growth Curve Means for Apple's Next Chapter Under John Ternus.",
+    "url": "https://www.fool.com/investing/2026/11/12/apples-market-cap-grew-from-usd347-billion-to-usd4-6-trillion-during-tim-cook-s-15-years-as-ceo-here-s-what-that-growth-curve-means-for-apple-s-next-chapter-under-john-ternus/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "John Ternus inherited a financial machine and is already spending on foldables, AI, and possibly servers.",
+    "published_at": "2026-11-13T01:03:02+08:00",
+    "stocks": [],
+    "uid": "9e04685639df3902e7e12fea385c8760"
+  },
+  {
+    "title": "Coinbase CEO says industry collaboration can help contain fallout from hacks like Binance breach",
+    "url": "https://www.cnbc.com/2026/11/12/coinbase-ceo-brian-armstrong-talks-binance-hack-democrats-sweep.html",
+    "source": "CNBC Tech",
+    "summary": "Coinbase CEO Brian Armstrong joined \"Squawk Box\" for his first TV interview since the Binance hack to share his perspective on cybersecurity.",
+    "published_at": "2026-11-13T01:00:49+08:00",
+    "stocks": [],
+    "uid": "ce69aa3a82f9dc42d11da7d339719f4b"
+  },
+  {
+    "title": "Warren Buffett Doesn't Follow His Own S&P 500 Advice. Should You?",
+    "url": "https://www.fool.com/investing/2026/11/12/warren-buffett-doesnt-follow-his-own-sp-500-advice-should-you/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Berkshire's concentrated stock portfolio seems to contradict his advice to buy the S&amp;P 500.",
+    "published_at": "2026-11-13T01:00:02+08:00",
+    "stocks": [],
+    "uid": "5497f2b5acadef1997d6fc51fb687914"
+  },
+  {
+    "title": "Sitting on big gains in Nvidia? Jim Cramer's advice on what to do next",
+    "url": "https://www.cnbc.com/investingclub/2026/11/12/sitting-on-big-gains-in-nvidia-jim-cramers-advice-on-what-to-do-next.html",
+    "source": "CNBC Top",
+    "summary": "Cramer has been an Nvidia bull long before the generative AI boom.",
+    "published_at": "2026-11-13T00:59:52+08:00",
+    "stocks": [],
+    "uid": "1ce71555b13bc200b1c4e44b02a3b114"
+  },
+  {
+    "title": "Fermi Inc. (FRMI) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/12/fermi-inc-frmi-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Management details a hyperscaler prepayment and a capital-light growth model.",
+    "published_at": "2026-11-13T00:54:01+08:00",
+    "stocks": [
+      "FRMI"
+    ],
+    "uid": "4b589dd8a1a3fc174856a7c8f1e524e1"
+  },
+  {
+    "title": "Acurx Pharma (ACXP) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/12/acurx-pharma-acxp-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Enrollment is underway in a recurrent C. difficile study",
+    "published_at": "2026-11-13T00:54:00+08:00",
+    "stocks": [
+      "ACXP"
+    ],
+    "uid": "83530ef5985c47492a480625d5a6bb39"
+  },
+  {
+    "title": "Absci (ABSI) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/12/absci-absi-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Pattern hair loss data is due in December as the company expands into endometriosis.",
+    "published_at": "2026-11-13T00:54:00+08:00",
+    "stocks": [
+      "ABSI"
+    ],
+    "uid": "9f851dcc0e478f3eee6989fa8805e87c"
+  },
+  {
+    "title": "Here’s the latest.",
+    "url": "https://www.nytimes.com/live/2026/11/12/business/nvidia-jensen-huang-resigns/heres-the-latest",
+    "source": "NYT Business",
+    "summary": "",
+    "published_at": "2026-11-13T00:53:06+08:00",
+    "stocks": [],
+    "uid": "fbb912090bb2602f9ed1fda2ff303632"
+  },
+  {
+    "title": "Turning 66 in 2027? Don't Make This Big Social Security Mistake",
+    "url": "https://www.fool.com/retirement/2026/11/12/turning-66-in-2027-don-t-make-this-big-social-security-mistake/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "If you want your benefits in full, you may need to sit tight.",
+    "published_at": "2026-11-13T00:49:02+08:00",
+    "stocks": [],
+    "uid": "c84e6d4f805f0844c1b75f6ab8137a96"
+  },
+  {
+    "title": "Rivian Just Earned a Buy Rating. Is Wall Street Seeing a Turning Point?",
+    "url": "https://www.fool.com/investing/2026/11/12/rivian-just-earned-a-buy-rating-is-wall-street-seeing-a-turning-point/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Rivian just received an upgrade from Wall Street, but the reasoning behind the upgrade is important.",
+    "published_at": "2026-11-13T00:45:02+08:00",
+    "stocks": [],
+    "uid": "c782ebbae0caca0d6ca1c2435f9724d1"
+  },
+  {
+    "title": "Few S&P 500 Stocks Yield Over 5%. Here's My Top Pick to Buy Now.",
+    "url": "https://www.fool.com/investing/2026/11/12/few-sp-500-stocks-yield-over-5-heres-my-top-pick-t/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "UPS will remain an attractive dividend stock even as fixed-income yields rise.",
+    "published_at": "2026-11-13T00:45:00+08:00",
+    "stocks": [],
+    "uid": "eee9c919a9d2d9fa388c975a0ea9ef16"
+  },
+  {
+    "title": "Alvotech (ALVO) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/12/alvotech-alvo-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Manufacturing recovery drove a sharp quarterly rebound, but targets point to the low end.",
+    "published_at": "2026-11-13T00:39:28+08:00",
+    "stocks": [
+      "ALVO"
+    ],
+    "uid": "563b88b412d2c44f47ed1666bdd05821"
+  },
+  {
+    "title": "CAE (CAE) Q2 2027 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/12/cae-cae-q2-2027-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Guidance raised as the transformation plan runs ahead of schedule.",
+    "published_at": "2026-11-13T00:39:28+08:00",
+    "stocks": [
+      "CAE"
+    ],
+    "uid": "c83e2398fbe377edaae10f85845fd5bc"
+  },
+  {
+    "title": "Trump says ‘we don’t need a deal with Iran’",
+    "url": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
+    "source": "CNBC Top",
+    "summary": "Trump directed Vice President JD Vance to instead focus his attention on corruption and crime in Democratic cities and states.",
+    "published_at": "2026-11-13T00:36:23+08:00",
+    "stocks": [],
+    "uid": "917f9632539c2c5b067ec7950732f1f5"
+  },
+  {
+    "title": "Why SpaceX Stock Popped After Nvidia's CEO News",
+    "url": "https://www.fool.com/investing/2026/11/12/why-spacex-stock-popped-after-nvidia-s-ceo-news/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Nvidia dropped its CEO -- now will SpaceX pick him up?",
+    "published_at": "2026-11-13T00:34:09+08:00",
+    "stocks": [],
+    "uid": "b0dd0f08976b7612dd6cd0f02ca30e3a"
+  },
+  {
+    "title": "Nvidia Stock Plunges After Jensen Huang Resigns as CEO",
+    "url": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html",
+    "source": "NYT Business",
+    "summary": "News that the chipmaker’s chief executive, Jensen Huang, stepped down drove Nvidia’s stock down and reverberated across global markets.",
+    "published_at": "2026-11-13T00:33:14+08:00",
+    "stocks": [],
+    "uid": "3d49fc69836fa29258972643c9af1a5b"
+  },
+  {
+    "title": "A $776 Car Payment Is a Warning for Ford and General Motors",
+    "url": "https://www.fool.com/investing/2026/11/12/a-usd776-car-payment-is-a-warning-for-ford-and-gm/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "As the U.S. drives towards higher new car prices, it faces an affordability crisis leaving some consumers out of the market. This could be a problem for Ford and GM.",
+    "published_at": "2026-11-13T00:33:02+08:00",
+    "stocks": [],
+    "uid": "7452b25d550ca2eca7e9dd1304edb922"
+  },
+  {
+    "title": "Investor Uncertainty Is Mounting. These 3 Steps Can Protect Your Portfolio.",
+    "url": "https://www.fool.com/investing/2026/11/12/investor-uncertainty-3-steps-protect-portfolio/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Despite a positive year, the market has become more jittery recently.",
+    "published_at": "2026-11-13T00:30:00+08:00",
+    "stocks": [],
+    "uid": "dc8c415bdd9bbec91d5f9414521b7ed3"
+  },
+  {
+    "title": "Nvidia is spending more than ever on Washington lobbying. It may not stop Congress from limiting China chip sales now.",
+    "url": "https://www.marketwatch.com/story/nvidia-is-spending-more-than-ever-on-washington-lobbying-it-still-may-not-be-able-to-stop-congress-from-limiting-its-china-chip-sales-now-d4c34c66?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "‘There’s no question that Congress is going to push for a complete ban on the sale of advanced semiconductors into China,’ says a former U.S. ambassador to Beijing",
+    "published_at": "2026-11-12T23:55:00+08:00",
+    "stocks": [],
+    "uid": "0c35c7f9ecc2971c44fe8e12dc4df677"
+  },
+  {
+    "title": "Home sales plummet to lowest level since ‘Great Recession’ as prices hit all-time high",
+    "url": "https://www.marketwatch.com/story/home-sales-plummet-to-lowest-level-since-the-great-recession-as-buyers-flee-the-market-624e6270?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Home sales fell in October to a 16-year low as buyers bolted from the housing market in the face of 7% mortgage rates.",
+    "published_at": "2026-11-12T23:52:00+08:00",
+    "stocks": [],
+    "uid": "91b5cbb11a91b50d756ecd79e4ceb474"
+  },
+  {
+    "title": "Jensen Huang’s Affairs That Upended Nvidia: Timeline of Events",
+    "url": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-affairs-timeline.html",
+    "source": "NYT Business",
+    "summary": "News of the Nvidia co-founder’s relationship with a suspected Chinese spy, and his affair with an executive who reports to him, prompted his exit from the multi-trillion-dollar company.",
+    "published_at": "2026-11-12T23:51:40+08:00",
+    "stocks": [],
+    "uid": "bb6f2206edd3b61bb30678eb5a7dda0a"
+  },
+  {
+    "title": "Yankees President Randy Levine pushes college sports bill, discusses MLB labor negotiations",
+    "url": "https://www.cnbc.com/2026/11/12/yankees-randy-levine-discusses-college-sports-bill-mlb-labor-deal.html",
+    "source": "CNBC Top",
+    "summary": "Yankees President Randy Levine discusses the Protect College Sports Act, and the state of MLB's labor negotiations.",
+    "published_at": "2026-11-12T23:34:31+08:00",
+    "stocks": [],
+    "uid": "b1192fd299baacf0d538e53ff39d7ae6"
+  },
+  {
+    "title": "‘A dark day for Nvidia’: Here’s what analysts have been saying about Jensen Huang’s departure",
+    "url": "https://www.cnbc.com/2026/11/12/jensen-huang-nvidia-affair-ceo.html",
+    "source": "CNBC Top",
+    "summary": "The company's board convened Wednesday evening after reports emerged of Huang engaging in an affair with an employee.",
+    "published_at": "2026-11-12T23:22:38+08:00",
+    "stocks": [],
+    "uid": "17f08ea8226d6094af991970bf19456e"
+  },
+  {
+    "title": "Jensen Huang Was the Face of the A.I. Boom Powering the U.S. Economy",
+    "url": "https://www.nytimes.com/2026/11/12/business/economy/jensen-huang-economy-nvidia-ai.html",
+    "source": "NYT Business",
+    "summary": "Nvidia’s ousted leader was a rhetorical and financial booster for investments that are driving economic growth.",
+    "published_at": "2026-11-12T23:12:43+08:00",
+    "stocks": [],
+    "uid": "22679f5f1027be1868e734843a86b9f2"
+  },
+  {
+    "title": "Oil prices mixed after Trump says no Iran deal needed: 'We've got their Strait'",
+    "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
+    "source": "CNBC Finance",
+    "summary": "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.",
+    "published_at": "2026-11-12T23:08:45+08:00",
+    "stocks": [],
+    "uid": "e5887ef1d9da23c695422fa99c2e5bc8"
+  },
+  {
+    "title": "Mortgage rates were 7% in 1997, too—here’s why buying a home feels more expensive today",
+    "url": "https://www.cnbc.com/make-it/2026/11/12/mortgage-rates-home-affordability-1997.html",
+    "source": "CNBC Top",
+    "summary": "Even at the same mortgage rate, buying a typical home today eats up a much bigger share of household income than it did 30 years ago.",
+    "published_at": "2026-11-12T23:00:01+08:00",
+    "stocks": [],
+    "uid": "26375cf86d2887a2b1cf90d1011426cc"
+  },
+  {
+    "title": "Data Centers Will Continue to Be Built, Despite Midterm Elections",
+    "url": "https://www.nytimes.com/2026/11/12/technology/voters-data-centers-construction.html",
+    "source": "NYT Business",
+    "summary": "Big technology companies saw the tide turn against their giant A.I. projects, but they have the means to weather delays.",
+    "published_at": "2026-11-12T22:42:23+08:00",
+    "stocks": [],
+    "uid": "f1665dd78c7d273891370f5c3118adb8"
+  },
+  {
+    "title": "Who Is Colette Kress, the Interim Nvidia CEO Replacing Jensen Huang?",
+    "url": "https://www.nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html",
+    "source": "NYT Business",
+    "summary": "Ms. Kress, the company’s chief financial officer, joined Nvidia in 2013.",
+    "published_at": "2026-11-12T22:35:18+08:00",
+    "stocks": [],
+    "uid": "b245fce43905905524bf2e0fe2eea919"
+  },
+  {
+    "title": "Help! A Broken Toilet Grounded My Plane, and the Airline Won’t Cover a Hotel.",
+    "url": "https://www.nytimes.com/2026/11/12/travel/turkish-airlines-flight-delay-hotel-refund.html",
+    "source": "NYT Business",
+    "summary": "Turkish Airlines tried to wiggle out of paying for a passenger’s $512 overnight stay after a stomach-churning malfunction forced it to cancel a flight in Denver.",
+    "published_at": "2026-11-12T22:31:56+08:00",
+    "stocks": [],
+    "uid": "ec6a9e981a9ece131bff70cce2f75d68"
+  },
+  {
+    "title": "Want to Short a Stock? Kalshi and C.T.F.C. Allow It as ‘Perpetual Trades.’",
+    "url": "https://www.nytimes.com/2026/11/12/us/politics/kalshi-commodity-futures-stocks.html",
+    "source": "NYT Business",
+    "summary": "After a federal regulator allowed wagering on stocks and cryptocurrencies, two powerful trading clearinghouses filed lawsuits saying traders would not be properly protected.",
+    "published_at": "2026-11-12T22:23:52+08:00",
+    "stocks": [],
+    "uid": "7183a4595f772437dd157810994f7898"
+  },
+  {
+    "title": "Lutnick should ban Chinese memory maker CXMT from U.S., Sen. Cotton says",
+    "url": "https://www.cnbc.com/2026/11/12/lutnick-cxmt-china-cotton.html",
+    "source": "CNBC Top",
+    "summary": "Sen. Tom Cotton is urging the Commerce secretary to add CXMT to its \"Entity List\" as the fast-growing Chinese memory maker expands in DRAM and pushes into HBM.",
+    "published_at": "2026-11-12T22:22:37+08:00",
+    "stocks": [],
+    "uid": "6ac6c5931ef0af9048bfe5ca786f03d5"
+  },
+  {
+    "title": "Nerves around Nvidia as investors await the outcome of Board's crisis CEO meeting",
+    "url": "https://www.cnbc.com/2026/11/12/nvidia-boards-crisis-meeting.html",
+    "source": "CNBC Tech",
+    "summary": "Shares in Nvidia are back in the red in premarket trading as Huang's future hangs in the balance",
+    "published_at": "2026-11-12T22:15:00+08:00",
+    "stocks": [],
+    "uid": "05da6c1b7addb78b507aab7652a2cb58"
+  },
+  {
+    "title": "Trump trade chief Greer speaks with 'Squawk Box' as tariff threats rise",
+    "url": "https://www.cnbc.com/2026/11/12/jamieson-greer-trump-tariffs-election-nvidia.html",
+    "source": "CNBC Tech",
+    "summary": "Trump's tariffs, which have ignited trade wars with multiple U.S. economic partners, will likely be a top target for Democrats once they take control of Congress.",
+    "published_at": "2026-11-12T22:14:45+08:00",
+    "stocks": [],
+    "uid": "cc95fd0d56ce6b66167ad3e59773dfb6"
+  },
+  {
+    "title": "As credit card balances hit a record high, medical bills can become 'shadow debt,' expert says",
+    "url": "https://www.cnbc.com/2026/11/12/medical-bills-credit-card-debt.html",
+    "source": "CNBC Top",
+    "summary": "Medical bills can move onto credit cards and other borrowing, making the debt harder to track. Here's what consumers can check before financing care.",
+    "published_at": "2026-11-12T21:15:02+08:00",
+    "stocks": [],
+    "uid": "f9eaddec39b097f6d4dc647b5b1241a5"
+  },
+  {
+    "title": "Wall Street Sees the Writing on the Wall for Jensen Huang",
+    "url": "https://www.nytimes.com/2026/11/12/business/dealbook/wall-street-nvidia-huang-spy.html",
+    "source": "NYT Business",
+    "summary": "The company’s board is weighing the fate of its chief executive. Silicon Valley and Washington are steeling themselves for life without him.",
+    "published_at": "2026-11-12T21:14:39+08:00",
+    "stocks": [],
+    "uid": "41827e7be33bed3d4154038ad46a3480"
+  },
+  {
+    "title": "DarioHealth GAAP EPS of $0.73 beats by $1.68, revenue of $5.31M beats by $0.1M",
+    "url": "https://seekingalpha.com/news/4671284-dariohealth-gaap-eps-of-073-beats-by-168-revenue-of-531m-beats-by-01m?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-11-12T19:39:54+08:00",
+    "stocks": [],
+    "uid": "665ab769f1d62bbecee30554652a2870"
+  },
+  {
+    "title": "Cardinal Point Wealth Management Highlights U.S. Estate and Gift Tax Considerations for Canadians",
+    "url": "https://markets.businessinsider.com/news/stocks/cardinal-point-wealth-management-highlights-u-s-estate-and-gift-tax-considerations-for-canadians-1036755227",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;Toronto, ON, Nov.  12, 2026  (GLOBE NEWSWIRE) -- Cardinal Point Wealth Management, a firm specializing in Canada–U.S. cross-border financial planning, has published a new article examining U.S. estate and gift tax rules and their implications for...",
+    "published_at": "2026-11-12T19:39:12+08:00",
+    "stocks": [],
+    "uid": "3e739a8d2ea546b48e9c97ba3c8a88c8"
+  },
+  {
+    "title": "New Era Energy & Digital reports Q3 results",
+    "url": "https://seekingalpha.com/news/4671283-new-era-energy-digital-reports-q3-results?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-11-12T19:37:50+08:00",
+    "stocks": [],
+    "uid": "2646be8f17eb525b7e3c55b84b6825a8"
+  },
+  {
+    "title": "Westwater Resources reports Q3 results",
+    "url": "https://seekingalpha.com/news/4671282-westwater-resources-reports-q3-results?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-11-12T19:36:47+08:00",
+    "stocks": [],
+    "uid": "1577fac729ad13c2ef1b43f3e2bea4bd"
+  },
+  {
+    "title": "Spectrum Brands Non-GAAP EPS of $1.39 beats by $0.49, revenue of $713.2M misses by $7.47M",
+    "url": "https://seekingalpha.com/news/4671280-spectrum-brands-non-gaap-eps-of-1_39-beats-by-0_49-revenue-of-713_2m-misses-by-7_47m?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-11-12T19:36:05+08:00",
+    "stocks": [],
+    "uid": "71b7517b54ba1daef04470b5919141d0"
+  },
+  {
+    "title": "AIRO Group Holdings beats top-line and bottom-line estimates; reaffirms FY26 outlook",
+    "url": "https://seekingalpha.com/news/4671281-airo-group-holdings-beats-top-line-and-bottom-line-estimates-reaffirms-fy26-outlook?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-11-12T19:35:53+08:00",
+    "stocks": [],
+    "uid": "e232ecff9f80a72d9933b84af93402b9"
+  },
+  {
+    "title": "Eurobattery Minerals engages Ilari Kinnunen as interim operational advisor and prepares EGM",
+    "url": "https://markets.businessinsider.com/news/stocks/eurobattery-minerals-engages-ilari-kinnunen-as-interim-operational-advisor-and-prepares-egm-1036755212",
+    "source": "Business Insider",
+    "summary": "&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;\n\n\n\n&lt;br/&gt;\nEQS-Media / 12.11.2026 / 12:35 CET/CEST&lt;br/&gt;\n&lt;div&gt;&lt;b&gt;Stockholm, 12 November 2026 – The mining company Eurobattery Minerals AB (hereinafter “Eurobattery Minerals” or the “Company”) announces that Ilari Kinnunen, Managing Director of its wholly owned subsidiary FinnCobalt Oy, has been engaged as interim...",
+    "published_at": "2026-11-12T19:35:02+08:00",
+    "stocks": [],
+    "uid": "a58fc75619aa80c7a175594c74226d9d"
+  },
+  {
+    "title": "EQS-News: Mutares advances growth and portfolio transformation in the first nine months of 2026: record acquisition, dynamic exit activity with strong outlook and guidance confirmed",
+    "url": "https://markets.businessinsider.com/news/stocks/eqs-news-mutares-advances-growth-and-portfolio-transformation-in-the-first-nine-months-of-2026-record-acquisition-dynamic-exit-activity-with-strong-outlook-and-guidance-confirmed-1036755209",
+    "source": "Business Insider",
+    "summary": "&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;\n\n\nEQS-News: Mutares SE  Co. KGaA\n\n\n / Key word(s): 9 Month figures/Quarterly / Interim Statement\n\n\n&lt;br/&gt;\n\n\nMutares advances growth and portfolio transformation in the first nine months of 2026: record acquisition, dynamic exit activity with strong outlook and guidance confirmed  &lt;br/&gt;&lt;br/&gt;\n\n\n\n\n\n\n12.11.",
+    "published_at": "2026-11-12T19:34:53+08:00",
+    "stocks": [],
+    "uid": "ef0164256baa27baf8d1ebde30e593e4"
+  },
+  {
+    "title": "Forgent Power Solutions beats top-line and bottom-line estimates; updates FY26 outlook",
+    "url": "https://seekingalpha.com/news/4671279-forgent-power-solutions-beats-top-line-and-bottom-line-estimates-updates-fy26-outlook?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-11-12T19:33:23+08:00",
+    "stocks": [],
+    "uid": "03ac07e24a9da46dabab8d0fcd6fa21e"
+  },
+  {
+    "title": "Wolverine World Wide beats Q3 street views, raises FY guidance",
+    "url": "https://seekingalpha.com/news/4671277-wolverine-world-wide-beats-q3-street-views-raises-fy-guidance?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-11-12T19:33:19+08:00",
+    "stocks": [],
+    "uid": "faa2c916efbdac29e146b4175f1f29c6"
+  },
+  {
+    "title": "Ukraine warns of fresh Starshield disruptions as U.S. envoys arrive in Moscow for talks with Putin",
+    "url": "https://www.cnbc.com/2026/11/12/starlink-starshield-ukraine-restrictions-spacex.html",
+    "source": "CNBC Top",
+    "summary": "Starshield is SpaceX's military-grade satellite network designed for government and national security use, building on the technology developed for Starlink.",
+    "published_at": "2026-11-12T19:23:04+08:00",
+    "stocks": [],
+    "uid": "eeca74b3a32fe99168e5c93ee5e3f87f"
+  },
+  {
+    "title": "Ukrainian defense tech startup hits $6 billion valuation as investors bet on battle-tested drones",
+    "url": "https://www.cnbc.com/2026/11/12/uforce-defense-tech-drones-warfare-ukraine.html",
+    "source": "CNBC Tech",
+    "summary": "UFORCE's NEMESIS drones have completed 300,000 combat flights, and its MAGURA naval vessels have contributed to the destruction of Russian warships.",
+    "published_at": "2026-11-12T17:05:22+08:00",
+    "stocks": [],
+    "uid": "7ea6427ec2fe0e4f615b1993010a6fce"
+  },
+  {
     "title": "Palantir Grew Revenue 96%. The Stock Fell 5%. Here's What I'm Doing.",
     "url": "https://www.fool.com/investing/2026/11/12/palantir-grew-revenue-96-the-stock-fell-5-heres-wh/?source=iedfolrf0000001",
     "source": "Motley Fool",
