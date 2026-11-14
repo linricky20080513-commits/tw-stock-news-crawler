@@ -13,6 +13,632 @@
     "summary_en": "The autonomic nervous system is a key system that maintains our life activities. It delicately regulates the precise operation of internal organs and neuroendocrine systems, including breathing, heartbeat, blood circulation, blood pressure, body temperature, perspiration, gastrointestinal digestion, reproduction, hormone secretion, sleep and metabolism, etc. This system is composed of sympathetic nerves and parasympathetic nerves. The sympathetic nerve is like the accelerator of a car, responsible for accelerating; the parasympathetic nerve is like the brake, responsible for slowing down. The balance and coordination between these two is essential to keep our life moving.\n\nWu Jiahong pointed out that modern people’s busy life pace and generally unhealthy lifestyle can easily destroy this balance, leading to imbalance of the sympathetic and parasympathetic nervous systems, which in turn can lead to various symptoms, such as dizziness, inattention, memory loss, abnormal heartbeat and blood pressure, chest tightness, mood swings, anxiety and irritability, poor sleep quality, digestive problems, metabolic abnormalities and immune system diseases, etc., affecting the whole body from head to toe. When middle-aged women face these symptoms that they have never experienced before, they often worry about their health conditions and seek various medical assistance. However, autonomic nervous system disorders are difficult to diagnose during routine health examinations, which increases their anxiety and worry. Fortunately, with the popularity of online information, many people are beginning to realize that these symptoms may stem from autonomic nervous system disorders."
   },
   {
+    "title": "星座理財／雙子座 蒸蒸日上",
+    "url": "https://money.udn.com/money/story/5648/9879017",
+    "source": "經濟日報總經",
+    "summary": "羊座這周合作、協商與對口關係，加上良好相位夾角的引動之下，近期工作上一對一溝通增強，只要避開大堆頭的會議或無謂的應酬交際，就有機會大展身手。地雷圍繞在投資風險，還要留意一時衝動、過度樂觀帶來的負影響。",
+    "published_at": "2026-11-14T23:25:13+08:00",
+    "stocks": [],
+    "uid": "6fec3c8dd9d0daa98ef7f1d1083f1950",
+    "title_zh": "星座理財／雙子座 蒸蒸日上",
+    "summary_zh": "羊座這周合作、協商與對口關係，加上良好相位夾角的引動之下，近期工作上一對一溝通增強，只要避開大堆頭的會議或無謂的應酬交際，就有機會大展身手。地雷圍繞在投資風險，還要留意一時衝動、過度樂觀帶來的負影響。",
+    "title_en": "Horoscope Financial Management/Gemini Prosperity",
+    "summary_en": "Aries will have cooperation, negotiation and counterpart relationships this week, coupled with the stimulation of good phase angles, one-to-one communication at work has been strengthened recently. As long as you avoid large meetings or unnecessary social interactions, you will have the opportunity to show off your talents. Landmines surround investment risks, and we must also pay attention to the negative effects of impulsiveness and over-optimism."
+  },
+  {
+    "title": "金像電群益63購03 火熱",
+    "url": "https://money.udn.com/money/story/5739/9879018",
+    "source": "經濟日報",
+    "summary": "金像電受惠於人工智慧（AI）伺服器持續朝高功率、高速傳輸及高層數印刷電路板（PCB）趨勢發展，加上800G高速交換器、下一世代AI資料中心及高階運算設備升級，有利於高階PCB產品規格與平均售價提升，營運展望正向。",
+    "published_at": "2026-11-14T23:21:16+08:00",
+    "stocks": [],
+    "uid": "3bbbb525bb738d73d2e47d07e0111312",
+    "title_zh": "金像電群益63購03 火熱",
+    "summary_zh": "金像電受惠於人工智慧（AI）伺服器持續朝高功率、高速傳輸及高層數印刷電路板（PCB）趨勢發展，加上800G高速交換器、下一世代AI資料中心及高階運算設備升級，有利於高階PCB產品規格與平均售價提升，營運展望正向。",
+    "title_en": "Jinxiang Dianqunyi 63 purchase 03 hot",
+    "summary_en": "Jinxiang Electronics benefits from the continued development of artificial intelligence (AI) servers towards high power, high-speed transmission and high-density printed circuit boards (PCBs). Coupled with the upgrade of 800G high-speed switches, next-generation AI data centers and high-end computing equipment, it is conducive to the improvement of high-end PCB product specifications and average selling prices, and its operating prospects are positive."
+  },
+  {
+    "title": "世芯中信64購03 升勢壯",
+    "url": "https://money.udn.com/money/story/5739/9879020",
+    "source": "經濟日報",
+    "summary": "世芯-KY第3季營收季成長242.8%、年成長298.6%，毛利率17.95%，與市場預估相當，主要是部分NRE有遞延認列影響，整體稅後純益達32.5億元，季增98.4%、年增144.8%，每股純益（EPS）37.71元。",
+    "published_at": "2026-11-14T23:20:56+08:00",
+    "stocks": [
+      "3661"
+    ],
+    "uid": "01107d639faaa2f9958a41e79b52e6c5",
+    "title_zh": "世芯中信64購03 升勢壯",
+    "summary_zh": "世芯-KY第3季營收季成長242.8%、年成長298.6%，毛利率17.95%，與市場預估相當，主要是部分NRE有遞延認列影響，整體稅後純益達32.5億元，季增98.4%、年增144.8%，每股純益（EPS）37.71元。",
+    "title_en": "Shixin CITIC 64 Purchase 03 has a strong upward trend",
+    "summary_en": "Shixin-KY's third-quarter revenue grew by 242.8% quarterly and 298.6% annually, with a gross profit margin of 17.95%, which was in line with market estimates, mainly due to the impact of deferred recognition of some NREs. The overall net income after tax reached 3.25 billion yuan, a quarterly increase of 98.4%, an annual increase of 144.8%, and net earnings per share (EPS) of 37.71 yuan."
+  },
+  {
+    "title": "光寶科永豐67購03 有戲",
+    "url": "https://money.udn.com/money/story/5739/9878937",
+    "source": "經濟日報",
+    "summary": "光寶科受惠AI與雲端運算高階伺服器電源、高效備援電池系統（BBU）等電能管理系統，以及高階光電半導體需求強勁，10月合併營收200.71億元，年增32.01%，月增6.5%，創近十年新高。",
+    "published_at": "2026-11-14T23:20:11+08:00",
+    "stocks": [],
+    "uid": "40d43781e4ebab04ec164d82efb2a6e6",
+    "title_zh": "光寶科永豐67購03 有戲",
+    "summary_zh": "光寶科受惠AI與雲端運算高階伺服器電源、高效備援電池系統（BBU）等電能管理系統，以及高階光電半導體需求強勁，10月合併營收200.71億元，年增32.01%，月增6.5%，創近十年新高。",
+    "title_en": "Lite-On Technology Yongfeng 67 Purchase 03 has a show",
+    "summary_en": "Lite-On Technology benefited from the strong demand for AI and cloud computing high-end server power supplies, high-efficiency backup battery systems (BBU) and other power management systems, as well as high-end optoelectronic semiconductors. In October, consolidated revenue was 20.071 billion yuan, an annual increase of 32.01% and a monthly increase of 6.5%, hitting a new high in the past decade."
+  },
+  {
+    "title": "富喬凱基6A購01 伺機買",
+    "url": "https://money.udn.com/money/story/5739/9878938",
+    "source": "經濟日報",
+    "summary": "富喬為國內少數具備紗、布垂直整合與自有配方能力的玻纖布廠，今年下半年受惠二代低介電布放量、報價調漲及良率改善，營收與獲利可望逐季創高；進入2027年後，獲利動能將由高階產品占比提升與新增產能貢獻。",
+    "published_at": "2026-11-14T23:19:48+08:00",
+    "stocks": [],
+    "uid": "8e1e622991d7b3cc8a412074d3fb8292",
+    "title_zh": "富喬凱基6A購01 伺機買",
+    "summary_zh": "富喬為國內少數具備紗、布垂直整合與自有配方能力的玻纖布廠，今年下半年受惠二代低介電布放量、報價調漲及良率改善，營收與獲利可望逐季創高；進入2027年後，獲利動能將由高階產品占比提升與新增產能貢獻。",
+    "title_en": "Fuqiao Kaiji 6A purchase 01 waiting for the opportunity to buy",
+    "summary_en": "Fuqiao is one of the few fiberglass cloth factories in China that has the ability to vertically integrate yarn and cloth and have its own formula. In the second half of this year, thanks to the second-generation low-dielectric fabrication volume, higher quotations and improved yields, revenue and profits are expected to hit highs quarter by quarter. After entering 2027, profit momentum will be contributed by the increase in the proportion of high-end products and new production capacity."
+  },
+  {
+    "title": "蘇巧慧撞斷牙續登台　賴總統讚「打落牙齒和血吞」",
+    "url": "https://money.udn.com/money/story/7307/9879166",
+    "source": "經濟日報總經",
+    "summary": "民進黨新北市長候選人蘇巧慧今天造勢時撞斷牙齒，但仍在台上完成演唱。總統賴清德站台助講表示，這是老天爺的考驗，「打落牙齒和...",
+    "published_at": "2026-11-14T22:54:43+08:00",
+    "stocks": [],
+    "uid": "9576732c16e13d7402e1628505d9c38d",
+    "title_zh": "蘇巧慧撞斷牙續登台　賴總統讚「打落牙齒和血吞」",
+    "summary_zh": "民進黨新北市長候選人蘇巧慧今天造勢時撞斷牙齒，但仍在台上完成演唱。總統賴清德站台助講表示，這是老天爺的考驗，「打落牙齒和...",
+    "title_en": "Su Qiaohui broke her teeth and continued on stage. President Lai praised \"Knocked out teeth and swallowed blood\"",
+    "summary_en": "New Taipei City mayoral candidate Su Qiaohui of the Democratic Progressive Party broke her tooth while campaigning today, but she still finished singing on stage. President Lai Ching-tak's platform assistant said that this is a test from God, \"Knocking out teeth and..."
+  },
+  {
+    "title": "李四川中和造勢　三子站台相挺盼票倉開出好成績",
+    "url": "https://money.udn.com/money/story/7307/9879165",
+    "source": "經濟日報總經",
+    "summary": "國民黨籍新北市長候選人李四川今天晚上與台中市長盧秀燕、新北市長侯友宜合體造勢，立法院長韓國瑜也站台助講，希望在藍營票倉的...",
+    "published_at": "2026-11-14T22:54:28+08:00",
+    "stocks": [],
+    "uid": "5e5d569f9dce292de1a1deb6e17aa26e",
+    "title_zh": "李四川中和造勢　三子站台相挺盼票倉開出好成績",
+    "summary_zh": "國民黨籍新北市長候選人李四川今天晚上與台中市長盧秀燕、新北市長侯友宜合體造勢，立法院長韓國瑜也站台助講，希望在藍營票倉的...",
+    "title_en": "Li Sichuan Zhonghe builds momentum; the three sons support each other and hope for good results in the ticket office",
+    "summary_en": "The New Taipei City mayoral candidate Li Sichuan of the Kuomintang joined forces with Taichung Mayor Lu Xiuyan and New Taipei City Mayor Hou Youyi to campaign tonight. Legislative Yuan Han Guoyu also stood on the stage to help speak, hoping that in the blue camp..."
+  },
+  {
+    "title": "廢除非核家園公投　學者主張核能救命丸、經部強調非萬靈丹",
+    "url": "https://money.udn.com/money/story/5612/9879126",
+    "source": "經濟日報股市",
+    "summary": "中選會今天舉辦「廢除非核家園」公投案意見發表會，正方代表、中經院綠色經濟研究中心副研究員陳中舜主張，核能是台灣當下的救命...",
+    "published_at": "2026-11-14T22:21:25+08:00",
+    "stocks": [],
+    "uid": "ebc3a49e90f2072d0d9e650388ed8531",
+    "title_zh": "廢除非核家園公投　學者主張核能救命丸、經部強調非萬靈丹",
+    "summary_zh": "中選會今天舉辦「廢除非核家園」公投案意見發表會，正方代表、中經院綠色經濟研究中心副研究員陳中舜主張，核能是台灣當下的救命...",
+    "title_en": "Abolition of non-nuclear homeland referendum: Scholars advocate nuclear energy as life-saving pill, Ministry of Economic Affairs emphasizes that it is not a panacea",
+    "summary_en": "The Central Election Commission held a press conference today on the \"Abolition of Non-Nuclear Homeland\" referendum. Chen Zhongshun, a representative of the affirmative and an associate researcher at the Green Economy Research Center of the Chinese Academy of Economics, advocated that nuclear energy is Taiwan's current life-saving..."
+  },
+  {
+    "title": "廢除非核家園公投　學者主張核能救命丸、經部強調非萬靈丹",
+    "url": "https://www.cna.com.tw/news/afe/202611140223.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者梁家柔台北14日電）中選會今天舉辦「廢除非核家園」公投案意見發表會，正方代表、中經院綠色經濟研究中心副研究員陳中舜主張，核能是台灣當下的救命丸，可舒緩財政與穩定電價；反方代表、經濟部次長賴建信認為，核電不是振興經濟的萬靈丹，呼籲應回歸法治、相信科學並尊重專業。",
+    "published_at": "2026-11-14T22:15:35+08:00",
+    "stocks": [],
+    "uid": "16017d2a6e283064119aa36b8579f93a",
+    "title_zh": "廢除非核家園公投　學者主張核能救命丸、經部強調非萬靈丹",
+    "summary_zh": "（中央社記者梁家柔台北14日電）中選會今天舉辦「廢除非核家園」公投案意見發表會，正方代表、中經院綠色經濟研究中心副研究員陳中舜主張，核能是台灣當下的救命丸，可舒緩財政與穩定電價；反方代表、經濟部次長賴建信認為，核電不是振興經濟的萬靈丹，呼籲應回歸法治、相信科學並尊重專業。",
+    "title_en": "Abolition of non-nuclear homeland referendum: Scholars advocate nuclear energy as life-saving pill, Ministry of Economic Affairs emphasizes that it is not a panacea",
+    "summary_en": "(Central News Agency reporter Liang Jiarou, Taipei, Taiwan, 14th) The election conference held a press conference today on the \"Abolition of Non-Nuclear Homeland\" referendum. Chen Zhongshun, a representative of the positive side and an associate researcher at the Green Economy Research Center of the Chinese Academy of Economics, advocated that nuclear energy is Taiwan's current life-saving pill, which can ease the finances and stabilize electricity prices. Lai Jianxin, a representative of the negative side and Undersecretary of the Ministry of Economic Affairs, believes that nuclear power is not a panacea for revitalizing the economy, calling for a return to the rule of law, belief in science and respect for professions."
+  },
+  {
+    "title": "很多人選錯？住飯店最好避開「這些樓層」 全球頂大揭恐怖隱憂",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5641074",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕出國旅遊住飯店，不少人喜歡選擇高樓層，認為不僅視野遼闊、隱私較佳，還能遠離街道噪音，沒想到住得越高，未必越安全！英國知名學府倫敦帝國理工學院（Imperial Colleg...…",
+    "published_at": "2026-11-14T22:14:59+08:00",
+    "stocks": [],
+    "uid": "3ba3c12ecce89df72edfca5b9fa9a0c5",
+    "title_zh": "很多人選錯？住飯店最好避開「這些樓層」 全球頂大揭恐怖隱憂",
+    "summary_zh": "〔財經頻道／綜合報導〕出國旅遊住飯店，不少人喜歡選擇高樓層，認為不僅視野遼闊、隱私較佳，還能遠離街道噪音，沒想到住得越高，未必越安全！英國知名學府倫敦帝國理工學院（Imperial Colleg...…",
+    "title_en": "Many people made the wrong choice? It’s best to avoid “these floors” when staying in a hotel. The world’s top horror stories revealed",
+    "summary_en": "[Financial Channel/Comprehensive Report] When traveling abroad to stay in a hotel, many people like to choose high floors, thinking that they not only have a wider view and better privacy, but also can stay away from street noise. Unexpectedly, the higher you live, the safer you are! Imperial College London, a well-known British university..."
+  },
+  {
+    "title": "今彩539第115276期　頭獎1注中獎",
+    "url": "https://money.udn.com/money/story/122328/9879117",
+    "source": "經濟日報總經",
+    "summary": "今彩539第115276期開獎，中獎號碼03、06、20、30、32；派彩結果，頭獎1注中獎，每注獎金新台幣800萬元",
+    "published_at": "2026-11-14T22:12:39+08:00",
+    "stocks": [],
+    "uid": "6db9778356e319545a0443a8a659bd5e",
+    "title_zh": "今彩539第115276期　頭獎1注中獎",
+    "summary_zh": "今彩539第115276期開獎，中獎號碼03、06、20、30、32；派彩結果，頭獎1注中獎，每注獎金新台幣800萬元",
+    "title_en": "Jincai 539 No. 115276 First Prize 1 Note Won",
+    "summary_en": "The 115276th lottery draw of Jincai 539, the winning numbers are 03, 06, 20, 30, 32; the result of the lottery is that the first prize is won by 1 bet, with each bet receiving a bonus of NT$8 million."
+  },
+  {
+    "title": "今彩539第115276期　頭獎1注中獎",
+    "url": "https://www.cna.com.tw/news/ahel/202611140222.aspx",
+    "source": "中央社",
+    "summary": "（中央社台北14日電）今彩539第115276期開獎，中獎號碼03、06、20、30、32；派彩結果，頭獎1注中獎，每注獎金新台幣800萬元。",
+    "published_at": "2026-11-14T22:06:32+08:00",
+    "stocks": [],
+    "uid": "0b6686be85799d028985b4655a4d77f9",
+    "title_zh": "今彩539第115276期　頭獎1注中獎",
+    "summary_zh": "（中央社台北14日電）今彩539第115276期開獎，中獎號碼03、06、20、30、32；派彩結果，頭獎1注中獎，每注獎金新台幣800萬元。",
+    "title_en": "Jincai 539 No. 115276 First Prize 1 Note Won",
+    "summary_en": "(Central News Agency, Taipei, 14th) The 115276th Lottery draw of Jincai 539, the winning numbers are 03, 06, 20, 30, and 32; the result is that the first prize is won by 1 bet, with a bonus of NT$8 million per bet."
+  },
+  {
+    "title": "沒有黃仁勳的輝達 還是輝達嗎？4.3兆美元獨特公司治理模式誰能掌舵",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5640983",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕黃仁勳辭去輝達執行長後，目前由輝達財務長科萊特·克瑞斯（Colette Kress）暫代職務，黃仁勳的婚外情和間諜情人風波也揭露了輝達的治理真空，媒體報導安謀（Arm）執行...…",
+    "published_at": "2026-11-14T21:56:46+08:00",
+    "stocks": [],
+    "uid": "fea31fba85ca94ba81b1647a8b23b0c6",
+    "title_zh": "沒有黃仁勳的輝達 還是輝達嗎？4.3兆美元獨特公司治理模式誰能掌舵",
+    "summary_zh": "〔財經頻道／綜合報導〕黃仁勳辭去輝達執行長後，目前由輝達財務長科萊特·克瑞斯（Colette Kress）暫代職務，黃仁勳的婚外情和間諜情人風波也揭露了輝達的治理真空，媒體報導安謀（Arm）執行...…",
+    "title_en": "Is Huida still Huida without Huang Renxun? Who can take the helm of the unique corporate governance model of US$4.3 trillion?",
+    "summary_en": "[Financial Channel/Comprehensive Report] After Huang Renxun resigned as CEO of Huida, Colette Kress, Huida’s chief financial officer, is currently taking over the position temporarily. Huang Renxun’s extramarital affair and spy lover scandal also exposed Huida’s governance vacuum. The media reported that Arm executed..."
+  },
+  {
+    "title": "阿北擁400萬以為晚年穩了  房子一修噴掉170萬嚇到失眠",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5641058",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕不少人認為，退休前只要存夠一筆養老金、還清房貸，晚年就能安心享受生活，現實恐怕沒那麼簡單！日本一名67歲男子，退休時不僅已經還清房貸，銀行還有約2000萬日圓（約台幣406...…",
+    "published_at": "2026-11-14T21:36:57+08:00",
+    "stocks": [],
+    "uid": "b4d3d59773e5442889a8bfc4f4ddb675",
+    "title_zh": "阿北擁400萬以為晚年穩了  房子一修噴掉170萬嚇到失眠",
+    "summary_zh": "〔財經頻道／綜合報導〕不少人認為，退休前只要存夠一筆養老金、還清房貸，晚年就能安心享受生活，現實恐怕沒那麼簡單！日本一名67歲男子，退休時不僅已經還清房貸，銀行還有約2000萬日圓（約台幣406...…",
+    "title_en": "Ah Bei had 4 million and thought he would be stable in his later years. He spent 1.7 million on a house renovation and was so scared that he had insomnia.",
+    "summary_en": "[Financial Channel/Comprehensive Report] Many people believe that as long as they save enough for a pension and pay off their mortgage before retirement, they can enjoy life with peace of mind in their later years. The reality may not be that simple! A 67-year-old man in Japan not only paid off his mortgage when he retired, but also had about 20 million yen (about NT$406) in the bank..."
+  },
+  {
+    "title": "台積電壓倒性市佔率難以撼動 日本打出2奈米便宜三成卻還沒做出來 技術真相曝光",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5641043",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕日本晶片國家隊Rapidus承諾生產更便宜的2奈米晶片，但它仍需證明自己能夠製造這些晶片才行。外媒The Motley Fool報導，對於設計複雜晶片的客戶而言，擁有一家久...…",
+    "published_at": "2026-11-14T21:05:12+08:00",
+    "stocks": [],
+    "uid": "83fbbddbb4f2f2f93ef8beaac7ab13e7",
+    "title_zh": "台積電壓倒性市佔率難以撼動 日本打出2奈米便宜三成卻還沒做出來 技術真相曝光",
+    "summary_zh": "〔財經頻道／綜合報導〕日本晶片國家隊Rapidus承諾生產更便宜的2奈米晶片，但它仍需證明自己能夠製造這些晶片才行。外媒The Motley Fool報導，對於設計複雜晶片的客戶而言，擁有一家久...…",
+    "title_en": "TSMC’s overwhelming market share is hard to shake. Japan’s 2nm technology is 30% cheaper but has not yet been produced. The truth about the technology is exposed.",
+    "summary_en": "[Financial Channel/Comprehensive Report] Japan’s national chip team Rapidus has promised to produce cheaper 2nm chips, but it still needs to prove that it can make these chips. Foreign media The Motley Fool reported that for customers who design complex chips, having a long-term..."
+  },
+  {
+    "title": "台裔候任聯邦眾議員潘君達：須確保台海和平　美仍是現狀保障者",
+    "url": "https://money.udn.com/money/story/7307/9879064",
+    "source": "經濟日報總經",
+    "summary": "台裔民主黨籍政治人物潘君達在美國期中選舉勝出，將成為新科加州聯邦眾議員。他表示，美國數十年來的對台政策承認台灣自決權，維...",
+    "published_at": "2026-11-14T21:00:40+08:00",
+    "stocks": [],
+    "uid": "864a1c76e036e10d766fa1ce975845fe",
+    "title_zh": "台裔候任聯邦眾議員潘君達：須確保台海和平　美仍是現狀保障者",
+    "summary_zh": "台裔民主黨籍政治人物潘君達在美國期中選舉勝出，將成為新科加州聯邦眾議員。他表示，美國數十年來的對台政策承認台灣自決權，維...",
+    "title_en": "Taiwanese-American Congressman-elect Pan Junta: Peace across the Taiwan Strait must be ensured. The United States is still the guarantor of the status quo.",
+    "summary_en": "Pan Junta, a Taiwanese-American Democratic politician, won the U.S. midterm election and will become the new California House of Representatives. He said that the United States' Taiwan policy for decades has recognized Taiwan's right to self-determination and maintained..."
+  },
+  {
+    "title": "今彩539第115276期開獎",
+    "url": "https://money.udn.com/money/story/122328/9879059",
+    "source": "經濟日報總經",
+    "summary": "今彩539第115276期開獎，中獎號碼03、06、20、30、32。3星彩中獎號碼272，4星彩中獎號碼0326",
+    "published_at": "2026-11-14T20:54:20+08:00",
+    "stocks": [],
+    "uid": "f0dd1b81de540ddb89017b0a904e313e",
+    "title_zh": "今彩539第115276期開獎",
+    "summary_zh": "今彩539第115276期開獎，中獎號碼03、06、20、30、32。3星彩中獎號碼272，4星彩中獎號碼0326",
+    "title_en": "Jincai 539 No. 115276 lottery draw",
+    "summary_en": "The 115276th lottery draw of Jincai 539, the winning numbers are 03, 06, 20, 30, 32. The winning number of 3-star lottery is 272, and the winning number of 4-star lottery is 0326"
+  },
+  {
+    "title": "今彩539第115276期開獎",
+    "url": "https://www.cna.com.tw/news/ahel/202611140210.aspx",
+    "source": "中央社",
+    "summary": "（中央社台北14日電）今彩539第115276期開獎，中獎號碼03、06、20、30、32。3星彩中獎號碼272，4星彩中獎號碼0326。",
+    "published_at": "2026-11-14T20:44:03+08:00",
+    "stocks": [],
+    "uid": "6b6df0b0fa58199f2ca5bd28a7850ed3",
+    "title_zh": "今彩539第115276期開獎",
+    "summary_zh": "（中央社台北14日電）今彩539第115276期開獎，中獎號碼03、06、20、30、32。3星彩中獎號碼272，4星彩中獎號碼0326。",
+    "title_en": "Jincai 539 No. 115276 lottery draw",
+    "summary_en": "(Central News Agency, Taipei, 14th) The 115276th Lottery draw of Today Lottery 539, the winning numbers are 03, 06, 20, 30, 32. The winning number for the 3-star lottery is 272, and the winning number for the 4-star lottery is 0326."
+  },
+  {
+    "title": "亞太自由婦女協會成立6週年　賴總統賀電肯定推動性平",
+    "url": "https://money.udn.com/money/story/7307/9879050",
+    "source": "經濟日報總經",
+    "summary": "亞太自由婦女協會今天舉行成立6週年感恩餐會暨第5屆亞太學生領袖獎頒獎典禮，總統賴清德、副總統蕭美琴分別致賀電。賴總統期盼...",
+    "published_at": "2026-11-14T20:36:23+08:00",
+    "stocks": [],
+    "uid": "90f2f808915877f80aa2f957a95ccf9e",
+    "title_zh": "亞太自由婦女協會成立6週年　賴總統賀電肯定推動性平",
+    "summary_zh": "亞太自由婦女協會今天舉行成立6週年感恩餐會暨第5屆亞太學生領袖獎頒獎典禮，總統賴清德、副總統蕭美琴分別致賀電。賴總統期盼...",
+    "title_en": "On the 6th anniversary of the founding of the Asia-Pacific Free Women's Association, President Lai's congratulatory message affirmed the promotion of gender equality",
+    "summary_en": "Today, the Asia-Pacific Free Women's Association held a thanksgiving dinner for its 6th anniversary and the 5th Asia-Pacific Student Leadership Award Ceremony. President Lai Qingde and Vice President Xiao Meiqin sent congratulatory messages respectively. President Lai hopes..."
+  },
+  {
+    "title": "黃仁勳下台引爆人才出走潮？分析師爆輝達工程師成挖角目標",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5641005",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕輝達執行長黃仁勳捲入婚外情及國安疑慮等爭議，閃辭執行長、總裁及董事職，如今，輝達恐再面臨人才流失危機。投資研究機構Citrini Research分析師Jukan引述業界人...…",
+    "published_at": "2026-11-14T20:34:36+08:00",
+    "stocks": [],
+    "uid": "055049169e27f775ee5a62e5d310f7c0",
+    "title_zh": "黃仁勳下台引爆人才出走潮？分析師爆輝達工程師成挖角目標",
+    "summary_zh": "〔財經頻道／綜合報導〕輝達執行長黃仁勳捲入婚外情及國安疑慮等爭議，閃辭執行長、總裁及董事職，如今，輝達恐再面臨人才流失危機。投資研究機構Citrini Research分析師Jukan引述業界人...…",
+    "title_en": "Huang Renxun's resignation triggered a talent exodus? Analysts blast Huida engineers as poaching targets",
+    "summary_en": "[Financial Channel/Comprehensive Report] Huida CEO Huang Renxun was involved in controversies such as extramarital affairs and national security concerns, and resigned as CEO, president and director. Now, Huida may face another brain drain crisis. Jukan, an analyst at Citrini Research, an investment research institution, quoted industry insiders..."
+  },
+  {
+    "title": "AI牛市將延續！大摩：黃仁勳辭職和政治變數 難撼資本支出動能",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5640989",
+    "source": "自由財經",
+    "summary": "《彭博》報導，摩根士丹利（大摩）表示，黃仁勳辭去輝達（Nvidia）執行長後導致的領導層動盪，以及主張放緩資料中心興建速度的民主黨在美國期中大選狂勝，引發市場對人工智慧（...…",
+    "published_at": "2026-11-14T20:04:32+08:00",
+    "stocks": [],
+    "uid": "54d7f1eab6479102ba8ab4054b6515a4",
+    "title_zh": "AI牛市將延續！大摩：黃仁勳辭職和政治變數 難撼資本支出動能",
+    "summary_zh": "《彭博》報導，摩根士丹利（大摩）表示，黃仁勳辭去輝達（Nvidia）執行長後導致的領導層動盪，以及主張放緩資料中心興建速度的民主黨在美國期中大選狂勝，引發市場對人工智慧（...…",
+    "title_en": "The AI ​​bull market will continue! Morgan Stanley: Huang Renxun’s resignation and political changes make it difficult to shake the momentum of capital expenditures",
+    "summary_en": "\"Bloomberg\" reported that Morgan Stanley said that the leadership turmoil caused by Huang Renxun's resignation as CEO of Nvidia, as well as the Democratic Party's victory in the U.S. midterm election that advocated slowing down the construction of data centers, triggered the market's interest in artificial intelligence (..."
+  },
+  {
+    "title": "沒有黃仁勳的法說會17日登場  輝達恐難逃7大拷問",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5640965",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕輝達將於美東時間17日美股盤後（約台北時間18日清晨）公布2027會計年度第3季財報，隨著創辦人黃仁勳閃電，涉及中國的國安疑雲與晶片出口管制爭議持續延燒，市場關注焦點已不只...…",
+    "published_at": "2026-11-14T19:46:33+08:00",
+    "stocks": [],
+    "uid": "d55191b168242119c7286e2a48d41deb",
+    "title_zh": "沒有黃仁勳的法說會17日登場  輝達恐難逃7大拷問",
+    "summary_zh": "〔財經頻道／綜合報導〕輝達將於美東時間17日美股盤後（約台北時間18日清晨）公布2027會計年度第3季財報，隨著創辦人黃仁勳閃電，涉及中國的國安疑雲與晶片出口管制爭議持續延燒，市場關注焦點已不只...…",
+    "title_en": "Without Huang Renxun, the Dharma teaching conference will be held on the 17th. Huida may not be able to escape 7 major tortures.",
+    "summary_en": "[Financial Channel/Comprehensive Report] Huida will announce its third quarter financial report for fiscal year 2027 after the U.S. stock market closes on the 17th Eastern Time (approximately early morning on the 18th Taipei time). As founder Huang Renxun flashes, national security suspicions involving China and chip export control controversies continue to spread, and the market focus is not only..."
+  },
+  {
+    "title": "藍營三子齊聚北市力挺　蔣萬安：我可讓所有市民安心",
+    "url": "https://money.udn.com/money/story/7307/9879001",
+    "source": "經濟日報總經",
+    "summary": "爭取連任的台北市長蔣萬安今天舉辦安心大遊行，包含新北市長侯友宜、台中市長盧秀燕、立法院長韓國瑜都現身力挺。蔣萬安表示，今...",
+    "published_at": "2026-11-14T19:36:41+08:00",
+    "stocks": [],
+    "uid": "1dd2f377c6f40566b93d46bdea4be352",
+    "title_zh": "藍營三子齊聚北市力挺　蔣萬安：我可讓所有市民安心",
+    "summary_zh": "爭取連任的台北市長蔣萬安今天舉辦安心大遊行，包含新北市長侯友宜、台中市長盧秀燕、立法院長韓國瑜都現身力挺。蔣萬安表示，今...",
+    "title_en": "The three sons of Lanying gathered in Beishi to support Jiang Wanan: I can make all citizens feel at ease",
+    "summary_en": "Taipei Mayor Chiang Wanan, who is seeking re-election, held a peace of mind parade today. New Taipei City Mayor Hou Youyi, Taichung Mayor Lu Xiuyan, and Legislative Yuan Han Guoyu all showed up to support. Jiang Wanan said that today..."
+  },
+  {
+    "title": "蔡英文、卓榮泰苗栗助選　挺陳品安拚首位女縣長",
+    "url": "https://money.udn.com/money/story/7307/9879000",
+    "source": "經濟日報總經",
+    "summary": "民進黨苗栗縣長參選人陳品安今天在苑裡鎮造勢，前總統蔡英文、行政院長卓榮泰站台。蔡英文籲支持陳品安成為苗栗首位女縣長；卓榮...",
+    "published_at": "2026-11-14T19:36:26+08:00",
+    "stocks": [],
+    "uid": "42be44d16c29c87aee485694845a627e",
+    "title_zh": "蔡英文、卓榮泰苗栗助選　挺陳品安拚首位女縣長",
+    "summary_zh": "民進黨苗栗縣長參選人陳品安今天在苑裡鎮造勢，前總統蔡英文、行政院長卓榮泰站台。蔡英文籲支持陳品安成為苗栗首位女縣長；卓榮...",
+    "title_en": "Tsai Ing-wen, Zhuo Rongtai support Miaoli election and support Chen Pin'an to become the first female county magistrate",
+    "summary_en": "Chen Pin'an, candidate for Miaoli County Mayor of the Democratic Progressive Party, was campaigning in Yuanli Town today, with former President Tsai Ing-wen and Executive Yuan Zhuo Rongtai taking the stage. Tsai Ing-wen calls for support for Chen Pinan to become the first female county magistrate of Miaoli; Zhuo Rong..."
+  },
+  {
+    "title": "蕭副總統與周春米「喵鵝連線」　盼溫暖堅定續照屏東",
+    "url": "https://money.udn.com/money/story/7307/9878990",
+    "source": "經濟日報總經",
+    "summary": "副總統蕭美琴力挺爭取連任的屏東縣長周春米，今天出席「喵鵝連線」造勢，蕭副總統表示，周春米拚經濟、拚建設、拚產業，更用溫暖...",
+    "published_at": "2026-11-14T19:21:44+08:00",
+    "stocks": [],
+    "uid": "4f30601c4f6f7b110dc20bd46236b7a7",
+    "title_zh": "蕭副總統與周春米「喵鵝連線」　盼溫暖堅定續照屏東",
+    "summary_zh": "副總統蕭美琴力挺爭取連任的屏東縣長周春米，今天出席「喵鵝連線」造勢，蕭副總統表示，周春米拚經濟、拚建設、拚產業，更用溫暖...",
+    "title_en": "Vice President Xiao and Zhou Chunmi \"Meow Goose Connection\", looking forward to the warmth and determination to continue to take photos in Pingtung",
+    "summary_en": "Vice President Xiao Meiqin supports Pingtung County Magistrate Zhou Chunmi, who is seeking re-election, and attended the \"Meow Goose Connection\" today to promote. Vice President Xiao said that Zhou Chunmi fights for the economy, construction, and industry, and even more..."
+  },
+  {
+    "title": "氣象署發布豪雨特報 高雄屏東有局部大雨機率",
+    "url": "https://money.udn.com/money/story/122328/9878988",
+    "source": "經濟日報總經",
+    "summary": "中央氣象署發布豪雨特報，鋒面通過，易有短延時強降雨，今日高雄市有局部大雨或豪雨，屏東地區有局部大雨發生的機率，請注意雷擊...",
+    "published_at": "2026-11-14T19:21:19+08:00",
+    "stocks": [],
+    "uid": "ad7067c279704f218fd298d42fe3066d"
+  },
+  {
+    "title": "油價連九凍！中油下周汽、柴油價格維持不調整",
+    "url": "https://money.udn.com/money/story/7307/9878884",
+    "source": "經濟日報總經",
+    "summary": "中油油價連九凍。中油今（14）日日宣布，自下周一（16日）凌晨零時起至11月22日晚上12時止，汽、柴油價格維持不調整，分別為92無鉛汽油每公升31.2元、95無鉛汽油每公升32.7元、98無鉛汽油每公升34.7元、超級柴油每公升29.9元。",
+    "published_at": "2026-11-14T18:48:51+08:00",
+    "stocks": [],
+    "uid": "648c5ceda26fc22795d496f4d516f996"
+  },
+  {
+    "title": "軍公教年終獎金明年1月27日發放 考績獎金加碼還要再等等",
+    "url": "https://money.udn.com/money/story/7307/9878876",
+    "source": "經濟日報總經",
+    "summary": "行政院人事總處公布，軍公教人員年終工作獎金將於明年1月27日發放。軍公教年終工作獎金原則上為1.5個月薪俸，另外依照考績，可再獲得0.5至1個月的考績獎金。",
+    "published_at": "2026-11-14T18:47:26+08:00",
+    "stocks": [],
+    "uid": "117b6660f648b434e8629933ca686b0c"
+  },
+  {
+    "title": "輝達財務長暫代執行長　美媒：黃仁勳曾斥只會彙報數字",
+    "url": "https://www.cna.com.tw/news/aopl/202611140189.aspx",
+    "source": "中央社",
+    "summary": "（中央社舊金山14日綜合外電報導）美國媒體指出，輝達前執行長黃仁勳還在任時，曾在會議中痛批如今接替他出任臨時執行長的財務長克瑞斯。據報，他當時說克瑞斯是個「只會彙報財務數字的財務長」，無法協助他制定策略或做出決策。",
+    "published_at": "2026-11-14T18:42:14+08:00",
+    "stocks": [],
+    "uid": "5e106a447d833d61920ce7a75b877f6c"
+  },
+  {
+    "title": "黃仁勳離職損失僅占身家0.07％ 手握4.43兆元「最大金庫」",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5640800",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕根據彭博報導，輝達創辦人黃仁勳離開這家晶片巨頭可能會讓他損失近1.08億美元（台幣35億元）的股票獎勵，雖然這筆金額聽起來數量龐大，但這只是他33年來在公司累積的巨額財富的...…",
+    "published_at": "2026-11-14T18:39:22+08:00",
+    "stocks": [],
+    "uid": "b0044cae6751ec09b3a04db973591094"
+  },
+  {
+    "title": "鄭麗文：國民黨支持者趨於隱性 應勇敢站出來投票",
+    "url": "https://money.udn.com/money/story/7307/9878955",
+    "source": "經濟日報總經",
+    "summary": "中國國民黨主席鄭麗文今天在台南市表示，今年選舉特別冷，國民黨支持者趨於隱性不表態，她鼓勵大家勇敢站出來投票，把命運掌握在...",
+    "published_at": "2026-11-14T18:30:53+08:00",
+    "stocks": [],
+    "uid": "fce0fb506548f69a2604e7cf753e41fb"
+  },
+  {
+    "title": "市場觀察：輝達「中國推銷員」謝幕 中國科技股承壓",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5640875",
+    "source": "自由財經",
+    "summary": "華爾街日報引述財經媒體「市場觀察」（MarketWatch）指出，輝達（Nvidia）前執行長黃仁勳曾是推動向中國企業銷售晶片的「重要發聲者」，如今投資者正為美方推出更嚴厲的限制措施做...…",
+    "published_at": "2026-11-14T18:30:11+08:00",
+    "stocks": [],
+    "uid": "e98a34049e29c6aa7a97796a9e2d08b2"
+  },
+  {
+    "title": "老黃頻來台、黃樂今年零入境  早察覺風向不對？",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5640837",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕輝達創辦人黃仁勳捲入婚外情與國安風暴，與中國籍商人黃樂的關係備受關注，兩人過去曾多次公開同框，黃仁勳今年來台3次，其中5月提前抵台，為參加GTC及COMPUTEX等活動，一...…",
+    "published_at": "2026-11-14T18:25:34+08:00",
+    "stocks": [],
+    "uid": "3ba089ffdd5c208c16f031d596cee1e0"
+  },
+  {
+    "title": "企業投資看重安全穩定　泰國副總理：須提升人才技能",
+    "url": "https://www.cna.com.tw/news/aopl/202611140180.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者李宗憲曼谷14日專電）全球供應鏈重組，企業投資選址逐漸從成本與效率，轉向安全及穩定。泰國副總理兼財政部長艾尼提今天表示，泰國第3季實際投資額年增28%，達2600億泰銖；政府將透過人才培育、供應鏈在地化及產業升級，讓外資投資進一步轉化為泰國經濟發展成果。",
+    "published_at": "2026-11-14T18:13:54+08:00",
+    "stocks": [],
+    "uid": "d5630296a05f087f25d81683cdd46c3c"
+  },
+  {
+    "title": "中油：平穩物價 照顧民生 下周汽、柴油價格維持不調整",
+    "url": "https://money.udn.com/money/story/7307/9878914",
+    "source": "經濟日報總經",
+    "summary": "中油公司14日宣布，自16日凌晨零時起，至11月22日晚上12時止，汽、柴油價格維持不調整，分別為92無鉛汽油每公升31.2元、95無鉛汽油每公升32.7元、98無鉛汽油每公升34.7元、超級柴油每公升29.9元。",
+    "published_at": "2026-11-14T17:55:21+08:00",
+    "stocks": [],
+    "uid": "66894923f9c245f50ca72f9a0f544005"
+  },
+  {
+    "title": "賴總統雲林挺劉建國　批張家「整碗捧去」籲還政於民",
+    "url": "https://money.udn.com/money/story/7307/9878911",
+    "source": "經濟日報總經",
+    "summary": "兼任民主進步黨主席的總統賴清德今天為雲林縣長參選人劉建國站台，賴清德批評對手「張家」長期壟斷雲林縣政以及農、漁會、水利會...",
+    "published_at": "2026-11-14T17:54:35+08:00",
+    "stocks": [],
+    "uid": "e1f5f35c19d0f4c4f2b410cf0d142aa5"
+  },
+  {
+    "title": "13歲仍不能用智慧型手機！喬治王子也不例外 英國王室揭「1關鍵」",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5640853",
+    "source": "自由財經",
+    "summary": "孩子沉迷手機、過度依賴社群媒體，甚至影響學習動力，是現代許多家長擔憂的問題。儘管近年各大社群平台陸續推出青少年保護措施，包括限制使用時間、強化隱私設定及過濾不適齡內容，但...…",
+    "published_at": "2026-11-14T17:54:32+08:00",
+    "stocks": [],
+    "uid": "e63103394d49d9e0d208f9a3a4df6efd"
+  },
+  {
+    "title": "日系品牌光環褪色？他點破「1盲點」成功突圍  獲國際私募巨頭青睞",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5640847",
+    "source": "自由財經",
+    "summary": "「日本品牌在國際市場上的位置，近年似乎逐漸受到挑戰。」日本新世代生活美妝品牌AHRES創辦人暨執行長相田和彥（Aida Kazuhiko）觀察，過去日本品牌憑藉優異品質，...…",
+    "published_at": "2026-11-14T17:51:02+08:00",
+    "stocks": [],
+    "uid": "8350f4c839ddcabf62e3c92ec7998cd2"
+  },
+  {
+    "title": "賣香水還不夠？Jo Malone London玩尋寶遊戲 吸客走進實體店",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5640845",
+    "source": "自由財經",
+    "summary": "年底耶誕送禮商機開打，香氛品牌不再只靠限定商品吸引消費者，連逛街買香水也能變成一場尋寶遊戲。英國香氛品牌Jo Malone London今年將耶誕快閃店打造成充滿驚喜的「...…",
+    "published_at": "2026-11-14T17:44:09+08:00",
+    "stocks": [],
+    "uid": "f0596e6ed3c89574195c1d3460dd111d"
+  },
+  {
+    "title": "從高齡到超高齡社會只花七年 台灣2045年老人占比超車日本",
+    "url": "https://money.udn.com/money/story/10869/9878892",
+    "source": "經濟日報總經",
+    "summary": "台灣目前並非主要國家中人口最老，但高齡化速度持續加快，從高齡社會跨入老年人口占比兩成的超高齡社會，僅花七年，預估未來20至30年間，還有多項人口指標排名將翻轉。據國發會最新人口推估顯示，今年台灣65歲以上人口占比預估20.9%，仍低於日本、義大利、德國及法國，但2045年將升至37%，超越日本36.3%，自2047年起更將高於所有主要比較國家。",
+    "published_at": "2026-11-14T17:35:17+08:00",
+    "stocks": [],
+    "uid": "8bc12a2494522e31752d5c620179e7bf"
+  },
+  {
+    "title": "中華電FunPark童書獎　培育台灣創作新秀",
+    "url": "https://money.udn.com/money/story/5612/9878890",
+    "source": "經濟日報股市",
+    "summary": "中華電信與子公司智趣王主辦的「2026 FunPark童書星創獎」自2013年創辦以來，今年參賽作品數量創歷年新高，中華...",
+    "published_at": "2026-11-14T17:30:40+08:00",
+    "stocks": [],
+    "uid": "a14f443519355c7c5d020b01132060eb"
+  },
+  {
+    "title": "鋒面通過西半部防較大雨勢　下週2波東北季風低溫探15度",
+    "url": "https://money.udn.com/money/story/5648/9878889",
+    "source": "經濟日報總經",
+    "summary": "氣象署表示，今晚至明天鋒面通過，西半部留意局部較大雨勢，明天、16日東北季風影響，18日有另一波更強東北季風，迎風面有雨...",
+    "published_at": "2026-11-14T17:30:20+08:00",
+    "stocks": [],
+    "uid": "86f93de162b4293655a5be64ed62bb1a"
+  },
+  {
+    "title": "人口紅利急退 30年後台灣青壯年占比墊底",
+    "url": "https://money.udn.com/money/story/10869/9878885",
+    "source": "經濟日報總經",
+    "summary": "長期低生育率及育齡婦女人口持續萎縮，台灣人口紅利正快速消退。國發會最新人口推估顯示，今年台灣15至64歲工作年齡（青壯年）人口占總人口67.9%，在主要比較國家中僅次於韓國68.8%；但預估自2056年起將低於所有主要比較國家，2057年更進一步跌破五成。",
+    "published_at": "2026-11-14T17:24:05+08:00",
+    "stocks": [],
+    "uid": "fa3fcb86127c24cbc1cc480877c08ebd"
+  },
+  {
+    "title": "中油：16日起汽柴油價格維持不調整",
+    "url": "https://money.udn.com/money/story/7307/9878882",
+    "source": "經濟日報總經",
+    "summary": "台灣中油公司今天表示，自16日凌晨零時起至11月22日晚上12時止，汽、柴油價格維持不調整；自2月28日至11月15日執...",
+    "published_at": "2026-11-14T17:22:04+08:00",
+    "stocks": [],
+    "uid": "9da102739f5ed37ff5abb8af154dee89"
+  },
+  {
+    "title": "中華電FunPark童書獎　培育台灣創作新秀",
+    "url": "https://www.cna.com.tw/news/afe/202611140165.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者江明晏台北14日電）中華電信與子公司智趣王主辦的「2026 FunPark童書星創獎」自2013年創辦以來，今年參賽作品數量創歷年新高，中華電信董事長簡志誠表示，將持續串聯教育、科技與產業資源，深化數位平權與原創人才培育，為台灣數位內容產業注入新動能。",
+    "published_at": "2026-11-14T17:17:19+08:00",
+    "stocks": [],
+    "uid": "c535dfe7551ac6a55872ebd4a906e035"
+  },
+  {
+    "title": "國內油價連9凍！中油吸收金額達353.6億元",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5640824",
+    "source": "自由財經",
+    "summary": "油價連9凍！中油今（14）日宣布，自下週一（16日）起，汽、柴油價格仍維持不調整，分別為92無鉛汽油每公升31.2元、95無鉛汽油每公升32.7元、98無鉛汽油每公升34...…",
+    "published_at": "2026-11-14T17:17:11+08:00",
+    "stocks": [],
+    "uid": "4afaa98ef5de8ecefd6e915370d489a1"
+  },
+  {
+    "title": "中油：16日起汽柴油價格維持不調整",
+    "url": "https://www.cna.com.tw/news/ahel/202611140163.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者呂晏慈台北14日電）台灣中油公司今天表示，自16日凌晨零時起至11月22日晚上12時止，汽、柴油價格維持不調整；自2月28日至11月15日執行專案平穩各項措施期間，汽、柴油合計擴大吸收約新台幣353.6億元。",
+    "published_at": "2026-11-14T17:13:15+08:00",
+    "stocks": [],
+    "uid": "4df652a1e9bb42b77e936addab1ecbcd"
+  },
+  {
+    "title": "加油不急！下周油價不調整　95無鉛每公升32.7元",
+    "url": "https://finance.ettoday.net/news/3272245",
+    "source": "ETtoday",
+    "summary": "<img alt=\"加油不急！下周油價不調整　95無鉛每公升32.7元\" src=\"https://cdn2.ettoday.net/images/7069/c7069289.jpg\" /><br /> 台灣中油公司今（14日）宣布，自下周一（16日）凌晨零時起至11月22日晚上12時止，汽、柴油價格維持不調整，分別為92無鉛汽油每公升31.2元、95無鉛汽油每公升32.7元、98無鉛汽油每公升34.7元、超級柴油每公升29.9元。 <a href=\"https://finance.ettoday.net/news/3272245\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-11-14T17:08:00+08:00",
+    "stocks": [],
+    "uid": "977a647d074e004f34a1b86e30d4e59d"
+  },
+  {
+    "title": "減重手術對第二型糖尿病療效最佳，14 年追蹤緩解率達六成",
+    "url": "https://technews.tw/2026/11/14/could-type-2-diabetes-be-reversed-14-year-study-reveals-remarkable-results/",
+    "source": "科技新報",
+    "summary": "第二型糖尿病常被視為需終身控制的慢性病，但最長追蹤 14 年的大型研究發現，接受代謝減重手術的患者 58% 達 [&#8230;]",
+    "published_at": "2026-11-14T17:00:25+08:00",
+    "stocks": [],
+    "uid": "31c2bbcd3644f80f82d73e7ed4bdab19"
+  },
+  {
+    "title": "特斯拉前能源主管創立 Lunar Energy，以可堆疊電池與雙向充電器挑戰 Powerwall",
+    "url": "https://technews.tw/2026/11/14/the-biggest-threat-to-teslas-home-battery-business-is-its-ex-chief/",
+    "source": "科技新報",
+    "summary": "特斯拉（Tesla）2015 年推出首款 Powerwall 電池以來，長期稱霸家用儲能市場，但如同電動車事業 [&#8230;]",
+    "published_at": "2026-11-14T17:00:12+08:00",
+    "stocks": [],
+    "uid": "a2a4325c877efb1c9e5f0a1b41401b1b"
+  },
+  {
+    "title": "黃仁勳風暴燒向白宮？美商務部長家族公司與輝達關係曝光",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5640772",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕輝達執行長黃仁勳捲入中國間諜疑雲持續延燒，風暴更燒向美國政府高層！根據Axios報導，白宮及美國情報官員曾施壓商務部長盧特尼克，要求查處涉嫌將輝達先進AI晶片轉運中國的新加...…",
+    "published_at": "2026-11-14T16:51:05+08:00",
+    "stocks": [],
+    "uid": "a2e4034eea9b066ede90fd931c44b56a"
+  },
+  {
+    "title": "外媒揭黃仁勳「復出劇本」！矽谷大老急力挺、他想挖角 恐靠這招重返產業",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5640732",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕輝達（NVIDIA）創辦人黃仁勳因被爆不倫醜聞，捲入國安與公司治理風暴，並為此黯然請辭下台。然而，美媒報導，才辭職短短幾天，矽谷科技業已開始盤算如何讓這位AI教父東山再起，...…",
+    "published_at": "2026-11-14T16:47:04+08:00",
+    "stocks": [],
+    "uid": "9b11796dcae3ed0b6d45130a91573f5a"
+  },
+  {
+    "title": "微軟全球當機，傳真機、電話、藍牙成企業救命三寶",
+    "url": "https://technews.tw/2026/11/14/microsoft-365-fax-machine-phone-call-bluetooth/",
+    "source": "科技新報",
+    "summary": "你有想過在全世界積極擁抱雲端、生成式 AI 的現代，關鍵時刻竟然還得仰賴傳統技術—傳真機、電話與藍牙來維持日常 [&#8230;]",
+    "published_at": "2026-11-14T16:36:14+08:00",
+    "stocks": [],
+    "uid": "c596423efe4ed147ee939a6179f58905"
+  },
+  {
+    "title": "宛如 40 年前賈伯斯遭逼宮重演：黃仁勳深陷地緣政治風暴，輝達帝國面臨權力危機",
+    "url": "https://finance.technews.tw/2026/11/14/chinese-media-state-machinery-targets-jensen-huang-personal-conduct-political-persecution/",
+    "source": "科技新報",
+    "summary": "上次科技公司創辦人兼 CEO 遇上這等級的逼宮事件，還是 1985 年的蘋果，年僅 30 歲的賈伯斯在庫比蒂諾 [&#8230;]",
+    "published_at": "2026-11-14T16:30:56+08:00",
+    "stocks": [],
+    "uid": "bfcde71cb603b03bf238ddd594e169ba"
+  },
+  {
+    "title": "竣邦Q3純益年增近1倍EPS1.79元創新高 Q4迎旺季訂單需求佳",
+    "url": "https://news.cnyes.com/news/id/6662605",
+    "source": "鉅亨網",
+    "summary": "竣邦-KY第三季稅後純益年增99%、EPS 1.79元創新高；前三季EPS 4.59元，全年獲利看俏。&#10;公司稱訂單能見度優於去年，第四季旺季需求佳。&#10;明年展望樂觀，越南織染二廠與新客戶、新應用布局助攻成長。",
+    "published_at": "2026-11-14T16:28:29+08:00",
+    "stocks": [
+      "TWS:4442:STOCK"
+    ],
+    "uid": "4a550f1056291fc067f579e800552bb1"
+  },
+  {
+    "title": "深耕數位創作14年 中華電信FunPark童書星創獎今舉行總決賽",
+    "url": "https://money.udn.com/money/story/5612/9878805",
+    "source": "經濟日報股市",
+    "summary": "深耕數位創作領域，中華電信與子公司智趣王數位科技共同主辦的「2026 FunPark童書星創獎」今（14）日舉行總決賽暨頒獎典禮。中華電信董事長簡志誠表示，FunPark童書星創獎不僅鼓勵兒少發揮想像力，更透過數位平台、專業課程及出版合作，協助創作人才從競賽走向實際應用，未來也將持續串聯教育、科技與產業資源，深化數位平權與原創人才培育，為台灣數位內容產業注入新動能。",
+    "published_at": "2026-11-14T16:28:10+08:00",
+    "stocks": [],
+    "uid": "8fafbee2e526af3f5c0df2de5666b24e"
+  },
+  {
+    "title": "黃仁勳醜聞連環爆！輝達市值蒸發18.8兆  股價恐續跌",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5640755",
+    "source": "自由財經",
+    "summary": "美國人工智慧（AI）晶片大廠輝達（Nvidia）執行長黃仁勳，因遭踢爆與疑似中國女間諜、公司高管發生婚外情而辭職下台，導致輝達上週股價重挫13%，市值蒸發5730億美元（...…",
+    "published_at": "2026-11-14T16:25:50+08:00",
+    "stocks": [],
+    "uid": "fab4e5624f44e2b99dac675d617db08f"
+  },
+  {
+    "title": "房市急凍！房仲全聯會新舵手吳本源：跨足都更租賃「多元轉型」度寒冬",
+    "url": "https://money.udn.com/money/story/5612/9878786",
+    "source": "經濟日報股市",
+    "summary": "中華民國不動產仲介經紀商業同業公會全國聯合會第11屆理事長吳本源昨就職。面對近期房市買氣急凍、銀行排撥卡關等挑戰，衝擊買賣雙方的信心，他喊話同業積極跨足老屋修繕、都更與租賃服務等「多元轉型」度寒冬。他也建議，有剛性需求的購屋族不妨多看屋，並可靈活調整總價帶「往三房」布局。",
+    "published_at": "2026-11-14T16:09:52+08:00",
+    "stocks": [],
+    "uid": "610fd9243f9514ec803ce9a1f633b9ba"
+  },
+  {
     "title": "中研院南部院區開放日登場 逾75場活動 揭量子科技奧秘",
     "url": "https://money.udn.com/money/story/7307/9878782",
     "source": "經濟日報總經",
@@ -234,6 +860,15 @@
     "summary_en": "After Nvidia founder Huang Jensen resigned as CEO due to a personal relationship dispute, the board of directors is actively looking for a successor. Now it is reported that it has contacted Arm to executive […]"
   },
   {
+    "title": "連7季營收改寫新高！「連接線束大廠」前三季EPS超越去年　 Q3大賺逾2個股本",
+    "url": "https://tw.stock.yahoo.com/news/%E9%80%A37%E5%AD%A3%E7%87%9F%E6%94%B6%E6%94%B9%E5%AF%AB%E6%96%B0%E9%AB%98-%E9%80%A3%E6%8E%A5%E7%B7%9A%E6%9D%9F%E5%A4%A7%E5%BB%A0-%E5%89%8D%E4%B8%89%E5%AD%A3eps%E8%B6%85%E8%B6%8A%E5%8E%BB%E5%B9%B4-q3%E5%A4%A7%E8%B3%BA%E9%80%BE2%E5%80%8B%E8%82%A1%E6%9C%AC-151500884.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]記者周雅琦／綜合報導受惠AI資料中心需求持續升溫，連接線束大廠貿聯-KY（3665）第3季稅後純益42.93億元，季增43.9%、年增63.2%，單季每股純益（...",
+    "published_at": "2026-11-14T15:15:00+08:00",
+    "stocks": [],
+    "uid": "265a622b6506fec0867d71cb39571b68"
+  },
+  {
     "title": "「和Jensen站在一起！」上萬輝達員工、股東連署要求黃仁勳回歸　馬斯克：我也簽了",
     "url": "https://www.mirrormedia.mg/story/20261114edi017",
     "source": "鏡週刊財經",
@@ -299,6 +934,15 @@
     "summary_en": "Artificial intelligence is pushing longevity research to a new stage. With the increasing integration of AI and biology, scientists can not only track the aging process of the human body more accurately, but also […]"
   },
   {
+    "title": "獲利大爆發！「這檔」Q3每股賺12.8元、前三季獲利年增121%　合作不受輝達異動影響高喊：明年再拚高峰",
+    "url": "https://tw.stock.yahoo.com/news/%E7%8D%B2%E5%88%A9%E5%A4%A7%E7%88%86%E7%99%BC-%E9%80%99%E6%AA%94-q3%E6%AF%8F%E8%82%A1%E8%B3%BA12-8%E5%85%83-%E5%89%8D%E4%B8%89%E5%AD%A3%E7%8D%B2%E5%88%A9%E5%B9%B4%E5%A2%9E121-150000160.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]記者邱梓欣／綜合報導台股本周（11／09～11／13）收在43,675.12點，較上週的39701.64點上漲3973.48點，重返4萬點大關，短短2周股市波動使投資人...",
+    "published_at": "2026-11-14T15:00:00+08:00",
+    "stocks": [],
+    "uid": "e354740a1b062de1e9da530c3cede910"
+  },
+  {
     "title": "台南推蘭代傳承交流會 傳產二代共創轉型生態圈",
     "url": "https://ec.ltn.com.tw/article/breakingnews/5640639",
     "source": "自由財經",
@@ -310,6 +954,26 @@
     "summary_zh": "為協助傳統製造業突破世代交替與轉型痛點，台南市府經發局積極推動「台南蘭代學院」，盛大舉辦「蘭代傳承交流會」，首度齊聚第一、二屆全體學員，落實「傳承、創新、共創」核心精神，...…",
     "title_en": "Tainan Tuilan Generation Inheritance Exchange Meeting The second generation of inheritance and inheritance jointly creates a transformation ecosystem",
     "summary_en": "In order to help the traditional manufacturing industry break through the pain points of generational change and transformation, the Tainan City Government Economic Development Bureau actively promoted the \"Tainan Landai College\" and held a grand \"Landai Heritage Exchange Meeting\", gathering all the first and second batch students for the first time to implement the core spirit of \"inheritance, innovation, and co-creation\"..."
+  },
+  {
+    "title": "滿載年營收可望達800億！日月光擴建路竹廠搶先進封裝產能　昨股價進逼600元大關",
+    "url": "https://tw.stock.yahoo.com/news/%E6%BB%BF%E8%BC%89%E5%B9%B4%E7%87%9F%E6%94%B6%E5%8F%AF%E6%9C%9B%E9%81%94800%E5%84%84-%E6%97%A5%E6%9C%88%E5%85%89%E6%93%B4%E5%BB%BA%E8%B7%AF%E7%AB%B9%E5%BB%A0%E6%90%B6%E5%85%88%E9%80%B2%E5%B0%81%E8%A3%9D%E7%94%A2%E8%83%BD-%E6%98%A8%E8%82%A1%E5%83%B9%E9%80%B2%E9%80%BC600%E5%85%83%E5%A4%A7%E9%97%9C-144500303.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]記者張書翰／綜合報導半導體封測龍頭日月光投控（3711）於昨（13）日於南科高雄園區舉行「日月光南科分公司路竹廠一期啟用暨二期動土典禮」，典...",
+    "published_at": "2026-11-14T14:45:00+08:00",
+    "stocks": [
+      "3711"
+    ],
+    "uid": "0e30ddb2ad8e3fb6b804c28a0e2f7118"
+  },
+  {
+    "title": "黃仁勳風暴引發AI版圖大洗牌！AMD、ASIC聯手搶單　13檔台廠商機來了",
+    "url": "https://tw.news.yahoo.com/%E9%BB%83%E4%BB%81%E5%8B%B3%E9%A2%A8%E6%9A%B4%E5%BC%95%E7%99%BCai%E7%89%88%E5%9C%96%E5%A4%A7%E6%B4%97%E7%89%8C-amd-asic%E8%81%AF%E6%89%8B%E6%90%B6%E5%96%AE-13%E6%AA%94%E5%8F%B0%E5%BB%A0%E5%95%86%E6%A9%9F%E4%BE%86%E4%BA%86-144208845.html",
+    "source": "Yahoo股市",
+    "summary": "隨著NVIDIA傳出高層異動，市場開始關注其長期建立的CUDA軟硬體生態系是否受到影響，也讓超微（AMD）及特殊應用晶片（ASIC）陣營迎來擴大市占的機會。法人指出，NVIDIA短期營運雖不至於受到明顯衝擊，但接班團隊的執行力及生態系競爭優勢仍存在不確定性，AI晶片市場版圖可能因此出現變化。",
+    "published_at": "2026-11-14T14:42:08+08:00",
+    "stocks": [],
+    "uid": "d478cacf06950c005358de2023a3959b"
   },
   {
     "title": "國道通行費13年未調　高公局擬年底提收費基準評估報告",
@@ -398,6 +1062,15 @@
     "uid": "2e5ba9b46efbdaf5c4c6ebbaafff8583"
   },
   {
+    "title": "廢除非核家園公投　學者主張核能救命丸、經部強調非萬靈丹",
+    "url": "https://tw.news.yahoo.com/%E5%BB%A2%E9%99%A4%E9%9D%9E%E6%A0%B8%E5%AE%B6%E5%9C%92%E5%85%AC%E6%8A%95-%E5%AD%B8%E8%80%85%E4%B8%BB%E5%BC%B5%E6%A0%B8%E8%83%BD%E6%95%91%E5%91%BD%E4%B8%B8-%E7%B6%93%E9%83%A8%E5%BC%B7%E8%AA%BF%E9%9D%9E%E8%90%AC%E9%9D%88%E4%B8%B9-141535851.html",
+    "source": "Yahoo股市",
+    "summary": "（中央社記者梁家柔台北14日電）中選會今天舉辦「廢除非核家園」公投案意見發表會，正方代表、中經院綠色經濟研究中心副研究員陳中舜主張，核能是台灣當下的救命丸，可舒緩財政與穩定電價；反方代表、經濟部次長賴建信認為，核電不是振興經濟的萬靈丹，呼籲應回歸法治、相信科學並尊重專業。",
+    "published_at": "2026-11-14T14:15:35+08:00",
+    "stocks": [],
+    "uid": "accc19a80571ed2d4f39300a303b59aa"
+  },
+  {
     "title": "攻進英國Costco 漢典讓牛肉麵、地瓜球「台灣味」飄香歐洲",
     "url": "https://ec.ltn.com.tw/article/breakingnews/5640614",
     "source": "自由財經",
@@ -405,6 +1078,15 @@
     "published_at": "2026-11-14T14:15:02+08:00",
     "stocks": [],
     "uid": "cc2ad4958e60ee94db4e0513855c23a6"
+  },
+  {
+    "title": "AI躍居金融體系頭號威脅！Fed調查：87%受訪者示警重大風險",
+    "url": "https://tw.stock.yahoo.com/news/ai%E8%BA%8D%E5%B1%85%E9%87%91%E8%9E%8D%E9%AB%94%E7%B3%BB%E9%A0%AD%E8%99%9F%E5%A8%81%E8%84%85-fed%E8%AA%BF%E6%9F%A5-87-%E5%8F%97%E8%A8%AA%E8%80%85%E7%A4%BA%E8%AD%A6%E9%87%8D%E5%A4%A7%E9%A2%A8%E9%9A%AA-141500771.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]實習記者林子云／綜合報導美國聯準會（Fed）於13日發布金融穩定半年報，針對市場參與者、經濟學家、分析師及機構代表進行調查。報告顯示，高達87...",
+    "published_at": "2026-11-14T14:15:00+08:00",
+    "stocks": [],
+    "uid": "e9a9274add5c65b0b70adacc3066379b"
   },
   {
     "title": "民團辦資訊自由黑客松　突破中國封閉網路環境",
@@ -445,6 +1127,15 @@
     "uid": "fb1d3dce03567a990975bf0df27af50c"
   },
   {
+    "title": "今彩539第115276期　頭獎1注中獎",
+    "url": "https://tw.news.yahoo.com/%E4%BB%8A%E5%BD%A9539%E7%AC%AC115276%E6%9C%9F-%E9%A0%AD%E7%8D%8E1%E6%B3%A8%E4%B8%AD%E7%8D%8E-140632753.html",
+    "source": "Yahoo股市",
+    "summary": "（中央社台北14日電）今彩539第115276期開獎，中獎號碼03、06、20、30、32；派彩結果，頭獎1注中獎，每注獎金新台幣800萬元。",
+    "published_at": "2026-11-14T14:06:32+08:00",
+    "stocks": [],
+    "uid": "ba62d4c8c77e6d958c28010a2db53e0b"
+  },
+  {
     "title": "Rockwell Automation 推出 LogixEdge 控制器，加速軟體定義自動化",
     "url": "https://technews.tw/2026/11/14/rockwell-automation-logixedge-controller-accelerates-software-defined-automation/",
     "source": "科技新報",
@@ -461,6 +1152,35 @@
     "published_at": "2026-11-14T14:00:12+08:00",
     "stocks": [],
     "uid": "31a4ad262f7b333f8d046f09c78b994f"
+  },
+  {
+    "title": "累計獲利噴漲8倍！「ABF載板廠」今年EPS估達22元　切輝達Rubin鏈＋逐季漲價15%加持",
+    "url": "https://tw.stock.yahoo.com/news/%E7%B4%AF%E8%A8%88%E7%8D%B2%E5%88%A9%E5%99%B4%E6%BC%B28%E5%80%8D-abf%E8%BC%89%E6%9D%BF%E5%BB%A0-%E4%BB%8A%E5%B9%B4eps%E4%BC%B0%E9%81%9422%E5%85%83-%E5%88%87%E8%BC%9D%E9%81%94rubin%E9%8F%88-%E9%80%90%E5%AD%A3%E6%BC%B2%E5%83%B915-140000400.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]記者陳献朋／綜合報導載板四雄之首欣興（3037）第三季財務表現頗為優秀，營收創歷史新高，獲利年增358%，為歷史次高，前三季獲利更暴增近8倍，EP...",
+    "published_at": "2026-11-14T14:00:00+08:00",
+    "stocks": [
+      "3037"
+    ],
+    "uid": "8601501a9af0b013e659f4b5eb4e4216"
+  },
+  {
+    "title": "陸網傳「黃樂丈夫獻妻、被捕」 專家：掩蓋共諜疑雲",
+    "url": "https://tw.news.yahoo.com/%E9%99%B8%E7%B6%B2%E5%82%B3-%E9%BB%83%E6%A8%82%E4%B8%88%E5%A4%AB%E7%8D%BB%E5%A6%BB-%E8%A2%AB%E6%8D%95-%E5%B0%88%E5%AE%B6-%E6%8E%A9%E8%93%8B%E5%85%B1%E8%AB%9C%E7%96%91%E9%9B%B2-135900417.html",
+    "source": "Yahoo股市",
+    "summary": "陸網傳「黃樂丈夫獻妻、被捕」 專家：掩蓋共諜疑雲",
+    "published_at": "2026-11-14T13:59:00+08:00",
+    "stocks": [],
+    "uid": "a9c067695d5b83647da1929046509794"
+  },
+  {
+    "title": "Yahoo財經高峰會 黃仁勳成焦點 專家：輝達財報成首場壓力測試",
+    "url": "https://tw.stock.yahoo.com/news/yahoo%E8%B2%A1%E7%B6%93%E9%AB%98%E5%B3%B0%E6%9C%83-%E9%BB%83%E4%BB%81%E5%8B%B3%E6%88%90%E7%84%A6%E9%BB%9E-%E5%B0%88%E5%AE%B6-%E8%BC%9D%E9%81%94%E8%B2%A1%E5%A0%B1%E6%88%90%E9%A6%96%E5%A0%B4%E5%A3%93%E5%8A%9B%E6%B8%AC%E8%A9%A6-135636486.html",
+    "source": "Yahoo股市",
+    "summary": "2026 Yahoo財經高峰會（Yahoo Finance Invest）於美東時間 12 日在紐約盛大登場，帶領市場探討未來 AI、科技投資熱潮與產業發展趨勢；輝達（NVIDIA）執行長黃仁勳辭職，成全場焦點、引起熱烈討論；Kelly Intelligence 創辦人 Kevin Kelly 表示，黃仁勳請辭後，輝達股價跌幅由超過 10％ 收斂至 4％(周五跌幅約2％)，顯示衝擊小於預期，輝達預定周二(17日)公布第三季財報，將成黃仁勳辭職後首場壓力測試。",
+    "published_at": "2026-11-14T13:56:36+08:00",
+    "stocks": [],
+    "uid": "26f446a5c54535ca3c037ffc2a83dc4e"
   },
   {
     "title": "馬斯克加入連署行列　呼籲讓黃仁勳重返輝達掌舵",
@@ -503,6 +1223,17 @@
     "uid": "04a460a98278d4c8da9fb9292e34721c"
   },
   {
+    "title": "高階玻纖布需求升溫！台玻搭AI商機連拉3漲停獲外資砸188億搶進奪冠　「這檔」連假助攻、傳營收捷報同步入榜",
+    "url": "https://tw.stock.yahoo.com/news/%E9%AB%98%E9%9A%8E%E7%8E%BB%E7%BA%96%E5%B8%83%E9%9C%80%E6%B1%82%E5%8D%87%E6%BA%AB-%E5%8F%B0%E7%8E%BB%E6%90%ADai%E5%95%86%E6%A9%9F%E9%80%A3%E6%8B%893%E6%BC%B2%E5%81%9C%E7%8D%B2%E5%A4%96%E8%B3%87%E7%A0%B8188%E5%84%84%E6%90%B6%E9%80%B2%E5%A5%AA%E5%86%A0-%E9%80%99%E6%AA%94-%E9%80%A3%E5%81%87%E5%8A%A9%E6%94%BB-%E5%82%B3%E7%87%9F%E6%94%B6%E6%8D%B7%E5%A0%B1%E5%90%8C%E6%AD%A5%E5%85%A5%E6%A6%9C-134500045.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]記者邱梓欣／綜合報導台股本周（11／09～11／13）收在43,675.12點，較上週的39701.64點上漲3973.48點，重返4萬點大關，短短2周股市波動使投資人...",
+    "published_at": "2026-11-14T13:45:00+08:00",
+    "stocks": [
+      "1802"
+    ],
+    "uid": "2d5ea688eb5582ef11e70df71f57987e"
+  },
+  {
     "title": "逾半數購物AI代理不及格  Visa示警消費風險",
     "url": "https://ec.ltn.com.tw/article/breakingnews/5640588",
     "source": "自由財經",
@@ -528,6 +1259,15 @@
     "published_at": "2026-11-14T13:32:07+08:00",
     "stocks": [],
     "uid": "806f3bc361a3e0d4fe6bf9c34cc38103"
+  },
+  {
+    "title": "避開黃仁勳！外資終結連11賣「狂囤這2檔36萬張」  連12砍仁寶、日月光",
+    "url": "https://tw.stock.yahoo.com/news/%E9%81%BF%E9%96%8B%E9%BB%83%E4%BB%81%E5%8B%B3-%E5%A4%96%E8%B3%87%E7%B5%82%E7%B5%90%E9%80%A311%E8%B3%A3-%E7%8B%82%E5%9B%A4%E9%80%992%E6%AA%9436%E8%90%AC%E5%BC%B5-%E9%80%A312%E7%A0%8D%E4%BB%81%E5%AF%B6-%E6%97%A5%E6%9C%88%E5%85%89-133100540.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]財經中心／綜合報導黃仁勳桃色風暴襲捲全球，台股昨（13）日破風開高走高，盤中一度炸噴近1,400點，重新站上「4萬4」，不過，午盤過後賣壓湧現，...",
+    "published_at": "2026-11-14T13:31:00+08:00",
+    "stocks": [],
+    "uid": "182ca32924bf4fc9693c20230c0bbb4a"
   },
   {
     "title": "日本秋葉原設智慧垃圾桶，可自動壓縮垃圾體積縮防爆滿",
@@ -566,6 +1306,17 @@
     "uid": "a696f7dc21ad40b9615bf96598493b2f"
   },
   {
+    "title": "台積電法說遇輝達財報　AI行情的關鍵48小時 MSCI半年度調整出爐 AI伺服器供電散熱誰最強？緯穎台達電奇鋐雙鴻11月17至18日法說見真章 中油油價連8凍漲｜投資早知道",
+    "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%B3%95%E8%AA%AA%E9%81%87%E8%BC%9D%E9%81%94%E8%B2%A1%E5%A0%B1-ai%E8%A1%8C%E6%83%85%E7%9A%84%E9%97%9C%E9%8D%B548%E5%B0%8F%E6%99%82-msci%E5%8D%8A%E5%B9%B4%E5%BA%A6%E8%AA%BF%E6%95%B4%E5%87%BA%E7%88%90-ai%E4%BC%BA%E6%9C%8D%E5%99%A8%E4%BE%9B%E9%9B%BB%E6%95%A3%E7%86%B1%E8%AA%B0%E6%9C%80%E5%BC%B7%EF%BC%9F%E7%B7%AF%E7%A9%8E%E5%8F%B0%E9%81%94%E9%9B%BB%E5%A5%87%E9%8B%90%E9%9B%99%E9%B4%BB11%E6%9C%8817%E8%87%B318%E6%97%A5%E6%B3%95%E8%AA%AA%E8%A6%8B%E7%9C%9F%E7%AB%A0-%E4%B8%AD%E6%B2%B9%E6%B2%B9%E5%83%B9%E9%80%A38%E5%87%8D%E6%BC%B2%EF%BD%9C%E6%8A%95%E8%B3%87%E6%97%A9%E7%9F%A5%E9%81%93-131833690.html",
+    "source": "Yahoo股市",
+    "summary": "本周【投資早知道】聚焦在台積電法說遇輝達財報，AI行情的關鍵48小時；MSCI半年度調整出爐，11月30日前3升4降，哪些股要動？AI伺服器供電散熱誰最強？緯穎台達電奇鋐雙鴻11月17至18日法說見真章；以及油價連8凍漲！中油11月16日再宣布持平。",
+    "published_at": "2026-11-14T13:18:33+08:00",
+    "stocks": [
+      "2330"
+    ],
+    "uid": "404e01a6da9fdd60b59c34487d2de550"
+  },
+  {
     "title": "國科會：第25屆台拉立年會登場 盼深化三方科技合作",
     "url": "https://money.udn.com/money/story/7307/9878576",
     "source": "經濟日報總經",
@@ -582,6 +1333,15 @@
     "published_at": "2026-11-14T13:10:07+08:00",
     "stocks": [],
     "uid": "e70b8ae55dfbe751ee5d40f3ee49171b"
+  },
+  {
+    "title": "明年報價再漲10%！「這晶圓代工」獲法人喊買157元　投信連斬6週結帳397億元",
+    "url": "https://tw.stock.yahoo.com/news/%E6%98%8E%E5%B9%B4%E5%A0%B1%E5%83%B9%E5%86%8D%E6%BC%B210-%E9%80%99%E6%99%B6%E5%9C%93%E4%BB%A3%E5%B7%A5-%E7%8D%B2%E6%B3%95%E4%BA%BA%E5%96%8A%E8%B2%B7157%E5%85%83-%E6%8A%95%E4%BF%A1%E9%80%A3%E6%96%AC6%E9%80%B1%E7%B5%90%E5%B8%B3397%E5%84%84%E5%85%83-131000359.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]記者陳献朋／綜合報導台股加權指數本週（11/9~11/13）收43675.12點，週漲3973.48點、漲幅10.01%。根據證交所資料，投信週買超1118.95億元，觀察...",
+    "published_at": "2026-11-14T13:10:00+08:00",
+    "stocks": [],
+    "uid": "4a8175e818fd13162496f27fb68aabab"
   },
   {
     "title": "內幕曝！攔截到黃仁勳婚外情訊息 美國官員罕見要求「揭露姓名」",
@@ -609,6 +1369,15 @@
     "published_at": "2026-11-14T13:00:25+08:00",
     "stocks": [],
     "uid": "cf7f3141797848b5fb66431c28a26279"
+  },
+  {
+    "title": "嘉鋼宣布退出中國市場 外銷訂單回流台灣挹注營收",
+    "url": "https://tw.news.yahoo.com/%E5%98%89%E9%8B%BC%E5%AE%A3%E5%B8%83%E9%80%80%E5%87%BA%E4%B8%AD%E5%9C%8B%E5%B8%82%E5%A0%B4-%E5%A4%96%E9%8A%B7%E8%A8%82%E5%96%AE%E5%9B%9E%E6%B5%81%E5%8F%B0%E7%81%A3%E6%8C%B9%E6%B3%A8%E7%87%9F%E6%94%B6-125500742.html",
+    "source": "Yahoo股市",
+    "summary": "嘉鋼宣布退出中國市場 外銷訂單回流台灣挹注營收",
+    "published_at": "2026-11-14T12:55:00+08:00",
+    "stocks": [],
+    "uid": "a3480cf9afa4087d0deb6f53e0591379"
   },
   {
     "title": "安華盼恢復台馬經濟協商 駐馬代表：維護主權確保經濟安全",
@@ -692,6 +1461,15 @@
     "uid": "15f5a048e8c8fcb4982945314a1794c3"
   },
   {
+    "title": "黃仁勳未來有機會重返輝達？他翻賈伯斯經典劇本　網揭1關鍵：完全不一樣",
+    "url": "https://tw.stock.yahoo.com/news/%E9%BB%83%E4%BB%81%E5%8B%B3%E6%9C%AA%E4%BE%86%E6%9C%89%E6%A9%9F%E6%9C%83%E9%87%8D%E8%BF%94%E8%BC%9D%E9%81%94-%E4%BB%96%E7%BF%BB%E8%B3%88%E4%BC%AF%E6%96%AF%E7%B6%93%E5%85%B8%E5%8A%87%E6%9C%AC-%E7%B6%B2%E6%8F%AD1%E9%97%9C%E9%8D%B5-%E5%AE%8C%E5%85%A8%E4%B8%8D-%E6%A8%A3-124500883.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]實習記者鄭巧薰／綜合報導輝達（NVIDIA）共同創辦人黃仁勳近期婚外情相關爭議引發外界討論，也讓網友關注輝達未來經營方向。近日，一名網友在Thr...",
+    "published_at": "2026-11-14T12:45:00+08:00",
+    "stocks": [],
+    "uid": "9d82b84afc16de53a22c2e0b78baf3a8"
+  },
+  {
     "title": "抽中1張拚賺逾8萬！　台股2檔抽籤股下周申購起跑",
     "url": "https://finance.ettoday.net/news/3272102",
     "source": "ETtoday",
@@ -699,6 +1477,35 @@
     "published_at": "2026-11-14T12:41:00+08:00",
     "stocks": [],
     "uid": "782c0d8a4446d90c1fd8284db0008283"
+  },
+  {
+    "title": "中國證監會：進一步深化市場穩定長效機制研究　防範市場異常波動",
+    "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%9C%8B%E8%AD%89%E7%9B%A3%E6%9C%83-%E9%80%B2-%E6%AD%A5%E6%B7%B1%E5%8C%96%E5%B8%82%E5%A0%B4%E7%A9%A9%E5%AE%9A%E9%95%B7%E6%95%88%E6%A9%9F%E5%88%B6%E7%A0%94%E7%A9%B6-%E9%98%B2%E7%AF%84%E5%B8%82%E5%A0%B4%E7%95%B0%E5%B8%B8%E6%B3%A2%E5%8B%95-123959900.html",
+    "source": "Yahoo股市",
+    "summary": "（中央社台北14日電）中國證監會今天表示，中國資本市場與全球資本市場高度聯動，中國將進一步深化市場穩定長效機制研究、防範市場異常波動，深入研究評估量化交易、股份減持方面的監管安排。",
+    "published_at": "2026-11-14T12:39:59+08:00",
+    "stocks": [],
+    "uid": "9119fd602e4022eb155538892ac828ac"
+  },
+  {
+    "title": "豆花妹16年首奪金！作一堆白日夢想「當媽」了",
+    "url": "https://tw.news.yahoo.com/%E8%B1%86%E8%8A%B1%E5%A6%B916%E5%B9%B4%E9%A6%96%E5%A5%AA%E9%87%91-%E4%BD%9C-%E5%A0%86%E7%99%BD%E6%97%A5%E5%A4%A2%E6%83%B3-%E7%95%B6%E5%AA%BD-%E4%BA%86-123500650.html",
+    "source": "Yahoo股市",
+    "summary": "【緯來新聞網】蔡黃汝（豆花妹）出道16年，今年憑《飢餓遊戲》抱回實境節目主持人獎，終於迎來演藝生涯首",
+    "published_at": "2026-11-14T12:35:00+08:00",
+    "stocks": [],
+    "uid": "7724077505dd0bbca75908ee41afd74c"
+  },
+  {
+    "title": "矽光子題材獲喊157元目標價仍遭砍！聯電遭自營商提款逾6億淪賣超王　「這檔面板」年增逾113倍、連5季獲利也入列",
+    "url": "https://tw.stock.yahoo.com/news/%E7%9F%BD%E5%85%89%E5%AD%90%E9%A1%8C%E6%9D%90%E7%8D%B2%E5%96%8A157%E5%85%83%E7%9B%AE%E6%A8%99%E5%83%B9%E4%BB%8D%E9%81%AD%E7%A0%8D-%E8%81%AF%E9%9B%BB%E9%81%AD%E8%87%AA%E7%87%9F%E5%95%86%E6%8F%90%E6%AC%BE%E9%80%BE6%E5%84%84%E6%B7%AA%E8%B3%A3%E8%B6%85%E7%8E%8B-%E9%80%99%E6%AA%94%E9%9D%A2%E6%9D%BF-%E5%B9%B4%E5%A2%9E%E9%80%BE113%E5%80%8D-%E9%80%A35%E5%AD%A3%E7%8D%B2%E5%88%A9%E4%B9%9F%E5%85%A5%E5%88%97-123000503.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]記者邱梓欣／綜合報導台股本周（11／09～11／13）收在43,675.12點，較上週的39701.64點上漲3973.48點，重返4萬點大關，短短2周股市波動使投資人...",
+    "published_at": "2026-11-14T12:30:00+08:00",
+    "stocks": [
+      "2303"
+    ],
+    "uid": "7cf31b5712d8e8b82fbce70a848839b9"
   },
   {
     "title": "台灣大型遊艇訂單亞洲第一、全球第四 國際遊艇展高雄登場！",
@@ -746,6 +1553,15 @@
     "uid": "a1775c8599ac0e7d35cd5202a292ad4a"
   },
   {
+    "title": "油荒待解 台糖下月再增購美黃豆 12月起沙拉油要多產600噸",
+    "url": "https://tw.stock.yahoo.com/news/%E6%B2%B9%E8%8D%92%E5%BE%85%E8%A7%A3-%E5%8F%B0%E7%B3%96%E4%B8%8B%E6%9C%88%E5%86%8D%E5%A2%9E%E8%B3%BC%E7%BE%8E%E9%BB%83%E8%B1%86-12%E6%9C%88%E8%B5%B7%E6%B2%99%E6%8B%89%E6%B2%B9%E8%A6%81%E5%A4%9A%E7%94%A2600%E5%99%B8-120519201.html",
+    "source": "Yahoo股市",
+    "summary": "中聯油脂停工，國內中小型餐飲與通路出現沙拉油荒，影響業者做生意。台糖繼招標3000噸粗油進口後，12月還要增加採購美國黃豆5000公噸。預計下個月起，每月沙拉油產能可比致癌油事件爆發前多供應600公噸，要緩解沙拉油荒。",
+    "published_at": "2026-11-14T12:05:19+08:00",
+    "stocks": [],
+    "uid": "70bb99e07ddc37392d82dbff272f5aba"
+  },
+  {
     "title": "Anthropic上市前夕向投資人喊話　強調安全與用人文化",
     "url": "https://www.cna.com.tw/news/aopl/202611140074.aspx",
     "source": "中央社",
@@ -753,6 +1569,15 @@
     "published_at": "2026-11-14T11:57:59+08:00",
     "stocks": [],
     "uid": "af940763b5b7cd4303ae10956c98d4f3"
+  },
+  {
+    "title": "老屋房屋稅｜屋齡折舊、地段率、使用用途與稅率5大關鍵",
+    "url": "https://tw.stock.yahoo.com/news/%E8%80%81%E5%B1%8B%E6%88%BF%E5%B1%8B%E7%A8%85%EF%BD%9C%E5%B1%8B%E9%BD%A1%E6%8A%98%E8%88%8A%E3%80%81%E5%9C%B0%E6%AE%B5%E7%8E%87%E3%80%81%E4%BD%BF%E7%94%A8%E7%94%A8%E9%80%94%E8%88%87%E7%A8%85%E7%8E%875%E5%A4%A7%E9%97%9C%E9%8D%B5-115700131.html",
+    "source": "Yahoo股市",
+    "summary": "阿明這次用同一間屋齡30年的房子，拆解房屋稅的計算方式，讓屋主了解同樣一間老屋，為何自住、出租或改作營業使用，稅金會出現明顯差異。",
+    "published_at": "2026-11-14T11:57:00+08:00",
+    "stocks": [],
+    "uid": "b9b80e3e440eb540b587cb1246434a39"
   },
   {
     "title": "黃仁勳去職風波未平！路透揭輝達管制晶片漏洞 學者憂恐流向共軍",
@@ -764,6 +1589,15 @@
     "uid": "54c5a282f4e56494fb518b8c5025e4c4"
   },
   {
+    "title": "記憶體被盯上！外資退貨「這2檔」6.3萬張　連賣華邦電2週捲113億元",
+    "url": "https://tw.stock.yahoo.com/news/%E8%A8%98%E6%86%B6%E9%AB%94%E8%A2%AB%E7%9B%AF%E4%B8%8A-%E5%A4%96%E8%B3%87%E9%80%80%E8%B2%A8-%E9%80%992%E6%AA%94-6-3%E8%90%AC%E5%BC%B5-115000694.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]記者陳献朋／綜合報導台股加權指數本週（11/9~11/13）落在43675.12點，週漲3973.48點、漲幅10.01%。根據證交所資料，外資週賣超967.87億元，觀察...",
+    "published_at": "2026-11-14T11:50:00+08:00",
+    "stocks": [],
+    "uid": "42dfb4bc2154b8ff8b23581ec5e440fa"
+  },
+  {
     "title": "黃仁勳辭職也沒用！輝達董事會誓言徹查到底",
     "url": "https://ec.ltn.com.tw/article/breakingnews/5640363",
     "source": "自由財經",
@@ -771,6 +1605,42 @@
     "published_at": "2026-11-14T11:45:21+08:00",
     "stocks": [],
     "uid": "7d56e4442b1e1c97cabb5740adeae293"
+  },
+  {
+    "title": "交屋1年還在用「臨時電」！電梯停擺、裝潢卡關　他氣炸想求償「萬分之五」勝算曝光",
+    "url": "https://tw.stock.yahoo.com/news/%E4%BA%A4%E5%B1%8B1%E5%B9%B4%E9%82%84%E5%9C%A8%E7%94%A8%E3%80%8C%E8%87%A8%E6%99%82%E9%9B%BB%E3%80%8D%EF%BC%81%E9%9B%BB%E6%A2%AF%E5%81%9C%E6%93%BA%E3%80%81%E8%A3%9D%E6%BD%A2%E5%8D%A1%E9%97%9C-%E4%BB%96%E6%B0%A3%E7%82%B8%E6%83%B3%E6%B1%82%E5%84%9F%E3%80%8C%E8%90%AC%E5%88%86%E4%B9%8B%E4%BA%94%E3%80%8D%E5%8B%9D%E7%AE%97%E6%9B%9D%E5%85%89-114200469.html",
+    "source": "Yahoo股市",
+    "summary": "「交屋已經一年了，到現在還在用臨時電，每個月平均停電1到2次，電梯不能用，裝潢師傅只能乾等，寫信去消保會申訴，建商只回『正在改善』，連個正式供電的時間表都給不出來！」",
+    "published_at": "2026-11-14T11:42:00+08:00",
+    "stocks": [],
+    "uid": "3baeef6da621c11f3730fa5dd0096155"
+  },
+  {
+    "title": "矽品二林廠免費交通車上路　串聯彰化三大生活圈擴大人才招募",
+    "url": "https://tw.news.yahoo.com/%E7%9F%BD%E5%93%81%E4%BA%8C%E6%9E%97%E5%BB%A0%E5%85%8D%E8%B2%BB%E4%BA%A4%E9%80%9A%E8%BB%8A%E4%B8%8A%E8%B7%AF-%E4%B8%B2%E8%81%AF%E5%BD%B0%E5%8C%96%E4%B8%89%E5%A4%A7%E7%94%9F%E6%B4%BB%E5%9C%88%E6%93%B4%E5%A4%A7%E4%BA%BA%E6%89%8D%E6%8B%9B%E5%8B%9F-113010028.html",
+    "source": "Yahoo股市",
+    "summary": "【互傳媒／記者 林明佑／彰化 報導】因應AI與高效能運算（HPC）強勁需求，全球封裝測試大廠矽品精密持續擴大全",
+    "published_at": "2026-11-14T11:30:10+08:00",
+    "stocks": [],
+    "uid": "35a44788a8a328c7ce4c874bb8474208"
+  },
+  {
+    "title": "黃仁勳醜聞爆發前出售！輝達第二大個人股東賣股曝光　1個月內套現300億元",
+    "url": "https://tw.stock.yahoo.com/news/%E9%BB%83%E4%BB%81%E5%8B%B3%E9%86%9C%E8%81%9E%E7%88%86%E7%99%BC%E5%89%8D%E5%87%BA%E5%94%AE-%E8%BC%9D%E9%81%94%E7%AC%AC%E4%BA%8C%E5%A4%A7%E5%80%8B%E4%BA%BA%E8%82%A1%E6%9D%B1%E8%B3%A3%E8%82%A1%E6%9B%9D%E5%85%89-1%E5%80%8B%E6%9C%88%E5%85%A7%E5%A5%97%E7%8F%BE300%E5%84%84%E5%85%83-113000922.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]記者吳欣穎／綜合報導黃仁勳近日捲入婚外情醜聞及中國間諜疑雲，12日辭去輝達（NVIDIA）執行長一職，引發輝達股價崩跌，自8日黃仁勳坦承婚外情後...",
+    "published_at": "2026-11-14T11:30:00+08:00",
+    "stocks": [],
+    "uid": "ef1543c5e5957f011f506aff18e47081"
+  },
+  {
+    "title": "光麗旗下宸曜啟動AI、醫療雙引擎 加盟診所拚半年回本 董座：Q4轉虧為盈",
+    "url": "https://tw.stock.yahoo.com/news/%E5%85%89%E9%BA%97%E6%97%97%E4%B8%8B%E5%AE%B8%E6%9B%9C%E5%95%9F%E5%8B%95ai-%E9%86%AB%E7%99%82%E9%9B%99%E5%BC%95%E6%93%8E-%E5%8A%A0%E7%9B%9F%E8%A8%BA%E6%89%80%E6%8B%9A%E5%8D%8A%E5%B9%B4%E5%9B%9E%E6%9C%AC-%E8%91%A3%E5%BA%A7-q4%E8%BD%89%E8%99%A7%E7%82%BA%E7%9B%88-112632692.html",
+    "source": "Yahoo股市",
+    "summary": "光麗-KY（6431）旗下宸曜國際醫療體系，以AI智慧算力導入預防醫療，串連宸曜診所、達昌宸曜藥局與居家健康管理，打造醫療服務新聯盟；光麗生技控股董事長王嘉瑋表示，宸曜國際醫療體系積極拓展預防醫學，目前在台有十多家宸曜加聯盟診所、海外聯盟診所，十餘家達昌宸曜藥局，由於以自費為主軸， 加盟診所雖然裝潢、設備器材成本高，但約半年可回本，AI 算力與自費醫療網絡已完成，看好第4季將正式轉虧為盈，明年營收與獲利將逐季進步。",
+    "published_at": "2026-11-14T11:26:32+08:00",
+    "stocks": [],
+    "uid": "aa2492ede2026fe83085f2ccfa5d5a28"
   },
   {
     "title": "華郵：黃仁勳失勢背後 對中鷹派醞釀反撲已久",
@@ -791,6 +1661,15 @@
     "uid": "409d77d85dd092bb6c9034319766379c"
   },
   {
+    "title": "傳曾想告媒體 路透：黃仁勳對輝達高層隱瞞婚外情",
+    "url": "https://tw.news.yahoo.com/%E5%82%B3%E6%9B%BE%E6%83%B3%E5%91%8A%E5%AA%92%E9%AB%94-%E8%B7%AF%E9%80%8F-%E9%BB%83%E4%BB%81%E5%8B%B3%E5%B0%8D%E8%BC%9D%E9%81%94%E9%AB%98%E5%B1%A4%E9%9A%B1%E7%9E%9E%E5%A9%9A%E5%A4%96%E6%83%85-111700152.html",
+    "source": "Yahoo股市",
+    "summary": "傳曾想告媒體 路透：黃仁勳對輝達高層隱瞞婚外情",
+    "published_at": "2026-11-14T11:17:00+08:00",
+    "stocks": [],
+    "uid": "b81e1186495eadeef58deaf2fbbe80fb"
+  },
+  {
     "title": "黃仁勳擬告《紐約時報》！輝達內部對話首曝光 祕辛一次看",
     "url": "https://ec.ltn.com.tw/article/breakingnews/5640349",
     "source": "自由財經",
@@ -798,6 +1677,15 @@
     "published_at": "2026-11-14T11:11:38+08:00",
     "stocks": [],
     "uid": "4de215f2e92bbf74c2ba0b9bfdea5359"
+  },
+  {
+    "title": "台股2周上演大怒神！「這檔金融」持獲利利多獲大哥豪砸87.4億奪冠　南亞砸115億擴產玻纖布被上調390元目標價入榜",
+    "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A12%E5%91%A8%E4%B8%8A%E6%BC%94%E5%A4%A7%E6%80%92%E7%A5%9E-%E9%80%99%E6%AA%94%E9%87%91%E8%9E%8D-%E6%8C%81%E7%8D%B2%E5%88%A9%E5%88%A9%E5%A4%9A%E7%8D%B2%E5%A4%A7%E5%93%A5%E8%B1%AA%E7%A0%B887-4%E5%84%84%E5%A5%AA%E5%86%A0-%E5%8D%97%E4%BA%9E%E7%A0%B8115%E5%84%84%E6%93%B4%E7%94%A2%E7%8E%BB%E7%BA%96%E5%B8%83%E8%A2%AB%E4%B8%8A%E8%AA%BF390%E5%85%83%E7%9B%AE%E6%A8%99%E5%83%B9%E5%85%A5%E6%A6%9C-111000348.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]記者邱梓欣／綜合報導台股本周（11／09～11／13）收在43,675.12點，較上週的39701.64點上漲3973.48點，重返4萬點大關，短短2周股市波動使投資人...",
+    "published_at": "2026-11-14T11:10:00+08:00",
+    "stocks": [],
+    "uid": "f01b2f474abfe64daedbb9ab27319be4"
   },
   {
     "title": "銀髮食品商機2030年破600億　食品廠改寫質地超商融入貨架",
@@ -847,6 +1735,17 @@
     "uid": "87885e36ef2ece29596b72a75b5c1bbb"
   },
   {
+    "title": "台積電海外廠營運報喜！前3季領1675億政府補貼　美國廠大賺逾539億",
+    "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%B5%B7%E5%A4%96%E5%BB%A0%E7%87%9F%E9%81%8B%E5%A0%B1%E5%96%9C-%E5%89%8D3%E5%AD%A3%E9%A0%981675%E5%84%84%E6%94%BF%E5%BA%9C%E8%A3%9C%E8%B2%BC-%E7%BE%8E%E5%9C%8B%E5%BB%A0%E5%A4%A7%E8%B3%BA%E9%80%BE539%E5%84%84-021300107.html",
+    "source": "Yahoo股市",
+    "summary": "【記者蕭文康／台北報導】台積電（2330）第3季財報出爐！其中，在海外子公司的部分，第3季獲得來自美國、德國、日本及中國政府補且款高達新台幣1669.96億元，累計前3季獲得1675.86億元政府補助款，年增133%，創下歷史新高。",
+    "published_at": "2026-11-14T11:00:00+08:00",
+    "stocks": [
+      "2330"
+    ],
+    "uid": "b12c1c7a5603824c7c9ff87dc2f544f0"
+  },
+  {
     "title": "銀髮食品商機2030年破600億　食品廠改寫質地超商融入貨架",
     "url": "https://www.cna.com.tw/news/afe/202611140063.aspx",
     "source": "中央社",
@@ -854,6 +1753,15 @@
     "published_at": "2026-11-14T10:57:34+08:00",
     "stocks": [],
     "uid": "8801cb52283384c60ad93992c82f1dd8"
+  },
+  {
+    "title": "持股權決定話語權！黃仁勳經營權薄弱　外媒揭科技巨頭保身秘訣",
+    "url": "https://tw.stock.yahoo.com/news/%E6%8C%81%E8%82%A1%E6%AC%8A%E6%B1%BA%E5%AE%9A%E8%A9%B1%E8%AA%9E%E6%AC%8A-%E9%BB%83%E4%BB%81%E5%8B%B3%E7%B6%93%E7%87%9F%E6%AC%8A%E8%96%84%E5%BC%B1-%E5%A4%96%E5%AA%92%E6%8F%AD%E7%A7%91%E6%8A%80%E5%B7%A8%E9%A0%AD%E4%BF%9D%E8%BA%AB%E7%A7%98%E8%A8%A3-105700680.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]記者吳欣穎／綜合報導黃仁勳婚外情與共諜風波持續一周，12日宣布辭去輝達（NVIDIA）執行長及董事職務，與輝達正式切割。黃仁勳被譽為「AI教父」...",
+    "published_at": "2026-11-14T10:57:00+08:00",
+    "stocks": [],
+    "uid": "46d4c45cd386bfef5a35bc265b8e54d9"
   },
   {
     "title": "Nvidia 機構投資人聯名信力挺黃仁勳，籲董事會保留回任可能",
