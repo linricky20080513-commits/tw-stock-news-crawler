@@ -1,5 +1,828 @@
 [
   {
+    "title": "Prediction: Nov. 18 Will Be a Huge Day for AI Power Stocks. Here’s Why.",
+    "url": "https://www.fool.com/investing/2026/11/16/prediction-nov-18-will-be-a-huge-day-for-ai-power-stocks-heres-why/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Nvidia’s earnings, the first since Jensen Huang’s exit, could show whether AI spending is still climbing.",
+    "published_at": "2026-11-17T09:05:02+08:00",
+    "stocks": [],
+    "uid": "2c6114580b2c4e7301780c54db46ad8e",
+    "title_en": "Prediction: Nov. 18 Will Be a Huge Day for AI Power Stocks. Here’s Why.",
+    "summary_en": "Nvidia’s earnings, the first since Jensen Huang’s exit, could show whether AI spending is still climbing.",
+    "title_zh": "預測：11 月 18 日對人工智慧電力股來說將是重要的一天。這就是為什麼。",
+    "summary_zh": "英偉達的財報是黃仁勳退出後的首份財報，可能顯示人工智慧支出是否仍在攀升。"
+  },
+  {
+    "title": "Oil prices fall further on supply glut concerns; strong dollar weighs",
+    "url": "https://www.investing.com/news/commodities-news/oil-prices-fall-further-on-supply-glut-concerns-strong-dollar-weighs-5031393",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-17T09:04:10+08:00",
+    "stocks": [],
+    "uid": "721d553692687b258e7e4ee13ef31bcc"
+  },
+  {
+    "title": "JBG Smith shares sold by James French Hill",
+    "url": "https://www.investing.com/news/company-news/jbg-smith-shares-sold-by-james-french-hill-93CH-5031392",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-17T09:03:56+08:00",
+    "stocks": [],
+    "uid": "1f1c100776b7008770a400a538cfd49f",
+    "title_en": "JBG Smith shares sold by James French Hill",
+    "summary_en": "",
+    "title_zh": "James French Hill 出售 JBG Smith 股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Suzan DelBene buys San Joaquin VY Clean Energy bonds",
+    "url": "https://www.investing.com/news/company-news/suzan-delbene-buys-san-joaquin-vy-clean-energy-bonds-93CH-5031391",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-17T09:02:03+08:00",
+    "stocks": [],
+    "uid": "ce15555036b16e1562268b008d5427db"
+  },
+  {
+    "title": "Big Digital Energy directors’ affiliates buy $182,058 in shares",
+    "url": "https://www.investing.com/news/insider-trading-news/big-digital-energy-directors-affiliates-buy-182058-in-shares-93CH-5031390",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-17T09:01:14+08:00",
+    "stocks": [],
+    "uid": "44ab80491a77248555974383ab0d2edd",
+    "title_en": "Big Digital Energy directors’ affiliates buy $182,058 in shares",
+    "summary_en": "",
+    "title_zh": "Big Digital Energy 董事附屬公司購買了價值 182,058 美元的股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Mayne Pharma shares surge on $407 mln takeover offer from Gedeon Richter",
+    "url": "https://www.investing.com/news/stock-market-news/mayne-pharma-shares-surge-on-407-mln-takeover-offer-from-gedeon-richter-5031389",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-17T09:01:08+08:00",
+    "stocks": [],
+    "uid": "7b8f66665a9aab8067a3941710f7c656",
+    "title_en": "Mayne Pharma shares surge on $407 mln takeover offer from Gedeon Richter",
+    "summary_en": "",
+    "title_zh": "Gedeon Richter 提出 4.07 億美元收購要約，Mayne Pharma 股價飆升",
+    "summary_zh": ""
+  },
+  {
+    "title": "Lifeway Foods director Smolyansky reduces stake by $3.19M",
+    "url": "https://www.investing.com/news/insider-trading-news/lifeway-foods-director-smolyansky-reduces-stake-by-319m-93CH-5031387",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-17T09:01:04+08:00",
+    "stocks": [],
+    "uid": "4e06506c98e0227052bc15785e31085c",
+    "title_en": "Lifeway Foods director Smolyansky reduces stake by $3.19M",
+    "summary_en": "",
+    "title_zh": "Lifeway Foods 董事 Smolyansky 減持 319 萬美元",
+    "summary_zh": ""
+  },
+  {
+    "title": "Ludmila Smolyansky sells $860,800 in Lifeway Foods (NASDAQ:LWAY) shares",
+    "url": "https://www.investing.com/news/insider-trading-news/ludmila-smolyansky-sells-860800-in-lifeway-foods-nasdaqlway-shares-93CH-5031388",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-17T09:01:04+08:00",
+    "stocks": [],
+    "uid": "28aa9a476fb79ff298d080ffe7b0fee7",
+    "title_en": "Ludmila Smolyansky sells $860,800 in Lifeway Foods (NASDAQ:LWAY) shares",
+    "summary_en": "",
+    "title_zh": "Ludmila Smolyansky 出售價值 860,800 美元的 Lifeway Foods（納斯達克股票代碼：LWAY）股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Nvidia rules out Huang comeback as campaign for his return grows",
+    "url": "https://www.investing.com/news/stock-market-news/silicon-valley-leaders-back-call-for-jensen-huangs-return-to-nvidia-5029956",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-17T09:00:40+08:00",
+    "stocks": [],
+    "uid": "0a078f43309b04214cd5cde42aedffe2",
+    "title_en": "Nvidia rules out Huang comeback as campaign for his return grows",
+    "summary_en": "",
+    "title_zh": "隨著黃回歸的呼聲越來越高，英偉達排除了他復出的可能性",
+    "summary_zh": ""
+  },
+  {
+    "title": "Investors cooled on data-center stocks in third quarter, filings show",
+    "url": "https://www.investing.com/news/stock-market-news/investors-cooled-on-data-center-stocks-in-third-quarter-filings-show-5030947",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-17T09:00:23+08:00",
+    "stocks": [],
+    "uid": "ac1c3a95050e4d99a73a0da8bc82d610",
+    "title_en": "Investors cooled on data-center stocks in third quarter, filings show",
+    "summary_en": "",
+    "title_zh": "文件顯示，投資人第三季對資料中心股票的態度降溫",
+    "summary_zh": ""
+  },
+  {
+    "title": "United Airlines Flights Resume After ‘Widespread System Outage’",
+    "url": "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html",
+    "source": "NYT Business",
+    "summary": "The brief disruption, after a nationwide ground stop last week, added to concerns about air travel ahead of a busy Thanksgiving travel period.",
+    "published_at": "2026-11-17T08:59:37+08:00",
+    "stocks": [],
+    "uid": "8a94bf7a5652f96b5802d45c1d45eb7f",
+    "title_en": "United Airlines Flights Resume After ‘Widespread System Outage’",
+    "summary_en": "The brief disruption, after a nationwide ground stop last week, added to concerns about air travel ahead of a busy Thanksgiving travel period.",
+    "title_zh": "聯合航空航班在「大規模系統中斷」後恢復",
+    "summary_zh": "繼上周全國範圍內的地面停飛之後，這次短暫的中斷加劇了人們對感恩節旅行繁忙期之前航空旅行的擔憂。"
+  },
+  {
+    "title": "RBA minutes reveal hawkish bias as inflation risks remain tilted to upside",
+    "url": "https://www.investing.com/news/economy-news/rba-minutes-reveal-hawkish-bias-as-inflation-risks-remain-tilted-to-upside-5031379",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-17T08:57:59+08:00",
+    "stocks": [],
+    "uid": "e28d33acdabbdb217a88ec073c9625bf",
+    "title_en": "RBA minutes reveal hawkish bias as inflation risks remain tilted to upside",
+    "summary_en": "",
+    "title_zh": "澳洲聯邦儲備銀行會議紀要顯示鷹派傾向，通膨風險仍傾向上行",
+    "summary_zh": ""
+  },
+  {
+    "title": "SpaceX Just Brought a Starship Back From Orbit and Caught It. Here's the Part of the Business That Gains the Most.",
+    "url": "https://www.fool.com/investing/2026/11/16/spacex-just-brought-a-starship-back-from-orbit-and-caught-it-here-s-the-part-of-the-business-that-gains-the-most/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "With the ship caught but the booster lost, why could Starlink gain the most?",
+    "published_at": "2026-11-17T08:53:02+08:00",
+    "stocks": [],
+    "uid": "eab5caf0f7a1b88e6f7380628288571c",
+    "title_en": "SpaceX Just Brought a Starship Back From Orbit and Caught It. Here's the Part of the Business That Gains the Most.",
+    "summary_en": "With the ship caught but the booster lost, why could Starlink gain the most?",
+    "title_zh": "SpaceX 剛剛將一艘星際飛船從軌道上帶回並抓住了它。這是獲利最多的業務部分。",
+    "summary_zh": "船被抓了，助推器卻丟了，為什麼星鏈能獲益最多？"
+  },
+  {
+    "title": "This Is a Huge Week for the Stock Market: Nvidia Earnings, Fed Minutes, and Anthropic’s IPO",
+    "url": "https://www.fool.com/investing/2026/11/16/this-is-a-huge-week-for-the-stock-market-nvidia-earnings-fed-minutes-and-anthropic-s-ipo/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Nvidia's first earnings report since Jensen Huang resigned, the Fed's meeting minutes, and Anthropic's massive public debut all land this week, and together they could help decide whether the pain in stocks continues or a comeback gets started.",
+    "published_at": "2026-11-17T08:50:01+08:00",
+    "stocks": [],
+    "uid": "bd3816b964d16f303e9bc15f643b5a6d",
+    "title_en": "This Is a Huge Week for the Stock Market: Nvidia Earnings, Fed Minutes, and Anthropic’s IPO",
+    "summary_en": "Nvidia's first earnings report since Jensen Huang resigned, the Fed's meeting minutes, and Anthropic's massive public debut all land this week, and together they could help decide whether the pain in stocks continues or a comeback gets started.",
+    "title_zh": "對股市來說，這是重要的一周：Nvidia 收益、聯準會會議紀錄和 Anthropic 的 IPO",
+    "summary_zh": "自從黃仁勳辭職以來，英偉達的第一份收益報告、美聯儲的會議紀要以及 Anthropic 的大規模公開亮相都將於本週發布，它們共同可以幫助決定股市的痛苦是繼續還是開始捲土重來。"
+  },
+  {
+    "title": "Why Broadcom Stock Got Mashed on Monday",
+    "url": "https://www.fool.com/investing/2026/11/16/why-broadcom-stock-got-mashed-on-monday/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Investors were reallocating capital to more prominent tech stocks.",
+    "published_at": "2026-11-17T08:44:03+08:00",
+    "stocks": [],
+    "uid": "7d2d9657ff38c326ab93a3ef563433b1",
+    "title_en": "Why Broadcom Stock Got Mashed on Monday",
+    "summary_en": "Investors were reallocating capital to more prominent tech stocks.",
+    "title_zh": "為什麼博通股票週一大跌",
+    "summary_zh": "投資者正在將資金重新分配給更知名的科技股。"
+  },
+  {
+    "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
+    "source": "CNBC Top",
+    "summary": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.",
+    "published_at": "2026-11-17T08:42:33+08:00",
+    "stocks": [],
+    "uid": "cf390478244f9a6ef926c7db305c44cb",
+    "title_en": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "summary_en": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.",
+    "title_zh": "分析：聯準會主席預計人工智慧革命即將到來。現在他必須弄清楚這意味著什麼",
+    "summary_zh": "Kevin Warsh 認為人工智慧正處於一個轉折點。他面臨著就業和利率方面的棘手問題。"
+  },
+  {
+    "title": "Elon Musk Wants Jensen Huang Back at Nvidia. Here’s What’s at Stake for SpaceX",
+    "url": "https://www.fool.com/investing/2026/11/16/elon-musk-wants-jensen-huang-back-at-nvidia-here-s-what-s-at-stake-for-spacex/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Elon Musk wants Jensen Huang back at Nvidia and has real money on the line, since SpaceX builds its AI data centers on Nvidia chips and Nvidia owns a multibillion-dollar stake in SpaceX.",
+    "published_at": "2026-11-17T08:39:01+08:00",
+    "stocks": [],
+    "uid": "69ff1c19e4210c01ee7364dd2c07c3f0",
+    "title_en": "Elon Musk Wants Jensen Huang Back at Nvidia. Here’s What’s at Stake for SpaceX",
+    "summary_en": "Elon Musk wants Jensen Huang back at Nvidia and has real money on the line, since SpaceX builds its AI data centers on Nvidia chips and Nvidia owns a multibillion-dollar stake in SpaceX.",
+    "title_zh": "伊隆馬斯克希望黃仁勳重返英偉達。這就是 SpaceX 面臨的風險",
+    "summary_zh": "馬斯克(Elon Musk)希望黃仁勳(Jensen Huang)重返英偉達(Nvidia)，並且有真金白銀的風險，因為SpaceX在英偉達(Nvidia)晶片上建立了人工智慧資料中心，而英偉達(Nvidia)擁有SpaceX數十億美元的股份。"
+  },
+  {
+    "title": "Warren Buffett's Successor, Greg Abel, Overhauled Berkshire's Portfolio for a 3rd Straight Quarter, Reducing 6 Stocks and Piling Into a Hot Tech IPO",
+    "url": "https://www.fool.com/investing/2026/11/16/warren-buffett-successor-greg-abel-overhaul-berkshire-portfolio-3rd-straight-quarter-reduce-6-stocks-buy-hot-tech-ipo/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This isn’t your grandparents’ Berkshire Hathaway any longer.",
+    "published_at": "2026-11-17T08:33:01+08:00",
+    "stocks": [],
+    "uid": "6cc111c30897293a3016669a927223ea",
+    "title_en": "Warren Buffett's Successor, Greg Abel, Overhauled Berkshire's Portfolio for a 3rd Straight Quarter, Reducing 6 Stocks and Piling Into a Hot Tech IPO",
+    "summary_en": "This isn’t your grandparents’ Berkshire Hathaway any longer.",
+    "title_zh": "華倫巴菲特的繼任者格雷格阿貝爾連續第三個季度徹底調整波克夏的投資組合，減持 6 隻股票並加入熱門科技股 IPO",
+    "summary_zh": "這不再是你祖父母的伯克希爾哈撒韋公司了。"
+  },
+  {
+    "title": "Should You Buy Home Depot Stock Before the Huge Investor Update?",
+    "url": "https://www.fool.com/investing/2026/11/16/should-you-buy-home-depot-stock-before-the-huge-investor-update/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Home Depot is arguably the best home improvement retailer in the world.",
+    "published_at": "2026-11-17T08:30:02+08:00",
+    "stocks": [],
+    "uid": "0737dabec60ae6e7fcfe16e6b6e6e781",
+    "title_en": "Should You Buy Home Depot Stock Before the Huge Investor Update?",
+    "summary_en": "Home Depot is arguably the best home improvement retailer in the world.",
+    "title_zh": "您應該在重大投資者更新之前購買家得寶股票嗎？",
+    "summary_zh": "家得寶（Home Depot）可以說是世界上最好的家居裝修零售商。"
+  },
+  {
+    "title": "Why iQIYI Stock Tanked Today",
+    "url": "https://www.fool.com/investing/2026/11/16/why-iqiyi-stock-tanked-today/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The Chinese company released underwhelming quarterly results.",
+    "published_at": "2026-11-17T08:19:14+08:00",
+    "stocks": [],
+    "uid": "3ec92b5801ae18e7b2dd90df381075d5"
+  },
+  {
+    "title": "Broadcom vs. Nvidia: Which Semiconductor Stock Is the Better AI Buy over the Next 3 Years?",
+    "url": "https://www.fool.com/investing/2026/11/16/broadcom-vs-nvidia-which-semiconductor-stock-is-the-better-ai-buy-over-the-next-3-years/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Investors have an easy choice to make if they are looking to buy one of these chip giants right now.",
+    "published_at": "2026-11-17T08:02:02+08:00",
+    "stocks": [],
+    "uid": "799d496c65efd5129df679a9fefd8632",
+    "title_en": "Broadcom vs. Nvidia: Which Semiconductor Stock Is the Better AI Buy over the Next 3 Years?",
+    "summary_en": "Investors have an easy choice to make if they are looking to buy one of these chip giants right now.",
+    "title_zh": "博通 vs. 英偉達：未來 3 年內哪一支半導體股更值得買進？",
+    "summary_zh": "如果投資者現在想購買這些晶片巨頭之一，他們可以輕鬆地做出選擇。"
+  },
+  {
+    "title": "United Airlines resolves system outage that affected departing flights",
+    "url": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
+    "source": "CNBC Top",
+    "summary": "The airline said there was no impact on flights in progress and there was no indication the outage was a cyberattack.",
+    "published_at": "2026-11-17T08:00:49+08:00",
+    "stocks": [],
+    "uid": "787cb79a9925102884bd5ea2ca130142",
+    "title_en": "United Airlines resolves system outage that affected departing flights",
+    "summary_en": "The airline said there was no impact on flights in progress and there was no indication the outage was a cyberattack.",
+    "title_zh": "美國聯合航空解決了影響離港航班的系統中斷問題",
+    "summary_zh": "該航空公司表示，對正在進行的航班沒有影響，也沒有跡象顯示這次中斷是網路攻擊造成的。"
+  },
+  {
+    "title": "1 Relatively Safe and Undervalued Dividend Stock to Buy Right Now in November",
+    "url": "https://www.fool.com/investing/2026/11/16/1-relatively-safe-and-undervalued-dividend-stock-to-buy-right-now-in-november/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This is an excellent choice for passive income investors.",
+    "published_at": "2026-11-17T08:00:02+08:00",
+    "stocks": [],
+    "uid": "63c7b22af568b6e4efe82f3b597c2e54",
+    "title_en": "1 Relatively Safe and Undervalued Dividend Stock to Buy Right Now in November",
+    "summary_en": "This is an excellent choice for passive income investors.",
+    "title_zh": "11 月立即購買的 1 隻相對安全且被低估的股息股票",
+    "summary_zh": "對於被動收入投資者來說，這是一個絕佳的選擇。"
+  },
+  {
+    "title": "Appeals Court Weighs Pentagon’s Media Restrictions",
+    "url": "https://www.nytimes.com/2026/11/16/business/media/pentagon-media-restrictions-court-hearing.html",
+    "source": "NYT Business",
+    "summary": "A three-judge panel considered the requirement that journalists be accompanied by an escort when visiting the Pentagon. The New York Times sued to block the restriction.",
+    "published_at": "2026-11-17T07:58:58+08:00",
+    "stocks": [],
+    "uid": "7ab826a56e7d33332d6d4ecab8be7099",
+    "title_en": "Appeals Court Weighs Pentagon’s Media Restrictions",
+    "summary_en": "A three-judge panel considered the requirement that journalists be accompanied by an escort when visiting the Pentagon. The New York Times sued to block the restriction.",
+    "title_zh": "上訴法院權衡五角大廈的媒體限制",
+    "summary_zh": "由三名法官組成的小組審議了記者參觀五角大樓時必須有陪同人員陪同的要求。 《紐約時報》提起訴訟以阻止該限制。"
+  },
+  {
+    "title": "Niu Tech (NIU) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/16/niu-tech-niu-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Motorcycle volume soared as premium bicycle demand lagged in the quarter.",
+    "published_at": "2026-11-17T07:42:18+08:00",
+    "stocks": [
+      "NIU"
+    ],
+    "uid": "0007a81b6457c7be53e00a6c5b6a6114",
+    "title_en": "Niu Tech (NIU) Q3 2026 Earnings Call Transcript",
+    "summary_en": "Motorcycle volume soared as premium bicycle demand lagged in the quarter.",
+    "title_zh": "小牛科技 (NIU) 2026 年第三季財報電話會議紀錄",
+    "summary_zh": "由於本季優質自行車需求落後，摩托車銷量激增。"
+  },
+  {
+    "title": "United Airlines resolves system outage that delayed flights Monday",
+    "url": "https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The outage came just days after an FAA ground stop disrupted air travel nationally.",
+    "published_at": "2026-11-17T07:42:00+08:00",
+    "stocks": [],
+    "uid": "b589eb8d30c303b5b7c5cd08fbc7b038",
+    "title_en": "United Airlines resolves system outage that delayed flights Monday",
+    "summary_en": "The outage came just days after an FAA ground stop disrupted air travel nationally.",
+    "title_zh": "美國聯合航空解決了週一航班延誤的系統故障問題",
+    "summary_zh": "這次停電發生在美國聯邦航空局地面停車中斷全國航空旅行幾天後。"
+  },
+  {
+    "title": "These 3 Dividend Stocks Have Crushed the Market This Year. Here’s Why They Are Still Buys",
+    "url": "https://www.fool.com/investing/2026/11/16/these-3-dividend-stocks-have-crushed-the-market-this-year-here-s-why-they-are-still-buys/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "They have excellent long-term prospects.",
+    "published_at": "2026-11-17T07:40:02+08:00",
+    "stocks": [],
+    "uid": "0334b8ecbc4578ca869b1f14cca387af",
+    "title_en": "These 3 Dividend Stocks Have Crushed the Market This Year. Here’s Why They Are Still Buys",
+    "summary_en": "They have excellent long-term prospects.",
+    "title_zh": "這三隻股息股今年已經壓垮了市場。這就是他們仍在購買的原因",
+    "summary_zh": "他們擁有良好的長期前景。"
+  },
+  {
+    "title": "Pilots Kept Contact With Controllers During Nationwide Halt to Flights",
+    "url": "https://www.nytimes.com/2026/11/16/business/faa-ground-stop-pilots-radio-controllers.html",
+    "source": "NYT Business",
+    "summary": "Pilots were generally able to maintain contact with air traffic controllers and airline staff on the ground despite an outage that caused a nearly five-hour halt to departures.",
+    "published_at": "2026-11-17T07:39:24+08:00",
+    "stocks": [],
+    "uid": "d473dc4e8d71ec4d5d02518645e06950",
+    "title_en": "Pilots Kept Contact With Controllers During Nationwide Halt to Flights",
+    "summary_en": "Pilots were generally able to maintain contact with air traffic controllers and airline staff on the ground despite an outage that caused a nearly five-hour halt to departures.",
+    "title_zh": "在全國航班停飛期間，飛行員與管制員保持聯繫",
+    "summary_zh": "儘管停電導致起飛暫停近五個小時，但飛行員總體上能夠與地面空中交通管制員和航空公司工作人員保持聯繫。"
+  },
+  {
+    "title": "What's Going on With Bloom Energy Stock?",
+    "url": "https://www.fool.com/investing/2026/11/16/what-s-going-on-with-bloom-energy-stock/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The energy required to power data centers is beyond what is currently available.",
+    "published_at": "2026-11-17T07:30:02+08:00",
+    "stocks": [],
+    "uid": "e1642e2ca74e12f6e20cfa4d5437c321"
+  },
+  {
+    "title": "Why Navitas Semiconductor Stock Sank by 12% on Monday",
+    "url": "https://www.fool.com/investing/2026/11/16/why-navitas-semiconductor-stock-sank-by-12-on-monday/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The latest scandal in the AI space was dinging advanced semi stocks.",
+    "published_at": "2026-11-17T07:28:38+08:00",
+    "stocks": [],
+    "uid": "c36aa9e01fadb18712a5599b90eb583d"
+  },
+  {
+    "title": "Stanley Druckenmiller dumped these chip stocks while buying into SpaceX and Palantir",
+    "url": "https://www.marketwatch.com/story/stanley-druckenmiller-dumped-these-chip-stocks-while-buying-into-spacex-and-palantir-9ae1f078?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Druckenmiller’s family office unloaded AMD and Sandisk shares in the third quarter.",
+    "published_at": "2026-11-17T07:28:00+08:00",
+    "stocks": [],
+    "uid": "1c201f8eb247c886370880faf910b1cc"
+  },
+  {
+    "title": "Montauk (MNTK) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/16/montauk-mntk-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Covenant pressure and Turkey facility delays cloud the company's liquidity outlook.",
+    "published_at": "2026-11-17T07:27:34+08:00",
+    "stocks": [
+      "MNTK"
+    ],
+    "uid": "2b97a1378cea6a951d6c6d022bbcfa4e"
+  },
+  {
+    "title": "Jim Cramer says Nvidia’s leadership shake-up won’t derail the AI trade",
+    "url": "https://www.cnbc.com/2026/11/16/nvidia-cramer-ai-trade-leadership-change.html",
+    "source": "CNBC Top",
+    "summary": "CNBC's Jim Cramer pushed back against fears that Nvidia's leadership shake-up could unravel the AI boom.",
+    "published_at": "2026-11-17T07:23:47+08:00",
+    "stocks": [],
+    "uid": "3556c7aae8675bfa8eebff8d7ccb68ff"
+  },
+  {
+    "title": "Tech Leaders Want Jensen Huang to Return to Nvidia. Here’s What That Would Mean for the Stock Price.",
+    "url": "https://www.fool.com/investing/2026/11/16/tech-leaders-want-jensen-huang-to-return-to-nvidia-here-s-what-that-would-mean-for-the-stock-price/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Jensen Huang resigned last week amid turmoil.",
+    "published_at": "2026-11-17T07:15:02+08:00",
+    "stocks": [],
+    "uid": "2c3a9e815519dbbe43dc2c3639b44696"
+  },
+  {
+    "title": "Elauwit (ELWT) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/16/elauwit-elwt-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Recurring WiFi revenue is climbing as cost cuts narrow the loss.",
+    "published_at": "2026-11-17T07:09:38+08:00",
+    "stocks": [
+      "ELWT"
+    ],
+    "uid": "022befb9416a79d3212506b52bdbc35b"
+  },
+  {
+    "title": "Aschenbrenner’s Situational Awareness made AI bets again before October rout",
+    "url": "https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html",
+    "source": "CNBC Top",
+    "summary": "Leopold Aschenbrenner's hedge fund, which almost collapsed over the summer, bought AI stocks before shares began tumbling.",
+    "published_at": "2026-11-17T07:05:12+08:00",
+    "stocks": [],
+    "uid": "9be2fac08bc6c92b4ce4f274f3d21ef4"
+  },
+  {
+    "title": "Should You Buy Alibaba Stock Before the Huge Investor Update?",
+    "url": "https://www.fool.com/investing/2026/11/16/should-you-buy-alibaba-stock-before-the-huge-investor-update/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Alibaba is sometimes referred to as the Amazon of China.",
+    "published_at": "2026-11-17T07:05:02+08:00",
+    "stocks": [],
+    "uid": "5e1269a1416c3cedd80f197373c6cdaa"
+  },
+  {
+    "title": "If I Could Buy and Hold Only 1 AI Hyperscaler Through 2030, It Would Be This One",
+    "url": "https://www.fool.com/investing/2026/11/16/if-i-could-buy-and-hold-only-1-ai-hyperscaler-thro/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This company has proven its ability to invest wisely.",
+    "published_at": "2026-11-17T07:05:00+08:00",
+    "stocks": [],
+    "uid": "c98eddd0f9b4a15bb6c9577c8763d5c0"
+  },
+  {
+    "title": "Do Amazon’s Black Friday deals really save you money? A new report casts doubt.",
+    "url": "https://www.marketwatch.com/story/do-amazons-black-friday-deals-really-save-you-money-03859cf3?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Almost a third of Amazon Black Friday deals “provided no savings at all” in the last two years, a report says. The retailer is pushing back.",
+    "published_at": "2026-11-17T07:04:00+08:00",
+    "stocks": [],
+    "uid": "f10207558c929306d139a7b88833ce20"
+  },
+  {
+    "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
+    "url": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
+    "source": "CNBC Finance",
+    "summary": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America.",
+    "published_at": "2026-11-17T07:01:19+08:00",
+    "stocks": [],
+    "uid": "0ae952cc58f4be00988e43323d8f1993"
+  },
+  {
+    "title": "KinderCare: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/16/kindercare-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Administrative shifts freeing center directors to win back families could matter more to long-term margins than the lease savings alone.",
+    "published_at": "2026-11-17T07:00:02+08:00",
+    "stocks": [],
+    "uid": "f7ebdc33a3ab10ca954c8df644e34326"
+  },
+  {
+    "title": "American Public Education: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/16/american-public-education-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Savings and campus expansion, not just the revenue beat, may help determine whether margins reach the 20% to 21% target.",
+    "published_at": "2026-11-17T07:00:02+08:00",
+    "stocks": [],
+    "uid": "0d658559d49fab4d8191746968b0d886"
+  },
+  {
+    "title": "CNBC's The China Connection newsletter: As Nike and Lululemon struggle in China, Xiaohongshu is helping local brands take off",
+    "url": "https://www.cnbc.com/2026/11/16/as-nike-lululemon-struggle-in-china-xiaohongshu-helps-local-brands.html",
+    "source": "CNBC Top",
+    "summary": "There's one formula for success behind the rise of trendy new Chinese fashion brands, according to Euromonitor International.",
+    "published_at": "2026-11-17T07:00:01+08:00",
+    "stocks": [],
+    "uid": "c65f06f5bf1567ba4c3156882ddedfa0"
+  },
+  {
+    "title": "Stock Market Today, Nov. 16: IREN Slides as Neocloud Weakness and Tech Sector Selling Put Pressure on Shares",
+    "url": "https://www.fool.com/coverage/stock-market-today/2026/11/16/stock-market-today-nov-16-iren-slides-as-neocloud-weakness-and-tech-sector-selling-put-pressure-on-shares/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Today, Nov. 16, 2026, AI cloud operator IREN closed lower as sector peers slipped and investors weighed infrastructure execution.",
+    "published_at": "2026-11-17T06:50:55+08:00",
+    "stocks": [],
+    "uid": "63826e344e52380c43f5bb1393cc8f39"
+  },
+  {
+    "title": "Bessent Takes Hawkish Turn in White House Debate on China",
+    "url": "https://www.nytimes.com/2026/11/16/us/politics/bessent-lutnick-china.html",
+    "source": "NYT Business",
+    "summary": "The Treasury secretary who sought to de-escalate tariff wars is taking a tougher approach to exports of sensitive U.S. technology.",
+    "published_at": "2026-11-17T06:46:09+08:00",
+    "stocks": [],
+    "uid": "2fcdcdaf60cd2cb37c7fd50d4f1023e7"
+  },
+  {
+    "title": "U.S. dollar’s AI-driven breakout could become a stock-market wrecking ball",
+    "url": "https://www.marketwatch.com/story/u-s-dollars-ai-driven-breakout-could-become-a-stock-market-wrecking-ball-18199b95?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The dollar recently climbed to its strongest level in a year and a half.",
+    "published_at": "2026-11-17T06:46:00+08:00",
+    "stocks": [],
+    "uid": "4f825a77f2d40e48eb77fb64a2c0d661"
+  },
+  {
+    "title": "Strategic Education: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/16/strategic-education-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Australia's visa crackdown forced a $134 million writedown, yet management now expects flat 2027 revenue and is redirecting capital.",
+    "published_at": "2026-11-17T06:45:02+08:00",
+    "stocks": [],
+    "uid": "543ada522e27da84e5b55b3f44f9d8fc"
+  },
+  {
+    "title": "Definium Therapeutics: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/16/definium-therapeutics-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Two encouraging changes from five patients hint at a pipeline beyond depression and anxiety, but the early-stage data leaves open whether DT402 can carry that weight.",
+    "published_at": "2026-11-17T06:45:02+08:00",
+    "stocks": [],
+    "uid": "f82bf19820761f8a92ee4edd0fe50d74"
+  },
+  {
+    "title": "Sera: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/16/sera-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Physicians need twelve to eighteen months to move from trial use to routine ordering, so the coverage wins matter more on a multi-year timeline.",
+    "published_at": "2026-11-17T06:45:02+08:00",
+    "stocks": [],
+    "uid": "dbf5079b197a768d2759d35dbd005a9d"
+  },
+  {
+    "title": "Dentsply Sirona: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/16/dentsply-sirona-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Debt reduction now competes with commercial spending for priority, and management's sales-team buildout for dental support organizations may test how much cash the business can free up.",
+    "published_at": "2026-11-17T06:45:02+08:00",
+    "stocks": [],
+    "uid": "e6e7c5ef18d075734b7f80f8ccdb8565"
+  },
+  {
+    "title": "Blackstone Digital (BXDC) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/16/blackstone-digital-bxdc-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Its first investment is a $5 billion Amazon data center sale-leaseback deal.",
+    "published_at": "2026-11-17T06:42:35+08:00",
+    "stocks": [
+      "BXDC"
+    ],
+    "uid": "cd11800650868cf7f71595a10b1deb66"
+  },
+  {
+    "title": "4 Chip Stocks Down as Much as 36% From Their Highs to Buy and Hold for the Next Decade",
+    "url": "https://www.fool.com/investing/2026/11/16/4-chip-stocks-down-as-much-as-36-from-their-highs-to-buy-and-hold-for-the-next-decade/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Four AI chip stocks trade as much as a third under their records. Which would I want to own for 10 years?",
+    "published_at": "2026-11-17T06:41:02+08:00",
+    "stocks": [],
+    "uid": "27d3415d07d42a964a32926f88c38f10"
+  },
+  {
+    "title": "Crypto Market Today, Nov. 16: Bitcoin Searches for Stability After $230 Billion Crypto Sell-Off",
+    "url": "https://www.fool.com/coverage/stock-market-today/2026/11/16/crypto-market-today-nov-16-bitcoin-searches-for-stability-after-usd230-billion-crypto-sell-off/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Major cryptocurrencies are approaching critical support levels after surrendering much of their summer gains, leaving an already fragile market vulnerable to fresh bear-market lows.",
+    "published_at": "2026-11-17T06:40:02+08:00",
+    "stocks": [],
+    "uid": "6d217760f32fb0f03c53b8750eff8193"
+  },
+  {
+    "title": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
+    "url": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
+    "source": "CNBC Top",
+    "summary": "Trump’s accounts sold up to $1 million in Nvidia stock five days after he was briefed on Jensen Huang’s relationship with a suspected Chinese spy.",
+    "published_at": "2026-11-17T06:37:45+08:00",
+    "stocks": [],
+    "uid": "dd53bd11b8cb2d3a58f46450dd17b33f"
+  },
+  {
+    "title": "Trump Nominates Budget Deputy for Nonpartisan Federal Watchdog Role",
+    "url": "https://www.nytimes.com/2026/11/16/business/trump-gao-watchdog-nominee-eric-ueland.html",
+    "source": "NYT Business",
+    "summary": "The move could put a top administration official in charge of an oversight agency that has faulted the White House for past violations of the law.",
+    "published_at": "2026-11-17T06:37:01+08:00",
+    "stocks": [],
+    "uid": "105273a7d84309af3a31d0a3d3f75fee"
+  },
+  {
+    "title": "Berkshire upped its bet on a beleaguered U.S. housing market, while souring on these bank stocks",
+    "url": "https://www.marketwatch.com/story/berkshire-upped-its-bet-on-a-beleaguered-u-s-housing-market-while-souring-on-these-bank-stocks-2e8de402?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Berkshire Hathaway stepped up its investments in the U.S. housing market last quarter, nearly doubling its stake in home builder Lennar.",
+    "published_at": "2026-11-17T06:33:00+08:00",
+    "stocks": [],
+    "uid": "633059edf4401e915265d6929f2a04af"
+  },
+  {
+    "title": "biote: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/16/biote-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Data analytics now target lagging clinics, while medical training aims to keep practitioners engaged across the network.",
+    "published_at": "2026-11-17T06:30:02+08:00",
+    "stocks": [],
+    "uid": "b297c17b7a9bcfb1a990a085db003231"
+  },
+  {
+    "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
+    "url": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
+    "source": "CNBC Finance",
+    "summary": "CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.",
+    "published_at": "2026-11-17T06:14:47+08:00",
+    "stocks": [],
+    "uid": "2754926bdd43af807b87518b971be74f"
+  },
+  {
+    "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
+    "url": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
+    "source": "CNBC Top",
+    "summary": "Two OpenAI models in July gained unauthorized access to Hugging Face's internal systems to find information for use in cheating on an evaluation.",
+    "published_at": "2026-11-17T06:11:09+08:00",
+    "stocks": [],
+    "uid": "925fa196b34dd70aa88fbe12c326ffd4"
+  },
+  {
+    "title": "Altimeter's Brad Gerstner aims to invest $5 billion in Anthropic IPO",
+    "url": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html",
+    "source": "CNBC Tech",
+    "summary": "Gerstner told CNBC that he's looking to put five time as much money into Anthropic as he's ever put into an IPO.",
+    "published_at": "2026-11-17T06:01:12+08:00",
+    "stocks": [],
+    "uid": "959eb36c8f71da8609bdc0e192334ba9"
+  },
+  {
+    "title": "OpenAI inks agreements with four independent evaluators to boost company's safety work",
+    "url": "https://www.cnbc.com/2026/11/16/openai-independent-ai-safety-evaluators.html",
+    "source": "CNBC Top",
+    "summary": "Independent evaluators have taken on outsized importance following a series of high-profile AI safety and security incidents.",
+    "published_at": "2026-11-17T05:54:18+08:00",
+    "stocks": [],
+    "uid": "d6b076dff352e652312920e33e0991f0"
+  },
+  {
+    "title": "Nvidia fallout: Commerce targets loophole for China's data center use",
+    "url": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
+    "source": "CNBC Top",
+    "summary": "The rule was written by the Treasury Department and the National Security Council after criticism of Commerce Secretary Howard Lutnick.",
+    "published_at": "2026-11-17T05:51:43+08:00",
+    "stocks": [],
+    "uid": "0ee240ce075e1b89dfd2e4230970dde6"
+  },
+  {
+    "title": "Kalshi plans to launch stock trading soon",
+    "url": "https://www.cnbc.com/2026/11/16/kalshi-plans-to-launch-stock-trading-soon.html",
+    "source": "CNBC Top",
+    "summary": "Kalshi's interest in offering stock trading shows the platform's push into traditional financial markets.",
+    "published_at": "2026-11-17T05:23:34+08:00",
+    "stocks": [],
+    "uid": "eade3787f9494de194eb2920cf52f2fd"
+  },
+  {
+    "title": "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
+    "url": "https://www.nytimes.com/2026/11/16/business/economy/warsh-ai-economy.html",
+    "source": "NYT Business",
+    "summary": "Kevin M. Warsh, chairman of the Federal Reserve, has assigned a task force to explore how productivity gains tied to new technologies could impact the labor market.",
+    "published_at": "2026-11-17T05:08:30+08:00",
+    "stocks": [],
+    "uid": "c4ba5a2e708d2fc40f7678c23facc879"
+  },
+  {
+    "title": "Eli Lilly makes a deal outside obesity. Plus, another word of caution on Nvidia",
+    "url": "https://www.cnbc.com/investingclub/2026/11/16/eli-lilly-makes-a-deal-outside-obesity-plus-another-word-of-caution-on-nvidia.html",
+    "source": "CNBC Top",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "published_at": "2026-11-17T04:07:46+08:00",
+    "stocks": [],
+    "uid": "a144cc8acf7dfdf561470d335121bdb3"
+  },
+  {
+    "title": "Nvidia has plenty of reasons not to bring back Jensen Huang",
+    "url": "https://www.businessinsider.com/nvidia-jensen-huang-sam-altman-openai-trump-board-2026-11",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-11-17T04:04:00+08:00",
+    "stocks": [],
+    "uid": "eb3ccf3947025e9556e6727504853c89"
+  },
+  {
+    "title": "Vigloo Launches Global Search for Its Next Microdrama Series with Short Drama Festival 2",
+    "url": "https://markets.businessinsider.com/news/stocks/vigloo-launches-global-search-for-its-next-microdrama-series-with-short-drama-festival-2-1036770728",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;center&quot; style=&quot;text-align:center;&quot;&gt;&lt;u&gt;&lt;img alt=&quot;Vigloo Short Drama Festival&quot; data-mce-style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; height=&quot;338&quot;...",
+    "published_at": "2026-11-17T04:00:00+08:00",
+    "stocks": [],
+    "uid": "9230770127698b6e173f0a1c156639dd"
+  },
+  {
+    "title": "HII is Awarded Contract for Production of Additional U.S. Navy Lionfish Unmanned Undersea Vehicles",
+    "url": "https://markets.businessinsider.com/news/stocks/hii-is-awarded-contract-for-production-of-additional-u-s-navy-lionfish-unmanned-undersea-vehicles-1036770726",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;POCASSET, Mass., Nov.  16, 2026  (GLOBE NEWSWIRE) -- HII (NYSE: HII), a global leader in autonomous unmanned maritime systems, has received an updated U.S. Navy contract to build an additional 82 Lionfish small unmanned undersea vehicles (SUUVs),...",
+    "published_at": "2026-11-17T04:00:00+08:00",
+    "stocks": [],
+    "uid": "29ecf0a41e04afa44d632b63a15556ae"
+  },
+  {
+    "title": "Minuteman Press Franchise in Leduc Celebrates New Location and Major Business Milestones with Grand Reopening",
+    "url": "https://markets.businessinsider.com/news/stocks/minuteman-press-franchise-in-leduc-celebrates-new-location-and-major-business-milestones-with-grand-reopening-1036770727",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;LEDUC, Alberta, Nov.  16, 2026  (GLOBE NEWSWIRE) -- Brad and Colette Krause are celebrating several exciting milestones at&#160;&lt;a href=&quot;https://minuteman.com/ca/locations/ab/leduc/&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;Minuteman Press in Leduc, Alberta&lt;/a&gt;.",
+    "published_at": "2026-11-17T04:00:00+08:00",
+    "stocks": [],
+    "uid": "115a6be07b62aaa127f1783cc4fa40b5"
+  },
+  {
+    "title": "Peabody Energy hiked to Buy at UBS with Centurion 'down but not broken'",
+    "url": "https://seekingalpha.com/news/4673239-peabody-energy-hiked-to-buy-at-ubs-with-centurion-down-but-not-broken?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-11-17T03:55:15+08:00",
+    "stocks": [],
+    "uid": "4b7b18f78ff4454c203062124d284e92"
+  },
+  {
+    "title": "Maryland Lieutenant Governor and Comptroller Helped Open Howard County's First Public Trades Center at Howard Community College",
+    "url": "https://markets.businessinsider.com/news/stocks/maryland-lieutenant-governor-and-comptroller-helped-open-howard-county-s-first-public-trades-center-at-howard-community-college-1036770697",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;Columbia, Md, Nov.  16, 2026  (GLOBE NEWSWIRE) -- Maryland Lt. Governor Aruna Miller and Comptroller Brooke Lierman joined Howard Community College (HCC) leaders, state and county legislators, donors, and industry partners on Monday, Nov.",
+    "published_at": "2026-11-17T03:54:47+08:00",
+    "stocks": [
+      "HCC"
+    ],
+    "uid": "1d116cd3dd6dcc9d51e378dad21209ea"
+  },
+  {
+    "title": "CENTEGIX and VOLT Bring AI-Powered Video Intelligence to CITE 2026",
+    "url": "https://markets.businessinsider.com/news/stocks/centegix-and-volt-bring-ai-powered-video-intelligence-to-cite-2026-1036770696",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;ATLANTA, Nov.  16, 2026  (GLOBE NEWSWIRE) -- &lt;a href=&quot;https://www.globenewswire.com/Tracker?data=G_d8YIMh4DNwZqqSMyXR6E1VNRfiHvSDIEUsvMpAireqMZ7dFmCnGQDidUsvMx9bJX5_sOFVwE6104EUVdLylg==&quot; rel=&quot;nofollow&quot;...",
+    "published_at": "2026-11-17T03:54:01+08:00",
+    "stocks": [],
+    "uid": "009a06f7126f6da2d41c8543e7a6697a"
+  },
+  {
+    "title": "H&amp;R REIT reports Q3 results",
+    "url": "https://seekingalpha.com/news/4673251-handr-reit-reports-q3-results?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-11-17T03:52:20+08:00",
+    "stocks": [],
+    "uid": "22195154edd13e352f854b8c4480cadc"
+  },
+  {
+    "title": "Uniserve Strengthens Its Platform for Growth with Appointment of Kristin Marzec",
+    "url": "https://markets.businessinsider.com/news/stocks/uniserve-strengthens-its-platform-for-growth-with-appointment-of-kristin-marzec-1036770694",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/324334/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px;  height: 1px;border: 0px solid;&quot;&gt;Vancouver, British Columbia--(Newsfile Corp. - November 16, 2026) - Uniserve Communications Corporation (TSXV: COMP) (the &quot;Company&quot; or &quot;Uniserve&quot;), a sovereign Canadian digital infrastructure platform...",
+    "published_at": "2026-11-17T03:51:00+08:00",
+    "stocks": [],
+    "uid": "a4cb61c0da6d04bed7d413c01937b199"
+  },
+  {
+    "title": "SMR UPCOMING DEADLINE: Faruqi & Faruqi, LLP Reminds NuScale Power (SMR) Investors of Securities Class Action Lawsuit Deadline on January 11, 2027",
+    "url": "https://markets.businessinsider.com/news/stocks/smr-upcoming-deadline-faruqi-faruqi-llp-reminds-nuscale-power-smr-investors-of-securities-class-action-lawsuit-deadline-on-january-11-2027-1036770695",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/324182/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px;  height: 1px;border: 0px solid;&quot;&gt;&lt;b&gt;Faruqi  Faruqi, LLP Securities Litigation Partner &lt;/b&gt;&lt;a href=&quot;https://api.newsfilecorp.com/redirect/zA4ZoCKM1o&quot; rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot;&gt;&lt;b&gt;James (Josh) Wilson&lt;/b&gt;&lt;/a&gt;&lt;b&gt; Encourages...",
+    "published_at": "2026-11-17T03:49:00+08:00",
+    "stocks": [
+      "SMR"
+    ],
+    "uid": "566347728d8f70b1afe75483780c50f2"
+  },
+  {
+    "title": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
+    "url": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
+    "source": "CNBC Tech",
+    "summary": "Jensen Huang resigned from Nvidia last week after 33 years as CEO.",
+    "published_at": "2026-11-17T03:46:26+08:00",
+    "stocks": [],
+    "uid": "8823de81bca4e53b72cb163dd82f5b83"
+  },
+  {
+    "title": "This Anthropic proxy play is getting traders' attention – here's where they see it going",
+    "url": "https://www.cnbc.com/2026/11/16/anthropic-proxy-destiny-tech100-fund.html",
+    "source": "CNBC Top",
+    "summary": "There are bullish signs surrounding the Anthropic IPO in the derivatives market.",
+    "published_at": "2026-11-17T03:06:11+08:00",
+    "stocks": [],
+    "uid": "90daba774589cbc6caa78de7f139ac95"
+  },
+  {
+    "title": "Market's Nvidia obsession obscuring an opportunity in this name",
+    "url": "https://www.cnbc.com/2026/11/16/disney-options-trade-before-earnings.html",
+    "source": "CNBC Top",
+    "summary": "Investors might be overlooking Disney earnings.",
+    "published_at": "2026-11-17T02:56:49+08:00",
+    "stocks": [],
+    "uid": "e02348481888898d5c78a98d4a45d3bc"
+  },
+  {
+    "title": "Willie Geist Is Leaving ‘Morning Joe’ After Nearly 20 Years",
+    "url": "https://www.nytimes.com/2026/11/16/business/media/willie-geist-morning-joe-today.html",
+    "source": "NYT Business",
+    "summary": "He will take on an expanded role at NBC News, where he has been the host of the Sunday edition of the “Today” show since 2016.",
+    "published_at": "2026-11-17T02:41:33+08:00",
+    "stocks": [],
+    "uid": "e62796b55337f53af6b5c18bb51c34f6"
+  },
+  {
     "title": "Warren Buffett donates $5.5 billion, says kindness 'compounds' in Thanksgiving letter",
     "url": "https://www.cnbc.com/2026/11/16/warren-buffett-donates-5point5-billion-thanksgiving.html",
     "source": "CNBC Top",
