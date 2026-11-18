@@ -13,6 +13,1433 @@
     "summary_en": "The autonomic nervous system is a key system that maintains our life activities. It delicately regulates the precise operation of internal organs and neuroendocrine systems, including breathing, heartbeat, blood circulation, blood pressure, body temperature, perspiration, gastrointestinal digestion, reproduction, hormone secretion, sleep and metabolism, etc. This system is composed of sympathetic nerves and parasympathetic nerves. The sympathetic nerve is like the accelerator of a car, responsible for accelerating; the parasympathetic nerve is like the brake, responsible for slowing down. The balance and coordination between these two is essential to keep our life moving.\n\nWu Jiahong pointed out that modern people’s busy life pace and generally unhealthy lifestyle can easily destroy this balance, leading to imbalance of the sympathetic and parasympathetic nervous systems, which in turn can lead to various symptoms, such as dizziness, inattention, memory loss, abnormal heartbeat and blood pressure, chest tightness, mood swings, anxiety and irritability, poor sleep quality, digestive problems, metabolic abnormalities and immune system diseases, etc., affecting the whole body from head to toe. When middle-aged women face these symptoms that they have never experienced before, they often worry about their health conditions and seek various medical assistance. However, autonomic nervous system disorders are difficult to diagnose during routine health examinations, which increases their anxiety and worry. Fortunately, with the popularity of online information, many people are beginning to realize that these symptoms may stem from autonomic nervous system disorders."
   },
   {
+    "title": "ABF、CCL 殺過頭迎估值重置！美銀重申市場過度悲觀喊買欣興、台光電",
+    "url": "https://finance.technews.tw/2026/11/18/valuation-reset/",
+    "source": "科技新報",
+    "summary": "AI 伺服器供應鏈近期面臨劇烈震盪，其中 ABF 載板與銅箔基板（CCL）族群股價自 10 月高點至 11 月 [&#8230;]",
+    "published_at": "2026-11-18T09:19:16+08:00",
+    "stocks": [],
+    "uid": "ae44ecb0fde9991c924efc451c64775b",
+    "title_zh": "ABF、CCL 殺過頭迎估值重置！美銀重申市場過度悲觀喊買欣興、台光電",
+    "summary_zh": "AI 伺服器供應鏈近期面臨劇烈震盪，其中 ABF 載板與銅箔基板（CCL）族群股價自 10 月高點至 11 月 [&#8230;]",
+    "title_en": "ABF and CCL overshoot to welcome valuation reset! Bank of America reiterates that the market is overly pessimistic and calls for buying Yunxing, Taiwan Optoelectronics",
+    "summary_en": "The AI ​​server supply chain has faced severe fluctuations recently, with the stock prices of the ABF carrier board and copper foil substrate (CCL) group rising from the October high to November […]"
+  },
+  {
+    "title": "資料缺乏上下文，AI 代理人恐從「無法存取」變成「帶著風險運作」",
+    "url": "https://technews.tw/2026/11/18/why-fragmented-data-estates-can-drain-leaders-ai-budgets/",
+    "source": "科技新報",
+    "summary": "企業在加速導入 AI 代理人（AI Agents）的過程中，真正的瓶頸往往不在於模型本身，而是在於資料是否具備 [&#8230;]",
+    "published_at": "2026-11-18T09:15:11+08:00",
+    "stocks": [],
+    "uid": "5558c08212276d8504925b9045766b19",
+    "title_zh": "資料缺乏上下文，AI 代理人恐從「無法存取」變成「帶著風險運作」",
+    "summary_zh": "企業在加速導入 AI 代理人（AI Agents）的過程中，真正的瓶頸往往不在於模型本身，而是在於資料是否具備 [&#8230;]",
+    "title_en": "Data lacks context, and AI agents may go from \"unable to access\" to \"operating with risk\"",
+    "summary_en": "In the process of accelerating the introduction of AI Agents by enterprises, the real bottleneck often lies not in the model itself, but in whether the data has […]"
+  },
+  {
+    "title": "新台幣開盤升2分　為32.83元",
+    "url": "https://money.udn.com/money/story/5612/9885618",
+    "source": "經濟日報股市",
+    "summary": "台北外匯市場新台幣兌美元匯率今天以32.83元開盤，升2分。",
+    "published_at": "2026-11-18T09:12:30+08:00",
+    "stocks": [],
+    "uid": "29eace011775652eec8b4c5962017271",
+    "title_zh": "新台幣開盤升2分　為32.83元",
+    "summary_zh": "台北外匯市場新台幣兌美元匯率今天以32.83元開盤，升2分。",
+    "title_en": "The New Taiwan dollar opened up 2 cents to 32.83 yuan",
+    "summary_en": "The New Taiwan dollar opened at 32.83 yuan against the U.S. dollar in the Taipei foreign exchange market today, up 2 cents."
+  },
+  {
+    "title": "台股開盤漲627.98點",
+    "url": "https://money.udn.com/money/story/5612/9885617",
+    "source": "經濟日報股市",
+    "summary": "台北股市今天開盤漲627.98點，加權股價指數為40720.09點，成交金額新台幣186.52億元。",
+    "published_at": "2026-11-18T09:12:20+08:00",
+    "stocks": [],
+    "uid": "86c0778cc13e5e38248cfd6674acee14",
+    "title_zh": "台股開盤漲627.98點",
+    "summary_zh": "台北股市今天開盤漲627.98點，加權股價指數為40720.09點，成交金額新台幣186.52億元。",
+    "title_en": "Taiwan stocks opened up 627.98 points",
+    "summary_en": "The Taipei stock market opened up 627.98 points today, with the weighted stock price index at 40,720.09 points, and the transaction volume was NT$18.652 billion."
+  },
+  {
+    "title": "矽品攜輝達簽數十億美元協議 台灣先進封裝產能2029年中擴至3倍",
+    "url": "https://money.udn.com/money/story/5612/9885611",
+    "source": "經濟日報股市",
+    "summary": "日月光投控（3711）旗下矽品今（18）日宣布，與輝達（NVIDIA）達成數十億美元的多年期合作協議，將擴大台灣先進封裝產能，目標於2029年中增至目前的3倍，支援輝達先進AI平台量產，因應全球AI基礎設施需求快速成長。",
+    "published_at": "2026-11-18T09:10:06+08:00",
+    "stocks": [
+      "3711"
+    ],
+    "uid": "237a39e1bd324c365a5e0465b4530f77",
+    "title_zh": "矽品攜輝達簽數十億美元協議 台灣先進封裝產能2029年中擴至3倍",
+    "summary_zh": "日月光投控（3711）旗下矽品今（18）日宣布，與輝達（NVIDIA）達成數十億美元的多年期合作協議，將擴大台灣先進封裝產能，目標於2029年中增至目前的3倍，支援輝達先進AI平台量產，因應全球AI基礎設施需求快速成長。",
+    "title_en": "Silicon Products and Huida sign multi-billion dollar agreement to expand Taiwan's advanced packaging production capacity to three times by mid-2029",
+    "summary_en": "Silicon Products, a subsidiary of ASE Investment Holdings (3711), announced today (18th) that it has reached a multi-billion-dollar, multi-year cooperation agreement with NVIDIA to expand Taiwan's advanced packaging production capacity, with the goal of tripling the current level by mid-2029, to support the mass production of NVIDIA's advanced AI platform, and to respond to the rapid growth of global AI infrastructure demand."
+  },
+  {
+    "title": "「雙太陽」柯文哲黃國昌下午合體張啓楷掃街 王美惠掃街拚陸戰",
+    "url": "https://money.udn.com/money/story/12622/9885610",
+    "source": "經濟日報總經",
+    "summary": "嘉義市長選戰最後衝刺，藍白綠陣營把握關鍵時刻，車掃、步行拜票。藍白共推市長候選人張啓楷，下午將由民眾黨前主席柯文哲、現任主席黃國昌陪同，從競總出發車掃。張啓楷指稱這是「雙太陽」相挺，藉兩位重量級人物合體助選，形塑藍白合示範區團結勝選氣勢。民進黨市長候選人王美惠持續在市場、公園人潮聚集處，請託拜票。",
+    "published_at": "2026-11-18T09:10:00+08:00",
+    "stocks": [],
+    "uid": "fad00ff99a9d73fdff10035f1a1d10ba",
+    "title_zh": "「雙太陽」柯文哲黃國昌下午合體張啓楷掃街 王美惠掃街拚陸戰",
+    "summary_zh": "嘉義市長選戰最後衝刺，藍白綠陣營把握關鍵時刻，車掃、步行拜票。藍白共推市長候選人張啓楷，下午將由民眾黨前主席柯文哲、現任主席黃國昌陪同，從競總出發車掃。張啓楷指稱這是「雙太陽」相挺，藉兩位重量級人物合體助選，形塑藍白合示範區團結勝選氣勢。民進黨市長候選人王美惠持續在市場、公園人潮聚集處，請託拜票。",
+    "title_en": "\"Double Suns\" Ke Wenzhe and Huang Guochang merged with Zhang Qikai to sweep the streets in the afternoon. Wang Meihui swept the streets and fought on land.",
+    "summary_en": "In the final sprint of the Chiayi mayoral election, the blue, white, and green camps seized the critical moment, scanning cars and walking to vote. Zhang Qikai, the mayoral candidate co-sponsored by Blue and White, will be accompanied by the former chairman of the People's Party, Ko Wenzhe, and the current chairman, Huang Guochang, as they set off from the competition in the afternoon. Zhang Qikai referred to this as \"two suns\" supporting each other, using the two heavyweights to join forces to support the election, creating a unity and victory momentum in the blue and white demonstration area. Democratic Progressive Party mayoral candidate Wang Meihui continues to gather in markets and parks where crowds gather, asking for votes."
+  },
+  {
+    "title": "影／選戰倒數搶攻藍票倉 蘇巧慧合體議員中和站路口拜票",
+    "url": "https://money.udn.com/money/story/12622/9885603",
+    "source": "經濟日報總經",
+    "summary": "選戰進入最後10天倒數階段，民進黨新北市長候選人蘇巧慧今日上午在中和、永和及新店等區多位市議員候選人陪同下，前往中和區華中橋頭站路口向選民拜票。蘇巧慧在受訪時針對選區經營、選舉公報政見規劃以及近期外界關注的相關議題作出說明。",
+    "published_at": "2026-11-18T09:06:40+08:00",
+    "stocks": [],
+    "uid": "85096e5d0b1ba6de1b899e558b2c4332",
+    "title_zh": "影／選戰倒數搶攻藍票倉 蘇巧慧合體議員中和站路口拜票",
+    "summary_zh": "選戰進入最後10天倒數階段，民進黨新北市長候選人蘇巧慧今日上午在中和、永和及新店等區多位市議員候選人陪同下，前往中和區華中橋頭站路口向選民拜票。蘇巧慧在受訪時針對選區經營、選舉公報政見規劃以及近期外界關注的相關議題作出說明。",
+    "title_en": "Film/The countdown to the election campaign is about attacking the blue vote warehouse. Su Qiaohui merges with Councilor Zhonghe Station to pray for votes.",
+    "summary_en": "As the election campaign enters the final 10-day countdown, New Taipei Mayor candidate Su Qiaohui of the Democratic Progressive Party, accompanied by several city council candidates from Zhonghe, Yonghe and Xindian districts, went to the intersection of Huazhong Qiaotou Station in Zhonghe District to vote for voters this morning. During the interview, Su Qiaohui explained the constituency management, election bulletin political opinion planning, and related issues of recent external concern."
+  },
+  {
+    "title": "財富自由》投資大師選股-收益型選股專家",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5644464",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕自由時報「財富自由」頻道與台灣經濟新報（https://www.tejwin.com）合作，即日起推出「大師選股」，依歐美投資大師的選股邏輯與原則，套用於台股之上，篩選出最...…",
+    "published_at": "2026-11-18T09:05:44+08:00",
+    "stocks": [],
+    "uid": "2c29de627893d64cfa96cb524c016fce",
+    "title_zh": "財富自由》投資大師選股-收益型選股專家",
+    "summary_zh": "〔財經頻道／綜合報導〕自由時報「財富自由」頻道與台灣經濟新報（https://www.tejwin.com）合作，即日起推出「大師選股」，依歐美投資大師的選股邏輯與原則，套用於台股之上，篩選出最...…",
+    "title_en": "Wealth Freedom》Investment Master Stock Picking-Income Stock Picking Expert",
+    "summary_en": "[Financial Channel/Comprehensive Report] Liberty Times' \"Wealth Freedom\" channel cooperates with Taiwan Economic News (https://www.tejwin.com) to launch \"Master Stock Picking\" from now on. Based on the stock picking logic and principles of European and American investment masters, it is applied to Taiwan stocks to select the best..."
+  },
+  {
+    "title": "台股開盤》半導體、ABF載板大反攻 指數漲逾800點",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5644463",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕美股週二4大指數跌多漲少，然輝達盤後交出亮麗財報，激勵盤後股價一度漲逾4%，受此激勵，亞股週三跟進反彈，韓股飆逾3.3%，而日經亦開高漲770點，台股則在台積電、聯電、南亞...…",
+    "published_at": "2026-11-18T09:05:08+08:00",
+    "stocks": [
+      "2330",
+      "1303",
+      "2303"
+    ],
+    "uid": "2099f4898d4fcb60d3fe92c37d405033",
+    "title_zh": "台股開盤》半導體、ABF載板大反攻 指數漲逾800點",
+    "summary_zh": "〔財經頻道／綜合報導〕美股週二4大指數跌多漲少，然輝達盤後交出亮麗財報，激勵盤後股價一度漲逾4%，受此激勵，亞股週三跟進反彈，韓股飆逾3.3%，而日經亦開高漲770點，台股則在台積電、聯電、南亞...…",
+    "title_en": "Taiwan stocks open》Semiconductors and ABF carrier boards counterattack, the index rises more than 800 points",
+    "summary_en": "[Financial Channel/Comprehensive Report] The four major U.S. stock indexes fell more than rose on Tuesday. However, Huida delivered a brilliant financial report after the market, which inspired the stock price to rise by more than 4% after the market closed. Encouraged by this, Asian stocks followed up and rebounded on Wednesday, with Korean stocks soaring more than 3.3%, and the Nikkei also opened higher by 770 points. Taiwanese stocks were trading at TSMC, UMC, Nanya..."
+  },
+  {
+    "title": "專家：AI將進入「金髮女孩」階段　台股大洗牌",
+    "url": "https://finance.ettoday.net/news/3274037",
+    "source": "ETtoday",
+    "summary": "<img alt=\"專家：AI將進入「金髮女孩」階段　台股大洗牌\" src=\"https://cdn2.ettoday.net/images/9020/c9020199.jpg\" /><br /> 台股近期震盪劇烈，明年行情怎麼看？凱基投顧董事長朱晏民認為，2027年AI產業將進入「金髮女孩」階段，雖然成長速度放緩，但需求依舊強勁，雲端業者資本支出預估年增46％。至於明年AI投資該選什麼？他透露，隨著AI代理（AI Agent）帶動新一波運算需求，最看好CPU，其次是ASIC，GPU則排在最後。他強調，這是凱基原先的投資布局方向，不是受到黃仁勳人事風波影響才改變看法。 <a href=\"https://finance.ettoday.net/news/3274037\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-11-18T09:03:00+08:00",
+    "stocks": [],
+    "uid": "320ba7fd2ee3443df5d981eaf785ee44",
+    "title_zh": "專家：AI將進入「金髮女孩」階段　台股大洗牌",
+    "summary_zh": "<img alt=\"專家：AI將進入「金髮女孩」階段　台股大洗牌\" src=\"https://cdn2.ettoday.net/images/9020/c9020199.jpg\" /><br /> 台股近期震盪劇烈，明年行情怎麼看？凱基投顧董事長朱晏民認為，2027年AI產業將進入「金髮女孩」階段，雖然成長速度放緩，但需求依舊強勁，雲端業者資本支出預估年增46％。至於明年AI投資該選什麼？他透露，隨著AI代理（AI Agent）帶動新一波運算需求，最看好CPU，其次是ASIC，GPU則排在最後。他強調，這是凱基原先的投資布局方向，不是受到黃仁勳人事風波影響才改變看法。 <a href=\"https://finance.ettoday.net/news/3274037\" target=\"_blank\">《詳全文...》</a>",
+    "title_en": "Expert: AI will enter the \"Goldilocks\" stage, causing a major reshuffle in Taiwan stocks",
+    "summary_en": "<img alt=\"Expert: AI will enter the \"Goldilocks\" stage and Taiwan stock market reshuffle\" src=\"https://cdn2.ettoday.net/images/9020/c9020199.jpg\" /><br /> Taiwan's stock market has been volatile recently. What do you think of the market next year? Zhu Yanmin, chairman of KGI Investment Consulting, believes that the AI industry will enter the \"Goldilocks\" stage in 2027. Although the growth rate has slowed down, demand remains strong, and cloud industry capital expenditures are expected to increase by 46% annually. As for what to choose for AI investment next year? He revealed that as AI Agents drive a new wave of computing demand, CPUs are the most optimistic, followed by ASICs, and GPUs are ranked last. He emphasized that this was KGI’s original investment layout direction and that he did not change his view due to the influence of Huang Renxun’s personnel crisis. <a href=\"https://finance.ettoday.net/news/3274037\" target=\"_blank\">\"Full text...\"</a>"
+  },
+  {
+    "title": "台積電35家優良供應商獎出爐 東京威力回歸 矽品等新廠商入榜",
+    "url": "https://money.udn.com/money/story/5648/9885600",
+    "source": "經濟日報總經",
+    "summary": "台積電 2026 年 11 月 17 日舉辦供應鏈管理論壇，頒發 2026 年優良供應商卓越表現獎，共 35 家供應商獲獎，比 2025 年多出 5 家。其中，東京威力科創重新回歸最優良供應商名單，和碩、矽品、艾波比近20家是今年新上榜名單 ；建築類七家廠商獲獎，今年達欣工程、彰京開發、根基營造、艾波比（ABB）、麗明營造五家，另二家和淞科技與 Austin Commercial連續二年入榜。",
+    "published_at": "2026-11-18T09:03:00+08:00",
+    "stocks": [],
+    "uid": "4fff20f87085f33a685b3b3c802945b8",
+    "title_zh": "台積電35家優良供應商獎出爐 東京威力回歸 矽品等新廠商入榜",
+    "summary_zh": "台積電 2026 年 11 月 17 日舉辦供應鏈管理論壇，頒發 2026 年優良供應商卓越表現獎，共 35 家供應商獲獎，比 2025 年多出 5 家。其中，東京威力科創重新回歸最優良供應商名單，和碩、矽品、艾波比近20家是今年新上榜名單 ；建築類七家廠商獲獎，今年達欣工程、彰京開發、根基營造、艾波比（ABB）、麗明營造五家，另二家和淞科技與 Austin Commercial連續二年入榜。",
+    "title_en": "TSMC’s 35 Excellent Supplier Awards are released, Tokyo Power returns, and new manufacturers such as Silicon Products enter the list",
+    "summary_en": "TSMC held a supply chain management forum on November 17, 2026, and awarded the 2026 Excellent Supplier Excellence Award. A total of 35 suppliers won the award, 5 more than in 2025. Among them, Tokyo Weili Technology has returned to the list of the best suppliers, and nearly 20 companies including Pegatron, Silicon Products, and Appleby are new to the list this year. Seven manufacturers in the construction category have won awards. This year, five companies including Daxin Engineering, Changjing Development, Genji Construction, ABB, and Liming Construction have entered the list for the second consecutive year. The other two companies, Hesong Technology and Austin Commercial, have entered the list for the second consecutive year."
+  },
+  {
+    "title": "盤中速報 - 櫃買市場加權指數上漲6.2點至312.81點，漲幅2.02%",
+    "url": "https://news.cnyes.com/news/id/6665838",
+    "source": "鉅亨網",
+    "summary": "",
+    "published_at": "2026-11-18T09:02:22+08:00",
+    "stocks": [
+      "TWS:3596:STOCK",
+      "TWS:3558:STOCK",
+      "TWS:4906:STOCK",
+      "TWS:3086:STOCK",
+      "TWS:3293:STOCK",
+      "TWS:3083:STOCK"
+    ],
+    "uid": "de09d2ce2d13ebe93332e28794af3b28",
+    "title_zh": "盤中速報 - 櫃買市場加權指數上漲6.2點至312.81點，漲幅2.02%",
+    "summary_zh": "",
+    "title_en": "Intraday quick report - the weighted index of the counter buying market rose 6.2 points to 312.81 points, an increase of 2.02%",
+    "summary_en": ""
+  },
+  {
+    "title": "台股回血846點逼近41K　台積電漲40元2210",
+    "url": "https://finance.ettoday.net/news/3274035",
+    "source": "ETtoday",
+    "summary": "<img alt=\"台股回血846點逼近41K　台積電漲40元2210\" src=\"https://cdn2.ettoday.net/images/5581/c5581187.jpg\" /><br /> 美股4大指數跌多漲少，台股今（18日）以40720點開出，指數上漲628點，隨後指數持續上漲，目前漲846.09點至40938.2點。台積電（2330）開盤上漲30元來到2200元，一度上漲40元至2210元，目前則漲25元至2195元。 <a href=\"https://finance.ettoday.net/news/3274035\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-11-18T09:02:00+08:00",
+    "stocks": [
+      "2330"
+    ],
+    "uid": "ebc2b92d4b123a164a53f569e9a86631",
+    "title_zh": "台股回血846點逼近41K　台積電漲40元2210",
+    "summary_zh": "<img alt=\"台股回血846點逼近41K　台積電漲40元2210\" src=\"https://cdn2.ettoday.net/images/5581/c5581187.jpg\" /><br /> 美股4大指數跌多漲少，台股今（18日）以40720點開出，指數上漲628點，隨後指數持續上漲，目前漲846.09點至40938.2點。台積電（2330）開盤上漲30元來到2200元，一度上漲40元至2210元，目前則漲25元至2195元。 <a href=\"https://finance.ettoday.net/news/3274035\" target=\"_blank\">《詳全文...》</a>",
+    "title_en": "Taiwan stocks regained 846 points and approached 41K; TSMC rose 40 yuan to 2210",
+    "summary_en": "<img alt=\"Taiwan stocks recovered 846 points and are approaching 41K; TSMC rose 40 yuan to 2210\" src=\"https://cdn2.ettoday.net/images/5581/c5581187.jpg\" /><br /> The four major U.S. stock indexes fell more than they rose. Taiwan stocks opened at 40,720 points today (18th), with the index rising 628 points. Subsequently, the index continued to rise, currently up 846.09 points to 40,938.2 points. TSMC (2330) opened up 30 yuan to 2,200 yuan, once rose 40 yuan to 2,210 yuan, and is currently up 25 yuan to 2,195 yuan. <a href=\"https://finance.ettoday.net/news/3274035\" target=\"_blank\">\"Full text...\"</a>"
+  },
+  {
+    "title": "台股暴跌！　專家揭「AI訂單滿手」真相：戴維斯雙殺",
+    "url": "https://finance.ettoday.net/news/3274033",
+    "source": "ETtoday",
+    "summary": "<img alt=\"台股暴跌！　專家揭「AI訂單滿手」真相：戴維斯雙殺\" src=\"https://cdn2.ettoday.net/images/9020/c9020190.jpg\" /><br /> AI供應鏈訂單滿手，股價卻接連重挫，問題出在哪？群益投顧總經理范振鴻指出，股價反映的是未來幾年的獲利，隨著美國期中選舉及黃仁勳去職，市場開始重新評估2027、2028年AI產業成長前景。他提醒，即使AI需求強勁，也要留意本益比與EPS同步下修的「戴維斯雙殺」風險。 <a href=\"https://finance.ettoday.net/news/3274033\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-11-18T09:01:00+08:00",
+    "stocks": [],
+    "uid": "014429d26686641c389632080f06b929",
+    "title_zh": "台股暴跌！　專家揭「AI訂單滿手」真相：戴維斯雙殺",
+    "summary_zh": "<img alt=\"台股暴跌！　專家揭「AI訂單滿手」真相：戴維斯雙殺\" src=\"https://cdn2.ettoday.net/images/9020/c9020190.jpg\" /><br /> AI供應鏈訂單滿手，股價卻接連重挫，問題出在哪？群益投顧總經理范振鴻指出，股價反映的是未來幾年的獲利，隨著美國期中選舉及黃仁勳去職，市場開始重新評估2027、2028年AI產業成長前景。他提醒，即使AI需求強勁，也要留意本益比與EPS同步下修的「戴維斯雙殺」風險。 <a href=\"https://finance.ettoday.net/news/3274033\" target=\"_blank\">《詳全文...》</a>",
+    "title_en": "Taiwan stocks plummeted! Experts reveal the truth about \"AI orders are full\": Davis double kill",
+    "summary_en": "<img alt=\"Taiwan stocks plummeted! Experts reveal the truth about \"AI orders are full\": Davis double kill\" src=\"https://cdn2.ettoday.net/images/9020/c9020190.jpg\" /><br /> The AI supply chain is full of orders, but the stock price has plummeted one after another. What is the problem? Fan Zhenhong, general manager of Qunyi Investment Consulting, pointed out that the stock price reflects the profits in the next few years. With the US mid-term elections and Huang Renxun's resignation, the market begins to re-evaluate the growth prospects of the AI industry in 2027 and 2028. He reminded that even if the demand for AI is strong, we must pay attention to the \"Davis Double Kill\" risk of simultaneous downward revision of the price-to-earnings ratio and EPS. <a href=\"https://finance.ettoday.net/news/3274033\" target=\"_blank\">\"Full text...\"</a>"
+  },
+  {
+    "title": "景碩：獲輝達逾10億美元投資　擴AI先進載板",
+    "url": "https://money.udn.com/money/story/5612/9885591",
+    "source": "經濟日報股市",
+    "summary": "人工智慧AI晶片大廠輝達（NVIDIA）宣示擴大與供應鏈合作，IC載板大廠景碩入列。景碩今天表示，獲得輝達現金投資超過1...",
+    "published_at": "2026-11-18T09:00:56+08:00",
+    "stocks": [],
+    "uid": "11dba0aa215abe78f264812fc4272179",
+    "title_zh": "景碩：獲輝達逾10億美元投資　擴AI先進載板",
+    "summary_zh": "人工智慧AI晶片大廠輝達（NVIDIA）宣示擴大與供應鏈合作，IC載板大廠景碩入列。景碩今天表示，獲得輝達現金投資超過1...",
+    "title_en": "Jingshuo: Received more than US$1 billion investment from Huida to expand AI advanced carrier board",
+    "summary_en": "NVIDIA, a major artificial intelligence chip manufacturer, announced to expand cooperation with the supply chain, including Jingshuo, a major IC substrate manufacturer. Jingshuo said today that it has received cash investment from Huida for more than 1..."
+  },
+  {
+    "title": "三大因素衝擊信驊營運上調空間有限，瑞銀大砍目標價至 10,000 元",
+    "url": "https://finance.technews.tw/2026/11/18/three-factors-limit-aspeeds-room-for-upward-adjustment-of-operating-rates/",
+    "source": "科技新報",
+    "summary": "瑞銀證券（UBS）發布最新研究報告，將伺服器遠端管理晶片（BMC）龍頭信驊科技投資評等由「買進」調降至「中立」 [&#8230;]",
+    "published_at": "2026-11-18T09:00:26+08:00",
+    "stocks": [],
+    "uid": "544ea0772ddf061ea1ae426235159d99",
+    "title_zh": "三大因素衝擊信驊營運上調空間有限，瑞銀大砍目標價至 10,000 元",
+    "summary_zh": "瑞銀證券（UBS）發布最新研究報告，將伺服器遠端管理晶片（BMC）龍頭信驊科技投資評等由「買進」調降至「中立」 [&#8230;]",
+    "title_en": "Three major factors have impacted Xinhua's operations and there is limited room for improvement. UBS slashed its target price to 10,000 yuan",
+    "summary_en": "UBS Securities (UBS) released the latest research report, downgrading the investment rating of Xinhua Technology, the leading server management chip (BMC), from \"buy\" to \"neutral\" [...]"
+  },
+  {
+    "title": "從掌靜脈電子鎖到智慧建築，維夫拉克展現台灣研發整合實力",
+    "url": "https://technews.tw/2026/11/18/waferlock-palm-vein-smart-lock/",
+    "source": "科技新報",
+    "summary": "隨著旗下產品日益多元，涵蓋家庭電子鎖、社區與商辦門禁、飯店系統、智慧收件設備及機器人，維夫拉克不僅是台灣在地  [&#8230;]",
+    "published_at": "2026-11-18T09:00:21+08:00",
+    "stocks": [],
+    "uid": "567d8e2b4284f2225d376de87e8a1cbb",
+    "title_zh": "從掌靜脈電子鎖到智慧建築，維夫拉克展現台灣研發整合實力",
+    "summary_zh": "隨著旗下產品日益多元，涵蓋家庭電子鎖、社區與商辦門禁、飯店系統、智慧收件設備及機器人，維夫拉克不僅是台灣在地  [&#8230;]",
+    "title_en": "From palm vein electronic locks to smart buildings, Vivalak demonstrates Taiwan’s R&D integration capabilities",
+    "summary_en": "As its products become increasingly diversified, covering home electronic locks, community and commercial access control, hotel systems, smart receiving equipment and robots, Vivrack is not only Taiwan’s local […]"
+  },
+  {
+    "title": "專家：台股已進入超跌區　有點委屈",
+    "url": "https://finance.ettoday.net/news/3274030",
+    "source": "ETtoday",
+    "summary": "<img alt=\"專家：台股已進入超跌區　有點委屈\" src=\"https://cdn2.ettoday.net/images/9020/c9020177.jpg\" /><br /> 台股又重挫，昨（17日）盤中一度跌破4萬點，最低下探39,786點，終場大跌947.97點，收在40,092點。台股到底跌完了沒？凱基投顧董事長朱晏民指出，台股預估本益比已降至約13倍，低於長期平均的15倍，且今年、明年企業獲利預估分別成長61％、27％，他認為，台股已進入超跌區。 <a href=\"https://finance.ettoday.net/news/3274030\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-11-18T08:58:00+08:00",
+    "stocks": [],
+    "uid": "bde53e1491cbaaf39e2acc30387a7124",
+    "title_zh": "專家：台股已進入超跌區　有點委屈",
+    "summary_zh": "<img alt=\"專家：台股已進入超跌區　有點委屈\" src=\"https://cdn2.ettoday.net/images/9020/c9020177.jpg\" /><br /> 台股又重挫，昨（17日）盤中一度跌破4萬點，最低下探39,786點，終場大跌947.97點，收在40,092點。台股到底跌完了沒？凱基投顧董事長朱晏民指出，台股預估本益比已降至約13倍，低於長期平均的15倍，且今年、明年企業獲利預估分別成長61％、27％，他認為，台股已進入超跌區。 <a href=\"https://finance.ettoday.net/news/3274030\" target=\"_blank\">《詳全文...》</a>",
+    "title_en": "Expert: Taiwan stock market has entered oversold zone, a bit aggrieved",
+    "summary_en": "<img alt=\"Expert: Taiwan stocks have entered the oversold zone, a bit aggrieved\" src=\"https://cdn2.ettoday.net/images/9020/c9020177.jpg\" /><br /> Taiwan stocks fell sharply again, falling below 40,000 points yesterday (17th), hitting a low of 39,786 points, and finally fell 947.97 points to close at 40,092 points. Has the Taiwan stock market finished falling? Zhu Yanmin, chairman of KGI Investment Consulting, pointed out that the estimated price-to-earnings ratio of Taiwan stocks has dropped to about 13 times, lower than the long-term average of 15 times, and corporate profit estimates for this year and next year will increase by 61% and 27% respectively. He believes that Taiwan stocks have entered the oversold zone. <a href=\"https://finance.ettoday.net/news/3274030\" target=\"_blank\">\"Full text...\"</a>"
+  },
+  {
+    "title": "黃仁勳喊話願回輝達遭董事會拒絕！　12/1國會約談成關鍵",
+    "url": "https://www.mirrormedia.mg/story/20261118-14mon-085650",
+    "source": "鏡週刊財經",
+    "summary": "<p>輝達（NVIDIA）創辦人黃仁勳請辭執行長後，首度公開發文認錯，並表態願意重返輝達，卻遭董事會潑冷水。董事長瓊斯明確表示，董事會無意恢復黃仁勳的執行長職務。如今外界關注焦點轉向12月1日，黃仁勳將赴美國國會接受約談，涉及中國情報活動的疑雲能否釐清，將牽動他的政治與商業前景。</p>",
+    "published_at": "2026-11-18T08:56:00+08:00",
+    "stocks": [],
+    "uid": "49bdb4a5eaae03bdf608e1dc231c9292",
+    "title_zh": "黃仁勳喊話願回輝達遭董事會拒絕！　12/1國會約談成關鍵",
+    "summary_zh": "<p>輝達（NVIDIA）創辦人黃仁勳請辭執行長後，首度公開發文認錯，並表態願意重返輝達，卻遭董事會潑冷水。董事長瓊斯明確表示，董事會無意恢復黃仁勳的執行長職務。如今外界關注焦點轉向12月1日，黃仁勳將赴美國國會接受約談，涉及中國情報活動的疑雲能否釐清，將牽動他的政治與商業前景。</p>",
+    "title_en": "Huang Renxun expressed his willingness to return to Huida but was rejected by the board of directors! 12/1Congress meeting becomes key",
+    "summary_en": "<p>After NVIDIA founder Jensen Huang resigned as CEO, he issued a public document acknowledging his mistake for the first time and expressed his willingness to return to NVIDIA. However, the board of directors poured cold water on him. Chairman Jones made it clear that the board has no intention of reinstating Huang as CEO. Now the focus of the outside world turns to December 1. Huang Renxun will go to the U.S. Congress for an interview. Whether the suspicions involving China’s intelligence activities can be clarified will affect his political and business prospects. </p>"
+  },
+  {
+    "title": "專家：台股50000點等明年　還要測底",
+    "url": "https://finance.ettoday.net/news/3274029",
+    "source": "ETtoday",
+    "summary": "<img alt=\"專家：台股50000點等明年　還要測底\" src=\"https://cdn2.ettoday.net/images/9020/c9020171.jpg\" /><br /> 台股近期走勢大起大落，短短一個多月重挫約12,000點，市場原先期待年底挑戰5萬點，恐怕要多點耐心。群益投顧總經理范振鴻直言，台股要上攻到5萬點，「明年比較有機會」。根據群益投顧預估，2027年台股指數區間為35,000至50,000點。至於近期跌勢何時結束？他認為年線短期應有支撐，但市場對AI產業前景產生疑慮，恐還需要時間反覆測試低點。 <a href=\"https://finance.ettoday.net/news/3274029\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-11-18T08:55:00+08:00",
+    "stocks": [],
+    "uid": "ad3ade2680535f590da1f6aafcb220c0",
+    "title_zh": "專家：台股50000點等明年　還要測底",
+    "summary_zh": "<img alt=\"專家：台股50000點等明年　還要測底\" src=\"https://cdn2.ettoday.net/images/9020/c9020171.jpg\" /><br /> 台股近期走勢大起大落，短短一個多月重挫約12,000點，市場原先期待年底挑戰5萬點，恐怕要多點耐心。群益投顧總經理范振鴻直言，台股要上攻到5萬點，「明年比較有機會」。根據群益投顧預估，2027年台股指數區間為35,000至50,000點。至於近期跌勢何時結束？他認為年線短期應有支撐，但市場對AI產業前景產生疑慮，恐還需要時間反覆測試低點。 <a href=\"https://finance.ettoday.net/news/3274029\" target=\"_blank\">《詳全文...》</a>",
+    "title_en": "Expert: Taiwan stock market will hit 50,000 points next year and will have to test the bottom",
+    "summary_en": "<img alt=\"Expert: The Taiwan stock market will reach 50,000 points next year and will have to test the bottom\" src=\"https://cdn2.ettoday.net/images/9020/c9020171.jpg\" /><br /> The Taiwan stock market has seen sharp ups and downs in recent times, with a drop of about 12,000 points in just over a month. The market originally expected to challenge 50,000 points by the end of the year, so I am afraid we need to be more patient. Fan Zhenhong, general manager of Qunyi Investment Consultants, said bluntly that Taiwan stocks will rise to 50,000 points, and \"there is a better chance next year.\" According to Qunyi Investment Consulting’s estimates, the Taiwan stock index range will be 35,000 to 50,000 points in 2027. As for when the recent decline will end? He believes that the annual line should be supported in the short term, but the market has doubts about the prospects of the AI ​​industry, and it may take time to repeatedly test lows. <a href=\"https://finance.ettoday.net/news/3274029\" target=\"_blank\">\"Full text...\"</a>"
+  },
+  {
+    "title": "黃仁勳因婚外情下台 華爾街日報：SEC對輝達啟動調查",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5644398",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕輝達前執行長黃仁勳近日因連環爆出的婚外情辭去執行長等職位，其中一起涉及一名疑似中國間諜的女子，另外一起則與一名員工有關，知情人士表示，美國證券交易委員會（SEC）現在已對輝...…",
+    "published_at": "2026-11-18T08:51:52+08:00",
+    "stocks": [],
+    "uid": "62d7d126af3f158bb5a9e015380a4133",
+    "title_zh": "黃仁勳因婚外情下台 華爾街日報：SEC對輝達啟動調查",
+    "summary_zh": "〔財經頻道／綜合報導〕輝達前執行長黃仁勳近日因連環爆出的婚外情辭去執行長等職位，其中一起涉及一名疑似中國間諜的女子，另外一起則與一名員工有關，知情人士表示，美國證券交易委員會（SEC）現在已對輝...…",
+    "title_en": "Jen-Hsun Huang steps down due to extramarital affair Wall Street Journal: SEC launches investigation into Huida",
+    "summary_en": "[Financial Channel/Comprehensive Report] Huang Renxun, the former CEO of Huida, recently resigned from his position as CEO due to a series of extramarital affairs. One of them involved a woman suspected of being a Chinese spy, and the other was related to an employee. People familiar with the matter said that the U.S. Securities and Exchange Commission (SEC) has now..."
+  },
+  {
+    "title": "輝達砸逾10億美元投資景碩！擴充AI先進載板產能",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5644442",
+    "source": "自由財經",
+    "summary": "IC載板廠景碩（3189）與輝達（NVIDIA）同步宣布輝達對景碩投資逾10億美元之現金，用以購置景碩擴充幼獅廠產能新增設備，並持續與景碩協商後續更多個廠區的投資計畫，藉...…",
+    "published_at": "2026-11-18T08:50:43+08:00",
+    "stocks": [
+      "3189"
+    ],
+    "uid": "35ee74921e0ece842fde65f8acbfe3bc",
+    "title_zh": "輝達砸逾10億美元投資景碩！擴充AI先進載板產能",
+    "summary_zh": "IC載板廠景碩（3189）與輝達（NVIDIA）同步宣布輝達對景碩投資逾10億美元之現金，用以購置景碩擴充幼獅廠產能新增設備，並持續與景碩協商後續更多個廠區的投資計畫，藉...…",
+    "title_en": "Huida invested more than US$1 billion in Jingshuo! Expanding AI advanced carrier board production capacity",
+    "summary_en": "IC substrate manufacturer Jingshuo (3189) and Huida (NVIDIA) simultaneously announced that Huida has invested more than US$1 billion in cash in Jingshuo to purchase new equipment to expand the production capacity of the young lion factory of Jingshuo, and continue to negotiate with Jingshuo for subsequent investment plans in more factories, and..."
+  },
+  {
+    "title": "鴻海收購 Sony 半導體車載相機模組事業",
+    "url": "https://technews.tw/2026/11/18/foxconn-acquires-sony-automotive-camera-module/",
+    "source": "科技新報",
+    "summary": "鴻海 17 日宣布，與索尼半導體解決方案公司 SSS（Sony Semiconductor Solutions [&#8230;]",
+    "published_at": "2026-11-18T08:50:10+08:00",
+    "stocks": [],
+    "uid": "2f4f53401a1a72059971858761d258ec",
+    "title_zh": "鴻海收購 Sony 半導體車載相機模組事業",
+    "summary_zh": "鴻海 17 日宣布，與索尼半導體解決方案公司 SSS（Sony Semiconductor Solutions [&#8230;]",
+    "title_en": "Hon Hai acquires Sony Semiconductor’s automotive camera module business",
+    "summary_en": "Hon Hai announced on the 17th that it will cooperate with Sony Semiconductor Solutions SSS (Sony Semiconductor Solutions […]"
+  },
+  {
+    "title": "蔣萬安今年3月全國首創育兒減工時 中央來請益促成全國政策",
+    "url": "https://money.udn.com/money/story/12622/9885564",
+    "source": "經濟日報總經",
+    "summary": "為打造友善生養育環境，台北市長蔣萬安今年三月已率先全國，推動「育兒家庭減工時不減薪」政策，申請勞工日減少一 小時工時，市府補助八成減時薪資。統計今年度的試辦，從三月一日至六月底申請截止日，共有四百八十家事業單位參與，八百九十九名育有十二歲以下子女的勞工家長受惠。",
+    "published_at": "2026-11-18T08:49:34+08:00",
+    "stocks": [],
+    "uid": "2fa1cf263cb537cebe207743256b76df",
+    "title_zh": "蔣萬安今年3月全國首創育兒減工時 中央來請益促成全國政策",
+    "summary_zh": "為打造友善生養育環境，台北市長蔣萬安今年三月已率先全國，推動「育兒家庭減工時不減薪」政策，申請勞工日減少一 小時工時，市府補助八成減時薪資。統計今年度的試辦，從三月一日至六月底申請截止日，共有四百八十家事業單位參與，八百九十九名育有十二歲以下子女的勞工家長受惠。",
+    "title_en": "Jiang Wanan initiated the country's first reduction of childcare working hours in March this year, and the central government came to seek help to promote national policies.",
+    "summary_en": "In order to create a child-friendly raising environment, Taipei Mayor Chiang Wanan took the lead in the country in March this year to promote the policy of \"reducing working hours without reducing wages for child-rearing families\". If you apply for a one-hour reduction in working hours on a labor day, the city government will subsidize 80% of the reduced time wages. According to statistics, in this year's trial run, from March 1 to the application deadline at the end of June, a total of 480 public institutions participated, and 899 working parents with children under the age of 12 benefited."
+  },
+  {
+    "title": "黃仁勳風波延燒！宿敵蘇姿丰罕見「按讚」力挺 親曝對他的真實評價",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5644450",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕輝達（NVIDIA）深陷黃仁勳風波之際，競爭對手超微（AMD）執行長蘇姿丰卻沒有落井下石，反而公開肯定黃仁勳的領導地位，稱讚他是推動整個產業發展的傑出領導者，並盛讚輝達是1...…",
+    "published_at": "2026-11-18T08:49:08+08:00",
+    "stocks": [],
+    "uid": "d1ae052af8ce433638d1f3f26e8b8fcd",
+    "title_zh": "黃仁勳風波延燒！宿敵蘇姿丰罕見「按讚」力挺 親曝對他的真實評價",
+    "summary_zh": "〔財經頻道／綜合報導〕輝達（NVIDIA）深陷黃仁勳風波之際，競爭對手超微（AMD）執行長蘇姿丰卻沒有落井下石，反而公開肯定黃仁勳的領導地位，稱讚他是推動整個產業發展的傑出領導者，並盛讚輝達是1...…",
+    "title_en": "Huang Renxun’s controversy spreads! Old enemy Su Zifeng rarely \"likes\" her support and reveals her true evaluation of him",
+    "summary_en": "[Financial Channel/Comprehensive Report] When NVIDIA was deeply involved in Huang Renxun's controversy, rival Advanced Micro Devices (AMD) CEO Su Zifeng did not add insult to injury. Instead, he publicly affirmed Huang Renxun's leadership status, praised him as an outstanding leader who promotes the development of the entire industry, and praised NVIDIA as a 1..."
+  },
+  {
+    "title": "轟陳亭妃烏山頭光電6年後才不續約沒擔當 謝龍介：我拆不了全台罷免我",
+    "url": "https://money.udn.com/money/story/12622/9885562",
+    "source": "經濟日報總經",
+    "summary": "台南市長公辦政見昨針對烏山頭水庫光電板交鋒，對於民進黨候選人陳亭妃昨前一秒稱「現在所有水庫根本就沒有光電板，不要再誤導民眾，後稱烏山頭只要到2032年4月23日就不能再續約，會強力控管。」國民黨候選人謝龍介重批，「如果你還要我等到2032年才能拆除它，就不是一個有勇氣、有擔當的市長。」",
+    "published_at": "2026-11-18T08:48:39+08:00",
+    "stocks": [],
+    "uid": "9eaffef4d226aa85b09db7e7e0d825f1"
+  },
+  {
+    "title": "AI 助攻雷射物理模擬：運算速度飆升 250 倍、毫秒間精準預測光脈衝",
+    "url": "https://technews.tw/2026/11/18/ai-accelerates-laser-physics-research/",
+    "source": "科技新報",
+    "summary": "史丹佛大學（Stanford University）、加州大學洛杉磯分校（UCLA）與 SLAC 國家加速器實 [&#8230;]",
+    "published_at": "2026-11-18T08:45:22+08:00",
+    "stocks": [],
+    "uid": "49c0f9aeb11b898faa814e91b6a4076b"
+  },
+  {
+    "title": "11月18日盤前／輝達未來訂單與融資方向明確 國安基金伺機進場 有利台股醞釀短期反彈",
+    "url": "https://money.udn.com/money/story/5607/9885553",
+    "source": "經濟日報",
+    "summary": "昨日盤勢\n輝達法說會前市場擔憂5000億AI融資擔保是否喊停，導致周二台股再度承壓，儘管國安基金試圖拉抬鴻海及聯發科撐盤，然其他AI族群仍遭遇法人提款，ABF、光通訊、玻纖布、散熱等成為賣壓重災區；前幾天逆勢上漲的資訊軟體也不敵賣壓倒下，傳產的生技、鋼鐵及營造成為資金湧入避風港族群。\n權值股方面，台積電下跌2.03%、鴻海上漲0.23%、聯發科上漲1.19%、廣達下跌0.76%，下跌5.80%。\n盤面強勢股中鼎、大國鋼、強新、合勤控、鼎固-KY、浩鼎、向榮生技等11檔個股漲停；台玻、富喬、欣興、南電、聯亞、奇鋐、雙鴻、華經等共73檔跌停；尖點、精確、碩禾、環與-KY等跌幅9%以上。\n終場台灣加權指數下跌947.97點，以40092.11點作收，成交量9617.95億元。\n三大類股同步下跌，電子下跌2.71%、傳產下跌0.90%、金融下跌0.35%。次族群方面，以居家、食品、營造表現較佳，分別上漲1.26%、0.48%、0.23%。\n資金動向\n三大法人合計賣超576.11億元。其中外資賣超380.94億元，投信賣超38.21億元，自營商賣超156.96億元。\n外資買超前五大為中鼎、台新新",
+    "published_at": "2026-11-18T08:42:19+08:00",
+    "stocks": [
+      "6794",
+      "2330",
+      "2454",
+      "8415",
+      "1802",
+      "2317",
+      "2382",
+      "2468",
+      "3037",
+      "8021",
+      "9933",
+      "1815",
+      "3162",
+      "3324",
+      "3691",
+      "5013"
+    ],
+    "uid": "2d02169f6a7550cddbe3d8b6e026c434"
+  },
+  {
+    "title": "美媒：美國安局內部通訊網路故障，暫未見駭客入侵跡象",
+    "url": "https://technews.tw/2026/11/18/highly-classified-us-national-security-communications-network-goes-down/",
+    "source": "科技新報",
+    "summary": "美國媒體披露，美國國家安全局（NSA）用於內部通訊的一套最高機密網路今天傳出故障，暫未看見駭客入侵跡象。 法新 [&#8230;]",
+    "published_at": "2026-11-18T08:40:58+08:00",
+    "stocks": [],
+    "uid": "312802a1c36b50cd4ed09b24a002bc28"
+  },
+  {
+    "title": "黃仁勳公開喊話想重返輝達CEO！沈榮欽揭3大訊號",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5644414",
+    "source": "自由財經",
+    "summary": "輝達（NVIDIA）創辦人黃仁勳傳出有意重返執行長職位，引發科技界關注。黃仁勳近日透過社群平台表達希望回歸輝達執行長的意願，除了強調身為美國公民的驕傲，也對個人生活相關爭議向董事...…",
+    "published_at": "2026-11-18T08:36:29+08:00",
+    "stocks": [],
+    "uid": "7318f19e74048f0442f6fd97a3c2a617"
+  },
+  {
+    "title": "傳輝達曾提醒客戶，美限制中企存取 AI 晶片法將帶來法律風險",
+    "url": "https://technews.tw/2026/11/18/nvidia-warns-chip-buyers-of-legal-risks-tied-to-china-ai-access/",
+    "source": "科技新報",
+    "summary": "CNBC 17 日報導，輝達（Nvidia）近幾個月曾提醒客戶，美國為限制中國企業使用其人工智慧（AI）晶片而 [&#8230;]",
+    "published_at": "2026-11-18T08:35:40+08:00",
+    "stocks": [],
+    "uid": "24c1a250c1c05c1509e7d3d179908e6a"
+  },
+  {
+    "title": "景碩宣布獲得輝達逾十億美元投資 擴充 AI 先進載板產能",
+    "url": "https://money.udn.com/money/story/5612/9885543",
+    "source": "經濟日報股市",
+    "summary": "景碩科技與輝達(Nvidia)同步宣布對景碩科技投資過十億美元之現金，用以購置景碩科技擴充幼獅廠產能新增設備，並持續與景碩科技協商後續更多個廠區的投資計畫，藉以確保在未來五年AI賽道上高階載板的供應順暢。",
+    "published_at": "2026-11-18T08:32:33+08:00",
+    "stocks": [],
+    "uid": "b1a6ecd3328a3c54b3eab36bc76e3285"
+  },
+  {
+    "title": "黃仁勳誤判政治！謝金河：這些台灣供應鏈恐成地雷",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5644378",
+    "source": "自由財經",
+    "summary": "輝達（NVIDIA）創辦人黃仁勳因捲入間諜醜聞，辭去公司總裁、執行長及董事會成員職務，財信傳媒董事長謝金河指出，黃仁勳離開輝達執行長寶座，全球AI產業瞬間陷入迷霧，台灣受到衝擊最...…",
+    "published_at": "2026-11-18T08:32:26+08:00",
+    "stocks": [],
+    "uid": "b6ad1fca3e719f06c02b867ad911799e"
+  },
+  {
+    "title": "輝達財報、財測雙超預期 台積電到訪、攜台廠擴產迎 AI 需求",
+    "url": "https://money.udn.com/money/story/5612/9885542",
+    "source": "經濟日報股市",
+    "summary": "輝達於台灣時間今（18）日凌晨公布第3季營收1,158.4億美元、年增103%，營收與調整後每股純益雙雙超越市場預期，第4季營收更上看1,300億美元。代理執行長克瑞斯（Colette Kress）透露，台積電（2330）代表本周曾到訪，公司獲客戶、供應商及合作夥伴全力支持。",
+    "published_at": "2026-11-18T08:32:03+08:00",
+    "stocks": [
+      "2330"
+    ],
+    "uid": "85f7cf75c6f347411c59cdb1cf7c5d6b"
+  },
+  {
+    "title": "輝達財報旺、董事會無意讓黃仁勳復職　台股面臨4萬點保衛戰",
+    "url": "https://money.udn.com/money/story/5612/9885537",
+    "source": "經濟日報股市",
+    "summary": "輝達（NVIDIA）財報超乎預期，盤後股價彈升逾4%，但輝達董事會無意恢復共同創辦人黃仁勳執行長職務；美股主要指數收跌，...",
+    "published_at": "2026-11-18T08:30:42+08:00",
+    "stocks": [],
+    "uid": "edba266b5af17cb7ec5601a61638db67"
+  },
+  {
+    "title": "德國醫材展登場　台灣220家企業參展規模全球第6",
+    "url": "https://money.udn.com/money/story/5612/9885536",
+    "source": "經濟日報股市",
+    "summary": "全球大型醫療器材展MEDICA昨天在德國杜塞道夫登場，台灣約220家企業參展，參展規模居全球第6。德國也是台灣醫療器材在...",
+    "published_at": "2026-11-18T08:30:21+08:00",
+    "stocks": [],
+    "uid": "b94de6b93e6fd74c47c38d3cc5efc10a"
+  },
+  {
+    "title": "連科學家都說不清科學是什麼，研究揭同領域學者觀點也大不同",
+    "url": "https://technews.tw/2026/11/18/what-is-science/",
+    "source": "科技新報",
+    "summary": "一項發表於《皇家學會開放科學》（Royal Society Open Science）的研究調查 91 位科學 [&#8230;]",
+    "published_at": "2026-11-18T08:30:06+08:00",
+    "stocks": [],
+    "uid": "c5eea7da8ebe4a3405ba148d443daccf"
+  },
+  {
+    "title": "鴻海董座劉揚偉：深化與 NVIDIA 合作 支援新世代 AI 基建量產需求",
+    "url": "https://money.udn.com/money/story/5612/9885534",
+    "source": "經濟日報股市",
+    "summary": "輝達（NVIDIA）18日宣布攜手鴻海（2317）等供應鏈廠商，擴大與全球供應鏈夥伴的長期合作承諾，以支持人工智慧（AI）基礎設施建設需求。",
+    "published_at": "2026-11-18T08:28:42+08:00",
+    "stocks": [
+      "2317"
+    ],
+    "uid": "864d96dec2490eefc38ac739281c2f23"
+  },
+  {
+    "title": "才說水庫都沒光電板陳亭妃秒稱烏山頭將不續約 蔣萬安：以為AI影片",
+    "url": "https://money.udn.com/money/story/12622/9885530",
+    "source": "經濟日報總經",
+    "summary": "針對台南市長公辦政見會昨天的烏山頭水庫光電板交鋒，媒體今天問台北市長蔣萬安，民進黨候選人陳亭妃昨針對烏山頭水庫光電板，前一秒稱「現在所有水庫根本就沒有光電板，不要再誤導民眾，後稱烏山頭只要到2032年4月23日就不能再續約，會強力控管」，蔣萬安酸「我以為是AI影片，結果是真的」。",
+    "published_at": "2026-11-18T08:25:56+08:00",
+    "stocks": [],
+    "uid": "d1319bacf7ba77433f5bfcceeda98607"
+  },
+  {
+    "title": "美 AI 晶片新規，經部：台廠代工若涉管制由美系客戶申請許可",
+    "url": "https://technews.tw/2026/11/18/moea-taiwan-oems-us-ai-chip-new-rules-client-permits/",
+    "source": "科技新報",
+    "summary": "川習會晤前，美國發布新規，限制晶片出口至海外資料中心，以防止中國透過轉運取得先進 AI 晶片。經濟部 17 日 [&#8230;]",
+    "published_at": "2026-11-18T08:25:46+08:00",
+    "stocks": [],
+    "uid": "6681600d374c09b29343e6fad0294cd1"
+  },
+  {
+    "title": "輝達財測超預期  盤後上漲4％",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5644396",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕全球最大晶片製造商輝達公佈最新財報，銷售預測超過華爾街預期，表明在執行長黃仁勳下台造成的混亂後，市場需求仍強勁。受財報大好影響，輝達盤後股上揚近4%。\n\n\n《彭博》報導，輝...…",
+    "published_at": "2026-11-18T08:23:46+08:00",
+    "stocks": [],
+    "uid": "1ce028452435dc582d411b37b229ff06"
+  },
+  {
+    "title": "吳德榮：午後轉雨降溫　20日清晨低溫探11度",
+    "url": "https://money.udn.com/money/story/5648/9885523",
+    "source": "經濟日報總經",
+    "summary": "氣象專家吳德榮表示，今天下午開始降溫，北部、東半部轉雨；明天、20日明顯轉涼，預估20日清晨平地最低溫可降至攝氏11度左...",
+    "published_at": "2026-11-18T08:21:35+08:00",
+    "stocks": [],
+    "uid": "d37bb278f52f3107172d0f03484e0442"
+  },
+  {
+    "title": "台股穩了！韓股飆逾3.3％ 日經漲770點",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5644412",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕美股週二4大指數跌多漲少，然輝達盤後交出亮麗財報，激勵盤後股價一度漲逾4%，受此激勵，亞股週三跟進反彈，韓股飆逾3.3%，而日經亦開高漲770點。\n\n\n輝達財報公布前，科技...…",
+    "published_at": "2026-11-18T08:21:10+08:00",
+    "stocks": [],
+    "uid": "0e04678c371971b12db7052d838ca8de"
+  },
+  {
+    "title": "烏克蘭試驗無人機撤離傷員有成，將放大規模",
+    "url": "https://technews.tw/2026/11/18/ukraine-to-scale-up-medical-evacuation-drones/",
+    "source": "科技新報",
+    "summary": "俄烏戰場是全球無人機戰爭許多理論的實踐地，無人機的應用不只包括偵查與作戰本身，其實在後勤的應用上對戰場更是有關 [&#8230;]",
+    "published_at": "2026-11-18T08:20:11+08:00",
+    "stocks": [],
+    "uid": "03ad5186639bc85eac05c41b48cf1450"
+  },
+  {
+    "title": "九命怪貓黃崇仁帶領力晶「坐擁金山」　旗下搖錢樹曝光",
+    "url": "https://finance.ettoday.net/news/3274006",
+    "source": "ETtoday",
+    "summary": "<img alt=\"九命怪貓黃崇仁帶領力晶「坐擁金山」　旗下搖錢樹曝光\" src=\"https://cdn2.ettoday.net/images/9020/c9020137.jpg\" /><br /> 力晶投控由於手中有力積電股權17.55％，是單一最大股東，加上持股中國A股上市公司合肥晶合集成股權8％，以及IC設計公司愛普，潛在利益驚人，因此受到市場派覬覦，知情人士透露，這次市場派的買家花136億元就可以插旗，甚至爭經營權，實在是非常便宜。 <a href=\"https://finance.ettoday.net/news/3274006\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-11-18T08:17:00+08:00",
+    "stocks": [
+      "6770"
+    ],
+    "uid": "7b87247427328345bdd59a60dfee7d18"
+  },
+  {
+    "title": "憂美選後 AI 支出放緩，美銀調查經理人減碼科技股創 20 年最劇",
+    "url": "https://finance.technews.tw/2026/11/18/investors-slashed-tech-exposure-allocations-by-most-since-2006/",
+    "source": "科技新報",
+    "summary": "根據美國銀行（Bank of America）調查，基金經理人淨增持科技股比重從 10 月的 37% 銳減至本 [&#8230;]",
+    "published_at": "2026-11-18T08:15:27+08:00",
+    "stocks": [],
+    "uid": "76e532d67693ceca3fadefeb5b07db57"
+  },
+  {
+    "title": "鉅亨速報 - Factset 最新調查：廣達(2382-TW)EPS預估下修至26.43元，預估目標價為400元",
+    "url": "https://news.cnyes.com/news/id/6665792",
+    "source": "鉅亨網",
+    "summary": "",
+    "published_at": "2026-11-18T08:10:45+08:00",
+    "stocks": [
+      "TWS:2382:STOCK"
+    ],
+    "uid": "ee737a932d9ce7be810119f68064fbb9"
+  },
+  {
+    "title": "鉅亨速報 - Factset 最新調查：美利達(9914-TW)EPS預估下修至4.5元，預估目標價為91.5元",
+    "url": "https://news.cnyes.com/news/id/6665791",
+    "source": "鉅亨網",
+    "summary": "",
+    "published_at": "2026-11-18T08:10:44+08:00",
+    "stocks": [
+      "TWS:9914:STOCK"
+    ],
+    "uid": "4aaf47fee399a288d6481b20543d279a"
+  },
+  {
+    "title": "鉅亨速報 - Factset 最新調查：和碩(4938-TW)EPS預估下修至5.75元，預估目標價為99元",
+    "url": "https://news.cnyes.com/news/id/6665790",
+    "source": "鉅亨網",
+    "summary": "",
+    "published_at": "2026-11-18T08:10:42+08:00",
+    "stocks": [
+      "TWS:4938:STOCK"
+    ],
+    "uid": "e27db7687a26db099a96913feef06895"
+  },
+  {
+    "title": "鉅亨速報 - Factset 最新調查：富邦金(2881-TW)EPS預估下修至11.31元，預估目標價為147.9元",
+    "url": "https://news.cnyes.com/news/id/6665789",
+    "source": "鉅亨網",
+    "summary": "",
+    "published_at": "2026-11-18T08:10:41+08:00",
+    "stocks": [
+      "TWS:2881:STOCK"
+    ],
+    "uid": "1ee6911a320e739aaeb180485a356060"
+  },
+  {
+    "title": "Vibe Coding 引爆企業「影子 IT」危機，失控原型恐成外洩破口",
+    "url": "https://finance.technews.tw/2026/11/18/ai-platform-vulnerability-confidential-data-leakage/",
+    "source": "科技新報",
+    "summary": "隨著「Vibe coding」（透過自然語言生成程式與應用）的快速普及，不具備工程背景的使用者現在也能在極短時 [&#8230;]",
+    "published_at": "2026-11-18T08:10:30+08:00",
+    "stocks": [],
+    "uid": "a830a01b6bb079fb2eb538167799b971"
+  },
+  {
+    "title": "鉅亨速報 - Factset 最新調查：矽力-KY(6415-TW)目標價調降至515元，幅度約4.63%",
+    "url": "https://news.cnyes.com/news/id/6665788",
+    "source": "鉅亨網",
+    "summary": "",
+    "published_at": "2026-11-18T08:10:24+08:00",
+    "stocks": [
+      "TWS:6415:STOCK"
+    ],
+    "uid": "4ea9f836907acd5eb56db068a646c746"
+  },
+  {
+    "title": "鉅亨速報 - Factset 最新調查：華碩(2357-TW)目標價調降至990元，幅度約4.81%",
+    "url": "https://news.cnyes.com/news/id/6665787",
+    "source": "鉅亨網",
+    "summary": "",
+    "published_at": "2026-11-18T08:10:21+08:00",
+    "stocks": [
+      "TWS:2357:STOCK"
+    ],
+    "uid": "5df50507d9e71dcfdfba5bb3b14c5554"
+  },
+  {
+    "title": "黃仁勳辭職後打破沉默，表態願回任輝達 CEO",
+    "url": "https://technews.tw/2026/11/18/jensen-huang-nvidia/",
+    "source": "科技新報",
+    "summary": "黃仁勳上週因婚外情醜聞辭去輝達執行長一職，不少 NVIDIA 內部員工、投資人、產業夥伴甚至馬斯克、美國總統川 [&#8230;]",
+    "published_at": "2026-11-18T08:07:39+08:00",
+    "stocks": [],
+    "uid": "b7b2a61b36952fc8d943f1eb8d447fea"
+  },
+  {
+    "title": "黃仁勳喊願回鍋也沒用！輝達董事會「1句話」封死復職路 接班布局曝光",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5644397",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕輝達（NVIDIA）共同創辦人黃仁勳離職風波再掀震撼彈！儘管黃仁勳公開表示，若董事會提出要求，願意回歸擔任執行長，甚至坦承自己犯下「嚴重錯誤」，但董事會已明確表態，無意讓他...…",
+    "published_at": "2026-11-18T08:01:44+08:00",
+    "stocks": [],
+    "uid": "77258ed7171e4b0debf9a6682db7802f"
+  },
+  {
+    "title": "黃仁勳回歸路遭阻斷，輝達董事會主席聲明回絕復職可能",
+    "url": "https://technews.tw/2026/11/18/jensen-huangs-return-journey-was-blocked/",
+    "source": "科技新報",
+    "summary": "半導體大廠輝達（Nvidia）前執行長黃仁勳（Jensen Huang）的去留風波持續延燒。儘管黃仁勳已經公開 [&#8230;]",
+    "published_at": "2026-11-18T08:00:16+08:00",
+    "stocks": [],
+    "uid": "a2fb63cf3dd889077515e6ef39f0b960"
+  },
+  {
+    "title": "淺談微軟積極最佳化 Windows：8G 記憶體天險已除？",
+    "url": "https://technews.tw/2026/11/18/microsoft-aggressive-windows-optimization-8gb-ram-bottleneck-gone/",
+    "source": "科技新報",
+    "summary": "過去幾年，如果有人問 Windows 筆電需要多少記憶體，16GB 大概是多數科技媒體的基本建議，8GB 則逐 [&#8230;]",
+    "published_at": "2026-11-18T08:00:03+08:00",
+    "stocks": [],
+    "uid": "075309a980296a83ca6a08d7d3b10cfb"
+  },
+  {
+    "title": "營收速報 - 2026年11月18日台股中小型公司10月營收一覽（新增66家）",
+    "url": "https://news.cnyes.com/news/id/6665764",
+    "source": "鉅亨網",
+    "summary": "",
+    "published_at": "2026-11-18T07:55:15+08:00",
+    "stocks": [
+      "TWS:5475:STOCK",
+      "TWS:5386:STOCK",
+      "TWS:6101:STOCK",
+      "TWS:9906:STOCK",
+      "TWS:4113:STOCK",
+      "TWS:2505:STOCK",
+      "TWS:6219:STOCK",
+      "TWS:5455:STOCK",
+      "TWS:4416:STOCK",
+      "TWS:5523:STOCK",
+      "TWS:2442:STOCK",
+      "TWS:6169:STOCK",
+      "TWG:6930:STOCK",
+      "TWS:6819:STOCK",
+      "TWG:6848:STOCK",
+      "TWG:7924:STOCK"
+    ],
+    "uid": "7df9df95f80fbe7e2d798bf6306e6a60"
+  },
+  {
+    "title": "營收速報 - 2026年11月18日台股大型公司10月營收一覽（新增20家）",
+    "url": "https://news.cnyes.com/news/id/6665763",
+    "source": "鉅亨網",
+    "summary": "",
+    "published_at": "2026-11-18T07:55:14+08:00",
+    "stocks": [
+      "TWS:8926:STOCK",
+      "TWS:2603:STOCK",
+      "TWS:2347:STOCK",
+      "TWS:3049:STOCK",
+      "TWS:2882:STOCK",
+      "TWS:1808:STOCK",
+      "TWS:2530:STOCK",
+      "TWS:2258:STOCK",
+      "TWS:2408:STOCK",
+      "TWS:2539:STOCK",
+      "TWS:1110:STOCK",
+      "TWS:5213:STOCK",
+      "TWG:5859:STOCK"
+    ],
+    "uid": "b87fcbcd741587e13930aa16f354e55f"
+  },
+  {
+    "title": "「後黃仁勳時代」　專家示警台股2029年大考驗：人情飯不再",
+    "url": "https://finance.ettoday.net/news/3274003",
+    "source": "ETtoday",
+    "summary": "<img alt=\"「後黃仁勳時代」　專家示警台股2029年大考驗：人情飯不再\" src=\"https://cdn2.ettoday.net/images/9020/c9020133.jpg\" /><br /> AI教父黃仁勳閃辭輝達執行長，震撼全球科技圈，台灣供應鏈也跟著繃緊神經，台股大震盪。台經院產經資料庫總監劉佩真在《錢鏡你家》節目中指出，黃仁勳過去是輝達與台灣供應鏈之間的遊說緩衝，如今緩衝消失，美中晶片管制恐更趨嚴格，但由於技術藍圖早已規劃至2028年，訂單大多底定，台廠短線訂單無虞。她推估真正考驗落在2029年之後，未來台廠不能再只靠「黃爸爸」的人情味吃飯。 <a href=\"https://finance.ettoday.net/news/3274003\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-11-18T07:51:00+08:00",
+    "stocks": [],
+    "uid": "395f2565dccf901f30c57f7df9c57993"
+  },
+  {
+    "title": "輝達 2027 年營收成長目標上調至 75%，新出口管制政策難撼動成長動能",
+    "url": "https://finance.technews.tw/2026/11/18/nvidia-has-raised-its-2027-revenue-growth-target-to-75/",
+    "source": "科技新報",
+    "summary": "半導體大場輝達（NVIDIA）召開第三季財報會議，代理執行長暨財務長柯瑞斯（Colette Kress）親上火 [&#8230;]",
+    "published_at": "2026-11-18T07:50:34+08:00",
+    "stocks": [],
+    "uid": "03212d0d0eb30720db657f96b8124258"
+  },
+  {
+    "title": "美對新加坡等五國祭晶片新限制，台廠應正視違規套利需付出高昂代價",
+    "url": "https://finance.technews.tw/2026/11/18/us-commerce-dept-restrictions-singapore-taiwan-firms-high-cost-arbitrage-violations/",
+    "source": "科技新報",
+    "summary": "亞太經濟合作會議（APEC）將在中國深圳舉辦，21 個會員國，東協國家佔比最高。APEC 開會前夕，「中國─東 [&#8230;]",
+    "published_at": "2026-11-18T07:50:09+08:00",
+    "stocks": [],
+    "uid": "b42fe9cf8e7148327a537d4f856816c1"
+  },
+  {
+    "title": "台股連日重挫還能衝5萬點？凱基證估台股PE18～19倍、合理指數區間曝光",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5644290",
+    "source": "自由財經",
+    "summary": "台股連日重挫，AI概念股也面臨修正，投資人憂心AI多頭行情是否告終？是否還有衝5萬點的機會？凱基證券17日發布2027年投資展望，直指AI長期成長趨勢並未改變，但台股估值...…",
+    "published_at": "2026-11-18T07:49:48+08:00",
+    "stocks": [],
+    "uid": "819ef8bf0f8798ad256ef5bcec6e8607"
+  },
+  {
+    "title": "AI泡沫被一根戳破！　專家點名9檔台股「高價值高安全」",
+    "url": "https://finance.ettoday.net/news/3273999",
+    "source": "ETtoday",
+    "summary": "<img alt=\"AI泡沫被一根戳破！　專家點名9檔台股「高價值高安全」\" src=\"https://cdn2.ettoday.net/images/9020/c9020124.jpg\" /><br /> AI市場雜音不斷，且後黃仁勳時代來臨，市場憂心資本支出泡沫，台經院產經資料庫總監劉佩真認為，這是科技基建長期成長下的「正常換氣期」，採購從不惜代價地搶購，轉為精準算力規劃，反而讓實體技術紅利更集中於台灣半導體，台廠供應鏈正積極發動「深耕台灣＋全球1+N」雙軸布局，將危機化為轉機，長線依舊看好。 <a href=\"https://finance.ettoday.net/news/3273999\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-11-18T07:47:00+08:00",
+    "stocks": [],
+    "uid": "0f06aa97bc18ec2594df018375d76ac3"
+  },
+  {
+    "title": "4 分鐘極速校正達 92% 準確率，百元級 EpiPad 替智慧手錶外掛「前臂觸控板」",
+    "url": "https://technews.tw/2026/11/18/smartwatch-forearm-touchpad/",
+    "source": "科技新報",
+    "summary": "智慧手錶螢幕太小，操作總是不夠順手？北卡羅來納州立大學研究團隊近期開發出一款名為「EpiPad」的全新穿戴式技 [&#8230;]",
+    "published_at": "2026-11-18T07:40:35+08:00",
+    "stocks": [],
+    "uid": "28744d42f68538ff5440941693422a10"
+  },
+  {
+    "title": "鴻海重大併購！　72億日圓買下Sony車載相機事業",
+    "url": "https://finance.ettoday.net/news/3273995",
+    "source": "ETtoday",
+    "summary": "<img alt=\"鴻海重大併購！　72億日圓買下Sony車載相機事業\" src=\"https://cdn2.ettoday.net/images/7654/c7654999.jpg\" /><br /> 鴻海（2317）17日宣布與索尼半導體解決方案公司（Sony Semiconductor Solutions Corporation，SSS）簽署協議，擬以72.4億日圓（約新台幣14.5億元）現金收購旗下車載相機模組事業，預計2027年4月底前完成交割。 <a href=\"https://finance.ettoday.net/news/3273995\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-11-18T07:35:00+08:00",
+    "stocks": [
+      "2317"
+    ],
+    "uid": "b8407b45487d56637147dda3dbdd0b5c"
+  },
+  {
+    "title": "黃仁勳辭職、輝達北士科總部恐生變？北市府：履約正常，籌建持續前進",
+    "url": "https://finance.technews.tw/2026/11/18/jensen-steps-down-will-it-affect-nvidia-bstp/",
+    "source": "科技新報",
+    "summary": "輝達（NVIDIA）董事會 12 日宣布創辦人黃仁勳辭去總裁、執行長、董事等職務，引外界關注北投士林科技園區（ [&#8230;]",
+    "published_at": "2026-11-18T07:30:43+08:00",
+    "stocks": [],
+    "uid": "1e8b1e7c053e217c25705fdd47d9b640"
+  },
+  {
+    "title": "ChatGPT、Gemini 看選戰，同一參選人有不同動漫樣態",
+    "url": "https://technews.tw/2026/11/18/chatgpt-gemini/",
+    "source": "科技新報",
+    "summary": "隨著 2026 年九合一選舉進入倒數，AI 眼中的政治人物是什麼模樣？AI 傳播科技公司 REALI 研究發現 [&#8230;]",
+    "published_at": "2026-11-18T07:30:37+08:00",
+    "stocks": [],
+    "uid": "d03d79566d69bbb6ff7074605701b8ab"
+  },
+  {
+    "title": "錢鏡你家1／黃仁勳退場「黃爸爸」光環不再！　劉佩真示警2029年迎大考",
+    "url": "https://www.mirrormedia.mg/story/20261117-183mon-191503",
+    "source": "鏡週刊財經",
+    "summary": "<p>AI教父黃仁勳閃辭輝達執行長，震撼全球科技圈，台灣供應鏈也跟著繃緊神經，台股大震盪。台經院產經資料庫總監劉佩真在<a href=\"https://youtu.be/FO1D90CvjXo\">《錢鏡你家》</a>節目中指出，黃仁勳過去是輝達與台灣供應鏈之間的遊說緩衝，如今緩衝消失，美中晶片管制恐更趨嚴格，但由於技術藍圖早已規劃至2028年，訂單大多底定，台廠短線訂單無虞。她推估真正考驗落在2029年之後，未來台廠不能再只靠「黃爸爸」的人情味吃飯。</p>",
+    "published_at": "2026-11-18T07:30:00+08:00",
+    "stocks": [],
+    "uid": "6fea4206cbf2476d5e7db4d5d39c6d6e"
+  },
+  {
+    "title": "理財最前線／青安3.0助攻首購　雙北3熱區1500萬入手3房",
+    "url": "https://www.mirrormedia.mg/story/20261102money002",
+    "source": "鏡週刊財經",
+    "summary": "<p>房市降溫，正是首購族進場購屋的機會！青安3.0自8月上路，首月共受理4,605戶，月增17.6％，首購可貸千萬元額度，新婚夫妻加碼至1,200萬元，優惠利率1.775％起。專家建議，善用青安貸款優惠，搭配捷運建設利多與區域房價優勢，有機會以有限預算買到理想好宅。本刊精選新北樹林、淡海新市鎮及北市文山區3大高CP值熱區，提供新婚首購族置產參考。</p>",
+    "published_at": "2026-11-18T07:30:00+08:00",
+    "stocks": [],
+    "uid": "827f3276807202158688a8f5d91255d7"
+  },
+  {
+    "title": "錢鏡你家2／AI泡沫恐慌蔓延！劉佩真深度解析產業真相　點名9檔台股",
+    "url": "https://www.mirrormedia.mg/story/20261117-183mon-191941",
+    "source": "鏡週刊財經",
+    "summary": "<p>AI市場雜音不斷，且後黃仁勳時代來臨，市場憂心資本支出泡沫，台經院產經資料庫總監劉佩真認為，這是科技基建長期成長下的「正常換氣期」，採購從不惜代價地搶購，轉為精準算力規劃，反而讓實體技術紅利更集中於台灣半導體，台廠供應鏈正積極發動「深耕台灣＋全球1+N」雙軸布局，將危機化為轉機，長線依舊看好。</p>",
+    "published_at": "2026-11-18T07:29:00+08:00",
+    "stocks": [],
+    "uid": "d121fdc2840ac5f666d9822dabafd098"
+  },
+  {
+    "title": "黃崇仁過世！力晶爆經營權之戰　市場派「揪團賣股」搶進",
+    "url": "https://finance.ettoday.net/news/3273991",
+    "source": "ETtoday",
+    "summary": "<img alt=\"黃崇仁過世！力晶爆經營權之戰　市場派「揪團賣股」搶進\" src=\"https://cdn2.ettoday.net/images/9020/c9020112.jpg\" /><br /> 半導體大老、力晶集團創辦人黃崇仁過世未滿百日，旗下力晶控股驚爆經營權之爭。上個月自救會召集人林緯程發起「揪團賣股」行動，計畫50天內集結兩成持股，企圖在11月25日臨時股東會搶奪席次；公司派則以力積電董座謝再居為首，喊出「一席董事也不讓」。本刊調查，林緯程已透過管道找到市場金主，公司派則發動庫藏股，同時間，黃崇仁家族也透過投資公司買進持股，並和友好廠商一起收購股票，以產業聯盟之姿反擊市場派，雙方劍拔弩張，大戰一觸即發。 <a href=\"https://finance.ettoday.net/news/3273991\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-11-18T07:22:00+08:00",
+    "stocks": [],
+    "uid": "937870a8d8ca5f84840e2a2e2461dec2"
+  },
+  {
+    "title": "微軟前團隊創立新創 Edelbyte 獲 7,000 萬美元募資，打造專為 AI 時代而生的搜尋分析平台",
+    "url": "https://technews.tw/2026/11/18/microsoft-ex-team-edelbyte-raises-70m-for-ai-search-analytics-platform/",
+    "source": "科技新報",
+    "summary": "以色列資料基礎設施新創公司 Edelbyte 11 日正式對外亮相，宣布完成總額 7,000 萬美元的募資，公 [&#8230;]",
+    "published_at": "2026-11-18T07:20:37+08:00",
+    "stocks": [],
+    "uid": "36c9704b3c758c0e252605a2f0710592"
+  },
+  {
+    "title": "點名多家台商擴大全球供應鏈衝刺產能，輝達採購承諾飆升至 3,900 億美元",
+    "url": "https://finance.technews.tw/2026/11/18/several-taiwanese-companies-were-named-to-expand-their-global-supply-chains-and-boost-production-capacity/",
+    "source": "科技新報",
+    "summary": "在輝達（NVIDIA）第三季財報電話會議上，輝達代理執行長暨財務長柯瑞斯 (Colette Kress) 表示 [&#8230;]",
+    "published_at": "2026-11-18T07:15:50+08:00",
+    "stocks": [],
+    "uid": "0557e90530cd7d80af2877b84411e215"
+  },
+  {
+    "title": "黃仁勳辭職、美加強晶片管制 謝金河：中國AI命根斷",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5644360",
+    "source": "自由財經",
+    "summary": "輝達（NVIDIA）創辦人黃仁勳因捲入間諜醜聞，辭去公司總裁、執行長及董事會成員職務。財信傳媒董事長謝金河發文指出，真正導火線是對中國網開一面，讓輝達的高階晶片透過地下管道源源不...…",
+    "published_at": "2026-11-18T07:15:46+08:00",
+    "stocks": [],
+    "uid": "59452fc7795ff5308c205ea4e7aa128b"
+  },
+  {
+    "title": "台股反彈16%先賣股！　專家逢低撿「小台積」",
+    "url": "https://finance.ettoday.net/news/3273989",
+    "source": "ETtoday",
+    "summary": "<img alt=\"台股反彈16%先賣股！　專家逢低撿「小台積」\" src=\"https://cdn2.ettoday.net/images/9020/c9020107.jpg\" /><br /> 台股4萬點保衛戰再起！投資達人鍾國忠指出，目前盤勢有打出W底第二隻腳的跡象，接下來要關注11/17低點39,786點，在未來2天能否守穩，決定短線多空走向；他並透露上週五已先調節持股，把現金水位拉高2成，而他持續看好大型科技股的後市，這2天開始逢低撿「小台積」：富邦科技ETF （0052）。 <a href=\"https://finance.ettoday.net/news/3273989\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-11-18T07:14:00+08:00",
+    "stocks": [],
+    "uid": "3fd7c202dcf341c96d23369b94fdc488"
+  },
+  {
+    "title": "美阻遠端取用輝達晶片 中國AI公司股價暴跌85％、北京揚言報復",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5644316",
+    "source": "自由財經",
+    "summary": "首次上稿 11-17 23:47更新時間 11-18 07:12\n在美國商務部16日宣布將升高出口管制，進一步限制中國從境外資料中心取得人工智慧（AI）晶片後，中國人工智慧（...…",
+    "published_at": "2026-11-18T07:12:03+08:00",
+    "stocks": [],
+    "uid": "e633dd018c268c420c29b7b362fdfe75"
+  },
+  {
+    "title": "台股W底第二隻腳快來了！　郭哲榮「閉眼買0050」押這2天反攻",
+    "url": "https://finance.ettoday.net/news/3273988",
+    "source": "ETtoday",
+    "summary": "<img alt=\"台股W底第二隻腳快來了！　郭哲榮「閉眼買0050」押這2天反攻\" src=\"https://cdn2.ettoday.net/images/9020/c9020105.jpg\" /><br /> 台股繼11/16日暴跌2,635點後，17日盤中再度跌破4萬點，讓投資人心驚膽跳。摩爾投顧投資長郭哲榮卻在直播中逆勢喊進，他直言這波下殺是市場情緒踩踏與期貨結算的過度反應，AI長線趨勢不變，同時預告11/20或11/23這2天，可望打出W底第二隻腳，年底前仍有機會攻上5萬點大關。 <a href=\"https://finance.ettoday.net/news/3273988\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-11-18T07:12:00+08:00",
+    "stocks": [],
+    "uid": "f97a0b47470ed1f48d674db305691257"
+  },
+  {
+    "title": "PwC 稱〈GTA 6〉關注度媲美奧運，遊戲廣告或成投資新目標",
+    "url": "https://technews.tw/2026/11/18/gta-6-is-like-the-olympics-a-rare-cultural-moment-with-massive-ripple-effects/",
+    "source": "科技新報",
+    "summary": "普華永道（PwC）環球娛樂及媒體業務主管 Bart Spiegel 形容，Rockstar 19 日上市的〈俠 [&#8230;]",
+    "published_at": "2026-11-18T07:10:28+08:00",
+    "stocks": [],
+    "uid": "ac53c567a797371afa03b3646f1a7b34"
+  },
+  {
+    "title": "11月18日重要財經行事曆",
+    "url": "https://money.udn.com/money/story/5607/9885460",
+    "source": "經濟日報",
+    "summary": "台灣\n立法院財委會審查財政部歲入\n歐洲商會發布《2027年建議書》\n三三會例會\n除權息：復華台灣科技優息、華邦電、崇越\n法人說明會：鮮活果汁-KY、大成鋼、泰豐、米斯特、優群、雙鴻、幸康、安勤、冠星-KY、友輝、視陽、博弘、萊德光電-KY、台通、大國鋼、國統\n業績發表會：世界健身-KY、網龍、漢科、宇峻、上品、智冠\n國際\n日本10月貿易收支\n財報：目標百貨\nFed上次會議紀錄",
+    "published_at": "2026-11-18T07:09:04+08:00",
+    "stocks": [
+      "00929",
+      "1256",
+      "2344",
+      "5434"
+    ],
+    "uid": "2261cd3663133cbbeb2d1fda37c4dba6"
+  },
+  {
+    "title": "台股4萬點保衛戰！　專家提醒「別急接刀」揭2天關鍵期",
+    "url": "https://finance.ettoday.net/news/3273987",
+    "source": "ETtoday",
+    "summary": "<img alt=\"台股4萬點保衛戰！　專家提醒「別急接刀」揭2天關鍵期\" src=\"https://cdn2.ettoday.net/images/9020/c9020101.jpg\" /><br /> 台股4萬點保衛戰再度拉警報，昨（17）日大盤上演驚心動魄的雲霄飛車行情，開盤不到3分鐘即暴跌1253點、下探39786點，4萬點大關應聲失守。隨後雖在台積電、鴻海領軍下急拉翻紅，衝上41,533.84點，上下震盪高達1,747點，終場下跌947.97點、收在40,092.11點，驚險守住4萬點關卡，成交量達9,617.95億元。面對盤勢劇烈震盪，專家提醒，別急著接刀。 <a href=\"https://finance.ettoday.net/news/3273987\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-11-18T07:09:00+08:00",
+    "stocks": [],
+    "uid": "34f3a7c28083e4b56984f7c32f267faf"
+  },
+  {
+    "title": "降低對美技術依賴，歐洲軍方加速尋找 Palantir 替代方案",
+    "url": "https://technews.tw/2026/11/18/european-militaries-are-finding-alternatives-for-palantir-maven/",
+    "source": "科技新報",
+    "summary": "隨著美歐安全關係出現變化，歐洲各國正加速尋找本土軍用 AI 平台，希望降低對美國軟體大廠 Palantir 的 [&#8230;]",
+    "published_at": "2026-11-18T07:00:33+08:00",
+    "stocks": [],
+    "uid": "53b63608985b797d2336aa6a2f64d0f7"
+  },
+  {
+    "title": "有法人估裕民今年EPS8.14元創18年新高　高殖利率行情激勵股價",
+    "url": "https://finance.ettoday.net/news/3273957",
+    "source": "ETtoday",
+    "summary": "<img alt=\"有法人估裕民今年EPS8.14元創18年新高　高殖利率行情激勵股價\" src=\"https://cdn2.ettoday.net/images/5806/c5806720.jpg\" /><br /> 裕民航運(2606)今年前三季稅後EPS5.80元，長期追蹤航運類股的法人出報告，預估裕民Q4稅後EPS2.34元，年增51%，全年EPS8.14元，年增89%，創18年新高。 <a href=\"https://finance.ettoday.net/news/3273957\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-11-18T07:00:00+08:00",
+    "stocks": [
+      "2606"
+    ],
+    "uid": "d2c2b7beb63cd3a99ee212f887b25942"
+  },
+  {
+    "title": "獨家》台積電一年狂掃逾70億度離岸風電 地板價5.5元也買進",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5644122",
+    "source": "自由財經",
+    "summary": "台積電佈下天羅地網，高價搶買離岸風電。海龍17日舉行「建置成果感恩典禮」，位於彰化外海、總裝置量達1GW容量風場正式完工，且透露2A屬於高價的遴選風場將與台電分手；據悉，...…",
+    "published_at": "2026-11-18T07:00:00+08:00",
+    "stocks": [],
+    "uid": "32d269b7bf1bd3c42c3d8aab253c9e02"
+  },
+  {
+    "title": "LTN經濟通》台灣南美盟友  因一家銀行地動山搖",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5639736",
+    "source": "自由財經",
+    "summary": "償付能力腰斬與利益輸送 Ueno Bank一夕崩盤\n\n\n〔財經頻道／綜合報導〕2026年11月3日凌晨，南美洲國家巴拉圭爆發重大金融風暴，當地第六大銀行、擁有近300萬名客戶的數位銀行Ueno ...…",
+    "published_at": "2026-11-18T07:00:00+08:00",
+    "stocks": [],
+    "uid": "a58bfbf088aea2d3584c41e09129cfbd"
+  },
+  {
+    "title": "4萬點保衛1／台股4萬點驚險守住！鍾國忠點出2天關鍵期　示警別急接刀",
+    "url": "https://www.mirrormedia.mg/story/20261117-183mon-185018",
+    "source": "鏡週刊財經",
+    "summary": "<p>台股4萬點保衛戰再度拉警報，昨（17）日大盤上演驚心動魄的雲霄飛車行情，開盤不到3分鐘即暴跌1253點、下探39786點，4萬點大關應聲失守。隨後雖在台積電、鴻海領軍下急拉翻紅，衝上41,533.84點，上下震盪高達1,747點，終場下跌947.97點、收在40,092.11點，驚險守住4萬點關卡，成交量達9,617.95億元。面對盤勢劇烈震盪，專家提醒，別急著接刀。</p>",
+    "published_at": "2026-11-18T07:00:00+08:00",
+    "stocks": [],
+    "uid": "41490b5be63c69003b3935a2a689252b"
+  },
+  {
+    "title": "4萬點保衛2／台股W底第二隻腳快來了！哲哲押這2天反攻　喊閉眼買0050",
+    "url": "https://www.mirrormedia.mg/story/20261117-183mon-185445",
+    "source": "鏡週刊財經",
+    "summary": "<p>台股繼11/16日暴跌2,635點後，17日盤中再度跌破4萬點，讓投資人心驚膽跳。摩爾投顧投資長郭哲榮卻在直播中逆勢喊進，他直言這波下殺是市場情緒踩踏與期貨結算的過度反應，AI長線趨勢不變，同時預告11/20或11/23這2天，可望打出W底第二隻腳，年底前仍有機會攻上5萬點大關。</p>",
+    "published_at": "2026-11-18T06:59:00+08:00",
+    "stocks": [],
+    "uid": "bad32618da85ed9b23b980b49be9b325"
+  },
+  {
+    "title": "4萬點保衛3／台股反彈16%先賣股！鍾國忠上週五減碼　這2天逢低撿小台積",
+    "url": "https://www.mirrormedia.mg/story/20261117-183mon-190132",
+    "source": "鏡週刊財經",
+    "summary": "<p>台股4萬點保衛戰再起！投資達人鍾國忠指出，目前盤勢有打出W底第二隻腳的跡象，接下來要關注11/17低點39,786點，在未來2天能否守穩，決定短線多空走向；他並透露上週五已先調節持股，把現金水位拉高2成，而他持續看好大型科技股的後市，這2天開始逢低撿「小台積」：富邦科技ETF （0052）。</p>",
+    "published_at": "2026-11-18T06:58:00+08:00",
+    "stocks": [],
+    "uid": "2b19278095dbdba381c7effc93c9debb"
+  },
+  {
+    "title": "輝達強調當前業務與供應鏈沒有影響，台積電高層親訪提供全面協助",
+    "url": "https://finance.technews.tw/2026/11/18/nvidia-emphasized-that-its-current-business-and-supply-chain-are-unaffected/",
+    "source": "科技新報",
+    "summary": "在輝達（NVIDIA）第三季財報電話會議上，公司的領導層過渡與競爭定位成為法人關注焦點。美銀證券（Bank o [&#8230;]",
+    "published_at": "2026-11-18T06:50:03+08:00",
+    "stocks": [],
+    "uid": "9ed8e5ae15448ecdbb7c7c7b254c48f3"
+  },
+  {
+    "title": "黃仁勳表達願意回鍋  輝達董事會：無意恢復其執行長職務",
+    "url": "https://www.cna.com.tw/news/aopl/202611180012.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者張欣瑜舊金山17日專電）輝達（NVIDIA）董事會主席瓊斯（Harvey C. Jones）今天在財報電話會議表示輝達董事會一致接受黃仁勳辭呈，並且無意恢復其執行長職務。",
+    "published_at": "2026-11-18T06:42:42+08:00",
+    "stocks": [],
+    "uid": "1945fed1e6ad76f7edc17acb26a99791"
+  },
+  {
+    "title": "力晶經營權之爭／黃崇仁過世力晶爆經營權爭奪戰　揭市場派「揪團賣股」搶進戰術",
+    "url": "https://www.mirrormedia.mg/story/20261116fin002",
+    "source": "鏡週刊財經",
+    "summary": "<p>半導體大老、力晶集團創辦人黃崇仁過世未滿百日，旗下力晶控股驚爆經營權之爭。上個月自救會召集人林緯程發起「揪團賣股」行動，計畫50天內集結兩成持股，企圖在11月25日臨時股東會搶奪席次；公司派則以力積電董座謝再居為首，喊出「一席董事也不讓」。本刊調查，林緯程已透過管道找到市場金主，公司派則發動庫藏股，同時間，黃崇仁家族也透過投資公司買進持股，並和友好廠商一起收購股票，以產業聯盟之姿反擊市場派，雙方劍拔弩張，大戰一觸即發。</p>",
+    "published_at": "2026-11-18T06:28:59+08:00",
+    "stocks": [],
+    "uid": "0c1513e5e3e4d10be980dbc792afad91"
+  },
+  {
+    "title": "力晶經營權之爭1／力晶坐擁金山遭覬覦　旗下搖錢樹潛在利益超驚人",
+    "url": "https://www.mirrormedia.mg/story/20261116fin003",
+    "source": "鏡週刊財經",
+    "summary": "<p>力晶投控由於手中有力積電股權17.55％，是單一最大股東，加上持股中國A股上市公司合肥晶合集成股權8％，以及IC設計公司愛普，潛在利益驚人，因此受到市場派覬覦，知情人士透露，這次市場派的買家花136億元就可以插旗，甚至爭經營權，實在是非常便宜。</p>",
+    "published_at": "2026-11-18T06:28:58+08:00",
+    "stocks": [
+      "6770"
+    ],
+    "uid": "a739594280f9a18c3234fb0ee3e58b44"
+  },
+  {
+    "title": "力晶經營權之爭2／傳市場派引國際資金搶力晶經營權　林緯程：不予置評",
+    "url": "https://www.mirrormedia.mg/story/20261116fin004",
+    "source": "鏡週刊財經",
+    "summary": "<p>力晶爆發經營權之爭傳出市場派引國際資金奧援，請來代理投票顧問公司Alliance Advisors董事總經理暨亞太地區負責人馮欣宜協助。對於力晶市場派找上馮欣宜相助一事，本刊向林緯程求證，他表示，「不予置評。」只說：「我不認識她，況且力晶又沒外資，外資接近零。」</p>",
+    "published_at": "2026-11-18T06:28:57+08:00",
+    "stocks": [],
+    "uid": "315dd57a827508e0b594ed19324c7bdf"
+  },
+  {
+    "title": "力晶經營權之爭3／揹債1200億5年就清償　揭力晶壁紙變飆股傳奇",
+    "url": "https://www.mirrormedia.mg/story/20261116fin005",
+    "source": "鏡週刊財經",
+    "summary": "<p>力晶投控原本是由黃崇仁創力的力晶半導體，在力晶爆發財務危機後，轉型為晶圓代工廠，想不到短短5年就還清1千2百億元的債務，並且切割力積電獨立掛牌上市，由於搭上記憶體飆漲快車，力積電股價一度創下94.5元的高價，寫下台股的傳奇故事。</p>",
+    "published_at": "2026-11-18T06:28:56+08:00",
+    "stocks": [
+      "6770",
+      "4994"
+    ],
+    "uid": "f310b93ffb8c2217b73f054fdcacbcad"
+  },
+  {
+    "title": "美股收盤》道瓊再挫848點！費半翻紅 台積電ADR跌3.68％",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5644357",
+    "source": "自由財經",
+    "summary": "輝達財報公布前，科技股賣壓升溫，加上美國國家安全局（NSA）機密網路與蘋果服務系統傳出中斷，VIX恐慌指數上漲11.13%至25.46，連4日攀高，美股週二（17日）收低。...…",
+    "published_at": "2026-11-18T06:28:05+08:00",
+    "stocks": [
+      "2330"
+    ],
+    "uid": "c0cef8ef0d2aedf145a1fb0519b644ff"
+  },
+  {
+    "title": "入秋首波冷氣團要來了 1張圖看冷空氣怎分類 專家曝最凍時刻",
+    "url": "https://money.udn.com/money/story/122328/9885435",
+    "source": "經濟日報總經",
+    "summary": "天氣要轉冷了。氣象專家林得恩今天在「林老師氣象站」臉書粉專表示，今天報到的這波冷空氣，強度有機會達到大陸冷氣團等級，尤其周五至周六清晨最為寒冷。",
+    "published_at": "2026-11-18T06:24:13+08:00",
+    "stocks": [],
+    "uid": "ba3d610b90b30988d90365a89a38d6ab"
+  },
+  {
+    "title": "輝達第三季營收年增達 103% ，獲利年增翻倍超乎預期，Vera Rubin 已出貨貢獻單季營收",
+    "url": "https://finance.technews.tw/2026/11/18/nvidias-third-quarter-revenue-increased-by-103-year-on-year-exceeding-expectations/",
+    "source": "科技新報",
+    "summary": "人工智慧運算龍頭 NVIDIA（輝達）公布截至 2026 年 10 月 25 日的 2027 年第三季財務報告 [&#8230;]",
+    "published_at": "2026-11-18T06:20:58+08:00",
+    "stocks": [],
+    "uid": "dd9340f1ef8af62ecd5a63e93fbd337b"
+  },
+  {
+    "title": "美股尾盤一度狂瀉逾1000點！　台指期夜盤跌219點",
+    "url": "https://finance.ettoday.net/news/3273972",
+    "source": "ETtoday",
+    "summary": "<img alt=\"美股尾盤一度狂瀉逾1000點！　台指期夜盤跌219點\" src=\"https://cdn2.ettoday.net/images/9002/c9002506.jpg\" /><br /> 科技股賣壓沉重、美國國家安全局（NSA)機密外洩加上蘋果系統服務當機，導致美股週二（17日）走低，道瓊尾盤一度大跌超過千點、VIX恐慌指數漲至25.46，連四日創新高。台積電ADR（TSM）跌13.76美元或3.68％、收359.69美元。台指期夜盤跌219點或-0.55％、收39792點。 <a href=\"https://finance.ettoday.net/news/3273972\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-11-18T06:19:00+08:00",
+    "stocks": [
+      "2330"
+    ],
+    "uid": "6fdd035e3b6ed85ac39f974a38a19c07"
+  },
+  {
+    "title": "買木瓜別只看大小 農業部教3招挑選技巧 還沒成熟別放冰箱",
+    "url": "https://money.udn.com/money/story/5648/9885432",
+    "source": "經濟日報總經",
+    "summary": "台灣常見的國產木瓜品種，包括台農2號、紅妃及日陞，農業部表示，各有不同的風味與特色，都是值得品嘗的台灣好滋味。買木瓜別只看大小，農業部教民眾掌握3個小技巧，包括看外觀、看顏色、摸軟硬。",
+    "published_at": "2026-11-18T06:15:42+08:00",
+    "stocks": [],
+    "uid": "665de21d928d152ab4555e3b609a72fe"
+  },
+  {
+    "title": "市場關注科技股前景與輝達財報　美股多收低",
+    "url": "https://www.cna.com.tw/news/afe/202611180011.aspx",
+    "source": "中央社",
+    "summary": "（中央社紐約17日綜合外電報導）投資人對科技股展望憂心忡忡之下，拋售AI產業相關類股，美股主要指數今天多收跌。不過，AI晶片巨頭輝達（NVIDIA）盤後公布上季財報和本季財測均優於預期，帶動盤後交易上漲。",
+    "published_at": "2026-11-18T06:11:39+08:00",
+    "stocks": [],
+    "uid": "efcc6e26cec9482818087810c45ebb62"
+  },
+  {
+    "title": "輝達第一份「後黃仁勳時代」財報出爐！營收翻倍超預期　盤後漲2％",
+    "url": "https://finance.ettoday.net/news/3273970",
+    "source": "ETtoday",
+    "summary": "<img alt=\"輝達第一份「後黃仁勳時代」財報出爐！營收翻倍超預期　盤後漲2％\" src=\"https://cdn2.ettoday.net/images/9012/c9012850.jpg\" /><br /> 輝達（NVIDIA）美東時間17日盤後公布2027財年第3季財報，單季營收1,158億美元（折合新台幣約3兆8,117億元）較去年同期翻倍，第4季營收展望達1,300億美元（折合新台幣約4兆2,791億元）也優於預期。儘管財報優於預期，輝達盤後小幅上漲2％。 <a href=\"https://finance.ettoday.net/news/3273970\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-11-18T06:10:00+08:00",
+    "stocks": [],
+    "uid": "2c93bb9456799eeda922548d679e1aca"
+  },
+  {
+    "title": "中東衝突再度升高引發供應疑慮　國際油價收紅",
+    "url": "https://www.cna.com.tw/news/afe/202611180010.aspx",
+    "source": "中央社",
+    "summary": "（中央社紐約17日綜合外電報導）伊朗近日第3度攻擊駐巴林美軍目標，使中東衝突再度升溫，引發供應疑慮，國際油價今天收漲。",
+    "published_at": "2026-11-18T06:08:37+08:00",
+    "stocks": [],
+    "uid": "cfbb51cc92070d343aa2ccae2a80f4b4"
+  },
+  {
+    "title": "輝達第4季財測超乎華爾街預期　盤後股價一度彈漲2%",
+    "url": "https://www.cna.com.tw/news/aopl/202611180009.aspx",
+    "source": "中央社",
+    "summary": "（中央社舊金山17日綜合外電報導）人工智慧（AI）晶片大廠輝達（Nvidia）共同創辦人黃仁勳上週請辭後，輝達今天公布第4季營收預估超乎華爾街預期，投資人稍微鬆口氣，輝達盤後股價一度彈漲2%。",
+    "published_at": "2026-11-18T06:08:35+08:00",
+    "stocks": [],
+    "uid": "7abd54509c5e837eb9aa833f84083572"
+  },
+  {
+    "title": "台股大考驗1／台股本益比殺到13倍　凱基投顧董座朱晏民：已進入超跌區",
+    "url": "https://www.mirrormedia.mg/story/20261117-185mon-203704",
+    "source": "鏡週刊財經",
+    "summary": "<p>台股又重挫，昨（17日）盤中一度跌破4萬點，最低下探39,786點，終場大跌947.97點，收在40,092點。台股到底跌完了沒？凱基投顧董事長朱晏民指出，台股預估本益比已降至約13倍，低於長期平均的15倍，且今年、明年企業獲利預估分別成長61％、27％，他認為，台股已進入超跌區。</p>",
+    "published_at": "2026-11-18T06:00:04+08:00",
+    "stocks": [],
+    "uid": "2baa4a15860a0d49191ad16fec71e04e"
+  },
+  {
+    "title": "台股大考驗2／AI投資大洗牌！朱晏民揭3大晶片排序　GPU竟排最後",
+    "url": "https://www.mirrormedia.mg/story/20261117-185mon-204022",
+    "source": "鏡週刊財經",
+    "summary": "<p>台股近期震盪劇烈，明年行情怎麼看？凱基投顧董事長朱晏民認為，2027年AI產業將進入「金髮女孩」階段，雖然成長速度放緩，但需求依舊強勁，雲端業者資本支出預估年增46％。至於明年AI投資該選什麼？他透露，隨著AI代理（AI Agent）帶動新一波運算需求，最看好CPU，其次是ASIC，GPU則排在最後。他強調，這是凱基原先的投資布局方向，不是受到黃仁勳人事風波影響才改變看法。</p>",
+    "published_at": "2026-11-18T06:00:03+08:00",
+    "stocks": [],
+    "uid": "9a28920759b6a1dd7cfa4a2f319eff79"
+  },
+  {
+    "title": "台股大考驗3／台股1個月狂殺12,000點！群益投顧總座示警還要測底　5萬點等明年",
+    "url": "https://www.mirrormedia.mg/story/20261117-185mon-204413",
+    "source": "鏡週刊財經",
+    "summary": "<p>台股近期走勢大起大落，短短一個多月重挫約12,000點，市場原先期待年底挑戰5萬點，恐怕要多點耐心。群益投顧總經理范振鴻直言，台股要上攻到5萬點，「明年比較有機會」。根據群益投顧預估，2027年台股指數區間為35,000至50,000點。至於近期跌勢何時結束？他認為年線短期應有支撐，但市場對AI產業前景產生疑慮，恐還需要時間反覆測試低點。</p>",
+    "published_at": "2026-11-18T06:00:02+08:00",
+    "stocks": [],
+    "uid": "0817342de438ffe391efd03aa080f4af"
+  },
+  {
+    "title": "台股大考驗4／AI訂單滿手股價卻暴跌！專家揭股價不漲反跌真相　恐陷雙殺",
+    "url": "https://www.mirrormedia.mg/story/20261117-185mon-204708",
+    "source": "鏡週刊財經",
+    "summary": "<p>AI供應鏈訂單滿手，股價卻接連重挫，問題出在哪？群益投顧總經理范振鴻指出，股價反映的是未來幾年的獲利，隨著美國期中選舉及黃仁勳去職，市場開始重新評估2027、2028年AI產業成長前景。他提醒，即使AI需求強勁，也要留意本益比與EPS同步下修的「戴維斯雙殺」風險。</p>",
+    "published_at": "2026-11-18T06:00:01+08:00",
+    "stocks": [],
+    "uid": "e0fc91941b967eac9a6059d30ab58bf3"
+  },
+  {
+    "title": "台積電優良供應商 和碩、矽品首度入列",
+    "url": "https://ec.ltn.com.tw/article/paper/1778949",
+    "source": "自由財經",
+    "summary": "新增卓越全球化支援獎 漢唐為唯一得獎台廠\n\n〔記者林薏茹／台北報導〕晶圓代工龍頭台積電（2330）昨舉辦2026年供應鏈管理論壇，公布年度優良供應商卓越表現獎得獎名單，今年得獎廠商擴大至35家，較去年30家增加5家。其中台廠今年得獎新增和碩（4938）及日月光投控（3711）旗下矽品，其他上市櫃…",
+    "published_at": "2026-11-18T05:30:00+08:00",
+    "stocks": [
+      "2330",
+      "4938",
+      "3711"
+    ],
+    "uid": "9a7f910372b0586080af867671a7ebda"
+  },
+  {
+    "title": "滙豐陳志堅︰持續強化台灣企業與機構金融布局",
+    "url": "https://ec.ltn.com.tw/article/paper/1778950",
+    "source": "自由財經",
+    "summary": "〔記者高嘉和／台北報導〕滙豐（台灣）商業銀行總經理陳志堅（見圖，滙豐商業銀行提供）近期接受《自由時報》訪問時表示，台灣是滙豐集團在亞洲重要且具長期策略意義的市場；面對人工智慧（AI）、金融市場及能源轉型持續發展，滙豐將結合全球網絡與在地專業，強化企業與機構金融業務，支持台灣企業拓展業務與海外市場，並…",
+    "published_at": "2026-11-18T05:30:00+08:00",
+    "stocks": [],
+    "uid": "12774b7a853bcbd083e2e5efcc8df8ad"
+  },
+  {
+    "title": "熱門股》外資大買 中鼎創13年新高價",
+    "url": "https://ec.ltn.com.tw/article/paper/1778951",
+    "source": "自由財經",
+    "summary": "國內統包工程龍頭中鼎工程（9933）前（16）日召開法說會，由於去年因旗下美國子公司承攬生質能廠而導致虧損，中鼎董事長楊宗興表示，該廠目前營運正常，看起來是可以提早還錢，中鼎目標2030年處分該廠、獲利了結。該利多消息激勵中鼎股價昨日不畏大盤重挫，開高走高，終場收在漲停56.5元，創下13年多新高價…",
+    "published_at": "2026-11-18T05:30:00+08:00",
+    "stocks": [
+      "9933"
+    ],
+    "uid": "0a9c49f64067cdf0a9ca13596b58cf10"
+  },
+  {
+    "title": "中企「蒸餾」無所不在 美防不勝防",
+    "url": "https://ec.ltn.com.tw/article/paper/1778865",
+    "source": "自由財經",
+    "summary": "已從學術實驗擴散至主要產業領域\n〔編譯盧永山／綜合報導〕路透報導，隨著北京當局計畫擴張AI戰略，抵銷美國限制其取得先進AI晶片，中國實體正採用越來越複雜的方式，使用美國先進AI模型來訓練自己的模型，此種作法被稱作「蒸餾」（distillation）。\n利用美國AI模型練兵 成本大降\n路透檢視逾…",
+    "published_at": "2026-11-18T05:30:00+08:00",
+    "stocks": [],
+    "uid": "cdf14b1a6518273d7ef3024453c54942"
+  },
+  {
+    "title": "盤勢分析》年線有短撐 保留現金彈性",
+    "url": "https://ec.ltn.com.tw/article/paper/1778954",
+    "source": "自由財經",
+    "summary": "受到費半指數收盤重挫影響，台股昨日早盤一度重摔逾1200點、摜破4萬點大關，不過搶短買盤進場，帶動指數一度急拉翻紅，但許多指標族群股價仍跌停打不開，導致午盤賣壓又再度出籠，終場仍大跌947.97點、以40092.11點作收，勉強守住4萬點大關，成交金額約9977.38億元。\n昨日外資賣超380.9…",
+    "published_at": "2026-11-18T05:30:00+08:00",
+    "stocks": [],
+    "uid": "98932816d26717b5cabb8cbb2678e0fa"
+  },
+  {
+    "title": "財經青紅燈》AI大趨勢不可逆",
+    "url": "https://ec.ltn.com.tw/article/paper/1778953",
+    "source": "自由財經",
+    "summary": "自2023年AI商機開始爆發以來，台灣出口迎來史上最好榮景，台股也屢創新高挑戰5萬點。然而，近期市場對AI投資疑慮升高，美國期中選舉民主黨大勝、輝達執行長黃仁勳因婚外情辭職等重大事件，加劇外界對AI前景的疑慮，導致全球股市劇烈動盪，金融市場遭遇強烈「亂流」。然而，AI大趨勢已不可逆，美中雙方都不可能…",
+    "published_at": "2026-11-18T05:30:00+08:00",
+    "stocks": [],
+    "uid": "a416acaba89a124089d1154703f8e9bb"
+  },
+  {
+    "title": "美晶片、算力雙管制 中國科技股倒地",
+    "url": "https://ec.ltn.com.tw/article/paper/1778864",
+    "source": "自由財經",
+    "summary": "黃仁勳案後首個緊縮政策 AI晶片出口預審納星馬等5國\n\n〔編譯魏國金、記者廖家寧／綜合報導〕在美國總統川普即將與中國國家主席習近平會面之際，美國商務部十六日宣布將升高出口管制，進一步限制中國從境外資料中心取得人工智慧（AI）晶片。這是華府對輝達前執行長黃仁勳外遇醜聞做出的第一個政策回應，他婚外情…",
+    "published_at": "2026-11-18T05:30:00+08:00",
+    "stocks": [],
+    "uid": "33e46322d54f098564fed25bbb99ec36"
+  },
+  {
+    "title": "熱門股》明年營運續旺 合勤控站上月線",
+    "url": "https://ec.ltn.com.tw/article/paper/1778952",
+    "source": "自由財經",
+    "summary": "網通廠合勤控（3704）昨日開盤後不久股價即強勢攻上漲停38.5元，站上月線，並一路鎖到尾盤，終場成交張數逾8900張。\n合勤控表示，受記憶體等零組件價格上漲影響，部分大型電信營運商拉貨緩慢，但二、三級營運商需求持續成長，加上國防業務營收挹注，第4季營收仍有機會成長。市場人士指出，隨著國防標案、海…",
+    "published_at": "2026-11-18T05:30:00+08:00",
+    "stocks": [
+      "3704"
+    ],
+    "uid": "3703c73c22b713263b4aa7f100d17d97"
+  },
+  {
+    "title": "下午鋒面轉雨降溫 明起乾冷空氣強度上看冷氣團 吳德榮曝最凍11度低溫",
+    "url": "https://money.udn.com/money/story/122328/9885389",
+    "source": "經濟日報總經",
+    "summary": "天氣即將明顯轉變。中央大學大氣科學系兼任副教授吳德榮今天在「氣象應用推廣基金會」的「洩天機教室」專欄表示，今天上午晴朗偏熱，不過，下午起鋒面到，北部、東半部雲量增轉有雨，北台灣明顯降溫。今天北部15至29度、中部17至32度、南部19至33度、東部16至30度。",
+    "published_at": "2026-11-18T05:16:39+08:00",
+    "stocks": [],
+    "uid": "3a7c84c3fd399956ea1985c43dc7492a"
+  },
+  {
+    "title": "〈台股盤前要聞〉玉山金估台灣年底升息半碼、鴻海砸14.5億元收購Sony半導體車載相機模組事業",
+    "url": "https://news.cnyes.com/news/id/6665474",
+    "source": "鉅亨網",
+    "summary": "",
+    "published_at": "2026-11-18T05:10:04+08:00",
+    "stocks": [
+      "TWS:2884:STOCK",
+      "TWS:2317:STOCK",
+      "TWS:2330:STOCK"
+    ],
+    "uid": "05357c178e753e302cc1658b4a20a9f2"
+  },
+  {
+    "title": "黃仁勳辭職後首發聲感謝各界支持　承諾配合董事會調查",
+    "url": "https://www.cna.com.tw/news/aopl/202611180007.aspx",
+    "source": "中央社",
+    "summary": "（中央社舊金山17日綜合外電報導）人工智慧（AI）晶片大廠輝達（NVIDIA）共同創辦人黃仁勳爆出婚外情並引起國安疑慮後辭去執行長等職務。他今天在辭職後首次發出的聲明稿中感謝各界的支持，並承諾配合董事會調查，同時表示若董事會提出要求，他願意回鍋擔任執行長。",
+    "published_at": "2026-11-18T04:18:29+08:00",
+    "stocks": [],
+    "uid": "cce7e24031af03b579d369543571f16e"
+  },
+  {
+    "title": "11月18日 五件財經大事搶先看",
+    "url": "https://money.udn.com/money/story/5607/9885377",
+    "source": "經濟日報",
+    "summary": "經濟日報整理五件不可不知的財經大事，讓讀者在每天清晨能快速掌握最重要的財經大事。",
+    "published_at": "2026-11-18T04:12:46+08:00",
+    "stocks": [],
+    "uid": "e45770e68aa658784df27f55798ed099"
+  },
+  {
+    "title": "投資展望論壇12月10日登場／安聯投信副總裁莊凱倫：數位金融 雙成長主軸",
+    "url": "https://money.udn.com/money/story/5648/9885208",
+    "source": "經濟日報總經",
+    "summary": "安聯投信副總裁莊凱倫表示，在AI與數位金融加速融合下，穩定幣與資產代幣化有望成為下一階段數位金融兩大成長主軸。隨著監管制度與市場規範逐步完善，也有助降低機構參與門檻，吸引更多法人投入，推動數位資產市場持續擴張。",
+    "published_at": "2026-11-18T03:32:13+08:00",
+    "stocks": [],
+    "uid": "a58267811dcafd5d335731e385a37c7a"
+  },
+  {
+    "title": "美 AI 晶片管制升級 經濟部：台美共同防堵漏洞",
+    "url": "https://money.udn.com/money/story/7307/9885218",
+    "source": "經濟日報總經",
+    "summary": "美國商務部擴大晶片出口管制，經濟部昨（17）日表示，美國政府新規是希望彌補可能的管制漏洞，經濟部將持續與美方就管制作法交換意見、掌握新規執行細節，共同防堵違規轉運行為，並協助業者遵循法規。",
+    "published_at": "2026-11-18T03:23:28+08:00",
+    "stocks": [],
+    "uid": "05601d7595e3705e10bac71217269b77"
+  },
+  {
+    "title": "美 AI 晶片管制升級 恐干擾台廠出貨節奏",
+    "url": "https://money.udn.com/money/story/5612/9885217",
+    "source": "經濟日報股市",
+    "summary": "美國商務部工業與安全局（BIS）16日針對先進AI晶片及遠端算力存取祭出新規，瞄準東南亞等五國。法人認為，美國升級管制對台積電影響有限，但存在間接訂單遞延風險。",
+    "published_at": "2026-11-18T03:21:24+08:00",
+    "stocks": [
+      "1303"
+    ],
+    "uid": "a50e49af3a1aa68d0831facfd85b82e3"
+  },
+  {
+    "title": "SemiAnalysis 示警 AI 基建潮降溫...牽動台鏈",
+    "url": "https://money.udn.com/money/story/5612/9885201",
+    "source": "經濟日報股市",
+    "summary": "半導體研究機構SemiAnalysis釋出報告，示警AI基礎建設投資熱潮出現新的降溫訊號；高盛也預測2027年AI基礎建設投資將可能觸頂。法人預期可能牽動台積電、鴻海、廣達、緯創等相關AI供應鏈營運動向。",
+    "published_at": "2026-11-18T03:20:20+08:00",
+    "stocks": [
+      "2330"
+    ],
+    "uid": "4b45ffd8c1b3299970bcd73b829c9919"
+  },
+  {
+    "title": "內部動亂沒打亂規劃 輝達續推新晶片 秀出 Rubin HPC",
+    "url": "https://money.udn.com/money/story/5612/9885197",
+    "source": "經濟日報股市",
+    "summary": "輝達（NVIDIA）雖深陷管理層變動問題，但持續展現在高速運算技術領域的企圖。在Supercomputing 2026（SC26）大會宣布新GPU晶片Rubin HPC，用以加速科學、工程與分析領域，成為幫助科學領域推進的一大利器，展現將AI與傳統高效能運算（HPC）整合的企圖心，預計2028年上市。",
+    "published_at": "2026-11-18T03:18:54+08:00",
+    "stocks": [],
+    "uid": "98ab45818ab949b804ecddea5ca183ae"
+  },
+  {
+    "title": "輝達 AI 代理專用 CPU 明年初出貨",
+    "url": "https://money.udn.com/money/story/5612/9885203",
+    "source": "經濟日報股市",
+    "summary": "輝達創辦人黃仁勳雖離職，輝達進軍加速運算市場速度不放緩，昨（17）日宣布，Vera CPU機櫃預計明年初起由戴爾、慧與科技、聯想與美超微等業者陸續出貨。輝達強調，Vera CPU專為AI代理（Agentic AI）與高效能運算（HPC）打造，提供更高效能，能源效率較x86 CPU提升兩倍。",
+    "published_at": "2026-11-18T03:17:40+08:00",
+    "stocks": [],
+    "uid": "0c9ba3cdde17fd3eb3eeaac5e5653801"
+  },
+  {
+    "title": "企業挺育兒！勞動部宣布三大措施 最高補助135萬元",
+    "url": "https://money.udn.com/money/story/7307/9885120",
+    "source": "經濟日報總經",
+    "summary": "立法院上周三讀「育兒大禮包」相關修法，勞動部昨（17）日宣布三大補助措施，其中，企業若同意育有12歲以下子女的勞工，可減少工時一小時，且薪資照發，政府將補貼企業，每名勞工每年最高補助4.5萬元，每家企業最高補助135萬，明年上路。",
+    "published_at": "2026-11-18T03:16:09+08:00",
+    "stocks": [],
+    "uid": "c574046c480fcf05750589813209afbb"
+  },
+  {
+    "title": "「育兒大禮包」 明年上路 軍公教適用",
+    "url": "https://money.udn.com/money/story/7307/9885113",
+    "source": "經濟日報總經",
+    "summary": "「育兒大禮包」相關修法上周三讀，勞動部昨（17）日說明，育兒新制將於明年元旦上路，只要「產假、陪產假請求權」還在，過了明年元旦，產假就會自動延長成14周、陪產延長到14天；育兒留停一旦請滿六個月，將可再延長三個月。人事總處表示，公務員也適用相同育兒新制，將加速修法處理。",
+    "published_at": "2026-11-18T03:12:51+08:00",
+    "stocks": [],
+    "uid": "e0f7060f27bbf2e5d29c7f6095815f32"
+  },
+  {
+    "title": "「育兒大禮包」明年上路 業者憂心人力調度問題",
+    "url": "https://money.udn.com/money/story/7307/9885111",
+    "source": "經濟日報總經",
+    "summary": "「育兒大禮包」明年上路，透過彈性育兒工時、產假延長、加碼育兒留停等作為，打造友善育兒環境。對於企業擔憂人力調度問題，勞動部也已與業界溝通，此次新增職代補貼、新聘人力補助兩大方案，讓企業能夠「無痛」挺育兒。",
+    "published_at": "2026-11-18T03:12:05+08:00",
+    "stocks": [],
+    "uid": "41694a5f38a8b8369f7371dd1263a3e6"
+  },
+  {
+    "title": "明年經濟關鍵字預測／陳俊聖選「榮」 張元銘挑「拓」",
+    "url": "https://money.udn.com/money/story/5648/9885109",
+    "source": "經濟日報總經",
+    "summary": "經濟日報主辦「2027經濟關鍵字大預測活動」，宏碁董事長陳俊聖選「榮」，燿華電子董事長張元銘選「拓」。",
+    "published_at": "2026-11-18T03:09:55+08:00",
+    "stocks": [],
+    "uid": "476fae248aa8dc1b308e5b7d0be16c12"
+  },
+  {
+    "title": "全球記憶體行情出現分歧 美銀示警 NAND Flash 價格看跌牽動台廠",
+    "url": "https://money.udn.com/money/story/5612/9885128",
+    "source": "經濟日報股市",
+    "summary": "全球記憶體漲價行情出現分歧，美銀證券率先示警，NAND Flash現貨價格自10月中下旬以來大幅修正約20%，而個人電腦（PC）、手機及中國大陸雲端客戶需求轉弱，明年第1季合約談判恐延後，IT用NAND價格估計再跌5%至10%。",
+    "published_at": "2026-11-18T02:55:09+08:00",
+    "stocks": [],
+    "uid": "4104469cbc99ef3b7636b5c9ad9bbb2d"
+  },
+  {
+    "title": "全球記憶體三雄 面臨價格操縱訴訟",
+    "url": "https://money.udn.com/money/story/5612/9885135",
+    "source": "經濟日報股市",
+    "summary": "全球記憶體漲價潮增添變數。三星、SK海力士及美光遭控聯合限產、操縱DRAM價格，美國聯邦法官駁回三大廠撤案聲請，案件將續行審理。後續供給與定價策略是否調整，牽動記憶體報價及南亞科、華邦電等台廠營運。",
+    "published_at": "2026-11-18T02:53:10+08:00",
+    "stocks": [
+      "5007"
+    ],
+    "uid": "d8f8ae5a9696379af4b6f94a33f33475"
+  },
+  {
+    "title": "鴻海斥資 14 億買 Sony 子公司 深耕日本車用零組件市場",
+    "url": "https://money.udn.com/money/story/5612/9885131",
+    "source": "經濟日報股市",
+    "summary": "鴻海昨（17）日宣布，與索尼半導體解決方案公司（Sony Semiconductor Solutions Corporation，「SSS」）簽署協議，擬以72.4億日元（約新台幣14.5億元）現金收購SSS旗下車載相機模組事業。",
+    "published_at": "2026-11-18T02:52:40+08:00",
+    "stocks": [],
+    "uid": "b0266635c432dfd5335bd9c6f63ad26e"
+  },
+  {
+    "title": "台積電擁技術優勢 外資力挺重申3,260元目標價",
+    "url": "https://money.udn.com/money/story/5607/9885136",
+    "source": "經濟日報",
+    "summary": "美國期中選舉後，AI資本支出前景遭質疑，愈來愈多外資法人調降台股供應鏈投資評等及目標價。不過，台積電憑藉技術優勢，仍獲得法人力挺。美銀證券對台積電重申3,260元目標價及「買進」評等，看好台積電的競爭力及在動盪時的防禦力。",
+    "published_at": "2026-11-18T02:50:40+08:00",
+    "stocks": [
+      "2330"
+    ],
+    "uid": "e714c91ca88f678583ef441d46242775"
+  },
+  {
+    "title": "蘋果明年推 AI 眼鏡 大立光、宏達電、英濟等有望受惠",
+    "url": "https://money.udn.com/money/story/11162/9885133",
+    "source": "經濟日報股市",
+    "summary": "彭博社報導，蘋果計畫在2027年6月的WWDC正式發表首款AI眼鏡，並在該年底前開賣，新產品已將進入設計最終階段，明年下半年量產，有望為鴻海、台積電、大立光、玉晶光等供應鏈添增動能，宏達電、英濟等AI眼鏡概念股也可望因市場擴大而受惠。",
+    "published_at": "2026-11-18T02:49:07+08:00",
+    "stocks": [],
+    "uid": "c2c3aa6e6424a287d5c6710271aba36c"
+  },
+  {
     "title": "蘋果加入 AI 眼鏡戰局 進逼霸主 Meta",
     "url": "https://money.udn.com/money/story/11162/9885137",
     "source": "經濟日報股市",
@@ -24,6 +1451,15 @@
     "summary_zh": "蘋果首款AI眼鏡設計方向與規格傳聞越來越多，市場預料蘋果最快明年就會加入AI眼鏡戰局。進逼AI眼鏡霸主Meta地位，同時也有助於擴大AI眼鏡市場商機與產值。",
     "title_en": "Apple joins the AI ​​glasses war, approaching Meta",
     "summary_en": "There are more and more rumors about the design direction and specifications of Apple's first AI glasses, and the market expects Apple to join the AI ​​glasses battle as soon as next year. Entering into the dominant position of Meta in AI glasses will also help expand the business opportunities and output value of the AI ​​glasses market."
+  },
+  {
+    "title": "旺矽、倉和爆違約交割",
+    "url": "https://money.udn.com/money/story/5607/9885138",
+    "source": "經濟日報",
+    "summary": "櫃買指數昨（17）日下跌3.92%，收306.61點，千金股旺矽、倉和驚爆違約交割。櫃買中心昨接獲台銀金山、德信、新光等券商據點通報，旺矽爆出5,406萬元違約交割，是旺矽今年第二次違約交割。",
+    "published_at": "2026-11-18T02:46:27+08:00",
+    "stocks": [],
+    "uid": "32e44a962b5f355c857e755c4db90f2b"
   },
   {
     "title": "稅率最高27% 歐課鋼材反傾銷稅 中鋼、中鴻承壓",
@@ -401,6 +1837,124 @@
     "uid": "58dd098d00949104cde8bea24a4110f7"
   },
   {
+    "title": "AI類股跌勢拖累 歐股收低",
+    "url": "https://www.cna.com.tw/news/afe/202611180004.aspx",
+    "source": "中央社",
+    "summary": "（中央社倫敦17日綜合外電報導）歐洲主要股市今天收低，主因人工智慧（AI）晶片巨擘輝達（Nvidia）即將公布財報前夕，交易員拋售AI相關類股，拖累股市。",
+    "published_at": "2026-11-18T01:47:20+08:00",
+    "stocks": [],
+    "uid": "89defa931c48bde1d98794d9e844d024"
+  },
+  {
+    "title": "黃仁勳辭職後首發聲：若輝達董事會要求　願意回鍋任執行長",
+    "url": "https://www.cna.com.tw/news/aopl/202611180003.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者侯姿瑩華盛頓17日專電）人工智慧（AI）晶片大廠輝達（NVIDIA）共同創辦人黃仁勳爆出婚外情並引起國安疑慮後，上週辭去執行長等職務。他今天在辭職後首發聲明表示，若董事會提出要求，他願意回歸擔任執行長；他也承認自己犯下「嚴重錯誤」。",
+    "published_at": "2026-11-18T01:45:17+08:00",
+    "stocks": [],
+    "uid": "b98a58b68d0fa1b864036a13b5c89ede"
+  },
+  {
+    "title": "董事會不讓黃仁勳回任 明年成長上修75%",
+    "url": "https://tw.news.yahoo.com/%E8%91%A3%E4%BA%8B%E6%9C%83%E4%B8%8D%E8%AE%93%E9%BB%83%E4%BB%81%E5%8B%B3%E5%9B%9E%E4%BB%BB-%E6%98%8E%E5%B9%B4%E6%88%90%E9%95%B7%E4%B8%8A%E4%BF%AE75-011500315.html",
+    "source": "Yahoo股市",
+    "summary": "董事長瓊斯：無意讓黃仁勳回任；季營收1158億美元",
+    "published_at": "2026-11-18T01:15:00+08:00",
+    "stocks": [],
+    "uid": "cbc71401fceb524530cc4426d078a3cd"
+  },
+  {
+    "title": "SpaceX傳最快本週啟動400億美元債務融資，首批約40億美元債券發售",
+    "url": "https://tw.stock.yahoo.com/news/spacex%E5%82%B3%E6%9C%80%E5%BF%AB%E6%9C%AC%E9%80%B1%E5%95%9F%E5%8B%95400%E5%84%84%E7%BE%8E%E5%85%83%E5%82%B5%E5%8B%99%E8%9E%8D%E8%B3%87-%E9%A6%96%E6%89%B9%E7%B4%8440%E5%84%84%E7%BE%8E%E5%85%83%E5%82%B5%E5%88%B8%E7%99%BC%E5%94%AE-011217454.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／劉敏夫】外電報導指出，熟知內情的消息人士指稱，SpaceX最快可能於本週啟動400億美元債務融資的部分發行，這筆融資旨在為其採購人工智能晶片提供資金。以涉及非公開交易為由要求匿名的知情人士表示，約40億美元債券可能在數日內發售。他們表示，這筆預期中的交易由高盛集團和阿波羅全球管理擔任承銷商。知情人士表示，SpaceX正逐步籌集這400億美元，其採用的融資方式旨在將相關債務置於這家火箭、衛星及人工智能公司的資產負債表之外。外電此前披露，由阿波羅支持的Atlas SP管理的一家特殊目的載體將購買輝達晶片，並發行實質上的資產支持證券。SpaceX於10月表示，貝萊德、高盛資產管理和KKR & Co旗下帳戶是整筆交易的基石投資者。根據交易條款，SpaceX將租用這些晶片五年。如果設備發生故障，或者發生自然災害等被稱為「不可抗力」的特殊事件，SpaceX也不能退出租約。這與甲骨文公司形成對比；數月前，甲骨文曾以此類事件為由，試圖延遲一個遭遇延誤的數據中心項目的相關付款。金融媒體行業研究高級信用分析師Robert Schiffman表示，這種資產支持融資為SpaceX開闢了一種新的融資",
+    "published_at": "2026-11-18T01:12:17+08:00",
+    "stocks": [],
+    "uid": "f4ddc8b7acea54eadfaf33f13c7bf7a0"
+  },
+  {
+    "title": "輝達財報報喜...台積電市值重返57兆元！利空出盡了？分析師：套牢賣壓依舊重",
+    "url": "https://tw.stock.yahoo.com/news/%E8%BC%9D%E9%81%94%E8%B2%A1%E5%A0%B1%E5%A0%B1%E5%96%9C%E3%80%81%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%B8%82%E5%80%BC%E9%87%8D%E8%BF%9457%E5%85%86%E5%85%83%EF%BC%81%E5%88%A9%E7%A9%BA%E5%87%BA%E7%9B%A1%E4%BA%86%EF%BC%9F%E5%88%86%E6%9E%90%E5%B8%AB%EF%BC%9A%E5%A5%97%E7%89%A2%E8%B3%A3%E5%A3%93%E4%BE%9D%E8%88%8A%E9%87%8D-011225353.html",
+    "source": "Yahoo股市",
+    "summary": "利空出盡了？人工智慧（AI）晶片大廠輝達（Nvidia）共同創辦人黃仁勳上周請辭後，輝達今天公布第4季營收預估超乎市場預期，輝達盤後股價一度彈漲2%，台積電台北現股（2330）今（18）日盤中股價重返2210元，市值也站回57兆元大關，但分析師表示，市場信心尚未完全恢復，上檔套牢賣壓依舊沉重。",
+    "published_at": "2026-11-18T01:11:51+08:00",
+    "stocks": [
+      "2330"
+    ],
+    "uid": "762eb9c73eda796b5c3325f838284288"
+  },
+  {
+    "title": "焦點股：太景*-KY旗下流感新藥納大陸醫保，商業化里程碑將帶來強勁成長力道",
+    "url": "https://tw.stock.yahoo.com/news/%E7%84%A6%E9%BB%9E%E8%82%A1-%E5%A4%AA%E6%99%AF-ky%E6%97%97%E4%B8%8B%E6%B5%81%E6%84%9F%E6%96%B0%E8%97%A5%E7%B4%8D%E5%A4%A7%E9%99%B8%E9%86%AB%E4%BF%9D-%E5%95%86%E6%A5%AD%E5%8C%96%E9%87%8C%E7%A8%8B%E7%A2%91%E5%B0%87%E5%B8%B6%E4%BE%86%E5%BC%B7%E5%8B%81%E6%88%90%E9%95%B7%E5%8A%9B%E9%81%93-011019071.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／徐玉君】國內新藥研發公司又一家公司新藥納入中國大陸醫保目錄，太景*-KY(4157)自主研發的流感抗病毒新藥Pixavir marboxil(瑪帕西沙韋，大陸商品名：壹立康)，昨日宣布已正式被納入大陸國家醫療保障局發布的《國家基本醫療保險、生育保險和工傷保險藥品目錄》（簡稱國家醫保目錄），新版目錄將於2027年1月1日起正式執行。由於Pixavir marboxil為全新作用機轉的帽依賴性核酸內切酶抑制劑(Cap-dependent endonuclease inhibitor)，能有效阻斷流感病毒複製其所需的「搶帽」機制，適用於既往健康的12歲及以上青少年和成人單純性A型和B型流感患者的治療，競爭力強大。而該藥成功納入中國醫保目錄，不僅代表太景流感新藥Pixavir marboxil在商業化進程上的重大突破，更意味著該藥物將全面惠及廣大流感患者，為太景營運挹注成長新動能。股價今日小開高向上攻擊，需守穩五日線並站上9.54元，始有機會往上攻擊。",
+    "published_at": "2026-11-18T01:10:19+08:00",
+    "stocks": [
+      "4157"
+    ],
+    "uid": "0fd760f1a6c40b6dcd04265e6e34a3b7"
+  },
+  {
+    "title": "黃仁勳回鍋夢碎！哲哲8小時前才喊「全村的希望、年底5萬點」　網調侃：董事會沒要黃爸回去",
+    "url": "https://tw.stock.yahoo.com/news/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%9B%9E%E9%8D%8B%E5%A4%A2%E7%A2%8E-%E5%93%B2%E5%93%B28%E5%B0%8F%E6%99%82%E5%89%8D%E6%89%8D%E5%96%8A-%E5%85%A8%E6%9D%91%E7%9A%84%E5%B8%8C%E6%9C%9B-%E5%B9%B4%E5%BA%955%E8%90%AC%E9%BB%9E-%E7%B6%B2%E8%AA%BF%E4%BE%83-011000183.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]記者陳宣穎／綜合報導台股近期連日震盪，加上輝達（NVIDIA）前執行長黃仁勳辭職更是雪上加霜。不過，摩爾投顧分析師「哲哲」郭哲榮持續看多，昨...",
+    "published_at": "2026-11-18T01:10:00+08:00",
+    "stocks": [],
+    "uid": "3e670e90ef18e7505b4ee1ccc30c85d1"
+  },
+  {
+    "title": "輝達進入「後黃仁勳時代」？鴻海共同聲明：承諾與輝達長期合作",
+    "url": "https://tw.stock.yahoo.com/news/%E8%BC%9D%E9%81%94%E9%80%B2%E5%85%A5%E3%80%8C%E5%BE%8C%E9%BB%83%E4%BB%81%E5%8B%B3%E6%99%82%E4%BB%A3%E3%80%8D%EF%BC%9F%E9%B4%BB%E6%B5%B7%E5%85%B1%E5%90%8C%E8%81%B2%E6%98%8E%EF%BC%9A%E6%89%BF%E8%AB%BE%E8%88%87%E8%BC%9D%E9%81%94%E9%95%B7%E6%9C%9F%E5%90%88%E4%BD%9C-010607850.html",
+    "source": "Yahoo股市",
+    "summary": "鴻海集團（2317）今日同 NVIDIA （輝達）發布新聞稿，宣布擴大與全球供應鏈夥伴的長期合作承諾，以支持 AI 基礎設施建設需求。",
+    "published_at": "2026-11-18T01:06:07+08:00",
+    "stocks": [
+      "2317"
+    ],
+    "uid": "1d7ee740dc3154f046e4cdef35bdfdb0"
+  },
+  {
+    "title": "台股早盤漲逾800點 台積電漲40元",
+    "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%97%A9%E7%9B%A4%E6%BC%B2%E9%80%BE800%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%BC%B240%E5%85%83-010524107.html",
+    "source": "Yahoo股市",
+    "summary": "美股主要指數收跌，費半指數微漲，輝達（NVIDIA）財報超乎預期，盤後股價彈升逾4%。台北股市今天（18日）開盤漲627.98點，加權股價指數為40720.09點，成交金額新台幣186.52億元。開盤一分鐘後，漲逾800點，早盤加權指數最高為40938.20點。台積電最多漲40元至2210元。",
+    "published_at": "2026-11-18T01:05:24+08:00",
+    "stocks": [
+      "2330"
+    ],
+    "uid": "f242f6397cdb161e14fd0f6394316e10"
+  },
+  {
+    "title": "黃仁勳離職5天首表態 願重返輝達任執行長",
+    "url": "https://tw.news.yahoo.com/%E9%BB%83%E4%BB%81%E5%8B%B3%E9%9B%A2%E8%81%B75%E5%A4%A9%E9%A6%96%E8%A1%A8%E6%85%8B-%E9%A1%98%E9%87%8D%E8%BF%94%E8%BC%9D%E9%81%94%E4%BB%BB%E5%9F%B7%E8%A1%8C%E9%95%B7-010500783.html",
+    "source": "Yahoo股市",
+    "summary": "黃仁勳離職5天首表態 願重返輝達任執行長",
+    "published_at": "2026-11-18T01:05:00+08:00",
+    "stocks": [],
+    "uid": "3c7986e95a0c2b98222fe10332ff84dc"
+  },
+  {
+    "title": "鐵礦砂定價權博弈升溫，BHP與力拓高層20日於北京會晤中國總理李強",
+    "url": "https://tw.stock.yahoo.com/news/%E9%90%B5%E7%A4%A6%E7%A0%82%E5%AE%9A%E5%83%B9%E6%AC%8A%E5%8D%9A%E5%BC%88%E5%8D%87%E6%BA%AB-bhp%E8%88%87%E5%8A%9B%E6%8B%93%E9%AB%98%E5%B1%A420%E6%97%A5%E6%96%BC%E5%8C%97%E4%BA%AC%E6%9C%83%E6%99%A4%E4%B8%AD%E5%9C%8B%E7%B8%BD%E7%90%86%E6%9D%8E%E5%BC%B7-010457139.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／陳孟朔】路透報導，隨著中國持續加大對澳洲最大出口商品鐵礦砂的採購施壓，全球礦業巨頭必和必拓(BHP，澳股代碼BHP)與力拓(Rio Tinto，澳股代碼RIO)高層預計將於週五(20日)前往北京，與中國國務院總理李強及中國企業領袖舉行會晤。根據澳洲商業理事會(Business Council of Australia)公布的行程，澳洲總理艾班尼斯(Anthony Albanese)將率領包括力拓鐵礦砂業務主管霍爾茨(Matt Holcz)及必和必拓澳洲業務負責人史拉特里(Geraldine Slattery)在內的11名企業高管，共同出席中澳執行長圓桌會議。這場高層會晤正值澳洲主要礦商與中國國營鐵礦砂採購平台「中國礦產資源集團」(CMRG)進行日趨緊張的合約談判之際。隨著中國集中採購機制大幅提升議價能力，CMRG今年在年度供應談判期間一度禁止國內鋼廠採購必和必拓、力拓及福特斯克金屬集團(Fortescue，澳股代碼FMG)的特定產品，此舉已引起澳洲政府高度關切；澳洲資源部長金恩(Madeleine King)本週直言，任何潛在操縱鐵礦砂貿易的行為都將違反國際規則，並直接威脅",
+    "published_at": "2026-11-18T01:04:57+08:00",
+    "stocks": [],
+    "uid": "39cf3c6ad18376943f18dd1a1eedb6a1"
+  },
+  {
+    "title": "美收緊AI晶片管制，金龍指數追低1.89%創逾四年新低，太陽能股領跌",
+    "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E6%94%B6%E7%B7%8Aai%E6%99%B6%E7%89%87%E7%AE%A1%E5%88%B6-%E9%87%91%E9%BE%8D%E6%8C%87%E6%95%B8%E8%BF%BD%E4%BD%8E1-89-%E5%89%B5%E9%80%BE%E5%9B%9B%E5%B9%B4%E6%96%B0%E4%BD%8E-%E5%A4%AA%E9%99%BD%E8%83%BD%E8%82%A1%E9%A0%98%E8%B7%8C-005613072.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／陳孟朔】美國進一步限制中國企業透過海外AI數據中心取得先進算力，在美掛牌中概股週二(17日)延續跌勢。那指中國金龍指數下跌103.32點或1.89%，收5,363.99點，連續第二個交易日收黑，降至2022年11月10日以來逾四年收盤新低。太陽能股賣壓沉重，阿特斯太陽能(Canadian Solar，CSIQ)重挫14.79%，在成分股中墊底，晶科控股(JKS)及大全新能源(Daqo New Energy，DQ)分別下跌10.55%和10.00%。智能未來(AIFU)也急跌11.99%。逆勢上漲個股中，名創優品(MNSO)大漲8.36%，收12.18美元，漲幅居成分股之首。騰訊音樂(TME)上漲6.64%，收9.47美元，漲幅居次。兩家公司同日公布第三季財報，其中騰訊音樂營收年增5.6%至人民幣89.4億元。美國商務部週一(16日)公布新規，對輸往新加坡、泰國、馬來西亞、印尼及巴西的受管制先進晶片增設許可要求，並將管制延伸至向中國企業提供大量算力的海外AI數據中心。中國商務部週二表示，若美方執意推進，中方將採取反制措施。",
+    "published_at": "2026-11-18T00:56:13+08:00",
+    "stocks": [
+      "2455"
+    ],
+    "uid": "1708e04561dd9e5bd2882b8a9f4875d1"
+  },
+  {
     "title": "物理治療人力荒⋯台大分院創院22年來首度不再「隨到隨做」祭高薪搶人",
     "url": "https://money.udn.com/money/story/5648/9885143",
     "source": "經濟日報總經",
@@ -419,6 +1973,212 @@
     "uid": "bb9c3e173aa77f2ed25f09c6761e37ed"
   },
   {
+    "title": "景碩：獲輝達逾10億美元投資　擴AI先進載板",
+    "url": "https://tw.news.yahoo.com/%E6%99%AF%E7%A2%A9-%E7%8D%B2%E8%BC%9D%E9%81%94%E9%80%BE10%E5%84%84%E7%BE%8E%E5%85%83%E6%8A%95%E8%B3%87-%E6%93%B4ai%E5%85%88%E9%80%B2%E8%BC%89%E6%9D%BF-005427348.html",
+    "source": "Yahoo股市",
+    "summary": "（中央社記者鍾榮峰台北18日電）人工智慧AI晶片大廠輝達（NVIDIA）宣示擴大與供應鏈合作，IC載板大廠景碩入列。景碩今天表示，獲得輝達現金投資超過10億美元，用以購置景碩擴充桃園幼獅廠產能新增設備，規劃2027年下半年後載板產能供應。",
+    "published_at": "2026-11-18T00:54:27+08:00",
+    "stocks": [],
+    "uid": "e76619ae620bcdeac5ca919f2c2b8b46"
+  },
+  {
+    "title": "風電大廠永冠-KY今下市！債務協商仍卡關、4.3萬股東股票淪壁紙",
+    "url": "https://tw.stock.yahoo.com/news/%E9%A2%A8%E9%9B%BB%E5%A4%A7%E5%BB%A0%E6%B0%B8%E5%86%A0-ky%E4%BB%8A%E4%B8%8B%E5%B8%82%EF%BC%81%E5%82%B5%E5%8B%99%E5%8D%94%E5%95%86%E4%BB%8D%E5%8D%A1%E9%97%9C%E3%80%8143%E8%90%AC%E8%82%A1%E6%9D%B1%E8%82%A1%E7%A5%A8%E6%B7%AA%E5%A3%81%E7%B4%99-005411791.html",
+    "source": "Yahoo股市",
+    "summary": "擁有約4.3萬名股東的風電鑄件廠永冠-KY（1589），在今（18）日正式下市，這意味著股民手中的股票再也無法在集中市場自由買賣。雖然公司在16日的重訊記者會上表示「銀行已點頭同意債權協商」，但實際上多數債權人並不買單，且協商通過也不代表債務已經還清。面對公司下市，4.3萬名小股東接下來最關心的，不只是債務重整能不能過關，還有股東權益如何自保。",
+    "published_at": "2026-11-18T00:54:11+08:00",
+    "stocks": [],
+    "uid": "075e854b063830d7b4f1c33bd8bd2bb3"
+  },
+  {
+    "title": "蘇姿丰公開力挺黃仁勳！讚「了不起的領導者」：外界雜音會平息",
+    "url": "https://finance.ettoday.net/news/3273948",
+    "source": "ETtoday",
+    "summary": "<img alt=\"蘇姿丰公開力挺黃仁勳！讚「了不起的領導者」：外界雜音會平息\" src=\"https://cdn2.ettoday.net/images/8544/c8544023.jpg\" /><br /> 超微（AMD）執行長蘇姿丰17日出席德州奧斯汀舉行的 TomorrowX 峰會時，公開稱讚輝達（NVIDIA）共同創辦人黃仁勳是「非常出色的領導者」，並形容輝達是一家傑出的公司。面對近期輝達高層風波，她表示，產業應與外界雜音保持一些距離，相關事情終究會隨時間逐漸平息。 <a href=\"https://finance.ettoday.net/news/3273948\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-11-18T00:52:00+08:00",
+    "stocks": [],
+    "uid": "b28698b7423378cb5dfd2b7d5ab62f32"
+  },
+  {
+    "title": "記憶體雙雄「這檔」參戰確認！00913成分股3進3出小震動　光洋科與「探針卡巨頭」被下車",
+    "url": "https://tw.stock.yahoo.com/news/%E8%A8%98%E6%86%B6%E9%AB%94%E9%9B%99%E9%9B%84-%E9%80%99%E6%AA%94-%E5%8F%83%E6%88%B0%E7%A2%BA%E8%AA%8D-00913%E6%88%90%E5%88%86%E8%82%A13%E9%80%B23%E5%87%BA%E5%B0%8F%E9%9C%87%E5%8B%95-%E5%85%89%E6%B4%8B%E7%A7%91%E8%88%87-005100060.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]記者張書翰／綜合報導受益人數超過1.8萬人的兆豐台灣晶圓製造（00913）成分股換血揭曉，臺灣指數公司昨（17）日公布其追蹤指數成分股審核結果，...",
+    "published_at": "2026-11-18T00:51:00+08:00",
+    "stocks": [
+      "00913",
+      "1785"
+    ],
+    "uid": "3d541dd36fbce7f22c6ec3d9a62d7f22"
+  },
+  {
+    "title": "美國11月份NAHB住宅建築商信心指數降至25，創14年新低",
+    "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%9C%8B11%E6%9C%88%E4%BB%BDnahb%E4%BD%8F%E5%AE%85%E5%BB%BA%E7%AF%89%E5%95%86%E4%BF%A1%E5%BF%83%E6%8C%87%E6%95%B8%E9%99%8D%E8%87%B325-%E5%89%B514%E5%B9%B4%E6%96%B0%E4%BD%8E-005058835.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／劉敏夫】外電報導指出，新出爐的數據顯示，美國11月份住宅建築商的情緒進一步惡化，降至14年新低，高漲的抵押貸款利率令潛在買家望而卻步，迫使建築商更加依賴代價高昂的促銷激勵措施。週二公佈的數據顯示，全美住宅建築商協會(NAHB)和富國編撰的整體市場指數11月下降4點，至25，為2012年4月以來最低。指數低於50意味著認為市場狀況不佳的建築商多於認為狀況良好的建築商，該指標已連續兩年多低於這一門檻。衡量當前銷售狀況的指標下降6點，至28，同樣創14年新低。NAHB數據顯示，銷售預期和潛在買家客流指標均較10月下降2點。NAHB首席經濟專家Robert Dietz在聲明中表示，住房市場面臨一系列供應端挑戰，包括關稅推高建築材料成本、建築工人持續短缺，以及過度監管削弱住房可負擔性。NAHB的全美調查顯示，46%的建築商表示本月進行了降價，為疫情後最高比例。約68%的建築商表示使用了促銷激勵措施。聯邦政府週三將公佈10月新屋開工報告，全國房地產經紀人協會則將發布二手房簽約數據。",
+    "published_at": "2026-11-18T00:50:58+08:00",
+    "stocks": [],
+    "uid": "4aec6c29b5299b4536c8c26fea86aa26"
+  },
+  {
+    "title": "輝達砸逾10億美元投資景碩！擴充AI先進載板產能",
+    "url": "https://tw.news.yahoo.com/%E8%BC%9D%E9%81%94%E7%A0%B8%E9%80%BE10%E5%84%84%E7%BE%8E%E5%85%83%E6%8A%95%E8%B3%87%E6%99%AF%E7%A2%A9-%E6%93%B4%E5%85%85ai%E5%85%88%E9%80%B2%E8%BC%89%E6%9D%BF%E7%94%A2%E8%83%BD-005043259.html",
+    "source": "Yahoo股市",
+    "summary": "IC載板廠景碩（3189）與輝達（NVIDIA）同步宣布輝達對景碩投資逾10億美元之現金，用以購置景碩擴充幼獅廠產能新增設備，並持續與景碩協商後續更多個廠區的投資計畫，藉以確保在未來五年AI賽道上高階載板的供應順暢。本項投資為景碩與輝達建立長遠的合作基礎，雙方在彼此互利的情境下，攜手在AI賽道上為彼",
+    "published_at": "2026-11-18T00:50:43+08:00",
+    "stocks": [
+      "3189"
+    ],
+    "uid": "0593a378efe670f78bbc6574fb691dc9"
+  },
+  {
+    "title": "日本10月貿易逆差收窄至4765億日圓，出口連14個月維持正成長",
+    "url": "https://tw.stock.yahoo.com/news/%E6%97%A5%E6%9C%AC10%E6%9C%88%E8%B2%BF%E6%98%93%E9%80%86%E5%B7%AE%E6%94%B6%E7%AA%84%E8%87%B34765%E5%84%84%E6%97%A5%E5%9C%93-%E5%87%BA%E5%8F%A3%E9%80%A314%E5%80%8B%E6%9C%88%E7%B6%AD%E6%8C%81%E6%AD%A3%E6%88%90%E9%95%B7-004852032.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／劉敏夫】外電報導指出，新出爐的數據顯示，日本10月貿易繼續取得逆差，油價上漲推高進口金額，抵消了出口持續成長帶來的影響。日本財務省週三公佈的數據顯示，未經調整的10月份貿易逆差收窄至4,765億日圓(約30億美元)，9月逆差經修正後為5,565億日圓。日本10月進口額年比值成長21.6%，低於經濟專家預估的25.9%；出口額成長20.5%，大抵符合預估中值。日本進口已連續九個月成長，出口則連續14個月上升。持續的貿易逆差意味著，貿易目前並未對日本整體經濟成長形成貢獻。最新國內生產毛額數據顯示，日本經濟第三季度出現萎縮，貿易逆差和消費者支出疲軟造成的拖累蓋過了企業投資成長帶來的提振。日本央行在最新展望報告中提到伊朗戰爭對經濟造成的負面影響，並稱貿易狀況惡化等因素預計將壓低企業利潤和家庭實際收入。不過，疲軟的貿易表現預計不會阻礙日本央行在12月政策會議上升息。",
+    "published_at": "2026-11-18T00:48:52+08:00",
+    "stocks": [],
+    "uid": "7af2b8e15938401a80a53c55f44412c9"
+  },
+  {
+    "title": "技術故障接連癱瘓美國關鍵系統，民眾恐慌性搶購推升好市多目標價",
+    "url": "https://tw.stock.yahoo.com/news/%E6%8A%80%E8%A1%93%E6%95%85%E9%9A%9C%E6%8E%A5%E9%80%A3%E7%99%B1%E7%98%93%E7%BE%8E%E5%9C%8B%E9%97%9C%E9%8D%B5%E7%B3%BB%E7%B5%B1-%E6%B0%91%E7%9C%BE%E6%81%90%E6%85%8C%E6%80%A7%E6%90%B6%E8%B3%BC%E6%8E%A8%E5%8D%87%E5%A5%BD%E5%B8%82%E5%A4%9A%E7%9B%AE%E6%A8%99%E5%83%B9-004823803.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／陳孟朔】從民航航班停飛、銀行交易延誤，到美國國家安全局(NSA)的機密業務，一連串密集爆發的技術故障近期接連癱瘓美國關鍵基礎設施，嚴重擾亂社會日常運作，並引發美國消費者恐慌性搶購民生物資。受惠於耐儲食品、飲用水與發電機等避險物資銷量激增，美股量販巨頭好市多(Costco，美股代碼COST)獲得華爾街分析師青睞，目標股價已從1,100美元上調至1,150美元，該股週二收小黑跌0.33%至1110.08美元。根據市場觀察，過去一週頻傳的系統當機事件在全美造成嚴重混亂，儘管目前並無公開跡象顯示這些電腦故障彼此關聯或出自駭客與惡意行為方之手，但疑慮與不安情緒仍在全美迅速蔓延，並直接反映在零售終端需求上。其中，好市多的耐儲食品、瓶裝飲用水及電池等應急物資銷量大幅攀升，截至週日(15日)，好市多線上商城銷售的大多數高價發電機更已宣告售罄。這波突如其來的系統失靈浪潮，也令外界對美國老化技術基礎設施的信任度降至冰點。風險情報公司Dataminr威脅研究與網路工程總監斯洛維克(Joe Slowik)警告，如此多引人注目的關鍵系統異常在短時間內密集發生，既不尋常也令人憂心，直言社會已過度依賴搖",
+    "published_at": "2026-11-18T00:48:23+08:00",
+    "stocks": [],
+    "uid": "d1cdc2fe4afd13ea2a2f9f94ad0596f6"
+  },
+  {
+    "title": "微軟執行長納德拉盛讚黃仁勳，澄清大規模服務中斷非AI程式碼所致",
+    "url": "https://tw.stock.yahoo.com/news/%E5%BE%AE%E8%BB%9F%E5%9F%B7%E8%A1%8C%E9%95%B7%E7%B4%8D%E5%BE%B7%E6%8B%89%E7%9B%9B%E8%AE%9A%E9%BB%83%E4%BB%81%E5%8B%B3-%E6%BE%84%E6%B8%85%E5%A4%A7%E8%A6%8F%E6%A8%A1%E6%9C%8D%E5%8B%99%E4%B8%AD%E6%96%B7%E9%9D%9Eai%E7%A8%8B%E5%BC%8F%E7%A2%BC%E6%89%80%E8%87%B4-004653103.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／陳孟朔】微軟(Microsoft，美股代碼MSFT)執行長納德拉(Satya Nadella)週二(17日)在一場公開活動上盛讚輝達(Nvidia，美股代碼NVDA)創辦人黃仁勳是「獨一無二的人」，肯定其對全球科技產業做出的巨大貢獻。不過，針對市場關注黃仁勳是否重返這家晶片製造商的最高領導職位，納德拉並未明確表態呼籲，僅表示希望給他留出空間去處理需要做的事情，至於後續發展並非由他決定，而是由輝達董事會定奪；他也透露上週末曾傳簡訊向黃仁勳表達關切。談及近期的期中選舉結果，以及美國各地社區紛紛出現抵制人工智慧(AI)數據中心建設的聲浪，納德拉強調，政治選舉結果並未改變微軟推進數據中心建設的既定藍圖。他直言，真正制約數據中心擴張速度的關鍵瓶頸，主要在於電力供應、晶片晶圓產能以及記憶體的可用性，而非外部的選舉週期變化。針對上週微軟系統發生的大規模服務中斷事件，納德拉在會上正式作出澄清，強調此次故障並非由AI生成程式碼或AI部署所引發。他解釋，這是一場「各種因素湊巧疊加」的技術意外，起因於常規測試期間，某個程式錯誤剛好在特定的網路流量條件下被觸發顯現。納德拉進一步指出，事實上在這次系",
+    "published_at": "2026-11-18T00:46:53+08:00",
+    "stocks": [],
+    "uid": "b0865fc084fc4571b89fc30e6b988a1e"
+  },
+  {
+    "title": "輝達財報與財測雙優，日韓科技股反彈，SK海力士早盤漲逾5%",
+    "url": "https://tw.stock.yahoo.com/news/%E8%BC%9D%E9%81%94%E8%B2%A1%E5%A0%B1%E8%88%87%E8%B2%A1%E6%B8%AC%E9%9B%99%E5%84%AA-%E6%97%A5%E9%9F%93%E7%A7%91%E6%8A%80%E8%82%A1%E5%8F%8D%E5%BD%88-sk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E6%97%A9%E7%9B%A4%E6%BC%B2%E9%80%BE5-004623845.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／陳孟朔】輝達(NVDA)上季業績與本季營收財測均優於市場預期，帶動日本及韓國科技股週三(18日)早盤反彈。韓國交易所開盤後，截至首爾時間上午9時04分(台北時間上午8時04分)，三星電子上漲3.63%，SK海力士上漲5.10%，三星電機上漲5.97%。 韓國首爾綜合股價指數(KOSPI)開盤漲2.62%至5,098.82點，隨後升至5,100.36點，漲幅擴大至2.65%，收復5,100點。該指數前一交易日下跌2.59%，收在4,968.48點。日本科技股同步走高，軟銀集團早盤上漲6.3%，記憶體大廠鎧俠(Kioxia)上漲5.8%，半導體檢測設備商Lasertec上漲6.8%。輝達美東時間週二盤後公布，第三財季營收年增103%至1,158億美元，首度突破千億美元，其中數據中心營收年增110%至1,076億美元。第四財季營收財測中值為1,300億美元，較LSEG彙整的市場預估高約3.8%，且未計入來自中國的數據中心運算收入。輝達也確認新一代Vera Rubin NVL72系統已開始出貨。",
+    "published_at": "2026-11-18T00:46:23+08:00",
+    "stocks": [
+      "5007"
+    ],
+    "uid": "213733cfa814784809b2ab2cb1966526"
+  },
+  {
+    "title": "逼倉行情降溫，LME期鋁週二重挫逾2%，創近一年最低水準",
+    "url": "https://tw.stock.yahoo.com/news/%E9%80%BC%E5%80%89%E8%A1%8C%E6%83%85%E9%99%8D%E6%BA%AB-lme%E6%9C%9F%E9%8B%81%E9%80%B1%E4%BA%8C%E9%87%8D%E6%8C%AB%E9%80%BE2-%E5%89%B5%E8%BF%91-%E5%B9%B4%E6%9C%80%E4%BD%8E%E6%B0%B4%E6%BA%96-004506692.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／劉敏夫】外電報導指出，倫敦鋁價週二跌至近一年最低水準，此前經歷極端逼倉的短期價差開始緩和。倫敦金屬交易所(LME)三個月期鋁期貨下跌70.50美元或2.35%，結算價報每噸2,934美元，為去年12月18日以來最低。鋁價回落之際，近月合約嚴重吃緊狀況出現一定舒緩跡象。LME主要的11月交割合約將於週三到期。現貨對12月合約的溢價此前一度擴大至約每噸190美元，週二盤中一度收窄至約70美元，最終收於166美元。Mercuria Energy Group金屬和礦業研究主管Nicholas Snowdon週二在上海舉行的一場行業會議上表示，即期價差、短端價差再度出現階段性緊張的可能性正在上升，展望未來幾週和幾個月，這個市場的庫存保障仍將非常有限。其他基本金屬價格表現方面，LME期銅下跌0.2%，報13,226.5美元/噸；LME期鋅下跌0.6%，報3,675美元/噸；LME期錫下跌2.4%，報45,059美元/噸；LME期鉛下跌0.2%，報1,872美元/噸；LME期鎳上漲3.8%，報16,462美元/噸。",
+    "published_at": "2026-11-18T00:45:06+08:00",
+    "stocks": [],
+    "uid": "4e0fde837104bd1cd29ade1794f4b74e"
+  },
+  {
+    "title": "瑞銀估明年中國GDP成長4.5%且出口放緩，香港經濟增速降至3.5%",
+    "url": "https://tw.stock.yahoo.com/news/%E7%91%9E%E9%8A%80%E4%BC%B0%E6%98%8E%E5%B9%B4%E4%B8%AD%E5%9C%8Bgdp%E6%88%90%E9%95%B74-5-%E4%B8%94%E5%87%BA%E5%8F%A3%E6%94%BE%E7%B7%A9-%E9%A6%99%E6%B8%AF%E7%B6%93%E6%BF%9F%E5%A2%9E%E9%80%9F%E9%99%8D%E8%87%B33-5-004309502.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／陳孟朔】瑞銀全球研究部資深研究顧問汪濤最新預估，中國明年經濟成長率約為4.5%，儘管出口增速預計將略有放緩，但仍將對國內生產毛額(GDP)提供正向貢獻；房市與內需方面，一、二線城市房價明年可望趨於穩定，惟整體消費成長預料仍將維持略為疲弱的格局。不過汪濤指出，隨著各行業整合逐步完成，過剩產能與缺乏競爭力的企業將遭淘汰，產業贏家可望迎來獲利回升與更強的定價權，因此中國消費類股不應被完全排除在投資選股策略之外。針對市場關注中國官方遲遲未推出大規模經濟刺激方案，汪濤分析指出，政策重心已轉向保持經濟穩定與防範金融風險，而非單純追求特定成長目標。她坦言，制約中國強勁成長的諸多深層因素多屬結構性與長期性問題，由於涉及眾多地方政府與不同法律實體，執行層面極為複雜，導致當局採取較為審慎的態度。她並建議，若中央政府能發行更多國債以挹注地方財政，將有助於緩解地方政府長期資金短缺、被迫緊縮財政與突擊加強稅收管理所引發的民企信心衝擊。談及美中關係對中國經濟的影響，汪濤認為中國未來經濟發展主要仍取決於自身內部調整。雖然無法取得先進晶片與高端半導體設備確實對其經濟構成負面制約，但同時也倒逼中國在基礎科學",
+    "published_at": "2026-11-18T00:43:09+08:00",
+    "stocks": [],
+    "uid": "1a87284d00edba00b7bba172df4d5b10"
+  },
+  {
+    "title": "1分鐘讀財經》AI晶片採購恐暴跌3成！美擴大晶片管制 台鏈第一排誰遭殃？",
+    "url": "https://tw.stock.yahoo.com/news/1%E5%88%86%E9%90%98%E8%AE%80%E8%B2%A1%E7%B6%93-ai%E6%99%B6%E7%89%87%E6%8E%A1%E8%B3%BC%E6%81%90%E6%9A%B4%E8%B7%8C3%E6%88%90-%E7%BE%8E%E6%93%B4%E5%A4%A7%E6%99%B6%E7%89%87%E7%AE%A1%E5%88%B6-%E5%8F%B0%E9%8F%88%E7%AC%AC-%E6%8E%92%E8%AA%B0%E9%81%AD%E6%AE%83-004126836.html",
+    "source": "Yahoo股市",
+    "summary": "小編今天（18）日精選5件國內外重要財經大事。在美國總統川普啟程前往深圳參加APEC峰會之際，美國商務部16日宣布進一步收緊AI晶片管制措施，將監管範圍從出口管制擴大至海外資料中心，以堵住中國企業透過第三國遠端租用算力的漏洞。",
+    "published_at": "2026-11-18T00:41:26+08:00",
+    "stocks": [],
+    "uid": "8bb41edf9f87a98d508abbc073a64413"
+  },
+  {
+    "title": "台玻獲利狂飆、八大官股出手送暖奪買超王！　「這檔面板」傳與台積電進攻玻璃基板CoPoS也上榜",
+    "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%8E%BB%E7%8D%B2%E5%88%A9%E7%8B%82%E9%A3%86-%E5%85%AB%E5%A4%A7%E5%AE%98%E8%82%A1%E5%87%BA%E6%89%8B%E9%80%81%E6%9A%96%E5%A5%AA%E8%B2%B7%E8%B6%85%E7%8E%8B-%E9%80%99%E6%AA%94%E9%9D%A2%E6%9D%BF-%E5%82%B3%E8%88%87%E5%8F%B0%E7%A9%8D%E9%9B%BB%E9%80%B2%E6%94%BB%E7%8E%BB%E7%92%83%E5%9F%BA%E6%9D%BFcopos%E4%B9%9F%E4%B8%8A%E6%A6%9C-004000755.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]記者邱梓欣／綜合報導台股昨（17）日續延低迷氣勢，一度失守4萬關卡，終場下跌947.97點，勉強挽回以40,092.11點作收，跌幅2.31％，成交量9617.95...",
+    "published_at": "2026-11-18T00:40:00+08:00",
+    "stocks": [
+      "1802"
+    ],
+    "uid": "65d7b286e58542abb3078b50a1c3e82c"
+  },
+  {
+    "title": "耐吉推五年復甦計畫力拚2029財年重回產業增速，週二大漲後急挫6.3%",
+    "url": "https://tw.stock.yahoo.com/news/%E8%80%90%E5%90%89%E6%8E%A8%E4%BA%94%E5%B9%B4%E5%BE%A9%E7%94%A6%E8%A8%88%E7%95%AB%E5%8A%9B%E6%8B%9A2029%E8%B2%A1%E5%B9%B4%E9%87%8D%E5%9B%9E%E7%94%A2%E6%A5%AD%E5%A2%9E%E9%80%9F-%E9%80%B1%E4%BA%8C%E5%A4%A7%E6%BC%B2%E5%BE%8C%E6%80%A5%E6%8C%AB6-3-003817990.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／陳孟朔】全球運動用品大廠耐吉(美股代碼NKE)週二(17日)在近十年來首場投資人日公布五年復甦計畫，預期2028財年營收跌幅收窄，力拚2029財年恢復與產業相當的成長速度。耐吉股價當天一度大漲7.4%至41.10美元的日高，但終場大逆轉，大跌2.41美元或6.30%，收在35.85美元為10月14日以來最低，今年來累跌43.73%淪為道瓊最大魯蛇。耐吉重申2027財年營收將下滑高個位數百分比，調整後營益率約6%，調整後每股盈餘估介於1.15至1.35美元。公司將2027及2028財年列為調整與投資期，預期2030及2031財年營收增速可望超越產業。以2027財年為基準，耐吉設定2031財年營收增加約50億美元、營益率升至12%至14%，調整後每股盈餘達3至3.50美元的目標。新策略將資源集中在跑步、訓練、足球、籃球及戶外等五項專業運動，以及23個重點國家。耐吉預期，專業運動業務將貢獻約40億美元新增營收，運動休閒業務貢獻約10億美元。公司也將重塑Jordan品牌的高端定位，並持續調整大中華區業務。路透報導，耐吉在中國市場營收已連續九季下滑，公司預計大中華區2031財年營收與",
+    "published_at": "2026-11-18T00:38:17+08:00",
+    "stocks": [],
+    "uid": "5e4b2771ba7020c0863cf32e02e0cc22"
+  },
+  {
+    "title": "輝達AI晶片財報亮眼！Q4營收估1300億美元優預期",
+    "url": "https://tw.news.yahoo.com/%E8%BC%9D%E9%81%94ai%E6%99%B6%E7%89%87%E8%B2%A1%E5%A0%B1%E4%BA%AE%E7%9C%BC-q4%E7%87%9F%E6%94%B6%E4%BC%B01300%E5%84%84%E7%BE%8E%E5%85%83%E5%84%AA%E9%A0%90%E6%9C%9F-003600671.html",
+    "source": "Yahoo股市",
+    "summary": "輝達AI晶片財報亮眼！Q4營收估1300億美元優預期",
+    "published_at": "2026-11-18T00:36:00+08:00",
+    "stocks": [],
+    "uid": "d685655e9d474ee0b4d6f0978b45f9d4"
+  },
+  {
+    "title": "美股下跌推動避險買盤，美國公債週二報價走揚",
+    "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%B8%8B%E8%B7%8C%E6%8E%A8%E5%8B%95%E9%81%BF%E9%9A%AA%E8%B2%B7%E7%9B%A4-%E7%BE%8E%E5%9C%8B%E5%85%AC%E5%82%B5%E9%80%B1%E4%BA%8C%E5%A0%B1%E5%83%B9%E8%B5%B0%E6%8F%9A-003558085.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／劉敏夫】美國公債價格週二上揚，引領殖利率下跌，因美國股市下跌推動避險買盤。根據債券交易報價，2年期公債價格上揚，殖利率下跌2.53個基點，報4.8041%；5年期公債價格上揚，殖利率下滑2.52個基點，報4.9147%。10年期公債價格揚升，殖利率滑落2.43個基點，報5.1068%；30年期公債價格上升，殖利率下降1.62個基點，報5.4580%。美國股市連續第四天下跌，標普500指數觸及6月份以來最低。有報導指稱，美國國家安全局用於內部通信的一個機密電腦網絡發生中斷，避險資金隨之湧入美國國債。同時，投資者也將注意力轉向輝達定於盤後公佈的業績，其結果將對AI交易的市場信心產生重大影響。美國國債期權市場繼續出現透過10年期看漲期權結構押注上漲的需求，其中較為突出的交易包括大額買入2月到期108.00/108.50看漲期權價差，以及另一筆於週三收盤時到期的看漲對沖交易。",
+    "published_at": "2026-11-18T00:35:58+08:00",
+    "stocks": [],
+    "uid": "0d382f2a5fd3052de10f8503a08aa037"
+  },
+  {
+    "title": "看好聯發科！第四季拉貨跳升　摩爾投顧蔡慶龍曝「關鍵數字」",
+    "url": "https://tw.news.yahoo.com/%E7%9C%8B%E5%A5%BD%E8%81%AF%E7%99%BC%E7%A7%91-%E7%AC%AC%E5%9B%9B%E5%AD%A3%E6%8B%89%E8%B2%A8%E8%B7%B3%E5%8D%87-%E6%91%A9%E7%88%BE%E6%8A%95%E9%A1%A7%E8%94%A1%E6%85%B6%E9%BE%8D%E6%9B%9D-%E9%97%9C%E9%8D%B5%E6%95%B8%E5%AD%97-003500818.html",
+    "source": "Yahoo股市",
+    "summary": "摩爾投顧分析師蔡慶龍指出，因應雲端大廠加速自研晶片及降低對單一供應商依賴的趨勢，IC設計大廠聯發科受惠轉單，負責的推論晶片已進入量產。預期明年雲端客戶出貨量將翻倍，聯發科拿下五成供貨比重，相關營收目標自120億美元上修至160億美元，AI營收占比將正式超越手機，成為推升營運與獲利結構向上的主要成長引擎。",
+    "published_at": "2026-11-18T00:35:00+08:00",
+    "stocks": [],
+    "uid": "7d98d0c773fdb0ec0fbc5a4b645705a5"
+  },
+  {
+    "title": "景碩獲得輝達逾10億美元現金投資，擴充AI所需高階載板",
+    "url": "https://tw.stock.yahoo.com/news/%E6%99%AF%E7%A2%A9%E7%8D%B2%E5%BE%97%E8%BC%9D%E9%81%94%E9%80%BE10%E5%84%84%E7%BE%8E%E5%85%83%E7%8F%BE%E9%87%91%E6%8A%95%E8%B3%87-%E6%93%B4%E5%85%85ai%E6%89%80%E9%9C%80%E9%AB%98%E9%9A%8E%E8%BC%89%E6%9D%BF-003434691.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／記者李純君報導】台灣三大載板廠之一的景碩科技(3189)，今日證實獲得輝達(Nvidia)超過十億美元的現金投資，用以購置景碩科技擴充幼獅廠產能新增設備，且輝達並將持續與景碩科技協商商議更多個廠區的投資計畫，藉以確保在未來五年AI賽道上高階載板的供應順暢。景碩提到，輝達為景碩的重要客戶，在過去長久的合作歷史上，公司提供最先進的技術與產能，雙方也建立了強韌的信任關係，考量AI發展進程由現今的資料中心算力的建置，逐步朝向終端應用的落地，封裝載板的需求快速成長，此外，新的AI平台持續推出，同時伴隨著封裝面積增大、載板層數增加、載板結構複雜化，對載板產能的需求呈指數型增加，載板廠亦積極擴充產能因應。在對未來AI需求高度成長的期待之下，輝達以現金投入景碩科技，購買設備參與景碩科技幼獅廠的產能擴充計畫，藉以鎖定2027年下半年以後的載板產能供應。仍然不足的部分，於景碩科技後續的產能擴充計畫中，再繼續投入參與，以期最少到2030年前能穩定的掌握載板產能，支持後續更多AI模型算力與實體應用平台的推出。景碩科技執行長陳河旭表示：「我們相信AI會是我們這一生中見證的極其重要的科技進展。在與輝達",
+    "published_at": "2026-11-18T00:34:34+08:00",
+    "stocks": [
+      "3189"
+    ],
+    "uid": "067792bc78a24ee4870dc84728e1980a"
+  },
+  {
+    "title": "升息疑慮壓抑黃金買氣，現貨金週二承壓走低，期金逆勢小漲0.29%",
+    "url": "https://tw.stock.yahoo.com/news/%E5%8D%87%E6%81%AF%E7%96%91%E6%85%AE%E5%A3%93%E6%8A%91%E9%BB%83%E9%87%91%E8%B2%B7%E6%B0%A3-%E7%8F%BE%E8%B2%A8%E9%87%91%E9%80%B1%E4%BA%8C%E6%89%BF%E5%A3%93%E8%B5%B0%E4%BD%8E-%E6%9C%9F%E9%87%91%E9%80%86%E5%8B%A2%E5%B0%8F%E6%BC%B20-29-003246633.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／劉敏夫】紐約期貨金與現貨金價週二漲跌互見，因投資人權衡聯準會未來的升息路徑。紐約2月份黃金期貨價格上漲11.30美元或0.29%，報每盎司3,896.00美元；紐約黃金現貨價格則是下滑6.83美元或0.18%，報每盎司3,849.63美元。隨著市場越來越預期聯準會升息將延續至2027年，現貨金價持續承壓，同時，近期AI交易相關股票重挫，也促使投資者拋售持倉以彌補損失。道明證券分析師Ryan McKay等人在報告中寫道，隨著市場消化聯準會進一步收緊政策的預期，貴金屬的風險仍偏向下滑。同時，黃金近期正面臨來自上海期貨交易所交易員更大的賣壓。不過，堅信黃金長期看漲邏輯的散戶和機構投資者，在金價跌破一個關鍵心理關卡後，可能受到鼓舞而恢復買入。摩根大通私人銀行利率和外匯策略主管唐雨旋表示，跌破4,000美元後，先前因價格高漲而退場的央行可能重新入場，從而提供結構性需求。",
+    "published_at": "2026-11-18T00:32:46+08:00",
+    "stocks": [],
+    "uid": "03df9ae72fd2be7e8efc08e93ee263f8"
+  },
+  {
+    "title": "輝達擴大台灣AI供應鏈合作承諾，景碩首獲點名並擴增桃園載板產能",
+    "url": "https://tw.stock.yahoo.com/news/%E8%BC%9D%E9%81%94%E6%93%B4%E5%A4%A7%E5%8F%B0%E7%81%A3ai%E4%BE%9B%E6%87%89%E9%8F%88%E5%90%88%E4%BD%9C%E6%89%BF%E8%AB%BE-%E6%99%AF%E7%A2%A9%E9%A6%96%E7%8D%B2%E9%BB%9E%E5%90%8D%E4%B8%A6%E6%93%B4%E5%A2%9E%E6%A1%83%E5%9C%92%E8%BC%89%E6%9D%BF%E7%94%A2%E8%83%BD-003235410.html",
+    "source": "Yahoo股市",
+    "summary": "【財訊快報／記者李純君報導】NVIDIA昨晚召開法說會，除釋出亮眼財報與優於預期的展望外，也發佈官方聲明，擴大與自家AI供應鏈關鍵夥伴的合作和承諾，獲得點名的廠商，除有台積電(2330)、矽品、美商Amkor、京元電(2449)、欣興(3037)與鴻海(2317)之外，也宣布三星電機簽訂增加供應的新協議外，但整份供應鏈名單中，最受到關注的是，台灣載板大廠景碩(3189)，首度公開獲得NVIDIA欽點合作。NVIDIA的官方新聞揭露，調整與重新確認自家AI供應鏈廠商名單，重點有，其一，載板端部分，與景碩科技及三星電機簽訂新協議，增加載板產能，並擴充既有工廠的生產能力。第二，封裝部分，與Amkor及矽品精密（SPIL）的合作，將擴大先進封裝產能，以支援現有及下一代加速運算平台。第三，NVIDIA Vera Rubin NVL72系統與Vera CPU已於第三季開始大量出貨，採用台積電5奈米、3奈米及CoWoS先進封裝技術。第四，鴻海正深化與NVIDIA的合作，運用全球生產網絡，支援下一代GPU與網路平台。同時，NVIDIA更具體揭露，對於供應鏈釋出的採購規劃，包括，未來三年載板總產能增加至",
+    "published_at": "2026-11-18T00:32:35+08:00",
+    "stocks": [
+      "2330",
+      "2449",
+      "3037",
+      "2317",
+      "3189"
+    ],
+    "uid": "d09253cf8d428c5222ad873078fa3b13"
+  },
+  {
     "title": "黃仁勳請辭後首發聲！坦承犯下嚴重錯誤  若董事會同意願回鍋",
     "url": "https://ec.ltn.com.tw/article/breakingnews/5644332",
     "source": "自由財經",
@@ -435,6 +2195,15 @@
     "published_at": "2026-11-17T23:42:07+08:00",
     "stocks": [],
     "uid": "d7e25266782e54a4be64c863a756b96d"
+  },
+  {
+    "title": "光麗搶進AI醫療！診所藥局雙軌擴張　明年營運拚轉強",
+    "url": "https://finance.ettoday.net/news/3273941",
+    "source": "ETtoday",
+    "summary": "<img alt=\"光麗搶進AI醫療！診所藥局雙軌擴張　明年營運拚轉強\" src=\"https://cdn2.ettoday.net/images/9020/c9020018.jpg\" /><br /> 光麗-KY（6431）近年持續布局預防醫療，整合診所、藥局、會員資料與AI算力，從醫療現場的檢測與治療紀錄出發，進一步延伸到健康趨勢分析、會員管理與居家照護，希望建立一套可持續追蹤的健康管理平台。光麗生技控股董事長王嘉瑋表示，公司目前已著手準備伺服器、軟硬體與相關運算能力，希望掌握醫療AI所需要的底層算力。隨著診所病歷、會員資料、影像及長期健康數據逐步累積，未來AI應用的深度與效率，都需要足夠的運算資源支撐。\n\n <a href=\"https://finance.ettoday.net/news/3273941\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-11-17T23:40:00+08:00",
+    "stocks": [],
+    "uid": "1f374c49ac13622833293a4fc0248541"
   },
   {
     "title": "亞昕法說會／集團積極朝多元平衡發展 拓展商用不動產比重",
@@ -484,6 +2253,15 @@
     "published_at": "2026-11-17T22:54:31+08:00",
     "stocks": [],
     "uid": "a8c0fb8c3dafc314789c83ff8058cf70"
+  },
+  {
+    "title": "美股開盤「輝達小幅上漲」！四大指數不同步　ADR全跌",
+    "url": "https://finance.ettoday.net/news/3273928",
+    "source": "ETtoday",
+    "summary": "<img alt=\"美股開盤「輝達小幅上漲」！四大指數不同步　ADR全跌\" src=\"https://cdn2.ettoday.net/images/8158/c8158463.jpg\" /><br /> 美股開盤後走勢不一，截至發稿為止，道瓊工業指數下跌294.42點或0.57％、標普500指數下跌9.48點或0.13％、那斯達克指數上漲13.79點或0.06％、費城半導體指數上漲122.05點或1.27％。 <a href=\"https://finance.ettoday.net/news/3273928\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-11-17T22:52:00+08:00",
+    "stocks": [],
+    "uid": "2ac6d6316eb82259f6dac612746986d6"
   },
   {
     "title": "Anthropic將上市　IPO定價傳可望突破每股78美元",
@@ -850,6 +2628,15 @@
     "uid": "f9f7ca266e7f08c07662666ab31e45d5"
   },
   {
+    "title": "屹海一號離岸風機船改泊馬公港　港務公司說明業者是營運成本考量",
+    "url": "https://finance.ettoday.net/news/3273912",
+    "source": "ETtoday",
+    "summary": "<img alt=\"屹海一號離岸風機船改泊馬公港　港務公司說明業者是營運成本考量\" src=\"https://cdn2.ettoday.net/images/9019/c9019933.jpg\" /><br /> 台灣屹海風電科技公司自升自航式起重作業船「屹海一號」今(17)日抵達馬公港，引發地方民眾關注及諸多揣測，台灣港務公司與船方都出面說明，指出船舶移泊主要基於港口泊位調度、停泊便利性及營運成本等實際考量，是正常船舶營運安排，並非要進行澎湖風電工程，也沒有選舉期間特殊作業或工程部署的安排，希望外界勿過度解讀。 <a href=\"https://finance.ettoday.net/news/3273912\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-11-17T21:17:00+08:00",
+    "stocks": [],
+    "uid": "86813826a4ffd635a9da75dd4394ac9a"
+  },
+  {
     "title": "科技競逐重塑全球經貿格局 美國商會：台灣憑AI硬體實力脫穎而出",
     "url": "https://ec.ltn.com.tw/article/breakingnews/5644202",
     "source": "自由財經",
@@ -857,6 +2644,15 @@
     "published_at": "2026-11-17T21:13:36+08:00",
     "stocks": [],
     "uid": "da983dcf2f1066771636dcd24c251942"
+  },
+  {
+    "title": "黃仁勳跌落神壇！謝金河示警台股下一個地雷區：美方恐嚴審供應鏈",
+    "url": "https://finance.ettoday.net/news/3273909",
+    "source": "ETtoday",
+    "summary": "<img alt=\"黃仁勳跌落神壇！謝金河示警台股下一個地雷區：美方恐嚴審供應鏈\" src=\"https://cdn2.ettoday.net/images/8268/c8268166.jpg\" /><br /> 輝達（NVIDIA）創辦人黃仁勳近日因緋聞風波，短短48小時內火速卸下執行長大位，震撼全球科技業與資本市場。財信傳媒董事長謝金河17日晚間在臉書發文直指，緋聞本身已成次要，黃仁勳從神壇跌落的真正核心在於「誤判政治」，踩到了美國白宮反中建置派的國安紅線；他更進一步示警，美方下一步極可能嚴審台灣供應鏈，成為台股下一個地雷區。 <a href=\"https://finance.ettoday.net/news/3273909\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-11-17T21:13:00+08:00",
+    "stocks": [],
+    "uid": "87498af603b4f83d230bc4dd2826ba87"
   },
   {
     "title": "看好台灣財管商機　私募投資機構鎖定基建、次級市場布局",
@@ -875,6 +2671,15 @@
     "published_at": "2026-11-17T21:07:08+08:00",
     "stocks": [],
     "uid": "56cb7845f3ad574333daf84e3a0adb07"
+  },
+  {
+    "title": "美國祭AI晶片新管制！　經濟部說明因應方式",
+    "url": "https://finance.ettoday.net/news/3273908",
+    "source": "ETtoday",
+    "summary": "<img alt=\"美國祭AI晶片新管制！　經濟部說明因應方式\" src=\"https://cdn2.ettoday.net/images/6629/c6629997.jpg\" /><br /> 美國擴大AI晶片出口管制，不只中國，連東南亞4國及巴西也被列入管制名單，未來先進晶片出口到這5個國家，都必須先取得美方許可。經濟部今（17）日對此作出回應，說明台灣業者將如何因應新規。 <a href=\"https://finance.ettoday.net/news/3273908\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-11-17T21:01:00+08:00",
+    "stocks": [],
+    "uid": "9bb5e15595beed4aa4146d276b5bf1b5"
   },
   {
     "title": "工業電腦族群／瑞祺電通(6416)前三季EPS達5.4元超越去年全年法人看好明年挑戰8元以上",
