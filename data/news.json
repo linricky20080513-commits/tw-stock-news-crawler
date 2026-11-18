@@ -13,6 +13,1584 @@
     "summary_en": "The autonomic nervous system is a key system that maintains our life activities. It delicately regulates the precise operation of internal organs and neuroendocrine systems, including breathing, heartbeat, blood circulation, blood pressure, body temperature, perspiration, gastrointestinal digestion, reproduction, hormone secretion, sleep and metabolism, etc. This system is composed of sympathetic nerves and parasympathetic nerves. The sympathetic nerve is like the accelerator of a car, responsible for accelerating; the parasympathetic nerve is like the brake, responsible for slowing down. The balance and coordination between these two is essential to keep our life moving.\n\nWu Jiahong pointed out that modern people’s busy life pace and generally unhealthy lifestyle can easily destroy this balance, leading to imbalance of the sympathetic and parasympathetic nervous systems, which in turn can lead to various symptoms, such as dizziness, inattention, memory loss, abnormal heartbeat and blood pressure, chest tightness, mood swings, anxiety and irritability, poor sleep quality, digestive problems, metabolic abnormalities and immune system diseases, etc., affecting the whole body from head to toe. When middle-aged women face these symptoms that they have never experienced before, they often worry about their health conditions and seek various medical assistance. However, autonomic nervous system disorders are difficult to diagnose during routine health examinations, which increases their anxiety and worry. Fortunately, with the popularity of online information, many people are beginning to realize that these symptoms may stem from autonomic nervous system disorders."
   },
   {
+    "title": "AI產業不確定性籠罩　歐股收跌",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5645687",
+    "source": "自由財經",
+    "summary": "投資人消化人工智慧（AI）晶片巨頭輝達（Nvidia）的亮眼財報，並準備迎接市場期待已久的Anthropic首次公開募股（IPO），但產業不確定性持續籠罩市場，歐洲主要股市今天收跌。\n\n倫敦...…",
+    "published_at": "2026-11-19T01:54:03+08:00",
+    "stocks": [],
+    "uid": "664874610dcb13b84cbad44db3c1326e",
+    "title_zh": "AI產業不確定性籠罩　歐股收跌",
+    "summary_zh": "投資人消化人工智慧（AI）晶片巨頭輝達（Nvidia）的亮眼財報，並準備迎接市場期待已久的Anthropic首次公開募股（IPO），但產業不確定性持續籠罩市場，歐洲主要股市今天收跌。\n\n倫敦...…",
+    "title_en": "Uncertainty surrounds AI industry; European stocks close down",
+    "summary_en": "Investors digested artificial intelligence (AI) chip giant Nvidia's eye-catching earnings report and prepared for the market's long-awaited initial public offering (IPO) of Anthropic. However, industry uncertainty continued to shroud the market, and major European stock markets closed lower today.\n\nLondon...…"
+  },
+  {
+    "title": "AI產業不確定性籠罩　歐股收跌",
+    "url": "https://www.cna.com.tw/news/afe/202611190004.aspx",
+    "source": "中央社",
+    "summary": "（中央社倫敦18日綜合外電報導）投資人消化人工智慧（AI）晶片巨頭輝達（Nvidia）的亮眼財報，並準備迎接市場期待已久的Anthropic首次公開募股（IPO），但產業不確定性持續籠罩市場，歐洲主要股市今天收跌。",
+    "published_at": "2026-11-19T01:41:58+08:00",
+    "stocks": [],
+    "uid": "5931438ad22fb6bde1cba98d6ecd44f4",
+    "title_zh": "AI產業不確定性籠罩　歐股收跌",
+    "summary_zh": "（中央社倫敦18日綜合外電報導）投資人消化人工智慧（AI）晶片巨頭輝達（Nvidia）的亮眼財報，並準備迎接市場期待已久的Anthropic首次公開募股（IPO），但產業不確定性持續籠罩市場，歐洲主要股市今天收跌。",
+    "title_en": "Uncertainty surrounds AI industry; European stocks close down",
+    "summary_en": "(Central News Agency, London, comprehensive foreign news report on the 18th) Investors digested the brilliant financial report of artificial intelligence (AI) chip giant Nvidia and prepared for the long-awaited initial public offering (IPO) of Anthropic. However, industry uncertainty continued to shroud the market, and major European stock markets closed down today."
+  },
+  {
+    "title": "台積、聯發科 認購熱",
+    "url": "https://money.udn.com/money/story/5739/9887385",
+    "source": "經濟日報",
+    "summary": "台股近期受到調節賣壓宣洩影響，延續低檔震盪整理格局，盤面題材股各自發揮，台積電（2330）、聯發科等兩檔電子權值股走勢相對穩健，後市仍有可為，發行券商建議，偏多投資人可透過權證的槓桿效果，擴大獲利空間。",
+    "published_at": "2026-11-19T00:35:56+08:00",
+    "stocks": [
+      "2330",
+      "2454"
+    ],
+    "uid": "f9b2f7790d5ca62d23433b9bca994db0",
+    "title_zh": "台積、聯發科 認購熱",
+    "summary_zh": "台股近期受到調節賣壓宣洩影響，延續低檔震盪整理格局，盤面題材股各自發揮，台積電（2330）、聯發科等兩檔電子權值股走勢相對穩健，後市仍有可為，發行券商建議，偏多投資人可透過權證的槓桿效果，擴大獲利空間。",
+    "title_en": "TSMC and MediaTek are hot for subscription",
+    "summary_en": "The Taiwan stock market has recently been affected by the release of regulatory selling pressure, and has continued to consolidate at a low level. Stocks with themes on the market have played their respective roles. Two electronic weight stocks such as TSMC (2330) and MediaTek have been relatively stable, and there is still room for improvement in the market outlook. The issuing brokerage suggested that bullish investors can use the leverage effect of warrants to expand their profit margins."
+  },
+  {
+    "title": "世芯、日月光 四檔威風",
+    "url": "https://money.udn.com/money/story/5739/9887706",
+    "source": "經濟日報",
+    "summary": "台股持續在40,000點整數關口附近震盪整理，昨（18）日上漲102點，收在40,194點。發行券商指出，看好AI概念股後市的投資人可留意世芯-KY（3661）、日月光投控等權證布局機會。",
+    "published_at": "2026-11-19T00:35:41+08:00",
+    "stocks": [
+      "3661"
+    ],
+    "uid": "96d86aac90fc8b4dcb70a142b4bd7680",
+    "title_zh": "世芯、日月光 四檔威風",
+    "summary_zh": "台股持續在40,000點整數關口附近震盪整理，昨（18）日上漲102點，收在40,194點。發行券商指出，看好AI概念股後市的投資人可留意世芯-KY（3661）、日月光投控等權證布局機會。",
+    "title_en": "Shixin, ASE, four levels of prestige",
+    "summary_en": "Taiwan stocks continued to fluctuate around the 40,000-point mark, rising 102 points yesterday (18th) to close at 40,194 points. The issuing broker pointed out that investors who are optimistic about the market outlook of AI concept stocks can pay attention to warrant layout opportunities such as Shixin-KY (3661) and ASE Investment Holdings."
+  },
+  {
+    "title": "南電、台燿 挑逾五個月",
+    "url": "https://money.udn.com/money/story/5739/9887709",
+    "source": "經濟日報",
+    "summary": "MSCI（明晟）半年度調整將在月底生效，其中，南電（8046）、台燿等新增成分股，有望獲得外資新一波買盤青睞，權證券商建議，可利用認購權證參與相關個股走勢。",
+    "published_at": "2026-11-19T00:35:00+08:00",
+    "stocks": [
+      "8046"
+    ],
+    "uid": "9626da8a040a6d186ffcfd4eff048fae",
+    "title_zh": "南電、台燿 挑逾五個月",
+    "summary_zh": "MSCI（明晟）半年度調整將在月底生效，其中，南電（8046）、台燿等新增成分股，有望獲得外資新一波買盤青睞，權證券商建議，可利用認購權證參與相關個股走勢。",
+    "title_en": "Nanjing Electric Power and Taiyao took more than five months to choose",
+    "summary_en": "MSCI's semi-annual adjustment will take effect at the end of the month. Among them, new constituent stocks such as China Southern Power (8046) and Taiyao are expected to attract a new wave of foreign buying. Securities brokers suggest that subscription warrants can be used to participate in the trend of related stocks."
+  },
+  {
+    "title": "奇鋐 押價內外15%",
+    "url": "https://money.udn.com/money/story/5739/9887716",
+    "source": "經濟日報",
+    "summary": "奇鋐（3017）水冷板滲透率將由GPU擴展至ASIC，並由人工智慧（AI） 伺服器延伸至通用伺服器，及運算端擴大至通訊端，整體市場規模進一步成長，近期投信買盤持續挹注。",
+    "published_at": "2026-11-19T00:34:38+08:00",
+    "stocks": [
+      "3017"
+    ],
+    "uid": "e9a15f18bc95dfac56e3703fd41893d3",
+    "title_zh": "奇鋐 押價內外15%",
+    "summary_zh": "奇鋐（3017）水冷板滲透率將由GPU擴展至ASIC，並由人工智慧（AI） 伺服器延伸至通用伺服器，及運算端擴大至通訊端，整體市場規模進一步成長，近期投信買盤持續挹注。",
+    "title_en": "Qihong Deposit 15% inside and outside",
+    "summary_en": "Qihong (3017) water-cooling plate penetration will expand from GPU to ASIC, from artificial intelligence (AI) servers to general servers, and from computing to communication. The overall market size will further grow, and investment buying has continued to pour in recently."
+  },
+  {
+    "title": "定穎 瞄準逾100天",
+    "url": "https://money.udn.com/money/story/5739/9887720",
+    "source": "經濟日報",
+    "summary": "定穎投控（3715）10月營收37.87億元，月增17.37%、年增121.47%，創單月歷史新高，主要受惠高階DDR5、ADAS與自駕板，以及智慧網卡與加速卡等產品需求強勁。",
+    "published_at": "2026-11-19T00:34:26+08:00",
+    "stocks": [
+      "3715"
+    ],
+    "uid": "e71d0321253ad275defc8274f58e1673",
+    "title_zh": "定穎 瞄準逾100天",
+    "summary_zh": "定穎投控（3715）10月營收37.87億元，月增17.37%、年增121.47%，創單月歷史新高，主要受惠高階DDR5、ADAS與自駕板，以及智慧網卡與加速卡等產品需求強勁。",
+    "title_en": "Dynamic aims to exceed 100 days",
+    "summary_en": "Dynamic Investment Holdings (3715) revenue in October was 3.787 billion yuan, a monthly increase of 17.37% and an annual increase of 121.47%, setting a record high in a single month. This was mainly due to the strong demand for high-end DDR5, ADAS and self-driving boards, as well as smart network cards and accelerator cards."
+  },
+  {
+    "title": "啓碁 二檔閃金光",
+    "url": "https://money.udn.com/money/story/5739/9887724",
+    "source": "經濟日報",
+    "summary": "網通大廠啓碁（6285）第3季歸屬母公司業主淨利20.9億元，季增28.3%，年增214.4%，每股純益4.35元；累計前3季歸屬母公司業主淨利為48.5億元，年增133.8%，每股純益10.1元。",
+    "published_at": "2026-11-19T00:34:16+08:00",
+    "stocks": [
+      "6285"
+    ],
+    "uid": "09087717e9508df95a3d6cc3756f8103",
+    "title_zh": "啓碁 二檔閃金光",
+    "summary_zh": "網通大廠啓碁（6285）第3季歸屬母公司業主淨利20.9億元，季增28.3%，年增214.4%，每股純益4.35元；累計前3季歸屬母公司業主淨利為48.5億元，年增133.8%，每股純益10.1元。",
+    "title_en": "Qiqi second level golden light",
+    "summary_en": "Netcom giant Qiqi (6285) had a net profit attributable to owners of its parent company of RMB 2.09 billion in the third quarter, a quarterly increase of 28.3%, an annual increase of 214.4%, and a net profit per share of RMB 4.35. The cumulative net profit attributable to owners of the parent company for the first three quarters was RMB 4.85 billion, an annual increase of 133.8%, and a net profit per share of RMB 10.1."
+  },
+  {
+    "title": "最牛一輪／智邦犀利 統一71叫好",
+    "url": "https://money.udn.com/money/story/5739/9887711",
+    "source": "經濟日報",
+    "summary": "智邦（2345）第3季每股純益（EPS）23.39元，再創單季新高；前三季EPS為58.09元。10月營收446.62億元，月增10.6%，年增91.2%，再創單月新高。法人預估，智邦新產品持續出貨，第4季營收可望再創單季新高。",
+    "published_at": "2026-11-19T00:33:47+08:00",
+    "stocks": [
+      "2345",
+      "2850"
+    ],
+    "uid": "ab99a9c1c94cfd4b89b336681f90c52c",
+    "title_zh": "最牛一輪／智邦犀利 統一71叫好",
+    "summary_zh": "智邦（2345）第3季每股純益（EPS）23.39元，再創單季新高；前三季EPS為58.09元。10月營收446.62億元，月增10.6%，年增91.2%，再創單月新高。法人預估，智邦新產品持續出貨，第4季營收可望再創單季新高。",
+    "title_en": "The best round/Zhibang is sharp, unified 71 applauds",
+    "summary_en": "Net earnings per share (EPS) of Zhibang (2345) in the third quarter was 23.39 yuan, setting a new single-quarter high; EPS in the first three quarters was 58.09 yuan. Revenue in October was 44.662 billion yuan, a monthly increase of 10.6% and an annual increase of 91.2%, setting a new single-month high. The legal person predicts that Zhibang's new products will continue to be shipped, and its revenue in the fourth quarter is expected to hit a new single-quarter high."
+  },
+  {
+    "title": "雙鴻衝刺 ASIC 散熱商機 明年營運大成長",
+    "url": "https://money.udn.com/money/story/11074/9887347",
+    "source": "經濟日報",
+    "summary": "散熱模組大廠雙鴻（3324）昨（18）日召開法說會，董事長林育申表示，第4季底將開始出貨ASIC相關散熱產品，明年量產後，比重將大幅增加，成為營運成長主要動能，預估明年營運會有「很大的成長」，無論營收、獲利、毛利率都會比今年更好。",
+    "published_at": "2026-11-19T00:22:55+08:00",
+    "stocks": [
+      "3324"
+    ],
+    "uid": "01a443ef5e8c531f081aca2d0d7b269a",
+    "title_zh": "雙鴻衝刺 ASIC 散熱商機 明年營運大成長",
+    "summary_zh": "散熱模組大廠雙鴻（3324）昨（18）日召開法說會，董事長林育申表示，第4季底將開始出貨ASIC相關散熱產品，明年量產後，比重將大幅增加，成為營運成長主要動能，預估明年營運會有「很大的成長」，無論營收、獲利、毛利率都會比今年更好。",
+    "title_en": "Shuanghong Sprints on ASIC Cooling Business Opportunities and Expects Great Operation Growth Next Year",
+    "summary_en": "Shuanghong (3324), a major cooling module manufacturer, held a press conference yesterday (18th). Chairman Lin Yushen said that it will start shipping ASIC-related cooling products at the end of the fourth quarter. After mass production next year, the proportion will increase significantly and become the main driver of operational growth. It is expected that operations will have \"great growth\" next year, and revenue, profits, and gross profit margins will be better than this year."
+  },
+  {
+    "title": "嘉聯益攻機器人 專案明年量產",
+    "url": "https://money.udn.com/money/story/5710/9887349",
+    "source": "經濟日報",
+    "summary": "嘉聯益（6153）昨（18）日召開法說會，公司表示，隨客戶端往AI領域不斷靠攏，加上新承接機器人應用專案明年陸續進入量產，為營運添新動能。",
+    "published_at": "2026-11-19T00:21:06+08:00",
+    "stocks": [
+      "6153"
+    ],
+    "uid": "53c9d9df34bd0410ba6cea4fc770e996",
+    "title_zh": "嘉聯益攻機器人 專案明年量產",
+    "summary_zh": "嘉聯益（6153）昨（18）日召開法說會，公司表示，隨客戶端往AI領域不斷靠攏，加上新承接機器人應用專案明年陸續進入量產，為營運添新動能。",
+    "title_en": "Jialian Yigong Robot Project will be mass-produced next year",
+    "summary_en": "Jialianyi (6153) held a press conference yesterday (18th). The company stated that as clients continue to move closer to the AI ​​field, and new robot application projects will enter mass production next year, it will add new momentum to operations."
+  },
+  {
+    "title": "優群Google新案 下季量產 明年營收拚雙位數成長",
+    "url": "https://money.udn.com/money/story/11074/9887350",
+    "source": "經濟日報",
+    "summary": "連接器廠優群（3217）昨（18）日舉行法說會，總經理劉興義表示，明年營運成長主要來自伺服器與通訊及其他新產品貢獻。",
+    "published_at": "2026-11-19T00:20:51+08:00",
+    "stocks": [
+      "3217"
+    ],
+    "uid": "cc884c749e54d7f28829b0f21e56b0e2",
+    "title_zh": "優群Google新案 下季量產 明年營收拚雙位數成長",
+    "summary_zh": "連接器廠優群（3217）昨（18）日舉行法說會，總經理劉興義表示，明年營運成長主要來自伺服器與通訊及其他新產品貢獻。",
+    "title_en": "Youqun’s new Google project will be mass-produced next quarter, with double-digit revenue growth next year",
+    "summary_en": "Connector factory Youqun (3217) held a press conference yesterday (18th). General Manager Liu Xingyi said that next year’s operating growth will mainly come from contributions from servers, communications and other new products."
+  },
+  {
+    "title": "12檔低軌衛星概念股搶風頭 躍居多頭亮點",
+    "url": "https://money.udn.com/money/story/5607/9887365",
+    "source": "經濟日報",
+    "summary": "台股昨（18）日延續多空交戰，險守40,000點大關，盤面題材股各自發揮，啟碁（6285）、昇達科等低軌衛星概念股獲得買盤點火，躍居多頭亮點，專家預期後續仍有輪動機會，考量近期盤勢震盪，建議短打來回操作。",
+    "published_at": "2026-11-19T00:19:37+08:00",
+    "stocks": [
+      "6285",
+      "3491"
+    ],
+    "uid": "cb0729d45b8d4e8c5d4fe90e5ed4648b",
+    "title_zh": "12檔低軌衛星概念股搶風頭 躍居多頭亮點",
+    "summary_zh": "台股昨（18）日延續多空交戰，險守40,000點大關，盤面題材股各自發揮，啟碁（6285）、昇達科等低軌衛星概念股獲得買盤點火，躍居多頭亮點，專家預期後續仍有輪動機會，考量近期盤勢震盪，建議短打來回操作。",
+    "title_en": "12 low-orbit satellite concept stocks grab the limelight and become bullish highlights",
+    "summary_en": "The Taiwan stock market continued the long-short battle yesterday (18th), barely holding on to the 40,000-point mark. The theme stocks on the market played their respective roles. Low-orbit satellite concept stocks such as Qiqi (6285) and Sundako received buying ignition and became the highlight of the bull market. Experts expect that there will still be opportunities for rotation in the future. Taking into account the recent market volatility, it is recommended to short-term and back-and-forth operations."
+  },
+  {
+    "title": "旺矽法說釋好消息 法人看後市不同調",
+    "url": "https://money.udn.com/money/story/11074/9887368",
+    "source": "經濟日報",
+    "summary": "旺矽（6223）16日法說，第3季獲利優於預期，法人對後市看法差異大。摩根士丹利證券（大摩）看好產能有擴大空間，重申目標價8,000元；大和資本考量營業費用上揚、獲利增速放緩等因素，將目標價下修33%到5,625元。",
+    "published_at": "2026-11-19T00:18:01+08:00",
+    "stocks": [
+      "6223"
+    ],
+    "uid": "bd7aaa0289511a880e4bfa641ee2c0fa",
+    "title_zh": "旺矽法說釋好消息 法人看後市不同調",
+    "summary_zh": "旺矽（6223）16日法說，第3季獲利優於預期，法人對後市看法差異大。摩根士丹利證券（大摩）看好產能有擴大空間，重申目標價8,000元；大和資本考量營業費用上揚、獲利增速放緩等因素，將目標價下修33%到5,625元。",
+    "title_en": "Wang Silicon Law explains the good news, legal persons have different views on the market outlook",
+    "summary_en": "Wangsi (6223) said on the 16th that its third-quarter profit was better than expected, and its views on the market outlook are quite different. Morgan Stanley Securities (Monochrome) is optimistic that there is room for expansion of production capacity and reiterates the target price of 8,000 yuan; Daiwa Capital considers factors such as rising operating expenses and slowing profit growth, and lowers the target price by 33% to 5,625 yuan."
+  },
+  {
+    "title": "櫃買永續發展債 發行額突破千億 全年拚1,300億",
+    "url": "https://money.udn.com/money/story/11074/9887373",
+    "source": "經濟日報",
+    "summary": "櫃買中心副總經理涂月憲昨（18）日指出，永續發展債券今年來已發行37檔，發行金額1,157億元，突破千億元；預期年度目標發行檔數43檔應可達標，年度目標發行金額1,300億元較有難度，也會力拚達標。",
+    "published_at": "2026-11-19T00:17:44+08:00",
+    "stocks": [],
+    "uid": "a8c093a330a7e6791efa56e036b76d3d",
+    "title_zh": "櫃買永續發展債 發行額突破千億 全年拚1,300億",
+    "summary_zh": "櫃買中心副總經理涂月憲昨（18）日指出，永續發展債券今年來已發行37檔，發行金額1,157億元，突破千億元；預期年度目標發行檔數43檔應可達標，年度目標發行金額1,300億元較有難度，也會力拚達標。",
+    "title_en": "Over-the-counter purchases of sustainable development bonds exceeded RMB 100 billion in issuance, and RMB 130 billion was spent throughout the year",
+    "summary_en": "Tu Yuexian, deputy general manager of the OTC Buying Center, pointed out yesterday (18th) that 37 tranches of sustainable development bonds have been issued this year, with an issuance amount of 115.7 billion yuan, exceeding 100 billion yuan. It is expected that the annual target issuance number of 43 tranches should be achieved, and the annual target issuance amount of 130 billion yuan is more difficult, and we will strive to meet the target."
+  },
+  {
+    "title": "就市論勢／大型權值股能否止穩 觀盤重點",
+    "url": "https://money.udn.com/money/story/5607/9887375",
+    "source": "經濟日報",
+    "summary": "台股本周波動再度放大，市場關注焦點轉向是否能建立第二隻腳。判斷台股能否順利築底，應交叉檢視七大特徵。",
+    "published_at": "2026-11-19T00:16:49+08:00",
+    "stocks": [],
+    "uid": "244920ba220a8ea0171edf9c883064b5",
+    "title_zh": "就市論勢／大型權值股能否止穩 觀盤重點",
+    "summary_zh": "台股本周波動再度放大，市場關注焦點轉向是否能建立第二隻腳。判斷台股能否順利築底，應交叉檢視七大特徵。",
+    "title_en": "Discussing the market situation/Can large-capitalization stocks stabilize? Focus on market observation",
+    "summary_en": "The volatility of Taiwan stocks has magnified again this week, and the market's focus has turned to whether it can establish a second foot. To judge whether Taiwan stocks can successfully build a bottom, seven major characteristics should be cross-examined."
+  },
+  {
+    "title": "鐳洋現增 大咖搶入股 衝刺低軌衛星添動能",
+    "url": "https://money.udn.com/money/story/11074/9887336",
+    "source": "經濟日報",
+    "summary": "衛星通訊廠鐳洋科技（6980）昨（18）日宣布完成現金增資，獲得富邦金控、中華電信、佳世達、台翔航太工業及家登等產業大咖搶著認購，凸顯低軌衛星後市看俏，推升相關產業鏈籌資熱。",
+    "published_at": "2026-11-18T23:42:57+08:00",
+    "stocks": [
+      "6980"
+    ],
+    "uid": "4816bec8e0d177be171090a5b5d26576",
+    "title_zh": "鐳洋現增 大咖搶入股 衝刺低軌衛星添動能",
+    "summary_zh": "衛星通訊廠鐳洋科技（6980）昨（18）日宣布完成現金增資，獲得富邦金控、中華電信、佳世達、台翔航太工業及家登等產業大咖搶著認購，凸顯低軌衛星後市看俏，推升相關產業鏈籌資熱。",
+    "title_en": "Leiyang is now increasing, big names are rushing to buy shares, and it is sprinting towards low-orbit satellites to gain momentum.",
+    "summary_en": "Satellite communications company Leiyang Technology (6980) announced yesterday (18th) that it had completed a cash capital increase, and industry big names such as Fubon Financial Holdings, Chunghwa Telecom, Qisda, Taixiang Aerospace Industry and Jiaden rushed to subscribe. This highlights the promising market outlook for low-orbit satellites and boosts the financing boom in related industry chains."
+  },
+  {
+    "title": "偉訓、富驊 AI 接單旺",
+    "url": "https://money.udn.com/money/story/5607/9887328",
+    "source": "經濟日報",
+    "summary": "機殼暨電源廠偉訓（3032）及子公司富驊昨（18）日召開聯合法說會，偉訓總經理李家慶表示，AI相關業務占比已達25%，以伺服器機櫃業務成長最為顯著，看好本季營運動能向上，伴隨AI機櫃訂單能見度直達明年第2季，加上AI Rack及機構件成長，明年營運看好。",
+    "published_at": "2026-11-18T23:41:38+08:00",
+    "stocks": [
+      "3032"
+    ],
+    "uid": "8e5b44f5055d091a47b92b48da6af155",
+    "title_zh": "偉訓、富驊 AI 接單旺",
+    "summary_zh": "機殼暨電源廠偉訓（3032）及子公司富驊昨（18）日召開聯合法說會，偉訓總經理李家慶表示，AI相關業務占比已達25%，以伺服器機櫃業務成長最為顯著，看好本季營運動能向上，伴隨AI機櫃訂單能見度直達明年第2季，加上AI Rack及機構件成長，明年營運看好。",
+    "title_en": "Weixun and Fuhua AI are booming in orders",
+    "summary_en": "Chassis and power supply factory Weixun (3032) and its subsidiary Fuhua held a joint press conference yesterday (18th). Weixun general manager Li Jiaqing said that the proportion of AI-related business has reached 25%, with the server cabinet business growing the most significantly. He is optimistic about the growth of this quarter's operations. With the visibility of AI cabinet orders reaching the second quarter of next year, coupled with the growth of AI Rack and mechanical components, next year's operations are promising."
+  },
+  {
+    "title": "衛星小兵 鐳洋技術底子厚",
+    "url": "https://money.udn.com/money/story/11074/9887333",
+    "source": "經濟日報",
+    "summary": "SpaceX創辦人馬斯克拋出「太空AI」構想之後，讓太空衛星市場除通訊，又有AI商機，鐳洋（6980）以「台灣衛星小兵」之姿切入，從射頻技術出發，掌握衛星通訊酬載、陣列天線及地面接收設備，更具有打造整顆立方衛星能力，技術底子深厚，成為讓台灣金融、電信、科技大咖爭相投資焦點。",
+    "published_at": "2026-11-18T23:41:11+08:00",
+    "stocks": [
+      "6980"
+    ],
+    "uid": "aaced8906443f8dcd937eaa47fba3325",
+    "title_zh": "衛星小兵 鐳洋技術底子厚",
+    "summary_zh": "SpaceX創辦人馬斯克拋出「太空AI」構想之後，讓太空衛星市場除通訊，又有AI商機，鐳洋（6980）以「台灣衛星小兵」之姿切入，從射頻技術出發，掌握衛星通訊酬載、陣列天線及地面接收設備，更具有打造整顆立方衛星能力，技術底子深厚，成為讓台灣金融、電信、科技大咖爭相投資焦點。",
+    "title_en": "Satellite soldier Leiyang has a strong technical foundation",
+    "summary_en": "After Musk, the founder of SpaceX, proposed the concept of \"space AI\", the space satellite market has not only communications, but also AI business opportunities. Leiyang (6980) entered the space as a \"Taiwanese satellite soldier\". Starting from radio frequency technology, it mastered satellite communication payloads, array antennas and ground receiving equipment. It also has the ability to build entire cube satellites. With its profound technical foundation, it has become the focus of Taiwan's financial, telecommunications and technology giants to compete for investment."
+  },
+  {
+    "title": "健保署長被爆有御用化妝師 韋淳祐：只許州官砸錢 不准老人健保免費？",
+    "url": "https://money.udn.com/money/story/7307/9887717",
+    "source": "經濟日報總經",
+    "summary": "衛福部健保署長陳亮妤遭檢舉，疑似拿「媒體宣導費」請專屬妝造師，隨身服務，一次梳化一小時，進出署本部十多次。國民黨新媒體部前主任韋淳祐批評，老人要免健保費，衛福部說「天下沒有白吃的午餐」。賴政府的官要化妝，衛福部就有白吃的午餐，「原來午餐不能白吃，妝可以白化。」",
+    "published_at": "2026-11-18T23:40:04+08:00",
+    "stocks": [],
+    "uid": "92ea16229ea44ad9e25f74f512cf2967",
+    "title_zh": "健保署長被爆有御用化妝師 韋淳祐：只許州官砸錢 不准老人健保免費？",
+    "summary_zh": "衛福部健保署長陳亮妤遭檢舉，疑似拿「媒體宣導費」請專屬妝造師，隨身服務，一次梳化一小時，進出署本部十多次。國民黨新媒體部前主任韋淳祐批評，老人要免健保費，衛福部說「天下沒有白吃的午餐」。賴政府的官要化妝，衛福部就有白吃的午餐，「原來午餐不能白吃，妝可以白化。」",
+    "title_en": "The Director of National Health Insurance was revealed to have a royal makeup artist. Wei Chunyou: Only state officials are allowed to spend money, but the elderly are not allowed to have free health insurance?",
+    "summary_en": "Chen Liangyu, the director of the Ministry of Health and Welfare’s Health Insurance, was accused of allegedly using “media promotion fees” to hire a dedicated makeup artist to provide her services on-the-go. She groomed her for an hour at a time and entered and exited the department’s headquarters more than ten times. Wei Chunyou, former director of the New Media Department of the Kuomintang, criticized that the elderly should be exempted from health insurance premiums. The Ministry of Health and Welfare said that \"there is no free lunch in the world.\" Since government officials have to wear makeup, the Ministry of Health and Welfare will provide them with free lunches. \"It turns out that lunches are not free, and the makeup can be whitened.\""
+  },
+  {
+    "title": "安勤明年業績拚新高",
+    "url": "https://money.udn.com/money/story/11074/9887332",
+    "source": "經濟日報",
+    "summary": "工業電腦廠安勤（3479）昨（18）日舉行法說會，公司預期，醫療、工業、零售及其他類業務後市同步成長，尤其看好半導體、軍工新應用，僅博弈持平看待。",
+    "published_at": "2026-11-18T23:39:05+08:00",
+    "stocks": [
+      "3479"
+    ],
+    "uid": "8785bbe515408d3e198bdc6558554892",
+    "title_zh": "安勤明年業績拚新高",
+    "summary_zh": "工業電腦廠安勤（3479）昨（18）日舉行法說會，公司預期，醫療、工業、零售及其他類業務後市同步成長，尤其看好半導體、軍工新應用，僅博弈持平看待。",
+    "title_en": "Avalue will hit new highs in performance next year",
+    "summary_en": "Industrial computer manufacturer Avalue (3479) held a press conference yesterday (18th). The company expects that the market outlook for medical, industrial, retail and other businesses will grow simultaneously. It is particularly optimistic about new applications in semiconductors and military industry, and will treat the market as neutral."
+  },
+  {
+    "title": "勝一綠色製造 台積授獎",
+    "url": "https://money.udn.com/money/story/5710/9887320",
+    "source": "經濟日報",
+    "summary": "台積電17日舉辦供應鏈管理論壇，並頒發2026年優良供應商卓越表現獎。勝一（1773）憑藉化學品回收技術，獲頒「卓越綠色製造」獎，二度獲獎，也是今年唯一獲得台積電供應商獎項的上市櫃化工業，與應用材料和艾司摩爾（ASML）等國際大廠比肩。",
+    "published_at": "2026-11-18T23:22:02+08:00",
+    "stocks": [
+      "1773"
+    ],
+    "uid": "98df6ca0a7b58cad95b100292af19914",
+    "title_zh": "勝一綠色製造 台積授獎",
+    "summary_zh": "台積電17日舉辦供應鏈管理論壇，並頒發2026年優良供應商卓越表現獎。勝一（1773）憑藉化學品回收技術，獲頒「卓越綠色製造」獎，二度獲獎，也是今年唯一獲得台積電供應商獎項的上市櫃化工業，與應用材料和艾司摩爾（ASML）等國際大廠比肩。",
+    "title_en": "Shengyi Green Manufacturing Awarded by TSMC",
+    "summary_en": "TSMC held a supply chain management forum on the 17th and awarded the 2026 Excellent Supplier Excellence Award. Shengyi (1773) won the \"Excellence in Green Manufacturing\" award for its chemical recycling technology, winning the award for the second time. It is also the only listed cabinet chemical industry to win the TSMC supplier award this year, and is on par with international majors such as Applied Materials and ASML."
+  },
+  {
+    "title": "碩正打入一線封裝大廠",
+    "url": "https://money.udn.com/money/story/11074/9887323",
+    "source": "經濟日報",
+    "summary": "半導體封裝膜類材料業者碩正科技（7669）昨（18）日舉行上櫃前業績發表會。董事長楊允斌表示，該公司從光學膜技術出發，以精密塗布技術為核心，目前成為先進封裝離型膜及研磨膠帶之重要國內業者，產品並已打入一線封裝、OSAT大廠。",
+    "published_at": "2026-11-18T23:21:14+08:00",
+    "stocks": [
+      "7669"
+    ],
+    "uid": "4d6be021624c231f04aad139344db2ae",
+    "title_zh": "碩正打入一線封裝大廠",
+    "summary_zh": "半導體封裝膜類材料業者碩正科技（7669）昨（18）日舉行上櫃前業績發表會。董事長楊允斌表示，該公司從光學膜技術出發，以精密塗布技術為核心，目前成為先進封裝離型膜及研磨膠帶之重要國內業者，產品並已打入一線封裝、OSAT大廠。",
+    "title_en": "Shuozheng enters the first-tier packaging manufacturers",
+    "summary_en": "Shuozheng Technology (7669), a semiconductor packaging film material manufacturer, held a pre-OTC results presentation yesterday (18th). Chairman Yang Yunbin said that the company started from optical film technology and focused on precision coating technology. It has now become an important domestic player in advanced packaging release films and grinding tapes, and its products have entered the first-tier packaging and OSAT manufacturers."
+  },
+  {
+    "title": "輝達財測緩解黃仁勳去職疑慮　帶動AI股反彈",
+    "url": "https://www.cna.com.tw/news/afe/202611180364.aspx",
+    "source": "中央社",
+    "summary": "（中央社紐約18日綜合外電報導）美國晶片巨擘輝達（Nvidia）公布亮眼財測，顯示運算需求激增可望抵禦輝達創辦人黃仁勳去職帶來的不確定性，帶動輝達股價今天上漲，也推升人工智慧（AI）相關類股走揚。",
+    "published_at": "2026-11-18T23:08:42+08:00",
+    "stocks": [],
+    "uid": "ce63a45e0bd8e99f2bdc5f8e87b6b9b7",
+    "title_zh": "輝達財測緩解黃仁勳去職疑慮　帶動AI股反彈",
+    "summary_zh": "（中央社紐約18日綜合外電報導）美國晶片巨擘輝達（Nvidia）公布亮眼財測，顯示運算需求激增可望抵禦輝達創辦人黃仁勳去職帶來的不確定性，帶動輝達股價今天上漲，也推升人工智慧（AI）相關類股走揚。",
+    "title_en": "Huida's financial forecast eases doubts about Huang Renxun's resignation and drives AI stocks to rebound",
+    "summary_en": "(Central News Agency, New York, Comprehensive Foreign Reports on the 18th) American chip giant Nvidia announced a bright financial forecast, showing that the surge in computing demand is expected to withstand the uncertainty caused by the resignation of Nvidia founder Huang Jensen, driving Nvidia's stock price to rise today, and also pushing up artificial intelligence (AI)-related stocks."
+  },
+  {
+    "title": "在台碩博士陸生數再下探 陸委會：2年來聯繫陸方20多次未獲回應",
+    "url": "https://money.udn.com/money/story/7307/9887580",
+    "source": "經濟日報總經",
+    "summary": "陸生聯招會近日公布2026年招生數據，今年計45人完成分發，最終註冊僅34人，其中碩士班4人、博士班30人，人數持續下探。針對國台辦今天稱台灣方面應取消不合理限制，陸委會反駁指，陸方片面暫停陸生來台就讀學位已6年未恢復，我方教育部近2年來與陸方溝通聯繫逾20餘次，陸方始終未正面回應，可見阻礙兩岸文教交流的是對岸。",
+    "published_at": "2026-11-18T22:54:41+08:00",
+    "stocks": [],
+    "uid": "7c30b3ec64c8c8a6b6bdfbaa1bb04770",
+    "title_zh": "在台碩博士陸生數再下探 陸委會：2年來聯繫陸方20多次未獲回應",
+    "summary_zh": "陸生聯招會近日公布2026年招生數據，今年計45人完成分發，最終註冊僅34人，其中碩士班4人、博士班30人，人數持續下探。針對國台辦今天稱台灣方面應取消不合理限制，陸委會反駁指，陸方片面暫停陸生來台就讀學位已6年未恢復，我方教育部近2年來與陸方溝通聯繫逾20餘次，陸方始終未正面回應，可見阻礙兩岸文教交流的是對岸。",
+    "title_en": "The number of mainland students with master's degrees and doctorates in Taiwan has dropped again. Mainland Affairs Council: Contacted mainland China more than 20 times in the past two years but received no response.",
+    "summary_en": "The Terrestrial Joint Admissions Association recently announced the enrollment data for 2026. This year, 45 people have been distributed, and only 34 people were finally registered, including 4 people in the master's class and 30 people in the doctoral class. The number continues to decline. In response to today's statement from the Taiwan Affairs Office of the State Council that Taiwan should lift unreasonable restrictions, the Mainland Affairs Council retorted that China's unilateral suspension of mainland students' academic degrees in Taiwan has not been restored for six years. Our Ministry of Education has communicated with the mainland more than 20 times in the past two years, but the mainland has never responded directly. It can be seen that it is the other side of the Taiwan Strait that hinders cross-strait cultural and educational exchanges."
+  },
+  {
+    "title": "柯文哲車掃途中轉進吳品叡競總 在野跨黨派合作意味濃",
+    "url": "https://money.udn.com/money/story/12622/9887529",
+    "source": "經濟日報總經",
+    "summary": "選戰倒數十天，民眾黨創黨主席柯文哲今天到嘉義縣輔選，陪同黨籍議員候選人萬家甫車掃拜票，途中行經無黨籍嘉義縣長候選人吳品叡競選總部，柯文哲特地下車停留約十分鐘，為吳品叡加油打氣，共同參拜朴子鎮安宮，展現嘉義在野力量跨黨派合作的選戰氛圍。",
+    "published_at": "2026-11-18T22:29:30+08:00",
+    "stocks": [],
+    "uid": "e17d13653544ee7eb270cbeb8338de5a"
+  },
+  {
+    "title": "今彩539第115279期　頭獎2注中獎",
+    "url": "https://money.udn.com/money/story/122328/9887524",
+    "source": "經濟日報總經",
+    "summary": "今彩539第115279期開獎，中獎號碼39、35、22、27、20；派彩結果，頭獎2注中獎，每注獎金新台幣800萬元",
+    "published_at": "2026-11-18T22:21:19+08:00",
+    "stocks": [],
+    "uid": "9a62aea5790a15e76e7269594e699904"
+  },
+  {
+    "title": "台鐵爆今年100件缺失 區間車漏油無紀錄、 列車防護無線電故障",
+    "url": "https://money.udn.com/money/story/5648/9887172",
+    "source": "經濟日報總經",
+    "summary": "交通部鐵道局每年針對台鐵公司進行檢查，今年定期檢查列1項缺失、不定期檢查則多達99項缺失，其中仍有21項列管中，包含區間車漏油卻無紀錄、平交道障礙物自動偵測系統故障、列車防護無線電故障等；對此，台鐵公司表示，今年底前將全數改善完成。",
+    "published_at": "2026-11-18T22:19:46+08:00",
+    "stocks": [],
+    "uid": "889081bbb33b8c0048466589db8aa64e"
+  },
+  {
+    "title": "大法庭統一法律見解！開車撞傷人逃逸 僅限「故意」者才能吊銷駕照",
+    "url": "https://money.udn.com/money/story/5648/9887153",
+    "source": "經濟日報總經",
+    "summary": "道路交通管理處罰條例規定，若是肇事致人受傷而逃逸會被吊銷駕照，而最高行政法院大法庭今統一法律見解，認為若一律都吊銷駕照過於嚴苛，裁定道交條例規定肇事致人受傷而逃逸，僅限於「故意」者才能吊銷駕照。",
+    "published_at": "2026-11-18T22:19:44+08:00",
+    "stocks": [],
+    "uid": "0611dee37728cfe60924b40508aa3f68"
+  },
+  {
+    "title": "媒體報導法警休假要抽籤決定 北檢發4點澄清：絕無設置嚴苛門檻",
+    "url": "https://money.udn.com/money/story/5648/9887269",
+    "source": "經濟日報總經",
+    "summary": "立委陳昭姿今在立法院表示，台北地檢署法警室規定每日請假人數上限25人，且採抽籤制，有法警連抽4次都抽不到，「如仍請假即以曠職恐嚇」，經媒體報導後，北檢晚間發四點澄清，強調法警休假人數上限25人，已接近總員額3分之1，非以限制或剝奪同仁請假權益為目的，相關報導與事實不符。",
+    "published_at": "2026-11-18T22:19:39+08:00",
+    "stocks": [],
+    "uid": "74dc6aeec94d1fe3af102164ac24db15"
+  },
+  {
+    "title": "王忠銘推「智慧韌性島嶼」 導入AI行政、智慧醫療及交通改善",
+    "url": "https://money.udn.com/money/story/12622/9887306",
+    "source": "經濟日報總經",
+    "summary": "連江縣長王忠銘今在公辦政見發表會提出「智慧韌性島嶼」施政藍圖，主張運用科技改善馬祖交通、醫療、消防、觀光及公共服務，未來更將導入人工智慧協助縣府行政運作，解決離島人力不足問題。他強調，縣政發展必須有完整規畫與政策評估，才能讓公共建設及福利制度持續推進。",
+    "published_at": "2026-11-18T22:19:24+08:00",
+    "stocks": [],
+    "uid": "6236d1daca855885f071b3dd154d94ad"
+  },
+  {
+    "title": "蘇巧慧妹曠世智能案不適用利衝法 王鴻薇提修法防堵鑽漏洞",
+    "url": "https://money.udn.com/money/story/7307/9886972",
+    "source": "經濟日報總經",
+    "summary": "民進黨新北市長候選人蘇巧慧胞妹蘇巧純的「曠世智能」公司獲政府4500萬元投資，遭質疑違反「公職人員利益衝突迴避法」，但國發會與財政部卻都稱不適用該法。國民黨立委王鴻薇表示，現行法規存在漏洞，恐讓有心人士藉機利益輸送，因此將提案修法，把「投資」納入規範，防堵公職人員及其關係人獲取不當利益。",
+    "published_at": "2026-11-18T22:16:48+08:00",
+    "stocks": [],
+    "uid": "73e67d55cea11f77883a08b94544435e"
+  },
+  {
+    "title": "等了近60年！秀水國中活動中心終於動土 斥資1億打造多功能場館",
+    "url": "https://money.udn.com/money/story/7307/9886878",
+    "source": "經濟日報總經",
+    "summary": "彰化縣政府自籌1億392萬餘元，辦理秀水國中東棟大樓拆除暨活動中心新建工程，今天舉行動土典禮，預定2028年底前完工，未來將設置室內籃球場、舞台及多功能教學空間，改善學校長期缺乏大型室內活動場地的問題。",
+    "published_at": "2026-11-18T22:16:47+08:00",
+    "stocks": [],
+    "uid": "073629fddb87f9ab916877600ca6fdc8"
+  },
+  {
+    "title": "全國十大神農及模範農民 南市全國模範農民一舉摘下3席",
+    "url": "https://money.udn.com/money/story/7307/9886817",
+    "source": "經濟日報總經",
+    "summary": "農業部公布第35屆全國十大神農及模範農民當選名單，台南市政府本屆推薦10人參選，其中，玉井林家寶、學甲蔡阿玉及東山郭雅聰獲選全國模範農民。",
+    "published_at": "2026-11-18T22:16:46+08:00",
+    "stocks": [],
+    "uid": "1400dba9f409b690f57f38b2eff175e9"
+  },
+  {
+    "title": "APEC前俄軍機進入台ADIZ 吳釗燮：俄中軍事合作鞏固 不利第一島鏈國家",
+    "url": "https://money.udn.com/money/story/7307/9886802",
+    "source": "經濟日報總經",
+    "summary": "在美中俄峰會前夕，俄羅斯軍機進入日本和台灣的防空識別區。國安會祕書長吳釗燮今天在社群平台X表示，看起來俄羅斯與中國的軍事合作更加穩固了，這對第一島鏈的民主國家不利。",
+    "published_at": "2026-11-18T22:16:45+08:00",
+    "stocks": [],
+    "uid": "145f4d43e9b353b18556e1fe101575cf"
+  },
+  {
+    "title": "俄中轟炸機現蹤台灣東部外海 學者：恐聯合行動 拉高與美峰會談判地位",
+    "url": "https://money.udn.com/money/story/7307/9886789",
+    "source": "經濟日報總經",
+    "summary": "兩架俄國戰略轟炸機昨日大動作穿越韓國、日本和台灣周邊空域，戰略學者揭仲指出，昨日幾乎同一時段，中共也派出轟炸機和無人機在台灣東岸活動，他提醒，俄中有可能首度在台灣周邊空域進行聯合軍事行動，企圖在中美俄三方領袖高峰會前拉抬雙方的談判地位。",
+    "published_at": "2026-11-18T22:16:44+08:00",
+    "stocks": [],
+    "uid": "ed420a4b45846a4285fd28a916f9a59b"
+  },
+  {
+    "title": "憂房東漲租金 僅4成學生領租補 國土署：限制房客申請租補擬定罰則",
+    "url": "https://money.udn.com/money/story/7307/9887295",
+    "source": "經濟日報總經",
+    "summary": "青年思潮今與3校開記者會，公布逾1000名租屋經驗調查，8成學生房租占比逾生活費的3分之1，領取租補者卻僅有4成，6成原因在於房東，憂心擔心申請後被漲租；另調查也發現，包租代管月租比屋主直租高出4分之1，認為政府應推出公部門直營，設定租金上限。國土署回應，內政部目前正積極推動租賃條例修法，將對房東限制房客申請租補訂定罰則。",
+    "published_at": "2026-11-18T22:16:41+08:00",
+    "stocks": [],
+    "uid": "1db15d0660e7bc4fc0c675036df7debd"
+  },
+  {
+    "title": "守護金門交流與健康 3名長年奉獻地方人士獲榮譽縣民",
+    "url": "https://money.udn.com/money/story/7307/9887182",
+    "source": "經濟日報總經",
+    "summary": "金門縣政府今天表揚3名長期投入金門公共服務的外地專業人士，分別是前移民署金門專勤隊長劉燄輝、前移民署金門地區行政中心召集人鄭明昌，以及高雄醫學大學附設中和紀念醫院醫師歐燦騰，頒贈榮譽縣民證，肯定3人多年深耕金門，在兩岸交流、國境安全、新住民服務及離島醫療等領域的貢獻。",
+    "published_at": "2026-11-18T22:16:40+08:00",
+    "stocks": [],
+    "uid": "f9114c11e2475c1f73c66566a63a0303"
+  },
+  {
+    "title": "彰基綠色通道接力二基在地照護 總院長陳穆寬：偏鄉醫療順起來",
+    "url": "https://money.udn.com/money/story/7307/9887046",
+    "source": "經濟日報總經",
+    "summary": "偏鄉居民腦中風搶救、孕婦深夜臨盆接生，均攸關生命的醫療需求。彰化基督教醫學中心透過急重症「綠色通道」，結合二林基督教醫院在地照護，逐步打通偏鄉醫療網絡。彰基總院長陳穆寬表示，隨著台76線黃金救命線開通，讓彰化西南角約16萬居民的醫療照護更加「順起來」。",
+    "published_at": "2026-11-18T22:16:39+08:00",
+    "stocks": [],
+    "uid": "0e5d4decf3a3917556e95e767241dc60"
+  },
+  {
+    "title": "台灣每天近4人確診鼻咽癌 頭頸部腫瘤醫學會今揭首部鼻咽癌治療共識",
+    "url": "https://money.udn.com/money/story/122328/9887504",
+    "source": "經濟日報總經",
+    "summary": "有「華人好發癌」之稱的鼻咽癌，在歐美屬罕見癌症，台灣每年新診斷逾1400人，平均每天近4人確診。由於鼻咽位置隱密，早期症狀容易被忽略，醫師提醒，常常鼻塞、鼻涕帶血或耳朵悶塞、聽力變差，皆可能是鼻咽癌的症狀。台灣頭頸部腫瘤醫學會今發布「台灣首部鼻咽癌治療共識」，希望讓病人獲得更一致的治療方向。",
+    "published_at": "2026-11-18T22:13:54+08:00",
+    "stocks": [],
+    "uid": "35ddf46cc646b37222e71af57db26704"
+  },
+  {
+    "title": "今彩539第115279期　頭獎2注中獎",
+    "url": "https://www.cna.com.tw/news/ahel/202611180354.aspx",
+    "source": "中央社",
+    "summary": "（中央社台北18日電）今彩539第115279期開獎，中獎號碼39、35、22、27、20；派彩結果，頭獎2注中獎，每注獎金新台幣800萬元。",
+    "published_at": "2026-11-18T22:08:17+08:00",
+    "stocks": [],
+    "uid": "2014726e78bbd366f6daa2b8e3c670b0"
+  },
+  {
+    "title": "輝達宮鬥會白熱化？兩個女強人之爭暗潮洶湧 誰會笑到最後",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5645603",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕在黃仁勳離職後，輝達的領導層更迭使該公司的內部權力動態成為關注焦點，尤其是臨時首席執行長科萊特·克瑞斯（Colette Kress ）與黃仁勳的女兒黃敏珊（Madison ...…",
+    "published_at": "2026-11-18T22:05:06+08:00",
+    "stocks": [],
+    "uid": "1f1f95baed031822a5378499317156c0"
+  },
+  {
+    "title": "找到 8 分鐘重複一次的神祕電波來源，天文學家證實源自白矮星雙星系統",
+    "url": "https://technews.tw/2026/11/18/a-mysterious-radio-signal-repeats-every-8-minutes-astronomers-finally-know-whats-behind-it/",
+    "source": "科技新報",
+    "summary": "澳洲默奇森寬場陣列（MWA）偵測到每約 8 分鐘脈衝一次的無線電訊號 GPM J071507-114153。刊 [&#8230;]",
+    "published_at": "2026-11-18T21:56:15+08:00",
+    "stocks": [],
+    "uid": "286713c6dc150383311e515abfb9ecb5"
+  },
+  {
+    "title": "冬季飲品戰開打！7-ELEVEN押韓星熱罐　Mr.WISH搶單一產區茶商機",
+    "url": "https://finance.ettoday.net/news/3274563",
+    "source": "ETtoday",
+    "summary": "<img alt=\"冬季飲品戰開打！7-ELEVEN押韓星熱罐　Mr.WISH搶單一產區茶商機\" src=\"https://cdn2.ettoday.net/images/9021/c9021630.jpg\" /><br /> 氣溫轉涼帶動熱飲與奶茶需求升溫，超商及手搖飲業者紛紛透過商品差異化、期間促銷與社群話題搶占冬季市場。7-ELEVEN結合韓星IP與熱罐飲品，盼以追星經濟帶動來客及連帶消費；Mr.WISH則引進斯里蘭卡單一產區烏瓦紅茶，推出3款季節新品，從原料產地與茶底品質切入，反映飲品業者在市場競爭升溫下，持續拓展產品價格帶與消費客群。\n\n <a href=\"https://finance.ettoday.net/news/3274563\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-11-18T21:56:00+08:00",
+    "stocks": [],
+    "uid": "2397451a13ad141bc00aa39fc23f3e71"
+  },
+  {
+    "title": "「黑毛屋」插旗南京復興、滿千抽和牛！和牛十図「買肉升級變雙人鍋」",
+    "url": "https://money.udn.com/money/story/122328/9887476",
+    "source": "經濟日報總經",
+    "summary": "天氣涼爽，正是吃鍋的好時機！乾杯集團旗下日式鍋物「黑毛屋」，近期於台北南京復興商圈開設慶城店，為全台第21間分店。店內主打涮涮鍋、壽喜燒、博多風水炊鍋、博多風摩滋鍋等4種經典鍋物，肉品則提供日本和牛、西班牙伊比利豬、PURE RARE芬蘭豬等不同選擇。",
+    "published_at": "2026-11-18T21:49:56+08:00",
+    "stocks": [],
+    "uid": "20f67815f4f34a91b6a8a69df4e6ce0f"
+  },
+  {
+    "title": "近十年總統交付 APEC 領袖代表任務 看出哪些全球政經趨勢演變？",
+    "url": "https://money.udn.com/money/story/7307/9887472",
+    "source": "經濟日報總經",
+    "summary": "2026年度「亞太經濟合作經濟領袖會議」18日至19日在中國大陸的深圳召開，其向來是觀察國際經貿趨勢的重要窗口。回顧歷屆APEC，領袖代表團行前，都會被總統交付幾項任務。觀察2018至2026年，任務內容，映照出全球政經秩序的深層轉向，從數位賦權演變到AI地緣重組。",
+    "published_at": "2026-11-18T21:49:34+08:00",
+    "stocks": [],
+    "uid": "ece4a3218c16b1af552420422dec7c95"
+  },
+  {
+    "title": "和潤法說／多元擴展業務 和潤：明年營運審慎樂觀",
+    "url": "https://www.mirrormedia.mg/story/20261118-13fin-214900",
+    "source": "鏡週刊財經",
+    "summary": "<p>國內汽車金融龍頭和潤企業18日召開法說會，受惠於核心業務穩健推進與資產結構持續優化，前三季合併稅後淨利達28億元，較去年同期成長15%；每股盈餘（EPS）為3.6元，年增0.53元。和潤表示，將持續深耕核心事業並拓展多元業務版圖，隨著AI應用在內控與營運上的效益逐步顯現，和潤對明年營運表現審慎樂觀。</p>",
+    "published_at": "2026-11-18T21:49:00+08:00",
+    "stocks": [],
+    "uid": "46cc323c0ad4a891f7e524ef371e76db"
+  },
+  {
+    "title": "沒抽中宿舍大學生來不及租屋　教育部：督導學校建立候補機制",
+    "url": "https://money.udn.com/money/story/7307/9887409",
+    "source": "經濟日報總經",
+    "summary": "青年思潮與台大、政大、台師大等學生會今公布學生租屋調查，指出大專校院宿舍供給不足、抽籤程序緩慢，導致學生得知結果後，僅能倉促找房源、匆促決定。對此，教育部表示，各校入學報到、新舊生人數不同，宿舍抽籤作業期程也不一，會邀集各校討論，督導並鼓勵各校儘早辦理抽籤、建立公開的床位候補機制。",
+    "published_at": "2026-11-18T21:46:00+08:00",
+    "stocks": [],
+    "uid": "4d585f368dd47358d860049ce7b1bce7"
+  },
+  {
+    "title": "台灣新創育成年會登場  聚焦AI商業化與產業共創",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5645596",
+    "source": "自由財經",
+    "summary": "隨著AI技術快速發展，創新應用加速導入製造、醫療等實體產業，如何跨越技術研發與商業化之間的落差，成為台灣新創企業面臨的重要課題。資策會協辦的「2026台灣新創育成產業年會...…",
+    "published_at": "2026-11-18T21:43:07+08:00",
+    "stocks": [],
+    "uid": "23b3bd184a90aee993e2b0e276a92a40"
+  },
+  {
+    "title": "IBM 新量子處理器 IBM Quantum Nighthawk r3 問世 厲害在哪？",
+    "url": "https://money.udn.com/money/story/5612/9887471",
+    "source": "經濟日報股市",
+    "summary": "IBM於18日公布下一代量子處理器IBM Quantum Nighthawk r3。新處理器將支援在520個量子位元上準確執行1 萬次量子操作，較今年9月剛上線的120個可編程位元的Nighthawk r2 ，可編程位元數暴增4.3倍來到520個，是目前能維持高保真度與高電路深度的最大規模單一超導處理器。",
+    "published_at": "2026-11-18T21:42:38+08:00",
+    "stocks": [],
+    "uid": "aa90837ec996fbef8816a74e76353bed"
+  },
+  {
+    "title": "Nike 端出五年復甦計畫 豐泰、寶成、志強等製鞋大廠可望受惠",
+    "url": "https://money.udn.com/money/story/5612/9887473",
+    "source": "經濟日報股市",
+    "summary": "Nike近期公布備受市場關注的五年復甦計畫，隨著品牌方大刀闊斧展開結構性調整與供應鏈優化，法人預期，台灣主要鞋類代工與供應鏈大廠如豐泰（9910）、寶成（9904）與志強（6768）等，均有望因此受惠，逐步走出谷底。",
+    "published_at": "2026-11-18T21:38:30+08:00",
+    "stocks": [
+      "9910",
+      "9904",
+      "6768"
+    ],
+    "uid": "695abe8931751aa5bae380eee444acfb"
+  },
+  {
+    "title": "喬山法說會／商用健身需求熱 全年營收拚新高、越南廠支應至2028年",
+    "url": "https://money.udn.com/money/story/5612/9887467",
+    "source": "經濟日報股市",
+    "summary": "全球健身器材大廠喬山健康科技（1736）18日舉行第3季法說會，喬山業務部副總經理兼發言人羅雅芳表示，全球商用健身器材市場需求持續熱絡，越南新廠投產效益也逐步顯現，預計能完整支應至2028年的訂單需求。",
+    "published_at": "2026-11-18T21:37:04+08:00",
+    "stocks": [
+      "1736"
+    ],
+    "uid": "c9e8b06c60a22835e1cacf8a20d75997"
+  },
+  {
+    "title": "散戶還不死心！今日上市融資僅減6.95億元",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5645582",
+    "source": "自由財經",
+    "summary": "台股早盤受到輝達財報與展望優於預期的激勵，一度大漲846.09點，但適逢外資壓低台指期結算，加上近期AI概念股崩跌速度太快，停損賣壓大舉出籠，從高點跳水急殺逾1677.2...…",
+    "published_at": "2026-11-18T21:36:01+08:00",
+    "stocks": [],
+    "uid": "8e4d5582ecfee74ca185bab2ff4551b2"
+  },
+  {
+    "title": "輝達首場「沒有黃仁勳」員工大會要來了！　新女CEO迎考驗",
+    "url": "https://finance.ettoday.net/news/3274556",
+    "source": "ETtoday",
+    "summary": "<img alt=\"輝達首場「沒有黃仁勳」員工大會要來了！　新女CEO迎考驗\" src=\"https://cdn2.ettoday.net/images/8766/c8766827.jpg\" /><br /> 輝達（NVIDIA）創辦人黃仁勳辭去總裁、執行長及董事3項職務後，公司預定台灣時間明（19）日凌晨1時舉行首場「沒有黃仁勳」的全體員工大會，由代理執行長克瑞斯（Colette Kress）首次以新掌門人身分面對員工。不過，黃仁勳回鍋聲浪持續升高，不僅傳出已與董事接觸，網路上更有逾萬名自稱輝達員工的連署者力挺，讓克瑞斯接班後的第一場全員大會格外受到關注。 <a href=\"https://finance.ettoday.net/news/3274556\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-11-18T21:36:00+08:00",
+    "stocks": [],
+    "uid": "f4ebbfdc417c16a295cb05e8e4d991a7"
+  },
+  {
+    "title": "陷超額頻寬爭議！台哥大想無條件併台灣之星 提告NCC吞敗",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5645577",
+    "source": "自由財經",
+    "summary": "台灣大哥大公司2022年2月向國家通訊傳播委員會（NCC）申請合併台灣之星公司，通傳會附帶附款核准，要求台灣大哥大限期整併網路、繳回超額頻寬；台灣大哥大不服，提起行政訴訟...…",
+    "published_at": "2026-11-18T21:30:24+08:00",
+    "stocks": [],
+    "uid": "fc466f6245378b8ffcc0c4c9d69d76df"
+  },
+  {
+    "title": "世界健身法說會／未來三年展店不歇腳 估到2029年台灣與泰國共增48店",
+    "url": "https://money.udn.com/money/story/5612/9887460",
+    "source": "經濟日報股市",
+    "summary": "世界健身-KY（2762）18日召開第3季法說會，董事長柯約翰表示，在運動健身風潮引領下，健身市場持續加速成長，他也宣布未來三年展店計畫，預計到2029年，台灣與泰國合計要再開出48店，其中泰國預計新增12店。",
+    "published_at": "2026-11-18T21:27:38+08:00",
+    "stocks": [],
+    "uid": "7fbaddeff31c09e99e3be201bad28d91"
+  },
+  {
+    "title": "信邦電子捐輪椅、嬰兒車挺台灣燈會在苗栗 老董大曝心情故事",
+    "url": "https://money.udn.com/money/story/5612/9887174",
+    "source": "經濟日報股市",
+    "summary": "2027台灣燈會在苗栗，信邦電子集團今天捐贈200台輪椅及100台嬰幼兒手推車，老幼或行動不便者也能輕鬆觀賞燈會，代表捐贈的信邦電子董事長王紹新大曝內心話，慶幸公司在苗栗起家，賺了錢回饋社會，捐助學校蓋圖書館及獎助學金，拋磚引玉希望把愛傳承下去。",
+    "published_at": "2026-11-18T21:22:13+08:00",
+    "stocks": [],
+    "uid": "f8f5feed90db103b13ceefe19fd39f11"
+  },
+  {
+    "title": "蝦皮全站大免運助中小賣家突圍！小型選物店Penny Studio業績年增141%",
+    "url": "https://money.udn.com/money/story/5612/9887096",
+    "source": "經濟日報股市",
+    "summary": "根據經濟部最新發布的2025中小企業白皮書統計，全台目前已有171.6萬家中小微企業，其中獨資與合夥的微型店家就占了102.9萬家，比重高達6成（60%），隨著數位消費趨勢發展，線上通路也成為創業者拓展市場的重要選擇。蝦皮購物自2026年起推出的「全站大免運」，正為資源有限的中小賣家提供強大助力，不僅大幅提升商品曝光與轉單率，更幫助小店在無需負擔高額行銷成本的情況下接觸廣大客群。",
+    "published_at": "2026-11-18T21:22:12+08:00",
+    "stocks": [],
+    "uid": "d91b7e1e22227f9fce4b78157e868bf1"
+  },
+  {
+    "title": "藥局倒閉潮真相曝光 去年321家歇業 新開逾2成退場 小藥局經營壓力大",
+    "url": "https://money.udn.com/money/story/5612/9886687",
+    "source": "經濟日報股市",
+    "summary": "全台社區藥局近期頻傳歇業，引發「藥局倒閉潮」疑慮，但從統計數據來看，藥局總數有小幅增加。台灣社區藥學會副秘書長蕭力禓指出，國內藥局從過去逐年成長，轉為近年開業與歇業家數相近的持平狀態。其中，處方箋調劑量較少的小型藥局，面臨較大的經營壓力，歇業風險也相對較高。",
+    "published_at": "2026-11-18T21:22:07+08:00",
+    "stocks": [],
+    "uid": "ca312a3239282902f56e991f0979c2c3"
+  },
+  {
+    "title": "愈滾愈大！黃仁勳女兒和女婿被爆越權指導Megaspeed審查 員工吐「他們權力很大 沒人能對他們說不」",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5645486",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕黃仁勳的女兒黃敏珊（Madison Huang）曾密切參與策劃公開辯護輝達與總部位於新加坡的Megaspeed公司之間的關係，英國金融時報報導，這凸顯了黃仁勳家族如何影響輝...…",
+    "published_at": "2026-11-18T21:05:06+08:00",
+    "stocks": [],
+    "uid": "60131eb089c3001f9a6b39db49828765"
+  },
+  {
+    "title": "罕見連環爆！AI鏈驚見鉅額違約交割 創意、華通等9檔合計4.27億元",
+    "url": "https://news.cnyes.com/news/id/6666606",
+    "source": "鉅亨網",
+    "summary": "受輝達共同創辦人黃仁勳下台消息衝擊，台股16日重挫，今18日交割日爆出9檔個股鉅額違約交割。&#10;上市櫃違約總金額達4億2,694萬6,248元，集中於AI伺服器、散熱、PCB及半導體供應鏈。&#10;創意、華通、欣興、金像電及雙鴻、精材、穩懋等多檔高價股遭申報，反映急跌下資金交割壓力大。",
+    "published_at": "2026-11-18T21:05:01+08:00",
+    "stocks": [],
+    "uid": "b85df1eecfb0c258c3c45f0a5b0d70e5"
+  },
+  {
+    "title": "黃仁勳國會約談日期確定了！外遇爆國安疑慮 12/1赴眾議院",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5645567",
+    "source": "自由財經",
+    "summary": "輝達（Nvidia）執行長黃仁勳因與疑似中國女間諜發生婚外情並引發國安疑慮而辭職後，17日首度發出公開聲明感謝各界的支持，承諾將配合董事會調查，並說如果董事會提出要求，他...…",
+    "published_at": "2026-11-18T21:02:16+08:00",
+    "stocks": [],
+    "uid": "975810580d3d2b1862a68f8e53f5c167"
+  },
+  {
+    "title": "新北再生醫療公會串聯北竹業者 理事長邱俊榮籲法規兼顧產業發展",
+    "url": "https://money.udn.com/money/story/5612/9887439",
+    "source": "經濟日報股市",
+    "summary": "《再生醫療雙法》上路即將屆滿一周年，台灣生技產業正處於接軌國際的黃金期。新北市再生醫療商業同業公會理事長邱俊榮18日表示， 新北公會已成功串聯台北市、新竹縣同業，建構「台灣再生醫療黃金三角」 ，並於 10 月領軍公會成員前往日本橫濱 BioJapan 展會，透過盛大的「台灣之夜」直接對接國際大廠，將台灣的細胞製造實力實質推向全球供應鏈。",
+    "published_at": "2026-11-18T21:02:11+08:00",
+    "stocks": [],
+    "uid": "6e77b65182761d59039f6951ebd227c6"
+  },
+  {
+    "title": "優群伺服器、電信訂單逐步放量 明年營運拚雙位數成長",
+    "url": "https://news.cnyes.com/news/id/6666608",
+    "source": "鉅亨網",
+    "summary": "優群估今年受筆電需求疲弱、記憶體缺料與漲價影響，營收年減、毛利率下滑。&#10;明年動能看伺服器及電信，Google專案明年Q1量產，營收目標年增雙位數。&#10;電信占比估由5%升至10%，筆電降至50%；越南廠將導入新產品，稼動率可望改善。",
+    "published_at": "2026-11-18T20:58:08+08:00",
+    "stocks": [
+      "TWS:3217:STOCK"
+    ],
+    "uid": "922e6871f4598f748d822fe37352f332"
+  },
+  {
+    "title": "黃仁勳回鍋無望？營收亮眼難抵換帥衝擊！野村看台股有戲：4大族群將「倒吃甘藨」",
+    "url": "https://news.cnyes.com/news/id/6666601",
+    "source": "鉅亨網",
+    "summary": "輝達Q3營收1158億美元、年增103%，但黃仁勳請辭及回鍋爭議成焦點，董事長瓊斯拒絕他回任並啟動接班人遴選。&#10;美國BIS祭新出口管制，嚴格限制先進晶片與伺服器遠端存取，市場憂全球AI供應鏈成本與交付變數升高。&#10;野村認為AI基建是遞延非取消，台灣AI供應鏈與先進封裝、散熱、電源等族群將受惠。",
+    "published_at": "2026-11-18T20:58:00+08:00",
+    "stocks": [],
+    "uid": "7fb84ccf4a6ca2ffb2ca81f3ad9f1533"
+  },
+  {
+    "title": "三商家購股東臨時會通過組織重整 明年元旦起更名為眾聯投控",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5645573",
+    "source": "自由財經",
+    "summary": "三商家購（2945）股東臨時會通過組織重整案，並更名為眾聯投控，轉型投資控股公司，美廉社等零售通路事業將分割至100%持有之子公司富達零售公司，本次組織重整暫定以2027...…",
+    "published_at": "2026-11-18T20:56:02+08:00",
+    "stocks": [
+      "2945"
+    ],
+    "uid": "f4eb255927775225ee1f765e33f9046f"
+  },
+  {
+    "title": "純買AI股不再穩賺不賠 分析師警告：過度押注變負擔「無腦交易」時代結束了",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5645564",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕華爾街分析師發出警告，單純購買人工智慧股票不再是穩賺不賠；市場對人工智慧的過度押注如今可能變成一種負擔。由於人們對人工智慧投資的財務回報日益擔憂，半導體股票未有緩解之勢。輝...…",
+    "published_at": "2026-11-18T20:46:06+08:00",
+    "stocks": [],
+    "uid": "a6fc830c3d96e5e7c0cac6dbc7f52952"
+  },
+  {
+    "title": "元太：資訊系統疑遭駭客攻擊 初估營運暫無重大影響",
+    "url": "https://money.udn.com/money/story/5612/9887421",
+    "source": "經濟日報股市",
+    "summary": "電子紙廠元太科技今天發布重大訊息公告，公司資訊系統疑似遭受駭客網路攻擊，初步評估對公司營運暫無重大影響",
+    "published_at": "2026-11-18T20:45:37+08:00",
+    "stocks": [],
+    "uid": "f1e5c5a008201766903fb7d7cd1973b7"
+  },
+  {
+    "title": "今彩539第115279期開獎",
+    "url": "https://www.cna.com.tw/news/ahel/202611180338.aspx",
+    "source": "中央社",
+    "summary": "（中央社台北18日電）今彩539第115279期開獎，中獎號碼39、35、22、27、20。3星彩中獎號碼687，4星彩中獎號碼2844。",
+    "published_at": "2026-11-18T20:43:37+08:00",
+    "stocks": [],
+    "uid": "721303454ac5f8b5e0b5b4ab6a434c47"
+  },
+  {
+    "title": "元太：資訊系統疑遭駭客攻擊　初估營運暫無重大影響",
+    "url": "https://www.cna.com.tw/news/afe/202611180336.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者潘智義台北18日電）電子紙廠元太科技今天發布重大訊息公告，公司資訊系統疑似遭受駭客網路攻擊，初步評估對公司營運暫無重大影響。",
+    "published_at": "2026-11-18T20:37:33+08:00",
+    "stocks": [],
+    "uid": "db79d333beece54e9407442c458350cf"
+  },
+  {
+    "title": "黃仁勳醜聞燒進白宮！民主黨開查盧特尼克 疑濫用職權幫兒子避險",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5645490",
+    "source": "自由財經",
+    "summary": "輝達前執行長黃仁勳捲入中國間諜風波持續延燒，風暴直撲川普政府要員！美國眾議院民主黨議員18日對商務部長盧特尼克（Howard Lutnick）展開調查，釐清其是否利用職權，...…",
+    "published_at": "2026-11-18T20:33:00+08:00",
+    "stocks": [],
+    "uid": "71ad75486f22c3f2775e429e39803934"
+  },
+  {
+    "title": "4年前就牽線！外媒爆輝達「引介黃樂」搭上阿里巴巴 繞過晶片禁令",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5645515",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕外媒揭露，輝達（NVIDIA）在拜登政府執政期間，曾協助中國阿里巴巴集團與黃仁勳緋聞對象黃樂（Alice Huang）建立業務聯繫。相關安排發生於2022年時，美國當時正逐...…",
+    "published_at": "2026-11-18T20:28:58+08:00",
+    "stocks": [],
+    "uid": "46a299ec4763cdd66a87184062427be6"
+  },
+  {
+    "title": "安勤明年營收拚雙位數成長 半導體伺服器成新動能",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5645531",
+    "source": "自由財經",
+    "summary": "工業電腦廠安勤（3479）受惠於半導體設備、醫療、軍工及零售應用需求持續擴大，總經理張嘉哲今天在法說會表示，今年營收有機會改寫歷史新高，明年仍以雙位數成長為目標，預期至少...…",
+    "published_at": "2026-11-18T20:16:08+08:00",
+    "stocks": [
+      "3479"
+    ],
+    "uid": "d141f6270e1b6f9083739a802052e23d"
+  },
+  {
+    "title": "安勤工業、醫療及零售三大動能接力 明年營運估雙位數成長",
+    "url": "https://news.cnyes.com/news/id/6666578",
+    "source": "鉅亨網",
+    "summary": "安勤估今年營運創高、明年營收年增至少10%，工業、醫療、零售為三大成長動能。&#10;工業業務受半導體設備1U伺服器、伺服器訂單及日本停車場專案帶動，明年成長最強。&#10;毛利率受記憶體漲價、低毛利代採購與報價機制磨合影響承壓。",
+    "published_at": "2026-11-18T20:10:39+08:00",
+    "stocks": [
+      "TWS:3479:STOCK"
+    ],
+    "uid": "515d6d0ce0d34c0f5ec0f219cc6f597f"
+  },
+  {
+    "title": "川習會前示警！台海進入關鍵24個月 美報告揭中國封鎖台灣風險",
+    "url": "https://news.cnyes.com/news/id/6666549",
+    "source": "鉅亨網",
+    "summary": "USCC年報警告，未來24個月是觀察北京對台策略關鍵期，若政治施壓失效，可能轉向海上隔離或封鎖。&#10;委員會籲美國與盟友預擬應變，並強調台灣攸關印太平衡、美國科技領導與供應鏈安全。&#10;報告同時點名中國AI模型、出口管制漏洞與供應鏈/量子風險，建議揭露使用中製AI並加強BIS管制。",
+    "published_at": "2026-11-18T20:00:42+08:00",
+    "stocks": [],
+    "uid": "32d5bbd816c5b65f10a0e1eb01763f22"
+  },
+  {
+    "title": "國銀外幣存款旺 9月增額5243億創歷史次高",
+    "url": "https://money.udn.com/money/story/5612/9887344",
+    "source": "經濟日報股市",
+    "summary": "金管會統計顯示，本國銀行截至今年9月底外幣存款餘額達新台幣17兆5760億元，續創歷史新高，月增額5243億元創史上次高...",
+    "published_at": "2026-11-18T20:00:22+08:00",
+    "stocks": [],
+    "uid": "a94e24febfcbc6725ea1fb3c5264ecea"
+  },
+  {
+    "title": "最低工資再調漲 勞保投保分級表縮至10級、306萬勞工保費調升",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5645510",
+    "source": "自由財經",
+    "summary": "配合最低工資自116年1月1日起調整為30900元，勞動部17日已修正並公告「勞工保險投保薪資分級表」、「勞工職業災害保險投保薪資分級表」，自116年1月1日起，第1級投...…",
+    "published_at": "2026-11-18T19:57:11+08:00",
+    "stocks": [],
+    "uid": "db6ef7952c01e7160be72a5881c363bc"
+  },
+  {
+    "title": "央行12月升息在即？ 三三會預期難避免、再籲政府助企業度過難關",
+    "url": "https://news.cnyes.com/news/id/6666548",
+    "source": "鉅亨網",
+    "summary": "楊金龍釋出下月升息風向，多家金融機構也預期央行12月已具備升息條件。&#10;金控指出台幣受外資賣超、AI資本支出疑慮影響貶近33元，輸入性通膨與台美利差壓力升高。&#10;林伯豐稱升息恐難避免，籲政府在融資、租稅優惠與人才培育上協助企業度過難關。",
+    "published_at": "2026-11-18T19:51:42+08:00",
+    "stocks": [],
+    "uid": "88aded9e28a9f92e6204c2a2746b23c7"
+  },
+  {
+    "title": "國銀外幣存款旺　9月增額5243億創歷史次高",
+    "url": "https://www.cna.com.tw/news/afe/202611180329.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者蘇思云台北18日電）金管會統計顯示，本國銀行截至今年9月底外幣存款餘額達新台幣17兆5760億元，續創歷史新高，月增額5243億元創史上次高，累計前3季外幣存款增額近2.2兆元。金管會表示，主要是法人客戶營收入帳、海外發債籌資、投資款匯回與美元升值等因素帶動。",
+    "published_at": "2026-11-18T19:49:17+08:00",
+    "stocks": [],
+    "uid": "021f21ed2dbaff8504874ed2c1cb2b69"
+  },
+  {
+    "title": "政府10月資安通報達去年3倍！某機關爆驗證漏洞 發現34組異常帳號",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5645509",
+    "source": "自由財經",
+    "summary": "政府資安威脅持續升高，資通安全署16日公布的10月《資通安全網路月報》顯示，當月資安事件通報共160件，為去年同期的3.02倍，其中以非法入侵為大宗。此外，資安署同時揭露...…",
+    "published_at": "2026-11-18T19:47:43+08:00",
+    "stocks": [],
+    "uid": "09649b1673823d19f0e0ffda40484967"
+  },
+  {
+    "title": "APEC幕後》不走霸道邏輯！施振榮「新王道」定調台灣AI戰略：做全世界的朋友",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5645497",
+    "source": "自由財經",
+    "summary": "在全球供應鏈從「效率優先」轉向「安全與韌性優先」的變局下，身處地緣政治最前線的台灣未被邊緣化，還在動盪中展現出令國際驚艷的經濟韌性。知情人士表示，本屆APEC領袖代表、宏碁...…",
+    "published_at": "2026-11-18T19:45:08+08:00",
+    "stocks": [],
+    "uid": "8dd72137d9e9f10d8b5abec1570ab25a"
+  },
+  {
+    "title": "台股交易新制來了！12/7零股首撮提前10分鐘　千元股明年7月降至1元跳動",
+    "url": "https://www.mirrormedia.mg/story/20261118edi072",
+    "source": "鏡週刊財經",
+    "summary": "<p>台股交易制度即將迎來兩階段調整，台灣證券交易所今（18日）宣布，為提升市場交易效率及價格品質，自今年12月7日起，盤中零股交易委託申報及交易時間將提前，與整股交易同步；第二階段則預計於2027年7月5日上路，除了千元以上股票的升降單位將從5元調降至1元，盤中零股撮合間隔也將從5秒縮短至1秒，讓投資人有更即時的交易機會。</p>",
+    "published_at": "2026-11-18T19:43:00+08:00",
+    "stocks": [],
+    "uid": "22ddbd50637e5ac7700b3bcbd8aed76e"
+  },
+  {
+    "title": "外資續匯出  新台幣貶9.7分收32.947元",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5645495",
+    "source": "自由財經",
+    "summary": "台股今收盤翻紅上漲102點，守住4萬大關，但外資持續賣超台股，新台幣貶值壓力沉重，盤中一度摜破33元整數關卡，尾盤中央銀行進場調節，新台幣貶幅縮小，終場貶值9.7分，以3...…",
+    "published_at": "2026-11-18T19:40:04+08:00",
+    "stocks": [],
+    "uid": "9528d3accc16055091e38a5666766394"
+  },
+  {
+    "title": "崇越科技深化職場健康管理 榮獲健康企業公民獎亞軍",
+    "url": "https://money.udn.com/money/story/5612/9887293",
+    "source": "經濟日報股市",
+    "summary": "半導體關鍵材料整合服務商崇越科技長期深耕職場健康管理與永續發展，於康健雜誌主辦的「2026 CHR健康企業公民獎」中，榮獲大型企業服務業第二名，並同步獲得天下雜誌「2026天下永續公民獎」及「2026天下人才永續獎」肯定。從員工健康照護、永續營運到科技人才培育，崇越科技將永續理念落實於企業治理與組織文化，持續提升員工福祉、厚植人才實力，展現企業兼顧經營績效與永續責任的具體成果。",
+    "published_at": "2026-11-18T19:34:51+08:00",
+    "stocks": [],
+    "uid": "cbbbe3b7025fae32f8b0fafe2e5fa834"
+  },
+  {
+    "title": "美媒：輝達2022年牽線阿里巴巴與黃樂　涉助規避美晶片管制",
+    "url": "https://www.cna.com.tw/news/aopl/202611180324.aspx",
+    "source": "中央社",
+    "summary": "（中央社舊金山18日綜合外電報導）科技媒體The Information引述匿名消息人士報導，2022年，美國實施先進半導體出口管制前數月，輝達銷售團隊將阿里巴巴介紹給如今被懷疑是中國間諜的黃樂，促成雙方日後在輝達晶片相關業務上的合作。",
+    "published_at": "2026-11-18T19:30:06+08:00",
+    "stocks": [],
+    "uid": "ef926b62ef4fabc11eaf934b76c5eebb"
+  },
+  {
+    "title": "上品法說會／在手訂單成長至80億元 董座：預期明年營收至少成長四成",
+    "url": "https://money.udn.com/money/story/5612/9887282",
+    "source": "經濟日報股市",
+    "summary": "上品（4770）18日舉行業績說明會。董事長侯嘉生表示，迄至目前在手訂單提升至80億元，相較於9月時的75億元，再增加5億元，且隨電子化學品業者加速擴廠，他預計「第4季也會很精彩」。展望明年，他更預期，整體營收至少較今年再成長四成。",
+    "published_at": "2026-11-18T19:28:59+08:00",
+    "stocks": [
+      "4770"
+    ],
+    "uid": "04b353419e0e00acabecdd8cfe2469a8"
+  },
+  {
+    "title": "AI「金流」大洗牌！Q3全球創投飆1709億美元 3大關鍵產業帶動台鏈發光",
+    "url": "https://news.cnyes.com/news/id/6666531",
+    "source": "鉅亨網",
+    "summary": "全球創投Q3完成8341件、投資1709億美元，資金集中於具規模與技術門檻企業。&#10;AI投資重心轉向算力、能源、資料中心與機器人，單季35筆10億美元以上巨案。&#10;亞洲投資398億美元、中國272億美元；台灣若結合半導體與硬體優勢，有望受惠。",
+    "published_at": "2026-11-18T19:26:48+08:00",
+    "stocks": [],
+    "uid": "0f4436b7589dcae17c8540b5f68e75d0"
+  },
+  {
+    "title": "碩正12月中旬將上櫃 先進封裝離型膜打破日商壟斷",
+    "url": "https://money.udn.com/money/story/5612/9887276",
+    "source": "經濟日報股市",
+    "summary": "半導體封裝膜類材料業者碩正科技（7669）預計12月中旬轉上櫃，並於18日舉行上櫃前業績發表會。董事長楊允斌表示，該公司從光學膜技術出發，以精密塗佈技術為核心，目前成為先進封裝離型膜及研磨膠帶之重要國內業者，產品並已打入一線封裝、OSAT大廠。隨AI帶動高效能運算需求，晶圓龍頭與封測大廠積極擴產，明年隨桃園二廠投產、研磨膠帶放量，營運有望再上層樓。",
+    "published_at": "2026-11-18T19:24:04+08:00",
+    "stocks": [
+      "7669"
+    ],
+    "uid": "fcd87545928bc4c784b5fc57e83b96f0"
+  },
+  {
+    "title": "上櫃5檔違約交割達揭露門檻 今年單日最多",
+    "url": "https://money.udn.com/money/story/5612/9887273",
+    "source": "經濟日報股市",
+    "summary": "櫃買中心今天公告，雙鴻、精材、穩懋、精測及金山電等5檔上櫃股票達違約資訊揭露標準，檔數為今年單一申報日最多，其中以雙鴻個...",
+    "published_at": "2026-11-18T19:21:25+08:00",
+    "stocks": [
+      "8042",
+      "6510"
+    ],
+    "uid": "962f711d0ad25f50bd773d1247daf342"
+  },
+  {
+    "title": "黃仁勳效應恐放緩！雙鴻 ASIC 將超車 GPU 林育申：偏執狂逼出極限速度",
+    "url": "https://money.udn.com/money/story/5612/9887263",
+    "source": "經濟日報股市",
+    "summary": "散熱大廠雙鴻科技受惠美系CSP客戶ASIC液冷方案12月開始出貨，明年3～4家客戶放量，2027年ASIC營收將超過GPU，使年營收成長性更勝今年；董事長林育申談黃仁勳請辭效應，坦言黃是偏執狂，供應鏈要調整才跟得上速度，他離開整個AI供應鏈速度可能因此放慢。",
+    "published_at": "2026-11-18T19:14:38+08:00",
+    "stocks": [],
+    "uid": "af756b94ee5d3d34586445c9c7a19549"
+  },
+  {
+    "title": "上櫃5檔違約交割達揭露門檻　今年單日最多",
+    "url": "https://www.cna.com.tw/news/afe/202611180317.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者何秀玲台北18日電）櫃買中心今天公告，雙鴻、精材、穩懋、精測及金山電等5檔上櫃股票達違約資訊揭露標準，檔數為今年單一申報日最多，其中以雙鴻個股違約總金額新台幣6465萬6000元為今天5檔中最高，穩懋則是今年第4度達揭露標準。",
+    "published_at": "2026-11-18T19:13:51+08:00",
+    "stocks": [
+      "8042",
+      "6510"
+    ],
+    "uid": "a1fb7f511c453a33127a73f5ebad7e38"
+  },
+  {
+    "title": "逾7成歐商對台灣按讚！建議推「雙軌經濟」國發會籲簽署台歐免雙重課稅協定",
+    "url": "https://news.cnyes.com/news/id/6666491",
+    "source": "鉅亨網",
+    "summary": "歐洲商會提2027建議書，盼政府縮小產業差距、推動雙軌經濟，讓AI紅利擴散至整體產業，降低泡沫風險。&#10;葉俊顯稱去年台歐貿易近750億美元、台商赴歐投資10年增6.5倍，盼簽署避免雙重課稅與投保協定。&#10;歐商肯定台灣經商環境逾7成受訪者認可，政府已推AI新十大建設、人才延攬修法及高雄資產管理專區等措施。",
+    "published_at": "2026-11-18T19:08:04+08:00",
+    "stocks": [],
+    "uid": "ece506dc6321ca3815d67c73b4eb44d3"
+  },
+  {
+    "title": "黃仁勳造成輝達222兆元損失 外媒嚴批辜負所有人信任",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5645457",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕黃仁勳在輝達的成功中也扮演重要角色，如今他已辭去執行長，華爾街分析師給出的輝達目標股價也隨之暴跌。The Motley Fool報導，一位知名分析師表示，黃仁勳的離職造成輝...…",
+    "published_at": "2026-11-18T19:06:44+08:00",
+    "stocks": [],
+    "uid": "4b65a0c216a988f077a8717316dbb727"
+  },
+  {
+    "title": "三三會攜手工研院簽MOU 力促產業與研發機構開創新契機",
+    "url": "https://news.cnyes.com/news/id/6666496",
+    "source": "鉅亨網",
+    "summary": "三三會今與工研院簽署MOU，林伯豐稱象徵產業界與科技研發機構合作邁入新階段。&#10;工研院長期投入半導體、材料、機械、資通訊、生醫及能源研發，近年也布局無人機、無人載具船、機器狗。&#10;雙方盼對接產業需求與研發能量，促進技術交流、創新應用與跨領域合作，為台灣經濟注入新動能。",
+    "published_at": "2026-11-18T19:04:03+08:00",
+    "stocks": [],
+    "uid": "f41ebb97219d92c46dd2bba43a40e714"
+  },
+  {
+    "title": "三三會與工研院簽MOU 共推產業升級 聚焦AI應用、人才培育及國際合作",
+    "url": "https://money.udn.com/money/story/5612/9887243",
+    "source": "經濟日報股市",
+    "summary": "三三會18日與工研院簽署合作備忘錄（MOU），雙方將聚焦跨領域創新、人才共育及國際鏈結三大方向，結合企業市場需求與工研院研發能量，加速人工智慧（AI）等新興科技導入產業，協助企業提升競爭力及拓展國際商機。",
+    "published_at": "2026-11-18T19:02:51+08:00",
+    "stocks": [],
+    "uid": "8ff91e1b4e4356f5ec832d06e91f0c2e"
+  },
+  {
+    "title": "嘉聯益Q3營收創8季新高毛利率轉正虧損收歛 2027年拼營運成長",
+    "url": "https://news.cnyes.com/news/id/6666492",
+    "source": "鉅亨網",
+    "summary": "嘉聯益第三季營收16.73億元，創8季高，毛利率2.25%轉正，稅後虧損收斂至1.7億元、每股虧損0.27元。&#10;1-9月營收44.04億元，稅後虧損7.2億元，較去年同期18.02億元虧損明顯改善。&#10;嘉聯益將聚焦高階產品與AI裝置、折疊式手機、AR/VR、醫療、車用等應用，力拚2027年營運成長。",
+    "published_at": "2026-11-18T19:02:43+08:00",
+    "stocks": [
+      "TWS:6153:STOCK"
+    ],
+    "uid": "17230b2017782f72bead44c061fe7dc1"
+  },
+  {
+    "title": "證交所：創意、欣興、金像電、華通違約交割　合計2.66億",
+    "url": "https://www.cna.com.tw/news/afe/202611180316.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者曾仁凱台北18日電）台灣證券交易所今天公告，包括創意、欣興、金像電、華通等4家上市公司，出現鉅額違約交割，合計違約金額達新台幣2.66億元。其中華通和欣興為今年第2度發生鉅額違約交割。",
+    "published_at": "2026-11-18T19:01:48+08:00",
+    "stocks": [],
+    "uid": "f0b2a9f1703e004594664ee0e34dbfde"
+  },
+  {
+    "title": "國稅局：營利事業因訴訟獲損害賠償金　應認列收入",
+    "url": "https://money.udn.com/money/story/5612/9887229",
+    "source": "經濟日報股市",
+    "summary": "財政部台北國稅局今天表示，企業等營利事業因民事訴訟取得損害賠償金，應在法院判決確定的那一年度認列收入，並申報營利事業所得...",
+    "published_at": "2026-11-18T19:00:25+08:00",
+    "stocks": [],
+    "uid": "f39e6c154f0b9fad323f8e5658dc0ae2"
+  },
+  {
+    "title": "群聯參展SC26發表三大新世代儲存技術 突破AI與HPC資料傳輸及儲存瓶頸",
+    "url": "https://news.cnyes.com/news/id/6666495",
+    "source": "鉅亨網",
+    "summary": "",
+    "published_at": "2026-11-18T18:57:12+08:00",
+    "stocks": [
+      "TWS:8299:STOCK"
+    ],
+    "uid": "9772f7a84330910b9fabe9d3f47869ad"
+  },
+  {
+    "title": "搶攻百億非紅儲能商機 立碁攜台塑新智能切入微電網、明年動能看增",
+    "url": "https://money.udn.com/money/story/5612/9887223",
+    "source": "經濟日報股市",
+    "summary": "立碁（8111）攜手台塑（1301）集團旗下台塑新智能簽署合作協議，正式切入台灣微電網建置市場，搶攻政府數百億元電網韌性與防災儲能標案商機。立碁表示，雙方合作的首個指標案已開始貢獻營收，隨後續多個離島標案陸續展開，明年相關業務營運表現看增。",
+    "published_at": "2026-11-18T18:52:31+08:00",
+    "stocks": [
+      "8111",
+      "1301"
+    ],
+    "uid": "129033f6df6ec96afe35f8f4a0edc8e5"
+  },
+  {
+    "title": "國稅局：營利事業因訴訟獲損害賠償金　應認列收入",
+    "url": "https://www.cna.com.tw/news/afe/202611180312.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者高華謙台北18日電）財政部台北國稅局今天表示，企業等營利事業因民事訴訟取得損害賠償金，應在法院判決確定的那一年度認列收入，並申報營利事業所得稅。先前有公司因漏報損害賠償收入新台幣1000萬元，遭國稅局補稅200多萬元，並處罰80多萬元。",
+    "published_at": "2026-11-18T18:51:39+08:00",
+    "stocks": [],
+    "uid": "4e97ace5dfca990f03f2d6cf39e99539"
+  },
+  {
+    "title": "普發1萬何時可領？財長最新回應曝光",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5645454",
+    "source": "自由財經",
+    "summary": "財政部長莊翠雲今在立法院財政委員會答詢時重申，如果明年度中央政府總預算案能在明年1月5日前完成三讀，總統於1月20日前公布，最快可於1月26日領到普發1萬元。她指出，政府...…",
+    "published_at": "2026-11-18T18:51:38+08:00",
+    "stocks": [],
+    "uid": "8faea7cb4e28df118d9c857a273da736"
+  },
+  {
+    "title": "違約交割爆出近5億元大量 9檔熱門股中彈",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5645446",
+    "source": "自由財經",
+    "summary": "輝達（NVIDIA）共同創辦人黃仁勳在多重風暴下辭職，引發AI產業震盪，週一（16日）台股大跌，今日證交所、櫃買中心公告，上市櫃共計有9檔個股違約交割，分別為創意（344...…",
+    "published_at": "2026-11-18T18:47:38+08:00",
+    "stocks": [
+      "3167",
+      "3443"
+    ],
+    "uid": "e398316186108ef1394f798033f17fd1"
+  },
+  {
+    "title": "友輝：投入光波導與半導體封裝領域　拚2027、2028年放量",
+    "url": "https://money.udn.com/money/story/5612/9887217",
+    "source": "經濟日報股市",
+    "summary": "液晶顯示器背光模組聚光片廠友輝總經理辛隆賓表示，明年第1季筆電需求恐依然不理想，增亮膜等筆電背光模組相關模材也跟著不好，...",
+    "published_at": "2026-11-18T18:45:28+08:00",
+    "stocks": [],
+    "uid": "94abe0194dc59ce2cd91a0590914c6bc"
+  },
+  {
+    "title": "威剛12強棒球紀錄片《冠軍之路》勇奪文策院文化影響力大獎",
+    "url": "https://money.udn.com/money/story/5612/9887208",
+    "source": "經濟日報股市",
+    "summary": "由威剛科技、中華職棒共同出品，年度最熱血紀錄片《冠軍之路》榮獲文化內容策進院第二屆「ESG for Culture影響力獎」評選之文化影響力大獎及文化策略投資獎。威剛實踐科技業Innovate to Inspire精神，整合企業資源、在地IP與影視專業，完整記錄2024世界棒球12強賽奪冠歷程，保存跨世代的共同記憶。",
+    "published_at": "2026-11-18T18:37:43+08:00",
+    "stocks": [],
+    "uid": "f84818d672c6655de9fe69f88ddf4203"
+  },
+  {
+    "title": "裕隆法說／電動車銷量持續升溫 裕隆：明年台灣車市上看43萬台",
+    "url": "https://www.mirrormedia.mg/story/20261118-13fin-183632",
+    "source": "鏡週刊財經",
+    "summary": "<p>國內汽車製造龍頭裕隆18日舉行法說會，主動釋出明年台灣車市展望，裕隆副總經理李建輝表示，第四季隨著多款新車陸續上市，加上車廠促銷活動助攻，預估全年新車領牌數可望達42萬台，裕隆同時看好明年車市溫和成長，隨著消費信心回穩、政策不確定因素逐步明朗下，有機會進一步增至43萬台。</p>",
+    "published_at": "2026-11-18T18:36:00+08:00",
+    "stocks": [],
+    "uid": "dadf2470000704366cabc7b1c7ed71b3"
+  },
+  {
+    "title": "快訊／台股1檔「抓去關」新名單　明起處置至11／27",
+    "url": "https://finance.ettoday.net/news/3274516",
+    "source": "ETtoday",
+    "summary": "<img alt=\"快訊／台股1檔「抓去關」新名單　明起處置至11／27\" src=\"https://cdn2.ettoday.net/images/8308/c8308224.jpg\" /><br /> 證交所和櫃買中心今（18）日公告新增1檔處置股，昇達科（3491）自明日起處置到11月27日，呼籲投資人注意。\n <a href=\"https://finance.ettoday.net/news/3274516\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-11-18T18:35:00+08:00",
+    "stocks": [
+      "3491"
+    ],
+    "uid": "53f046fce66988198bddbcc442903936"
+  },
+  {
+    "title": "外資續砍台股　新台幣貶值壓力難解創逾19個月新低",
+    "url": "https://www.cna.com.tw/news/afe/202611180307.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者潘姿羽台北18日電）台股震盪翻揚，守住4萬點大關，不過外資持續賣股匯出，新台幣貶值壓力沉重，盤中再度摜破33元，在央行調節下，終場守住32元字頭價位，收在32.947元，貶值9.7分，仍創逾19個月新低，台北及元太外匯市場總成交金額37.45億美元。",
+    "published_at": "2026-11-18T18:34:28+08:00",
+    "stocks": [
+      "8069"
+    ],
+    "uid": "715e0fa9213c46494de822c9e384d9b1"
+  },
+  {
+    "title": "施振榮出發參加APEC  力拼將AI產業餅做大、使合作夥伴能享受AI紅利",
+    "url": "https://news.cnyes.com/news/id/6666460",
+    "source": "鉅亨網",
+    "summary": "",
+    "published_at": "2026-11-18T18:34:16+08:00",
+    "stocks": [
+      "TWS:2353:STOCK"
+    ],
+    "uid": "abdc90beb3ebc929b7c09f5e6305898c"
+  },
+  {
+    "title": "友輝：投入光波導與半導體封裝領域　拚2027、2028年放量",
+    "url": "https://www.cna.com.tw/news/afe/202611180306.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者潘智義台北18日電）液晶顯示器背光模組聚光片廠友輝總經理辛隆賓表示，明年第1季筆電需求恐依然不理想，增亮膜等筆電背光模組相關模材也跟著不好，但車用市場相對穩定；與大廠合作，運用既有精密塗布技術，投入光波導及半導體封裝市場，預計2027年至2028年才放量。",
+    "published_at": "2026-11-18T18:32:26+08:00",
+    "stocks": [],
+    "uid": "87e749a752d881cf0b627c0dc14da99b"
+  },
+  {
+    "title": "外資賣超台股逾765億元　調節台積電逾1.5萬張",
+    "url": "https://www.cna.com.tw/news/afe/202611180304.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者江明晏台北18日電）台股今天開高震盪，高低點落差達1677點，終場漲102.8點，守住4萬點關卡，外資賣超逾765億元，調節指標型ETF與金融股，並賣超台積電逾1.5萬張，同時買超主動式ETF、群創、中鼎等。",
+    "published_at": "2026-11-18T18:30:22+08:00",
+    "stocks": [
+      "2330",
+      "3481"
+    ],
+    "uid": "e6ccf7a483b91fc0d203823e8cf75ae5"
+  },
+  {
+    "title": "仁寶衝刺伺服器業務 SC26發表採用NVIDIA技術AI基礎架構解決方案",
+    "url": "https://news.cnyes.com/news/id/6666459",
+    "source": "鉅亨網",
+    "summary": "仁寶參與SC26，展示採用輝達新世代技術的AI基礎架構解決方案。&#10;聚焦HGX Rubin NVL8機櫃級水冷與NVIDIA Vera CPU Compute Tray，展現從模組到機櫃系統整合能力。&#10;仁寶估今年伺服器營收比重逾1成，明年Q2新專案放量，並將ISBG獨立為雲銳科技。",
+    "published_at": "2026-11-18T18:30:16+08:00",
+    "stocks": [
+      "TWS:2324:STOCK",
+      "USS:NVDA:STOCK"
+    ],
+    "uid": "2649ebbbc286b73a6cadd11a003d4ff3"
+  },
+  {
+    "title": "快訊／韭菜翻車破紀錄！9檔熱門股驚爆違約交割　股后創意上榜",
+    "url": "https://finance.ettoday.net/news/3274510",
+    "source": "ETtoday",
+    "summary": "<img alt=\"快訊／韭菜翻車破紀錄！9檔熱門股驚爆違約交割　股后創意上榜\" src=\"https://cdn2.ettoday.net/images/8308/c8308224.jpg\" /><br /> 台股違約交割事件大爆發！證交所、櫃買中心今（18）日公布最新資料，上市櫃一口氣有9檔個股達違約交割資訊揭露標準，合計違約交割金額高達4億2695.52萬元，其中創意（3443）單檔違約9453萬元居冠，華通（2313）也有9360萬元，雙鴻（3324）、欣興（3037）等熱門電子股全數上榜，成為台股連日重挫後的市場焦點。 <a href=\"https://finance.ettoday.net/news/3274510\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-11-18T18:28:00+08:00",
+    "stocks": [
+      "3443",
+      "2313",
+      "3324",
+      "3037"
+    ],
+    "uid": "95c12396fcb16af3bd1c5d6c81328bad"
+  },
+  {
+    "title": "均華斥資14.99億元竹北買地　長期營運發展需求",
+    "url": "https://www.cna.com.tw/news/afe/202611180302.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者張建中新竹18日電）半導體設備廠均華精密董事會今天決議斥資新台幣14.99億元，取得新竹縣竹北市土地，因應長期營運發展及空間規劃需求。",
+    "published_at": "2026-11-18T18:27:18+08:00",
+    "stocks": [],
+    "uid": "c9c906bff80cd766a8130d361ebcceb4"
+  },
+  {
+    "title": "施吉生技23日登錄興櫃　電漿醫療、AI醫療雙引擎搶攻亞洲商機",
+    "url": "https://finance.ettoday.net/news/3274511",
+    "source": "ETtoday",
+    "summary": "<img alt=\"施吉生技23日登錄興櫃　電漿醫療、AI醫療雙引擎搶攻亞洲商機\" src=\"https://cdn2.ettoday.net/images/9021/c9021453.jpg\" /><br /> 施吉生技應材（6623）預計於11月23日以每股參考價新台幣80元登錄興櫃。施吉以「創新電漿醫療」及「智慧AI醫療」為兩大核心事業，結合低溫電漿傷口治療技術、台灣醫療主權AI大語言模型與醫療場域整合能力，積極拓展台灣及亞洲市場。透過電漿設備、專用耗材與臨床服務，以及醫療AI模型訂閱與應用服務，建構雙引擎營運模式，佈局中長期成長動能。\n\n <a href=\"https://finance.ettoday.net/news/3274511\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-11-18T18:26:00+08:00",
+    "stocks": [
+      "6623"
+    ],
+    "uid": "e55cd9527fb3aedd2813fcfc78aaa3a0"
+  },
+  {
+    "title": "全球出口市場集中度台灣第九名 中國墊底 第一名竟是它",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5645137",
+    "source": "自由財經",
+    "summary": "〔財經頻道／綜合報導〕哪些國家的出口市場集中度最高？Visual Capitalis利用聯合國貿發會議的數據，顯示30個經濟體出口到其五大貿易夥伴的佔比。墨西哥位居榜首，其對外五大出口市場佔總出...…",
+    "published_at": "2026-11-18T18:21:22+08:00",
+    "stocks": [],
+    "uid": "e8aad15a89795b1f06912a5115e7748d"
+  },
+  {
+    "title": "歐洲商會直言：台灣綠能發展受政治內鬥阻礙 應去政治化",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5645415",
+    "source": "自由財經",
+    "summary": "歐洲在台商務協會（歐洲商會）今（18）日發表年度建議書（2027 position paper）。談及台灣能源政策，歐洲商會直言，綠能發展的阻礙因素包括意識形態分歧的政治...…",
+    "published_at": "2026-11-18T18:17:17+08:00",
+    "stocks": [],
+    "uid": "63ae372d1eaa88051b22ebb8e268b32b"
+  },
+  {
+    "title": "瑩碩生技營運雙引擎 思覺失調症藥明年啟動授權洽談",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5645425",
+    "source": "自由財經",
+    "summary": "興櫃專業藥物傳輸技術開發商瑩碩生技（6677）今（18）日召開法說會，總經理顏麟權表示，受惠獨特藥物傳輸技術平台展現的研發成果逐步發酵，今年以來營收維持雙位數成長且虧損持...…",
+    "published_at": "2026-11-18T18:16:19+08:00",
+    "stocks": [
+      "6677"
+    ],
+    "uid": "316b0934729ffaa808fa22551e02f81f"
+  },
+  {
+    "title": "雙鴻董座林育申：少了黃仁勳  AI伺服器迭代恐放緩",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5645410",
+    "source": "自由財經",
+    "summary": "輝達（NVIDIA）共同創辦人黃仁勳辭去執行長職務，產業與市場皆熱議對AI前景的影響。散熱大廠雙鴻（3324）董事長林育申今日表示，傳統伺服器兩年迭代一次，但黃仁勳加速了...…",
+    "published_at": "2026-11-18T18:15:46+08:00",
+    "stocks": [
+      "3324"
+    ],
+    "uid": "77698a6b370e01f90e95f616571a0a75"
+  },
+  {
+    "title": "外資還不打算放過台股！今日期現貨同步偏空操作",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5645414",
+    "source": "自由財經",
+    "summary": "雖然輝達（NVIDIA）交出亮麗財報與優於市場的展望，但外資仍不打算放過台股，今日台指期結算，外資刻意壓低結算，現貨大砍765.6億元，大賣台積電（2330）1萬5453...…",
+    "published_at": "2026-11-18T18:15:34+08:00",
+    "stocks": [
+      "2330"
+    ],
+    "uid": "c645042d21163c124d8f9a252e7c5196"
+  },
+  {
+    "title": "金價跌一年半新低！恐下探「這價位」",
+    "url": "https://tw.news.yahoo.com/%E9%87%91%E5%83%B9%E8%B7%8C-%E5%B9%B4%E5%8D%8A%E6%96%B0%E4%BD%8E-%E6%81%90%E4%B8%8B%E6%8E%A2-%E9%80%99%E5%83%B9%E4%BD%8D-181500702.html",
+    "source": "Yahoo股市",
+    "summary": "國際金價空頭氣勢壓境，18日跌破3800美元關卡下探3784美元，創下2025年9月以來新低，半年累計重挫16%。主因在於通膨黏性超乎預期，聯準會重啟升息引發市場緊縮預期，推升美國10年期公債殖利率站上5%高檔，導致不孳息黃金的機會成本飆升，法人資金轉向債市。技術面呈現空頭排列，若無法重返3850美元，3500美元恐成下一道防線。",
+    "published_at": "2026-11-18T18:15:00+08:00",
+    "stocks": [],
+    "uid": "0956f17f2157ff52f363b6e50b110a90"
+  },
+  {
+    "title": "瑩碩今年營收雙位數年增 2030年前新增85張藥證目標不變",
+    "url": "https://news.cnyes.com/news/id/6666452",
+    "source": "鉅亨網",
+    "summary": "瑩碩受惠藥物傳輸平台發酵，今年營收可望雙位數年增。&#10;今年已取得10張台灣藥證、5項國內外授權，並維持2025至2030年新增85張藥證。&#10;AX251已獲FDA核准進入臨床一期，益釋寧拓展韓國、中東、馬來西亞、新加坡，NTN則規劃2027年首季向日本厚生省送件。",
+    "published_at": "2026-11-18T18:13:55+08:00",
+    "stocks": [
+      "TWG:6677:STOCK"
+    ],
+    "uid": "30f10827f863ab755217fb7e705e1f7c"
+  },
+  {
+    "title": "【量大強漲股整理】AI算力【9933中鼎】+43%輝達財報誘多?!台股第二支腳確立?!主流股呼之欲出？",
+    "url": "https://news.cnyes.com/news/id/6666453",
+    "source": "鉅亨網",
+    "summary": "台股開高走低終場漲102.80點收40194.91點，外資賣超765.63億元、三大法人合計賣超632.07億元。&#10;輝達Q3營收1158.4億美元、EPS 2.68美元，Q4財測1300億美元優於預期，盤後股價漲4.36%。",
+    "published_at": "2026-11-18T18:13:02+08:00",
+    "stocks": [],
+    "uid": "a8d0903c97366ac9afceb9d95f3bec47"
+  },
+  {
+    "title": "雙鴻看好明年營收成長高於今年，ASIC 業務超越 GPU",
+    "url": "https://finance.technews.tw/2026/11/18/auras-earnings-call-26q3/",
+    "source": "科技新報",
+    "summary": "散熱大廠雙鴻今天舉行法人說明會，董事長林育申（見首圖）表示，ASIC（特殊應用積體電路）客戶產品大量出貨，雙鴻 [&#8230;]",
+    "published_at": "2026-11-18T18:10:48+08:00",
+    "stocks": [
+      "3324"
+    ],
+    "uid": "e2c1c3be93a6b479a5bfae5b3d46438f"
+  },
+  {
+    "title": "鉅亨速報 - Factset 最新調查：玉山金(2884-TW)目標價調升至42.05元，幅度約3.7%",
+    "url": "https://news.cnyes.com/news/id/6666455",
+    "source": "鉅亨網",
+    "summary": "",
+    "published_at": "2026-11-18T18:10:26+08:00",
+    "stocks": [
+      "TWS:2884:STOCK"
+    ],
+    "uid": "0daef9206d8483bbeb77640717d59cc0"
+  },
+  {
+    "title": "無密碼登入更安全，LINE「通行金鑰」設定快速上手",
+    "url": "https://infosecu.technews.tw/2026/11/18/how-to-register-a-passkey-in-the-line-app/",
+    "source": "科技新報",
+    "summary": "「通行金鑰」（Passkey）是用來取代傳統密碼的無密碼登入技術，這種做法在 Google、微軟等服務越來越普 [&#8230;]",
+    "published_at": "2026-11-18T18:09:12+08:00",
+    "stocks": [],
+    "uid": "a22d16f65233bed48466f6ae3506e6b4"
+  },
+  {
+    "title": "2026年企業新創活躍指數　台灣名列全球第19",
+    "url": "https://www.cna.com.tw/news/afe/202611180295.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者潘姿羽台北18日電）國際知名創新研究機構StartupBlink最新發布「2026年企業新創活躍指數」，評估全球企業透過新創投資、併購等與新創互動的強度，並首度推出國家排名。台灣在全球82個經濟體中，排名全球第19名，並有25家台灣企業入選該指數排名。",
+    "published_at": "2026-11-18T18:08:02+08:00",
+    "stocks": [],
+    "uid": "75d58219e6d69ff9a41ef709e7079591"
+  },
+  {
+    "title": "選舉投票在即　航港局協調航商備妥充足運能、各航線尚有艙位",
+    "url": "https://finance.ettoday.net/news/3274502",
+    "source": "ETtoday",
+    "summary": "<img alt=\"選舉投票在即　航港局協調航商備妥充足運能、各航線尚有艙位\" src=\"https://cdn2.ettoday.net/images/9021/c9021424.jpg\" /><br /> 115年地方公職人員選舉及全國性公民投票即將在11月28日進行投票，為因應投票日前後的返鄉及回程交通需求，航港局協調業者規劃海運航班，以因應旅運需求。航港局表示，各航線均尚有艙位，歡迎離島返鄉投票民眾可多加利用。 <a href=\"https://finance.ettoday.net/news/3274502\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-11-18T18:08:00+08:00",
+    "stocks": [],
+    "uid": "473f969aa2a65aca09cafad6e053b831"
+  },
+  {
+    "title": "明年EPS衝25元！「這大廠」受惠AI伺服器續旺　法人喊買目標價300元",
+    "url": "https://tw.news.yahoo.com/%E6%98%8E%E5%B9%B4eps%E8%A1%9D25%E5%85%83-%E9%80%99%E5%A4%A7%E5%BB%A0-%E5%8F%97%E6%83%A0ai%E4%BC%BA%E6%9C%8D%E5%99%A8%E7%BA%8C%E6%97%BA-%E6%B3%95%E4%BA%BA%E5%96%8A%E8%B2%B7%E7%9B%AE%E6%A8%99%E5%83%B9300%E5%85%83-180600121.html",
+    "source": "Yahoo股市",
+    "summary": "AI伺服器需求持續強勁，鴻海（2317）第三季營收、獲利及每股純益（EPS）同步創下單季新高，第四季營運展望全面優於預期。本土投顧看好AI機櫃出貨放量，預估2027年營收上看14.89兆元，EPS達24.79元，維持「買進」評等，目標價300元。",
+    "published_at": "2026-11-18T18:06:00+08:00",
+    "stocks": [
+      "2317"
+    ],
+    "uid": "40ab72436ae5b4e7aa798a5e3ea86a71"
+  },
+  {
+    "title": "台灣女生太愛買？「這公司」美妝業績占比飆45%　明年EPS上看4.46元",
+    "url": "https://tw.news.yahoo.com/%E5%8F%B0%E7%81%A3%E5%A5%B3%E7%94%9F%E5%A4%AA%E6%84%9B%E8%B2%B7-%E9%80%99%E5%85%AC%E5%8F%B8-%E7%BE%8E%E5%A6%9D%E6%A5%AD%E7%B8%BE%E5%8D%A0%E6%AF%94%E9%A3%8645-%E6%98%8E%E5%B9%B4eps%E4%B8%8A%E7%9C%8B4-46%E5%85%83-180500240.html",
+    "source": "Yahoo股市",
+    "summary": "零售通路龍頭寶雅法說會釋出利多，前三季同店成長達6.8%。受惠POYA Beauty美妝店型展店亮眼，引進高毛利日韓泰彩妝，美妝業績占比躍升至45%，推升毛利率走高。法人看好寶雅持續擴點、導入自助結帳與電子標籤提升營運效率，預估明後年EPS穩健成長，給予買進評等與目標價89元。",
+    "published_at": "2026-11-18T18:05:00+08:00",
+    "stocks": [],
+    "uid": "2eca4a977aab6015da13cfbf56705a02"
+  },
+  {
+    "title": "韓中 FTA 談判達成協議，限韓令是否鬆綁仍有待觀察",
+    "url": "https://finance.technews.tw/2026/11/18/korea-china-fta-deal-hallyu-ban-relaxation-uncertain/",
+    "source": "科技新報",
+    "summary": "韓中今天宣布 FTA 實質達成協議，影視、觀光等領域相關限制皆有調整，被視為「限韓令」出現鬆綁的契機。不過也有 [&#8230;]",
+    "published_at": "2026-11-18T18:00:46+08:00",
+    "stocks": [],
+    "uid": "3f2187e8c84664c2524302ca961c194e"
+  },
+  {
+    "title": "裕日車總經理姚振祥：匯率不利但漲價有困難",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5645394",
+    "source": "自由財經",
+    "summary": "裕日車（2227）今天召開法說會，裕日車（2227）總經理姚振祥表示，裕日車前三季每股虧損5.28元，主要受到原物料成本上漲及匯率不利等雙重因素夾擊，但因車款都是既有款式...…",
+    "published_at": "2026-11-18T17:59:11+08:00",
+    "stocks": [
+      "2227"
+    ],
+    "uid": "81822ee9a3ba207dd971ddf941820bda"
+  },
+  {
+    "title": "施吉生技23日登錄興櫃 低溫電漿創新方式治療大傷口",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5645374",
+    "source": "自由財經",
+    "summary": "預計在11月23日以參考價每股80元登錄興櫃醫材廠施吉生技（6623）今（18）舉行興櫃前法說會，施吉生技董事長吳建興表示，公司目前有兩大發展方向，其中醫用電漿傷口治療設...…",
+    "published_at": "2026-11-18T17:58:04+08:00",
+    "stocks": [
+      "6623"
+    ],
+    "uid": "79aff375729715bdcd8dde1fac45c0fb"
+  },
+  {
+    "title": "輝達財報佳但中國間諜疑雲仍在　亞股走勢分歧",
+    "url": "https://www.cna.com.tw/news/afe/202611180290.aspx",
+    "source": "中央社",
+    "summary": "（中央社香港18日綜合外電報導）美國人工智慧（AI）晶片大廠輝達（Nvidia）公布的財報財測皆優於預期，緩和AI熱潮疑慮；但打擊輝達並震撼全球股市的中國間諜醜聞疑雲仍令投資人擔憂，亞洲股市今天走勢分歧。",
+    "published_at": "2026-11-18T17:57:51+08:00",
+    "stocks": [],
+    "uid": "cb2602ed253c8121c8288e2a2f6fdf6e"
+  },
+  {
+    "title": "透過ROE選股 主動中信00417A獲准募集",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5645373",
+    "source": "自由財經",
+    "summary": "今年上半年主要股市受惠於AI需求大增，台股呈現多頭格局，但近期台股震盪加劇，投資人也擔憂後市表現。中國信託投信表示，從基本面觀察，台股體質仍相當穩健，以ROE（股東權益報...…",
+    "published_at": "2026-11-18T17:57:16+08:00",
+    "stocks": [],
+    "uid": "81bba3a53b33b3fde8cb26f4429d300a"
+  },
+  {
+    "title": "台船承造六艘高緯度遠洋巡護船　首艘「西拉雅號」交船添獲利",
+    "url": "https://finance.ettoday.net/news/3274487",
+    "source": "ETtoday",
+    "summary": "<img alt=\"台船承造六艘高緯度遠洋巡護船　首艘「西拉雅號」交船添獲利\" src=\"https://cdn2.ettoday.net/images/9021/c9021392.jpg\" /><br /> 台灣國際造船公司(2208)承造海洋委員會海巡署艦隊分署高緯度遠洋巡護船6艘，今(18)日首艘舉行交船典禮，由行政院長卓榮泰主持，率同海洋委員會管碧玲主任委員、台船公司陳政宏董事長，並在產官學研等各界人士見證下，參與台船高雄廠高緯度遠洋巡護船首艘「西拉雅號」交船典禮活動。 <a href=\"https://finance.ettoday.net/news/3274487\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-11-18T17:57:00+08:00",
+    "stocks": [
+      "2208"
+    ],
+    "uid": "4a5be06b24430dffa87fedf634cdf0ab"
+  },
+  {
+    "title": "萬海航運造樹海　認植養護破110萬棵",
+    "url": "https://www.cna.com.tw/news/afe/202611180285.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者江明晏台北18日電）萬海航運推動植樹造林計畫，合作在台各地投入造林及生態復育工作，目前已累計認植養護超過110萬棵樹，近期萬海攜手農業部林業及自然保育署宜蘭分署，於陽明山北投湖田地區進行植樹活動。",
+    "published_at": "2026-11-18T17:50:41+08:00",
+    "stocks": [],
+    "uid": "ee9f141b3e66038463d2827cb4c096ee"
+  },
+  {
+    "title": "台灣大再獲ESG for Culture影響力獎  2025年投入逾2億元串聯百家文化業者推動文化產業飛輪",
+    "url": "https://news.cnyes.com/news/id/6666415",
+    "source": "鉅亨網",
+    "summary": "",
+    "published_at": "2026-11-18T17:50:37+08:00",
+    "stocks": [],
+    "uid": "8224188ccadbe1fed78585d396e65930"
+  },
+  {
+    "title": "日本硫磺島火山噴發，南岸形成大片新陸地",
+    "url": "https://technews.tw/2026/11/18/iwo-jima-volcanic-eruption-creates-new-landmass-southern-coast/",
+    "source": "科技新報",
+    "summary": "日本小笠原群島之中的硫磺島 10 月下旬起持續噴發，噴發物在硫磺島南岸附近形成的新陸地，面積達約 50 公頃。 [&#8230;]",
+    "published_at": "2026-11-18T17:50:27+08:00",
+    "stocks": [],
+    "uid": "31ab2d7c94a400b1999c7fd15edd57e0"
+  },
+  {
+    "title": "〈偉訓法說〉AI機櫃出貨放量能見度達明年Q2 2027年營運看成長",
+    "url": "https://news.cnyes.com/news/id/6666370",
+    "source": "鉅亨網",
+    "summary": "偉訓：AI伺服器/機櫃零組件下半年出貨顯著，機櫃及機構件營收比重達25%&#10;美系CSP零組件第四季起陸續交貨，部分訂單能見度看到2027年第二季&#10;AI機櫃成明年主成長動能；第四季營運回溫，明年電競電源可望優於今年",
+    "published_at": "2026-11-18T17:45:51+08:00",
+    "stocks": [
+      "TWS:3032:STOCK"
+    ],
+    "uid": "ab30f48580406ac74b187cafbe8d7d83"
+  },
+  {
+    "title": "三商家購股臨會通過轉型更名眾聯投控",
+    "url": "https://www.cna.com.tw/news/afe/202611180283.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者江明晏台北18日電）因應多品牌經營及長期發展需求，三商家購今天召開股東臨時會通過組織重整案，將自2027年1月1日起更名為「眾聯投控股份有限公司」，並分割零售通路事業，明確集團投資管理與零售通路經營分工。",
+    "published_at": "2026-11-18T17:45:36+08:00",
+    "stocks": [
+      "2945"
+    ],
+    "uid": "e70b88f7647561459b649a57bf98f64c"
+  },
+  {
+    "title": "M8 先不要，美國海軍陸戰隊繼續增購 M27 步槍",
+    "url": "https://technews.tw/2026/11/18/us-marine-bought-more-m27-iars/",
+    "source": "科技新報",
+    "summary": "美國五角大廈近期公告，海軍陸戰隊與德國槍械廠 Heckler &#38; Koch（H&#38;K）的 M27 [&#8230;]",
+    "published_at": "2026-11-18T17:45:32+08:00",
+    "stocks": [],
+    "uid": "de41262a598e5e0869b093c0564c635d"
+  },
+  {
+    "title": "希格諾、茂綸展示 Physical AI，機器手臂精準揮桿打高爾夫",
+    "url": "https://technews.tw/2026/11/18/epson-physical-ai-nvidia/",
+    "source": "科技新報",
+    "summary": "希格諾科技股份有限公司（SignalPro Technology）於 11 月 18 日與茂綸股份有限公司共同 [&#8230;]",
+    "published_at": "2026-11-18T17:45:26+08:00",
+    "stocks": [],
+    "uid": "14833cb4ab55c5916d3765ad81483509"
+  },
+  {
+    "title": "Fed利率牽動行情！法人揭明年經濟展望　這幾類資產要留意",
+    "url": "https://tw.news.yahoo.com/fed%E5%88%A9%E7%8E%87%E7%89%BD%E5%8B%95%E8%A1%8C%E6%83%85-%E6%B3%95%E4%BA%BA%E6%8F%AD%E6%98%8E%E5%B9%B4%E7%B6%93%E6%BF%9F%E5%B1%95%E6%9C%9B-%E9%80%99%E5%B9%BE%E9%A1%9E%E8%B3%87%E7%94%A2%E8%A6%81%E7%95%99%E6%84%8F-174500662.html",
+    "source": "Yahoo股市",
+    "summary": "高盛預估高利率對2027年美國經濟成長的負面影響有限，反映就業市場、企業投資及整體需求仍具支撐力，但住宅投資、企業再融資及消費支出等領域的滯後效應，後續仍值得關注。美國聯準會（Fed）最新決議維持利率不變，在通膨持續降溫及經濟展現韌性的背景下，市場對利率政策走向的不確定性進一步降低。",
+    "published_at": "2026-11-18T17:45:00+08:00",
+    "stocks": [],
+    "uid": "3d07d0f4d82f6ac80c4953f81c848044"
+  },
+  {
+    "title": "台玻：展望穩定訂單看好到2027 高毛利產品出貨維持穩定成長",
+    "url": "https://news.cnyes.com/news/id/6666371",
+    "source": "鉅亨網",
+    "summary": "",
+    "published_at": "2026-11-18T17:44:08+08:00",
+    "stocks": [
+      "TWS:1802:STOCK",
+      "USS:NVDA:STOCK"
+    ],
+    "uid": "d080df139471aa33cc98a70242322fc6"
+  },
+  {
+    "title": "站穩先進封裝浪頭！「這特化大廠」奪CoWoS、WMCM大單　目標價上看165元",
+    "url": "https://tw.news.yahoo.com/%E7%AB%99%E7%A9%A9%E5%85%88%E9%80%B2%E5%B0%81%E8%A3%9D%E6%B5%AA%E9%A0%AD-%E9%80%99%E7%89%B9%E5%8C%96%E5%A4%A7%E5%BB%A0-%E5%A5%AAcowos-wmcm%E5%A4%A7%E5%96%AE-%E7%9B%AE%E6%A8%99%E5%83%B9%E4%B8%8A%E7%9C%8B165%E5%85%83-173500820.html",
+    "source": "Yahoo股市",
+    "summary": "特用化學品大廠三福化受惠售地利益與所得稅迴轉，第三季EPS達2.63元。展望第四季，因CoWoS Stripper出貨增加及夏季電價退場，毛利率可望回升，法人維持買進評等與目標價165元。隨先進封裝題材強勁，2027年工程營收與半導體材料佔比看好大幅成長，後市表現備受期待。",
+    "published_at": "2026-11-18T17:35:00+08:00",
+    "stocks": [],
+    "uid": "8d831c1f5fc978f7c6b87d15f4dfac05"
+  },
+  {
+    "title": "現在進場正對時?買價值、買成長、買被錯殺",
+    "url": "https://news.cnyes.com/news/id/6666358",
+    "source": "鉅亨網",
+    "summary": "台股受輝達財報激勵，早盤一度大漲846點、盤中重挫831點，終場漲102.8點收40,194.91點，守住4萬點。&#10;外資大賣765.64億元、三大法人賣超632.07億元，年線約39,200點成多空關鍵支撐。",
+    "published_at": "2026-11-18T17:33:37+08:00",
+    "stocks": [],
+    "uid": "015edd79a424256e89597eaf04a617cb"
+  },
+  {
+    "title": "緯創(3231)第三季營收首破兆元！AI伺服器占比衝上83%，2027年出貨續增",
+    "url": "https://news.cnyes.com/news/id/6666366",
+    "source": "鉅亨網",
+    "summary": "",
+    "published_at": "2026-11-18T17:31:24+08:00",
+    "stocks": [],
+    "uid": "8a1e8b76c113fd33e13bf5d279377584"
+  },
+  {
+    "title": "技嘉(2376)第三季毛利率衝上14%！AI伺服器占比達78%，2027年訂單能見度直達年底",
+    "url": "https://news.cnyes.com/news/id/6666365",
+    "source": "鉅亨網",
+    "summary": "",
+    "published_at": "2026-11-18T17:31:24+08:00",
+    "stocks": [],
+    "uid": "aca010589196e1df8b01f44d172b1b9d"
+  },
+  {
+    "title": "乙盛-KY(5243)第三季營收創新高！網通占比衝37.7%，2027年新能源接棒成長",
+    "url": "https://news.cnyes.com/news/id/6666364",
+    "source": "鉅亨網",
+    "summary": "",
+    "published_at": "2026-11-18T17:31:23+08:00",
+    "stocks": [],
+    "uid": "6afc4b942cbf172f77d58b1d7cb9b2cd"
+  },
+  {
+    "title": "證交所兩階段提升交易制度 12月7日盤中零股交易時間與整股同步先行",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5645327",
+    "source": "自由財經",
+    "summary": "證交所為提升證券市場交易效率及價格品質，自今年12月7日起，推出第一階段制度優化措施，盤中零股交易委託申報時間及交易時間調整與整股同步；此外自2027年7月5日起，推出第...…",
+    "published_at": "2026-11-18T17:30:18+08:00",
+    "stocks": [],
+    "uid": "94c2af564561814568c6041514be6461"
+  },
+  {
     "title": "張國威、李文良結盟引關注 陳玉珍：相信鄉親智慧、對自己有信心",
     "url": "https://money.udn.com/money/story/12622/9887018",
     "source": "經濟日報總經",
@@ -52,6 +1630,24 @@
     "summary_en": "Due to the manpower shortage of radiologists across Taiwan, and the public-funded CT screening for lung cancer, which identifies many patients who need to be tracked regularly, various hospitals have limited capacity for CT and MRI scans. Suspected cancer patients are found in outpatient clinics, but it is difficult to squeeze them into the examination schedule. To this end, medical centers across Taiwan have come up with unique strategies. The waiting time for patients in the Beijing Medical System is up to 3 months. In order to avoid delays in treatment, newly diagnosed cancer cases have a special note on the CT examination form, and the examination must be completed within 3 days. Kaohsiung Chang Gung Memorial Hospital divides patients into three priorities: A, B, and C based on the urgency of their needs."
   },
   {
+    "title": "台股一週狂漲3973點　這族群好猛狂飆43％稱霸！",
+    "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1-%E9%80%B1%E7%8B%82%E6%BC%B23973%E9%BB%9E-%E9%80%99%E6%97%8F%E7%BE%A4%E5%A5%BD%E7%8C%9B%E7%8B%82%E9%A3%8643-%E7%A8%B1%E9%9C%B8-172800128.html",
+    "source": "Yahoo股市",
+    "summary": "上週集中交易市場總成交金額為4兆7,933.77億元，全體上市股票成交金額為4兆3,031.57億元，股票成交量週轉率為2.84%。根據臺灣證券交易所統計，115年11月13日發行量加權股價指數收盤為43,675.12點，較(115年11月6日)的39,701.64點上漲3,973.48點，漲幅約為10.01%。產業別指數方面，漲幅以玻璃陶瓷類指數上漲43.41%為最大，跌幅以造紙類指數下跌1.66%為最大，未含金融類指數上漲3,628.52點，漲幅約為10.42%，未含電子類指數上漲1,746.82點，漲幅約為7.03%，未含金融電子類指數上漲1,196.17點，漲幅約為7.66%。",
+    "published_at": "2026-11-18T17:28:00+08:00",
+    "stocks": [],
+    "uid": "4f38d891fe5deeb3af05e87869fb596f"
+  },
+  {
+    "title": "證交所：明年7/5起千金股升降單位5元降為1元",
+    "url": "https://www.cna.com.tw/news/afe/202611180275.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者曾仁凱台北18日電）台灣證券交易所持續優化交易措施，今天宣布自2027年7月5日起，台股千元以上股票升降單位調整為新台幣1元、盤中零股交易撮合間隔也縮短至1秒。",
+    "published_at": "2026-11-18T17:27:19+08:00",
+    "stocks": [],
+    "uid": "c44189475a6adc025c0561e2db6aaa68"
+  },
+  {
     "title": "明年306萬勞工調漲最低工資 勞保投保薪資分級一起更新",
     "url": "https://money.udn.com/money/story/7307/9887058",
     "source": "經濟日報總經",
@@ -89,6 +1685,24 @@
     "summary_zh": "根據旅遊業者調查，有近9成的台灣旅客選擇旅遊目的地時，會依照期待獲得的感受來選擇目的地，並有超過3/4的台灣旅客有興趣安...",
     "title_en": "When choosing a travel destination, nearly 90% of Taiwanese tourists follow their feelings.",
     "summary_en": "According to a survey by tourism industry operators, nearly 90% of Taiwanese tourists choose a destination based on the experience they expect to get, and more than 3/4 of Taiwanese tourists are interested in..."
+  },
+  {
+    "title": "萬海造樹海認植養護突破110萬棵　復育陽明山原生生態",
+    "url": "https://finance.ettoday.net/news/3274465",
+    "source": "ETtoday",
+    "summary": "<img alt=\"萬海造樹海認植養護突破110萬棵　復育陽明山原生生態\" src=\"https://cdn2.ettoday.net/images/9021/c9021112.jpg\" /><br /> 萬海航運自2022年推動「萬海造樹海」植樹造林計畫，持續與各界合作在台灣各地投入造林及生態復育工作，目前已累計認植養護超過110萬棵樹，全台179個種植區域，遍布於高山林區、海岸線與都會區，今(18)日再度攜手農業部林業及自然保育署宜蘭分署，於陽明山北投湖田地區進行植樹活動。 <a href=\"https://finance.ettoday.net/news/3274465\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-11-18T17:22:00+08:00",
+    "stocks": [],
+    "uid": "81f38737fec75df91e00b3b15cebfe13"
+  },
+  {
+    "title": "以為能住到退休卻換了三間房？房市專家分析為什麼房子很難一間住到老",
+    "url": "https://finance.ettoday.net/news/3274467",
+    "source": "ETtoday",
+    "summary": "<img alt=\"以為能住到退休卻換了三間房？房市專家分析為什麼房子很難一間住到老\" src=\"https://cdn2.ettoday.net/images/9021/c9021113.jpg\" /><br /> 買了第一間房，就以為能住到退休，或許是現代人最應該翻轉的購屋迷思之一。永慶房屋業管部協理陳賜傑日前做客節目《辣媽Smart熟能力》，他分析，人生每個階段的居住需求都不同，從通勤、結婚到生養孩子，換屋其實是常態，而現代居住型態的改變，也帶動「一種房」最抗跌。 <a href=\"https://finance.ettoday.net/news/3274467\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-11-18T17:21:00+08:00",
+    "stocks": [],
+    "uid": "548242f06d45dfb725a8f94efdce3763"
   },
   {
     "title": "微星看顯卡供貨緊縮延續至明年初 非PC業務未來3至5年每年拚增5成",
@@ -188,6 +1802,17 @@
     "summary_en": "[Financial Channel/Comprehensive Report] The Taiwan stock market has been intensified recently. After many investors entered the market chasing higher prices, they encountered stock price retracement, and the pressure of holding up gradually emerged. A netizen recently posted an article on PTT with the title \"Are there still people who are betting on the highs?\", revealing that he had missed out on 10-fold stocks in the past, but this time he finally encountered a hit..."
   },
   {
+    "title": "一文看外資賣買超前10大！ 玉山金挨刀　重砍4.2萬張",
+    "url": "https://finance.ettoday.net/news/3274459",
+    "source": "ETtoday",
+    "summary": "<img alt=\"一文看外資賣買超前10大！ 玉山金挨刀　重砍4.2萬張\" src=\"https://cdn2.ettoday.net/images/4606/c4606201.jpg\" /><br /> 今（18）日為台指期結算日，多、空勢力持續在4萬點關前交戰，終場收小紅勉力守住4萬點，惟外資連3賣，調節765.63億元，合計三天下來，累計賣超1848.46億元，玉山金（2884）今日盤中一度觸及42元跌停價位，最大賣壓來自外資，大舉砍股4.2萬張，居單日賣超第一大個股。 <a href=\"https://finance.ettoday.net/news/3274459\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-11-18T17:15:00+08:00",
+    "stocks": [
+      "2884"
+    ],
+    "uid": "d14a0ea9b1837c3a9614560175098c17"
+  },
+  {
     "title": "桃捷公益活動募集347袋熱血　千雙二手鞋送非洲",
     "url": "https://money.udn.com/money/story/5648/9887038",
     "source": "經濟日報總經",
@@ -199,6 +1824,15 @@
     "summary_zh": "桃園大眾捷運公司今天表示，桃捷公司17日舉辦結合捐血及二手鞋募集公益活動，共有222人成功捐血，募集347袋血液，另外也...",
     "title_en": "Taojie charity event raised 347 bags of blood and sent thousands of pairs of second-hand shoes to Africa",
     "summary_en": "Taoyuan Mass Rapid Transit Company said today that Taoyuan Mass Rapid Transit Company held a charity event combining blood donation and second-hand shoe collection on the 17th. A total of 222 people successfully donated blood and raised 347 bags of blood. In addition..."
+  },
+  {
+    "title": "永慶房屋4個月成交近30戶雙北億級豪宅　豪宅銷售實力亮眼",
+    "url": "https://finance.ettoday.net/news/3274462",
+    "source": "ETtoday",
+    "summary": "<img alt=\"永慶房屋4個月成交近30戶雙北億級豪宅　豪宅銷售實力亮眼\" src=\"https://cdn2.ettoday.net/images/9021/c9021139.jpg\" /><br /> 永慶房屋高價住宅銷售繳出亮眼成績！根據內部交易統計，今年7至10月，永慶房屋在雙北市促成近30戶億級豪宅成交，較去年同期翻倍成長，其中指標豪宅「台北之星」就占了3戶。透過285家綿密的直營店網流通聯賣優勢，滿足高資產客群的購售屋需求。 <a href=\"https://finance.ettoday.net/news/3274462\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-11-18T17:14:00+08:00",
+    "stocks": [],
+    "uid": "5d1f5c5a06bb23ab06acae72cc0cd05e"
   },
   {
     "title": "宇峻看Q4營收續揚 明年推4款遊戲",
@@ -324,6 +1958,15 @@
     "summary_en": "Colin R&D has broken ground on a new Taiwan technology center in Zhunan, Miaoli, which is expected to be opened in 2028.\nThe center is part of a global R&D network investment plan of more than US$3 billion over the next five years, which will increase laboratory space in Taiwan by approximately 900%.\nIt will strengthen the research and development of advanced deposition, etching and packaging to help accelerate AI chip manufacturing and fab introduction."
   },
   {
+    "title": "東山非法掩埋引議　台水：距烏山頭水庫4公里、非水源保護區",
+    "url": "https://www.cna.com.tw/news/afe/202611180254.aspx",
+    "source": "中央社",
+    "summary": "（中央社記者梁家柔台北18日電）媒體報導東山區前大埔段周邊土地遭非法掩埋廢棄物，引發大台南地區用水安全疑慮。台水公司今天表示，案址距離烏山頭水庫約4公里，並未緊鄰水庫，且非「自來水水質水量保護區」與「飲用水水源水質保護區」，目前供水品質穩定無虞。",
+    "published_at": "2026-11-18T17:09:34+08:00",
+    "stocks": [],
+    "uid": "d4bf89c0b0ae92bbb4f156f214a03997"
+  },
+  {
     "title": "雙鴻看好明年營收成長高於今年　ASIC業績超越GPU",
     "url": "https://money.udn.com/money/story/5612/9887006",
     "source": "經濟日報股市",
@@ -350,6 +1993,15 @@
     "summary_zh": "全球少子化已是國安問題，賴清德總統於今年5月就職周年，推出「台灣人口對策新戰略——家庭支持篇」，祭出「育兒大禮包」涵蓋多項育兒支持政策，並宣布將從2027年元旦起上路。身為法源依據的《性工法》、《就保法》，立法院於11月13日三讀通過，更是加碼了多項優惠內容。",
     "title_en": "Who is the biggest beneficiary of childcare policy U-turn?",
     "summary_en": "The global declining birthrate has become a national security issue. On the anniversary of his inauguration in May this year, President Lai Ching-te launched the \"Taiwan's New Population Countermeasures Strategy - Family Support\" and launched a \"parenting gift package\" covering a number of childcare support policies, and announced that it will be implemented starting from New Year's Day in 2027. The Legislative Yuan passed the \"Sexual Work Law\" and the \"Rescue Law\" as the legal basis on the third reading on November 13, and added a number of preferential contents."
+  },
+  {
+    "title": "香港ALMAC物流會展聚焦全球供應鏈新格局　台灣公協會組團與會",
+    "url": "https://finance.ettoday.net/news/3274443",
+    "source": "ETtoday",
+    "summary": "<img alt=\"香港ALMAC物流會展聚焦全球供應鏈新格局　台灣公協會組團與會\" src=\"https://cdn2.ettoday.net/images/9021/c9021032.jpg\" /><br /> 第16屆「ALMAC亞洲物流航運及空運會議」本月16~17日在香港會議展覽中心舉行。今年仍由台灣服務業聯盟協會組團，台北市空運承攬公會羅文祥理事長擔任團長、台灣國際物流暨供應鏈協會秦玉玲理事長、台灣港務公司、遠雄自貿港、士盟國際通運、捷豐國際物流，以及香港台灣工商協會劉孝超會長等共同參與盛會。 <a href=\"https://finance.ettoday.net/news/3274443\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-11-18T17:07:00+08:00",
+    "stocks": [],
+    "uid": "d7edca9bba0fa039e7cf56bd8468422a"
   },
   {
     "title": "川普抵達中國 已預告台灣「會被提到」川習普三方會談將揭幕",
@@ -379,6 +2031,15 @@
     "published_at": "2026-11-18T17:05:54+08:00",
     "stocks": [],
     "uid": "e8e686fb05b1a29ed5b8df1a8efd179c"
+  },
+  {
+    "title": "三大動能點火！「這PCB大廠」Q3毛利率飆34.8%　目標價上看650元",
+    "url": "https://tw.news.yahoo.com/%E4%B8%89%E5%A4%A7%E5%8B%95%E8%83%BD%E9%BB%9E%E7%81%AB-%E9%80%99pcb%E5%A4%A7%E5%BB%A0-q3%E6%AF%9B%E5%88%A9%E7%8E%87%E9%A3%8634-8-%E7%9B%AE%E6%A8%99%E5%83%B9%E4%B8%8A%E7%9C%8B650%E5%85%83-170500533.html",
+    "source": "Yahoo股市",
+    "summary": "PCB大廠健鼎第3季受惠伺服器、DRAM與車用板需求續旺，加上成本轉嫁成功，營收與獲利雙雙改寫歷史新高，單季EPS達11.94元。本土投顧看好後市，上修今明兩年獲利預估，預期第4季營運維持高檔，接單能見度拉長，維持買進評等，目標價上看650元。",
+    "published_at": "2026-11-18T17:05:00+08:00",
+    "stocks": [],
+    "uid": "115e9b9e42a2bdb217c7697ef32ef50e"
   },
   {
     "title": "TLC-K新藥在美國風濕學會年會秀臨床研究成果 展現減緩關節退化之潛力",
@@ -477,6 +2138,18 @@
     "uid": "92bf91b8824a928012b3dcfbe33c260d"
   },
   {
+    "title": "快訊／2新制明年7／5上路！盤中零股秒撮合　千金股1元1跳",
+    "url": "https://finance.ettoday.net/news/3274444",
+    "source": "ETtoday",
+    "summary": "<img alt=\"快訊／2新制明年7／5上路！盤中零股秒撮合　千金股1元1跳\" src=\"https://cdn2.ettoday.net/images/8960/c8960050.jpg\" /><br /> 為提升證券市場交易效率、價格品質，證交所宣布今（2026）年12月7日推出第一階段制度優化措施，盤中零股交易委託申報時間及交易時間調整與整股同步；第二階段制度優化措施自明（2027）年7月5日上路，千元以上股票升降單位調整為1元、盤中零股撮合縮短至1秒。 <a href=\"https://finance.ettoday.net/news/3274444\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-11-18T16:55:00+08:00",
+    "stocks": [
+      "2026",
+      "2027"
+    ],
+    "uid": "741d99b7f4cb21b7d77ccea6e154e925"
+  },
+  {
     "title": "資策會：2大機制推動新創落地　串聯產業需求走向市場",
     "url": "https://money.udn.com/money/story/5612/9886979",
     "source": "經濟日報股市",
@@ -502,6 +2175,15 @@
     "published_at": "2026-11-18T16:51:54+08:00",
     "stocks": [],
     "uid": "674c8adb476520dd2d0823e235671907"
+  },
+  {
+    "title": "快訊／台股開盤慘了？道瓊挫逾600點　台指期崩逾800點",
+    "url": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E5%8F%B0%E8%82%A1%E9%96%8B%E7%9B%A4%E6%85%98%E4%BA%86-%E9%81%93%E7%93%8A%E6%8C%AB%E9%80%BE600%E9%BB%9E-%E5%8F%B0%E6%8C%87%E6%9C%9F%E5%B4%A9%E9%80%BE800%E9%BB%9E-165100034.html",
+    "source": "Yahoo股市",
+    "summary": "輝達公布優於預期財報並上調營收展望，但美股週三仍全面走低，道瓊工業指數重挫逾600點，台指期夜盤更大跌超過760點。市場聚焦聯準會10月FOMC會議記錄與AI巨頭Anthropic最新IPO動態。法人提醒，投資人應密切關注總經局勢，審慎評估市場波動風險。",
+    "published_at": "2026-11-18T16:51:00+08:00",
+    "stocks": [],
+    "uid": "55250ed34b3d807023417082ab6dc04c"
   },
   {
     "title": "輝達換帥、Anthropic上市受矚目 野村投信：供應鏈倒吃甘蔗有條件",
@@ -702,6 +2384,15 @@
     "uid": "db30b6c920db3d9b532064dff11b6ce1"
   },
   {
+    "title": "存戶網銀半夜遭盜轉17筆共23萬元！　北富銀給出3大回應",
+    "url": "https://finance.ettoday.net/news/3274428",
+    "source": "ETtoday",
+    "summary": "<img alt=\"存戶網銀半夜遭盜轉17筆共23萬元！　北富銀給出3大回應\" src=\"https://cdn2.ettoday.net/images/5191/c5191780.jpg\" /><br /> 近期網銀盜轉事件陸續發生，民眾在社群平台發文指出，其家人北富銀帳戶疑似遭異常轉帳，短短一個多小時發生17筆交易，損失約23萬元；北富銀指出，相關轉帳過程中，客戶的登入認證、雙重驗證，以及非約定轉帳OTP驗證均有正確完成，北富銀系統及各項安全控管機制亦運作正常，交易發生原因仍持續釐清，初步研判不排除用戶端裝置或外部網路環境等因素。 <a href=\"https://finance.ettoday.net/news/3274428\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-11-18T16:35:00+08:00",
+    "stocks": [],
+    "uid": "a2dfedbeffad7c81b8f5b329baacaf51"
+  },
+  {
     "title": "博弘雲端積極推動 AI 落地 提出三大核心主張",
     "url": "https://money.udn.com/money/story/5612/9886937",
     "source": "經濟日報股市",
@@ -749,6 +2440,15 @@
     "published_at": "2026-11-18T16:30:24+08:00",
     "stocks": [],
     "uid": "333093e75179b97b943640918fb646ab"
+  },
+  {
+    "title": "土城暫緩重劃區夯　在地房仲揭「關鍵魅力」",
+    "url": "https://finance.ettoday.net/news/3273193",
+    "source": "ETtoday",
+    "summary": "<img alt=\"土城暫緩重劃區夯　在地房仲揭「關鍵魅力」\" src=\"https://cdn2.ettoday.net/images/9018/c9018149.jpg\" /><br /> 在雙北房價高漲、購屋族更加重視預算配置的情況下，具備成熟生活機能、又有多元住宅產品可選的區域，逐漸成為市場關注焦點。新北市土城暫緩重劃區鄰近既有市區，不僅能享有新興社區的居住環境，也能就近使用傳統市場與周邊商圈，房價總價帶橫跨1500萬元至4000萬元以上，吸引首購族及換屋族進場。 <a href=\"https://finance.ettoday.net/news/3273193\" target=\"_blank\">《詳全文...》</a>",
+    "published_at": "2026-11-18T16:30:00+08:00",
+    "stocks": [],
+    "uid": "c2ffc0e2597e89c4918820b9d266d3a2"
   },
   {
     "title": "預期升息逼出發債潮！櫃買：永續債年底衝44檔 募資額度縮水達標1300億「有點拼」",
@@ -943,6 +2643,17 @@
     "uid": "efbb14517e2ca23d59fd6ab15a36db68"
   },
   {
+    "title": "美中電動車發展解析　台廠受惠3檔",
+    "url": "https://tw.news.yahoo.com/%E7%BE%8E%E4%B8%AD%E9%9B%BB%E5%8B%95%E8%BB%8A%E7%99%BC%E5%B1%95%E8%A7%A3%E6%9E%90-%E5%8F%B0%E5%BB%A0%E5%8F%97%E6%83%A03%E6%AA%94-160500988.html",
+    "source": "Yahoo股市",
+    "summary": "法人發布2027年車市展望，預估全球汽車銷量將回升至9175萬台、年增0.5%，揮別2026年衰退陰霾。全球電動車滲透率預期將擴大至26%，中國市場更挑戰六成大關。法人對產業持中性持平看法，點名東陽、智伸科與裕隆等三檔供應鏈個股具備營運動能與評價優勢，給予買進評等。",
+    "published_at": "2026-11-18T16:05:00+08:00",
+    "stocks": [
+      "2201"
+    ],
+    "uid": "0317ac53714d176966da95ba9597eab7"
+  },
+  {
     "title": "台股擂台／「股市御錢術」楊育華：台股短線震盪劇烈 南亞獲利動能佳伺機進場布局",
     "url": "https://money.udn.com/money/story/123397/9886829",
     "source": "經濟日報",
@@ -1029,6 +2740,15 @@
     "uid": "3422293af54ba428de1baefb1188a83e"
   },
   {
+    "title": "光模組規格升級引爆PCB商機！這「龍頭廠」大客戶能見度直達2029年　 目標價喊680元",
+    "url": "https://tw.stock.yahoo.com/news/%E5%85%89%E6%A8%A1%E7%B5%84%E8%A6%8F%E6%A0%BC%E5%8D%87%E7%B4%9A%E5%BC%95%E7%88%86pcb%E5%95%86%E6%A9%9F-%E9%80%99-%E9%BE%8D%E9%A0%AD%E5%BB%A0-%E5%A4%A7%E5%AE%A2%E6%88%B6%E8%83%BD%E8%A6%8B%E5%BA%A6%E7%9B%B4%E9%81%942029%E5%B9%B4-%E7%9B%AE%E6%A8%99%E5%83%B9%E5%96%8A680%E5%85%83-155500787.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]記者周雅琦／綜合報導AI資料中心高速傳輸需求持續升溫，帶動光模組規格由800G升級至1.6T，並朝3.2T、NPO及CPO等新世代架構發展，PCB製程也加速導...",
+    "published_at": "2026-11-18T15:55:00+08:00",
+    "stocks": [],
+    "uid": "02d2e71be189738eaa63fed7a24b13a0"
+  },
+  {
     "title": "微星總座：黃仁勳辭職是產業重大損失 台灣供應鏈難以取代",
     "url": "https://ec.ltn.com.tw/article/breakingnews/5645159",
     "source": "自由財經",
@@ -1108,6 +2828,17 @@
     "uid": "37bd3ce8ff77d30bd4bcea82c867ba11"
   },
   {
+    "title": "目標價210元！「HDI板龍頭」搶攻AI資料中心、低軌衛星　 連3年資本支出上看200億元",
+    "url": "https://tw.stock.yahoo.com/news/%E7%9B%AE%E6%A8%99%E5%83%B9210%E5%85%83-hdi%E6%9D%BF%E9%BE%8D%E9%A0%AD-%E6%90%B6%E6%94%BBai%E8%B3%87%E6%96%99%E4%B8%AD%E5%BF%83-%E4%BD%8E%E8%BB%8C%E8%A1%9B%E6%98%9F-%E9%80%A33%E5%B9%B4%E8%B3%87%E6%9C%AC%E6%94%AF%E5%87%BA%E4%B8%8A%E7%9C%8B200%E5%84%84%E5%85%83-154500158.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]記者周雅琦／綜合報導HDI板龍頭華通（2313）受惠AI資料中心高速傳輸需求持續升溫，帶動光模組規格由800G朝1.6T升級，並加速出貨；以及低軌衛星在...",
+    "published_at": "2026-11-18T15:45:00+08:00",
+    "stocks": [
+      "2313"
+    ],
+    "uid": "c4a731f82f5e5d64ccba4a3d745fd9de"
+  },
+  {
     "title": "Nike 估 2029 恢復營收成長  市場仍存疑、股價摔",
     "url": "https://finance.technews.tw/2026/11/18/nike-expects-revenue-growth-to-return-by-2029-but-doubts-remain/",
     "source": "科技新報",
@@ -1185,6 +2916,24 @@
     "published_at": "2026-11-18T15:27:21+08:00",
     "stocks": [],
     "uid": "c40ebba3f9b3d9f516e75383604e73ff"
+  },
+  {
+    "title": "美股4大指數齊跌！輝達下挫1.22%　台指期夜盤殺700點",
+    "url": "https://tw.news.yahoo.com/%E7%BE%8E%E8%82%A14%E5%A4%A7%E6%8C%87%E6%95%B8%E9%BD%8A%E8%B7%8C-%E8%BC%9D%E9%81%94%E4%B8%8B%E6%8C%AB1-22-%E5%8F%B0%E6%8C%87%E6%9C%9F%E5%A4%9C%E7%9B%A4%E6%AE%BA700%E9%BB%9E-152654106.html",
+    "source": "Yahoo股市",
+    "summary": "美國聯邦準備理事會（Fed）理事克里斯多福·沃勒（Christopher Waller）稍早指出，由於通貨膨脹超出預期，12月可能有必要一次性升息2碼給市場震撼。18日美股開盤，四大指數齊跌，台指期夜盤也隨之重挫逾700點。",
+    "published_at": "2026-11-18T15:26:54+08:00",
+    "stocks": [],
+    "uid": "1d786bf29812f2b71f52274e474bc572"
+  },
+  {
+    "title": "市場不再只看AI燒錢？科技七雄僅2家跑贏大盤 關鍵策略曝光",
+    "url": "https://tw.stock.yahoo.com/news/%E5%B8%82%E5%A0%B4%E4%B8%8D%E5%86%8D%E5%8F%AA%E7%9C%8Bai%E7%87%92%E9%8C%A2-%E7%A7%91%E6%8A%80%E4%B8%83%E9%9B%84%E5%83%852%E5%AE%B6%E8%B7%91%E8%B4%8F%E5%A4%A7%E7%9B%A4-%E9%97%9C%E9%8D%B5%E7%AD%96%E7%95%A5%E6%9B%9D%E5%85%89-152633664.html",
+    "source": "Yahoo股市",
+    "summary": "自2025年初以來，美股「科技七雄」（Magnificent 7）的股價表現出現明顯分歧，在AI投資競賽持續之際，並非投入最多資金的公司就能獲得市場青睞。Alphabet與蘋果成為僅有的兩家跑贏標普500指數的企業，分析師認為，兩家公司採取不同的AI策略，正是獲得投資人認同的關鍵。",
+    "published_at": "2026-11-18T15:26:33+08:00",
+    "stocks": [],
+    "uid": "df55399df0fd8c8cdfb5b8f511d41f48"
   },
   {
     "title": "黃仁勳去職影響台灣產業鏈？ 三三會林伯豐：對台廠供應鏈影響還看不出來",
@@ -1358,6 +3107,15 @@
     "uid": "1dcb0402924452b6402a801c09f7569d"
   },
   {
+    "title": "黃仁勳回歸有難度！ 持股3.5%仍能提2名董事",
+    "url": "https://tw.news.yahoo.com/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%9B%9E%E6%AD%B8%E6%9C%89%E9%9B%A3%E5%BA%A6-%E6%8C%81%E8%82%A13-5-%E4%BB%8D%E8%83%BD%E6%8F%902%E5%90%8D%E8%91%A3%E4%BA%8B-150800925.html",
+    "source": "Yahoo股市",
+    "summary": "黃仁勳回歸有難度！ 持股3.5%仍能提2名董事",
+    "published_at": "2026-11-18T15:08:00+08:00",
+    "stocks": [],
+    "uid": "68e27024e6e790859f37ae7aec73425d"
+  },
+  {
     "title": "半導體大廠再加碼苗栗！科林研發竹南設技術中心動土 2028年啟用",
     "url": "https://ec.ltn.com.tw/article/breakingnews/5645045",
     "source": "自由財經",
@@ -1394,6 +3152,15 @@
     "uid": "614d7014edf9ea941b6172130ee81f30"
   },
   {
+    "title": "太空AI帶旺高階PCB！CCL雙雄搶先受惠、目標價曝光　EPS挑戰269元、80元",
+    "url": "https://tw.stock.yahoo.com/news/%E5%A4%AA%E7%A9%BAai%E5%B8%B6%E6%97%BA%E9%AB%98%E9%9A%8Epcb-ccl%E9%9B%99%E9%9B%84%E6%90%B6%E5%85%88%E5%8F%97%E6%83%A0-%E7%9B%AE%E6%A8%99%E5%83%B9%E6%9B%9D%E5%85%89-eps%E6%8C%91%E6%88%B0269%E5%85%83-80%E5%85%83-150000135.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]記者周雅琦／綜合報導低軌衛星及太空資料中心帶動高階PCB、CCL材料升級，StarlinkV3因通訊容量提升、相位陣列天線更複雜，PCB面積與層數同步增加...",
+    "published_at": "2026-11-18T15:00:00+08:00",
+    "stocks": [],
+    "uid": "2033879be80b2627d44655e9eb9571ea"
+  },
+  {
     "title": "輝達財報未能提振AI類股　日股收盤走勢分歧",
     "url": "https://www.cna.com.tw/news/afe/202611180184.aspx",
     "source": "中央社",
@@ -1401,6 +3168,15 @@
     "published_at": "2026-11-18T14:58:03+08:00",
     "stocks": [],
     "uid": "1b5c5ac884312a0cc26006d2ac53b091"
+  },
+  {
+    "title": "再爆違約交割潮！9檔AI供應鏈「4.27億交不出來」　創意、華通各近億元",
+    "url": "https://tw.stock.yahoo.com/news/%E5%86%8D%E7%88%86%E9%81%95%E7%B4%84%E4%BA%A4%E5%89%B2%E6%BD%AE-9%E6%AA%94ai%E4%BE%9B%E6%87%89%E9%8F%88-4-27%E5%84%84%E4%BA%A4%E4%B8%8D%E5%87%BA%E4%BE%86-%E5%89%B5%E6%84%8F-145600424.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]實習記者藍彥欣／台北報導台股16日重挫2635.04點，創下史上第二大收盤跌點，隨著T+2交割日到來，今（18）日爆出大規模違約交割。根據證交所及櫃...",
+    "published_at": "2026-11-18T14:56:00+08:00",
+    "stocks": [],
+    "uid": "58897b62a8b2bc71e8d1b0f18c0b67bc"
   },
   {
     "title": "台股續演千點震盪收漲102點　投顧：最恐慌時間點已過",
@@ -1460,6 +3236,45 @@
     "uid": "398e2d199b5f7479555b9c8b0cd3f308"
   },
   {
+    "title": "快訊》台指期夜盤下挫逾600點 4萬大關失守 道瓊摔200點",
+    "url": "https://tw.stock.yahoo.com/news/%E5%BF%AB%E8%A8%8A-%E5%8F%B0%E6%8C%87%E6%9C%9F%E5%A4%9C%E7%9B%A4%E4%B8%8B%E6%8C%AB%E9%80%BE600%E9%BB%9E-4%E8%90%AC%E5%A4%A7%E9%97%9C%E5%A4%B1%E5%AE%88-%E9%81%93%E7%93%8A%E6%91%94200%E9%BB%9E-144641932.html",
+    "source": "Yahoo股市",
+    "summary": "台股今（18）日小漲102點，夜盤開盤後波動幅度較小，但截至晚間10點半左右，突然下跌616點，暫報39716.00點。美股方面，須注意輝達臨時執行長克雷斯（Colette Kress）將召開全體員工大會，市場關注是否會提到對未來更明確的規劃。另外，聯準會（Fed）理事沃勒（Christopher Waller）稍早指出，由於通膨超出預期，於12月可能有必要一次性升息2碼，給市場震撼一下。",
+    "published_at": "2026-11-18T14:46:41+08:00",
+    "stocks": [],
+    "uid": "c19125ba9b972cacae39f1112eb5dc29"
+  },
+  {
+    "title": "股價光速填息後卻翻黑！「這記憶體廠」今開高走低小跌0.46%　自營商獨站買方承接848張、投入9157萬元",
+    "url": "https://tw.stock.yahoo.com/news/%E8%82%A1%E5%83%B9%E5%85%89%E9%80%9F%E5%A1%AB%E6%81%AF%E5%BE%8C%E5%8D%BB%E7%BF%BB%E9%BB%91-%E9%80%99%E8%A8%98%E6%86%B6%E9%AB%94%E5%BB%A0-%E4%BB%8A%E9%96%8B%E9%AB%98%E8%B5%B0%E4%BD%8E%E5%B0%8F%E8%B7%8C0-46-%E8%87%AA%E7%87%9F%E5%95%86%E7%8D%A8%E7%AB%99%E8%B2%B7%E6%96%B9%E6%89%BF%E6%8E%A5848%E5%BC%B5-144600006.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]記者王凱暄／綜合報導台股加權指數今（18）日開高起伏，盤中數度跌破4萬大關，所幸最終指數拉回翻紅，終場收40194.91點，上漲102.8點，漲幅0.26%...",
+    "published_at": "2026-11-18T14:46:00+08:00",
+    "stocks": [],
+    "uid": "45295b7021ff5d87766ca83f6a5b7b86"
+  },
+  {
+    "title": "快訊／輝達財報開出！美股開盤那指、費半均漲　台指期夜盤守40K",
+    "url": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E8%BC%9D%E9%81%94%E8%B2%A1%E5%A0%B1%E9%96%8B%E5%87%BA-%E7%BE%8E%E8%82%A1%E9%96%8B%E7%9B%A4%E9%82%A3%E6%8C%87-%E8%B2%BB%E5%8D%8A%E5%9D%87%E6%BC%B2-%E5%8F%B0%E6%8C%87%E6%9C%9F%E5%A4%9C%E7%9B%A4%E5%AE%8840k-144400208.html",
+    "source": "Yahoo股市",
+    "summary": "本週財經與科技焦點包含聯準會將公布FOMC會議紀錄，市場預期升息機率高；人工智慧巨頭Anthropic預計進行IPO，估值上看1.4兆美元。個股方面，輝達第三季財報營收與每股純益均優於預期，第四季財測強勁並擴大台廠供應鏈合作。此外，備受全球玩家矚目的遊戲大作《俠盜獵車手6》於19日正式推出，預購創下佳績，相關概念股與發行商表現備受市場高度關注。",
+    "published_at": "2026-11-18T14:44:00+08:00",
+    "stocks": [],
+    "uid": "bec450306066c41ba2594eabb2c16f8b"
+  },
+  {
+    "title": "黃仁勳喊願回鍋！郭哲榮曝「表態時間太巧」：揭背後逼宮秘辛",
+    "url": "https://tw.news.yahoo.com/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%96%8A%E9%A1%98%E5%9B%9E%E9%8D%8B-%E9%83%AD%E5%93%B2%E6%A6%AE%E6%9B%9D-%E8%A1%A8%E6%85%8B%E6%99%82%E9%96%93%E5%A4%AA%E5%B7%A7-%E6%8F%AD%E8%83%8C%E5%BE%8C%E9%80%BC%E5%AE%AE%E7%A7%98%E8%BE%9B-144100055.html",
+    "source": "Yahoo股市",
+    "summary": "輝達創辦人黃仁勳突表態願回歸，摩爾投顧投資長郭哲榮揭露背後逼宮秘辛，並分析輝達財報超預期擊破AI泡沫。台股今（18）日震盪劇烈，郭哲榮預告「1121多頭歸隊」，看好中長線挑戰5萬點，喊話投資人「現在賣股票就輸了」，點名智原、聯發科等潛力股。（記者唐家興）",
+    "published_at": "2026-11-18T14:41:00+08:00",
+    "stocks": [
+      "2454",
+      "3035"
+    ],
+    "uid": "fd9add809f096d4c53a98dd5c7e28a3b"
+  },
+  {
     "title": "英特爾再傳裁員、全球 IT 部門受波及，陳立武效率改革不停歇",
     "url": "https://finance.technews.tw/2026/11/18/intel-continues-layoffs/",
     "source": "科技新報",
@@ -1505,6 +3320,15 @@
     "published_at": "2026-11-18T14:35:00+08:00",
     "stocks": [],
     "uid": "23ceba6401ec0f3187bd41734ecadc06"
+  },
+  {
+    "title": "EPS寫42季新高照樣賣！「國家隊」脫手「這檔」1096張　順勢提款群創逾5640萬元",
+    "url": "https://tw.stock.yahoo.com/news/eps%E5%AF%AB42%E5%AD%A3%E6%96%B0%E9%AB%98%E7%85%A7%E6%A8%A3%E8%B3%A3-%E5%9C%8B%E5%AE%B6%E9%9A%8A-%E8%84%AB%E6%89%8B-%E9%80%99%E6%AA%94-1096%E5%BC%B5-143200973.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]記者陳思穎／綜合報導台股今（18）日止跌走揚，終場收40194.91點，上漲102.80點，漲幅0.26%，成交額1.03兆元。觀察八大公股賣超個股方面，面板廠...",
+    "published_at": "2026-11-18T14:32:00+08:00",
+    "stocks": [],
+    "uid": "c2bd9c59e773a7d6a892a30aebd83a7e"
   },
   {
     "title": "科技業當機潮引發恐慌，Google 罕見急澄清：Gmail 沒掛掉",
@@ -1574,6 +3398,26 @@
     "uid": "e2352bb71662fde736ea64bada07afe4"
   },
   {
+    "title": "回應歐商建議書 葉俊顯籲簽署台歐協議 避險雙重課稅",
+    "url": "https://tw.stock.yahoo.com/news/%E5%9B%9E%E6%87%89%E6%AD%90%E5%95%86%E5%BB%BA%E8%AD%B0%E6%9B%B8-%E8%91%89%E4%BF%8A%E9%A1%AF%E7%B1%B2%E7%B0%BD%E7%BD%B2%E5%8F%B0%E6%AD%90%E5%8D%94%E8%AD%B0-%E9%81%BF%E9%9A%AA%E9%9B%99%E9%87%8D%E8%AA%B2%E7%A8%85-141616207.html",
+    "source": "Yahoo股市",
+    "summary": "歐洲在台商務協會18日發布2027年建議書；國發會主委葉俊顯回應，去年台歐雙邊貿易額已近750億美元，過去10年台商赴歐投資成長6.5倍，政府將持續優化經商環境與法規鬆綁，期許台歐簽署避免雙重課稅協定與投資保障協議，深化台歐經貿夥伴關係。",
+    "published_at": "2026-11-18T14:16:16+08:00",
+    "stocks": [],
+    "uid": "d0b11cf8b6eddda870430542dd3dfe14"
+  },
+  {
+    "title": "遠見科技經營權爭議　森羅投資：回歸公司治理與股東權益",
+    "url": "https://tw.news.yahoo.com/%E9%81%A0%E8%A6%8B%E7%A7%91%E6%8A%80%E7%B6%93%E7%87%9F%E6%AC%8A%E7%88%AD%E8%AD%B0-%E6%A3%AE%E7%BE%85%E6%8A%95%E8%B3%87-%E5%9B%9E%E6%AD%B8%E5%85%AC%E5%8F%B8%E6%B2%BB%E7%90%86%E8%88%87%E8%82%A1%E6%9D%B1%E6%AC%8A%E7%9B%8A-141531953.html",
+    "source": "Yahoo股市",
+    "summary": "CNEWS匯流新聞網記者謝東明／台北報導 針對遠見科技經營權及股東臨時會議題，大股東森羅投資於今（18）天發出聲明，指出外界出現諸多輿論，部分內容甚至將矛頭指向森羅投資及相關人員，以片面資訊及未經查證的說法進行評論。森羅投資澄清，持有遠見科技36%股權，為公司重要大股東。過去曾與謝春水、李承晉、吳美秀及周發等經營團隊合作，但後續因財務、業務往來及經營理念產生...",
+    "published_at": "2026-11-18T14:15:31+08:00",
+    "stocks": [
+      "2614"
+    ],
+    "uid": "e11b3102f86c10ca3ec5bd8598411cd4"
+  },
+  {
     "title": "經濟學人剖析 2027 年趨勢，川普政治動向、台海安全與 AI 風險受矚",
     "url": "https://finance.technews.tw/2026/11/18/economist-2027-trends-trump-politics-taiwan-strait-security-ai-risks/",
     "source": "科技新報",
@@ -1581,6 +3425,24 @@
     "published_at": "2026-11-18T14:10:38+08:00",
     "stocks": [],
     "uid": "f3ae362664f15ebac929f063d9804d01"
+  },
+  {
+    "title": "財長鬆口普發1萬最快1/26入帳　普發2萬協商破局",
+    "url": "https://tw.stock.yahoo.com/news/%E8%B2%A1%E9%95%B7%E9%AC%86%E5%8F%A3%E6%99%AE%E7%99%BC1%E8%90%AC%E6%9C%80%E5%BF%AB1-26%E5%85%A5%E5%B8%B3-%E6%99%AE%E7%99%BC2%E8%90%AC%E5%8D%94%E5%95%86%E7%A0%B4%E5%B1%80-102559468.html",
+    "source": "Yahoo股市",
+    "summary": "財經中心／陳妍霖 胡崇恩 台北報導全台灣人都在關心，普發1萬到底何時可以領？財政部長莊翠雲今天（18日）鬆口，如果立法院能在明年1月5日前三讀，最快1月26日就能入帳，農曆年前就能領得到這筆''AI紅利''，至於藍白提出''普發2萬''，財政部說，需額外舉債3857億，最後朝野協商破局，力拼周五院會表決闖關。",
+    "published_at": "2026-11-18T14:10:05+08:00",
+    "stocks": [],
+    "uid": "8406b542a658602e9c136d3327f23975"
+  },
+  {
+    "title": "今彩539第115279期　頭獎2注中獎",
+    "url": "https://tw.news.yahoo.com/%E4%BB%8A%E5%BD%A9539%E7%AC%AC115279%E6%9C%9F-%E9%A0%AD%E7%8D%8E2%E6%B3%A8%E4%B8%AD%E7%8D%8E-140817651.html",
+    "source": "Yahoo股市",
+    "summary": "（中央社台北18日電）今彩539第115279期開獎，中獎號碼39、35、22、27、20；派彩結果，頭獎2注中獎，每注獎金新台幣800萬元。",
+    "published_at": "2026-11-18T14:08:17+08:00",
+    "stocks": [],
+    "uid": "55aa8935945a77035c1a0de8f2e7e541"
   },
   {
     "title": "11月電子期漲　金融期跌",
@@ -1592,6 +3454,33 @@
     "uid": "6475fc5491dea7cbb26c648c134854f5"
   },
   {
+    "title": "APEC深圳峰會歡迎晚宴  施振榮伉儷與習近平伉儷合影 (圖)",
+    "url": "https://tw.news.yahoo.com/apec%E6%B7%B1%E5%9C%B3%E5%B3%B0%E6%9C%83%E6%AD%A1%E8%BF%8E%E6%99%9A%E5%AE%B4-%E6%96%BD%E6%8C%AF%E6%A6%AE%E4%BC%89%E5%84%B7%E8%88%87%E7%BF%92%E8%BF%91%E5%B9%B3%E4%BC%89%E5%84%B7%E5%90%88%E5%BD%B1-%E5%9C%96-140547552.html",
+    "source": "Yahoo股市",
+    "summary": "2026年亞太經濟合作經濟領袖會議（APEC深圳峰會）將於19日登場。中國18日以東道主身分舉辦歡迎晚宴，台灣經濟領袖代表施振榮（左2）及夫人葉紫華（左）與中國國家主席習近平（右2）及夫人彭麗媛（右）合影。",
+    "published_at": "2026-11-18T14:05:47+08:00",
+    "stocks": [],
+    "uid": "79cc509c41a55d16dc50f504d2b357c4"
+  },
+  {
+    "title": "美祭黃仁勳條款管制出口　7台廠影響一次看",
+    "url": "https://tw.news.yahoo.com/%E7%BE%8E%E7%A5%AD%E9%BB%83%E4%BB%81%E5%8B%B3%E6%A2%9D%E6%AC%BE%E7%AE%A1%E5%88%B6%E5%87%BA%E5%8F%A3-7%E5%8F%B0%E5%BB%A0%E5%BD%B1%E9%9F%BF-%E6%AC%A1%E7%9C%8B-140500197.html",
+    "source": "Yahoo股市",
+    "summary": "輝達執行長黃仁勳近期辭職並面臨婚外情與國安爭議。同時，美國商務部發布出口管制新規，採一放寬、三收緊架構，撤銷全球算力部署限制，但嚴防第三國轉運與遠端算力漏洞。國內法人分析，新規短期增添供應鏈審查不確定性，但對台灣半導體產業實質影響有限，台積電、日月光等龍頭憑藉合規優勢，長線競爭力仍受市場看好。",
+    "published_at": "2026-11-18T14:05:00+08:00",
+    "stocks": [],
+    "uid": "24cabfc025d07acd961adc98714e0013"
+  },
+  {
+    "title": "【美股盤前】Anthropic明上市！時程、潛在發行價曝光",
+    "url": "https://tw.news.yahoo.com/%E7%BE%8E%E8%82%A1%E7%9B%A4%E5%89%8D-anthropic%E6%98%8E%E4%B8%8A%E5%B8%82-%E6%99%82%E7%A8%8B-%E6%BD%9B%E5%9C%A8%E7%99%BC%E8%A1%8C%E5%83%B9%E6%9B%9D%E5%85%89-140500264.html",
+    "source": "Yahoo股市",
+    "summary": "AI新創巨頭Anthropic上市倒數，預計台灣時間19日公布發行價並於那斯達克掛牌交易，股票代號為ANT。市場傳出發行價可能突破80美元，推算公司估值上看1.6兆美元。最新招股書揭露，亞馬遜與Google上市後將分別持有14.7%與13.7%股權，合計超過28%，雙方同時也是關鍵算力供應商，展現龐大市場吸引力與AI產業鏈的高度鏈結。",
+    "published_at": "2026-11-18T14:05:00+08:00",
+    "stocks": [],
+    "uid": "2cc53404c15b5810fff2494dd5adad85"
+  },
+  {
     "title": "〈房產〉北捷站區周邊店租站點以東門站租金居冠 東區3站店租齊進前十大",
     "url": "https://news.cnyes.com/news/id/6666146",
     "source": "鉅亨網",
@@ -1599,6 +3488,17 @@
     "published_at": "2026-11-18T14:03:11+08:00",
     "stocks": [],
     "uid": "bebd5668c0f16e9a7e72f058fe94b32c"
+  },
+  {
+    "title": "險守4字頭！矽晶圓「這檔」翻紅漲3.55%撐盤　台勝科苦吞2根跌停、今再摔近4%",
+    "url": "https://tw.stock.yahoo.com/news/%E9%9A%AA%E5%AE%884%E5%AD%97%E9%A0%AD-%E7%9F%BD%E6%99%B6%E5%9C%93-%E9%80%99%E6%AA%94-%E7%BF%BB%E7%B4%85%E6%BC%B23-55-140300640.html",
+    "source": "Yahoo股市",
+    "summary": "[FTNN新聞網]記者陳思穎／綜合報導台股今（18）日在歷經2日大跌後回溫上漲，終場收40194.91點，上漲102.8點，漲幅0.26%。矽晶圓族群今日跌多漲少，「矽晶圓雙...",
+    "published_at": "2026-11-18T14:03:00+08:00",
+    "stocks": [
+      "3532"
+    ],
+    "uid": "e4bc16b65167261841333a0fda81d4e3"
   },
   {
     "title": "台股高低震盪1677點　收漲102點守住4萬點",
@@ -1662,6 +3562,15 @@
     "published_at": "2026-11-18T13:53:45+08:00",
     "stocks": [],
     "uid": "f312f10d05685e89cb9a8f63aee9fa16"
+  },
+  {
+    "title": "APEC深圳峰會歡迎晚宴  施振榮與習近平握手 (圖)",
+    "url": "https://tw.news.yahoo.com/apec%E6%B7%B1%E5%9C%B3%E5%B3%B0%E6%9C%83%E6%AD%A1%E8%BF%8E%E6%99%9A%E5%AE%B4-%E6%96%BD%E6%8C%AF%E6%A6%AE%E8%88%87%E7%BF%92%E8%BF%91%E5%B9%B3%E6%8F%A1%E6%89%8B-%E5%9C%96-135340054.html",
+    "source": "Yahoo股市",
+    "summary": "2026年亞太經濟合作經濟領袖會議（APEC深圳峰會）將於19日登場。中國18日以東道主身分舉辦歡迎晚宴，台灣經濟領袖代表施振榮（左2）與中國國家主席習近平（右2）握手。",
+    "published_at": "2026-11-18T13:53:40+08:00",
+    "stocks": [],
+    "uid": "0d41638d0bc19a3f4045c65b5ed7d49e"
   },
   {
     "title": "台股跌！他想起「2008年金融海嘯」一開盤就跌停　過來人1招保命",
