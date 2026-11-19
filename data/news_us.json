@@ -1,5 +1,921 @@
 [
   {
+    "title": "Watch the Biggest Interviews at the DealBook Summit",
+    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/watch-the-biggest-interviews-at-the-dealbook-summit.html",
+    "source": "NYT Business",
+    "summary": "See the full conversations with Prime Minister Mark Carney of Canada, OpenAI’s Sam Altman and Greg Brockman, Mayor Zohran Mamdani of New York, SpaceX’s Elon Musk and more.",
+    "published_at": "2026-11-19T08:47:24+08:00",
+    "stocks": [],
+    "uid": "db4dabb2e823b0f650efca9db11ab76a",
+    "title_en": "Watch the Biggest Interviews at the DealBook Summit",
+    "summary_en": "See the full conversations with Prime Minister Mark Carney of Canada, OpenAI’s Sam Altman and Greg Brockman, Mayor Zohran Mamdani of New York, SpaceX’s Elon Musk and more.",
+    "title_zh": "觀賞 DealBook 高峰會上最盛大的採訪",
+    "summary_zh": "看看與加拿大總理 Mark Carney、OpenAI 的 Sam Altman 和 Greg Brockman、紐約市長 Zohran Mamdani、SpaceX 的 Elon Musk 等的完整對話。"
+  },
+  {
+    "title": "Why Bullish Stock Crushed it on Wednesday",
+    "url": "https://www.fool.com/investing/2026/11/18/why-bullish-stock-crushed-it-on-wednesday/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "It topped analyst estimates in its latest reported quarter.",
+    "published_at": "2026-11-19T08:43:20+08:00",
+    "stocks": [],
+    "uid": "f6ee47f15238a08cb51a8047ddbf1f49",
+    "title_en": "Why Bullish Stock Crushed it on Wednesday",
+    "summary_en": "It topped analyst estimates in its latest reported quarter.",
+    "title_zh": "為什麼看漲股票在周三大跌",
+    "summary_zh": "它在最新報告的季度中超出了分析師的預期。"
+  },
+  {
+    "title": "Stock-Split Watch: Is Micron Next?",
+    "url": "https://www.fool.com/investing/2026/11/18/stock-split-watch-is-micron-next/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Micron looks poised for a stock split, especially after Sandisk's recent announcement.",
+    "published_at": "2026-11-19T08:43:02+08:00",
+    "stocks": [],
+    "uid": "4c24a9735448a38bdcb23ddef817dad3",
+    "title_en": "Stock-Split Watch: Is Micron Next?",
+    "summary_en": "Micron looks poised for a stock split, especially after Sandisk's recent announcement.",
+    "title_zh": "股票分割觀察：美光是下一個嗎？",
+    "summary_zh": "美光似乎準備進行股票分割，尤其是在閃迪最近宣布這一消息之後。"
+  },
+  {
+    "title": "KPMG Canada confirms cyber incident, unauthorized access to some clients’ tax documents",
+    "url": "https://www.investing.com/news/stock-market-news/client-files-at-kpmg-canada-compromised-in-data-breach-the-globe-and-mail-reports-5037148",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-19T08:42:54+08:00",
+    "stocks": [],
+    "uid": "e0ef5cc05998a190a16f21838a7d258d",
+    "title_en": "KPMG Canada confirms cyber incident, unauthorized access to some clients’ tax documents",
+    "summary_en": "",
+    "title_zh": "畢馬威加拿大公司確認網路事件，未經授權存取部分客戶的稅務文件",
+    "summary_zh": ""
+  },
+  {
+    "title": "Fed’s Barr says rate rises likely lie ahead for economy",
+    "url": "https://www.investing.com/news/economy-news/feds-barr-says-rate-rises-likely-lie-ahead-for-economy-5036832",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-19T08:42:41+08:00",
+    "stocks": [],
+    "uid": "b00cb0f830d2ec9c0ff6c412da6677d5",
+    "title_en": "Fed’s Barr says rate rises likely lie ahead for economy",
+    "summary_en": "",
+    "title_zh": "聯準會巴爾表示經濟可能會升息",
+    "summary_zh": ""
+  },
+  {
+    "title": "Watch: Elon Musk Says He’s a Political Moderate, ‘Not MAGA’",
+    "url": "https://www.nytimes.com/2026/11/18/business/watch-elon-musk-dealbook-summit-not-maga.html",
+    "source": "NYT Business",
+    "summary": "Despite his heavy support of Republicans, the SpaceX and Tesla C.E.O. said in an interview at the DealBook Summit that “there are positives and negatives in both parties.”",
+    "published_at": "2026-11-19T08:42:19+08:00",
+    "stocks": [],
+    "uid": "73355e934115af7d118b3bdfb27ea5e2",
+    "title_en": "Watch: Elon Musk Says He’s a Political Moderate, ‘Not MAGA’",
+    "summary_en": "Despite his heavy support of Republicans, the SpaceX and Tesla C.E.O. said in an interview at the DealBook Summit that “there are positives and negatives in both parties.”",
+    "title_zh": "觀看：埃隆馬斯克說他是政治溫和派，“不是 MAGA”",
+    "summary_zh": "儘管得到了共和黨的大力支持，SpaceX 和特斯拉的首席執行官在 DealBook 峰會上接受采訪時表示，“雙方都有積極的一面，也有消極的一面。”"
+  },
+  {
+    "title": "Watch: Hailey Bieber Says Social Media Has Affected Her Mental Health",
+    "url": "https://www.nytimes.com/2026/11/18/business/watch-hailey-bieber-social-media-mental-health.html",
+    "source": "NYT Business",
+    "summary": "The model and entrepreneur, who last year sold her Rhode beauty brand for some $800 million, said in an interview at the DealBook Summit that online comments can be “distorting to the mind.”",
+    "published_at": "2026-11-19T08:41:12+08:00",
+    "stocks": [],
+    "uid": "a625e1187c73fafe5cc6c00b4c175b08",
+    "title_en": "Watch: Hailey Bieber Says Social Media Has Affected Her Mental Health",
+    "summary_en": "The model and entrepreneur, who last year sold her Rhode beauty brand for some $800 million, said in an interview at the DealBook Summit that online comments can be “distorting to the mind.”",
+    "title_zh": "觀看：海莉·比伯說社交媒體影響了她的心理健康",
+    "summary_zh": "這位模特兒兼企業家去年以約 8 億美元的價格出售了自己的 Rhode 美容品牌，她在 DealBook 峰會上接受採訪時表示，網上評論可能「扭曲思想」。"
+  },
+  {
+    "title": "NSA outage hits Georgia facility supporting Middle East operations- CNN",
+    "url": "https://www.investing.com/news/stock-market-news/nsa-outage-hits-georgia-facility-supporting-middle-east-operations-cnn-93CH-5037450",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-19T08:40:26+08:00",
+    "stocks": [],
+    "uid": "f4570f9512218e381f509b1e05571458",
+    "title_en": "NSA outage hits Georgia facility supporting Middle East operations- CNN",
+    "summary_en": "",
+    "title_zh": "美國國家安全局支持中東行動的喬治亞州設施停電 - CNN",
+    "summary_zh": ""
+  },
+  {
+    "title": "Watch: Robinhood’s C.E.O. Says He Shouldn’t Decide What You Can Trade",
+    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/adena-friedman-vlad-tenev-shayne-copland-dealbook-summit.html",
+    "source": "NYT Business",
+    "summary": "Speaking alongside the Nasdaq chief Adena Friedman and the Polymarket founder Shayne Coplan, Vlad Tenev said regular investors should have access to more opportunities.",
+    "published_at": "2026-11-19T08:39:41+08:00",
+    "stocks": [],
+    "uid": "9e671f1bb7933563b77f14f67e38992a",
+    "title_en": "Watch: Robinhood’s C.E.O. Says He Shouldn’t Decide What You Can Trade",
+    "summary_en": "Speaking alongside the Nasdaq chief Adena Friedman and the Polymarket founder Shayne Coplan, Vlad Tenev said regular investors should have access to more opportunities.",
+    "title_zh": "觀看：Robinhood 的執行長說他不應該決定你可以交易什麼",
+    "summary_zh": "弗拉德·特涅夫 (Vlad Tenev) 與納斯達克首席執行官阿迪娜·弗里德曼 (Adena Friedman) 和 Polymarket 創始人謝恩·科普蘭 (Shayne Coplan) 一起發表講話，表示普通投資者應該獲得更多機會。"
+  },
+  {
+    "title": "3 Investments to Give a Child This Holiday Season and Leave Alone Until 2040",
+    "url": "https://www.fool.com/investing/2026/11/18/3-investments-to-give-a-child-this-holiday-season-and-leave-alone-until-2040/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Which holdings can stay untouched for 14 years without anybody watching them?",
+    "published_at": "2026-11-19T08:38:02+08:00",
+    "stocks": [],
+    "uid": "44201db88bfe87aa66b3559f2493a626",
+    "title_en": "3 Investments to Give a Child This Holiday Season and Leave Alone Until 2040",
+    "summary_en": "Which holdings can stay untouched for 14 years without anybody watching them?",
+    "title_zh": "假期期間給孩子的 3 項投資，讓他們在 2040 年之前不要打擾",
+    "summary_zh": "哪些資產可以在無人監管的情況下 14 年維持原狀？"
+  },
+  {
+    "title": "PYC Therapeutics at Bell Potter healthcare conference: 2027 looms large",
+    "url": "https://www.investing.com/news/transcripts/pyc-therapeutics-at-bell-potter-healthcare-conference-2027-looms-large-93CH-5037446",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-19T08:37:44+08:00",
+    "stocks": [],
+    "uid": "60d2b093490f069b043ae9313350d327",
+    "title_en": "PYC Therapeutics at Bell Potter healthcare conference: 2027 looms large",
+    "summary_en": "",
+    "title_zh": "貝爾波特醫療保健會議上的 PYC Therapeutics：2027 年即將到來",
+    "summary_zh": ""
+  },
+  {
+    "title": "How Nvidia Chips Ended Up Within Reach of China’s Military",
+    "url": "https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html",
+    "source": "NYT Business",
+    "summary": "Alibaba, the Chinese internet giant behind the company at the center of the Nvidia spy saga, has used its A.I. computing technology to aid a lab with links to China’s military.",
+    "published_at": "2026-11-19T08:37:13+08:00",
+    "stocks": [],
+    "uid": "449e24658162a857434e3834fb5f1d42",
+    "title_en": "How Nvidia Chips Ended Up Within Reach of China’s Military",
+    "summary_en": "Alibaba, the Chinese internet giant behind the company at the center of the Nvidia spy saga, has used its A.I. computing technology to aid a lab with links to China’s military.",
+    "title_zh": "英偉達晶片如何最終進入中國軍方手中",
+    "summary_zh": "阿里巴巴是中國網路巨頭，背後的公司是英偉達間諜傳奇的中心，該公司已使用其人工智慧技術。計算技術為與中國軍方有聯繫的實驗室提供協助。"
+  },
+  {
+    "title": "Anthropic clinches biggest IPO ever with $81 billion offering",
+    "url": "https://www.investing.com/news/stock-market-news/anthropic-prices-blockbuster-ipo-at-83-a-share-source-says-5037110",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-19T08:36:55+08:00",
+    "stocks": [],
+    "uid": "996f7de04062cd06cb4ba6cd122cbbf4",
+    "title_en": "Anthropic clinches biggest IPO ever with $81 billion offering",
+    "summary_en": "",
+    "title_zh": "Anthropic 發行 810 億美元，完成史上最大規模 IPO",
+    "summary_zh": ""
+  },
+  {
+    "title": "Why is Sunrise Energy Metals stock sliding today?",
+    "url": "https://www.investing.com/news/stock-market-news/why-is-sunrise-energy-metals-stock-sliding-today-93CH-5037444",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-19T08:36:48+08:00",
+    "stocks": [],
+    "uid": "b9077e868a763a94fc653eaa3dbd97f4"
+  },
+  {
+    "title": "Snap Inc. CCO Ronan Harris sells $1.26m in stock",
+    "url": "https://www.investing.com/news/insider-trading-news/snap-inc-cco-ronan-harris-sells-126m-in-stock-93CH-5037443",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-19T08:35:33+08:00",
+    "stocks": [],
+    "uid": "d74c4e50b23860ccf66631f18c241ff4",
+    "title_en": "Snap Inc. CCO Ronan Harris sells $1.26m in stock",
+    "summary_en": "",
+    "title_zh": "Snap Inc. CCO Ronan Harris 出售價值 126 萬美元的股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Snap general counsel Zachary Briers sells $1.07 million in stock",
+    "url": "https://www.investing.com/news/insider-trading-news/snap-general-counsel-zachary-briers-sells-107-million-in-stock-93CH-5037441",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-19T08:34:56+08:00",
+    "stocks": [],
+    "uid": "b4c4cf8c5647f81a014b08a76ae6b79f",
+    "title_en": "Snap general counsel Zachary Briers sells $1.07 million in stock",
+    "summary_en": "",
+    "title_zh": "Snap 總法律顧問 Zachary Briers 出售價值 107 萬美元的股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Snap’s chief accounting officer Rebecca Morrow sells $183,563 in stock",
+    "url": "https://www.investing.com/news/insider-trading-news/snaps-chief-accounting-officer-rebecca-morrow-sells-183563-in-stock-93CH-5037440",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-19T08:34:54+08:00",
+    "stocks": [],
+    "uid": "de013c6119236d48892e72c083189879",
+    "title_en": "Snap’s chief accounting officer Rebecca Morrow sells $183,563 in stock",
+    "summary_en": "",
+    "title_zh": "Snap 首席會計長 Rebecca Morrow 出售價值 183,563 美元的股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Constellation Brands 10% owner disposes of $21.75m in shares",
+    "url": "https://www.investing.com/news/insider-trading-news/constellation-brands-10-owner-disposes-of-2175m-in-shares-93CH-5037436",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-19T08:31:07+08:00",
+    "stocks": [],
+    "uid": "3a68fb59bd1ac7cb119d99c6f8c07013",
+    "title_en": "Constellation Brands 10% owner disposes of $21.75m in shares",
+    "summary_en": "",
+    "title_zh": "Constellation Brands 10% 所有者出售價值 2,175 萬美元的股票",
+    "summary_zh": ""
+  },
+  {
+    "title": "Elauwit: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/18/elauwit-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Property owners pay wholesale rates and charge tenants below retail, and a 12-month lease rollover builds the recurring base over time.",
+    "published_at": "2026-11-19T08:27:48+08:00",
+    "stocks": [],
+    "uid": "02542bd4ea725453164b2ae029130b86",
+    "title_en": "Elauwit: 3 Key Takeaways for Long-Term Investors",
+    "summary_en": "Property owners pay wholesale rates and charge tenants below retail, and a 12-month lease rollover builds the recurring base over time.",
+    "title_zh": "Elauwit：長期投資者的 3 個要點",
+    "summary_zh": "業主支付批發費並向租戶收取低於零售費的費用，12 個月的租賃展期可隨著時間的推移建立經常性基礎。"
+  },
+  {
+    "title": "Montauk Renewables: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/18/montauk-renewables-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Swine waste upgrades, roughly $15 million and three months out, will test whether the project timeline holds for investors.",
+    "published_at": "2026-11-19T08:27:02+08:00",
+    "stocks": [],
+    "uid": "cb6b65ebd7be538be086fe2ef534faf3",
+    "title_en": "Montauk Renewables: 3 Key Takeaways for Long-Term Investors",
+    "summary_en": "Swine waste upgrades, roughly $15 million and three months out, will test whether the project timeline holds for investors.",
+    "title_zh": "蒙托克再生能源：長期投資者的 3 個要點",
+    "summary_zh": "豬糞升級工程耗資約 1500 萬美元，為期三個月，將考驗投資者的專案時間表是否成立。"
+  },
+  {
+    "title": "UiPath vs. Palantir Technologies: Comparing Modest Revenue Growth vs. Rapid Expansion",
+    "url": "https://www.fool.com/coverage/charts/2026/11/18/uipath-vs-palantir-technologies-comparing-modest-revenue-growth-vs-rapid-expansion/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Palantir's quarterly revenue has more than doubled over the past eight quarters, while UiPath's has stayed largely flat with recurring seasonal swings.",
+    "published_at": "2026-11-19T08:25:18+08:00",
+    "stocks": [],
+    "uid": "dcc7dc38e09de0afe619d4de3c947fd8",
+    "title_en": "UiPath vs. Palantir Technologies: Comparing Modest Revenue Growth vs. Rapid Expansion",
+    "summary_en": "Palantir's quarterly revenue has more than doubled over the past eight quarters, while UiPath's has stayed largely flat with recurring seasonal swings.",
+    "title_zh": "UiPath 與 Palantir Technologies：比較適度的營收成長與快速擴張",
+    "summary_zh": "Palantir 的季度收入在過去八個季度中增長了一倍多，而 UiPath 的收入基本上持平，但經常出現季節性波動。"
+  },
+  {
+    "title": "Missed the Anthropic IPO Allocation? Here’s How to Buy ANT on Thursday.",
+    "url": "https://www.fool.com/investing/2026/11/18/missed-anthropic-ipo-allocation-how-to-buy-ant-stock-thursday/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Anthropic stock will be a hot commodity on Day 1 of its public listing.",
+    "published_at": "2026-11-19T08:21:28+08:00",
+    "stocks": [],
+    "uid": "dc3c36671483b7dd3c0c489098eb0ab2",
+    "title_en": "Missed the Anthropic IPO Allocation? Here’s How to Buy ANT on Thursday.",
+    "summary_en": "Anthropic stock will be a hot commodity on Day 1 of its public listing.",
+    "title_zh": "錯過了 Anthropic IPO 分配？以下是星期四如何購買 ANT。",
+    "summary_zh": "Anthropic 股票將在其公開上市的第一天成為熱門商品。"
+  },
+  {
+    "title": "Watch: Palmer Luckey Warns of Falling Behind in A.I. Race",
+    "url": "https://www.nytimes.com/2026/11/18/business/watch-palmer-luckey-ai-dealbook-summit.html",
+    "source": "NYT Business",
+    "summary": "The founder of Anduril Industries, a defense tech company, is advising the Pentagon on how to map out the future of war.",
+    "published_at": "2026-11-19T08:21:00+08:00",
+    "stocks": [],
+    "uid": "14a9b3a3bc2f0a7a53c8472033098c1f",
+    "title_en": "Watch: Palmer Luckey Warns of Falling Behind in A.I. Race",
+    "summary_en": "The founder of Anduril Industries, a defense tech company, is advising the Pentagon on how to map out the future of war.",
+    "title_zh": "觀看：帕爾默·拉基警告人工智慧領域的落後種族",
+    "summary_zh": "國防科技公司安杜里爾工業公司的創始人正在就如何規劃戰爭的未來向五角大廈提供建議。"
+  },
+  {
+    "title": "Watch: Satya Nadella on A.I.’s Threat to Global Infrastructure",
+    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/watch-satya-nadella-dealbook-summit.html",
+    "source": "NYT Business",
+    "summary": "In an interview at the DealBook Summit, the Microsoft chief executive said A.I. tools were finding bugs at a breakneck pace.",
+    "published_at": "2026-11-19T08:20:48+08:00",
+    "stocks": [],
+    "uid": "5dededf768ba4a2d9705797a08652a94",
+    "title_en": "Watch: Satya Nadella on A.I.’s Threat to Global Infrastructure",
+    "summary_en": "In an interview at the DealBook Summit, the Microsoft chief executive said A.I. tools were finding bugs at a breakneck pace.",
+    "title_zh": "觀看：薩蒂亞·納德拉 (Satya Nadella) 談人工智慧對全球基礎設施的威脅",
+    "summary_zh": "在 DealBook 高峰會上接受採訪時，微軟執行長表示 A.I.工具以極快的速度發現錯誤。"
+  },
+  {
+    "title": "Microsoft CEO Satya Nadella calls Outlook outage a 'perfect storm.' Here's what went wrong",
+    "url": "https://www.cnbc.com/2026/11/18/microsoft-put-the-ai-threat-to-software-behind-it-then-came-the-outage.html",
+    "source": "CNBC Tech",
+    "summary": "Microsoft shares have dropped nearly 9% since closing at a record high on Nov. 4.",
+    "published_at": "2026-11-19T08:18:28+08:00",
+    "stocks": [],
+    "uid": "012ab2e3f5b88bef9b427a5ed753a1e7",
+    "title_en": "Microsoft CEO Satya Nadella calls Outlook outage a 'perfect storm.' Here's what went wrong",
+    "summary_en": "Microsoft shares have dropped nearly 9% since closing at a record high on Nov. 4.",
+    "title_zh": "微軟執行長 Satya Nadella 將 Outlook 中斷稱為「完美風暴」。這是出了問題的地方",
+    "summary_zh": "自 11 月 4 日收盤創下歷史新高以來，微軟股價已下跌近 9%。"
+  },
+  {
+    "title": "Here's What a $1,000 Investment in Kraken Robotics Will Be Worth by the End of 2027 if Undersea Drone Orders Keep Doubling",
+    "url": "https://www.fool.com/investing/2026/11/18/heres-what-a-1000-investment-in-kraken-robotics-wi/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Down 70% from its high, would a doubling of drone revenue in 2027 be enough to drive a big rebound for Kraken Robotics stock?",
+    "published_at": "2026-11-19T08:15:00+08:00",
+    "stocks": [],
+    "uid": "5c53db628463c9ee7cd49f1442c49ffe",
+    "title_en": "Here's What a $1,000 Investment in Kraken Robotics Will Be Worth by the End of 2027 if Undersea Drone Orders Keep Doubling",
+    "summary_en": "Down 70% from its high, would a doubling of drone revenue in 2027 be enough to drive a big rebound for Kraken Robotics stock?",
+    "title_zh": "如果海底無人機訂單繼續翻倍，到 2027 年底，對 Kraken 機器人公司投資 1,000 美元將是值得的",
+    "summary_zh": "較高點下跌 70%，2027 年無人機營收翻倍是否足以推動 Kraken Robotics 股票大幅反彈？"
+  },
+  {
+    "title": "Mamdani Talks Trump, Taxes and Oct. 7 at DealBook Summit",
+    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/zohran-mamdani-dealbook-summit.html",
+    "source": "NYT Business",
+    "summary": "In a wide-ranging conversation, Mayor Zohran Mamdani of New York discussed the midterms, President Trump and that “tax the rich” video.",
+    "published_at": "2026-11-19T08:09:44+08:00",
+    "stocks": [],
+    "uid": "019d052c847c06bc8e17bb1b49c02a79"
+  },
+  {
+    "title": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access",
+    "url": "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html",
+    "source": "CNBC Top",
+    "summary": "Kash Patel missed a congressional hearing after appearing the night before at a Mar-a-Lago gala offering donors of $50,000 access to top officials.",
+    "published_at": "2026-11-19T08:08:14+08:00",
+    "stocks": [],
+    "uid": "f3259224d87db2b8b6b24031f1323b8f"
+  },
+  {
+    "title": "GameSquare: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/18/gamesquare-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "GameSquare is shifting toward owned IP like Peaky Blinders while trimming crypto exposure that once tied its balance sheet to market swings.",
+    "published_at": "2026-11-19T08:07:23+08:00",
+    "stocks": [],
+    "uid": "5a6e615deacc915a416e0611cb01e4d6"
+  },
+  {
+    "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
+    "url": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
+    "source": "CNBC Markets",
+    "summary": "Palo Alto Networks has been steadily acquiring companies to capitalize on demand for cyber tools to fight AI.",
+    "published_at": "2026-11-19T08:07:06+08:00",
+    "stocks": [],
+    "uid": "0f9523c463e4ef6098b2c9b6941ed6c9"
+  },
+  {
+    "title": "Ballard Power: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/18/ballard-power-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Ballard is betting on rented generators, but its cost savings depend on next-generation engines that customers have not yet begun taking delivery of.",
+    "published_at": "2026-11-19T08:05:06+08:00",
+    "stocks": [],
+    "uid": "2711c4a127d24d06c354faecabcf8df7"
+  },
+  {
+    "title": "After Nvidia’s Earnings, Here’s My Prediction for the Stock Price by the End of the Year",
+    "url": "https://www.fool.com/investing/2026/11/18/after-nvidia-s-earnings-here-s-my-prediction-for-the-stock-price-by-the-end-of-the-year/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Nvidia stock has dropped more than 30% in just a few weeks.",
+    "published_at": "2026-11-19T08:05:02+08:00",
+    "stocks": [],
+    "uid": "ce732a996b7fefd06f1446577f765a3d"
+  },
+  {
+    "title": "Inside India newsletter: Foreign flows helped the market recover. Now it faces the inflation test",
+    "url": "https://www.cnbc.com/2026/11/19/india-inflation-foreign-investor-nifty50.html",
+    "source": "CNBC Top",
+    "summary": "India’s inflation, which has been on the rise for 12 straight months, is becoming a risk to growth and to the reversal of foreign inflows.",
+    "published_at": "2026-11-19T08:01:23+08:00",
+    "stocks": [],
+    "uid": "ae3554a5a92461fd217f55379e6c0992"
+  },
+  {
+    "title": "Yes, You Can Invest in Grand Theft Auto VI (GTA 6). Here's How.",
+    "url": "https://www.fool.com/investing/2026/11/18/yes-you-can-invest-in-grand-theft-auto-vi-gta-6-here-s-how/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Investors have several options for buying GTA 6-related investments.",
+    "published_at": "2026-11-19T08:00:11+08:00",
+    "stocks": [],
+    "uid": "86b2f0c8e2090893e2b8103e6bdd5ca2"
+  },
+  {
+    "title": "A.I. Makes More Tech Outages Likely, Microsoft’s Chief Warns",
+    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/microsoft-satya-nadella-outages-ai.html",
+    "source": "NYT Business",
+    "summary": "Satya Nadella said that A.I. tools were finding cybersecurity bugs at a breakneck pace, and that companies were having to create fixes and deploy them “instantaneously.”",
+    "published_at": "2026-11-19T07:58:15+08:00",
+    "stocks": [],
+    "uid": "27be0c6a32ad664de83e1f3ed30953a1"
+  },
+  {
+    "title": "XPeng: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/18/xpeng-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Licensing its Turing AI chips and software to outside automakers could add a second revenue stream beyond selling cars, a point management tied directly to margins.",
+    "published_at": "2026-11-19T07:50:38+08:00",
+    "stocks": [],
+    "uid": "a64089f81d5d84c58102110fb7dbbeae"
+  },
+  {
+    "title": "Jim Cramer says Nvidia has a new problem — and it has nothing to do with earnings",
+    "url": "https://www.cnbc.com/2026/11/18/nvidia-cramer-anthropic-ipo-ceo.html",
+    "source": "CNBC Tech",
+    "summary": "CNBC's Jim Cramer warned that Anthropic's highly anticipated IPO presents another headwind for Nvidia.",
+    "published_at": "2026-11-19T07:46:32+08:00",
+    "stocks": [],
+    "uid": "6b61b621bccd01bd84e8de505bfc985c"
+  },
+  {
+    "title": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit",
+    "url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
+    "source": "CNBC Top",
+    "summary": "Nvidia's interim CEO Colette Kress urges staff forward and offers pay raises after Jensen Huang exit.",
+    "published_at": "2026-11-19T07:45:50+08:00",
+    "stocks": [],
+    "uid": "30a4a985b77b78375f32722ba9ff2423"
+  },
+  {
+    "title": "Big bets against AI debt, from CoreWeave to Oracle and the Mag 7, could soon hit the ETF market",
+    "url": "https://www.cnbc.com/2026/11/18/ai-credit-default-swaps-coreweave-debt.html",
+    "source": "CNBC Top",
+    "summary": "Investor fears about AI balance sheets and debt are running high, especially for neoclouds. ETFs targeting the credit default swaps of AI issuers are coming.",
+    "published_at": "2026-11-19T07:38:55+08:00",
+    "stocks": [],
+    "uid": "ca532e07f491dfca5202917e7ea3a29f"
+  },
+  {
+    "title": "Is Alphabet Stock a Buy Right Now?",
+    "url": "https://www.fool.com/investing/2026/11/18/is-alphabet-stock-a-buy-right-now/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The stock's upside far outweighs its potential downside.",
+    "published_at": "2026-11-19T07:37:02+08:00",
+    "stocks": [],
+    "uid": "dae0e4ba697f7ddc3a7c6d1d676fdc59"
+  },
+  {
+    "title": "Prediction: This Will Be Sandisk’s Stock Price by the End of 2027",
+    "url": "https://www.fool.com/investing/2026/11/18/prediction-this-will-be-sandisks-stock-price-by-the-end-of-2027/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Sandisk stock's recent slide isn't justified, and I won't be surprised to see a big rally over the coming year.",
+    "published_at": "2026-11-19T07:30:02+08:00",
+    "stocks": [],
+    "uid": "69c830bcca2c7ffb4c92c2d024270af3"
+  },
+  {
+    "title": "Blackstone Digital Infrastructure: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/18/blackstone-digital-infrastructure-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Amazon keeps a 25% stake in the joint venture, a structure that ties the tenant's fortunes to the portfolio's performance.",
+    "published_at": "2026-11-19T07:26:55+08:00",
+    "stocks": [],
+    "uid": "634aee60aa63503c84a57a1246a3632d"
+  },
+  {
+    "title": "Alphabet vs. Apple: Which Warren Buffett Stock Is the Better Buy?",
+    "url": "https://www.fool.com/investing/2026/11/18/alphabet-vs-apple-which-warren-buffett-stock-is-the-better-buy/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Both are major positions in the Berkshire Hathaway portfolio.",
+    "published_at": "2026-11-19T07:25:02+08:00",
+    "stocks": [],
+    "uid": "03bee9a76d05ed1d992fcf77ef1921ca"
+  },
+  {
+    "title": "Sigma (SGML) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/18/sigma-sgml-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Debt refinancing and a return to full operations shaped the quarter.",
+    "published_at": "2026-11-19T07:23:18+08:00",
+    "stocks": [
+      "SGML"
+    ],
+    "uid": "52e8993864c39b6f902d92d87f4fec8b"
+  },
+  {
+    "title": "Thinking About Buying Anthropic’s IPO on Nov. 19? Here’s an AI Stock I’d Consider First (Hint: It’s Not Nvidia or Broadcom).",
+    "url": "https://www.fool.com/investing/2026/11/18/thinking-about-buying-anthropic-s-ipo-on-nov-19-here-s-an-ai-stock-i-d-consider-first-hint-it-s-not-nvidia-or-broadcom/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "ASML’s impeccable fundamentals allow investors to rest easy amid AI stock volatility.",
+    "published_at": "2026-11-19T07:15:02+08:00",
+    "stocks": [],
+    "uid": "88f0551fba9ceb2287aea21d312eb9d8"
+  },
+  {
+    "title": "Palo Alto Networks: Accelerating Growth and a $4.5 Billion Bet on the Future of Cybersecurity",
+    "url": "https://www.fool.com/investing/2026/11/18/palo-alto-networks-accelerating-growth-and-a-45-billion-bet-on-the-future-of-cybersecurity/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Demand has never been stronger for the cybersecurity specialist.",
+    "published_at": "2026-11-19T07:14:09+08:00",
+    "stocks": [],
+    "uid": "755de39022ee5a7c66c8e1cfe2bfea07"
+  },
+  {
+    "title": "Watch: Zohran Mamdani on Finding Common Ground With Trump",
+    "url": "https://www.nytimes.com/2026/11/18/business/watch-zohran-mamdani-on-finding-common-ground-with-trump.html",
+    "source": "NYT Business",
+    "summary": "The mayor of New York also stood by his positions on Israel and Gaza. “I have a politics of universality,” he said in a wide-ranging interview at the DealBook Summit.",
+    "published_at": "2026-11-19T07:13:33+08:00",
+    "stocks": [],
+    "uid": "fbc27d91970cce318b4ceadd5d82bd0e"
+  },
+  {
+    "title": "What the ‘death cross’ in small-cap stocks means for the rest of the market",
+    "url": "https://www.marketwatch.com/story/what-the-death-cross-in-small-cap-stocks-means-for-the-rest-of-the-stock-market-edd8e86e?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The negative chart pattern confirms weakness in the Russell 2000 and in overall market breadth.",
+    "published_at": "2026-11-19T07:12:00+08:00",
+    "stocks": [],
+    "uid": "67d50a14cdc3a482a88be792c4bb4d9b"
+  },
+  {
+    "title": "What Nvidia’s Interim CEO, Colette Kress, Said to Employees After Jensen Huang’s Resignation",
+    "url": "https://www.nytimes.com/2026/11/18/technology/nvidia-jensen-huang-affair-colette-kress.html",
+    "source": "NYT Business",
+    "summary": "At an all-hands meeting with employees, Colette Kress sought to put the indiscretions of Nvidia’s co-founder, Jensen Huang, behind them.",
+    "published_at": "2026-11-19T07:10:00+08:00",
+    "stocks": [],
+    "uid": "418ff6ba6124822922b12936ca6b4f2d"
+  },
+  {
+    "title": "6 Stocks Set to Cash In on the Grand Theft Auto VI Launch Boom",
+    "url": "https://www.fool.com/investing/2026/11/18/6-stocks-set-to-cash-in-on-the-grand-theft-auto-vi-launch-boom/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Take-Two Interactive is the obvious winner, but it's not the only company that will benefit.",
+    "published_at": "2026-11-19T07:04:15+08:00",
+    "stocks": [],
+    "uid": "78167bdcf83a4827ffbbd278e66ef89d"
+  },
+  {
+    "title": "Watch: OpenAI’s Top Executives Talk Rogue Agents and A.I. Security",
+    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/watch-openais-top-executives-talk-rogue-agents-and-ai-security.html",
+    "source": "NYT Business",
+    "summary": "In an interview at the DealBook Summit, the co-founders Sam Altman and Greg Brockman discussed how to strike a balance between safety and risk.",
+    "published_at": "2026-11-19T07:03:45+08:00",
+    "stocks": [],
+    "uid": "4a2b1b76cac7980a2660b3d24f70b091"
+  },
+  {
+    "title": "How copper’s plunge could hurt the AI buildout",
+    "url": "https://www.marketwatch.com/story/coppers-plunge-could-make-the-ai-data-center-buildout-more-painful-7057f41c?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The world might not be able to mine enough copper to meet AI’s demand for years to come.",
+    "published_at": "2026-11-19T07:02:00+08:00",
+    "stocks": [],
+    "uid": "780d869bf94dd3a0d0a942ec4157bff1"
+  },
+  {
+    "title": "The stock market is being rocked by the biggest shake-up in a generation as tech falls behind",
+    "url": "https://www.marketwatch.com/story/the-stock-market-is-being-rocked-by-the-biggest-shake-up-in-a-generation-as-tech-falls-behind-66c1f281?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Tech stocks are looking cheap, while defensive sectors like consumer staples are screening as expensive.",
+    "published_at": "2026-11-19T06:53:00+08:00",
+    "stocks": [],
+    "uid": "d32f7270cbd83a28fb4b3f5e61daab86"
+  },
+  {
+    "title": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings",
+    "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "The company boosts its outlook in the face of the “current threat environment and demand we see ahead of us.”",
+    "published_at": "2026-11-19T06:53:00+08:00",
+    "stocks": [],
+    "uid": "1f8b734ce39470a59f58b404952fa3ae"
+  },
+  {
+    "title": "Gold and silver sink to 14-month lows as hawkish Fed commentary boosts dollar",
+    "url": "https://seekingalpha.com/news/4674454-gold-and-silver-sink-to-14-month-lows-as-hawkish-fed-commentary-boosts-dollar?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-11-19T06:50:53+08:00",
+    "stocks": [],
+    "uid": "7fa268df380912651fb06c7ad95c4760"
+  },
+  {
+    "title": "Northrop Grumman declares $2.47 dividend",
+    "url": "https://seekingalpha.com/news/4674485-northrop-grumman-declares-2_47-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-11-19T06:49:39+08:00",
+    "stocks": [],
+    "uid": "ecb33078105861932191a2433a520ec8"
+  },
+  {
+    "title": "Lake Ridge Bancorp raises dividend by 7.9% $0.68",
+    "url": "https://seekingalpha.com/news/4674484-lake-ridge-bancorp-raises-dividend-by-79-068?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-11-19T06:48:56+08:00",
+    "stocks": [],
+    "uid": "f472ed83ca17dc096ba790a52386d1fc"
+  },
+  {
+    "title": "RETO Eco-Solutions reports 1H results",
+    "url": "https://seekingalpha.com/news/4674483-reto-eco-solutions-reports-1h-results?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-11-19T06:47:18+08:00",
+    "stocks": [],
+    "uid": "9b5e54994587a3f0aabf353e87c9103f"
+  },
+  {
+    "title": "Loblaw November Food Inflation Report",
+    "url": "https://markets.businessinsider.com/news/stocks/loblaw-november-food-inflation-report-1036781008",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;TORONTO, Nov.  18, 2026  (GLOBE NEWSWIRE) -- Today, Loblaw released the latest edition of its &lt;a...",
+    "published_at": "2026-11-19T06:44:14+08:00",
+    "stocks": [],
+    "uid": "e9193a133c9a0da845e5b8c5f8e6aea7"
+  },
+  {
+    "title": "Innovation Beverage Group GAAP EPS of -$0.91, revenue of $1.8M",
+    "url": "https://seekingalpha.com/news/4674482-innovation-beverage-group-gaap-eps-of-0_91-revenue-of-1_8m?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-11-19T06:44:11+08:00",
+    "stocks": [],
+    "uid": "684b05906bf89fa2445afc06036226a5"
+  },
+  {
+    "title": "Eddy Smart Home Solutions reports Q3 results",
+    "url": "https://seekingalpha.com/news/4674481-eddy-smart-home-solutions-reports-q3-results?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-11-19T06:42:40+08:00",
+    "stocks": [],
+    "uid": "0a539936d50fe0f258ba8f03676c016a"
+  },
+  {
+    "title": "Neuronetics Reports Inducement Grant Under Nasdaq Listing Rule 5635(c)(4)",
+    "url": "https://markets.businessinsider.com/news/stocks/neuronetics-reports-inducement-grant-under-nasdaq-listing-rule-5635-c-4-1036781007",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;MALVERN, Pa., Nov.  18, 2026  (GLOBE NEWSWIRE) -- Neuronetics, Inc. (NASDAQ: STIM), a leader in interventional mental health and provider of NeuroStar&lt;sup&gt;&#174;&lt;/sup&gt; TMS technology and direct patient care through the Greenbrook network of...",
+    "published_at": "2026-11-19T06:41:30+08:00",
+    "stocks": [],
+    "uid": "8f87a212bb276d154fe1969a60e4fb9e"
+  },
+  {
+    "title": "ROSEN, NATIONAL TRIAL COUNSEL, Encourages Kinross Gold Corporation Investors to Secure Counsel Before Important Deadline in Securities Class Action - KGC",
+    "url": "https://markets.businessinsider.com/news/stocks/rosen-national-trial-counsel-encourages-kinross-gold-corporation-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-kgc-1036781015",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/324679/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px;  height: 1px;border: 0px solid;&quot;&gt;New York, New York--(Newsfile Corp. - November 18, 2026) - &lt;b&gt;WHY:&lt;/b&gt;&#160;Rosen Law Firm, a global investor rights law firm, reminds purchasers of common stock of Kinross Gold Corporation (NYSE:",
+    "published_at": "2026-11-19T06:41:00+08:00",
+    "stocks": [],
+    "uid": "bf58fec461b25c58f75f061ecb124fb9"
+  },
+  {
+    "title": "Northrop Grumman Board Declares Quarterly Dividend",
+    "url": "https://markets.businessinsider.com/news/stocks/northrop-grumman-board-declares-quarterly-dividend-1036780993",
+    "source": "Business Insider",
+    "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;FALLS CHURCH, Va., Nov.  18, 2026  (GLOBE NEWSWIRE) -- The board of directors of Northrop Grumman Corporation (NYSE: NOC) declared a quarterly dividend of $2.47 per share on Northrop Grumman common stock, payable December 16, 2026, to shareholders...",
+    "published_at": "2026-11-19T06:40:19+08:00",
+    "stocks": [],
+    "uid": "4c22be689334f376596ca118d3273d83"
+  },
+  {
+    "title": "Stock Market Today, Nov. 18: S&P 500 Breaks Key Support as Fed Minutes Signal More Rate Hikes Ahead",
+    "url": "https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-today-nov-18-s-and-p-500-breaks-key-support-as-fed-minutes-signal-more-rate-hikes-ahead/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Wall Street's troubles are mounting as expectations for further interest rate hikes overshadow strong corporate earnings and threaten to undermine the market's long-term upward trend.",
+    "published_at": "2026-11-19T06:40:02+08:00",
+    "stocks": [],
+    "uid": "fbec6cf39fd48d4fc3a9117441002c78"
+  },
+  {
+    "title": "Polymarket CEO Says Donald Trump Jr.’s Involvement Is ‘Overblown’",
+    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/polymarket-donald-trump-jr-shayne-coplan.html",
+    "source": "NYT Business",
+    "summary": "At the DealBook Summit, Shayne Coplan, the founder of Polymarket, defended the investment by a firm associated with President Trump’s oldest son.",
+    "published_at": "2026-11-19T06:37:37+08:00",
+    "stocks": [],
+    "uid": "b2add3a1d6ff698d61a837d39643a6b9"
+  },
+  {
+    "title": "Nvidia’s booming demand is ‘hard to ignore,’ but these four questions loom over the stock",
+    "url": "https://www.marketwatch.com/story/what-wall-street-analysts-are-now-saying-after-nvidias-beat-and-raise-quarter-9311c85d?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Nvidia investors face uncertainty around CEO succession, the AI ecosystem, export controls and China.",
+    "published_at": "2026-11-19T06:31:00+08:00",
+    "stocks": [],
+    "uid": "2a147cf1699c3b0b57870300d4566318"
+  },
+  {
+    "title": "Jensen Huang Is Top of Mind for Tech Leaders at DealBook Summit",
+    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/jensen-huang-nvidia-tech-leaders-reaction.html",
+    "source": "NYT Business",
+    "summary": "Sam Altman of OpenAI and Palmer Luckey of Anduril expressed support for Mr. Huang, who resigned as chief executive of the chip maker Nvidia last week.",
+    "published_at": "2026-11-19T06:30:34+08:00",
+    "stocks": [],
+    "uid": "25d1e396221b0c5e5e8bde756c787b0a"
+  },
+  {
+    "title": "Crypto Market Today, Nov. 18: Bitcoin's 12% Weekly Plunge Has Triggered a Rare Signal With a Surprising History",
+    "url": "https://www.fool.com/coverage/stock-market-today/2026/11/18/crypto-market-today-nov-18-bitcoin-s-12-weekly-plunge-has-triggered-a-rare-signal-with-a-surprising-history/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "As liquidity continues to evaporate from cryptocurrency markets, Bitcoin is testing a long-term technical benchmark that has historically helped investors identify periods of extreme market weakness.",
+    "published_at": "2026-11-19T06:25:02+08:00",
+    "stocks": [],
+    "uid": "da0907c12ece5773cd2b88344f6fad99"
+  },
+  {
+    "title": "Stock Market Today, Nov. 18: Opendoor Extends Rally for Second Straight Session as Investors Watch Housing",
+    "url": "https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-today-nov-18-opendoor-extends-rally-for-second-straight-session-as-investors-watch-housing/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Shares climbed for a second session as investors weigh housing conditions and the stock's upside potential, today, Nov. 18, 2026.",
+    "published_at": "2026-11-19T06:24:46+08:00",
+    "stocks": [],
+    "uid": "72f789fcf9c70540b2795b8f1ac6bc35"
+  },
+  {
+    "title": "Invesco QQQ Is 14% Below Its October Record. Here's Where I Think It Will Be in 2030.",
+    "url": "https://www.fool.com/investing/2026/11/18/invesco-qqq-is-14-below-its-october-record-here-s-where-i-think-it-will-be-in-2030/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The Nasdaq-100 fund trades around 14% below its October record. Can it pass that peak by the end of 2030?",
+    "published_at": "2026-11-19T06:23:01+08:00",
+    "stocks": [],
+    "uid": "cb4aaf019a92b7acbe66b257acab9b80"
+  },
+  {
+    "title": "Billionaire Bill Ackman Sold 2 Million Shares of Microsoft Stock. But Here's Why He Says He's Still Bullish",
+    "url": "https://www.fool.com/investing/2026/11/18/billionaire-bill-ackman-sold-2-million-shares-of-microsoft-stock-but-here-s-why-he-says-he-s-still-bullish/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Pershing Square's latest filing shows a big cut in its Microsoft stake, but Ackman says it omits what he bought instead.",
+    "published_at": "2026-11-19T06:22:31+08:00",
+    "stocks": [],
+    "uid": "229fee51b1d2504829d3293b951f65da"
+  },
+  {
+    "title": "Stock Market Today, Nov. 18: Recursion Pharmaceuticals Rises 4% on FDA Alignment for REC-4881 Phase 3 Design",
+    "url": "https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-today-nov-18-recursion-pharmaceuticals-rises-4-on-fda-alignment-for-rec-4881-phase-3-design/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "On Nov. 18, 2026, Recursion shares climbed after regulators aligned on its lead familial adenomatous polyposis trial, though investors are watching for more detail.",
+    "published_at": "2026-11-19T06:20:39+08:00",
+    "stocks": [],
+    "uid": "81e2f3bfaf9c8d455d0eb3de9907cb4b"
+  },
+  {
+    "title": "Palmer Luckey Warns the U.S. Faces an A.I. ‘Mismatch’",
+    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/palmer-luckey-anduril-ai.html",
+    "source": "NYT Business",
+    "summary": "The founder of Anduril Industries, a defense tech company, blamed the widespread tech outages across the United States on attackers using A.I. tools to target outdated infrastructure.",
+    "published_at": "2026-11-19T06:18:01+08:00",
+    "stocks": [],
+    "uid": "1c849c29e44360234b780ab29f6f4768"
+  },
+  {
+    "title": "It’s Official: Anthropic Prices Its IPO at $83 a Share. Here’s What We Know (and What We Don’t)",
+    "url": "https://www.fool.com/investing/2026/11/18/it-s-official-anthropic-prices-its-ipo-at-usd83-a-share-here-s-what-we-know-and-what-we-don-t/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Anthropic’s IPO was priced above its range, and the final raise could rival SpaceX’s record deal.",
+    "published_at": "2026-11-19T06:17:02+08:00",
+    "stocks": [],
+    "uid": "3c4511bb535a24529aaddde8fa775ca5"
+  },
+  {
+    "title": "ZTO Express (ZTO) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/18/zto-express-zto-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Retail parcel volume surged 57% as the company prioritized quality over scale.",
+    "published_at": "2026-11-19T06:14:37+08:00",
+    "stocks": [
+      "ZTO"
+    ],
+    "uid": "9272e0cc3c879701052bdf4c3a3e0cc9"
+  },
+  {
+    "title": "Prenetics (PRE) Q3 2026 Earnings Call Transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/11/18/prenetics-pre-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Second-half profit targets were revised to prioritize customer acquisition.",
+    "published_at": "2026-11-19T06:13:19+08:00",
+    "stocks": [
+      "PRE"
+    ],
+    "uid": "555f57f4de366d8cc72a4959cb39d347"
+  },
+  {
+    "title": "Has the stock market’s slump hit bottom yet? Here’s what these contrarian indicators say.",
+    "url": "https://www.marketwatch.com/story/has-the-stock-markets-correction-hit-bottom-yet-heres-what-these-contrarian-indicators-say-f9104879?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Contrarian buy signals typically don’t come until sentiment has dropped further than they have so far",
+    "published_at": "2026-11-19T05:58:00+08:00",
+    "stocks": [],
+    "uid": "07adca63a9ed2b9fe492926c378b74d7"
+  },
+  {
+    "title": "Elon Musk Invested in Skydance, CEO David Ellison Confirms",
+    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/david-ellison-skydance-elon-musk.html",
+    "source": "NYT Business",
+    "summary": "Speaking at the DealBook summit, Mr. Ellison said it was “an honor and a privilege” to have Mr. Musk as a shareholder in the company.",
+    "published_at": "2026-11-19T05:55:17+08:00",
+    "stocks": [],
+    "uid": "9eda864fe65d92d34bafad86e66d79cf"
+  },
+  {
+    "title": "Anthropic’s Public Debut Sets Up ‘Experiment’ in Corporate Power",
+    "url": "https://www.nytimes.com/2026/11/18/business/anthropic-ipo-corporate-governance.html",
+    "source": "NYT Business",
+    "summary": "The artificial intelligence giant will become by far the largest publicly traded “public benefit corporation,” a structure that mandates it balance safety and profit.",
+    "published_at": "2026-11-19T05:41:59+08:00",
+    "stocks": [],
+    "uid": "5ebf11eb4dd2acc358da1c9a3feb1aa4"
+  },
+  {
+    "title": "One of AI's most notorious 'doomers' stands to make billions in Anthropic's IPO",
+    "url": "https://www.cnbc.com/2026/11/18/jaan-tallinn-anthropic-ipo-series-a-investment.html",
+    "source": "CNBC Tech",
+    "summary": "An Estonian tech billionaire famous for his stance that AI could end humanity is expected to be one of the biggest winners in Anthropic's upcoming IPO.",
+    "published_at": "2026-11-19T05:28:04+08:00",
+    "stocks": [],
+    "uid": "0d36aa51434c27133cc239a38c87a368"
+  },
+  {
+    "title": "What’s next for the AI trade after Nvidia’s blowout results are met with a shrug",
+    "url": "https://www.marketwatch.com/story/whats-next-for-the-ai-trade-after-nvidias-blowout-results-are-met-with-a-shrug-853c7abe?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Nvidia delivered a strong performance, but questions remain amid growing scrutiny of the company and macroeconomic factors",
+    "published_at": "2026-11-19T05:19:00+08:00",
+    "stocks": [],
+    "uid": "b5a45e38c3bd9a39707d6271c5802b5c"
+  },
+  {
+    "title": "CEO turned informant: How the FDA built a case against executives promising cheap medications",
+    "url": "https://www.cnbc.com/2026/11/18/fda-canarx-case-informant.html",
+    "source": "CNBC Top",
+    "summary": "The FDA's unprecedented criminal case against an alternative funding program hinged on the cooperation of a peer CEO, according to a court record.",
+    "published_at": "2026-11-19T05:07:14+08:00",
+    "stocks": [],
+    "uid": "0a03b5dfa2049609afe7c0882b9275b8"
+  },
+  {
+    "title": "Fed Saw Need to Keep Raising Interest Rates Despite Holding Steady in October",
+    "url": "https://www.nytimes.com/2026/11/18/business/federal-reserve-rate-increase-october-meeting.html",
+    "source": "NYT Business",
+    "summary": "Minutes from the Federal Reserve’s most recent gathering underscored that taming inflation remained officials’ top priority.",
+    "published_at": "2026-11-19T04:35:00+08:00",
+    "stocks": [],
+    "uid": "34c81433603e46bfb165edbd611baefe"
+  },
+  {
+    "title": "Watch: David Ellison on Elon Musk’s Investment in Skydance",
+    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/david-ellison-elon-musk-skydance-investment.html",
+    "source": "NYT Business",
+    "summary": "The C.E.O. of the media giant confirmed that the SpaceX founder had invested in the company formed by the $110 billion merger with Warner Bros. Discovery.",
+    "published_at": "2026-11-19T04:11:09+08:00",
+    "stocks": [],
+    "uid": "b5fa7013054068f42340c43001dde58f"
+  },
+  {
+    "title": "Watch: Canada’s Prime Minister on Negotiating With President Trump",
+    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/carney-canada-trade-deal-trump.html",
+    "source": "NYT Business",
+    "summary": "He “listens a lot more in private” said Mark Carney in an interview at the DealBook Summit. But ultimately it’s “about a deal or not.”",
+    "published_at": "2026-11-19T04:04:53+08:00",
+    "stocks": [],
+    "uid": "9a3c4151577cc9107b1bb0853cad7f5d"
+  },
+  {
+    "title": "Why Anthropic's hot IPO is bringing out sellers — plus, a silver lining of the down market",
+    "url": "https://www.cnbc.com/investingclub/2026/11/18/why-anthropics-hot-ipo-is-bringing-out-sellers-plus-a-down-market-silver-lining.html",
+    "source": "CNBC Top",
+    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+    "published_at": "2026-11-19T03:46:12+08:00",
+    "stocks": [],
+    "uid": "b67a35071425c5db443578b0ebcd23f8"
+  },
+  {
+    "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+    "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+    "source": "CNBC Finance",
+    "summary": "The Federal Reserve on Wednesday released minutes from its October policy meeting at which it voted to hold its benchmark interest rate in a range between 3.75%-4%.",
+    "published_at": "2026-11-19T03:41:59+08:00",
+    "stocks": [],
+    "uid": "2f0726494c2274ec690255a47bdf076d"
+  },
+  {
+    "title": "Hailey Bieber Says Social Media Fueled Rhode but Took a Toll on Her Mental Health",
+    "url": "https://www.nytimes.com/2026/11/18/business/dealbook/hailey-bieber-rhode-social-media.html",
+    "source": "NYT Business",
+    "summary": "Mrs. Bieber, who sold her beauty brand Rhode last year, said she had felt insecure and depressed in the past by online comments.",
+    "published_at": "2026-11-19T03:13:30+08:00",
+    "stocks": [],
+    "uid": "ad7deb9fff64bf8749eec0a7c70d0af5"
+  },
+  {
+    "title": "Jeff Bezos Says He Helped Pick Robert Pattinson as the New James Bond",
+    "url": "https://www.nytimes.com/2026/11/18/movies/jeff-bezos-pick-robert-pattinson-james-bond.html",
+    "source": "NYT Business",
+    "summary": "The founder of Amazon said he was “heavily involved” in the casting process, which concluded just days ago.",
+    "published_at": "2026-11-19T02:41:11+08:00",
+    "stocks": [],
+    "uid": "e5a72bea3fb5f9202b968ebaa6683345"
+  },
+  {
     "title": "‘GTA 6’ is the biggest game ever. Take-Two’s stock, delivery apps and podcasts are along for the ride.",
     "url": "https://www.marketwatch.com/story/gta-6-is-the-biggest-game-ever-take-twos-stock-delivery-apps-and-podcasts-are-along-for-the-ride-71014bf2?mod=mw_rss_topstories",
     "source": "MarketWatch",
