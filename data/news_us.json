@@ -1,5 +1,942 @@
 [
   {
+    "title": "Top 10 things to watch in the stock market on Black Friday",
+    "url": "https://www.cnbc.com/investingclub/2026/11/27/top-10-things-to-watch-in-the-stock-market-on-black-friday.html",
+    "source": "CNBC Top",
+    "summary": "Stocks are on pace for a record Black Friday as Anthropic tries to regain its IPO price.",
+    "published_at": "2026-11-27T22:31:12+08:00",
+    "stocks": [],
+    "uid": "6b8e22ed40fc74553b69d72a4a889c71",
+    "title_en": "Top 10 things to watch in the stock market on Black Friday",
+    "summary_en": "Stocks are on pace for a record Black Friday as Anthropic tries to regain its IPO price.",
+    "title_zh": "黑色星期五股市最值得關注的十大事件",
+    "summary_zh": "隨著 Anthropic 試圖恢復其 IPO 價格，股市有望迎來創紀錄的黑色星期五。"
+  },
+  {
+    "title": "Oil trades mixed as Middle East strikes collide with rising Gulf flows",
+    "url": "https://www.investing.com/news/commodities-news/oil-heads-for-first-weekly-gain-in-november-as-gulf-attacks-threaten-supply-recove-5052813",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-27T22:23:49+08:00",
+    "stocks": [],
+    "uid": "3bc6b0b78b86a241688d3c9cba87abca",
+    "title_en": "Oil trades mixed as Middle East strikes collide with rising Gulf flows",
+    "summary_en": "",
+    "title_zh": "中東罷工與海灣流量增加相衝突，石油交易漲跌互現",
+    "summary_zh": ""
+  },
+  {
+    "title": "TruGolf announces 1-for-5 reverse stock split effective Dec. 1",
+    "url": "https://www.investing.com/news/company-news/trugolf-announces-1for5-reverse-stock-split-effective-dec-1-93CH-5053577",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-27T22:20:36+08:00",
+    "stocks": [],
+    "uid": "db497a9ed0271e95fe92e96218bbe175",
+    "title_en": "TruGolf announces 1-for-5 reverse stock split effective Dec. 1",
+    "summary_en": "",
+    "title_zh": "TruGolf 宣布 1:1 反向股票分割將於 12 月 1 日生效",
+    "summary_zh": ""
+  },
+  {
+    "title": "Nvidia halts server shipments to four Southeast Asian countries, FT reports",
+    "url": "https://www.investing.com/news/stock-market-news/nvidia-halts-server-shipments-to-four-southeast-asian-countries-ft-reports-5053574",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-27T22:18:54+08:00",
+    "stocks": [],
+    "uid": "7d043685993dca3c02726402ec7a1257",
+    "title_en": "Nvidia halts server shipments to four Southeast Asian countries, FT reports",
+    "summary_en": "",
+    "title_zh": "根據英國《金融時報》報道，英偉達停止向四個東南亞國家供應伺服器",
+    "summary_zh": ""
+  },
+  {
+    "title": "Stifel reiterates Buy on Kodiak Gas Services stock, keeps $90 target",
+    "url": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-buy-on-kodiak-gas-services-stock-keeps-90-target-93CH-5053573",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-27T22:18:51+08:00",
+    "stocks": [],
+    "uid": "5ef9853fe44a35ee6d68ed46169aad67",
+    "title_en": "Stifel reiterates Buy on Kodiak Gas Services stock, keeps $90 target",
+    "summary_en": "",
+    "title_zh": "Stifel 重申買入 Kodiak Gas Services 股票，維持 90 美元的目標",
+    "summary_zh": ""
+  },
+  {
+    "title": "Gold jumps 3% after hitting 15-month low earlier this week",
+    "url": "https://www.investing.com/news/commodities-news/gold-steadies-near-15month-low-as-fed-hike-bets-offset-techled-rally-5052805",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-27T22:18:34+08:00",
+    "stocks": [],
+    "uid": "e36e6427ff77d741e5ceb8372abfdcf9",
+    "title_en": "Gold jumps 3% after hitting 15-month low earlier this week",
+    "summary_en": "",
+    "title_zh": "金價在本週稍早觸及 15 個月低點後上漲 3%",
+    "summary_zh": ""
+  },
+  {
+    "title": "Explainer-Black Friday test for retailers as tight budgets meet AI-savvy shoppers",
+    "url": "https://www.investing.com/news/stock-market-news/explainerblack-friday-test-for-retailers-as-tight-budgets-meet-aisavvy-shoppers-5053309",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-27T22:18:22+08:00",
+    "stocks": [],
+    "uid": "46f3a093736d9fa15d8d68045d807b8b",
+    "title_en": "Explainer-Black Friday test for retailers as tight budgets meet AI-savvy shoppers",
+    "summary_en": "",
+    "title_zh": "解釋者——黑色星期五對零售商的測試，因為緊張的預算滿足了精通人工智慧的購物者的需求",
+    "summary_zh": ""
+  },
+  {
+    "title": "Fire Sale: Here's Why Now May Be the Perfect Time to Buy Nvidia Stock",
+    "url": "https://www.fool.com/investing/2026/11/27/fire-sale-here-s-why-now-may-be-the-perfect-time-to-buy-nvidia-stock/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Nvidia's stock is trading at levels not seen in years.",
+    "published_at": "2026-11-27T22:18:02+08:00",
+    "stocks": [],
+    "uid": "f05ae836f4ba30fc1ac3122690f78c6e",
+    "title_en": "Fire Sale: Here's Why Now May Be the Perfect Time to Buy Nvidia Stock",
+    "summary_en": "Nvidia's stock is trading at levels not seen in years.",
+    "title_zh": "甩賣：這就是為什麼現在可能是購買 Nvidia 股票的最佳時機",
+    "summary_zh": "英偉達的股價目前處於多年來未見的水平。"
+  },
+  {
+    "title": "Trisalus Life Sciences officer sells $4,925 in common stock",
+    "url": "https://www.investing.com/news/insider-trading-news/trisalus-life-sciences-officer-sells-4925-in-common-stock-93CH-5053571",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-27T22:15:50+08:00",
+    "stocks": [],
+    "uid": "342c0c59af20ea0b7226066e986f334d",
+    "title_en": "Trisalus Life Sciences officer sells $4,925 in common stock",
+    "summary_en": "",
+    "title_zh": "Trisalus 生命科學官員出售 4,925 美元的普通股",
+    "summary_zh": ""
+  },
+  {
+    "title": "European shares extend rally, but bruising November leaves AI scars",
+    "url": "https://www.investing.com/news/stock-market-news/european-shares-extend-rally-but-bruising-november-leaves-ai-scars-5053023",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-27T22:13:18+08:00",
+    "stocks": [],
+    "uid": "2f19dabc41f62121400a843694e53d12",
+    "title_en": "European shares extend rally, but bruising November leaves AI scars",
+    "summary_en": "",
+    "title_zh": "歐洲股市延續漲勢，但 11 月的慘痛教訓卻為人工智慧留下了傷痕",
+    "summary_zh": ""
+  },
+  {
+    "title": "EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts",
+    "url": "https://www.cnbc.com/2026/11/27/eu-budget-2028-2034-deadlock.html",
+    "source": "CNBC Top",
+    "summary": "EU leaders failed to break a deadlock over the bloc’s budget, with talks set to resume in December as a key deadline looms.",
+    "published_at": "2026-11-27T22:12:55+08:00",
+    "stocks": [],
+    "uid": "b6dc7a002c9ed832be2dcdbd4d62d656",
+    "title_en": "EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts",
+    "summary_en": "EU leaders failed to break a deadlock over the bloc’s budget, with talks set to resume in December as a key deadline looms.",
+    "title_zh": "政治壓力加大，歐盟領袖未能打破1.7兆美元預算僵局",
+    "summary_zh": "歐盟領導人未能打破歐盟預算僵局，隨著關鍵最後期限的臨近，談判定於 12 月恢復。"
+  },
+  {
+    "title": "Vivakor unit expands water infrastructure in Texas oil regions",
+    "url": "https://www.investing.com/news/company-news/vivakor-unit-expands-water-infrastructure-in-texas-oil-regions-93CH-5053564",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-27T22:04:35+08:00",
+    "stocks": [],
+    "uid": "a41a0e852861a830c4eee937c6cdc92a",
+    "title_en": "Vivakor unit expands water infrastructure in Texas oil regions",
+    "summary_en": "",
+    "title_zh": "Vivakor 部門擴大德州油區的水利基礎設施",
+    "summary_zh": ""
+  },
+  {
+    "title": "Blue Gold signs MOU with Current Technology for AI gold payments",
+    "url": "https://www.investing.com/news/company-news/blue-gold-signs-mou-with-current-technology-for-ai-gold-payments-93CH-5053563",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-27T22:04:32+08:00",
+    "stocks": [],
+    "uid": "0a6f9d6c40a824dc56c1733c56157a12",
+    "title_en": "Blue Gold signs MOU with Current Technology for AI gold payments",
+    "summary_en": "",
+    "title_zh": "Blue Gold 與 Current Technology 簽署人工智慧黃金支付諒解備忘錄",
+    "summary_zh": ""
+  },
+  {
+    "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
+    "url": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
+    "source": "CNBC Top",
+    "summary": "Budget carrier Norse Atlantic filed for bankruptcy Friday, saying it failed to secure funding after soaring fuel costs strained the company's operations.",
+    "published_at": "2026-11-27T21:58:19+08:00",
+    "stocks": [],
+    "uid": "db363f7cd87eaf94e85d57cd17d1e629",
+    "title_en": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
+    "summary_en": "Budget carrier Norse Atlantic filed for bankruptcy Friday, saying it failed to secure funding after soaring fuel costs strained the company's operations.",
+    "title_zh": "廉價航空公司挪威大西洋航空公司因未能獲得資金而在歐洲申請破產",
+    "summary_zh": "廉價航空公司挪威大西洋航空公司週五申請破產，稱由於燃油成本飆升導致公司營運緊張，該公司未能獲得融資。"
+  },
+  {
+    "title": "OMS Energy: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/27/oms-energy-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Its $40.9 million backlog of confirmed orders, due within 12 months, is the number to watch if international award timing finally loosens.",
+    "published_at": "2026-11-27T21:54:03+08:00",
+    "stocks": [],
+    "uid": "f80053eaae5ea61fee4a58a3a4f4a103",
+    "title_en": "OMS Energy: 3 Key Takeaways for Long-Term Investors",
+    "summary_en": "Its $40.9 million backlog of confirmed orders, due within 12 months, is the number to watch if international award timing finally loosens.",
+    "title_zh": "OMS Energy：長期投資者的 3 個要點",
+    "summary_zh": "如果國際頒獎時間最終放寬，其積壓的 4,090 萬美元確認訂單將在 12 個月內到期，這是值得關注的數字。"
+  },
+  {
+    "title": "Constellation Energy Just Raised Its Forecast. Is the Stock Still a Buy?",
+    "url": "https://www.fool.com/investing/2026/11/27/constellation-energy-just-raised-its-forecast-is-the-stock-still-a-buy/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Political uncertainty has shaken this nuclear power stock, but the latest earnings and contracts tell another story. Here's what the numbers reveal about its growth potential and remaining risks.",
+    "published_at": "2026-11-27T21:45:44+08:00",
+    "stocks": [],
+    "uid": "5b390a384dfcedb2408648f6560e64e3",
+    "title_en": "Constellation Energy Just Raised Its Forecast. Is the Stock Still a Buy?",
+    "summary_en": "Political uncertainty has shaken this nuclear power stock, but the latest earnings and contracts tell another story. Here's what the numbers reveal about its growth potential and remaining risks.",
+    "title_zh": "星座能源公司剛剛上調了預測。該股仍值得買入嗎？",
+    "summary_zh": "政治不確定性動搖了這支核電股，但最新的收益和合約卻講述了另一個故事。以下數據揭示了其成長潛力和剩餘風險。"
+  },
+  {
+    "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
+    "url": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.",
+    "published_at": "2026-11-27T21:45:00+08:00",
+    "stocks": [],
+    "uid": "68fd21a2839892a750dcb189da45bd31",
+    "title_en": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
+    "summary_en": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.",
+    "title_zh": "清理我父母的房子是一場合法的噩夢。我怎樣才能縮小規模而不讓我的孩子經歷同樣的磨難？",
+    "summary_zh": "這個黑色星期五有一些反文化建議：停止購買東西，以及其他縮小規模的規則。"
+  },
+  {
+    "title": "Strategy Just Bought Bitcoin for the 4th Straight Week. So Why Aren't Crypto Investors Bullish on MSTR Stock?",
+    "url": "https://www.fool.com/investing/2026/11/27/strategy-just-bought-bitcoin-for-the-4th-straight-week-so-why-aren-t-crypto-investors-bullish-on-mstr-stock/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Strategy's latest buying streak might not be enough to turn things around for its stock.",
+    "published_at": "2026-11-27T21:43:12+08:00",
+    "stocks": [],
+    "uid": "8087a55ce5ea0cb6c2116997f35cd98a",
+    "title_en": "Strategy Just Bought Bitcoin for the 4th Straight Week. So Why Aren't Crypto Investors Bullish on MSTR Stock?",
+    "summary_en": "Strategy's latest buying streak might not be enough to turn things around for its stock.",
+    "title_zh": "Strategy 剛剛連續第四周購買比特幣。那為什麼加密貨幣投資者不看好 MSTR 股票呢？",
+    "summary_zh": "Strategy近期的連續買進可能不足以扭轉其股票的走勢。"
+  },
+  {
+    "title": "Why Applied Materials Stock Fell 17% Despite a Record Quarter",
+    "url": "https://www.fool.com/investing/2026/11/27/why-applied-materials-stock-fell-17-despite-a-record-quarter/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Record-breaking demand and a falling stock price tell two different stories. Discover what the latest results, forecasts, and risks reveal about the opportunity ahead.",
+    "published_at": "2026-11-27T21:40:38+08:00",
+    "stocks": [],
+    "uid": "79d3a79a4d0f2c9c519509ab0a72a3d7",
+    "title_en": "Why Applied Materials Stock Fell 17% Despite a Record Quarter",
+    "summary_en": "Record-breaking demand and a falling stock price tell two different stories. Discover what the latest results, forecasts, and risks reveal about the opportunity ahead.",
+    "title_zh": "為什麼應用材料公司的股票在季度創紀錄的情況下仍下跌 17%",
+    "summary_zh": "破紀錄的需求和下跌的股價講述了兩個不同的故事。了解最新結果、預測和風險揭示了未來的機會。"
+  },
+  {
+    "title": "Gratitude: 2026",
+    "url": "https://www.fool.com/investing/2026/11/27/gratitude-2026/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "What are you grateful for this Thanksgiving season?",
+    "published_at": "2026-11-27T21:37:02+08:00",
+    "stocks": [],
+    "uid": "2f0322c2f0ff41431ef69eb413e6e6b2",
+    "title_en": "Gratitude: 2026",
+    "summary_en": "What are you grateful for this Thanksgiving season?",
+    "title_zh": "感謝：2026",
+    "summary_zh": "今年感恩節，你有哪些感恩的事？"
+  },
+  {
+    "title": "Brightstar: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/27/brightstar-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Brightstar's direct role in New Jersey and Indiana lottery operations is a different kind of bet than hardware sales, and the balance between them matters for long-term holders.",
+    "published_at": "2026-11-27T21:36:54+08:00",
+    "stocks": [],
+    "uid": "49de33e1563becbd292c63a0d23ca0d6",
+    "title_en": "Brightstar: 3 Key Takeaways for Long-Term Investors",
+    "summary_en": "Brightstar's direct role in New Jersey and Indiana lottery operations is a different kind of bet than hardware sales, and the balance between them matters for long-term holders.",
+    "title_zh": "Brightstar：長期投資者的 3 個要點",
+    "summary_zh": "Brightstar 在新澤西州和印第安納州彩票業務中的直接作用與硬體銷售不同，兩者之間的平衡對於長期持有者來說很重要。"
+  },
+  {
+    "title": "ClearSign: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/27/clearsign-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The Gulf Coast field installation is the reference refiners want to see before committing capital, and it is still ahead of ClearSign.",
+    "published_at": "2026-11-27T21:36:48+08:00",
+    "stocks": [],
+    "uid": "53b6e93d5bb122bdc4f79802c24436c4",
+    "title_en": "ClearSign: 3 Key Takeaways for Long-Term Investors",
+    "summary_en": "The Gulf Coast field installation is the reference refiners want to see before committing capital, and it is still ahead of ClearSign.",
+    "title_zh": "ClearSign：長期投資者的 3 重點",
+    "summary_zh": "墨西哥灣沿岸的現場安裝是煉油廠在投入資金之前希望看到的參考，而且仍然領先於 ClearSign。"
+  },
+  {
+    "title": "Noah Holdings: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/27/noah-holdings-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Management's AI-driven playbook, now slated for Japan, Australia, and Canada, is the real test of whether overseas growth can scale without heavy fixed costs.",
+    "published_at": "2026-11-27T21:36:10+08:00",
+    "stocks": [],
+    "uid": "a6f80b40f605e47ab28b4eaaa8b3091d",
+    "title_en": "Noah Holdings: 3 Key Takeaways for Long-Term Investors",
+    "summary_en": "Management's AI-driven playbook, now slated for Japan, Australia, and Canada, is the real test of whether overseas growth can scale without heavy fixed costs.",
+    "title_zh": "諾亞控股：長期投資者的三大要點",
+    "summary_zh": "管理層的人工智慧驅動策略現已計劃在日本、澳洲和加拿大推出，這是對海外成長能否在沒有沉重固定成本的情況下擴大規模的真正考驗。"
+  },
+  {
+    "title": "Renters are now a national political constituency that can influence elections",
+    "url": "https://www.marketwatch.com/story/renters-are-now-a-national-political-constituency-that-can-influence-elections-8f028445?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Renters backed Democrats 61% to 31% in the midterms, a 30-point margin, according to YouGov.",
+    "published_at": "2026-11-27T21:30:00+08:00",
+    "stocks": [],
+    "uid": "c549c29d620f5df8c9b65cf65a52ae93",
+    "title_en": "Renters are now a national political constituency that can influence elections",
+    "summary_en": "Renters backed Democrats 61% to 31% in the midterms, a 30-point margin, according to YouGov.",
+    "title_zh": "租屋者現在是可以影響選舉的國家政治選區",
+    "summary_zh": "據 YouGov 稱，在中期選舉中，租屋者以 61% 比 31% 的比例支持民主黨，領先 30 個百分點。"
+  },
+  {
+    "title": "Diana Shipping: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/27/diana-shipping-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The failed Genco deal left consolidation unresolved, and the stalled acquisition still shapes how management will plan its next moves.",
+    "published_at": "2026-11-27T21:24:59+08:00",
+    "stocks": [],
+    "uid": "c609ce65499d2bf749e822ca1cccfaf4",
+    "title_en": "Diana Shipping: 3 Key Takeaways for Long-Term Investors",
+    "summary_en": "The failed Genco deal left consolidation unresolved, and the stalled acquisition still shapes how management will plan its next moves.",
+    "title_zh": "戴安娜航運：長期投資者的 3 個要點",
+    "summary_zh": "Genco 交易的失敗導致整合問題尚未解決，而停滯不前的收購仍影響管理層計劃下一步的方式。"
+  },
+  {
+    "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
+    "url": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
+    "source": "CNBC Finance",
+    "summary": "The November sell-off has so far pushed the S&amp;P 500 into a correction. History shows that a correction doesn't always lead to a bear market, or a recession.",
+    "published_at": "2026-11-27T21:21:56+08:00",
+    "stocks": [],
+    "uid": "4585632dfb7fad00a446e77145598e2c"
+  },
+  {
+    "title": "Ares Management: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/27/ares-management-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Rising dividends rest on $117 billion in unfunded assets that could generate over $800 million in annual fees as deployment accelerates.",
+    "published_at": "2026-11-27T21:20:46+08:00",
+    "stocks": [],
+    "uid": "a99cf90988f6e0fbe2674b901b6dd444"
+  },
+  {
+    "title": "New car prices are at a record high. Here's where to look for deals",
+    "url": "https://www.cnbc.com/2026/11/27/new-car-buying-deals-buying-tips.html",
+    "source": "CNBC Top",
+    "summary": "While the average price of a new car hit $51,109 in October, according to Kelley Blue Book, many buyers are spending far less on their purchase. Here's how.",
+    "published_at": "2026-11-27T21:15:01+08:00",
+    "stocks": [],
+    "uid": "3e2284870f117c9ac181c499d7850be8"
+  },
+  {
+    "title": "2027 Is Around the Corner. Here's a Spectacular Vanguard ETF to Buy as Part of Your New Year's Resolution.",
+    "url": "https://www.fool.com/investing/2026/11/27/2027-around-corner-spectacular-vanguard-etf-buy-part-new-year-s-resolution/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Steady returns of 10% (or even less) are enough to build life-changing wealth over the long term.",
+    "published_at": "2026-11-27T21:15:01+08:00",
+    "stocks": [],
+    "uid": "ea0af522d738bbe8677c56c6ecf4a79a"
+  },
+  {
+    "title": "Rheinmetall reins in growth ambitions as Europe's rearmament boom hits hurdles",
+    "url": "https://www.cnbc.com/2026/11/27/rheinmetall-stock-cmd-guidance-sales.html",
+    "source": "CNBC Top",
+    "summary": "The German arms maker vows a \"more prudent approch\" to forecast sales of tanks and ammunition.",
+    "published_at": "2026-11-27T21:08:07+08:00",
+    "stocks": [],
+    "uid": "d8654d8b7ea3e73079a5f546a8f70457"
+  },
+  {
+    "title": "It’s not just you: Durable goods are getting less reliable, from sputtering cars to glitching smart TVs",
+    "url": "https://www.cnbc.com/make-it/2026/11/27/durable-goods-reliability-cars-appliances-tvs.html",
+    "source": "CNBC Top",
+    "summary": "A wide swath of consumer products are becoming less reliable and durable, even as their prices rise, research shows.",
+    "published_at": "2026-11-27T21:05:02+08:00",
+    "stocks": [],
+    "uid": "f15525291e98b816834dc9d000a32e37"
+  },
+  {
+    "title": "Is Nvidia a Screaming Buy or a Value Trap?",
+    "url": "https://www.fool.com/investing/2026/11/27/is-nvidia-a-screaming-buy-or-a-value-trap/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The stock trades at a valuation that looks dirt cheap.",
+    "published_at": "2026-11-27T21:05:02+08:00",
+    "stocks": [],
+    "uid": "f5dd68685b120985d9a9daf6179efb2c"
+  },
+  {
+    "title": "Spain’s election could pull Madrid closer to Trump’s Washington",
+    "url": "https://www.cnbc.com/2026/11/27/spain-election-trump-sanchez.html",
+    "source": "CNBC Top",
+    "summary": "Spanish voters head to the polls on Sunday for a snap election that could bring socialist Prime Minister Pedro Sánchez's eight years in power to an end.",
+    "published_at": "2026-11-27T21:00:42+08:00",
+    "stocks": [],
+    "uid": "01c6ca33919441027f09a95f38df3504"
+  },
+  {
+    "title": "XP: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/27/xp-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Offshore accounts reach about a third of XP's clients yet hold under 8% of assets, leaving room the company is betting on to grow.",
+    "published_at": "2026-11-27T20:58:46+08:00",
+    "stocks": [],
+    "uid": "8aed7ed8fa85a13d660fd6ab57b23dec"
+  },
+  {
+    "title": "UnitedHealth Keeps Raising Guidance. Here's What a $10,000 Investment Could Be Worth If the Turnaround Sticks.",
+    "url": "https://www.fool.com/investing/2026/11/27/unitedhealth-keeps-raising-guidance-heres-what-a-10000-investment-could-be-worth-if-the-turnaround-sticks/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The stock has declined despite rosy guidance predictions from the health insurer.",
+    "published_at": "2026-11-27T20:55:02+08:00",
+    "stocks": [],
+    "uid": "ead2d59c676bbfd6010da693b8566248"
+  },
+  {
+    "title": "How to spot Black Friday shopping scams like ‘bogus boutiques’ and AI-generated product images",
+    "url": "https://www.marketwatch.com/story/how-to-spot-bogus-boutiques-and-other-black-friday-shopping-scams-86cc182d?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "AI tools have made it even easier for scammers to create fake storefronts and misleading product listings.",
+    "published_at": "2026-11-27T20:42:00+08:00",
+    "stocks": [],
+    "uid": "ef3b2c715369da606e11fe7e8f7c2e91"
+  },
+  {
+    "title": "GDS: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/27/gds-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Backlog-linked revenue visibility runs through 2028, while the C-REIT plan is how GDS plans to fund growth without costly debt.",
+    "published_at": "2026-11-27T20:36:38+08:00",
+    "stocks": [],
+    "uid": "99f48441a7624c42c823c78f8bdf252a"
+  },
+  {
+    "title": "FinVolution: 3 Key Takeaways for Long-Term Investors",
+    "url": "https://www.fool.com/earnings/takeaways/2026/11/27/finvolution-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Open banking gave FinVolution verified income and debt data, letting it lend more in Australia without loosening its standards.",
+    "published_at": "2026-11-27T20:35:09+08:00",
+    "stocks": [],
+    "uid": "38cf82f9c4ab5241a241c67c874db24b"
+  },
+  {
+    "title": "Breakfast News: Black Friday — Stocks on Sale!",
+    "url": "https://www.fool.com/investing/breakfast-news/2026/11/27/breakfast-news/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Wall Street’s clearance rack is open. Our analysts pick four bargains.",
+    "published_at": "2026-11-27T20:30:02+08:00",
+    "stocks": [],
+    "uid": "50dd0ae1fcade35e271ea49a2e130bc0"
+  },
+  {
+    "title": "A 10% cap on credit-card interest rates? Holiday shoppers shouldn’t bank on it.",
+    "url": "https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "As Americans prepare to pull out their credit cards for the holiday shopping season, President Donald Trump is saying he’s up for capping the interest rates they’re paying on their cards.",
+    "published_at": "2026-11-27T20:29:00+08:00",
+    "stocks": [],
+    "uid": "906bd74071f1b5d5684f5cfa6a7cb1fe"
+  },
+  {
+    "title": "Nvidia’s stock has tumbled 27% over one chaotic month. The next big test lies in the week ahead",
+    "url": "https://www.marketwatch.com/story/nvidias-stock-has-tumbled-27-over-one-chaotic-month-the-next-big-test-lies-in-the-week-ahead-06449777?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Jensen Huang faces tough questions from Congress this week. Good luck pinning him down, one analyst says.",
+    "published_at": "2026-11-27T20:29:00+08:00",
+    "stocks": [],
+    "uid": "3878b8a97ab9578c0bedc2d1ee952be8"
+  },
+  {
+    "title": "Stocks Set to Rally at End of a Week of Wild Swings",
+    "url": "https://www.nytimes.com/2026/11/27/business/stocks-tech-stocks-ai.html",
+    "source": "NYT Business",
+    "summary": "Volatility has buffeted investors in an eventful but holiday-shortened series of trading sessions.",
+    "published_at": "2026-11-27T20:25:25+08:00",
+    "stocks": [],
+    "uid": "50cd925be97134348ad67cb2b40f05a2"
+  },
+  {
+    "title": "‘My life is in the stock market’: Recent volatility is shaking up holiday spending plans for these shoppers",
+    "url": "https://www.marketwatch.com/story/my-life-is-in-the-stock-market-recent-volatility-is-shaking-up-holiday-spending-plans-for-these-shoppers-bd9485b3?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "summary": "Consumers are adapting their year-end spending plans amid a shaky stock market.",
+    "published_at": "2026-11-27T20:22:00+08:00",
+    "stocks": [],
+    "uid": "e8446a37581f8f76bbaea1980970c266"
+  },
+  {
+    "title": "Tech Sell-Off: 1 Unstoppable Stock-Split Stock to Buy Before It Joins Nvidia, Alphabet, Microsoft, and Apple in the $3 Trillion Club",
+    "url": "https://www.fool.com/investing/2026/11/27/tech-sell-off-1-unstoppable-stock-split-stock-buy-before-joins-nvidia-alphabet-microsoft-apple-usd3-trillion-club/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Artificial intelligence is unlocking brand-new opportunities for this tech giant.",
+    "published_at": "2026-11-27T20:17:02+08:00",
+    "stocks": [],
+    "uid": "1f27cd36fe82a7223cb04fd9eb786bb6"
+  },
+  {
+    "title": "3 Stocks I'd Love to Buy at Black Friday Sale Prices",
+    "url": "https://www.fool.com/investing/2026/11/27/3-stocks-i-d-love-to-buy-at-black-friday-sale-prices/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Here are three excellent businesses I'd love to buy if their stocks hit Black Friday sale prices.",
+    "published_at": "2026-11-27T20:15:02+08:00",
+    "stocks": [],
+    "uid": "95b64bfc34364d22d9a0f7399c1c194c"
+  },
+  {
+    "title": "President Donald Trump Just Floated the Idea of the U.S. Government Buying a Stake in Nvidia -- but It Wouldn't Fix the Company's Biggest Flaw",
+    "url": "https://www.fool.com/investing/2026/11/27/donald-trump-just-floated-idea-government-buy-stake-in-nvidia-wouldnt-fix-biggest-flaw/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Nvidia’s glaring problem has no easy solution.",
+    "published_at": "2026-11-27T20:06:02+08:00",
+    "stocks": [],
+    "uid": "661fae4f5e468c71e15afff7e60d449d"
+  },
+  {
+    "title": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
+    "url": "https://www.cnbc.com/2026/11/27/tech-download-jensen-huang-ai-market.html",
+    "source": "CNBC Top",
+    "summary": "AI stocks have fallen in recent times as investors question the sustainability of the AI boom.",
+    "published_at": "2026-11-27T20:00:22+08:00",
+    "stocks": [],
+    "uid": "359fa9aa8f18b3b1723d2524eddfc841"
+  },
+  {
+    "title": "Tech rally lifts stock futures to wrap up a volatile week of trading",
+    "url": "https://www.cnbc.com/2026/11/27/tech-rally-lifts-stock-futures-to-wrap-up-a-volatile-week-of-trading.html",
+    "source": "CNBC Tech",
+    "summary": "President Trump demands a probe into the GDP revision data.",
+    "published_at": "2026-11-27T19:55:41+08:00",
+    "stocks": [],
+    "uid": "4096bff4d9ab4bd34f30c9b7393caa91"
+  },
+  {
+    "title": "3 Lessons From Berkshire Hathaway's Stock Portfolio That Work for Any Stock Portfolio",
+    "url": "https://www.fool.com/investing/2026/11/27/3-lessons-from-berkshire-hathaway-s-stock-portfolio-that-work-for-any-stock-portfolio/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Warren Buffett may have managed billions of dollars’ worth of investments, but the principles that Berkshire Hathaway’s holdings so successful aren’t size-dependent.",
+    "published_at": "2026-11-27T19:51:02+08:00",
+    "stocks": [],
+    "uid": "9cdbd10bbfbfddd266e127767b53849f"
+  },
+  {
+    "title": "Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push",
+    "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
+    "source": "CNBC Top",
+    "summary": "SAP is reportedly considering cutting 10,000 jobs as it reshapes its software business around AI.",
+    "published_at": "2026-11-27T19:49:18+08:00",
+    "stocks": [],
+    "uid": "ffd826ee981dc03938b83588cea29917"
+  },
+  {
+    "title": "3 Fintech Stocks to Buy for Long-Term Investors",
+    "url": "https://www.fool.com/investing/2026/11/27/3-fintech-stocks-to-buy-for-long-term-investors/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Most fintech stocks have endured sharp downturns, but their fundamentals are still improving.",
+    "published_at": "2026-11-27T19:45:02+08:00",
+    "stocks": [],
+    "uid": "693ceed593fc084a4af3d9418dc39f8b"
+  },
+  {
+    "title": "Don't Need Your RMDs? Why Investing Them Could Be Your Smartest Move Yet",
+    "url": "https://www.fool.com/retirement/2026/11/27/don-t-need-your-rmds-why-investing-them-could-be-your-smartest-move-yet/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "There's a benefit to putting your RMDs to work in a taxable brokerage account.",
+    "published_at": "2026-11-27T19:36:02+08:00",
+    "stocks": [],
+    "uid": "7e692d9583d389006001c171f337aa8e"
+  },
+  {
+    "title": "If You Put $10,000 in the Schwab U.S. Dividend Equity ETF 10 Years Ago, Here’s What You’d Have Now",
+    "url": "https://www.fool.com/investing/2026/11/27/if-you-put-usd10-000-in-the-schwab-u-s-dividend-equity-etf-10-years-ago-here-s-what-you-d-have-now/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This popular dividend-focused ETF is demonstrating its value in 2026.",
+    "published_at": "2026-11-27T19:26:02+08:00",
+    "stocks": [],
+    "uid": "b2ea6ef3292a9f1df8374c3de76b0149"
+  },
+  {
+    "title": "Is Meta Stock a Buy as Amazon Reportedly Weighs Letting Its AI Shopping Agent Back In?",
+    "url": "https://www.fool.com/investing/2026/11/27/is-meta-stock-a-buy-as-amazon-reportedly-weighs-letting-its-ai-shopping-agent-back-in/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "A deal would bring Muse back into Amazon's store. But Muse's shopping fees are still just a plan.",
+    "published_at": "2026-11-27T19:13:02+08:00",
+    "stocks": [],
+    "uid": "00448d6fd3461297af2251edde34f1db"
+  },
+  {
+    "title": "This Should Be Your First Retirement Savings Priority in 2027",
+    "url": "https://www.fool.com/retirement/2026/11/27/this-should-be-your-first-retirement-savings-priority-in-2027/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "This could be one of the best retirement decisions you ever make.",
+    "published_at": "2026-11-27T19:05:02+08:00",
+    "stocks": [],
+    "uid": "2df64b9284932e4ddc256b7384553b5f"
+  },
+  {
+    "title": "Prediction: These Will Be Anthropic’s and SpaceX’s Stock Prices by the End of 2027 (Hint: Both Are Buys)",
+    "url": "https://www.fool.com/investing/2026/11/27/prediction-these-will-be-anthropic-s-and-spacex-s-stock-prices-by-the-end-of-2027-hint-both-are-buys/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Anthropic and SpaceX could be two of 2027's top-performing stocks.",
+    "published_at": "2026-11-27T19:00:02+08:00",
+    "stocks": [],
+    "uid": "75b371efd88ff46dca3d5fe72a3aa8fc"
+  },
+  {
+    "title": "This Mindset Shift Helped Me Stop Dreading Market Sell-Offs. Now I Look Forward to Them.",
+    "url": "https://www.fool.com/investing/2026/11/27/this-mindset-shift-helped-me-stop-dreading-market-sell-offs-now-i-look-forward-to-them/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "Keeping a long-term perspective can help investors stay calm and confident during stock market crashes.",
+    "published_at": "2026-11-27T18:46:02+08:00",
+    "stocks": [],
+    "uid": "a7fef2a26220b254876dc35d2c5f3cf9"
+  },
+  {
+    "title": "The Stock Market Is Flashing a Signal Seen Only 6 Times in 156 Years. History Suggests These Stocks Could Take the Biggest Hit.",
+    "url": "https://www.fool.com/investing/2026/11/27/the-stock-market-is-flashing-a-signal-seen-only-6-times-in-156-years-history-suggests-these-stocks-could-take-the-biggest-hit/?source=iedfolrf0000001",
+    "source": "Motley Fool",
+    "summary": "The stock market is teetering. And these stocks could have the most to lose.",
+    "published_at": "2026-11-27T18:45:02+08:00",
+    "stocks": [],
+    "uid": "13965d4981763b43c557f33b87fe99ca"
+  },
+  {
+    "title": "SpaceX shares jump 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
+    "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+    "source": "CNBC Top",
+    "summary": "SpaceX shares jumped in premarket trading after Elon Musk said on X that he would donate shares to American children every year.",
+    "published_at": "2026-11-27T18:20:39+08:00",
+    "stocks": [],
+    "uid": "e9e46b91ba40f28e787b688594f8662f"
+  },
+  {
+    "title": "Jensen Huang Is Back, and So Is His Plaque at Denny’s",
+    "url": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html",
+    "source": "NYT Business",
+    "summary": "The chain said it had restored a plaque honoring Mr. Huang above a booth in San Jose, Calif., where he is said to have developed the idea for Nvidia.",
+    "published_at": "2026-11-27T18:17:23+08:00",
+    "stocks": [],
+    "uid": "8746fb780bc4fdab1962216f304aa7fe"
+  },
+  {
+    "title": "Chinese chip stocks notch biggest ever one-day gains as Beijing signals broader market support",
+    "url": "https://www.cnbc.com/2026/11/27/china-chip-stocks-beijing-market-support.html",
+    "source": "CNBC Tech",
+    "summary": "Chinese stocks rebounded sharply after a rare intraday state media readout cheered investors as top policymakers pledged market liquidity support.",
+    "published_at": "2026-11-27T18:13:44+08:00",
+    "stocks": [],
+    "uid": "c0efb2aa1cfdf936fb58fa619e4fbb88"
+  },
+  {
+    "title": "Holiday Deals Are Tempting. Here’s How to Avoid Buyer’s Remorse.",
+    "url": "https://www.nytimes.com/2026/11/27/business/holiday-shopping-deals-spending.html",
+    "source": "NYT Business",
+    "summary": "Some deals are too good to be true. Experts suggest doing the math, making lists and avoiding using “buy now, pay later” platforms to make purchases.",
+    "published_at": "2026-11-27T18:03:51+08:00",
+    "stocks": [],
+    "uid": "7ea1a6b5d786d4198eb91ae9f97d2152"
+  },
+  {
+    "title": "How to Live Calmly, Despite Stock Market Whiplash",
+    "url": "https://www.nytimes.com/2026/11/27/business/nvidia-jensen-huang-trump-markets.html",
+    "source": "NYT Business",
+    "summary": "Nvidia has been down, up, and down again, and the market has followed. But there’s no need for long-term, diversified investors to alter their course, our columnist says.",
+    "published_at": "2026-11-27T18:02:53+08:00",
+    "stocks": [],
+    "uid": "187c9d37852b007356db6a0ddc853de9"
+  },
+  {
+    "title": "As Prices Rise, Americans Are Making Trade-Offs Rather Than Cutting Back",
+    "url": "https://www.nytimes.com/2026/11/27/business/inflation-consumer-spending-trade-offs-holidays.html",
+    "source": "NYT Business",
+    "summary": "Within strong consumer spending lie the decisions many families are making to stretch their dollars to cover the meals, trips and activities they value most.",
+    "published_at": "2026-11-27T18:02:41+08:00",
+    "stocks": [],
+    "uid": "824fd2a3fc13eedc51e6024ef2eb8030"
+  },
+  {
+    "title": "2 TV Shows Take on Sam Bankman-Fried and FTX",
+    "url": "https://www.nytimes.com/2026/11/27/business/media/sam-bankman-fried-ftx-altruists.html",
+    "source": "NYT Business",
+    "summary": "The limited series “The Altruists” and the documentary “The Boy Who Stole Billions?” offer different takes on the crypto exchange founder’s role in one of the largest frauds in history.",
+    "published_at": "2026-11-27T18:02:08+08:00",
+    "stocks": [],
+    "uid": "0b46e34cf30e4f648bf64ebe10a16757"
+  },
+  {
+    "title": "48 Hours in Tokyo With an Airline Pilot",
+    "url": "https://www.nytimes.com/2026/11/27/travel/48-hours-in-tokyo-with-an-airline-pilot.html",
+    "source": "NYT Business",
+    "summary": "A Boeing 787 pilot visits some favorite restaurants, a Snoopy museum and a tranquil shrine.",
+    "published_at": "2026-11-27T18:00:33+08:00",
+    "stocks": [],
+    "uid": "07d4a62975233acc975333f0ece4803f"
+  },
+  {
+    "title": "Private markets are more accessible than ever for investors. Getting out is another matter",
+    "url": "https://www.cnbc.com/2026/11/27/private-markets-retail-investors-liquidity.html",
+    "source": "CNBC Top",
+    "summary": "Retail access to private markets is growing, but PwC says education lags as redemption limits put liquidity risks in focus.",
+    "published_at": "2026-11-27T16:05:09+08:00",
+    "stocks": [],
+    "uid": "bebe5a973bf536d0a2b0532da5fcfb85"
+  },
+  {
+    "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
+    "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+    "source": "CNBC Top",
+    "summary": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year.",
+    "published_at": "2026-11-27T14:50:38+08:00",
+    "stocks": [],
+    "uid": "d64703abff6b1ebc22cef13c26592cf6"
+  },
+  {
+    "title": "Fast cars, big money: Why sportswear races into Formula 1 as sponsorship spending soars 75%",
+    "url": "https://www.cnbc.com/2026/11/27/nike-formula-1-sportswear-brands-sponsorship-adidas-puma.html",
+    "source": "CNBC Top",
+    "summary": "Nike, Adidas and Puma are betting big on Formula 1 as the sport's cultural influence grows and younger audiences fuel its appeal.",
+    "published_at": "2026-11-27T13:46:04+08:00",
+    "stocks": [],
+    "uid": "8e84355bb855aaccd668a6d2ff1d09e3"
+  },
+  {
+    "title": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
+    "url": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html",
+    "source": "CNBC Top",
+    "summary": "Iran's foreign minister Abbas Araghchi said \"The incident is suspicious and looks like a precooked recipe for war.\"",
+    "published_at": "2026-11-27T11:30:23+08:00",
+    "stocks": [],
+    "uid": "0594dea02c469e182b102346422470fa"
+  },
+  {
+    "title": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
+    "url": "https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html",
+    "source": "CNBC Top",
+    "summary": "Sovereign wealth funds are increasingly originating deals, taking controlling stakes and building their own investment platforms.",
+    "published_at": "2026-11-27T08:22:29+08:00",
+    "stocks": [],
+    "uid": "a4441d3484c2efa2b7b4e8ee5ce9e7da"
+  },
+  {
+    "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
+    "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+    "source": "CNBC Top",
+    "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
+    "published_at": "2026-11-27T05:13:17+08:00",
+    "stocks": [],
+    "uid": "cde0fd0e5f024933968dc2ee524ebc31"
+  },
+  {
+    "title": "Dan Carney Has Died. He Co-Founded Pizza Hut and Then Made It Ubiquitous.",
+    "url": "https://www.nytimes.com/2026/11/26/business/dan-carney-dead.html",
+    "source": "NYT Business",
+    "summary": "The franchise with the iconic red roof began small, in a tiny brick hut in Kansas. Little more than a decade later, it was the world’s biggest pizza chain. He was 95.",
+    "published_at": "2026-11-27T04:37:15+08:00",
+    "stocks": [],
+    "uid": "5fdb7c2c6bba20add886971095d9a25a"
+  },
+  {
+    "title": "European Central Bank Chooses Pablo Hernández de Cos as Next President",
+    "url": "https://www.nytimes.com/2026/11/26/business/ecb-pablo-hernandez-de-cos.html",
+    "source": "NYT Business",
+    "summary": "The early exit of Christine Lagarde as president of the European Central Bank, and two looming vacancies on the board, will make way for new leadership at the institution.",
+    "published_at": "2026-11-27T03:41:35+08:00",
+    "stocks": [],
+    "uid": "92bf94df80afb44b5421245f6db77046"
+  },
+  {
+    "title": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
+    "url": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
+    "source": "CNBC Top",
+    "summary": "The microdrama category has exploded at a time when traditional forms of media face waning interest and YouTube claims more viewing hours.",
+    "published_at": "2026-11-27T02:27:43+08:00",
+    "stocks": [],
+    "uid": "918f3249e3c9a7d67bce8ba106c31ea5"
+  },
+  {
+    "title": "Semiconductor chips are the new oil. Here's why",
+    "url": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+    "source": "CNBC Finance",
+    "summary": "Semiconductor exports overtook oil and gas for the first time in 2026, as the AI boom fueled chip demand.",
+    "published_at": "2026-11-27T01:52:15+08:00",
+    "stocks": [],
+    "uid": "c247266490bfdbadb14fe93006888723"
+  },
+  {
+    "title": "EQS-PVR: NORMA Group SE: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
+    "url": "https://markets.businessinsider.com/news/stocks/eqs-pvr-norma-group-se-release-according-to-article-40-section-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution-1036803706",
+    "source": "Business Insider",
+    "summary": "&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;\n\n\nEQS Voting Rights Announcement: NORMA Group SE\n\n\n\n&lt;br/&gt;\n\n\nNORMA Group SE: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution &lt;br/&gt;&lt;br/&gt;\n\n\n\n\n\n\n26.11.2026 / 18:10 CET/CEST&lt;br/&gt;\n\n\nDissemination of a Voting Rights...",
+    "published_at": "2026-11-27T01:10:01+08:00",
+    "stocks": [],
+    "uid": "812772c219dc59e0e2f3a281eeaed704"
+  },
+  {
+    "title": "Revolve Renewable Power reports Q1 results",
+    "url": "https://seekingalpha.com/news/4676900-revolve-renewable-power-reports-q1-results?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-11-27T01:08:05+08:00",
+    "stocks": [],
+    "uid": "0d3104bfe93b94fa3f461004db79053d"
+  },
+  {
+    "title": "RYSE GLOBAL Prepares Q4 2026 Launch of Invite-Only Trading Community Built Around Education",
+    "url": "https://markets.businessinsider.com/news/currencies/ryse-global-prepares-q4-2026-launch-of-invite-only-trading-community-built-around-education-1036803727",
+    "source": "Business Insider",
+    "summary": "&lt;img src=&quot;https://app.financewire.com/storage/uploads/users/RYSE_GLOBAL_-_Business_Insider_photo_1795710494i8MVApagDJ.jpg&quot; alt=&quot;Featured Image&quot; /&gt;&lt;p class=&quot;sc-hNeXkk fBcvQE&quot;&gt;Dubai, UAE, November 26th, 2026, FinanceWire&lt;br&gt;The ecosystem, whose name stands for Rewards Success Ecosystem, combines a members' community, upcoming...",
+    "published_at": "2026-11-27T01:07:04+08:00",
+    "stocks": [],
+    "uid": "be43d6e151df3c7a4f28594606525332"
+  },
+  {
+    "title": "EQS-PVR: K+S Aktiengesellschaft: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
+    "url": "https://markets.businessinsider.com/news/stocks/eqs-pvr-k-s-aktiengesellschaft-release-according-to-article-40-section-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution-1036803664",
+    "source": "Business Insider",
+    "summary": "&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;\n\n\nEQS Voting Rights Announcement: K+S Aktiengesellschaft\n\n\n\n&lt;br/&gt;\n\n\nK+S Aktiengesellschaft: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution &lt;br/&gt;&lt;br/&gt;\n\n\n\n\n\n\n26.11.2026 / 18:05 CET/CEST&lt;br/&gt;\n\n\nDissemination of a Voting...",
+    "published_at": "2026-11-27T01:05:01+08:00",
+    "stocks": [],
+    "uid": "784011ebaa29c89669928854170915d9"
+  },
+  {
+    "title": "EQS-PVR: NORMA Group SE: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
+    "url": "https://markets.businessinsider.com/news/stocks/eqs-pvr-norma-group-se-release-according-to-article-40-section-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution-1036803661",
+    "source": "Business Insider",
+    "summary": "&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;\n\n\nEQS Voting Rights Announcement: NORMA Group SE\n\n\n\n&lt;br/&gt;\n\n\nNORMA Group SE: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution &lt;br/&gt;&lt;br/&gt;\n\n\n\n\n\n\n26.11.2026 / 18:05 CET/CEST&lt;br/&gt;\n\n\nDissemination of a Voting Rights...",
+    "published_at": "2026-11-27T01:05:01+08:00",
+    "stocks": [],
+    "uid": "836ef08b14e7a39356b009b1ec1d0013"
+  },
+  {
+    "title": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say",
+    "url": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html",
+    "source": "CNBC Top",
+    "summary": "A new BIS rule was intended to close \"loopholes,\" U.S. Trade Representative Jamieson Greer told CNBC's \"Squawk Box\" on Wednesday.",
+    "published_at": "2026-11-27T01:04:54+08:00",
+    "stocks": [],
+    "uid": "b4fa573cd405c4196bea1324259b98ee"
+  },
+  {
+    "title": "Robosense Technology reports Q3 results",
+    "url": "https://seekingalpha.com/news/4676899-robosense-technology-reports-q3-results?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-11-27T01:04:24+08:00",
+    "stocks": [],
+    "uid": "11b8f36b2eb41bfb6b2a0d2ca940703a"
+  },
+  {
+    "title": "Trump’s Latest Tariffs Revive Focus on Pressuring China",
+    "url": "https://www.nytimes.com/2026/11/26/business/trump-tariffs-asia.html",
+    "source": "NYT Business",
+    "summary": "President Trump sent a message to trading partners across Asia, many of which depend on trade and investment from both the United States and China, that he is ready to escalate tariffs.",
+    "published_at": "2026-11-27T01:03:32+08:00",
+    "stocks": [],
+    "uid": "f5bd3aa50f6cfa03cbd71d14ba5eedf9"
+  },
+  {
+    "title": "YieldMax™ GOOGL Option Income Strategy ETF declares $0.0648 dividend",
+    "url": "https://seekingalpha.com/news/4676898-yieldmax-googl-option-income-strategy-etf-declares-0_0648-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-11-27T01:02:23+08:00",
+    "stocks": [],
+    "uid": "0696438432a4837f8b5dff9eaff92854"
+  },
+  {
+    "title": "YieldMax HIMS Option Income Strategy ETF declares $0.0823 dividend",
+    "url": "https://seekingalpha.com/news/4676897-yieldmax-hims-option-income-strategy-etf-declares-0_0823-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-11-27T01:01:49+08:00",
+    "stocks": [],
+    "uid": "4a985edd7924dba94b4528942f2d1c05"
+  },
+  {
+    "title": "YieldMax INTC Option Income Strategy ETF declares $0.2391 dividend",
+    "url": "https://seekingalpha.com/news/4676896-yieldmax-intc-option-income-strategy-etf-declares-0_2391-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-11-27T01:01:17+08:00",
+    "stocks": [],
+    "uid": "54fd76a770ab88d3531063a4809fc4ae"
+  },
+  {
+    "title": "YieldMax MSTR Short Option Income Strategy ETF declares $0.4353 dividend",
+    "url": "https://seekingalpha.com/news/4676895-yieldmax-mstr-short-option-income-strategy-etf-declares-0_4353-dividend?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+    "source": "Business Insider",
+    "summary": "",
+    "published_at": "2026-11-27T01:00:50+08:00",
+    "stocks": [],
+    "uid": "9e90f833ca452761a14d9390169c1887"
+  },
+  {
+    "title": "Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs",
+    "url": "https://www.cnbc.com/2026/11/26/nvidias-volatile-swings-expose-risks-of-single-stock-etfs.html",
+    "source": "CNBC Finance",
+    "summary": "ETF Action founding partner Mike Akins and GraniteShares CEO Will Rhind react to Nvidia's  sharp losses and latest comeback.",
+    "published_at": "2026-11-27T00:00:01+08:00",
+    "stocks": [],
+    "uid": "f33db60d959dba14545cceb4a52c21c9"
+  },
+  {
+    "title": "Who Picked This Gift? My A.I. Holiday Shopper.",
+    "url": "https://www.nytimes.com/2026/11/26/business/holiday-shopping-ai-agents.html",
+    "source": "NYT Business",
+    "summary": "From virtual agents on A.I. platforms to store helpers like Walmart’s Sparky, consumers are using the technology to save money and time.",
+    "published_at": "2026-11-26T23:13:32+08:00",
+    "stocks": [],
+    "uid": "c938a03cac2bd20177435c3208a09f03"
+  },
+  {
+    "title": "Data Center Developer Wanted to Build Up, Not Out. Kansas City Said No.",
+    "url": "https://www.nytimes.com/2026/11/26/business/energy-environment/vertical-data-center-kansas-city.html",
+    "source": "NYT Business",
+    "summary": "The facilities that power A.I. and other big data needs are in high demand but widely despised. Some developers are trying to build them up instead of out.",
+    "published_at": "2026-11-26T23:12:12+08:00",
+    "stocks": [],
+    "uid": "2073021803dde9022c3e36a38a20c83e"
+  },
+  {
+    "title": "Democrats Confront a Familiar Question: How Are You Going to Pay for That?",
+    "url": "https://www.nytimes.com/2026/11/26/business/democrats-congress-agenda-taxes-spending.html",
+    "source": "NYT Business",
+    "summary": "Many Democratic plans are unlikely to become law under President Trump. But the party is still grappling with the difficult budget math of its agenda.",
+    "published_at": "2026-11-26T22:50:28+08:00",
+    "stocks": [],
+    "uid": "ab3277a9c2045c44dba3d3067104a7b3"
+  },
+  {
+    "title": "What is ‘texture-maxxing’? The food trend putting crunch on the menu",
+    "url": "https://www.cnbc.com/2026/11/26/texture-maxxing-food-trends-gen-z.html",
+    "source": "CNBC Top",
+    "summary": "Texture-maxxing is the latest food trend taking social media by storm as consumers, driven by aesthetics and taste, are now looking for a sensory experience too.",
+    "published_at": "2026-11-26T21:34:51+08:00",
+    "stocks": [],
+    "uid": "fdf3b4d975f038f7b66dedb1dc52f282"
+  },
+  {
     "title": "Is Micron Stock a Buy After HPE Said Memory Will Stay Scarce Into 2028?",
     "url": "https://www.fool.com/investing/2026/11/26/is-micron-stock-a-buy-after-hpe-said-memory-will-stay-scarce-into-2028/?source=iedfolrf0000001",
     "source": "Motley Fool",
@@ -63,6 +1000,15 @@
     "summary_en": "",
     "title_zh": "隨著交易員擺脫美國最新關稅打擊，股市上漲",
     "summary_zh": ""
+  },
+  {
+    "title": "Planes, trains and automobiles: The best ways to beat travel fatigue—so you can come home feeling rested and fulfilled",
+    "url": "https://www.cnbc.com/make-it/2026/11/26/travel-fatigue-holiday-tips.html",
+    "source": "CNBC Top",
+    "summary": "Visiting loved ones for the holidays? Here's how to manage the travel fatigue, from a travel expert and a sleep medicine specialist.",
+    "published_at": "2026-11-26T21:00:01+08:00",
+    "stocks": [],
+    "uid": "7ec138a4c4ecb0184c826d3876bb6cab"
   },
   {
     "title": "Factbox-Airlines strained by Iran-war fuel price shock",
